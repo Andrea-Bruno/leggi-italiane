@@ -130,4 +130,4 @@ python -m unittest discover -s tests
 Il codice di questo repository è distribuito con licenza MIT (vedi [LICENSE](LICENSE)).
 I testi degli atti normativi non sono coperti da diritto d'autore (art. 5 della legge
 633/1941); i dati sono trascritti da Normattiva, il portale della legge vigente curato
-dall'Istituto Poligrafico e Zecca dello Stato.
+dall'Istituto Poligrafico e Zecca dello Stato. Vedi anche [NOTICE](NOTICE).
