@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "251",
+    "rubrica": "Inadempimento di contratti di forniture in tempo di guerra",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art251"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in tempo di guerra, non adempie in tutto o in parte gli obblighi che gli derivano da un contratto di fornitura di cose o di opere concluso con lo Stato o con un altro ente pubblico o con un'impresa esercente servizi pubblici o di pubblica necessita', per i bisogni delle forze armate dello Stato o della popolazione, e' punito con la reclusione da tre a dieci anni e con la multa pari al triplo del valore della cosa o dell'opera che egli avrebbe dovuto fornire e, in ogni caso, non inferiore a lire diecimila. Se l'inadempimento, totale o parziale, del contratto e' dovuto a colpa, le pene sono ridotte alla meta'. Le stesse disposizioni si applicano ai subfornitori, ai mediatori e ai rappresentanti dei fornitori, allorche' essi, violando i loro obblighi contrattuali, hanno cagionato l'inadempimento del contratto di fornitura.",
+    "con_marcatori": "Art. 251. (Inadempimento di contratti di forniture in tempo di guerra) Chiunque, in tempo di guerra, non adempie in tutto o in parte gli obblighi che gli derivano da un contratto di fornitura di cose o di opere concluso con lo Stato o con un altro ente pubblico o con un'impresa esercente servizi pubblici o di pubblica necessita', per i bisogni delle forze armate dello Stato o della popolazione, e' punito con la reclusione da tre a dieci anni e con la multa pari al triplo del valore della cosa o dell'opera che egli avrebbe dovuto fornire e, in ogni caso, non inferiore a lire diecimila. Se l'inadempimento, totale o parziale, del contratto e' dovuto a colpa, le pene sono ridotte alla meta'. Le stesse disposizioni si applicano ai subfornitori, ai mediatori e ai rappresentanti dei fornitori, allorche' essi, violando i loro obblighi contrattuali, hanno cagionato l'inadempimento del contratto di fornitura.",
+    "caratteri": 841
+  },
+  "note": [],
+  "impronta": "sha256:83bb4eb7f088ccba2eb10286548b6728e8f37903ef09012dd2fed9a7d0bbae48"
+}

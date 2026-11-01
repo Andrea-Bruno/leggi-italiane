@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "291",
+    "rubrica": "Vilipendio alla nazione italiana",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art291"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque pubblicamente vilipende la nazione italiana e' punito con la multa da euro 1.000 a euro 5.000.",
+    "con_marcatori": "Art. 291. (Vilipendio alla nazione italiana) Chiunque pubblicamente vilipende la nazione italiana e' punito ((con la multa da euro 1.000 a euro 5.000)).",
+    "caratteri": 103
+  },
+  "note": [],
+  "impronta": "sha256:e62b067cfb7d3797a16139d612c5606e9531c43419d4553e9ef28df33cd81dc5"
+}

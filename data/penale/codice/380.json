@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "380",
+    "rubrica": "Patrocinio o consulenza infedele",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art380"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patrocinatore o il consulente tecnico, che, rendendosi infedele ai suoi doveri professionali, arreca nocumento agli interessi della parte da lui difesa, assistita o rappresentata dinanzi all' Autorita' giudiziaria o alla Corte penale internazionale, e' punito con la reclusione da uno a tre anni e con la multa non inferiore a lire cinquemila. La pena e' aumentata: 1° se il colpevole ha commesso il fatto, colludendo con la parte avversaria; 2° se il fatto e' stato commesso a danno di un imputato. Si applicano la reclusione da tre a dieci anni e la multa non inferiore a lire diecimila, se il fatto e' commesso a danno di persona imputata di un delitto per il quale la legge commina la pena di morte o l'ergastolo ovvero la reclusione superiore a cinque anni.",
+    "con_marcatori": "Art. 380. (Patrocinio o consulenza infedele) Il patrocinatore o il consulente tecnico, che, rendendosi infedele ai suoi doveri professionali, arreca nocumento agli interessi della parte da lui difesa, assistita o rappresentata dinanzi all' Autorita' giudiziaria ((o alla Corte penale internazionale)), e' punito con la reclusione da uno a tre anni e con la multa non inferiore a lire cinquemila. La pena e' aumentata: 1° se il colpevole ha commesso il fatto, colludendo con la parte avversaria; 2° se il fatto e' stato commesso a danno di un imputato. Si applicano la reclusione da tre a dieci anni e la multa non inferiore a lire diecimila, se il fatto e' commesso a danno di persona imputata di un delitto per il quale la legge commina la pena di morte o l'ergastolo ovvero la reclusione superiore a cinque anni.(5)",
+    "caratteri": 765
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:71437352e116cb66f04b77d3ca4f7edc2156f1c4cc419a6e84eacd33afd04f34"
+}

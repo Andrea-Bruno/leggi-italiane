@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1816",
+    "rubrica": "Termine per la restituzione fissato dalle parti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1816"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il termine per la restituzione si presume stipulato a favore di entrambe le parti e, se il mutuo e' a titolo gratuito, a favore del mutuatario.",
+    "con_marcatori": "Art. 1816. (Termine per la restituzione fissato dalle parti). Il termine per la restituzione si presume stipulato a favore di entrambe le parti e, se il mutuo e' a titolo gratuito, a favore del mutuatario.",
+    "caratteri": 143
+  },
+  "note": [],
+  "impronta": "sha256:ffca1e34c09f45add0584800af72d57b3de9fcfec0e29ddce1e7430e607ea934"
+}

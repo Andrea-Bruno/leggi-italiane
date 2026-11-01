@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "246",
+    "rubrica": "Corruzione del cittadino da parte dello straniero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art246"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il cittadino, che, anche indirettamente, riceve o si fa promettere dallo straniero, per se' o per altri, denaro o qualsiasi utilita', o soltanto ne accetta la promessa, al fine di compiere atti contrari agli interessi nazionali, e' punito, se il fatto non costituisce un piu' grave reato, con la reclusione da tre a dieci anni e con la multa da lire cinquemila a ventimila. Alla stessa pena soggiace lo straniero che da' o promette il denaro o l'utilita'. La pena e' aumentata: 1° se il fatto e' commesso in tempo di guerra; 2° se il denaro o l'utilita' sono dati o promessi per una propaganda col mezzo della stampa.",
+    "con_marcatori": "Art. 246. (Corruzione del cittadino da parte dello straniero) Il cittadino, che, anche indirettamente, riceve o si fa promettere dallo straniero, per se' o per altri, denaro o qualsiasi utilita', o soltanto ne accetta la promessa, al fine di compiere atti contrari agli interessi nazionali, e' punito, se il fatto non costituisce un piu' grave reato, con la reclusione da tre a dieci anni e con la multa da lire cinquemila a ventimila. Alla stessa pena soggiace lo straniero che da' o promette il denaro o l'utilita'. La pena e' aumentata: 1° se il fatto e' commesso in tempo di guerra; 2° se il denaro o l'utilita' sono dati o promessi per una propaganda col mezzo della stampa.",
+    "caratteri": 617
+  },
+  "note": [],
+  "impronta": "sha256:653fe730f6735aecb23c70dd1834806fbb3d2ea3fcf2f585fa5675737df4e2a7"
+}

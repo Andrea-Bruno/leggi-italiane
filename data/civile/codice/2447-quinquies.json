@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2447-quinquies",
+    "rubrica": "Diritti dei creditori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2447-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Decorso il termine di cui al secondo comma del precedente articolo ovvero dopo l'iscrizione nel registro delle imprese del provvedimento del tribunale ivi previsto, i creditori della societa' non possono far valere alcun diritto sul patrimonio destinato allo specifico affare ne', salvo che per la parte spettante alla societa', sui frutti o proventi da esso derivanti. Qualora nel patrimonio siano compresi immobili o beni mobili iscritti in pubblici registri, la disposizione del precedente comma non si applica fin quando la destinazione allo specifico affare non e' trascritta nei rispettivi registri. Qualora la deliberazione prevista dall'articolo 2447-ter non disponga diversamente, per le obbligazioni contratte in relazione allo specifico affare la societa' risponde nei limiti del patrimonio ad esso destinato. Resta salva tuttavia la responsabilita' illimitata della societa' per le obbligazioni derivanti da fatto illecito. Gli atti compiuti in relazione allo specifico affare debbono recare espressa menzione del vincolo di destinazione; in mancanza ne risponde la societa' con il suo patrimonio residuo.",
+    "con_marcatori": "Art. 2447-quinquies. (( (Diritti dei creditori).)) ((Decorso il termine di cui al secondo comma del precedente articolo ovvero dopo l'iscrizione nel registro delle imprese del provvedimento del tribunale ivi previsto, i creditori della societa' non possono far valere alcun diritto sul patrimonio destinato allo specifico affare ne', salvo che per la parte spettante alla societa', sui frutti o proventi da esso derivanti. Qualora nel patrimonio siano compresi immobili o beni mobili iscritti in pubblici registri, la disposizione del precedente comma non si applica fin quando la destinazione allo specifico affare non e' trascritta nei rispettivi registri. Qualora la deliberazione prevista dall'articolo 2447-ter non disponga diversamente, per le obbligazioni contratte in relazione allo specifico affare la societa' risponde nei limiti del patrimonio ad esso destinato. Resta salva tuttavia la responsabilita' illimitata della societa' per le obbligazioni derivanti da fatto illecito. Gli atti compiuti in relazione allo specifico affare debbono recare espressa menzione del vincolo di destinazione; in mancanza ne risponde la societa' con il suo patrimonio residuo.))",
+    "caratteri": 1117
+  },
+  "note": [],
+  "impronta": "sha256:dc84fd3393d1b8b945f3a701bd94af1949a139b3238e0be3cf681bcc6aca6375"
+}

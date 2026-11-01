@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2341-ter",
+    "rubrica": "Pubblicita' dei patti parasociali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2341-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle societa' che fanno ricorso al mercato del capitale di rischio o con azioni negoziate in sistemi multilaterali di negoziazione i patti parasociali devono essere comunicati alla societa' e dichiarati in apertura di ogni assemblea. La dichiarazione deve essere trascritta nel verbale e questo deve essere depositato presso l'ufficio del registro delle imprese. In caso di mancanza della dichiarazione prevista dal comma precedente i possessori delle azioni cui si riferisce il patto parasociale non possono esercitare il diritto di voto e le deliberazioni assembleari adottate con il loro voto determinante sono impugnabili a norma dell'articolo 2377.",
+    "con_marcatori": "Art. 2341-ter (Pubblicita' dei patti parasociali). Nelle societa' che fanno ricorso al mercato del capitale di rischio ((o con azioni negoziate in sistemi multilaterali di negoziazione)) i patti parasociali devono essere comunicati alla societa' e dichiarati in apertura di ogni assemblea. La dichiarazione deve essere trascritta nel verbale e questo deve essere depositato presso l'ufficio del registro delle imprese. In caso di mancanza della dichiarazione prevista dal comma precedente i possessori delle azioni cui si riferisce il patto parasociale non possono esercitare il diritto di voto e le deliberazioni assembleari adottate con il loro voto determinante sono impugnabili a norma dell'articolo 2377.",
+    "caratteri": 654
+  },
+  "note": [],
+  "impronta": "sha256:95178244fe60ae3d004ab740cf549762cc2172789fda2410f2f0e4856a54ee42"
+}

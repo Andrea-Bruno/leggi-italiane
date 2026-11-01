@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1292",
+    "rubrica": "Nozione della solidarieta'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1292"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'obbligazione e' in solido quando piu' debitori sono obbligati tutti per la medesima prestazione, in modo che ciascuno puo' essere costretto all'adempimento per la totalita' e l'adempimento da parte di uno libera gli altri; oppure quando tra piu' creditori ciascuno ha diritto di chiedere l'adempimento dell'intera obbligazione e l'adempimento conseguito da uno di essi libera il debitore verso tutti i creditori.",
+    "con_marcatori": "Art. 1292. (Nozione della solidarieta'). L'obbligazione e' in solido quando piu' debitori sono obbligati tutti per la medesima prestazione, in modo che ciascuno puo' essere costretto all'adempimento per la totalita' e l'adempimento da parte di uno libera gli altri; oppure quando tra piu' creditori ciascuno ha diritto di chiedere l'adempimento dell'intera obbligazione e l'adempimento conseguito da uno di essi libera il debitore verso tutti i creditori.",
+    "caratteri": 414
+  },
+  "note": [],
+  "impronta": "sha256:f606eb90a8a9023688ba4c25ee143f61160d6ec776989a6598b71ac0f31470a1"
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "420",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art420"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 13 MAGGIO 1978, N. 180",
+        "testo": "ARTICOLO ABROGATO DALLA L. 13 MAGGIO 1978, N. 180"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 13 MAGGIO 1978, N. 180",
+    "con_marcatori": "Art. 420. ARTICOLO ABROGATO DALLA L. 13 MAGGIO 1978, N. 180 ((146))",
+    "caratteri": 49
+  },
+  "note": [
+    {
+      "numero": 146,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 9 gennaio 2004, n. 6",
+          "urn": "urn:nir:stato:legge:2004-01-09;6",
+          "data": "2004-01-09",
+          "numero": "6",
+          "data_gazzetta": "2004-01-19"
+        },
+        {
+          "denominazione": "codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 9 gennaio 2004, n. 6 ha disposto (con l'art. 4, comma 1) che \"Nel titolo XII del libro primo del codice civile, prima dell'articolo 414 sono inserite le seguenti parole: \"Capo II. - Della interdizione, della inabilitazione e della incapacita' naturale\".\""
+    }
+  ],
+  "impronta": "sha256:63e5598ffdde43e6a0d1d3368f0fa41be185211d2569fec61463a6302bea4e08"
+}

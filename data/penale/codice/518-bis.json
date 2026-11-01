@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-bis",
+    "rubrica": "Furto di beni culturali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque si impossessa di un bene culturale mobile altrui, sottraendolo a chi lo detiene, al fine di trarne profitto, per se' o per altri, o si impossessa di beni culturali appartenenti allo Stato, in quanto rinvenuti nel sottosuolo o nei fondali marini, e' punito con la reclusione da due a sei anni e con la multa da euro 927 a euro 1.500. La pena e' della reclusione da quattro a dieci anni e della multa da euro 927 a euro 2.000 se il reato e' aggravato da una o piu' delle circostanze previste nel primo comma dell'articolo 625 o se il furto di beni culturali appartenenti allo Stato, in quanto rinvenuti nel sottosuolo o nei fondali marini, e' commesso da chi abbia ottenuto la concessione di ricerca prevista dalla legge.",
+    "con_marcatori": "Art. 518-bis (( (Furto di beni culturali). )) ((Chiunque si impossessa di un bene culturale mobile altrui, sottraendolo a chi lo detiene, al fine di trarne profitto, per se' o per altri, o si impossessa di beni culturali appartenenti allo Stato, in quanto rinvenuti nel sottosuolo o nei fondali marini, e' punito con la reclusione da due a sei anni e con la multa da euro 927 a euro 1.500. La pena e' della reclusione da quattro a dieci anni e della multa da euro 927 a euro 2.000 se il reato e' aggravato da una o piu' delle circostanze previste nel primo comma dell'articolo 625 o se il furto di beni culturali appartenenti allo Stato, in quanto rinvenuti nel sottosuolo o nei fondali marini, e' commesso da chi abbia ottenuto la concessione di ricerca prevista dalla legge.))",
+    "caratteri": 728
+  },
+  "note": [],
+  "impronta": "sha256:9d4eff590c1e11f71dfdfb53999f558c6ac70db133401674377066e67532fc49"
+}

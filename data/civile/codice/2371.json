@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2371",
+    "rubrica": "Presidenza dell'assemblea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2371"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea e' presieduta dalla persona indicata nello statuto o, in mancanza, da quella eletta con il voto della maggioranza dei presenti. Il presidente e' assistito da un segretario designato nello stesso modo. Il presidente dell'assemblea verifica la regolarita' della costituzione, accerta l'identita' e la legittimazione dei presenti, regola il suo svolgimento ed accerta i risultati delle votazioni; degli esiti di tali accertamenti deve essere dato conto nel verbale. L'assistenza del segretario non e' necessaria quando il verbale dell'assemblea e' redatto da un notaio.",
+    "con_marcatori": "Art. 2371. (( (Presidenza dell'assemblea). )) ((L'assemblea e' presieduta dalla persona indicata nello statuto o, in mancanza, da quella eletta con il voto della maggioranza dei presenti. Il presidente e' assistito da un segretario designato nello stesso modo. Il presidente dell'assemblea verifica la regolarita' della costituzione, accerta l'identita' e la legittimazione dei presenti, regola il suo svolgimento ed accerta i risultati delle votazioni; degli esiti di tali accertamenti deve essere dato conto nel verbale. L'assistenza del segretario non e' necessaria quando il verbale dell'assemblea e' redatto da un notaio.))",
+    "caratteri": 578
+  },
+  "note": [],
+  "impronta": "sha256:8d2430299730938dbe7d9b7948e673296892138c6472725ce153538d13624f08"
+}

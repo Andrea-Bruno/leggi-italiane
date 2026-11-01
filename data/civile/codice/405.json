@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "405",
+    "rubrica": "Decreto di nomina dell'amministratore di sostegno. Durata dell'incarico e relativa pubblicita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art405"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il giudice tutelare provvede entro sessanta giorni dalla data di presentazione della richiesta alla nomina dell'amministratore di sostegno con decreto motivato immediatamente esecutivo, su ricorso di uno dei soggetti indicati nell'articolo 406. Il decreto che riguarda un minore non emancipato puo' essere emesso solo nell'ultimo anno della sua minore eta' e diventa esecutivo a decorrere dal momento in cui la maggiore eta' e' raggiunta. Se l'interessato e' un interdetto o un inabilitato, il decreto e' esecutivo dalla pubblicazione della sentenza di revoca dell'interdizione o dell'inabilitazione. Qualora ne sussista la necessita', il giudice tutelare adotta anche d'ufficio i provvedimenti urgenti per la cura della persona interessata e per la conservazione e l'amministrazione del suo patrimonio. Puo' procedere alla nomina di un amministratore di sostegno provvisorio indicando gli atti che e' autorizzato a compiere. Il decreto di nomina dell'amministratore di sostegno deve contenere l'indicazione: 1) delle generalita' della persona beneficiaria e dell'amministratore di sostegno; 2) della durata dell'incarico, che puo' essere anche a tempo indeterminato; 3) dell'oggetto dell'incarico e degli atti che l'amministratore di sostegno ha il potere di compiere in nome e per conto del beneficiario; 4) degli atti che il beneficiario puo' compiere solo con l'assistenza dell'amministratore di sostegno; 5) dei limiti, anche periodici, delle spese che l'amministratore di sostegno puo' sostenere con utilizzo delle somme di cui il beneficiario ha o puo' avere la disponibilita'; 6) della periodicita' con cui l'amministratore di sostegno deve riferire al giudice circa l'attivita' svolta e le condizioni di vita personale e sociale del beneficiario. Se la durata dell'incarico e' a tempo determinato, il giudice tutelare puo' prorogarlo con decreto motivato pronunciato anche d'ufficio prima della scadenza del termine. Il decreto di apertura dell'amministrazione di sostegno, il decreto di chiusura ed ogni altro provvedimento assunto dal giudice tutelare nel corso dell'amministrazione di sostegno devono essere immediatamente annotati a cura del cancelliere nell'apposito registro. Il decreto di apertura dell'amministrazione di sostegno e il decreto di chiusura devono essere comunicati, entro dieci giorni, all'ufficiale dello stato civile per le annotazioni in margine all'atto di nascita del beneficiario. Se la durata dell'incarico e' a tempo determinato, le annotazioni devono essere cancellate alla scadenza del termine indicato nel decreto di apertura o in quello eventuale di proroga.",
+    "con_marcatori": "Art. 405. (( (Decreto di nomina dell'amministratore di sostegno. Durata dell'incarico e relativa pubblicita'). )) ((Il giudice tutelare provvede entro sessanta giorni dalla data di presentazione della richiesta alla nomina dell'amministratore di sostegno con decreto motivato immediatamente esecutivo, su ricorso di uno dei soggetti indicati nell'articolo 406. Il decreto che riguarda un minore non emancipato puo' essere emesso solo nell'ultimo anno della sua minore eta' e diventa esecutivo a decorrere dal momento in cui la maggiore eta' e' raggiunta. Se l'interessato e' un interdetto o un inabilitato, il decreto e' esecutivo dalla pubblicazione della sentenza di revoca dell'interdizione o dell'inabilitazione. Qualora ne sussista la necessita', il giudice tutelare adotta anche d'ufficio i provvedimenti urgenti per la cura della persona interessata e per la conservazione e l'amministrazione del suo patrimonio. Puo' procedere alla nomina di un amministratore di sostegno provvisorio indicando gli atti che e' autorizzato a compiere. Il decreto di nomina dell'amministratore di sostegno deve contenere l'indicazione: 1) delle generalita' della persona beneficiaria e dell'amministratore di sostegno; 2) della durata dell'incarico, che puo' essere anche a tempo indeterminato; 3) dell'oggetto dell'incarico e degli atti che l'amministratore di sostegno ha il potere di compiere in nome e per conto del beneficiario; 4) degli atti che il beneficiario puo' compiere solo con l'assistenza dell'amministratore di sostegno; 5) dei limiti, anche periodici, delle spese che l'amministratore di sostegno puo' sostenere con utilizzo delle somme di cui il beneficiario ha o puo' avere la disponibilita'; 6) della periodicita' con cui l'amministratore di sostegno deve riferire al giudice circa l'attivita' svolta e le condizioni di vita personale e sociale del beneficiario. Se la durata dell'incarico e' a tempo determinato, il giudice tutelare puo' prorogarlo con decreto motivato pronunciato anche d'ufficio prima della scadenza del termine. Il decreto di apertura dell'amministrazione di sostegno, il decreto di chiusura ed ogni altro provvedimento assunto dal giudice tutelare nel corso dell'amministrazione di sostegno devono essere immediatamente annotati a cura del cancelliere nell'apposito registro. Il decreto di apertura dell'amministrazione di sostegno e il decreto di chiusura devono essere comunicati, entro dieci giorni, all'ufficiale dello stato civile per le annotazioni in margine all'atto di nascita del beneficiario. Se la durata dell'incarico e' a tempo determinato, le annotazioni devono essere cancellate alla scadenza del termine indicato nel decreto di apertura o in quello eventuale di proroga.))",
+    "caratteri": 2602
+  },
+  "note": [],
+  "impronta": "sha256:e506eebb2a295bca69fdc33cb0c320163553b4b6d9df6520b2e350b37e72355c"
+}

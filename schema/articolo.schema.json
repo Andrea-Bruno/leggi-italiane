@@ -1,0 +1,168 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/Andrea-Bruno/leggi-italiane/main/schema/articolo.schema.json",
+  "title": "Articolo di legge",
+  "description": "Un articolo di un codice italiano, con stato di vigenza accertato e note ufficiali di aggiornamento.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "codice", "articolo", "stato", "testo", "note", "impronta"],
+  "properties": {
+    "schema": { "const": "leggi-italiane/articolo@1" },
+    "codice": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "denominazione", "atto"],
+      "properties": {
+        "id": { "type": "string", "examples": ["civile", "penale"] },
+        "denominazione": { "type": "string" },
+        "atto": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["titolo", "denominazione", "urn", "urn_atto", "eli", "codice_redazionale", "gazzetta", "url"],
+          "properties": {
+            "titolo": { "type": ["string", "null"] },
+            "denominazione": { "type": ["string", "null"] },
+            "urn": { "type": "string", "pattern": "^urn:nir:" },
+            "urn_atto": { "type": ["string", "null"], "pattern": "^urn:nir:" },
+            "eli": { "type": ["string", "null"] },
+            "codice_redazionale": { "type": "string" },
+            "gazzetta": {
+              "type": ["object", "null"],
+              "additionalProperties": false,
+              "required": ["numero", "data"],
+              "properties": {
+                "numero": { "type": "integer" },
+                "data": { "type": "string", "format": "date" }
+              }
+            },
+            "url": { "type": "string", "format": "uri" }
+          }
+        }
+      }
+    },
+    "articolo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["numero", "rubrica", "sezione", "url"],
+      "properties": {
+        "numero": { "type": "string", "description": "Numero come pubblicato: 2043, 230-ter, 270-quinquies.1, 314/28.", "examples": ["2043", "613-bis"] },
+        "rubrica": { "type": ["string", "null"] },
+        "sezione": { "type": "string" },
+        "url": { "type": "string", "format": "uri" }
+      }
+    },
+    "stato": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["codice", "inapplicabile", "certezza", "motivazione", "parti_non_applicabili", "elementi"],
+      "properties": {
+        "codice": {
+          "enum": [
+            "vigente",
+            "abrogato",
+            "dichiarato_incostituzionale",
+            "parzialmente_inapplicabile",
+            "da_verificare",
+            "assente_dalla_fonte"
+          ]
+        },
+        "inapplicabile": {
+          "type": ["boolean", "null"],
+          "description": "true solo quando abrogazione o illegittimita' riguardano l'intero articolo; null quando la portata non e' determinabile."
+        },
+        "certezza": { "enum": ["alta", "media", "bassa"] },
+        "motivazione": { "type": "string" },
+        "parti_non_applicabili": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Commi indicati dalle pronunce, es. \"comma 3\". Vuoto quando non determinabili."
+        },
+        "elementi": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["tipo"],
+            "properties": {
+              "tipo": {
+                "enum": [
+                  "abrogazione_espressa",
+                  "abrogazione",
+                  "illegittimita_costituzionale",
+                  "revoca_illegittimita"
+                ]
+              },
+              "fonte": { "type": "string", "description": "Atto indicato dal testo consolidato, per l'abrogazione espressa." },
+              "testo": { "type": "string", "description": "Testo della formula di abrogazione riportata dalla fonte." },
+              "nota": { "type": "integer", "description": "Numero della nota di aggiornamento a cui si riferisce." },
+              "ambito": { "enum": ["intero", "commi", "parte", "non_determinato"] }
+            }
+          }
+        }
+      }
+    },
+    "testo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["vigente", "con_marcatori", "caratteri"],
+      "properties": {
+        "vigente": { "type": "string", "description": "Testo consolidato senza richiami alle note e senza doppie parentesi di modifica." },
+        "con_marcatori": { "type": "string", "description": "Testo come pubblicato, con ((n)) e ((testo modificato))." },
+        "caratteri": { "type": "integer" }
+      }
+    },
+    "note": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["numero", "effetto", "ambito", "parti", "atti", "sentenza", "testo"],
+        "properties": {
+          "numero": { "type": "integer" },
+          "effetto": {
+            "enum": [
+              "abrogazione",
+              "illegittimita_costituzionale",
+              "revoca_illegittimita",
+              "modifica",
+              "altro"
+            ]
+          },
+          "ambito": { "enum": ["intero", "commi", "parte", "non_determinato"] },
+          "parti": { "type": "array", "items": { "type": "string" } },
+          "atti": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["denominazione", "urn", "data", "numero", "data_gazzetta"],
+              "properties": {
+                "denominazione": { "type": "string" },
+                "urn": { "type": ["string", "null"] },
+                "data": { "type": ["string", "null"], "format": "date" },
+                "numero": { "type": ["string", "null"] },
+                "data_gazzetta": { "type": ["string", "null"], "format": "date" }
+              }
+            }
+          },
+          "sentenza": {
+            "type": ["object", "null"],
+            "additionalProperties": false,
+            "required": ["organo", "data", "numero"],
+            "properties": {
+              "organo": { "type": "string" },
+              "data": { "type": "string", "format": "date" },
+              "numero": { "type": "string" }
+            }
+          },
+          "testo": { "type": "string" }
+        }
+      }
+    },
+    "impronta": {
+      "type": "string",
+      "pattern": "^sha256:[0-9a-f]{64}$",
+      "description": "Impronta del contenuto normativo: cambia solo se cambiano testo, note o stato."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "382",
+    "rubrica": "Responsabilita' del tutore e del protutore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art382"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il tutore deve amministrare il patrimonio del minore con la diligenza del buon padre di famiglia. Egli risponde verso il minore di ogni danno a lui cagionato violando i propri doveri. Nella stessa responsabilita' incorre il protutore per cio' che riguarda i doveri del proprio ufficio.",
+    "con_marcatori": "Art. 382. (Responsabilita' del tutore e del protutore). Il tutore deve amministrare il patrimonio del minore con la diligenza del buon padre di famiglia. Egli risponde verso il minore di ogni danno a lui cagionato violando i propri doveri. Nella stessa responsabilita' incorre il protutore per cio' che riguarda i doveri del proprio ufficio.",
+    "caratteri": 285
+  },
+  "note": [],
+  "impronta": "sha256:bacbd3c1f7d1fe2415b6997dc05a1d7c336e7daa342167730c3576a1d9a5ccf0"
+}

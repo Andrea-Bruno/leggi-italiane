@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2907",
+    "rubrica": "Attivita' giurisdizionale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2907"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Alla tutela giurisdizionale dei diritti provvede l'autorita' giudiziaria su domanda di parte e, quando la legge lo dispone, anche su istanza del pubblico ministero o d'ufficio. La tutela giurisdizionale dei diritti, nell'interesse delle categorie professionali, e' attuata su domanda delle associazioni legalmente riconosciute, nei casi determinati dalla legge e con le forme da questa stabilite.",
+    "con_marcatori": "Art. 2907. (Attivita' giurisdizionale). Alla tutela giurisdizionale dei diritti provvede l'autorita' giudiziaria su domanda di parte e, quando la legge lo dispone, anche su istanza del pubblico ministero o d'ufficio. La tutela giurisdizionale dei diritti, nell'interesse delle categorie professionali, e' attuata su domanda delle associazioni legalmente riconosciute, nei casi determinati dalla legge e con le forme da questa stabilite.",
+    "caratteri": 396
+  },
+  "note": [],
+  "impronta": "sha256:c8e8ca73f33afd6e948d1bc85565939ca404943c864375347221d6b5db99f3de"
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "189",
+    "rubrica": "Ipoteca legale; sequestro",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art189"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Lo Stato ha ipoteca legale sui beni dell'imputato a garanzia del pagamento: 1° delle pene pecuniarie e di ogni altra somma dovuta all'erario dello Stato; 2° delle spese del procedimento; 3° delle spese relative al mantenimento del condannato negli stabilimenti di pena; 4° delle spese sostenute da un pubblico istituto sanitario, a titolo di cura e di alimenti per la persona offesa, durante l'infermita'; 5° delle somme dovute a titolo di risarcimento del danno, comprese le spese processuali; 6° delle spese anticipate dal difensore e delle somme a lui dovute a titolo di onorario. L'ipoteca legale non pregiudica il diritto degli interessati a iscrivere ipoteca giudiziale, dopo la sentenza di condanna, anche se non divenuta irrevocabile. Se vi e' fondata ragione di temere che manchino o si disperdano le garanzie delle obbligazioni per le quali e' ammessa l'ipoteca legale, puo' essere ordinato il sequestro dei beni mobili dell'imputato. Gli effetti dell'ipoteca o del sequestro cessano con la sentenza irrevocabile di proscioglimento. Se l'imputato offre cauzione, puo' non farsi luogo alla iscrizione dell'ipoteca legale o al sequestro. Per effetto del sequestro i crediti indicati in questo articolo si considerano privilegiati rispetto ad ogni altro credito non privilegiato di data anteriore e ai crediti sorti posteriormente, salvi, in ogni caso, i privilegi stabiliti a garanzia del pagamento di tributi.",
+    "con_marcatori": "Art. 189. (Ipoteca legale; sequestro) Lo Stato ha ipoteca legale sui beni dell'imputato a garanzia del pagamento: 1° delle pene pecuniarie e di ogni altra somma dovuta all'erario dello Stato; 2° delle spese del procedimento; 3° delle spese relative al mantenimento del condannato negli stabilimenti di pena; 4° delle spese sostenute da un pubblico istituto sanitario, a titolo di cura e di alimenti per la persona offesa, durante l'infermita'; 5° delle somme dovute a titolo di risarcimento del danno, comprese le spese processuali; 6° delle spese anticipate dal difensore e delle somme a lui dovute a titolo di onorario. L'ipoteca legale non pregiudica il diritto degli interessati a iscrivere ipoteca giudiziale, dopo la sentenza di condanna, anche se non divenuta irrevocabile. Se vi e' fondata ragione di temere che manchino o si disperdano le garanzie delle obbligazioni per le quali e' ammessa l'ipoteca legale, puo' essere ordinato il sequestro dei beni mobili dell'imputato. Gli effetti dell'ipoteca o del sequestro cessano con la sentenza irrevocabile di proscioglimento. Se l'imputato offre cauzione, puo' non farsi luogo alla iscrizione dell'ipoteca legale o al sequestro. Per effetto del sequestro i crediti indicati in questo articolo si considerano privilegiati rispetto ad ogni altro credito non privilegiato di data anteriore e ai crediti sorti posteriormente, salvi, in ogni caso, i privilegi stabiliti a garanzia del pagamento di tributi. ((116))",
+    "caratteri": 1418
+  },
+  "note": [
+    {
+      "numero": 116,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 luglio 1989, n. 271",
+          "urn": "urn:nir:stato:decretoLegislativo:1989-07-28;271",
+          "data": "1989-07-28",
+          "numero": "271",
+          "data_gazzetta": "1989-08-05"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 luglio 1989, n. 271, ha disposto (con l'art. 218, comma 1) che \"Sono abrogate le disposizioni del codice penale che prevedono l'ipoteca legale\"."
+    }
+  ],
+  "impronta": "sha256:8c0003a2407aa53aaafc4d07671f5bc13ac33478e7fed6bdabd89bcf628077a7"
+}

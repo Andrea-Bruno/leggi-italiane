@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1746",
+    "rubrica": "Obblighi dell'agente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1746"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nell'esecuzione dell'incarico l'agente deve tutelare gli interessi del preponente e agire con lealta' e buona fede. In particolare, deve adempiere l'incarico affidatogli in conformita' delle istruzioni ricevute e fornire al preponente le informazioni riguardanti le condizioni del mercato nella zona assegnatagli, e ogni altra informazione utile per valutare la convenienza dei singoli affari. E' nullo ogni patto contrario. Egli deve altresi' osservare gli obblighi che incombono al commissionario ad eccezione di quelli di cui all'articolo 1736, in quanto non siano esclusi dalla natura del contratto di agenzia. E' vietato il patto che ponga a carico dell'agente una responsabilita', anche solo parziale, per l'inadempimento del terzo. E' pero' consentito eccezionalmente alle parti di concordare di volta in volta la concessione di una apposita garanzia da parte dell'agente, purche' cio' avvenga con riferimento a singoli affari, di particolare natura ed importo, individualmente determinati; l'obbligo di garanzia assunto dall'agente non sia di ammontare piu' elevato della provvigione che per quell'affare l'agente medesimo avrebbe diritto a percepire; sia previsto per l'agente un apposito corrispettivo.",
+    "con_marcatori": "Art. 1746. (Obblighi dell'agente). Nell'esecuzione dell'incarico l'agente deve tutelare gli interessi del preponente e agire con lealta' e buona fede. In particolare, deve adempiere l'incarico affidatogli in conformita' delle istruzioni ricevute e fornire al preponente le informazioni riguardanti le condizioni del mercato nella zona assegnatagli, e ogni altra informazione utile per valutare la convenienza dei singoli affari. E' nullo ogni patto contrario. Egli deve altresi' osservare gli obblighi che incombono al commissionario ((ad eccezione di quelli di cui all'articolo 1736)), in quanto non siano esclusi dalla natura del contratto di agenzia. ((E' vietato il patto che ponga a carico dell'agente una responsabilita', anche solo parziale, per l'inadempimento del terzo. E' pero' consentito eccezionalmente alle parti di concordare di volta in volta la concessione di una apposita garanzia da parte dell'agente, purche' cio' avvenga con riferimento a singoli affari, di particolare natura ed importo, individualmente determinati; l'obbligo di garanzia assunto dall'agente non sia di ammontare piu' elevato della provvigione che per quell'affare l'agente medesimo avrebbe diritto a percepire; sia previsto per l'agente un apposito corrispettivo)).",
+    "caratteri": 1212
+  },
+  "note": [],
+  "impronta": "sha256:a7c3dd6cb81bce8621fb511827d2e7bf158325d8ca434a20a11a38b58e315763"
+}

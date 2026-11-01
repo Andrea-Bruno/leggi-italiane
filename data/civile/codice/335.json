@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "335",
+    "rubrica": "Riammissione nell'esercizio dell'amministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art335"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il genitore rimosso dall'amministrazione ed eventualmente privato dell'usufrutto legale puo' essere riammesso dal tribunale nell'esercizio dell'una e nel godimento dell'altro, quando sono cessati i motivi che hanno provocato il provvedimento.",
+    "con_marcatori": "Art. 335. (Riammissione nell'esercizio dell'amministrazione). Il genitore rimosso dall'amministrazione ed eventualmente privato dell'usufrutto legale puo' essere riammesso dal tribunale nell'esercizio dell'una e nel godimento dell'altro, quando sono cessati i motivi che hanno provocato il provvedimento.",
+    "caratteri": 242
+  },
+  "note": [],
+  "impronta": "sha256:8f4d26ea2004ed114fb97d3c0f89e1e7d8638b1aa8c6fb9e467db0f624ff2697"
+}

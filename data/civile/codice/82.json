@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "82",
+    "rubrica": "Matrimonio celebrato davanti a ministri del culto cattolico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art82"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il matrimonio celebrato davanti a un ministro del culto cattolico e' regolato in conformita' del Concordato con la Santa Sede e delle leggi speciali sulla materia.",
+    "con_marcatori": "Art. 82. (Matrimonio celebrato davanti a ministri del culto cattolico) Il matrimonio celebrato davanti a un ministro del culto cattolico e' regolato in conformita' del Concordato con la Santa Sede e delle leggi speciali sulla materia.",
+    "caratteri": 163
+  },
+  "note": [],
+  "impronta": "sha256:77095c4a4f43b455ed68495cf77b7b6df5d9b2201d67999aa784124e6066dfcf"
+}

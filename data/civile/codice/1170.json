@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1170",
+    "rubrica": "Azione di manutenzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1170"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi e' stato molestato nel possesso di un immobile, di un diritto reale sopra un immobile o di un'universalita' di mobili puo', entro l'anno dalla turbativa, chiedere la manutenzione del possesso medesimo. L'azione e' data se il possesso dura da oltre un anno, continuo e non interrotto, e non e' stato acquistato violentemente o clandestinamente. Qualora il possesso sia stato acquistato in modo violento o clandestino, l'azione puo' nondimeno esercitarsi, decorso un anno dal giorno in cui la violenza o la clandestinita' e' cessata. Anche colui che ha subito uno spoglio non violento o clandestino puo' chiedere di essere rimesso nel possesso, se ricorrono le condizioni indicate dal comma precedente.",
+    "con_marcatori": "Art. 1170. (Azione di manutenzione). Chi e' stato molestato nel possesso di un immobile, di un diritto reale sopra un immobile o di un'universalita' di mobili puo', entro l'anno dalla turbativa, chiedere la manutenzione del possesso medesimo. L'azione e' data se il possesso dura da oltre un anno, continuo e non interrotto, e non e' stato acquistato violentemente o clandestinamente. Qualora il possesso sia stato acquistato in modo violento o clandestino, l'azione puo' nondimeno esercitarsi, decorso un anno dal giorno in cui la violenza o la clandestinita' e' cessata. Anche colui che ha subito uno spoglio non violento o clandestino puo' chiedere di essere rimesso nel possesso, se ricorrono le condizioni indicate dal comma precedente.",
+    "caratteri": 704
+  },
+  "note": [],
+  "impronta": "sha256:70bc2afd10154596331b4d8035f72cdca20215e491e42a4ad5c4b2766973e4f6"
+}

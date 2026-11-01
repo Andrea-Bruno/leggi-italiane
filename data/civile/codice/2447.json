@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2447",
+    "rubrica": "Riduzione del capitale sociale al di sotto del limite legale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2447"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se, per la perdita di oltre un terzo del capitale, questo si riduce al disotto del minimo stabilito dall'articolo 2327, gli amministratori o il consiglio di gestione e, in caso di loro inerzia, il consiglio di sorveglianza devono senza indugio convocare l'assemblea per deliberare la riduzione del capitale ed il contemporaneo aumento del medesimo ad una cifra non inferiore al detto minimo, o la trasformazione della societa'.",
+    "con_marcatori": "Art. 2447. (( (Riduzione del capitale sociale al di sotto del limite legale).)) ((Se, per la perdita di oltre un terzo del capitale, questo si riduce al disotto del minimo stabilito dall'articolo 2327, gli amministratori o il consiglio di gestione e, in caso di loro inerzia, il consiglio di sorveglianza devono senza indugio convocare l'assemblea per deliberare la riduzione del capitale ed il contemporaneo aumento del medesimo ad una cifra non inferiore al detto minimo, o la trasformazione della societa'. ))",
+    "caratteri": 427
+  },
+  "note": [],
+  "impronta": "sha256:935d17eb6b666c8434084710c2ccaf5bafca19fa497419e9465dd381dcc9bb54"
+}

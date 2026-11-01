@@ -1,0 +1,14 @@
+# Art. 1469-quinquies — senza rubrica
+
+**Codice civile** · [testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1469-quinquies)
+
+> **In vigore** — certezza alta
+> Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.
+
+## Testo vigente
+
+Il D.Lgs. 6 settembre 2005, n. 206 ha disposto (con l'art. 142, comma 1) che il presente articolo e' sostituito dall'attuale art. 1469-bis del regio decreto 16 marzo 1942, n. 262.
+
+---
+
+Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale.

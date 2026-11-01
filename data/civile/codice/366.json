@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "366",
+    "rubrica": "Beni amministrati da curatore speciale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art366"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il tutore deve comprendere nell'inventario generale del patrimonio del minore anche i beni, la cui amministrazione e' stata deferita a un curatore speciale. Se questi ha formato un inventario particolare di tali beni, deve rimetterne copia al tutore, il quale lo unira' all'inventario generale. Il curatore deve anche comunicare al tutore copia dei conti periodici della sua amministrazione, salvo che il disponente lo abbia esonerato.",
+    "con_marcatori": "Art. 366. (Beni amministrati da curatore speciale). Il tutore deve comprendere nell'inventario generale del patrimonio del minore anche i beni, la cui amministrazione e' stata deferita a un curatore speciale. Se questi ha formato un inventario particolare di tali beni, deve rimetterne copia al tutore, il quale lo unira' all'inventario generale. Il curatore deve anche comunicare al tutore copia dei conti periodici della sua amministrazione, salvo che il disponente lo abbia esonerato.",
+    "caratteri": 435
+  },
+  "note": [],
+  "impronta": "sha256:99b3deeb6c1f04ba3dd2b68eef865538fdf55938bb6e6ecba7f928f3bbb25a91"
+}

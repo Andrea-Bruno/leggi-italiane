@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2477",
+    "rubrica": "Sindaco e revisione legale dei conti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2477"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo puo' prevedere, determinandone le competenze e i poteri, ivi compresa la revisione legale dei conti, la nomina di un organo di controllo o di un revisore. Se lo statuto non dispone diversamente, l'organo di controllo e' costituito da un solo membro effettivo. COMMA ABROGATO DAL D.L. 24 GIUGNO 2014, N. 91, CONVERTITO, CON MODIFICAZIONI, DALLA L. 11 AGOSTO 2014, N. 116. La nomina dell'organo di controllo o del revisore e' obbligatoria se la societa': a) e' tenuta alla redazione del bilancio consolidato; b) controlla una societa' obbligata alla revisione legale dei conti; c) ha superato per due esercizi consecutivi almeno uno dei seguenti limiti: 1) totale dell'attivo dello stato patrimoniale: 4 milioni di euro; 2) ricavi delle vendite e delle prestazioni: 4 milioni di euro; 3) dipendenti occupati in media durante l'esercizio: 20 unita'. L'obbligo di nomina dell'organo di controllo o del revisore di cui alla lettera c) del secondo comma cessa quando, per tre esercizi consecutivi, non e' superato alcuno dei predetti limiti. Nel caso di nomina di un organo di controllo, anche monocratico, si applicano le disposizioni sul collegio sindacale previste per le societa' per azioni. L'assemblea che approva il bilancio in cui vengono superati i limiti indicati al secondo comma deve provvedere, entro trenta giorni, alla nomina dell'organo di controllo o del revisore. Se l'assemblea non provvede, alla nomina provvede il tribunale su richiesta di qualsiasi soggetto interessato o su segnalazione del conservatore del registro delle imprese. Si applicano le disposizioni dell'articolo 2409 anche se la societa' e' priva di organo di controllo.",
+    "con_marcatori": "Art. 2477. (Sindaco e revisione legale dei conti). L'atto costitutivo puo' prevedere, determinandone le competenze e i poteri, ivi compresa la revisione legale dei conti, la nomina di un organo di controllo o di un revisore. Se lo statuto non dispone diversamente, l'organo di controllo e' costituito da un solo membro effettivo. COMMA ABROGATO DAL D.L. 24 GIUGNO 2014, N. 91, CONVERTITO, CON MODIFICAZIONI, DALLA L. 11 AGOSTO 2014, N. 116. (224) ((La nomina dell'organo di controllo o del revisore e' obbligatoria se la societa': a) e' tenuta alla redazione del bilancio consolidato; b) controlla una societa' obbligata alla revisione legale dei conti; c) ha superato per due esercizi consecutivi almeno uno dei seguenti limiti: 1) totale dell'attivo dello stato patrimoniale: 4 milioni di euro; 2) ricavi delle vendite e delle prestazioni: 4 milioni di euro; 3) dipendenti occupati in media durante l'esercizio: 20 unita'. L'obbligo di nomina dell'organo di controllo o del revisore di cui alla lettera c) del secondo comma cessa quando, per tre esercizi consecutivi, non e' superato alcuno dei predetti limiti)). Nel caso di nomina di un organo di controllo, anche monocratico, si applicano le disposizioni sul collegio sindacale previste per le societa' per azioni. L'assemblea che approva il bilancio in cui vengono superati i ((limiti indicati al secondo comma)) deve provvedere, entro trenta giorni, alla nomina dell'organo di controllo o del revisore. Se l'assemblea non provvede, alla nomina provvede il tribunale su richiesta di qualsiasi soggetto interessato o su segnalazione del conservatore del registro delle imprese. Si applicano le disposizioni dell'articolo 2409 anche se la societa' e' priva di organo di controllo.",
+    "caratteri": 1669
+  },
+  "note": [
+    {
+      "numero": 224,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 24 giugno 2014, n. 91",
+          "urn": "urn:nir:stato:decretoLegge:2014-06-24;91",
+          "data": "2014-06-24",
+          "numero": "91",
+          "data_gazzetta": "2014-06-24"
+        },
+        {
+          "denominazione": "L. 11 agosto 2014, n. 116",
+          "urn": "urn:nir:stato:legge:2014-08-11;116",
+          "data": "2014-08-11",
+          "numero": "116",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 24 giugno 2014, n. 91 convertito con modificazioni dalla L. 11 agosto 2014, n. 116 ha disposto (con l'art. 20, comma 8) che la sopravvenuta insussistenza dell'obbligo di nomina dell'organo di controllo o del revisore costituisce giusta causa di revoca."
+    }
+  ],
+  "impronta": "sha256:83db755f4ce8eae8a750214777b791ca55066bda321c54c64c8b094ce571ebd4"
+}

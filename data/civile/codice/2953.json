@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2953",
+    "rubrica": "Effetti del giudicato sulle prescrizioni brevi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2953"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I diritti per i quali la legge stabilisce una prescrizione piu' breve di dieci anni, quando riguardo ad essi e' intervenuta sentenza di condanna passata in giudicato, si prescrivono con il decorso di dieci anni.",
+    "con_marcatori": "Art. 2953. (Effetti del giudicato sulle prescrizioni brevi). I diritti per i quali la legge stabilisce una prescrizione piu' breve di dieci anni, quando riguardo ad essi e' intervenuta sentenza di condanna passata in giudicato, si prescrivono con il decorso di dieci anni.",
+    "caratteri": 211
+  },
+  "note": [],
+  "impronta": "sha256:a35e5700eca8010eac49f69404c8d73e279f727f2614db01daf9672645e82b98"
+}

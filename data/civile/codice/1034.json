@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1034",
+    "rubrica": "Apertura di nuovo acquedotto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1034"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi ha diritto di condurre acque per il fondo altrui deve costruire il necessario acquedotto, ma non puo' far defluire le acque negli acquedotti gia' esistenti e destinati al corso di altre acque. Il proprietario del fondo soggetto alla servitu' puo' tuttavia impedire la costruzione, consentendo il passaggio nei propri acquedotti gia' esistenti, qualora cio' non rechi notevole pregiudizio alla condotta che si domanda. In tal caso al proprietario dell'acquedotto e' dovuta un'indennita' da determinarsi avuto riguardo all'acqua che s'introduce, al valore dell'acquedotto, alle opere che si rendono necessarie per il nuovo passaggio e alle maggiori spese di manutenzione. La facolta' indicata dal comma precedente non e' consentita al proprietario del fondo servente nei confronti della pubblica amministrazione.",
+    "con_marcatori": "Art. 1034. (Apertura di nuovo acquedotto). Chi ha diritto di condurre acque per il fondo altrui deve costruire il necessario acquedotto, ma non puo' far defluire le acque negli acquedotti gia' esistenti e destinati al corso di altre acque. Il proprietario del fondo soggetto alla servitu' puo' tuttavia impedire la costruzione, consentendo il passaggio nei propri acquedotti gia' esistenti, qualora cio' non rechi notevole pregiudizio alla condotta che si domanda. In tal caso al proprietario dell'acquedotto e' dovuta un'indennita' da determinarsi avuto riguardo all'acqua che s'introduce, al valore dell'acquedotto, alle opere che si rendono necessarie per il nuovo passaggio e alle maggiori spese di manutenzione. La facolta' indicata dal comma precedente non e' consentita al proprietario del fondo servente nei confronti della pubblica amministrazione.",
+    "caratteri": 814
+  },
+  "note": [],
+  "impronta": "sha256:dc5a45ddbfd7f37bc01973fdfc889ea0a4dfb1fae656923aa5f99cd6fcd7bfe8"
+}

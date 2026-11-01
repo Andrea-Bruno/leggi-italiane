@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "178",
+    "rubrica": "Beni destinati all'esercizio di impresa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art178"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I beni destinati all'esercizio dell'impresa di uno dei coniugi costituita dopo il matrimonio e gli incrementi dell'impresa costituita anche precedentemente si considerano oggetto della comunione solo se sussistono al momento dello scioglimento di questa.",
+    "con_marcatori": "Art. 178. ((Beni destinati all'esercizio di impresa.)) ((I beni destinati all'esercizio dell'impresa di uno dei coniugi costituita dopo il matrimonio e gli incrementi dell'impresa costituita anche precedentemente si considerano oggetto della comunione solo se sussistono al momento dello scioglimento di questa)).",
+    "caratteri": 254
+  },
+  "note": [],
+  "impronta": "sha256:1ee775faf076c9e9a893569554c05108422e4b92d72dcb0f72ddb0efaf8b6144"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "691",
+    "rubrica": "Somministrazione di bevande alcooliche a persona in stato di manifesta ubriachezza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art691"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque somministra bevande alcooliche a una persona in stato di manifesta ubriachezza, e' punito con l'arresto da tre mesi a un anno. Qualora il colpevole sia esercente un'osteria o un altro pubblico spaccio di cibi o bevande, la condanna importa la sospensione dall'esercizio.",
+    "con_marcatori": "Art. 691. (Somministrazione di bevande alcooliche a persona in stato di manifesta ubriachezza) Chiunque somministra bevande alcooliche a una persona in stato di manifesta ubriachezza, e' punito con l'arresto da tre mesi a un anno. Qualora il colpevole sia esercente un'osteria o un altro pubblico spaccio di cibi o bevande, la condanna importa la sospensione dall'esercizio.",
+    "caratteri": 279
+  },
+  "note": [],
+  "impronta": "sha256:ec67c420ec55ac82da45cbca16c33a4807f76689b34a3ef21fc08358d778cf96"
+}

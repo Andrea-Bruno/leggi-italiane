@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1531",
+    "rubrica": "Interessi, dividendi e diritto di voto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1531"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella vendita a termine di titoli di credito, gli interessi e i dividendi esigibili dopo la conclusione del contratto e prima della scadenza del termine, se riscossi dal venditore, sono accreditati al compratore. Qualora la vendita abbia per oggetto titoli azionari, il diritto di voto spetta al venditore fino al momento della consegna.",
+    "con_marcatori": "Art. 1531. (Interessi, dividendi e diritto di voto). Nella vendita a termine di titoli di credito, gli interessi e i dividendi esigibili dopo la conclusione del contratto e prima della scadenza del termine, se riscossi dal venditore, sono accreditati al compratore. Qualora la vendita abbia per oggetto titoli azionari, il diritto di voto spetta al venditore fino al momento della consegna.",
+    "caratteri": 337
+  },
+  "note": [],
+  "impronta": "sha256:af56a6e677cea80f211d4ea4788fb86ced76f1d5f3f6811e6aefa3e09245c20a"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1509",
+    "rubrica": "Riscatto contro gli eredi del compratore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1509"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora il compratore abbia lasciato piu' eredi, il diritto di riscatto si puo' esercitare contro ciascuno di essi solo per la parte che gli spetta, anche quando la cosa venduta e' tuttora indivisa. Se l'eredita' e' stata divisa e la cosa venduta e' stata assegnata a uno degli eredi, il diritto di riscatto non puo' esercitarsi contro di lui che per la totalita'.",
+    "con_marcatori": "Art. 1509. (Riscatto contro gli eredi del compratore). Qualora il compratore abbia lasciato piu' eredi, il diritto di riscatto si puo' esercitare contro ciascuno di essi solo per la parte che gli spetta, anche quando la cosa venduta e' tuttora indivisa. Se l'eredita' e' stata divisa e la cosa venduta e' stata assegnata a uno degli eredi, il diritto di riscatto non puo' esercitarsi contro di lui che per la totalita'.",
+    "caratteri": 364
+  },
+  "note": [],
+  "impronta": "sha256:a0878f2c67dbb5ff13c0ef3c0ff24563ee9762584b979e1693d405f527789f1b"
+}

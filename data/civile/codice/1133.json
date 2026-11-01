@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1133",
+    "rubrica": "Provvedimenti presi dall'amministratore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1133"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I provvedimenti presi dall'amministratore nell'ambito dei suoi poteri sono obbligatori per i condomini. Contro i provvedimenti dell'amministratore e' ammesso ricorso all'assemblea, senza pregiudizio del ricorso all'autorita' giudiziaria nei casi e nel termine previsti dall'art. 1137.",
+    "con_marcatori": "Art. 1133. (Provvedimenti presi dall'amministratore). I provvedimenti presi dall'amministratore nell'ambito dei suoi poteri sono obbligatori per i condomini. Contro i provvedimenti dell'amministratore e' ammesso ricorso all'assemblea, senza pregiudizio del ricorso all'autorita' giudiziaria nei casi e nel termine previsti dall'art. 1137.",
+    "caratteri": 284
+  },
+  "note": [],
+  "impronta": "sha256:cac5dee909ac8d6b4e3b51870059144aadf749b1b114744a39819af43a6c7062"
+}

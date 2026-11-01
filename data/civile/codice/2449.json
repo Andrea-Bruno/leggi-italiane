@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2449",
+    "rubrica": "Societa' con partecipazione dello Stato o di enti pubblici",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2449"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se lo Stato o gli enti pubblici hanno partecipazioni in una societa' per azioni che non fa ricorso al mercato del capitale di rischio, lo statuto puo' ad essi conferire la facolta' di nominare un numero di amministratori e sindaci, ovvero componenti del consiglio di sorveglianza, proporzionale alla partecipazione al capitale sociale. Gli amministratori e i sindaci o i componenti del consiglio di sorveglianza nominati a norma del primo comma possono essere revocati soltanto dagli enti che li hanno nominati. Essi hanno i diritti e gli obblighi dei membri nominati dall'assemblea. Gli amministratori non possono essere nominati per un periodo superiore a tre esercizi e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica. I sindaci, ovvero i componenti del consiglio di sorveglianza, restano in carica per tre esercizi e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo al terzo esercizio della loro carica. Alle societa' che fanno ricorso al capitale di rischio si applicano le disposizioni del sesto comma dell'articolo 2346. Il consiglio di amministrazione puo' altresi' proporre all'assemblea, che delibera con le maggioranze previste per l'assemblea ordinaria, che i diritti amministrativi previsti dallo statuto a favore dello Stato o degli enti pubblici siano rappresentati da una particolare categoria di azioni. A tal fine e' in ogni caso necessario il consenso dello Stato o dell'ente pubblico a favore del quale i diritti amministrativi sono previsti.",
+    "con_marcatori": "Art. 2449. (( (Societa' con partecipazione dello Stato o di enti pubblici). )) ((Se lo Stato o gli enti pubblici hanno partecipazioni in una societa' per azioni che non fa ricorso al mercato del capitale di rischio, lo statuto puo' ad essi conferire la facolta' di nominare un numero di amministratori e sindaci, ovvero componenti del consiglio di sorveglianza, proporzionale alla partecipazione al capitale sociale. Gli amministratori e i sindaci o i componenti del consiglio di sorveglianza nominati a norma del primo comma possono essere revocati soltanto dagli enti che li hanno nominati. Essi hanno i diritti e gli obblighi dei membri nominati dall'assemblea. Gli amministratori non possono essere nominati per un periodo superiore a tre esercizi e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica. I sindaci, ovvero i componenti del consiglio di sorveglianza, restano in carica per tre esercizi e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo al terzo esercizio della loro carica. Alle societa' che fanno ricorso al capitale di rischio si applicano le disposizioni del sesto comma dell'articolo 2346. Il consiglio di amministrazione puo' altresi' proporre all'assemblea, che delibera con le maggioranze previste per l'assemblea ordinaria, che i diritti amministrativi previsti dallo statuto a favore dello Stato o degli enti pubblici siano rappresentati da una particolare categoria di azioni. A tal fine e' in ogni caso necessario il consenso dello Stato o dell'ente pubblico a favore del quale i diritti amministrativi sono previsti.))",
+    "caratteri": 1572
+  },
+  "note": [],
+  "impronta": "sha256:0b5a2a1ee2caf8c659a41310e8a4a3f208c455f865dfafb1cb6bd0937fa2e165"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1199",
+    "rubrica": "Diritto del debitore alla quietanza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1199"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore che riceve il pagamento deve, a richiesta e a spese del debitore, rilasciare quietanza e farne annotazione sul titolo, se questo non e' restituito al debitore. Il rilascio di una quietanza per il capitale fa presumere il pagamento degli interessi.",
+    "con_marcatori": "Art. 1199. (Diritto del debitore alla quietanza). Il creditore che riceve il pagamento deve, a richiesta e a spese del debitore, rilasciare quietanza e farne annotazione sul titolo, se questo non e' restituito al debitore. Il rilascio di una quietanza per il capitale fa presumere il pagamento degli interessi.",
+    "caratteri": 260
+  },
+  "note": [],
+  "impronta": "sha256:47206587bcf1c60158a6ecdec3544dc31376a3b44d683d39388682a3f759bfc6"
+}

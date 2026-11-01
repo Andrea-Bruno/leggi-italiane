@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2413",
+    "rubrica": "Riduzione del capitale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2413"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo i casi previsti dal terzo, quarto e quinto comma dell'articolo 2412, la societa' che ha emesso obbligazioni non puo' ridurre volontariamente il capitale sociale o distribuire riserve se rispetto all'ammontare delle obbligazioni ancora in circolazione il limite di cui al primo comma dell'articolo medesimo non risulta piu' rispettato. Se la riduzione del capitale sociale e' obbligatoria, o le riserve diminuiscono in conseguenza di perdite, non possono distribuirsi utili sinche' l'ammontare del capitale sociale , della riserva legale e delle riserve disponibili non eguagli la meta' dell'ammontare delle obbligazioni in circolazione.",
+    "con_marcatori": "Art. 2413. (Riduzione del capitale). Salvo i casi previsti dal terzo, quarto e quinto comma dell'articolo 2412, la societa' che ha emesso obbligazioni non puo' ridurre volontariamente il capitale sociale o distribuire riserve se rispetto all'ammontare delle obbligazioni ancora in circolazione il limite di cui al primo comma dell'articolo medesimo non risulta piu' rispettato. Se la riduzione del capitale sociale e' obbligatoria, o le riserve diminuiscono in conseguenza di perdite, non possono distribuirsi utili sinche' l'ammontare del capitale sociale ((, della riserva legale e delle riserve disponibili non eguagli la meta' dell'ammontare delle obbligazioni in circolazione.))",
+    "caratteri": 642
+  },
+  "note": [],
+  "impronta": "sha256:30db0502d471a2a183618e975a06d334ad6ed520264c355c678d935b6e4a8622"
+}

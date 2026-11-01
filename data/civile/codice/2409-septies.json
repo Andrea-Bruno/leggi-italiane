@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2409-septies",
+    "rubrica": "Scambio di informazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2409-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il collegio sindacale e i soggetti incaricati della revisione legale dei conti si scambiano tempestivamente le informazioni rilevanti per l'espletamento dei rispettivi compiti.",
+    "con_marcatori": "Art. 2409-septies. (Scambio di informazioni). Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti)) si scambiano tempestivamente le informazioni rilevanti per l'espletamento dei rispettivi compiti.",
+    "caratteri": 176
+  },
+  "note": [],
+  "impronta": "sha256:96c9bea3da23b071da91bbb192795694d10e0ed64b171d1c6c7a0c2cb409cb2d"
+}

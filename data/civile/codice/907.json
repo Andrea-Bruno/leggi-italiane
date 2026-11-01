@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "907",
+    "rubrica": "Distanza delle costruzioni dalle vedute",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art907"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando si e' acquistato il diritto di avere vedute dirette verso il fondo vicino, il proprietario di questo non puo' fabbricare a distanza minore di tre metri, misurata a norma dell'art. 905. Se la veduta diretta forma anche veduta obliqua, la distanza di tre metri deve pure osservarsi dai lati della finestra da cui la veduta obliqua si esercita. Se si vuole appoggiare la nuova costruzione al muro in cui sono le dette vedute dirette od oblique, essa deve arrestarsi almeno a tre metri sotto la loro soglia.",
+    "con_marcatori": "Art. 907. (Distanza delle costruzioni dalle vedute). Quando si e' acquistato il diritto di avere vedute dirette verso il fondo vicino, il proprietario di questo non puo' fabbricare a distanza minore di tre metri, misurata a norma dell'art. 905. Se la veduta diretta forma anche veduta obliqua, la distanza di tre metri deve pure osservarsi dai lati della finestra da cui la veduta obliqua si esercita. Se si vuole appoggiare la nuova costruzione al muro in cui sono le dette vedute dirette od oblique, essa deve arrestarsi almeno a tre metri sotto la loro soglia.",
+    "caratteri": 510
+  },
+  "note": [],
+  "impronta": "sha256:c17511af8d616d4f9cfb4d9027707986c319ed58c4d543db98ef2c82a80d377f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1219",
+    "rubrica": "Costituzione in mora",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1219"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il debitore e' costituito in mora mediante intimazione o richiesta fatta per iscritto. Non e' necessaria la costituzione in mora: 1) quando il debito deriva da fatto illecito; 2) quando il debitore ha dichiarato per iscritto di non volere eseguire l'obbligazione; 3) quando e' scaduto il termine, se la prestazione deve essere eseguita al domicilio del creditore. Se il termine scade dopo la morte del debitore, gli eredi non sono costituiti in mora che mediante intimazione o richiesta fatta per iscritto, e decorsi otto giorni dall'intimazione o dalla richiesta.",
+    "con_marcatori": "Art. 1219. (Costituzione in mora). Il debitore e' costituito in mora mediante intimazione o richiesta fatta per iscritto. Non e' necessaria la costituzione in mora: 1) quando il debito deriva da fatto illecito; 2) quando il debitore ha dichiarato per iscritto di non volere eseguire l'obbligazione; 3) quando e' scaduto il termine, se la prestazione deve essere eseguita al domicilio del creditore. Se il termine scade dopo la morte del debitore, gli eredi non sono costituiti in mora che mediante intimazione o richiesta fatta per iscritto, e decorsi otto giorni dall'intimazione o dalla richiesta.",
+    "caratteri": 564
+  },
+  "note": [],
+  "impronta": "sha256:a678815a93dbcbab53ad1e05412c29b3a38293f0532afbb826e4389e8c1eb598"
+}

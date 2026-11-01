@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1090",
+    "rubrica": "Manutenzione del canale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1090"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella servitu' di presa o di condotta d'acqua, quando il titolo non dispone altrimenti, il proprietario del fondo servente puo' domandare che il canale sia mantenuto convenientemente spurgato e le sue sponde siano tenute in stato di buona manutenzione a spese del proprietario del fondo dominante.",
+    "con_marcatori": "Art. 1090. (Manutenzione del canale). Nella servitu' di presa o di condotta d'acqua, quando il titolo non dispone altrimenti, il proprietario del fondo servente puo' domandare che il canale sia mantenuto convenientemente spurgato e le sue sponde siano tenute in stato di buona manutenzione a spese del proprietario del fondo dominante.",
+    "caratteri": 297
+  },
+  "note": [],
+  "impronta": "sha256:8c28b2f07ab7ed08e68f3e6d76f61ea8befec2ffa3ed9ba14907d6ed2573808c"
+}

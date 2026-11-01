@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2313",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2313"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella societa' in accomandita semplice i soci accomandatari rispondono solidalmente e illimitatamente per le obbligazioni sociali, e i soci accomandanti rispondono limitatamente alla quota conferita. Le quote di partecipazione dei soci non possono essere rappresentate da azioni.",
+    "con_marcatori": "Art. 2313. (Nozione). Nella societa' in accomandita semplice i soci accomandatari rispondono solidalmente e illimitatamente per le obbligazioni sociali, e i soci accomandanti rispondono limitatamente alla quota conferita. Le quote di partecipazione dei soci non possono essere rappresentate da azioni.",
+    "caratteri": 279
+  },
+  "note": [],
+  "impronta": "sha256:e42ae9e4289f93ba36c1adbba4b17022b952b14f74fab6583ea34f0137f6580b"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2862",
+    "rubrica": "Ipoteche e altri diritti reali a carico e a favore del terzo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2862"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il rilascio non pregiudica le ipoteche, le servitu' e gli altri diritti reali resi pubblici contro il terzo prima dell'annotazione del rilascio. Le ipoteche, le servitu' e gli altri diritti reali che gia' spettavano al terzo prima dell'acquisto riprendono efficacia dopo il rilascio o dopo la vendita all'incanto eseguita contro di lui. Del pari riprendono efficacia le servitu' che al momento dell'iscrizione dell'ipoteca esistevano a favore del fondo ipotecato e a carico di altro fondo del terzo. Esse sono comprese nell'espropriazione del fondo ipotecato.",
+    "con_marcatori": "Art. 2862. (Ipoteche e altri diritti reali a carico e a favore del terzo). Il rilascio non pregiudica le ipoteche, le servitu' e gli altri diritti reali resi pubblici contro il terzo prima dell'annotazione del rilascio. Le ipoteche, le servitu' e gli altri diritti reali che gia' spettavano al terzo prima dell'acquisto riprendono efficacia dopo il rilascio o dopo la vendita all'incanto eseguita contro di lui. Del pari riprendono efficacia le servitu' che al momento dell'iscrizione dell'ipoteca esistevano a favore del fondo ipotecato e a carico di altro fondo del terzo. Esse sono comprese nell'espropriazione del fondo ipotecato.",
+    "caratteri": 559
+  },
+  "note": [],
+  "impronta": "sha256:a1434ee381c7fef01060748ea457adfc53f55d0d09afcca9f4659587228132b5"
+}

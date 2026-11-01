@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "571",
+    "rubrica": "Abuso dei mezzi di correzione o di disciplina",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art571"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque abusa dei mezzi di correzione o di disciplina in danno di una persona sottoposta alla sua autorita', o a lui affidata per ragione di educazione, istruzione, cura, vigilanza o custodia, ovvero per l'esercizio di una professione o di un'arte, e' punito, se dal fatto deriva il pericolo di una malattia nel corpo o nella mente, con la reclusione fino a sei mesi. Se dal fatto deriva una lesione personale, si applicano le pene stabilite negli articoli 582 e 583, ridotte a un terzo; se ne deriva la morte, si applica la reclusione da tre a otto anni.",
+    "con_marcatori": "Art. 571. (Abuso dei mezzi di correzione o di disciplina) Chiunque abusa dei mezzi di correzione o di disciplina in danno di una persona sottoposta alla sua autorita', o a lui affidata per ragione di educazione, istruzione, cura, vigilanza o custodia, ovvero per l'esercizio di una professione o di un'arte, e' punito, se dal fatto deriva il pericolo di una malattia nel corpo o nella mente, con la reclusione fino a sei mesi. Se dal fatto deriva una lesione personale, si applicano le pene stabilite negli articoli 582 e 583, ridotte a un terzo; se ne deriva la morte, si applica la reclusione da tre a otto anni.",
+    "caratteri": 556
+  },
+  "note": [],
+  "impronta": "sha256:8f55bc7c249a06d47a25f85ea55e0c4523f0bdf095f8b5ca1da92db82f6e1d93"
+}

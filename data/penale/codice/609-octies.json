@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "609-octies",
+    "rubrica": "Violenza sessuale di gruppo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art609-octies"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 386,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La violenza sessuale di gruppo consiste nella partecipazione, da parte di piu' persone riunite, ad atti di violenza sessuale di cui all'articolo 609-bis. Chiunque commette atti di violenza sessuale di gruppo e' punito con la reclusione da otto a quattordici anni. Si applicano le circostanze aggravanti previste dall'articolo 609-ter. La pena e' diminuita per il partecipante la cui opera abbia avuto minima importanza nella preparazione o nella esecuzione del reato. La pena e' altresi' diminuita per chi sia stato determinato a commettere il reato quando concorrono le condizioni stabilite dai numeri 3) e 4) del primo comma e dal terzo comma dell'articolo 112.",
+    "con_marcatori": "Art. 609-octies. (Violenza sessuale di gruppo). La violenza sessuale di gruppo consiste nella partecipazione, da parte di piu' persone riunite, ad atti di violenza sessuale di cui all'articolo 609-bis. Chiunque commette atti di violenza sessuale di gruppo e' punito con la reclusione da otto a quattordici anni. Si applicano le circostanze aggravanti previste dall'articolo 609-ter. La pena e' diminuita per il partecipante la cui opera abbia avuto minima importanza nella preparazione o nella esecuzione del reato. La pena e' altresi' diminuita per chi sia stato determinato a commettere il reato quando concorrono le condizioni stabilite dai numeri 3) e 4) del primo comma e dal terzo comma dell'articolo 112. ((386))",
+    "caratteri": 663
+  },
+  "note": [
+    {
+      "numero": 386,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 609-octies del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-12-29",
+        "numero": "202"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 20 ottobre - 29 dicembre 2025, n. 202 (in G.U. 1ª s.s. 31/12/2025, n. 53), ha dichiarato \"l'illegittimita' costituzionale dell'art. 609-octies del codice penale, nella parte in cui non prevede che nei casi di minore gravita' la pena da esso comminata e' diminuita in misura non eccedente i due terzi\"."
+    }
+  ],
+  "impronta": "sha256:6a5a30dd875162b53f1045776438a0711bf2f4bbfa232e4e9fb7388064c445be"
+}

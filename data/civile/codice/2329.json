@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2329",
+    "rubrica": "Condizioni per la costituzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2329"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per procedere alla costituzione della societa' e' necessario: 1) che sia sottoscritto per intero il capitale sociale; 2) che siano rispettate le previsioni degli articoli 2342 , 2343 e 2343-ter relative ai conferimenti; 3) che sussistano le autorizzazioni e le altre condizioni richieste dalle leggi speciali per la costituzione della societa', in relazione al suo particolare oggetto.",
+    "con_marcatori": "Art. 2329. (Condizioni per la costituzione). Per procedere alla costituzione della societa' e' necessario: 1) che sia sottoscritto per intero il capitale sociale; 2) che siano rispettate le previsioni degli articoli 2342 ((, 2343 e 2343-ter)) relative ai conferimenti; 3) che sussistano le autorizzazioni e le altre condizioni richieste dalle leggi speciali per la costituzione della societa', in relazione al suo particolare oggetto.",
+    "caratteri": 385
+  },
+  "note": [],
+  "impronta": "sha256:d0a4b3c9fdd1d39a0cb3a4b595e9086c4ae9d88b1fdf237abb3f328df4b54cbe"
+}

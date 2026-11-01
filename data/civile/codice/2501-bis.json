@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2501-bis",
+    "rubrica": "Fusione a seguito di acquisizione con indebitamento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2501-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di fusione tra societa', una delle quali abbia contratto debiti per acquisire il controllo dell'altra, quando per effetto della fusione il patrimonio di quest'ultima viene a costituire garanzia generica o fonte di rimborso di detti debiti, si applica la disciplina del presente articolo. Il progetto di fusione di cui all'articolo 2501-ter deve indicare le risorse finanziarie previste per il soddisfacimento delle obbligazioni della societa' risultante dalla fusione. La relazione di cui all'articolo 2501-quinquies deve indicare le ragioni che giustificano l'operazione e contenere un piano economico e finanziario con indicazione della fonte delle risorse finanziarie e la descrizione degli obiettivi che si intendono raggiungere. La relazione degli esperti di cui all'articolo 2501-sexies, attesta la ragionevolezza delle indicazioni contenute nel progetto di fusione ai sensi del precedente secondo comma. Al progetto deve essere allegata una relazione del soggetto incaricato della revisione legale dei conti della societa' obiettivo o della societa' acquirente. Alle fusioni di cui al primo comma non si applicano le disposizioni degli articoli 2505 e 2505-bis.",
+    "con_marcatori": "Art. 2501-bis. (Fusione a seguito di acquisizione con indebitamento). Nel caso di fusione tra societa', una delle quali abbia contratto debiti per acquisire il controllo dell'altra, quando per effetto della fusione il patrimonio di quest'ultima viene a costituire garanzia generica o fonte di rimborso di detti debiti, si applica la disciplina del presente articolo. Il progetto di fusione di cui all'articolo 2501-ter deve indicare le risorse finanziarie previste per il soddisfacimento delle obbligazioni della societa' risultante dalla fusione. La relazione di cui all'articolo 2501-quinquies deve indicare le ragioni che giustificano l'operazione e contenere un piano economico e finanziario con indicazione della fonte delle risorse finanziarie e la descrizione degli obiettivi che si intendono raggiungere. La relazione degli esperti di cui all'articolo 2501-sexies, attesta la ragionevolezza delle indicazioni contenute nel progetto di fusione ai sensi del precedente secondo comma. Al progetto deve essere allegata una relazione ((del soggetto incaricato della revisione legale dei conti)) della societa' obiettivo o della societa' acquirente. Alle fusioni di cui al primo comma non si applicano le disposizioni degli articoli 2505 e 2505-bis.",
+    "caratteri": 1177
+  },
+  "note": [],
+  "impronta": "sha256:5d31338cf4e9e2c84c2ed0cc1e0f7e4a1dd5bd7dfb9a0b0b8276dc0478337bd6"
+}

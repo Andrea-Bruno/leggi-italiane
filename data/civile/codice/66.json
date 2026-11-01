@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "66",
+    "rubrica": "Prova dell'esistenza della persona di cui e' stata dichiarata la morte presunta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art66"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La persona di cui e' stata dichiarata la morte presunta, se ritorna o ne e' provata l'esistenza, ricupera i beni nello stato in cui si trovano e ha diritto di conseguire il prezzo di quelli alienati, quando esso sia tuttora dovuto, o i beni nei quali sia stato investito. Essa ha altresi' diritto di pretendere l'adempimento delle obbligazioni considerate estinte ai sensi del secondo comma dell'art. 63. Se e' provata la data della sua morte, il diritto previsto nel primo comma di questo articolo compete a coloro che a quella data sarebbero stati suoi eredi o legatari. Questi possono inoltre pretendere l'adempimento delle obbligazioni considerate estinte ai sensi del secondo comma dell'art. 63 per il tempo anteriore alla data della morte. Sono salvi in ogni caso gli effetti delle prescrizioni e delle usucapioni.",
+    "con_marcatori": "Art. 66. (Prova dell'esistenza della persona di cui e' stata dichiarata la morte presunta). La persona di cui e' stata dichiarata la morte presunta, se ritorna o ne e' provata l'esistenza, ricupera i beni nello stato in cui si trovano e ha diritto di conseguire il prezzo di quelli alienati, quando esso sia tuttora dovuto, o i beni nei quali sia stato investito. Essa ha altresi' diritto di pretendere l'adempimento delle obbligazioni considerate estinte ai sensi del secondo comma dell'art. 63. Se e' provata la data della sua morte, il diritto previsto nel primo comma di questo articolo compete a coloro che a quella data sarebbero stati suoi eredi o legatari. Questi possono inoltre pretendere l'adempimento delle obbligazioni considerate estinte ai sensi del secondo comma dell'art. 63 per il tempo anteriore alla data della morte. Sono salvi in ogni caso gli effetti delle prescrizioni e delle usucapioni.",
+    "caratteri": 820
+  },
+  "note": [],
+  "impronta": "sha256:ed7db573f686d177a341e739c3c2303f25295994edd443054fac30e404503105"
+}

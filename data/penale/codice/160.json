@@ -1,0 +1,106 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "160",
+    "rubrica": "Interruzione del corso della prescrizione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art160"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 199,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3. Interrompono la prescrizione l'ordinanza che applica le misure cautelari personali e quella di convalida del fermo o dell'arresto, l'interrogatorio reso davanti al pubblico ministero o alla polizia giudiziaria, su delega del pubblico ministero, o al giudice, l'invito a presentarsi al pubblico ministero per rendere l'interrogatorio, il provvedimento del giudice di fissazione dell'udienza in camera di consiglio per la decisione sulla richiesta di archiviazione, la richiesta di rinvio a giudizio, il decreto di fissazione della udienza preliminare, l'ordinanza che dispone il giudizio abbreviato, il decreto di fissazione della udienza per la decisione sulla richiesta di applicazione della pena, la presentazione o la citazione per il giudizio direttissimo, il decreto che dispone il giudizio immediato, il decreto che dispone il giudizio , il decreto di citazione a giudizio e il decreto di condanna. La prescrizione interrotta comincia nuovamente a decorrere dal giorno della interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi; ma in nessun caso i termini stabiliti nell'articolo 157 possono essere prolungati oltre i termini di cui all'articolo 161, secondo comma, fatta eccezione per i reati di cui all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale. (208a)",
+    "con_marcatori": "Art. 160. (Interruzione del corso della prescrizione) COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3. Interrompono la prescrizione l'ordinanza che applica le misure cautelari personali e quella di convalida del fermo o dell'arresto, l'interrogatorio reso davanti al pubblico ministero o alla polizia giudiziaria, su delega del pubblico ministero, o al giudice, l'invito a presentarsi al pubblico ministero per rendere l'interrogatorio, il provvedimento del giudice di fissazione dell'udienza in camera di consiglio per la decisione sulla richiesta di archiviazione, la richiesta di rinvio a giudizio, il decreto di fissazione della udienza preliminare, l'ordinanza che dispone il giudizio abbreviato, il decreto di fissazione della udienza per la decisione sulla richiesta di applicazione della pena, la presentazione o la citazione per il giudizio direttissimo, il decreto che dispone il giudizio immediato, il decreto che dispone il giudizio ((, il decreto di citazione a giudizio e il decreto di condanna)). (277) La prescrizione interrotta comincia nuovamente a decorrere dal giorno della interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi; ma in nessun caso i termini stabiliti nell'articolo 157 possono essere prolungati oltre i termini di cui all'articolo 161, secondo comma, fatta eccezione per i reati di cui all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale.(199) (208a)",
+    "caratteri": 1374
+  },
+  "note": [
+    {
+      "numero": 199,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "L. 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "articolo 2 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 10, comma 3 della L. 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2006-11-23",
+        "numero": "393"
+      },
+      "testo": "La L. 5 dicembre 2005, n. 251, ha disposto (con l'art. 10, commmi 2 e 3) che \"Ferme restando le disposizioni dell'articolo 2 del codice penale quanto alle altre norme della presente legge, le disposizioni dell'articolo 6 non si applicano ai procedimenti e ai processi in corso se i nuovi termini di prescrizione risultano piu' lunghi di quelli previgenti. Se, per effetto delle nuove disposizioni, i termini di prescrizione risultano piu' brevi, le stesse si applicano ai procedimenti e ai processi pendenti alla data di entrata in vigore della presente legge, ad esclusione dei processi gia' pendenti in primo grado ove vi sia stata la dichiarazione di apertura del dibattimento, nonche' dei processi gia' pendenti in grado di appello o avanti alla Corte di cassazione\". ------------- AGGIORNAMENTO (208a) Successivamente la Corte Costituzionale con sentenza 23 ottobre - 23 novembre 2006, n. 393 (in G.U. 1ª s.s. 29/11/2006, n. 47), ha dichiarato l'illegittimita' costituzionale dell'art. 10, comma 3 della L. 5 dicembre 2005, n. 251 (che ha modificato l'ultimo comma del presente articolo) \"limitatamente alle parole \"dei processi gia' pendenti in primo grado ove vi sia stata la dichiarazione di apertura del dibattimento, nonche'\"."
+    },
+    {
+      "numero": 277,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 23 giugno 2017, n. 103",
+          "urn": "urn:nir:stato:legge:2017-06-23;103",
+          "data": "2017-06-23",
+          "numero": "103",
+          "data_gazzetta": "2017-07-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 23 giugno 2017, n. 103, ha disposto (con l'art. 1, comma 15) che \"Le disposizioni di cui ai commi da 10 a 14 si applicano ai fatti commessi dopo la data di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:a6930d0700d82e83b9b060c7e7a9fc1c717fed752749664cb4f6ae0f9e9605e8"
+}

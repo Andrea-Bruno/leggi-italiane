@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2881",
+    "rubrica": "Nuova iscrizione dell'ipoteca",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2881"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo diversa disposizione di legge, se la causa estintiva dell'obbligazione e' dichiarata nulla o altrimenti non sussiste ovvero e' dichiarata nulla la rinunzia fatta dal creditore all'ipoteca, e l'iscrizione non e' stata conservata, si puo' procedere a nuova iscrizione e questa prende grado dalla sua data.",
+    "con_marcatori": "Art. 2881. (Nuova iscrizione dell'ipoteca). Salvo diversa disposizione di legge, se la causa estintiva dell'obbligazione e' dichiarata nulla o altrimenti non sussiste ovvero e' dichiarata nulla la rinunzia fatta dal creditore all'ipoteca, e l'iscrizione non e' stata conservata, si puo' procedere a nuova iscrizione e questa prende grado dalla sua data.",
+    "caratteri": 309
+  },
+  "note": [],
+  "impronta": "sha256:2cc9081a9a14bec30a646db0a5e30cf9ce48302bc23d8c6cccbc32b257d103c0"
+}

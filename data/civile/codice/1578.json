@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1578",
+    "rubrica": "Vizi della cosa locata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1578"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se al momento della consegna la cosa locata e' affetta da vizi che ne diminuiscono in modo apprezzabile l'idoneita' all'uso pattuito, il conduttore puo' domandare la risoluzione del contratto o una riduzione del corrispettivo, salvo che si tratti di vizi da lui conosciuti o facilmente riconoscibili. Il locatore e' tenuto a risarcire al conduttore i danni derivati da vizi della cosa, se non prova di avere senza colpa ignorato i vizi stessi al momento della consegna.",
+    "con_marcatori": "Art. 1578. (Vizi della cosa locata). Se al momento della consegna la cosa locata e' affetta da vizi che ne diminuiscono in modo apprezzabile l'idoneita' all'uso pattuito, il conduttore puo' domandare la risoluzione del contratto o una riduzione del corrispettivo, salvo che si tratti di vizi da lui conosciuti o facilmente riconoscibili. Il locatore e' tenuto a risarcire al conduttore i danni derivati da vizi della cosa, se non prova di avere senza colpa ignorato i vizi stessi al momento della consegna.",
+    "caratteri": 469
+  },
+  "note": [],
+  "impronta": "sha256:438c9dbf75526edb62e2f853ad0241ca891a821a6a591608bfbc3270fbc25263"
+}

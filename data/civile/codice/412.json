@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "412",
+    "rubrica": "Atti compiuti dal beneficiario o dall'amministratore di sostegno in violazione di norme di legge o delle disposizioni del giudice",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art412"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti compiuti dall'amministratore di sostegno in violazione di disposizioni di legge, od in eccesso rispetto all'oggetto dell'incarico o ai poteri conferitigli dal giudice, possono essere annullati su istanza dell'amministratore di sostegno, del pubblico ministero, del beneficiario o dei suoi eredi ed aventi causa. Possono essere parimenti annullati su istanza dell'amministratore di sostegno, del beneficiario, o dei suoi eredi ed aventi causa, gli atti compiuti personalmente dal beneficiario in violazione delle disposizioni di legge o di quelle contenute nel decreto che istituisce l'amministrazione di sostegno. Le azioni relative si prescrivono nel termine di cinque anni. Il termine decorre dal momento in cui e' cessato lo stato di sottoposizione all'amministrazione di sostegno.",
+    "con_marcatori": "Art. 412. (( (Atti compiuti dal beneficiario o dall'amministratore di sostegno in violazione di norme di legge o delle disposizioni del giudice). )) ((Gli atti compiuti dall'amministratore di sostegno in violazione di disposizioni di legge, od in eccesso rispetto all'oggetto dell'incarico o ai poteri conferitigli dal giudice, possono essere annullati su istanza dell'amministratore di sostegno, del pubblico ministero, del beneficiario o dei suoi eredi ed aventi causa. Possono essere parimenti annullati su istanza dell'amministratore di sostegno, del beneficiario, o dei suoi eredi ed aventi causa, gli atti compiuti personalmente dal beneficiario in violazione delle disposizioni di legge o di quelle contenute nel decreto che istituisce l'amministrazione di sostegno. Le azioni relative si prescrivono nel termine di cinque anni. Il termine decorre dal momento in cui e' cessato lo stato di sottoposizione all'amministrazione di sostegno.))",
+    "caratteri": 793
+  },
+  "note": [],
+  "impronta": "sha256:6f92b7183d3d982628718dfee7634ca91a1b072a8746c4efb274e3e4b1fad6e9"
+}

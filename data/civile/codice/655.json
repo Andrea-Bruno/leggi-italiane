@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "655",
+    "rubrica": "Legato di cosa da prendersi da certo luogo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art655"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il legato di cose da prendersi da certo luogo ha effetto soltanto se le cose vi si trovano, e per la parte che vi si trova; ha tuttavia effetto per l'intero quando, alla morte del testatore, le cose non vi si trovano, in tutto o in parte, perche' erano state rimosse temporaneamente dal luogo in cui di solito erano custodite.",
+    "con_marcatori": "Art. 655. (Legato di cosa da prendersi da certo luogo). Il legato di cose da prendersi da certo luogo ha effetto soltanto se le cose vi si trovano, e per la parte che vi si trova; ha tuttavia effetto per l'intero quando, alla morte del testatore, le cose non vi si trovano, in tutto o in parte, perche' erano state rimosse temporaneamente dal luogo in cui di solito erano custodite.",
+    "caratteri": 326
+  },
+  "note": [],
+  "impronta": "sha256:d233832c0da408a20a9c0c9dc804286e9ce9ad8a17c2453b52b59b54b94c29d5"
+}

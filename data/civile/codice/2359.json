@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2359",
+    "rubrica": "Societa' controllate e societa' collegate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono considerate societa' controllate: 1) le societa' in cui un'altra societa' dispone della maggioranza dei voti esercitabili nell'assemblea ordinaria; 2) le societa' in cui un'altra societa' dispone di voti sufficienti per esercitare un'influenza dominante nell'assemblea ordinaria; 3) le societa' che sono sotto influenza dominante di un'altra societa' in virtu' di particolari vincoli contrattuali con essa. Ai fini dell'applicazione dei numeri 1) e 2) del primo comma si computano anche i voti spettanti a societa' controllate, a societa' fiduciarie e a persona interposta: non si computano i voti spettanti per conto di terzi. Sono considerate collegate le societa' sulle quali un'altra societa' esercita un'influenza notevole. L'influenza si presume quando nell'assemblea ordinaria puo' essere esercitato almeno un quinto dei voti ovvero un decimo se la societa' ha azioni quotate in mercati regolamentati.",
+    "con_marcatori": "Art. 2359. (Societa' controllate e societa' collegate). Sono considerate societa' controllate: 1) le societa' in cui un'altra societa' dispone della maggioranza dei voti esercitabili nell'assemblea ordinaria; 2) le societa' in cui un'altra societa' dispone di voti sufficienti per esercitare un'influenza dominante nell'assemblea ordinaria; 3) le societa' che sono sotto influenza dominante di un'altra societa' in virtu' di particolari vincoli contrattuali con essa. Ai fini dell'applicazione dei numeri 1) e 2) del primo comma si computano anche i voti spettanti a societa' controllate, a societa' fiduciarie e a persona interposta: non si computano i voti spettanti per conto di terzi. Sono considerate collegate le societa' sulle quali un'altra societa' esercita un'influenza notevole. L'influenza si presume quando nell'assemblea ordinaria puo' essere esercitato almeno un quinto dei voti ovvero un decimo se la societa' ha azioni quotate ((in mercati regolamentati)).",
+    "caratteri": 913
+  },
+  "note": [],
+  "impronta": "sha256:a1b5d555c26890f63ca6f485d7a115a67d8b744e238a18bcd3a93c632e953b0a"
+}

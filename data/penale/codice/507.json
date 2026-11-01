@@ -1,0 +1,114 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "507",
+    "rubrica": "Boicottaggio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art507"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 45,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, per uno degli scopi indicati negli articoli 502, 503, 504 e 505, mediante propaganda o valendosi della forza e autorita' di partiti, leghe o associazioni, induce una o piu' persone a non stipulare patti di lavoro o a non somministrare materie o strumenti necessari al lavoro, ovvero a non acquistare gli altrui prodotti agricoli o industriali, e' punito con la reclusione fino a tre anni. Se concorrono fatti di violenza o di minaccia, si applica la reclusione da due a sei anni.",
+    "con_marcatori": "Art. 507. (Boicottaggio) Chiunque, per uno degli scopi indicati negli articoli 502, 503, 504 e 505, mediante propaganda o valendosi della forza e autorita' di partiti, leghe o associazioni, induce una o piu' persone a non stipulare patti di lavoro o a non somministrare materie o strumenti necessari al lavoro, ovvero a non acquistare gli altrui prodotti agricoli o industriali, e' punito con la reclusione fino a tre anni. Se concorrono fatti di violenza o di minaccia, si applica la reclusione da due a sei anni. (36) ((45))",
+    "caratteri": 489
+  },
+  "note": [
+    {
+      "numero": 36,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 4 giugno 1966, n. 332",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1966-06-04;332",
+          "data": "1966-06-04",
+          "numero": "332",
+          "data_gazzetta": "1966-06-04"
+        },
+        {
+          "denominazione": "art. 510",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "635 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 giugno 1966, n. 332 ha disposto (con l'art. 2, comma 1, lettera d)) che e' concessa amnistia \"per i reati previsti negli articoli 330, primo capoverso, 337, 340, 341, 414, 415, 507, 508 - anche in relazione all'art. 510 - 610 e 635 del Codice penale e dal decreto legislativo 22 gennaio 1948, n. 66, se commessi per motivi ed in occasione di manifestazioni sindacali\". Ha inoltre disposto (con l'art. 16, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966."
+    },
+    {
+      "numero": 45,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 507 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1969-04-17",
+        "numero": "84"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2 - 17 aprile 1969, n. 84 (in G.U. 1ª s.s. 23/04/1969, n. 105), ha dichiarato l'illegittimita' costituzionale \"dell'art. 507 del Codice penale per la parte relativa all'ipotesi della propaganda e nei limiti di cui alla motivazione\"."
+    }
+  ],
+  "impronta": "sha256:aca732965f4314f8d7d38a9655d0f126c22e645059ac838d20c2f8c4210fc82e"
+}

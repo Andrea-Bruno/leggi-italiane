@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "553",
+    "rubrica": "Riduzione delle porzioni degli eredi legittimi in concorso con legittimari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art553"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando sui beni lasciati dal defunto si apre in tutto o in parte la successione legittima, nel concorso di legittimari con altri successibili, le porzioni che spetterebbero a questi ultimi si riducono proporzionalmente nei limiti in cui e' necessario per integrare la quota riservata ai legittimari, i quali pero' devono imputare a questa, ai sensi dell'art. 564, quanto hanno ricevuto dal defunto in virtu' di donazioni o di legati.",
+    "con_marcatori": "Art. 553. (Riduzione delle porzioni degli eredi legittimi in concorso con legittimari). Quando sui beni lasciati dal defunto si apre in tutto o in parte la successione legittima, nel concorso di legittimari con altri successibili, le porzioni che spetterebbero a questi ultimi si riducono proporzionalmente nei limiti in cui e' necessario per integrare la quota riservata ai legittimari, i quali pero' devono imputare a questa, ai sensi dell'art. 564, quanto hanno ricevuto dal defunto in virtu' di donazioni o di legati.",
+    "caratteri": 433
+  },
+  "note": [],
+  "impronta": "sha256:d7a8604549f01e492845afe49264ac6419616d0d9a675787c307c9057bd0a50f"
+}

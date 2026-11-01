@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1203",
+    "rubrica": "Surrogazione legale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1203"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La surrogazione ha luogo di diritto nei seguenti casi: 1) a vantaggio di chi, essendo creditore, ancorche' chirografario, paga un altro creditore che ha diritto di essergli preferito in ragione dei suoi privilegi, del suo pegno o delle sue ipoteche; 2) a vantaggio dell'acquirente di un immobile che, fino alla concorrenza del prezzo di acquisto, paga uno o piu' creditori a favore dei quali l'immobile e' ipotecato; 3) a vantaggio di colui che, essendo tenuto con altri o per altri al pagamento del debito, aveva interesse di soddisfarlo; 4) a vantaggio dell'erede con beneficio d'inventario, che paga con danaro proprio i debiti ereditari; 5) negli altri casi stabiliti dalla legge.",
+    "con_marcatori": "Art. 1203. (Surrogazione legale). La surrogazione ha luogo di diritto nei seguenti casi: 1) a vantaggio di chi, essendo creditore, ancorche' chirografario, paga un altro creditore che ha diritto di essergli preferito in ragione dei suoi privilegi, del suo pegno o delle sue ipoteche; 2) a vantaggio dell'acquirente di un immobile che, fino alla concorrenza del prezzo di acquisto, paga uno o piu' creditori a favore dei quali l'immobile e' ipotecato; 3) a vantaggio di colui che, essendo tenuto con altri o per altri al pagamento del debito, aveva interesse di soddisfarlo; 4) a vantaggio dell'erede con beneficio d'inventario, che paga con danaro proprio i debiti ereditari; 5) negli altri casi stabiliti dalla legge.",
+    "caratteri": 684
+  },
+  "note": [],
+  "impronta": "sha256:03e3d870dfb5351e1036f238ee26df7ef972c83295d62ffef198eefd1bb021e8"
+}

@@ -1,0 +1,101 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "569",
+    "rubrica": "Pena accessoria",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art569"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 237,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 244,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La condanna pronunciata contro il genitore per alcuno dei delitti preveduti da questo capo importa la perdita della responsabilita' genitoriale o della tutela legale.",
+    "con_marcatori": "Art. 569. (Pena accessoria) La condanna pronunciata contro il genitore per alcuno dei delitti preveduti da questo capo importa la perdita della ((responsabilita' genitoriale)) o della tutela legale. (237) (244)",
+    "caratteri": 166
+  },
+  "note": [
+    {
+      "numero": 237,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "articolo 567, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2012-02-23",
+        "numero": "31"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 15 - 23 febbraio 2012, n. 31 (in G.U. 1ª s.s. 29/02/2012, n. 9) ha dichiarato l'illegittimita' costituzionale del presente articolo, nella parte in cui stabilisce che, in caso di condanna pronunciata contro il genitore per il delitto di alterazione di stato, previsto dall'articolo 567, secondo comma, del codice penale, consegua di diritto la perdita della potesta' genitoriale, cosi' precludendo al giudice ogni possibilita' di valutazione dell'interesse del minore nel caso concreto."
+    },
+    {
+      "numero": 244,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "articolo 566, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2013-01-23",
+        "numero": "7"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 16 - 23 gennaio 2013, n. 7 (in G.U. 1ª s.s. 30/01/2013, n. 5) ha dichiarato l'illegittimita' costituzionale del presente articolo, nella parte in cui stabilisce che, in caso di condanna pronunciata contro il genitore per il delitto di soppressione di stato, previsto dall'articolo 566, secondo comma, del codice penale, consegua di diritto la perdita della potesta' genitoriale, cosi' precludendo al giudice ogni possibilita' di valutazione dell'interesse del minore nel caso concreto."
+    }
+  ],
+  "impronta": "sha256:880cce7b1bdf1771a4d2e4adb034389fce42eef69bef053e1d72067df0dd4e33"
+}

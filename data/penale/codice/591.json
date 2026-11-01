@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "591",
+    "rubrica": "Abbandono di persone minori o incapaci",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art591"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque abbandona una persona minore degli anni quattordici, ovvero una persona incapace, per malattia di mente o di corpo, per vecchiaia, o per altra causa, di provvedere a se' stessa, e della quale abbia la custodia o debba avere cura, e' punito con la reclusione da sei mesi a cinque anni. Alla stessa pena soggiace chi abbandona all'estero un cittadino italiano minore degli anni diciotto, a lui affidato nel territorio dello Stato per ragioni di lavoro. La pena e' della reclusione da uno a sei anni se dal fatto deriva una lesione personale, ed e' da tre a otto anni se ne deriva la morte. Le pene sono aumentate se il fatto e' commesso dal genitore, dal figlio, dal tutore o dal coniuge, ovvero dall'adottante o dall'adottato.",
+    "con_marcatori": "Art. 591. (Abbandono di persone minori o incapaci) Chiunque abbandona una persona minore degli anni quattordici, ovvero una persona incapace, per malattia di mente o di corpo, per vecchiaia, o per altra causa, di provvedere a se' stessa, e della quale abbia la custodia o debba avere cura, e' punito con la reclusione da sei mesi a cinque anni. Alla stessa pena soggiace chi abbandona all'estero un cittadino italiano minore degli anni diciotto, a lui affidato nel territorio dello Stato per ragioni di lavoro. La pena e' della reclusione da uno a sei anni se dal fatto deriva una lesione personale, ed e' da tre a otto anni se ne deriva la morte. Le pene sono aumentate se il fatto e' commesso dal genitore, dal figlio, dal tutore o dal coniuge, ovvero dall'adottante o dall'adottato.",
+    "caratteri": 734
+  },
+  "note": [],
+  "impronta": "sha256:bc576bb4861a03309249a8349e11602382810ad69b32ac555dd4876dcc7a826a"
+}

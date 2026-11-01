@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "462",
+    "rubrica": "Falsificazione di biglietti di pubbliche imprese di trasporto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art462"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque contraffa' o altera biglietti di strade ferrate o di altre pubbliche imprese di trasporto, ovvero, non essendo concorso nella contraffazione o nell'alterazione, acquista o detiene al fine di metterli in circolazione, o mette in circolazione tali biglietti contraffatti o alterati, e' punito con la reclusione fino a un anno e con la multa da lire cento a duemila.",
+    "con_marcatori": "Art. 462. (Falsificazione di biglietti di pubbliche imprese di trasporto) Chiunque contraffa' o altera biglietti di strade ferrate o di altre pubbliche imprese di trasporto, ovvero, non essendo concorso nella contraffazione o nell'alterazione, acquista o detiene al fine di metterli in circolazione, o mette in circolazione tali biglietti contraffatti o alterati, e' punito con la reclusione fino a un anno e con la multa da lire cento a duemila.",
+    "caratteri": 372
+  },
+  "note": [],
+  "impronta": "sha256:dc814116d440eda8205a2c9f5a2af96cdd1b2096b4cfc14fd7aaddc616b0da26"
+}

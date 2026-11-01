@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2415",
+    "rubrica": "Assemblea degli obbligazionisti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2415"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea degli obbligazionisti delibera: 1) sulla nomina e sulla revoca del rappresentante comune; 2) sulle modificazioni delle condizioni del prestito; 3) sulla proposta di amministrazione controllata e di concordato; 4) sulla costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi e sul rendiconto relativo; 5) sugli altri oggetti d'interesse comune degli obbligazionisti. L'assemblea e' convocata dal consiglio di amministrazione, dal consiglio di gestione o dal rappresentante degli obbligazionisti, quando lo ritengono necessario, o quando ne e' fatta richiesta da tanti obbligazionisti che rappresentino il ventesimo dei titoli emessi e non estinti. Si applicano all'assemblea degli obbligazionisti le disposizioni relative all'assemblea straordinaria dei soci e le sue deliberazioni sono iscritte, a cura del notaio che ha redatto il verbale, nel registro delle imprese. Per la validita' delle deliberazioni sull'oggetto indicato nel primo comma, numero 2, e' necessario anche in seconda convocazione il voto favorevole degli obbligazionisti che rappresentino la meta' delle obbligazioni emesse e non estinte.Quando le obbligazioni sono ammesse al sistema di gestione accentrata la legittimazione all'intervento e al voto nell'assemblea degli obbligazionisti e' disciplinata dalle leggi speciali. La societa', per le obbligazioni da essa eventualmente possedute, non puo' partecipare alle deliberazioni. All'assemblea degli obbligazionisti possono assistere gli amministratori, i sindaci e i componenti del consiglio di gestione o di sorveglianza.",
+    "con_marcatori": "Art. 2415. (Assemblea degli obbligazionisti). L'assemblea degli obbligazionisti delibera: 1) sulla nomina e sulla revoca del rappresentante comune; 2) sulle modificazioni delle condizioni del prestito; 3) sulla proposta di amministrazione controllata e di concordato; 4) sulla costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi e sul rendiconto relativo; 5) sugli altri oggetti d'interesse comune degli obbligazionisti. L'assemblea e' convocata ((dal consiglio di amministrazione, dal consiglio di gestione)) o dal rappresentante degli obbligazionisti, quando lo ritengono necessario, o quando ne e' fatta richiesta da tanti obbligazionisti che rappresentino il ventesimo dei titoli emessi e non estinti. Si applicano all'assemblea degli obbligazionisti le disposizioni relative all'assemblea straordinaria dei soci e le sue deliberazioni sono iscritte, a cura del notaio che ha redatto il verbale, nel registro delle imprese. Per la validita' delle deliberazioni sull'oggetto indicato nel primo comma, numero 2, e' necessario anche in seconda convocazione il voto favorevole degli obbligazionisti che rappresentino la meta' delle obbligazioni emesse e non estinte.((Quando le obbligazioni sono ammesse al sistema di gestione accentrata la legittimazione all'intervento e al voto nell'assemblea degli obbligazionisti e' disciplinata dalle leggi speciali.)) La societa', per le obbligazioni da essa eventualmente possedute, non puo' partecipare alle deliberazioni. ((All'assemblea degli obbligazionisti possono assistere gli amministratori, i sindaci e i componenti del consiglio di gestione o di sorveglianza.)) ((207))",
+    "caratteri": 1584
+  },
+  "note": [
+    {
+      "numero": 207,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 giugno 2012, n. 91",
+          "urn": "urn:nir:stato:decretoLegislativo:2012-06-18;91",
+          "data": "2012-06-18",
+          "numero": "91",
+          "data_gazzetta": "2012-07-02"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5) che \"Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013. \""
+    }
+  ],
+  "impronta": "sha256:a158518a4f4e36ba92230ef49858fe98e930fbce1d1d38f3b6cc38cc299fad69"
+}

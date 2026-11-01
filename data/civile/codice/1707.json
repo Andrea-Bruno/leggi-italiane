@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1707",
+    "rubrica": "Creditori del mandatario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1707"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I creditori del mandatario non possono far valere le loro ragioni sui beni che, in esecuzione del mandato, il mandatario ha acquistati in nome proprio, purche', trattandosi di beni mobili o di crediti, il mandato risulti da scrittura avente data certa anteriore al pignoramento, ovvero, trattandosi di beni immobili o di beni mobili iscritti in pubblici registri, sia anteriore al pignoramento la trascrizione dell'atto di ritrasferimento o della domanda giudiziale diretta a conseguirlo.",
+    "con_marcatori": "Art. 1707. (Creditori del mandatario). I creditori del mandatario non possono far valere le loro ragioni sui beni che, in esecuzione del mandato, il mandatario ha acquistati in nome proprio, purche', trattandosi di beni mobili o di crediti, il mandato risulti da scrittura avente data certa anteriore al pignoramento, ovvero, trattandosi di beni immobili o di beni mobili iscritti in pubblici registri, sia anteriore al pignoramento la trascrizione dell'atto di ritrasferimento o della domanda giudiziale diretta a conseguirlo.",
+    "caratteri": 488
+  },
+  "note": [],
+  "impronta": "sha256:7e4ba27032861f16ba53cddb052b1403f3294025b4208600c59dd3109d3ce287"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-undecies",
+    "rubrica": "Uscita o esportazione illecite di beni culturali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-undecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque trasferisce all'estero beni culturali, cose di interesse artistico, storico, archeologico, etnoantropologico, bibliografico, documentale o archivistico o altre cose oggetto di specifiche disposizioni di tutela ai sensi della normativa sui beni culturali, senza attestato di libera circolazione o licenza di esportazione, e' punito con la reclusione da due a otto anni e con la multa fino a euro 80.000. La pena prevista al primo comma si applica altresi' nei confronti di chiunque non fa rientrare nel territorio nazionale, alla scadenza del termine, beni culturali, cose di interesse artistico, storico, archeologico, etnoantropologico, bibliografico, documentale o archivistico o altre cose oggetto di specifiche disposizioni di tutela ai sensi della normativa sui beni culturali, per i quali siano state autorizzate l'uscita o l'esportazione temporanee, nonche' nei confronti di chiunque rende dichiarazioni mendaci al fine di comprovare al competente ufficio di esportazione, ai sensi di legge, la non assoggettabilita' di cose di interesse culturale ad autorizzazione all'uscita dal territorio nazionale.",
+    "con_marcatori": "Art. 518-undecies (( (Uscita o esportazione illecite di beni culturali). )) ((Chiunque trasferisce all'estero beni culturali, cose di interesse artistico, storico, archeologico, etnoantropologico, bibliografico, documentale o archivistico o altre cose oggetto di specifiche disposizioni di tutela ai sensi della normativa sui beni culturali, senza attestato di libera circolazione o licenza di esportazione, e' punito con la reclusione da due a otto anni e con la multa fino a euro 80.000. La pena prevista al primo comma si applica altresi' nei confronti di chiunque non fa rientrare nel territorio nazionale, alla scadenza del termine, beni culturali, cose di interesse artistico, storico, archeologico, etnoantropologico, bibliografico, documentale o archivistico o altre cose oggetto di specifiche disposizioni di tutela ai sensi della normativa sui beni culturali, per i quali siano state autorizzate l'uscita o l'esportazione temporanee, nonche' nei confronti di chiunque rende dichiarazioni mendaci al fine di comprovare al competente ufficio di esportazione, ai sensi di legge, la non assoggettabilita' di cose di interesse culturale ad autorizzazione all'uscita dal territorio nazionale.))",
+    "caratteri": 1118
+  },
+  "note": [],
+  "impronta": "sha256:bf998a6c9c06950d2a660cad2a498a37c71d685475a3f5abf0dafbeebe0e1aac"
+}

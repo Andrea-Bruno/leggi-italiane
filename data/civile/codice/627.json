@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "627",
+    "rubrica": "Disposizione fiduciaria",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art627"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non e' ammessa azione in giudizio per accertare che le disposizioni fatte a favore di persona dichiarata nel testamento sono soltanto apparenti e che in realta' riguardano altra persona, anche se espressioni del testamento possono indicare o far presumere che si tratta di persona interposta. Tuttavia la persona dichiarata nel testamento, se ha spontaneamente eseguito la disposizione fiduciaria trasferendo i beni alla persona voluta dal testatore, non puo' agire per la ripetizione, salvo che sia un incapace. Le disposizioni di questo articolo non si applicano al caso in cui l'istituzione o il legato sono impugnati come fatti per interposta persona a favore d'incapaci a ricevere.",
+    "con_marcatori": "Art. 627. (Disposizione fiduciaria). Non e' ammessa azione in giudizio per accertare che le disposizioni fatte a favore di persona dichiarata nel testamento sono soltanto apparenti e che in realta' riguardano altra persona, anche se espressioni del testamento possono indicare o far presumere che si tratta di persona interposta. Tuttavia la persona dichiarata nel testamento, se ha spontaneamente eseguito la disposizione fiduciaria trasferendo i beni alla persona voluta dal testatore, non puo' agire per la ripetizione, salvo che sia un incapace. Le disposizioni di questo articolo non si applicano al caso in cui l'istituzione o il legato sono impugnati come fatti per interposta persona a favore d'incapaci a ricevere.",
+    "caratteri": 686
+  },
+  "note": [],
+  "impronta": "sha256:c17ef68cf5f2088fa1911dfad8ea589876cdc6203ee4424edda8103a12b5d9ea"
+}

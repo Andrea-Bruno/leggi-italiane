@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2547",
+    "rubrica": "Norme applicabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2547"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le societa' di mutua assicurazione sono soggette alle autorizzazioni, alla vigilanza e agli altri controlli stabiliti dalle leggi speciali sull'esercizio dell'assicurazione, e sono regolate dalle norme stabilite per le societa' cooperative, in quanto compatibili con la loro natura.",
+    "con_marcatori": "Art. 2547. (( (Norme applicabili).)) ((Le societa' di mutua assicurazione sono soggette alle autorizzazioni, alla vigilanza e agli altri controlli stabiliti dalle leggi speciali sull'esercizio dell'assicurazione, e sono regolate dalle norme stabilite per le societa' cooperative, in quanto compatibili con la loro natura.))",
+    "caratteri": 282
+  },
+  "note": [],
+  "impronta": "sha256:2492e555cec0a0c2ab50eb52672791b7e44ad9a8ba56aaf51516e4c6d927cb06"
+}

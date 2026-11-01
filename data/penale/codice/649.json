@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "649",
+    "rubrica": "Non punibilita' e querela della persona offesa, per fatti commessi a danno di congiunti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art649"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non e' punibile chi ha commesso alcuno dei fatti preveduti da questo titolo in danno: 1° del coniuge non legalmente separato; 1-bis. della parte dell'unione civile tra persone dello stesso sesso; 2° di un ascendente o discendente o di un affine in linea retta, ovvero dell'adottante o dell'adottato; 3° di un fratello o di una sorella che con lui convivano. I fatti preveduti da questo titolo sono punibili a querela della persona offesa, se commessi a danno del coniuge legalmente separato o della parte dell'unione civile tra persone dello stesso sesso, nel caso in cui sia stata manifestata la volonta' di scioglimento dinanzi all'ufficiale dello stato civile e non sia intervenuto lo scioglimento della stessa, ovvero del fratello o della sorella che non convivano coll'autore del fatto, ovvero dello zio o del nipote o dell'affine in secondo grado con lui conviventi. Le disposizioni di questo articolo non si applicano ai delitti preveduti dagli articoli 628, 629 e 630 e ad ogni altro delitto contro il patrimonio che sia commesso con violenza alle persone.",
+    "con_marcatori": "Art. 649. (Non punibilita' e querela della persona offesa, per fatti commessi a danno di congiunti) Non e' punibile chi ha commesso alcuno dei fatti preveduti da questo titolo in danno: 1° del coniuge non legalmente separato; ((1-bis. della parte dell'unione civile tra persone dello stesso sesso;)) 2° di un ascendente o discendente o di un affine in linea retta, ovvero dell'adottante o dell'adottato; 3° di un fratello o di una sorella che con lui convivano. I fatti preveduti da questo titolo sono punibili a querela della persona offesa, se commessi a danno del coniuge legalmente separato ((o della parte dell'unione civile tra persone dello stesso sesso, nel caso in cui sia stata manifestata la volonta' di scioglimento dinanzi all'ufficiale dello stato civile e non sia intervenuto lo scioglimento della stessa)), ovvero del fratello o della sorella che non convivano coll'autore del fatto, ovvero dello zio o del nipote o dell'affine in secondo grado con lui conviventi. Le disposizioni di questo articolo non si applicano ai delitti preveduti dagli articoli 628, 629 e 630 e ad ogni altro delitto contro il patrimonio che sia commesso con violenza alle persone.",
+    "caratteri": 1064
+  },
+  "note": [],
+  "impronta": "sha256:71995df713f93e4d61b69b783e379462f71e19d57a700adc0948a90e7de0e8ef"
+}

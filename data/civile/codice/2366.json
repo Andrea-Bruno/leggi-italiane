@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2366",
+    "rubrica": "Formalita' per la convocazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2366"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea e' convocata dall'amministratore unico, dal consiglio di amministrazione o dal consiglio di gestione mediante avviso contenente l'indicazione del giorno, dell'ora e del luogo dell'adunanza e l'elenco delle materie da trattare. L'avviso deve essere pubblicato nella Gazzetta Ufficiale della Repubblica o in almeno un quotidiano indicato nello statuto almeno quindici giorni prima di quello fissato per l'assemblea. Se i quotidiani indicati nello statuto hanno cessato le pubblicazioni, l'avviso deve essere pubblicato nella Gazzetta Ufficiale. Per le societa' ... che fanno ricorso al mercato del capitale di rischio, le modalita' di pubblicazione dell'avviso sono definite dalle leggi speciali. Lo statuto delle societa' che non fanno ricorso al mercato del capitale di rischio puo', in deroga al comma precedente, consentire la convocazione mediante avviso comunicato ai soci con mezzi che garantiscano la prova dell'avvenuto ricevimento almeno otto giorni prima dell'assemblea. In mancanza delle formalita' previste per la convocazione, l'assemblea si reputa regolarmente costituita, quando e' rappresentato l'intero capitale sociale e partecipa all'assemblea la maggioranza dei componenti degli organi amministrativi e di controllo. Tuttavia in tale ipotesi ciascuno dei partecipanti puo' opporsi alla discussione degli argomenti sui quali non si ritenga sufficientemente informato. Nell'ipotesi di cui al comma precedente, dovra' essere data tempestiva comunicazione delle deliberazioni assunte ai componenti degli organi amministrativi e di controllo non presenti.",
+    "con_marcatori": "Art. 2366. (Formalita' per la convocazione). ((L'assemblea e' convocata dall'amministratore unico, dal consiglio di amministrazione)) o dal consiglio di gestione mediante avviso contenente l'indicazione del giorno, dell'ora e del luogo dell'adunanza e l'elenco delle materie da trattare.((207)) L'avviso deve essere pubblicato nella Gazzetta Ufficiale della Repubblica o in almeno un quotidiano indicato nello statuto almeno quindici giorni prima di quello fissato per l'assemblea. Se i quotidiani indicati nello statuto hanno cessato le pubblicazioni, l'avviso deve essere pubblicato nella Gazzetta Ufficiale. Per le societa' ((...)) che fanno ricorso al mercato del capitale di rischio, le modalita' di pubblicazione dell'avviso sono definite dalle leggi speciali.((207)) Lo statuto delle societa' che non fanno ricorso al mercato del capitale di rischio puo', in deroga al comma precedente, consentire la convocazione mediante avviso comunicato ai soci con mezzi che garantiscano la prova dell'avvenuto ricevimento almeno otto giorni prima dell'assemblea. In mancanza delle formalita' previste per la convocazione, l'assemblea si reputa regolarmente costituita, quando e' rappresentato l'intero capitale sociale e partecipa all'assemblea la maggioranza dei componenti degli organi amministrativi e di controllo. Tuttavia in tale ipotesi ciascuno dei partecipanti puo' opporsi alla discussione degli argomenti sui quali non si ritenga sufficientemente informato. Nell'ipotesi di cui al comma precedente, dovra' essere data tempestiva comunicazione delle deliberazioni assunte ai componenti degli organi amministrativi e di controllo non presenti.",
+    "caratteri": 1581
+  },
+  "note": [
+    {
+      "numero": 207,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 giugno 2012, n. 91",
+          "urn": "urn:nir:stato:decretoLegislativo:2012-06-18;91",
+          "data": "2012-06-18",
+          "numero": "91",
+          "data_gazzetta": "2012-07-02"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 giugno 2012, n. 91 ha disposto (con l'art. 5, comma 1) che \"Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013.\""
+    }
+  ],
+  "impronta": "sha256:9adf20c64cd8b0166b9a00fa8f9288c0ae02a3a5c4b8c04538ae87ab62c637a8"
+}

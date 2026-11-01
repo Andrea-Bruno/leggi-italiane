@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2963",
+    "rubrica": "Computo dei termini di prescrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2963"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I termini di prescrizione contemplati dal presente codice e dalle altre leggi si computano secondo il calendario comune. Non si computa il giorno nel corso del quale cade il momento iniziale del termine e la prescrizione si verifica con lo spirare dell'ultimo istante del giorno finale. Se il termine scade in giorno festivo, e' prorogato di diritto al giorno seguente non festivo. La prescrizione a mesi si verifica nel mese di scadenza e nel giorno di questo corrispondente al giorno del mese iniziale. Se nel mese di scadenza manca tale giorno, il termine si compie con l'ultimo giorno dello stesso mese.",
+    "con_marcatori": "Art. 2963. (Computo dei termini di prescrizione). I termini di prescrizione contemplati dal presente codice e dalle altre leggi si computano secondo il calendario comune. Non si computa il giorno nel corso del quale cade il momento iniziale del termine e la prescrizione si verifica con lo spirare dell'ultimo istante del giorno finale. Se il termine scade in giorno festivo, e' prorogato di diritto al giorno seguente non festivo. La prescrizione a mesi si verifica nel mese di scadenza e nel giorno di questo corrispondente al giorno del mese iniziale. Se nel mese di scadenza manca tale giorno, il termine si compie con l'ultimo giorno dello stesso mese.",
+    "caratteri": 607
+  },
+  "note": [],
+  "impronta": "sha256:cf0cd7f2b1b0123e54e7345f9ee098efcd6cbb23c855e9565b81f4bada4ea689"
+}

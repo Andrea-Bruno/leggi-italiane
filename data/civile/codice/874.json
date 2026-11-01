@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "874",
+    "rubrica": "Comunione forzosa del muro sul confine",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art874"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario di un fondo contiguo al muro altrui puo' chiederne la comunione per tutta l'altezza o per parte di essa, purche' lo faccia per tutta l'estensione della sua proprieta'. Per ottenere la comunione deve pagare la meta' del valore del muro, o della parte di muro resa comune, e la meta' del valore del suolo su cui il muro e' costruito. Deve inoltre eseguire le opere che occorrono per non danneggiare il vicino.",
+    "con_marcatori": "Art. 874. (Comunione forzosa del muro sul confine). Il proprietario di un fondo contiguo al muro altrui puo' chiederne la comunione per tutta l'altezza o per parte di essa, purche' lo faccia per tutta l'estensione della sua proprieta'. Per ottenere la comunione deve pagare la meta' del valore del muro, o della parte di muro resa comune, e la meta' del valore del suolo su cui il muro e' costruito. Deve inoltre eseguire le opere che occorrono per non danneggiare il vicino.",
+    "caratteri": 423
+  },
+  "note": [],
+  "impronta": "sha256:7ebecd9a7457ccde5b3bf81ab371fae264e6304d56d2e557df1308b2d924c097"
+}

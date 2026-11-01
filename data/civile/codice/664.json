@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "664",
+    "rubrica": "Adempimento del legato di genere",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art664"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel legato di cosa determinata soltanto nel genere, la scelta, quando dal testatore non e' affidata al legatario o a un terzo, spetta all'onerato. Questi e' obbligato a dare cose di qualita' non inferiore alla media; ma se nel patrimonio ereditario vi e' una sola delle cose appartenenti al genere indicato, l'onerato non ha facolta' ne' puo' essere obbligato a prestarne un'altra, salvo espressa disposizione contraria del testatore. Se la scelta e' lasciata dal testatore al legatario o a un terzo, questi devono scegliere una cosa di media qualita'; ma se cose del genere indicato si trovano nell'eredita', il legatario puo' scegliere la migliore. Se il terzo non puo' o non vuole fare la scelta, questa e' fatta a norma del terzo comma dell'art. 631.",
+    "con_marcatori": "Art. 664. (Adempimento del legato di genere). Nel legato di cosa determinata soltanto nel genere, la scelta, quando dal testatore non e' affidata al legatario o a un terzo, spetta all'onerato. Questi e' obbligato a dare cose di qualita' non inferiore alla media; ma se nel patrimonio ereditario vi e' una sola delle cose appartenenti al genere indicato, l'onerato non ha facolta' ne' puo' essere obbligato a prestarne un'altra, salvo espressa disposizione contraria del testatore. Se la scelta e' lasciata dal testatore al legatario o a un terzo, questi devono scegliere una cosa di media qualita'; ma se cose del genere indicato si trovano nell'eredita', il legatario puo' scegliere la migliore. Se il terzo non puo' o non vuole fare la scelta, questa e' fatta a norma del terzo comma dell'art. 631.",
+    "caratteri": 754
+  },
+  "note": [],
+  "impronta": "sha256:fabd74af6c708a6ea02e0cbd4db00cda1c6332d9d6996198c626922e7d6922aa"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2810",
+    "rubrica": "Oggetto dell'ipoteca",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2810"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono capaci d'ipoteca: 1) i beni immobili che sono in commercio con le loro pertinenze; 2) l'usufrutto dei beni stessi; 3) il diritto di superficie; 4) il diritto dell'enfiteuta e quello del concedente sul fondo enfiteutico. Sono anche capaci d'ipoteca le rendite dello Stato nel modo determinato dalle leggi relative al debito pubblico, e inoltre le navi, gli aeromobili e gli autoveicoli, secondo le leggi che li riguardano. Sono considerati ipoteche i privilegi iscritti sugli autoveicoli a norma della legge speciale.",
+    "con_marcatori": "Art. 2810. (Oggetto dell'ipoteca). Sono capaci d'ipoteca: 1) i beni immobili che sono in commercio con le loro pertinenze; 2) l'usufrutto dei beni stessi; 3) il diritto di superficie; 4) il diritto dell'enfiteuta e quello del concedente sul fondo enfiteutico. Sono anche capaci d'ipoteca le rendite dello Stato nel modo determinato dalle leggi relative al debito pubblico, e inoltre le navi, gli aeromobili e gli autoveicoli, secondo le leggi che li riguardano. Sono considerati ipoteche i privilegi iscritti sugli autoveicoli a norma della legge speciale.",
+    "caratteri": 521
+  },
+  "note": [],
+  "impronta": "sha256:6eead2bc24238913da00e86a4359907aab951558511c0f88353c5f6b4de3dfe9"
+}

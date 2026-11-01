@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1224",
+    "rubrica": "Danni nelle obbligazioni pecuniarie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1224"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle obbligazioni che hanno per oggetto una somma di danaro, sono dovuti dal giorno della mora gli interessi legali, anche se non erano dovuti precedentemente e anche se il creditore non prova di aver sofferto alcun danno. Se prima della mora erano dovuti interessi in misura superiore a quella legale, gli interessi moratori sono dovuti nella stessa misura. Al creditore che dimostra di aver subito un danno maggiore spetta l'ulteriore risarcimento. Questo non e' dovuto se e' stata convenuta la misura degli interessi moratori.",
+    "con_marcatori": "Art. 1224. (Danni nelle obbligazioni pecuniarie). Nelle obbligazioni che hanno per oggetto una somma di danaro, sono dovuti dal giorno della mora gli interessi legali, anche se non erano dovuti precedentemente e anche se il creditore non prova di aver sofferto alcun danno. Se prima della mora erano dovuti interessi in misura superiore a quella legale, gli interessi moratori sono dovuti nella stessa misura. Al creditore che dimostra di aver subito un danno maggiore spetta l'ulteriore risarcimento. Questo non e' dovuto se e' stata convenuta la misura degli interessi moratori.",
+    "caratteri": 530
+  },
+  "note": [],
+  "impronta": "sha256:20604cb914d9b14cc4ec838e0eed7d00ea48183d6d7bf02a0ee45facbb51a024"
+}

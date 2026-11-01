@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1138",
+    "rubrica": "Regolamento di condominio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1138"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando in un edificio il numero dei condomini e' superiore a dieci, deve essere formato un regolamento, il quale contenga le norme circa l'uso delle cose comuni e la ripartizione delle spese, secondo i diritti e gli obblighi spettanti a ciascun condomino, nonche' le norme per la tutela del decoro dell'edificio e quelle relative all'amministrazione. Ciascun condomino puo' prendere l'iniziativa per la formazione del regolamento di condominio o per la revisione di quello esistente. Il regolamento deve essere approvato dall'assemblea con la maggioranza stabilita dal secondo comma dell'articolo 1136 ed allegato al registro indicato dal numero 7) dell'articolo 1130. Esso puo' essere impugnato a norma dell'articolo 1107. Le norme del regolamento non possono in alcun modo menomare i diritti di ciascun condomino, quali risultano dagli atti di acquisto e dalle convenzioni, e in nessun caso possono derogare alle disposizioni degli articoli 1118, secondo comma, 1119, 1120, 1129, 1131, 1132, 1136 e 1137. Le norme del regolamento non possono vietare di possedere o detenere animali domestici.",
+    "con_marcatori": "Art. 1138. (Regolamento di condominio). Quando in un edificio il numero dei condomini e' superiore a dieci, deve essere formato un regolamento, il quale contenga le norme circa l'uso delle cose comuni e la ripartizione delle spese, secondo i diritti e gli obblighi spettanti a ciascun condomino, nonche' le norme per la tutela del decoro dell'edificio e quelle relative all'amministrazione. Ciascun condomino puo' prendere l'iniziativa per la formazione del regolamento di condominio o per la revisione di quello esistente. ((Il regolamento deve essere approvato dall'assemblea con la maggioranza stabilita dal secondo comma dell'articolo 1136 ed allegato al registro indicato dal numero 7) dell'articolo 1130. Esso puo' essere impugnato a norma dell'articolo 1107)). Le norme del regolamento non possono in alcun modo menomare i diritti di ciascun condomino, quali risultano dagli atti di acquisto e dalle convenzioni, e in nessun caso possono derogare alle disposizioni degli articoli 1118, secondo comma, 1119, 1120, 1129, 1131, 1132, 1136 e 1137. ((Le norme del regolamento non possono vietare di possedere o detenere animali domestici)).",
+    "caratteri": 1094
+  },
+  "note": [],
+  "impronta": "sha256:646da6b1ed09e1104789804eb3e5600ff98a42ef1301465b150dd1814f250e35"
+}

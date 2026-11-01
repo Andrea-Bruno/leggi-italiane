@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "372",
+    "rubrica": "Falsa testimonianza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art372"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, deponendo come testimone innanzi all'Autorita' giudiziaria o alla Corte penale internazionale, afferma il falso o nega il vero, ovvero tace, in tutto o in parte, cio' che sa intorno ai fatti sui quali e' interrogato, e' punito con la reclusione da due a sei anni.",
+    "con_marcatori": "Art. 372. (Falsa testimonianza) Chiunque, deponendo come testimone innanzi all'Autorita' giudiziaria ((o alla Corte penale internazionale)), afferma il falso o nega il vero, ovvero tace, in tutto o in parte, cio' che sa intorno ai fatti sui quali e' interrogato, e' punito con la reclusione da due a sei anni.",
+    "caratteri": 273
+  },
+  "note": [],
+  "impronta": "sha256:8368a092f142b9aae39e4f6c1b0b59c65cd89ebb2058c59d32ba64fc60ee3e79"
+}

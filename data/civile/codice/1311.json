@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1311",
+    "rubrica": "Rinunzia alla solidarieta'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1311"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore che rinunzia alla solidarieta' a favore di uno dei debitori conserva l'azione in solido contro gli altri. Rinunzia alla solidarieta': 1) il creditore che rilascia a uno dei debitori quietanza per la parte di lui senza alcuna riserva; 2) il creditore che ha agito giudizialmente contro uno dei debitori per la parte di lui, se questi ha aderito alla domanda, o se e' stata pronunciata una sentenza di condanna.",
+    "con_marcatori": "Art. 1311. (Rinunzia alla solidarieta'). Il creditore che rinunzia alla solidarieta' a favore di uno dei debitori conserva l'azione in solido contro gli altri. Rinunzia alla solidarieta': 1) il creditore che rilascia a uno dei debitori quietanza per la parte di lui senza alcuna riserva; 2) il creditore che ha agito giudizialmente contro uno dei debitori per la parte di lui, se questi ha aderito alla domanda, o se e' stata pronunciata una sentenza di condanna.",
+    "caratteri": 422
+  },
+  "note": [],
+  "impronta": "sha256:421208ad5888a913529a145c6772d4e167d59415c2204ff3784ddbd4aa0193d4"
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2518",
+    "rubrica": "Responsabilita' per le obbligazioni sociali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2518"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle societa' cooperative per le obbligazioni sociali risponde soltanto la societa' con il suo patrimonio.",
+    "con_marcatori": "Art. 2518. (( (Responsabilita' per le obbligazioni sociali).)) ((Nelle societa' cooperative per le obbligazioni sociali risponde soltanto la societa' con il suo patrimonio.))",
+    "caratteri": 107
+  },
+  "note": [
+    {
+      "numero": 3,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 287",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;287",
+          "data": "1944-09-14",
+          "numero": "287",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "art. 1 del R. decreto-legge 20 gennaio 1944, n. 25",
+          "urn": "urn:nir:stato:regio.decreto.legge:1944-01-20;25",
+          "data": "1944-01-20",
+          "numero": "25",
+          "data_gazzetta": "1944-02-09"
+        },
+        {
+          "denominazione": "Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 287, ha disposto (con l'art. 3, comma 3) che \"Restano inoltre abrogati, in conformita' dell'art. 1 del R. decreto-legge 20 gennaio 1944, n. 25, gli articoli 1, terzo comma, 91, 155 secondo comma, 292, 342, 348 ultimo comma e 404 ultimo comma del Codice civile, nonche' il riferimento alla razza contenuto negli articoli 2196 n. 1, 2295 n. 1, 2328 n. 1, 2475 n. 1, 2518 n. 1, dello stesso Codice .\""
+    }
+  ],
+  "impronta": "sha256:25a3cbb93a798193ebd74d558b86a3b0b1921b179bab8a16b4c2f475cdd5f87d"
+}

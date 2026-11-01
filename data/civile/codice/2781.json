@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2781",
+    "rubrica": "Concorso di privilegi speciali con crediti pignoratizi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2781"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora con crediti assistiti da privilegio speciale concorra un credito garantito con pegno e uno dei privilegi debba essere preferito rispetto al pegno, tale privilegio prevale su quegli altri che devono essere posposti al pegno, anche se anteriori di grado.",
+    "con_marcatori": "Art. 2781. (Concorso di privilegi speciali con crediti pignoratizi). Qualora con crediti assistiti da privilegio speciale concorra un credito garantito con pegno e uno dei privilegi debba essere preferito rispetto al pegno, tale privilegio prevale su quegli altri che devono essere posposti al pegno, anche se anteriori di grado.",
+    "caratteri": 260
+  },
+  "note": [],
+  "impronta": "sha256:cb9d20041d2d52fd866dfc88d8157da86f75d008572644bf49c7dee2b018de90"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "960",
+    "rubrica": "Obblighi dell'enfiteuta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art960"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'enfiteuta ha l'obbligo di migliorare il fondo e di pagare al concedente un canone periodico. Questo puo' consistere in una somma di danaro ovvero in una quantita' fissa di prodotti naturali. L'enfiteuta non puo' pretendere remissione o riduzione del canone per qualunque insolita sterilita' del fondo o perdita di frutti.",
+    "con_marcatori": "Art. 960. (Obblighi dell'enfiteuta). L'enfiteuta ha l'obbligo di migliorare il fondo e di pagare al concedente un canone periodico. Questo puo' consistere in una somma di danaro ovvero in una quantita' fissa di prodotti naturali. L'enfiteuta non puo' pretendere remissione o riduzione del canone per qualunque insolita sterilita' del fondo o perdita di frutti.",
+    "caratteri": 323
+  },
+  "note": [],
+  "impronta": "sha256:f65ca225e1fe2a9cc1ba6501d42092ad158f940ab2eefb2a84a14a62dc39fc38"
+}

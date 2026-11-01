@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "250",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art250"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Riconoscimento. Il figlio nato fuori del matrimonio puo' essere riconosciuto, nei modi previsti dall'articolo 254, dalla madre e dal padre, anche se gia' uniti in matrimonio con altra persona all'epoca del concepimento. Il riconoscimento puo' avvenire tanto congiuntamente quanto separatamente. Il riconoscimento del figlio che ha compiuto i quattordici anni non produce effetto senza il suo assenso. Il riconoscimento del figlio che non ha compiuto i quattordici anni non puo' avvenire senza il consenso dell'altro genitore che abbia gia' effettuato il riconoscimento. Il consenso non puo' essere rifiutato se risponde all'interesse del figlio. Il genitore che vuole riconoscere il figlio, qualora il consenso dell'altro genitore sia rifiutato, ricorre al giudice competente il quale, assunta ogni opportuna informazione e disposto l'ascolto del minore, adotta eventuali provvedimenti temporanei e urgenti al fine di instaurare la relazione, salvo che la difesa del convenuto non sia palesemente fondata. Con la sentenza che tiene luogo del consenso mancante, il giudice adotta i provvedimenti opportuni in relazione all'affidamento e al mantenimento del minore ai sensi dell'articolo 315-bis e al suo cognome ai sensi dell'articolo 262. Il riconoscimento non puo' essere fatto dai genitori che non abbiano compiuto il sedicesimo anno di eta', salvo che il giudice li autorizzi, valutate le circostanze e avuto riguardo all'interesse del figlio.",
+    "con_marcatori": "Art. 250. Riconoscimento. Il figlio nato fuori del matrimonio puo' essere riconosciuto, nei modi previsti dall'articolo 254, dalla madre e dal padre, anche se gia' uniti in matrimonio con altra persona all'epoca del concepimento. Il riconoscimento puo' avvenire tanto congiuntamente quanto separatamente. Il riconoscimento del figlio che ha compiuto i quattordici anni non produce effetto senza il suo assenso. Il riconoscimento del figlio che non ha compiuto i quattordici anni non puo' avvenire senza il consenso dell'altro genitore che abbia gia' effettuato il riconoscimento. Il consenso non puo' essere rifiutato se risponde all'interesse del figlio. Il genitore che vuole riconoscere il figlio, qualora il consenso dell'altro genitore sia rifiutato, ricorre al giudice competente il quale, assunta ogni opportuna informazione e disposto l'ascolto del minore, adotta eventuali provvedimenti temporanei e urgenti al fine di instaurare la relazione, salvo che la difesa del convenuto non sia palesemente fondata. Con la sentenza che tiene luogo del consenso mancante, il giudice adotta i provvedimenti opportuni in relazione all'affidamento e al mantenimento del minore ai sensi dell'articolo 315-bis e al suo cognome ai sensi dell'articolo 262. (321)((322)) Il riconoscimento non puo' essere fatto dai genitori che non abbiano compiuto il sedicesimo anno di eta', salvo che il giudice li autorizzi, valutate le circostanze e avuto riguardo all'interesse del figlio.",
+    "caratteri": 1446
+  },
+  "note": [
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:e95cdbbf81fc2cca8edf889adceb608e73b6bdacb701b777be9d958b723dc0c0"
+}

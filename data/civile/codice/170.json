@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "170",
+    "rubrica": "Esecuzione sui beni e sui frutti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art170"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La esecuzione sui beni del fondo e sui frutti di essi non puo' aver luogo per debiti che il creditore conosceva essere stati contratti per scopi estranei ai bisogni della famiglia.",
+    "con_marcatori": "Art. 170. ((Esecuzione sui beni e sui frutti.)) ((La esecuzione sui beni del fondo e sui frutti di essi non puo' aver luogo per debiti che il creditore conosceva essere stati contratti per scopi estranei ai bisogni della famiglia)).",
+    "caratteri": 180
+  },
+  "note": [],
+  "impronta": "sha256:f396ec22b3c5fb9faa4297c03ffbfe04c2b799ec5487ad81581dd6d3ac8eeda8"
+}

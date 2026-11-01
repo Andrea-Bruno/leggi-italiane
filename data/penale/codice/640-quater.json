@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "640-quater",
+    "rubrica": "Applicabilita' dell'articolo 322-ter",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art640-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi di cui agli articoli 640, secondo comma, numeri 1 e 2-ter) , 640-bis e 640-ter, secondo comma, con esclusione dell'ipotesi in cui il fatto e' commesso con abuso della qualita' di operatore del sistema, si osservano, in quanto applicabili, le disposizioni contenute nell'articolo 322-ter.",
+    "con_marcatori": "Art. 640-quater. (Applicabilita' dell'articolo 322-ter). Nei casi di cui agli articoli 640, secondo comma, ((numeri 1 e 2-ter) )), 640-bis e 640-ter, secondo comma, con esclusione dell'ipotesi in cui il fatto e' commesso con abuso della qualita' di operatore del sistema, si osservano, in quanto applicabili, le disposizioni contenute nell'articolo 322-ter.",
+    "caratteri": 296
+  },
+  "note": [],
+  "impronta": "sha256:41b16ff20f86785e25cfa5e8eec85f855ebedde5994efc3e409d9af596ddbc9b"
+}

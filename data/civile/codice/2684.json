@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2684",
+    "rubrica": "Atti soggetti a trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2684"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono soggetti alla trascrizione per gli effetti stabiliti dall'art. 2644: 1) i contratti che trasferiscono la proprieta' o costituiscono la comunione; 2) i contratti che costituiscono o modificano diritti di usufrutto o di uso o che trasferiscono il diritto di usufrutto; 3) gli atti tra vivi di rinunzia ai diritti indicati dai numeri precedenti; 4) le transazioni che hanno per oggetto controversie sui diritti indicati dai numeri precedenti; 5) i provvedimenti con i quali nel giudizio di espropriazione si trasferiscono la proprieta' o gli altri diritti menzionati nei numeri precedenti; 6) le sentenze che operano la costituzione, la modificazione o il trasferimento di uno dei diritti indicati dai numeri precedenti.",
+    "con_marcatori": "Art. 2684. (Atti soggetti a trascrizione). Sono soggetti alla trascrizione per gli effetti stabiliti dall'art. 2644: 1) i contratti che trasferiscono la proprieta' o costituiscono la comunione; 2) i contratti che costituiscono o modificano diritti di usufrutto o di uso o che trasferiscono il diritto di usufrutto; 3) gli atti tra vivi di rinunzia ai diritti indicati dai numeri precedenti; 4) le transazioni che hanno per oggetto controversie sui diritti indicati dai numeri precedenti; 5) i provvedimenti con i quali nel giudizio di espropriazione si trasferiscono la proprieta' o gli altri diritti menzionati nei numeri precedenti; 6) le sentenze che operano la costituzione, la modificazione o il trasferimento di uno dei diritti indicati dai numeri precedenti.",
+    "caratteri": 722
+  },
+  "note": [],
+  "impronta": "sha256:b3eff60ab6c9e95f14747dae42e81a1f18ef824d45d577ed42de2e995e0178db"
+}

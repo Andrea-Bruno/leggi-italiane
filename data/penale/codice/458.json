@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "458",
+    "rubrica": "Parificazione delle carte di pubblico credito alle monete",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art458"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Agli effetti della legge penale, sono parificate alle monete le carte di pubblico credito. Per carte di pubblico credito s'intendono, oltre quelle che hanno corso legale come moneta, le carte e cedole al portatore emesse dai Governi, e tutte le altre aventi corso legale emesse da istituti a cio' autorizzati.",
+    "con_marcatori": "Art. 458. (Parificazione delle carte di pubblico credito alle monete) Agli effetti della legge penale, sono parificate alle monete le carte di pubblico credito. Per carte di pubblico credito s'intendono, oltre quelle che hanno corso legale come moneta, le carte e cedole al portatore emesse dai Governi, e tutte le altre aventi corso legale emesse da istituti a cio' autorizzati.",
+    "caratteri": 309
+  },
+  "note": [],
+  "impronta": "sha256:c411d885b0aed3408aa61a36d0a28283c09efca19b62530499ef75aa699625ce"
+}

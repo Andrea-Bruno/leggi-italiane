@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2884",
+    "rubrica": "Cancellazione ordinata con sentenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2884"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La cancellazione deve essere eseguita dal conservatore, quando e' ordinata con sentenza passata in giudicato o con altro provvedimento definitivo emesso dalle autorita' competenti.",
+    "con_marcatori": "Art. 2884. (Cancellazione ordinata con sentenza). La cancellazione deve essere eseguita dal conservatore, quando e' ordinata con sentenza passata in giudicato o con altro provvedimento definitivo emesso dalle autorita' competenti.",
+    "caratteri": 180
+  },
+  "note": [],
+  "impronta": "sha256:d58d200c79b8c78403659d1a1d52e9e8f65342c5a4c52db7323f991eb813db3d"
+}

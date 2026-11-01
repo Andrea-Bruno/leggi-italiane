@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "639-bis",
+    "rubrica": "Casi di esclusione della perseguibilita' a querela",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art639-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi previsti dagli articoli 631, 632, 633 , 634-bis e 636 si procede d'ufficio se si tratta di acque, terreni, fondi o edifici pubblici o destinati ad uso pubblico.",
+    "con_marcatori": "Art. 639-bis. (Casi di esclusione della perseguibilita' a querela). Nei casi previsti dagli articoli 631, 632, 633 ((, 634-bis)) e 636 si procede d'ufficio se si tratta di acque, terreni, fondi o edifici pubblici o destinati ad uso pubblico.",
+    "caratteri": 169
+  },
+  "note": [],
+  "impronta": "sha256:0db24fbd8031d3971f4701f1f94cdab4f450c3557ca47f355e3a77e085a5b94e"
+}

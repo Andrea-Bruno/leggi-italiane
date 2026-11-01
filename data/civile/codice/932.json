@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "932",
+    "rubrica": "Tesoro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art932"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Tesoro e' qualunque cosa mobile di pregio, nascosta o sotterrata, di cui nessuno puo' provare d'essere proprietario. Il tesoro appartiene al proprietario del fondo in cui si trova. Se il tesoro e' trovato nel fondo altrui, purche' sia stato scoperto per solo effetto del caso, spetta per meta' al proprietario del fondo e per meta' al ritrovatore. La stessa disposizione si applica se il tesoro e' scoperto in una cosa mobile altrui. Per il ritrovamento degli oggetti d'interesse storico, archeologico, paletnologico, paleontologico e artistico si osservano le disposizioni delle leggi speciali.",
+    "con_marcatori": "Art. 932. (Tesoro). Tesoro e' qualunque cosa mobile di pregio, nascosta o sotterrata, di cui nessuno puo' provare d'essere proprietario. Il tesoro appartiene al proprietario del fondo in cui si trova. Se il tesoro e' trovato nel fondo altrui, purche' sia stato scoperto per solo effetto del caso, spetta per meta' al proprietario del fondo e per meta' al ritrovatore. La stessa disposizione si applica se il tesoro e' scoperto in una cosa mobile altrui. Per il ritrovamento degli oggetti d'interesse storico, archeologico, paletnologico, paleontologico e artistico si osservano le disposizioni delle leggi speciali.",
+    "caratteri": 595
+  },
+  "note": [],
+  "impronta": "sha256:d1c266fdf70aebf4ea6c4edeca736508c12cdb362f58ee1e7d3036387bb2e2fe"
+}

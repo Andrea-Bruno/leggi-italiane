@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "114",
+    "rubrica": "Circostanze attenuanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art114"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il giudice, qualora ritenga che l'opera prestata da taluna delle persone che sono concorse nel reato a norma degli articoli 110 e 113 abbia avuto minima importanza nella preparazione o nell'esecuzione del reato, puo' diminuire la pena. Tale disposizione non si applica nei casi indicati nell'articolo 112. La pena puo' altresi' essere diminuita per chi e' stato determinato a commettere il reato o a cooperare nel reato, quando concorrono le condizioni stabilite nei numeri 3° e 4° del primo comma e nel terzo comma dell'articolo 112.",
+    "con_marcatori": "Art. 114. (Circostanze attenuanti) Il giudice, qualora ritenga che l'opera prestata da taluna delle persone che sono concorse nel reato a norma degli articoli 110 e 113 abbia avuto minima importanza nella preparazione o nell'esecuzione del reato, puo' diminuire la pena. Tale disposizione non si applica nei casi indicati nell'articolo 112. La pena puo' altresi' essere diminuita per chi e' stato determinato a commettere il reato o a cooperare nel reato, quando concorrono le condizioni stabilite nei numeri 3° e 4° ((del primo comma e nel terzo comma)) dell'articolo 112. ((128))",
+    "caratteri": 534
+  },
+  "note": [
+    {
+      "numero": 128,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 31 dicembre 1991, n. 419",
+          "urn": "urn:nir:stato:decretoLegge:1991-12-31;419",
+          "data": "1991-12-31",
+          "numero": "419",
+          "data_gazzetta": "1992-01-02"
+        },
+        {
+          "denominazione": "L. 18 febbraio 1992, n. 172",
+          "urn": "urn:nir:stato:legge:1992-02-18;172",
+          "data": "1992-02-18",
+          "numero": "172",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 31 dicembre 1991, n. 419 convertito con modificazioni dalla L. 18 febbraio 1992, n. 172 ha disposto (con l'art. 16, comma 1) che la presente modifica ha effetto dal 31 dicembre 1991."
+    }
+  ],
+  "impronta": "sha256:df4a416b266915105159054362c0c9387dfa3cba298888273e592f251bc3fe23"
+}

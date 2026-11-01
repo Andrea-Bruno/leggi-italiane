@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "270-quinquies.1",
+    "rubrica": "Finanziamento di condotte con finalita' di terrorismo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, al di fuori dei casi di cui agli articoli 270-bis e 270-quater.1, raccoglie, eroga o mette a disposizione beni o denaro, in qualunque modo realizzati, destinati a essere in tutto o in parte utilizzati per il compimento delle condotte con finalita' di terrorismo di cui all'articolo 270-sexies e' punito con la reclusione da sette a quindici anni, indipendentemente dall'effettivo utilizzo dei fondi per la commissione delle citate condotte. Chiunque deposita o custodisce i beni o il denaro indicati al primo comma e' punito con la reclusione da cinque a dieci anni.",
+    "con_marcatori": "Art. 270-quinquies.1 (( (Finanziamento di condotte con finalita' di terrorismo).)) ((Chiunque, al di fuori dei casi di cui agli articoli 270-bis e 270-quater.1, raccoglie, eroga o mette a disposizione beni o denaro, in qualunque modo realizzati, destinati a essere in tutto o in parte utilizzati per il compimento delle condotte con finalita' di terrorismo di cui all'articolo 270-sexies e' punito con la reclusione da sette a quindici anni, indipendentemente dall'effettivo utilizzo dei fondi per la commissione delle citate condotte. Chiunque deposita o custodisce i beni o il denaro indicati al primo comma e' punito con la reclusione da cinque a dieci anni)).",
+    "caratteri": 576
+  },
+  "note": [],
+  "impronta": "sha256:e593d23bbf0231cb576dc98973c4ee6c73da4c99fd32446aee8ad58f5a183fbf"
+}

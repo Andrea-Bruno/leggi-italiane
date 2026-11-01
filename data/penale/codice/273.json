@@ -1,0 +1,61 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "273",
+    "rubrica": "Illecita costituzione di associazioni aventi carattere internazionale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art273"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 104,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque senza autorizzazione del Governo promuove, costituisce, organizza o dirige nel territorio dello Stato associazioni, enti o istituti di carattere internazionale, o sezioni di essi, e' punito con la reclusione fino a sei mesi o con la multa da lire cinquemila a ventimila. Se l'autorizzazione e' stata ottenuta per effetto di dichiarazioni false o reticenti, la pena e' della reclusione da uno a cinque anni e della multa non inferiore a lire diecimila.",
+    "con_marcatori": "Art. 273. (Illecita costituzione di associazioni aventi carattere internazionale) Chiunque senza autorizzazione del Governo promuove, costituisce, organizza o dirige nel territorio dello Stato associazioni, enti o istituti di carattere internazionale, o sezioni di essi, e' punito con la reclusione fino a sei mesi o con la multa da lire cinquemila a ventimila. Se l'autorizzazione e' stata ottenuta per effetto di dichiarazioni false o reticenti, la pena e' della reclusione da uno a cinque anni e della multa non inferiore a lire diecimila. ((104))",
+    "caratteri": 460
+  },
+  "note": [
+    {
+      "numero": 104,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1985-07-03",
+        "numero": "193"
+      },
+      "testo": "La Corte Costituzionale con sentenza 28 giugno - 3 luglio 1985, n. 193 (in G.U. 1ª s.s. 10/07/1985, n. 161) ha dichiarato l'illegittimita' costituzionale del presente articolo."
+    }
+  ],
+  "impronta": "sha256:26c309772d585650c280cc48f81e1fb485ad8642781225e0fdcabdf3281aeb73"
+}

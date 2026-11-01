@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "415-bis",
+    "rubrica": "Rivolta all'interno di un istituto penitenziario",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art415-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Chiunque, all'interno di un istituto penitenziario, partecipa ad una rivolta mediante atti di violenza o minaccia o di resistenza all'esecuzione degli ordini impartiti per il mantenimento dell'ordine e della sicurezza, commessi da tre o piu' persone riunite, e' punito con la reclusione da uno a cinque anni. Ai fini del periodo precedente, costituiscono atti di resistenza anche le condotte di resistenza passiva che, avuto riguardo al numero delle persone coinvolte e al contesto in cui operano i pubblici ufficiali o gli incaricati di un pubblico servizio, impediscono il compimento degli atti dell'ufficio o del servizio necessari alla gestione dell'ordine e della sicurezza. Coloro che promuovono, organizzano o dirigono la rivolta sono puniti con la reclusione da due a otto anni. Se il fatto e' commesso con l'uso di armi, la pena e' della reclusione da due a sei anni nei casi previsti dal primo comma e da tre a dieci anni nei casi previsti dal secondo comma. Se dal fatto deriva, quale conseguenza non voluta, una lesione personale grave o gravissima, la pena e' della reclusione da due a sei anni nei casi previsti dal primo comma e da quattro a dodici anni nei casi previsti dal secondo comma; se, quale conseguenza non voluta, ne deriva la morte, la pena e' della reclusione da sette a quindici anni nei casi previsti dal primo comma e da dieci a diciotto anni nei casi previsti dal secondo comma. Nel caso di lesioni gravi o gravissime o morte di piu' persone, si applica la pena che dovrebbe infliggersi per la violazione piu' grave, aumentata fino al triplo, ma la pena della reclusione non puo' superare gli anni venti.",
+    "con_marcatori": "Art. 415-bis. (( (Rivolta all'interno di un istituto penitenziario).)). ((Chiunque, all'interno di un istituto penitenziario, partecipa ad una rivolta mediante atti di violenza o minaccia o di resistenza all'esecuzione degli ordini impartiti per il mantenimento dell'ordine e della sicurezza, commessi da tre o piu' persone riunite, e' punito con la reclusione da uno a cinque anni. Ai fini del periodo precedente, costituiscono atti di resistenza anche le condotte di resistenza passiva che, avuto riguardo al numero delle persone coinvolte e al contesto in cui operano i pubblici ufficiali o gli incaricati di un pubblico servizio, impediscono il compimento degli atti dell'ufficio o del servizio necessari alla gestione dell'ordine e della sicurezza)). ((Coloro che promuovono, organizzano o dirigono la rivolta sono puniti con la reclusione da due a otto anni)). ((Se il fatto e' commesso con l'uso di armi, la pena e' della reclusione da due a sei anni nei casi previsti dal primo comma e da tre a dieci anni nei casi previsti dal secondo comma)). ((Se dal fatto deriva, quale conseguenza non voluta, una lesione personale grave o gravissima, la pena e' della reclusione da due a sei anni nei casi previsti dal primo comma e da quattro a dodici anni nei casi previsti dal secondo comma; se, quale conseguenza non voluta, ne deriva la morte, la pena e' della reclusione da sette a quindici anni nei casi previsti dal primo comma e da dieci a diciotto anni nei casi previsti dal secondo comma)). ((Nel caso di lesioni gravi o gravissime o morte di piu' persone, si applica la pena che dovrebbe infliggersi per la violazione piu' grave, aumentata fino al triplo, ma la pena della reclusione non puo' superare gli anni venti)).",
+    "caratteri": 1638
+  },
+  "note": [],
+  "impronta": "sha256:baa643d616d76e68e36dda6466468c21df1f63bbb7525cb6dd105870f95c3814"
+}

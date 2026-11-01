@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1478",
+    "rubrica": "Vendita di cosa altrui",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1478"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se al momento del contratto la cosa venduta non era di proprieta' del venditore, questi e' obbligato a procurarne l'acquisto al compratore. Il compratore diventa proprietario nel momento in cui il venditore acquista la proprieta' dal titolare di essa.",
+    "con_marcatori": "Art. 1478. (Vendita di cosa altrui). Se al momento del contratto la cosa venduta non era di proprieta' del venditore, questi e' obbligato a procurarne l'acquisto al compratore. Il compratore diventa proprietario nel momento in cui il venditore acquista la proprieta' dal titolare di essa.",
+    "caratteri": 251
+  },
+  "note": [],
+  "impronta": "sha256:af955996b33535db04aaf13834ad7acd1c629575dc46616c52ef35a638db1caa"
+}

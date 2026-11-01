@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "354",
+    "rubrica": "Tutela affidata a enti di assistenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art354"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La tutela dei minori, che non hanno nel luogo del loro domicilio parenti conosciuti o capaci di esercitare l'ufficio di tutore, puo' essere deferita dal giudice tutelare a un ente di assistenza nel comune dove ha domicilio il minore o all'ospizio in cui questi e' ricoverato. L'amministrazione dell'ente o dell'ospizio delega uno dei propri membri a esercitare le funzioni di tutela. E' tuttavia in facolta' del giudice tutelare di nominare un tutore al minore quando la natura o l'entita' dei beni o altre circostanze lo richiedono.",
+    "con_marcatori": "Art. 354. (Tutela affidata a enti di assistenza). La tutela dei minori, che non hanno nel luogo del loro domicilio parenti conosciuti o capaci di esercitare l'ufficio di tutore, puo' essere deferita dal giudice tutelare a un ente di assistenza nel comune dove ha domicilio il minore o all'ospizio in cui questi e' ricoverato. L'amministrazione dell'ente o dell'ospizio delega uno dei propri membri a esercitare le funzioni di tutela. E' tuttavia in facolta' del giudice tutelare di nominare un tutore al minore quando la natura o l'entita' dei beni o altre circostanze lo richiedono.",
+    "caratteri": 533
+  },
+  "note": [],
+  "impronta": "sha256:d9a6a6bcc8f59a99c3394d3028a32325cce694c52da5f5feb98cfdc0bd31f43a"
+}

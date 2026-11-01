@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1368",
+    "rubrica": "Pratiche generali interpretative",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1368"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le clausole ambigue s'interpretano secondo cio' che si pratica generalmente nel luogo in cui il contratto e' stato concluso. Nei contratti in cui una delle parti e' un imprenditore, le clausole ambigue s'interpretano secondo cio' che si pratica generalmente nel luogo in cui e' la sede dell'impresa.",
+    "con_marcatori": "Art. 1368. (Pratiche generali interpretative). Le clausole ambigue s'interpretano secondo cio' che si pratica generalmente nel luogo in cui il contratto e' stato concluso. Nei contratti in cui una delle parti e' un imprenditore, le clausole ambigue s'interpretano secondo cio' che si pratica generalmente nel luogo in cui e' la sede dell'impresa.",
+    "caratteri": 299
+  },
+  "note": [],
+  "impronta": "sha256:bf7240f0984abd1d4f4db49f3dbf6f2d59a902d16fb8dccddf549149fc8f2268"
+}

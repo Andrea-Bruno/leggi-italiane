@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1817",
+    "rubrica": "Termine per la restituzione fissato dal giudice",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1817"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non e' fissato un termine per la restituzione, questo e' stabilito dal giudice, avuto riguardo alle circostanze. Se e' stato convenuto che il mutuatario paghi solo quando potra', il termine per il pagamento e' pure fissato dal giudice.",
+    "con_marcatori": "Art. 1817. (Termine per la restituzione fissato dal giudice). Se non e' fissato un termine per la restituzione, questo e' stabilito dal giudice, avuto riguardo alle circostanze. Se e' stato convenuto che il mutuatario paghi solo quando potra', il termine per il pagamento e' pure fissato dal giudice.",
+    "caratteri": 238
+  },
+  "note": [],
+  "impronta": "sha256:58c120a8d27de9cb60f77417684ec2496297b09de73427f4b7a5f7cf2f0c5fb7"
+}

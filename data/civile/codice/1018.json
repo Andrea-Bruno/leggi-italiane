@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1018",
+    "rubrica": "Perimento dell'edificio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1018"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'usufrutto e' stabilito sopra un fondo, del quale fa parte un edificio, e questo viene in qualsiasi modo a perire, l'usufruttuario ha diritto di godere dell'area e dei materiali. La stessa disposizione si applica se l'usufrutto e' stabilito soltanto sopra un edificio. In tal caso, pero', il proprietario, se intende costruire un altro edificio, ha il diritto di occupare l'area e di valersi dei materiali, pagando all'usufruttuario, durante l'usufrutto, gli interessi sulla somma corrispondente al valore dell'area e dei materiali.",
+    "con_marcatori": "Art. 1018. (Perimento dell'edificio). Se l'usufrutto e' stabilito sopra un fondo, del quale fa parte un edificio, e questo viene in qualsiasi modo a perire, l'usufruttuario ha diritto di godere dell'area e dei materiali. La stessa disposizione si applica se l'usufrutto e' stabilito soltanto sopra un edificio. In tal caso, pero', il proprietario, se intende costruire un altro edificio, ha il diritto di occupare l'area e di valersi dei materiali, pagando all'usufruttuario, durante l'usufrutto, gli interessi sulla somma corrispondente al valore dell'area e dei materiali.",
+    "caratteri": 536
+  },
+  "note": [],
+  "impronta": "sha256:82a0868a0510b1675942a957b93a5362f5c21052b639fc1025a881c84c13e20e"
+}

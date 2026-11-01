@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "908",
+    "rubrica": "Scarico delle acque piovane",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art908"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario deve costruire i tetti in maniera che le acque piovane scolino nel suo terreno e non puo' farle cadere nel fondo del vicino. Se esistono pubblici colatoi, deve provvedere affinche' le acque piovane vi siano immesse con gronde o canali. Si osservano in ogni caso i regolamenti locali e le leggi sulla polizia idraulica.",
+    "con_marcatori": "Art. 908. (Scarico delle acque piovane). Il proprietario deve costruire i tetti in maniera che le acque piovane scolino nel suo terreno e non puo' farle cadere nel fondo del vicino. Se esistono pubblici colatoi, deve provvedere affinche' le acque piovane vi siano immesse con gronde o canali. Si osservano in ogni caso i regolamenti locali e le leggi sulla polizia idraulica.",
+    "caratteri": 334
+  },
+  "note": [],
+  "impronta": "sha256:bbc535ac4f0386603f2e0d71784f07d37e8a518e8737a38b63f8bad974fca8f5"
+}

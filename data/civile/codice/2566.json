@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2566",
+    "rubrica": "Registrazione della ditta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2566"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per le imprese commerciali, l'ufficio del registro delle imprese deve rifiutare l'iscrizione della ditta, se questa non e' conforme a quanto e' prescritto dal secondo comma dell'art. 2563 o, trattandosi di ditta derivata, se non e' depositata copia dell'atto in base al quale ha avuto luogo la successione nell'azienda.",
+    "con_marcatori": "Art. 2566. (Registrazione della ditta). Per le imprese commerciali, l'ufficio del registro delle imprese deve rifiutare l'iscrizione della ditta, se questa non e' conforme a quanto e' prescritto dal secondo comma dell'art. 2563 o, trattandosi di ditta derivata, se non e' depositata copia dell'atto in base al quale ha avuto luogo la successione nell'azienda.",
+    "caratteri": 319
+  },
+  "note": [],
+  "impronta": "sha256:06343efbdcfbd455c871c40455df5c94d88e68fc9faf59107c8f330946f4fddc"
+}

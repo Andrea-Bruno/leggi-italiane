@@ -1,0 +1,165 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "630",
+    "rubrica": "Sequestro di persona a scopo di estorsione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art630"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 238,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque sequestra una persona allo scopo di conseguire, per se' o per altri, un ingiusto profitto come prezzo della liberazione, e' punito con la reclusione da venticinque a trenta anni. Se dal sequestro deriva comunque la morte, quale conseguenza non voluta dal reo, della persona sequestrata, il colpevole e' punito con la reclusione di anni trenta. Se il colpevole cagiona la morte del sequestrato si applica la pena dell'ergastolo. Al concorrente che, dissociandosi dagli altri, si adopera in modo che il soggetto passivo riacquisti la liberta', senza che tale risultato sia conseguenza del prezzo della liberazione, si applicano le pene previste dall'articolo 605. Se tuttavia il soggetto passivo muore, in conseguenza del sequestro, dopo la liberazione, la pena e' della reclusione da sei a quindici anni. Nei confronti del concorrente che, dissociandosi dagli altri, si adopera, al di fuori del caso previsto dal comma precedente, per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti, la pena dell'ergastolo e' sostituita da quella della reclusione da dodici a venti anni e le altre pene sono diminuite da un terzo a due terzi. Quando ricorre una circostanza attenuante, alla pena prevista dal secondo comma e' sostituita la reclusione da venti a ventiquattro anni; alla pena prevista dal terzo comma e' sostituita la reclusione da ventiquattro a trenta anni. Se concorrono piu' circostanze attenuanti, la pena da applicare per effetto delle diminuzioni non puo' essere inferiore a dieci anni, nella ipotesi prevista dal secondo comma, ed a quindici anni, nell'ipotesi prevista dal terzo comma. I limiti di pena preveduti nel comma precedente possono essere superati allorche' ricorrono le circostanze attenuanti di cui al quinto comma del presente articolo.",
+    "con_marcatori": "Art. 630. (Sequestro di persona a scopo di estorsione). Chiunque sequestra una persona allo scopo di conseguire, per se' o per altri, un ingiusto profitto come prezzo della liberazione, e' punito con la reclusione da venticinque a trenta anni. Se dal sequestro deriva comunque la morte, quale conseguenza non voluta dal reo, della persona sequestrata, il colpevole e' punito con la reclusione di anni trenta. Se il colpevole cagiona la morte del sequestrato si applica la pena dell'ergastolo. Al concorrente che, dissociandosi dagli altri, si adopera in modo che il soggetto passivo riacquisti la liberta', senza che tale risultato sia conseguenza del prezzo della liberazione, si applicano le pene previste dall'articolo 605. Se tuttavia il soggetto passivo muore, in conseguenza del sequestro, dopo la liberazione, la pena e' della reclusione da sei a quindici anni. Nei confronti del concorrente che, dissociandosi dagli altri, si adopera, al di fuori del caso previsto dal comma precedente, per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti, la pena dell'ergastolo e' sostituita da quella della reclusione da dodici a venti anni e le altre pene sono diminuite da un terzo a due terzi. Quando ricorre una circostanza attenuante, alla pena prevista dal secondo comma e' sostituita la reclusione da venti a ventiquattro anni; alla pena prevista dal terzo comma e' sostituita la reclusione da ventiquattro a trenta anni. Se concorrono piu' circostanze attenuanti, la pena da applicare per effetto delle diminuzioni non puo' essere inferiore a dieci anni, nella ipotesi prevista dal secondo comma, ed a quindici anni, nell'ipotesi prevista dal terzo comma. I limiti di pena preveduti nel comma precedente possono essere superati allorche' ricorrono le circostanze attenuanti di cui al quinto comma del presente articolo. (96) (125) (233) ((238))",
+    "caratteri": 1947
+  },
+  "note": [
+    {
+      "numero": 7,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 maggio 1945, n. 234",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;234",
+          "data": "1945-05-10",
+          "numero": "234",
+          "data_gazzetta": "1945-05-24"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 maggio 1945, n. 234 ha disposto (con l'art. 4, comma 1) che \"Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del Codice penale, sono aumentate da un terzo alla meta'\". Ha inoltre disposto (con l'art. 7, comma 1) che la presente modifica ha efficacia fino ad un anno dopo la cessazione dello stato di guerra."
+    },
+    {
+      "numero": 96,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "L. 13 settembre 1982, n. 646",
+          "urn": "urn:nir:stato:legge:1982-09-13;646",
+          "data": "1982-09-13",
+          "numero": "646",
+          "data_gazzetta": "1982-09-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 ha disposto: - (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate se il fatto e' commesso da persona gia' sottoposta con provvedimento definitivo a misura di prevenzione; -(con l'art. 7, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    },
+    {
+      "numero": 125,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "D.L. 13 maggio 1991, n. 152",
+          "urn": "urn:nir:stato:decretoLegge:1991-05-13;152",
+          "data": "1991-05-13",
+          "numero": "152",
+          "data_gazzetta": "1991-05-13"
+        },
+        {
+          "denominazione": "L. 12 luglio 1991, n. 203",
+          "urn": "urn:nir:stato:legge:1991-07-12;203",
+          "data": "1991-07-12",
+          "numero": "203",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575 come modificata dal D.L. 13 maggio 1991, n. 152 convertito con modificazioni dalla L. 12 luglio 1991, n. 203 ha disposto (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione."
+    },
+    {
+      "numero": 233,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159 ha disposto: - (con l'art. 71, comma 1) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione; - (con l'art. 71, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    },
+    {
+      "numero": 238,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articolo 630 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2012-03-23",
+        "numero": "68"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 19 - 23 marzo 2012, n. 68 (in G.U. 1ª s.s. 28/03/2012, n. 13), ha dichiarato \"l'illegittimita' costituzionale dell'articolo 630 del codice penale, nella parte in cui non prevede che la pena da esso comminata e' diminuita quando per la natura, la specie, i mezzi, le modalita' o circostanze dell'azione, ovvero per la particolare tenuita' del danno o del pericolo, il fatto risulti di lieve entita'\"."
+    }
+  ],
+  "impronta": "sha256:f661adeb5c2298a8a7bc6cd9d6f1891e87b92eba0bc01d62d6205d2dab82a709"
+}

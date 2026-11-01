@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "345",
+    "rubrica": "Denunzie al giudice tutelare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art345"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ufficiale dello stato civile, che riceve la dichiarazione di morte di una persona la quale ha lasciato figli in eta' minore ovvero la dichiarazione di nascita di un figlio di genitori ignoti, e il notaio, che procede alla pubblicazione di un testamento contenente la designazione di un tutore o di un protutore, devono darne notizia al giudice tutelare entro dieci giorni. Il cancelliere, entro quindici giorni dalla pubblicazione o dal deposito in cancelleria, deve dare notizia al giudice tutelare delle decisioni dalle quali derivi l'apertura di una tutela. I parenti entro il terzo grado devono denunziare al giudice tutelare il fatto da cui deriva l'apertura della tutela entro dieci giorni da quello in cui ne hanno avuto notizia. La denunzia deve essere fatta anche dalla persona designata quale tutore o protutore entro dieci giorni da quello in cui ha avuto notizia della designazione.",
+    "con_marcatori": "Art. 345. (Denunzie al giudice tutelare). L'ufficiale dello stato civile, che riceve la dichiarazione di morte di una persona la quale ha lasciato figli in eta' minore ovvero la dichiarazione di nascita di un figlio di genitori ignoti, e il notaio, che procede alla pubblicazione di un testamento contenente la designazione di un tutore o di un protutore, devono darne notizia al giudice tutelare entro dieci giorni. Il cancelliere, entro quindici giorni dalla pubblicazione o dal deposito in cancelleria, deve dare notizia al giudice tutelare delle decisioni dalle quali derivi l'apertura di una tutela. I parenti entro il terzo grado devono denunziare al giudice tutelare il fatto da cui deriva l'apertura della tutela entro dieci giorni da quello in cui ne hanno avuto notizia. La denunzia deve essere fatta anche dalla persona designata quale tutore o protutore entro dieci giorni da quello in cui ha avuto notizia della designazione.",
+    "caratteri": 896
+  },
+  "note": [],
+  "impronta": "sha256:d6bb35f30b2299e22cdc0b3b9d892e49a2218ca920ceb1e40820f16f72f44545"
+}

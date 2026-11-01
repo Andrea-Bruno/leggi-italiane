@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1012",
+    "rubrica": "Usurpazioni durante l'usufrutto e azioni relative alle servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1012"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se durante l'usufrutto un terzo commette usurpazione sul fondo o altrimenti offende le ragioni del proprietario, l'usufruttuario e' tenuto a fargliene denunzia e, omettendola, e' responsabile dei danni che eventualmente siano derivati al proprietario. L'usufruttuario puo' far riconoscere l'esistenza delle servitu' a favore del fondo o l'inesistenza di quelle che si pretende di esercitare sul fondo medesimo; egli deve in questi casi chiamare in giudizio il proprietario.",
+    "con_marcatori": "Art. 1012. (Usurpazioni durante l'usufrutto e azioni relative alle servitu'). Se durante l'usufrutto un terzo commette usurpazione sul fondo o altrimenti offende le ragioni del proprietario, l'usufruttuario e' tenuto a fargliene denunzia e, omettendola, e' responsabile dei danni che eventualmente siano derivati al proprietario. L'usufruttuario puo' far riconoscere l'esistenza delle servitu' a favore del fondo o l'inesistenza di quelle che si pretende di esercitare sul fondo medesimo; egli deve in questi casi chiamare in giudizio il proprietario.",
+    "caratteri": 473
+  },
+  "note": [],
+  "impronta": "sha256:b674ee14e1f3aaed5349f490074b0c626b739bdd3bad0f9e8b5f2dcbe59bb958"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1288",
+    "rubrica": "Impossibilita' di una delle prestazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1288"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'obbligazione alternativa si considera semplice, se una delle due prestazioni non poteva formare oggetto di obbligazione o se e' divenuta impossibile per causa non imputabile ad alcuna delle parti.",
+    "con_marcatori": "Art. 1288. (Impossibilita' di una delle prestazioni). L'obbligazione alternativa si considera semplice, se una delle due prestazioni non poteva formare oggetto di obbligazione o se e' divenuta impossibile per causa non imputabile ad alcuna delle parti.",
+    "caratteri": 198
+  },
+  "note": [],
+  "impronta": "sha256:10d8aad52f8871de4feb912281d73c2fd64d1bf5cb3bee27e72c0a8304e94b1c"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2217",
+    "rubrica": "Redazione dell'inventario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2217"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'inventario deve redigersi all'inizio dell'esercizio dell'impresa e successivamente ogni anno, e deve contenere l'indicazione e la valutazione delle attivita' e delle passivita' relative all'impresa, nonche' delle attivita' e delle passivita' dell'imprenditore estranee alla medesima. L'inventario si chiude con il bilancio e con il conto dei profitti e delle perdite, il quale deve dimostrare con evidenza e verita' gli utili conseguiti o le perdite subite. Nelle valutazioni di bilancio l'imprenditore deve attenersi ai criteri stabiliti per i bilanci delle societa' per azioni, in quanto applicabili. L'inventario deve essere sottoscritto dall'imprenditore entro tre mesi dal termine per la presentazione della dichiarazione dei redditi ai fini delle imposte dirette.",
+    "con_marcatori": "Art. 2217. (Redazione dell'inventario). L'inventario deve redigersi all'inizio dell'esercizio dell'impresa e successivamente ogni anno, e deve contenere l'indicazione e la valutazione delle attivita' e delle passivita' relative all'impresa, nonche' delle attivita' e delle passivita' dell'imprenditore estranee alla medesima. L'inventario si chiude con il bilancio e con il conto dei profitti e delle perdite, il quale deve dimostrare con evidenza e verita' gli utili conseguiti o le perdite subite. Nelle valutazioni di bilancio l'imprenditore deve attenersi ai criteri stabiliti per i bilanci delle societa' per azioni, in quanto applicabili. ((L'inventario deve essere sottoscritto dall'imprenditore entro tre mesi dal termine per la presentazione della dichiarazione dei redditi ai fini delle imposte dirette)).",
+    "caratteri": 771
+  },
+  "note": [],
+  "impronta": "sha256:d714b2b8859ce00877cbadda6cf3089e7b970df6ff36882d59b0421d2087e5e4"
+}

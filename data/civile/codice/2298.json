@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2298",
+    "rubrica": "Rappresentanza della societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2298"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'amministratore che ha la rappresentanza della societa' puo' compiere tutti gli atti che rientrano nell'oggetto sociale, salve le limitazioni che risultano dall'atto costitutivo o dalla procura. Le limitazioni non sono opponibili ai terzi, se non sono iscritte nel registro delle imprese o se non si prova che i terzi ne hanno avuto conoscenza. COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340.",
+    "con_marcatori": "Art. 2298. (Rappresentanza della societa'). L'amministratore che ha la rappresentanza della societa' puo' compiere tutti gli atti che rientrano nell'oggetto sociale, salve le limitazioni che risultano dall'atto costitutivo o dalla procura. Le limitazioni non sono opponibili ai terzi, se non sono iscritte nel registro delle imprese o se non si prova che i terzi ne hanno avuto conoscenza. ((COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340)).",
+    "caratteri": 395
+  },
+  "note": [],
+  "impronta": "sha256:5f0f16d1049e2ecc414c367f845d84ad23640a5ec27fba09a861511f16d00c50"
+}

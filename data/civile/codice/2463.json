@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2463",
+    "rubrica": "Costituzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2463"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' puo' essere costituita con contratto o con atto unilaterale. L'atto costitutivo deve essere redatto per atto pubblico e deve indicare: 1)il cognome e il nome o la denominazione, la data e il luogo di nascita o lo Stato di costituzione, il domicilio o la sede, la cittadinanza di ciascun socio; 2) la denominazione, contenente l'indicazione di societa' a responsabilita' limitata, e il comune ove sono poste la sede della societa' e le eventuali sedi secondarie; 3) l'attivita' che costituisce l'oggetto sociale; 4) l'ammontare del capitale, non inferiore a diecimila euro, sottoscritto e di quello versato; 5) i conferimenti di ciascun socio e il valore attribuito crediti e ai beni conferiti in natura; 6) la quota di partecipazione di ciascun socio; 7) le norme relative al funzionamento della societa', indicando quelle concernenti l'amministrazione, la rappresentanza; 8) le persone cui e' affidata l'amministrazione e l'eventuale soggetto incaricato di effettuare la revisione legale dei conti; 9) l'importo globale, almeno approssimativo, della spese per la costituzione poste a carico della societa'. Si applicano alla societa' a responsabilita' limitata le disposizioni degli articoli 2329, 2330, 2331, 2332 e 2341. L'ammontare del capitale puo' essere determinato in misura inferiore a euro diecimila, pari almeno a un euro. In tal caso i conferimenti devono farsi in denaro e devono essere versati per intero alle persone cui e' affidata l'amministrazione. La somma da dedurre dagli utili netti risultanti dal bilancio regolarmente approvato, per formare la riserva prevista dall'articolo 2430, deve essere almeno pari a un quinto degli stessi, fino a che la riserva non abbia raggiunto, unitamente al capitale, l'ammontare di diecimila euro. La riserva cosi' formata puo' essere utilizzata solo per imputazione a capitale e per copertura di eventuali perdite. Essa deve essere reintegrata a norma del presente comma se viene diminuita per qualsiasi ragione.",
+    "con_marcatori": "Art. 2463. (Costituzione). La societa' puo' essere costituita con contratto o con atto unilaterale. L'atto costitutivo deve essere redatto per atto pubblico e deve indicare: 1)il cognome e il nome o la denominazione, la data e il luogo di nascita o lo Stato di costituzione, il domicilio o la sede, la cittadinanza di ciascun socio; 2) la denominazione, contenente l'indicazione di societa' a responsabilita' limitata, e il comune ove sono poste la sede della societa' e le eventuali sedi secondarie; 3) l'attivita' che costituisce l'oggetto sociale; 4) l'ammontare del capitale, non inferiore a diecimila euro, sottoscritto e di quello versato; 5) i conferimenti di ciascun socio e il valore attribuito crediti e ai beni conferiti in natura; 6) la quota di partecipazione di ciascun socio; 7) le norme relative al funzionamento della societa', indicando quelle concernenti l'amministrazione, la rappresentanza; 8) le persone cui e' affidata l'amministrazione e l'eventuale soggetto incaricato di effettuare la revisione legale dei conti; 9) l'importo globale, almeno approssimativo, della spese per la costituzione poste a carico della societa'. Si applicano alla societa' a responsabilita' limitata le disposizioni degli articoli 2329, 2330, 2331, 2332 e 2341. L'ammontare del capitale puo' essere determinato in misura inferiore a euro diecimila, pari almeno a un euro. In tal caso i conferimenti devono farsi in denaro e devono essere versati per intero alle persone cui e' affidata l'amministrazione. La somma da dedurre dagli utili netti risultanti dal bilancio regolarmente approvato, per formare la riserva prevista dall'articolo 2430, deve essere almeno pari a un quinto degli stessi, fino a che la riserva non abbia raggiunto, unitamente al capitale, l'ammontare di diecimila euro. La riserva cosi' formata puo' essere utilizzata solo per imputazione a capitale e per copertura di eventuali perdite. Essa deve essere reintegrata a norma del presente comma se viene diminuita per qualsiasi ragione. ((250))",
+    "caratteri": 1980
+  },
+  "note": [
+    {
+      "numero": 250,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2463 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 25, comma 8, del decreto legge 19 ottobre 2012, n. 179",
+          "urn": "urn:nir:stato:decretoLegge:2012-10-19;179",
+          "data": "2012-10-19",
+          "numero": "179",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 17 febbraio 2016 (in G.U. 8/3/2016, n. 56) ha disposto (con l'art. 1, comma 1) che \"In deroga a quanto previsto dall'art. 2463 del codice civile, i contratti di societa' a responsabilita' limitata, ivi regolati, aventi per oggetto esclusivo o prevalente, lo sviluppo, la produzione e la commercializzazione di prodotti o servizi innovativi ad alto valore tecnologico e per i quali viene richiesta l'iscrizione nella sezione speciale delle start-up di cui all'art. 25, comma 8, del decreto legge 19 ottobre 2012, n. 179, sono redatti in forma elettronica e firmati digitalmente a norma dell'art. 24 del C.A.D., da ciascuno dei sottoscrittori, nel caso di societa' pluripersonale, o dall'unico sottoscrittore nel caso di unipersonale, in totale conformita' allo standard allegato sotto la lettera A al presente decreto, redatto sulle base delle specifiche tecniche del modello, di cui all'art. 2, comma 1\"."
+    }
+  ],
+  "impronta": "sha256:37955273ad1fd37538adf6b086fe12b566eadd8ebdeabcb61c7674ed19cc6c99"
+}

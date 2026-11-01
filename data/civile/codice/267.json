@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "267",
+    "rubrica": "Trasmissibilita' dell'azione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art267"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi indicati dagli articoli 265 e 266, se l'autore del riconoscimento e' morto senza aver promosso l'azione, ma prima che sia scaduto il termine, l'azione puo' essere promossa dai discendenti, dagli ascendenti o dagli eredi. Nel caso indicato dal primo comma dell'articolo 263, se l'autore del riconoscimento e' morto senza aver promosso l'azione, ma prima che sia decorso il termine previsto dal terzo comma dello stesso articolo, sono ammessi ad esercitarla in sua vece i discendenti o gli ascendenti, entro un anno decorrente dalla morte dell'autore del riconoscimento o dalla nascita del figlio se si tratta di figlio postumo o dal raggiungimento della maggiore eta' da parte di ciascuno dei discendenti. Se il figlio riconosciuto e' morto senza aver promosso l'azione di cui all'articolo 263, sono ammessi ad esercitarla in sua vece il coniuge o i discendenti nel termine di un anno che decorre dalla morte del figlio riconosciuto o dal raggiungimento della maggiore eta' da parte di ciascuno dei discendenti. La morte dell'autore del riconoscimento o del figlio riconosciuto non impedisce l'esercizio dell'azione da parte di coloro che ne hanno interesse, nel termine di cui al quarto comma dell'articolo 263. Si applicano il sesto comma dell'articolo 244 e l'articolo 245.",
+    "con_marcatori": "Art. 267. (Trasmissibilita' dell'azione). Nei casi indicati dagli articoli 265 e 266, se l'autore del riconoscimento e' morto senza aver promosso l'azione, ma prima che sia scaduto il termine, l'azione puo' essere promossa dai discendenti, dagli ascendenti o dagli eredi. ((Nel caso indicato dal primo comma dell'articolo 263, se l'autore del riconoscimento e' morto senza aver promosso l'azione, ma prima che sia decorso il termine previsto dal terzo comma dello stesso articolo, sono ammessi ad esercitarla in sua vece i discendenti o gli ascendenti, entro un anno decorrente dalla morte dell'autore del riconoscimento o dalla nascita del figlio se si tratta di figlio postumo o dal raggiungimento della maggiore eta' da parte di ciascuno dei discendenti.))((223)) ((Se il figlio riconosciuto e' morto senza aver promosso l'azione di cui all'articolo 263, sono ammessi ad esercitarla in sua vece il coniuge o i discendenti nel termine di un anno che decorre dalla morte del figlio riconosciuto o dal raggiungimento della maggiore eta' da parte di ciascuno dei discendenti.))((223)) ((La morte dell'autore del riconoscimento o del figlio riconosciuto non impedisce l'esercizio dell'azione da parte di coloro che ne hanno interesse, nel termine di cui al quarto comma dell'articolo 263.))((223)) ((Si applicano il sesto comma dell'articolo 244 e l'articolo 245.))",
+    "caratteri": 1284
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "legge 10 dicembre 2012, n. 219",
+          "urn": "urn:nir:stato:legge:2012-12-10;219",
+          "data": "2012-12-10",
+          "numero": "219",
+          "data_gazzetta": "2012-12-17"
+        },
+        {
+          "denominazione": "articolo 263 e dai commi secondo",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "terzo",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "quarto",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 267 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154, ha disposto (con l'art. 104, comma 10) che \"Fermi gli effetti del giudicato formatosi prima dell'entrata in vigore della legge 10 dicembre 2012, n. 219, nel caso di riconoscimento di figlio annotato sull'atto di nascita prima dell'entrata in vigore del presente decreto legislativo, i termini per proporre l'azione di impugnazione, previsti dall'articolo 263 e dai commi secondo, terzo e quarto dell'articolo 267 del codice civile, decorrono dal giorno dell'entrata in vigore del medesimo decreto legislativo\"."
+    }
+  ],
+  "impronta": "sha256:10e35fd07635b61a06470fae94420c5d2843ba74fe87f8de82e873bacc139ae5"
+}

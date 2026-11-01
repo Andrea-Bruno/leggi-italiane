@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2645",
+    "rubrica": "Altri atti soggetti a trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2645"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Deve del pari rendersi pubblico, agli effetti previsti dall'articolo precedente, ogni altro atto o provvedimento che produce in relazione a beni immobili o a diritti immobiliari taluno degli effetti dei contratti menzionati nell'art. 2643, salvo che dalla legge risulti che la trascrizione non e' richiesta o e' richiesta a effetti diversi.",
+    "con_marcatori": "Art. 2645. (Altri atti soggetti a trascrizione). Deve del pari rendersi pubblico, agli effetti previsti dall'articolo precedente, ogni altro atto o provvedimento che produce in relazione a beni immobili o a diritti immobiliari taluno degli effetti dei contratti menzionati nell'art. 2643, salvo che dalla legge risulti che la trascrizione non e' richiesta o e' richiesta a effetti diversi.",
+    "caratteri": 340
+  },
+  "note": [],
+  "impronta": "sha256:d23a490dd1ec1c29f43dc4f9922ebd8b7f16b8d587772b193c75f02ad6421e89"
+}

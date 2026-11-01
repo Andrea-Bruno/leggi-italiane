@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2723",
+    "rubrica": "Patti posteriori alla formazione del documento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2723"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora si alleghi che, dopo la formazione di un documento, e' stato stipulato un patto aggiunto o contrario al contenuto di esso, l'autorita' giudiziaria puo' consentire la prova per testimoni soltanto se, avuto riguardo alla qualita' delle parti, alla natura del contratto e a ogni altra circostanza, appare verosimile che siano state fatte aggiunte o modificazioni verbali.",
+    "con_marcatori": "Art. 2723. (Patti posteriori alla formazione del documento). Qualora si alleghi che, dopo la formazione di un documento, e' stato stipulato un patto aggiunto o contrario al contenuto di esso, l'autorita' giudiziaria puo' consentire la prova per testimoni soltanto se, avuto riguardo alla qualita' delle parti, alla natura del contratto e a ogni altra circostanza, appare verosimile che siano state fatte aggiunte o modificazioni verbali.",
+    "caratteri": 376
+  },
+  "note": [],
+  "impronta": "sha256:ccba38fa29fcf624ae348f083b81dd058685065791bd177a4f5c51e1dc1e5f07"
+}

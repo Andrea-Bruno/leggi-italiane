@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "67",
+    "rubrica": "Limiti delle diminuzioni di pena nel caso di concorso di piu' circostanze attenuanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art67"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se concorrono piu' circostanze attenuanti, la pena da applicare per effetto delle diminuzioni non puo' essere inferiore: 1° a quindici anni di reclusione, se per il delitto la legge stabilisce la pena di morte; 2° a dieci anni di reclusione, se per il delitto la legge stabilisce la pena dell'ergastolo. Le altre pene sono diminuite. In tal caso, quando non si tratta delle circostanze indicate nel secondo capoverso dell'articolo 63, la pena non puo' essere applicata in misura inferiore ad un quarto.",
+    "con_marcatori": "Art. 67. (Limiti delle diminuzioni di pena nel caso di concorso di piu' circostanze attenuanti) Se concorrono piu' circostanze attenuanti, la pena da applicare per effetto delle diminuzioni non puo' essere inferiore: 1° a quindici anni di reclusione, se per il delitto la legge stabilisce la pena di morte;((5)) 2° a dieci anni di reclusione, se per il delitto la legge stabilisce la pena dell'ergastolo. Le altre pene sono diminuite. In tal caso, quando non si tratta delle circostanze indicate nel secondo capoverso dell'articolo 63, la pena non puo' essere applicata in misura inferiore ad un quarto.",
+    "caratteri": 502
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:0127afee88d56cbe5bbc58c9756f14c1351531426b0cd167440e76abc9a0d63a"
+}

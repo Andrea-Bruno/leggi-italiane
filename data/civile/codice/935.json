@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "935",
+    "rubrica": "Opere fatte dal proprietario del suolo con materiali altrui",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art935"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario del suolo che ha fatto costruzioni, piantagioni od opere con materiali altrui deve pagarne il valore, se la separazione non e' chiesta dal proprietario dei materiali, ovvero non puo' farsi senza che si rechi grave danno all'opera costruita o senza che perisca la piantagione. Deve inoltre, anche nel caso che si faccia la separazione, il risarcimento dei danni, se e' in colpa grave. In ogni caso la rivendicazione dei materiali non e' ammessa trascorsi sei mesi dal giorno in cui il proprietario ha avuto notizia dell'incorporazione.",
+    "con_marcatori": "Art. 935. (Opere fatte dal proprietario del suolo con materiali altrui). Il proprietario del suolo che ha fatto costruzioni, piantagioni od opere con materiali altrui deve pagarne il valore, se la separazione non e' chiesta dal proprietario dei materiali, ovvero non puo' farsi senza che si rechi grave danno all'opera costruita o senza che perisca la piantagione. Deve inoltre, anche nel caso che si faccia la separazione, il risarcimento dei danni, se e' in colpa grave. In ogni caso la rivendicazione dei materiali non e' ammessa trascorsi sei mesi dal giorno in cui il proprietario ha avuto notizia dell'incorporazione.",
+    "caratteri": 550
+  },
+  "note": [],
+  "impronta": "sha256:b8dd5ca1062bd8c7eb3d4418cef96ffb71df714bd05ae76f780f75690eb9b369"
+}

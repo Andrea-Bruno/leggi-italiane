@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "836",
+    "rubrica": "Vincoli e obblighi temporanei",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art836"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per le cause indicate dall'articolo precedente l'autorita' amministrativa, nei limiti e con le forme stabiliti da leggi speciali, puo' sottoporre a particolari vincoli od obblighi di carattere temporaneo le aziende commerciali e agricole.",
+    "con_marcatori": "Art. 836. (Vincoli e obblighi temporanei). Per le cause indicate dall'articolo precedente l'autorita' amministrativa, nei limiti e con le forme stabiliti da leggi speciali, puo' sottoporre a particolari vincoli od obblighi di carattere temporaneo le aziende commerciali e agricole.",
+    "caratteri": 238
+  },
+  "note": [],
+  "impronta": "sha256:91d125bd4b6c0102989cc78d5324190763167f51318e93ca87d0de511c822d82"
+}

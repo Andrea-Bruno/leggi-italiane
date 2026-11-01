@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2278",
+    "rubrica": "Poteri dei liquidatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2278"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I liquidatori possono compiere gli atti necessari per la liquidazione e, se i soci non hanno disposto diversamente, possono vendere anche in blocco i beni sociali e fare transazioni e compromessi. Essi rappresentano la societa' anche in giudizio.",
+    "con_marcatori": "Art. 2278. (Poteri dei liquidatori). I liquidatori possono compiere gli atti necessari per la liquidazione e, se i soci non hanno disposto diversamente, possono vendere anche in blocco i beni sociali e fare transazioni e compromessi. Essi rappresentano la societa' anche in giudizio.",
+    "caratteri": 246
+  },
+  "note": [],
+  "impronta": "sha256:02be65787f7d00f1c2be5cce803947ba2627b3ff7003ae90f1426f7ace5f7cb7"
+}

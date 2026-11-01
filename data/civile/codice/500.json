@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "500",
+    "rubrica": "Termine per la liquidazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art500"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'autorita' giudiziaria, su istanza di alcuno dei creditori o legatari, puo' assegnare un termine all'erede per liquidare le attivita' ereditarie e per formare lo stato di graduazione.",
+    "con_marcatori": "Art. 500. (Termine per la liquidazione). L'autorita' giudiziaria, su istanza di alcuno dei creditori o legatari, puo' assegnare un termine all'erede per liquidare le attivita' ereditarie e per formare lo stato di graduazione.",
+    "caratteri": 184
+  },
+  "note": [],
+  "impronta": "sha256:ddca8f2751894fa83f3999db384047ab106ffd975cba42a359cd2989668341b3"
+}

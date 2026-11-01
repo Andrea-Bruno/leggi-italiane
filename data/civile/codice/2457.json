@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2457",
+    "rubrica": "Sostituzione degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2457"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea con la maggioranza indicata nell'articolo precedente provvede a sostituire l'amministratore che, per qualunque causa, ha cessato dal suo ufficio. Nel caso di pluralita' di amministratori, la nomina deve essere approvata dagli amministratori rimasti in carica. Il nuovo amministratore assume la qualita' di socio accomandatario dal momento dell'accettazione della nomina.",
+    "con_marcatori": "Art. 2457. (( (Sostituzione degli amministratori).)) (( L'assemblea con la maggioranza indicata nell'articolo precedente provvede a sostituire l'amministratore che, per qualunque causa, ha cessato dal suo ufficio. Nel caso di pluralita' di amministratori, la nomina deve essere approvata dagli amministratori rimasti in carica. Il nuovo amministratore assume la qualita' di socio accomandatario dal momento dell'accettazione della nomina.))",
+    "caratteri": 382
+  },
+  "note": [],
+  "impronta": "sha256:c5f67ea84f2a13df78f23c5ad0e48017afcd58392a9d86858f182dc3f5c4c154"
+}

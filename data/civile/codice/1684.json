@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1684",
+    "rubrica": "Lettera di vettura e ricevuta di carico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1684"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Su richiesta del vettore, il mittente deve rilasciare una lettera di vettura con la propria sottoscrizione, contenente le indicazioni enunciate nell'articolo precedente e le condizioni convenute per il trasporto. Su richiesta del mittente, il vettore deve rilasciare un duplicato della lettera di vettura con la propria sottoscrizione o, se non gli e' stata rilasciata lettera di vettura, una ricevuta di carico, con le stesse indicazioni. Salvo contrarie disposizioni di legge, il duplicato della lettera di vettura e la ricevuta di carico possono essere rilasciate con la clausola «all'ordine».",
+    "con_marcatori": "Art. 1684. (Lettera di vettura e ricevuta di carico). Su richiesta del vettore, il mittente deve rilasciare una lettera di vettura con la propria sottoscrizione, contenente le indicazioni enunciate nell'articolo precedente e le condizioni convenute per il trasporto. Su richiesta del mittente, il vettore deve rilasciare un duplicato della lettera di vettura con la propria sottoscrizione o, se non gli e' stata rilasciata lettera di vettura, una ricevuta di carico, con le stesse indicazioni. Salvo contrarie disposizioni di legge, il duplicato della lettera di vettura e la ricevuta di carico possono essere rilasciate con la clausola «all'ordine».",
+    "caratteri": 596
+  },
+  "note": [],
+  "impronta": "sha256:729272d807cdae5d58d817496e210ddbb1754f3775f6f53fe0799f91c77b8ad8"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "983",
+    "rubrica": "Accessioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art983"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'usufrutto si estende a tutte le accessioni della cosa. Se il proprietario dopo l'inizio dell'usufrutto, con il consenso dell'usufruttuario, ha fatto nel fondo costruzioni o piantagioni, l'usufruttuario e' tenuto a corrispondere gli interessi sulle somme impiegate. La norma si applica anche nel caso in cui le costruzioni o piantagioni sono state fatte per disposizione della pubblica autorita'.",
+    "con_marcatori": "Art. 983. (Accessioni). L'usufrutto si estende a tutte le accessioni della cosa. Se il proprietario dopo l'inizio dell'usufrutto, con il consenso dell'usufruttuario, ha fatto nel fondo costruzioni o piantagioni, l'usufruttuario e' tenuto a corrispondere gli interessi sulle somme impiegate. La norma si applica anche nel caso in cui le costruzioni o piantagioni sono state fatte per disposizione della pubblica autorita'.",
+    "caratteri": 397
+  },
+  "note": [],
+  "impronta": "sha256:9679d493fce794c898adde4325666c2a1fbdf969ad682a05c8f78e4a63c7a7bf"
+}

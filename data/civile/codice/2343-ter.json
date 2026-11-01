@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2343-ter",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2343-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Conferimento di beni in natura o crediti senza relazione di stima Nel caso di conferimento di valori mobiliari ovvero di strumenti del mercato monetario non e' richiesta la relazione di cui all'articolo 2343, primo comma, se il valore ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo e' pari o inferiore al prezzo medio ponderato al quale sono stati negoziati su uno o piu' mercati regolamentati nei sei mesi precedenti il conferimento. Fuori dai casi in cui e' applicabile il primo comma, non e' altresi' richiesta la relazione di cui all'articolo 2343, primo comma, qualora il valore attribuito, ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo, ai beni in natura o crediti conferiti sia pari o inferiore: a) al fair value iscritto nel bilancio dell'esercizio precedente quello nel quale e' effettuato il conferimento a condizione che il bilancio sia sottoposto a revisione legale e la relazione del revisore non esprima rilievi in ordine alla valutazione dei beni oggetto del conferimento, ovvero; b) al valore risultante da una valutazione riferita ad una data precedente di non oltre sei mesi il conferimento e conforme ai principi e criteri generalmente riconosciuti per la valutazione dei beni oggetto del conferimento, a condizione che essa provenga da un esperto indipendente da chi effettua il conferimento, dalla societa' e dai soci che esercitano individualmente o congiuntamente il controllo sul soggetto conferente o sulla societa' medesima, dotato di adeguata e comprovata professionalita'. Chi conferisce beni o crediti ai sensi del primo e secondo comma presenta la documentazione dalla quale risulta il valore attribuito ai conferimenti e la sussistenza, per i conferimenti di cui al secondo comma, delle condizioni ivi indicate. La documentazione e' allegata all'atto costitutivo. L'esperto di cui al secondo comma, lettera b), risponde dei danni causati alla societa', ai soci e ai terzi. Ai fini dell'applicazione del secondo comma, lettera a), per la definizione di \"fair value\" si fa riferimento ai principi contabili internazionali adottati dall'Unione europea.",
+    "con_marcatori": "Art. 2343-ter Conferimento di beni in natura o crediti senza relazione di stima Nel caso di conferimento di valori mobiliari ovvero di strumenti del mercato monetario non e' richiesta la relazione di cui all'articolo 2343, primo comma, se il valore ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo e' pari o inferiore al prezzo medio ponderato al quale sono stati negoziati su uno o piu' mercati regolamentati nei sei mesi precedenti il conferimento. ((Fuori dai casi in cui e' applicabile il primo comma, non e' altresi' richiesta la relazione di cui all'articolo 2343, primo comma, qualora il valore attribuito, ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo, ai beni in natura o crediti conferiti sia pari o inferiore: a) al fair value iscritto nel bilancio dell'esercizio precedente quello nel quale e' effettuato il conferimento a condizione che il bilancio sia sottoposto a revisione legale e la relazione del revisore non esprima rilievi in ordine alla valutazione dei beni oggetto del conferimento, ovvero; b) al valore risultante da una valutazione riferita ad una data precedente di non oltre sei mesi il conferimento e conforme ai principi e criteri generalmente riconosciuti per la valutazione dei beni oggetto del conferimento, a condizione che essa provenga da un esperto indipendente da chi effettua il conferimento, dalla societa' e dai soci che esercitano individualmente o congiuntamente il controllo sul soggetto conferente o sulla societa' medesima, dotato di adeguata e comprovata professionalita'.)) Chi conferisce beni o crediti ai sensi del primo e secondo comma presenta la documentazione dalla quale risulta il valore attribuito ai conferimenti e la sussistenza, per i conferimenti di cui al secondo comma, delle condizioni ivi indicate. La documentazione e' allegata all'atto costitutivo. L'esperto di cui al secondo comma, lettera b), risponde dei danni causati alla societa', ai soci e ai terzi. ((Ai fini dell'applicazione del secondo comma, lettera a), per la definizione di \"fair value\" si fa riferimento ai principi contabili internazionali adottati dall'Unione europea.))",
+    "caratteri": 2166
+  },
+  "note": [],
+  "impronta": "sha256:40028ecd682aad560d0915504125a7d5c367547c435236a173963849459d01b4"
+}

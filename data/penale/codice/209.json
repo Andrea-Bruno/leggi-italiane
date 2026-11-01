@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "209",
+    "rubrica": "Persona giudicata per piu' fatti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art209"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando una persona ha commesso, anche in tempi diversi, piu' fatti per i quali siano applicabili piu' misure di sicurezza della medesima specie, e' ordinata una sola misura di sicurezza. Se le misure di sicurezza sono di specie diversa, il giudice valuta complessivamente il pericolo che deriva dalla persona e, in relazione ad esso, applica una o piu' delle misure di sicurezza stabilite dalla legge. Sono in ogni caso applicate le misure di sicurezza detentive, alle quali debba essere sottoposta la persona, a cagione del pericolo presunto dalla legge. Le disposizioni precedenti si applicano anche nel caso di misure di sicurezza in corso di esecuzione, o delle quali non siasi ancora iniziata l'esecuzione.",
+    "con_marcatori": "Art. 209. (Persona giudicata per piu' fatti) Quando una persona ha commesso, anche in tempi diversi, piu' fatti per i quali siano applicabili piu' misure di sicurezza della medesima specie, e' ordinata una sola misura di sicurezza. Se le misure di sicurezza sono di specie diversa, il giudice valuta complessivamente il pericolo che deriva dalla persona e, in relazione ad esso, applica una o piu' delle misure di sicurezza stabilite dalla legge. Sono in ogni caso applicate le misure di sicurezza detentive, alle quali debba essere sottoposta la persona, a cagione del pericolo presunto dalla legge. Le disposizioni precedenti si applicano anche nel caso di misure di sicurezza in corso di esecuzione, o delle quali non siasi ancora iniziata l'esecuzione.",
+    "caratteri": 711
+  },
+  "note": [],
+  "impronta": "sha256:2201098fac6a3d4f1fece987649484ec23707e16541bae743a93dc5ee9282b2e"
+}

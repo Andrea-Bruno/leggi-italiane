@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2434-bis",
+    "rubrica": "Invalidita' della deliberazione di approvazione del bilancio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2434-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le azioni previste dagli articoli 2377 e 2379 non possono essere proposte nei confronti delle deliberazioni di approvazione del bilancio dopo che e' avvenuta l'approvazione del bilancio dell'esercizio successivo. La legittimazione ad impugnare la deliberazione di approvazione del bilancio su cui il soggetto incaricato di effettuare la revisione legale dei conti ha emesso un giudizio privo di rilievi spetta a tanti soci che rappresentino almeno il cinque per cento del capitale sociale. Il bilancio dell'esercizio nel corso del quale viene dichiarata l'invalidita' di cui al comma precedente tiene conto delle ragioni di questa.",
+    "con_marcatori": "Art. 2434-bis. (Invalidita' della deliberazione di approvazione del bilancio). Le azioni previste dagli articoli 2377 e 2379 non possono essere proposte nei confronti delle deliberazioni di approvazione del bilancio dopo che e' avvenuta l'approvazione del bilancio dell'esercizio successivo. La legittimazione ad impugnare la deliberazione di approvazione del bilancio su cui ((il soggetto incaricato di effettuare la revisione legale dei conti ha emesso un giudizio privo di rilievi)) spetta a tanti soci che rappresentino almeno il cinque per cento del capitale sociale. Il bilancio dell'esercizio nel corso del quale viene dichiarata l'invalidita' di cui al comma precedente tiene conto delle ragioni di questa.",
+    "caratteri": 631
+  },
+  "note": [],
+  "impronta": "sha256:323c93d990549633505d44dfd3d5456ddc287e9635094c6cae795e4ea7db53df"
+}

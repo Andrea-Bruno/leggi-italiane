@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "527",
+    "rubrica": "Sottrazione di beni ereditari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art527"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I chiamati all'eredita', che hanno sottratto o nascosto beni spettanti all'eredita' stessa, decadono dalla facolta' di rinunziarvi e si considerano eredi puri e semplici, nonostante la loro rinunzia.",
+    "con_marcatori": "Art. 527. (Sottrazione di beni ereditari). I chiamati all'eredita', che hanno sottratto o nascosto beni spettanti all'eredita' stessa, decadono dalla facolta' di rinunziarvi e si considerano eredi puri e semplici, nonostante la loro rinunzia.",
+    "caratteri": 199
+  },
+  "note": [],
+  "impronta": "sha256:63837cbb0471fee2cfaa66ea3ffef27d93b0d3e59e0c69c4d18d58f9a49ed747"
+}

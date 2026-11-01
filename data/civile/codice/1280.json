@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1280",
+    "rubrica": "Debito di specie monetaria avente valore intrinseco",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1280"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pagamento deve farsi con una specie di moneta avente valore intrinseco, se cosi' e' stabilito dal titolo costitutivo del debito, sempreche' la moneta avesse corso legale al tempo in cui l'obbligazione fu assunta. Se pero' la moneta non e' reperibile, o non ha piu' corso, o ne e' alterato il valore intrinseco, il pagamento si effettua con moneta corrente che rappresenti il valore intrinseco che la specie monetaria dovuta aveva al tempo in cui l'obbligazione fu assunta.",
+    "con_marcatori": "Art. 1280. (Debito di specie monetaria avente valore intrinseco). Il pagamento deve farsi con una specie di moneta avente valore intrinseco, se cosi' e' stabilito dal titolo costitutivo del debito, sempreche' la moneta avesse corso legale al tempo in cui l'obbligazione fu assunta. Se pero' la moneta non e' reperibile, o non ha piu' corso, o ne e' alterato il valore intrinseco, il pagamento si effettua con moneta corrente che rappresenti il valore intrinseco che la specie monetaria dovuta aveva al tempo in cui l'obbligazione fu assunta.",
+    "caratteri": 475
+  },
+  "note": [],
+  "impronta": "sha256:2c4dccb77917ea02a8c91b5049ff6268a3436ade374340f89fe6d4c685c1babc"
+}

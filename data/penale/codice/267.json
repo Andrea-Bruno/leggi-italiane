@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "267",
+    "rubrica": "Disfattismo economico",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art267"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in tempo di guerra, adopera mezzi diretti a deprimere il corso dei cambi, o ad influire sul mercato dei titoli o dei valori, pubblici o privati, in modo da esporre a pericolo la resistenza della nazione di fronte al nemico, e' punito con la reclusione non inferiore a cinque anni e con la multa non inferiore a lire trentamila. Se il colpevole ha agito in seguito a intelligenze con lo straniero, la reclusione non puo' essere inferiore a dieci anni. La reclusione e' non inferiore a quindici anni se il colpevole ha agito in seguito a intelligenze col nemico.",
+    "con_marcatori": "Art. 267. (Disfattismo economico) Chiunque, in tempo di guerra, adopera mezzi diretti a deprimere il corso dei cambi, o ad influire sul mercato dei titoli o dei valori, pubblici o privati, in modo da esporre a pericolo la resistenza della nazione di fronte al nemico, e' punito con la reclusione non inferiore a cinque anni e con la multa non inferiore a lire trentamila. Se il colpevole ha agito in seguito a intelligenze con lo straniero, la reclusione non puo' essere inferiore a dieci anni. La reclusione e' non inferiore a quindici anni se il colpevole ha agito in seguito a intelligenze col nemico.",
+    "caratteri": 570
+  },
+  "note": [],
+  "impronta": "sha256:8340b1245524f76415de9d7f3bd7c451a02f65d2d485abd19c0fa743926c5fb5"
+}

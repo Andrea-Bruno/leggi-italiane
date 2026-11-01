@@ -1,0 +1,186 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "131-bis",
+    "rubrica": "Esclusione della punibilita' per particolare tenuita' del fatto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art131-bis"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 306,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 384,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 388,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 393,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nei reati per i quali e' prevista la pena detentiva non superiore nel minimo a due anni, ovvero la pena pecuniaria, sola o congiunta alla predetta pena, la punibilita' e' esclusa quando, per le modalita' della condotta e per l'esiguita' del danno o del pericolo, valutate ai sensi dell'articolo 133, primo comma, anche in considerazione della condotta susseguente al reato, l'offesa e' di particolare tenuita' e il comportamento risulta non abituale. L'offesa non puo' essere ritenuta di particolare tenuita', ai sensi del primo comma, quando l'autore ha agito per motivi abietti o futili, o con crudelta', anche in danno di animali, o ha adoperato sevizie o, ancora, ha profittato delle condizioni di minorata difesa della vittima, anche in riferimento all'eta' della stessa ovvero quando la condotta ha cagionato o da essa sono derivate, quali conseguenze non volute, la morte o le lesioni gravissime di una persona. PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 150. L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si procede: 1) per delitti, puniti con una pena superiore nel massimo a due anni e sei mesi di reclusione, commessi in occasione o a causa di manifestazioni sportive; 2) per i delitti previsti dagli articoli 336, 337 e 341-bis, quando il fatto e' commesso nei confronti di un ufficiale o agente di pubblica sicurezza o di un ufficiale o agente di polizia giudiziaria nell'esercizio delle proprie funzioni, nonche' per il delitto previsto dall'articolo 343; 3) per i delitti, consumati o tentati, previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 391-bis, 423, 423-bis, 558-bis, 582, nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, 583, secondo comma, 583-bis, 593-ter, 600-bis, 600-ter, primo comma, 609-bis, 609-quater, 609-quinquies, 609-undecies, 612- bis, 612-ter, 613-bis, 628, terzo comma, 629, 644, 648-bis, 648-ter; . 4) per i delitti, consumati o tentati, previsti dall'articolo 19, quinto comma, della legge 22 maggio 1978, n. 194, dall'articolo 73 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, salvo che per i delitti di cui al comma 5 del medesimo articolo, e dagli articoli 184 e 185 del decreto legislativo 24 febbraio 1998, n. 58; 4-bis) per i delitti previsti dalla sezione II del capo III del titolo III della legge 22 aprile 1941 n. 633, salvo che per i delitti di cui all'articolo 171 della medesima legge. 4-ter) per i delitti consumati o tentati previsti dagli articoli 255-ter, 256, commi 1-bis, 3 e 3-bis, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152. Il comportamento e' abituale nel caso in cui l'autore sia stato dichiarato delinquente abituale, professionale o per tendenza ovvero abbia commesso piu' reati della stessa indole, anche se ciascun fatto, isolatamente considerato, sia di particolare tenuita', nonche' nel caso in cui si tratti di reati che abbiano ad oggetto condotte plurime, abituali e reiterate. Ai fini della determinazione della pena detentiva prevista nel primo comma non si tiene conto delle circostanze, ad eccezione di quelle per le quali la legge stabilisce una pena di specie diversa da quella ordinaria del reato e di quelle ad effetto speciale. In quest'ultimo caso ai fini dell'applicazione del primo comma non si tiene conto del giudizio di bilanciamento delle circostanze di cui all'articolo 69. La disposizione del primo comma si applica anche quando la legge prevede la particolare tenuita' del danno o del pericolo come circostanza attenuante.",
+    "con_marcatori": "Art. 131-bis. (Esclusione della punibilita' per particolare tenuita' del fatto). Nei reati per i quali e' prevista la pena detentiva non superiore nel minimo a due anni, ovvero la pena pecuniaria, sola o congiunta alla predetta pena, la punibilita' e' esclusa quando, per le modalita' della condotta e per l'esiguita' del danno o del pericolo, valutate ai sensi dell'articolo 133, primo comma, anche in considerazione della condotta susseguente al reato, l'offesa e' di particolare tenuita' e il comportamento risulta non abituale. L'offesa non puo' essere ritenuta di particolare tenuita', ai sensi del primo comma, quando l'autore ha agito per motivi abietti o futili, o con crudelta', anche in danno di animali, o ha adoperato sevizie o, ancora, ha profittato delle condizioni di minorata difesa della vittima, anche in riferimento all'eta' della stessa ovvero quando la condotta ha cagionato o da essa sono derivate, quali conseguenze non volute, la morte o le lesioni gravissime di una persona. PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 150. L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si procede: 1) per delitti, puniti con una pena superiore nel massimo a due anni e sei mesi di reclusione, commessi in occasione o a causa di manifestazioni sportive; 2) per i delitti previsti dagli articoli 336, 337 e 341-bis, quando il fatto e' commesso nei confronti di un ufficiale o agente di pubblica sicurezza o di un ufficiale o agente di polizia giudiziaria nell'esercizio delle proprie funzioni, nonche' per il delitto previsto dall'articolo 343; 3) per i delitti, consumati o tentati, previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 391-bis, 423, 423-bis, 558-bis, 582, nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, 583, secondo comma, 583-bis, 593-ter, 600-bis, 600-ter, primo comma, 609-bis, 609-quater, 609-quinquies, 609-undecies, 612- bis, 612-ter, 613-bis, 628, terzo comma, 629, 644, 648-bis, 648-ter; (388) ((393)). 4) per i delitti, consumati o tentati, previsti dall'articolo 19, quinto comma, della legge 22 maggio 1978, n. 194, dall'articolo 73 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, salvo che per i delitti di cui al comma 5 del medesimo articolo, e dagli articoli 184 e 185 del decreto legislativo 24 febbraio 1998, n. 58; 4-bis) per i delitti previsti dalla sezione II del capo III del titolo III della legge 22 aprile 1941 n. 633, salvo che per i delitti di cui all'articolo 171 della medesima legge. 4-ter) per i delitti consumati o tentati previsti dagli articoli 255-ter, 256, commi 1-bis, 3 e 3-bis, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152. (384) Il comportamento e' abituale nel caso in cui l'autore sia stato dichiarato delinquente abituale, professionale o per tendenza ovvero abbia commesso piu' reati della stessa indole, anche se ciascun fatto, isolatamente considerato, sia di particolare tenuita', nonche' nel caso in cui si tratti di reati che abbiano ad oggetto condotte plurime, abituali e reiterate. Ai fini della determinazione della pena detentiva prevista nel primo comma non si tiene conto delle circostanze, ad eccezione di quelle per le quali la legge stabilisce una pena di specie diversa da quella ordinaria del reato e di quelle ad effetto speciale. In quest'ultimo caso ai fini dell'applicazione del primo comma non si tiene conto del giudizio di bilanciamento delle circostanze di cui all'articolo 69. La disposizione del primo comma si applica anche quando la legge prevede la particolare tenuita' del danno o del pericolo come circostanza attenuante. (306)",
+    "caratteri": 3645
+  },
+  "note": [
+    {
+      "numero": 306,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 131-bis del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1, comma 2, del decreto legislativo 16 marzo 2015, n. 28",
+          "urn": "urn:nir:stato:decretoLegislativo:2015-03-16;28",
+          "data": "2015-03-16",
+          "numero": "28",
+          "data_gazzetta": "2015-03-18"
+        },
+        {
+          "denominazione": "articolo 1, comma 1, lettera m), della legge 28 aprile 2014, n. 67",
+          "urn": "urn:nir:stato:legge:2014-04-28;67",
+          "data": "2014-04-28",
+          "numero": "67",
+          "data_gazzetta": "2014-05-02"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2020-07-21",
+        "numero": "156"
+      },
+      "testo": "La Corte Costituzionale con sentenza 25 giugno - 21 luglio 2020, n. 156 (in G.U. 1ª s.s. 22/07/2020, n. 30), ha dichiarato \"l'illegittimita' costituzionale dell'art. 131-bis del codice penale, inserito dall'art. 1, comma 2, del decreto legislativo 16 marzo 2015, n. 28, recante «Disposizioni in materia di non punibilita' per particolare tenuita' del fatto, a norma dell'articolo 1, comma 1, lettera m), della legge 28 aprile 2014, n. 67», nellaparte in cui non consente l'applicazione della causa di non punibilita' per particolare tenuita' del fatto ai reati per i quali non e' previsto un minimo edittale di pena detentiva\"."
+    },
+    {
+      "numero": 384,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 131-bis, terzo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-11-27",
+        "numero": "172"
+      },
+      "testo": "La Corte Costituzionale con sentenza 20 ottobre - 27 novembre 2025, n. 172 (in G.U. 1ª s.s. 3/12/2025, n. 49), ha dichiarato \"l'illegittimita' costituzionale dell'art. 131-bis, terzo comma, del codice penale, nella parte in cui si riferisce agli artt. 336 e 337 dello stesso codice\"."
+    },
+    {
+      "numero": 388,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 131-bis, terzo comma, numero 3), del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 423-bis, secondo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La Corte Costituzionale con sentenza 20 novembre 2025 - 22 gennaio 2026, n. 5 (in G.U. 1ª s.s. 28/1/2026, n. 4), ha dichiarato \"l'illegittimita' costituzionale dell'art. 131-bis, terzo comma, numero 3), del codice penale, nella parte in cui prevede che l'offesa non puo' essere ritenuta di particolare tenuita' quando si procede per il delitto previsto dall'art. 423-bis, secondo comma, cod. pen.\"."
+    },
+    {
+      "numero": 393,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 131-bis, terzo comma, numero 3), del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 629, primo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2026-03-31",
+        "numero": "44"
+      },
+      "testo": "La Corte Costituzionale con sentenza 23 febbraio - 31 marzo 2026, n. 44 (in G.U. 1ª s.s. 01/04/2026, n. 13), ha dichiarato \"l'illegittimita' costituzionale dell'art. 131-bis, terzo comma, numero 3), del codice penale, nella parte in cui prevede che l'offesa non puo' essere ritenuta di particolare tenuita' quando si procede per il delitto tentato previsto dall'art. 629, primo comma, cod. pen.\"."
+    }
+  ],
+  "impronta": "sha256:2f6b580a21686bea561cc64d7eb1efd346255b1d01cb8f289fffc404840a9595"
+}

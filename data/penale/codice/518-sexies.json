@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-sexies",
+    "rubrica": "Riciclaggio di beni culturali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori dei casi di concorso nel reato, chiunque sostituisce o trasferisce beni culturali provenienti da delitto non colposo, ovvero compie in relazione ad essi altre operazioni, in modo da ostacolare l'identificazione della loro provenienza delittuosa, e' punito con la reclusione da cinque a quattordici anni e con la multa da euro 6.000 a euro 30.000. La pena e' diminuita se i beni culturali provengono da delitto per il quale e' stabilita la pena della reclusione inferiore nel massimo a cinque anni. Le disposizioni del presente articolo si applicano anche quando l'autore del delitto da cui i beni culturali provengono non e' imputabile o non e' punibile ovvero quando manca una condizione di procedibilita' riferita a tale delitto.",
+    "con_marcatori": "Art. 518-sexies (( (Riciclaggio di beni culturali). )) ((Fuori dei casi di concorso nel reato, chiunque sostituisce o trasferisce beni culturali provenienti da delitto non colposo, ovvero compie in relazione ad essi altre operazioni, in modo da ostacolare l'identificazione della loro provenienza delittuosa, e' punito con la reclusione da cinque a quattordici anni e con la multa da euro 6.000 a euro 30.000. La pena e' diminuita se i beni culturali provengono da delitto per il quale e' stabilita la pena della reclusione inferiore nel massimo a cinque anni. Le disposizioni del presente articolo si applicano anche quando l'autore del delitto da cui i beni culturali provengono non e' imputabile o non e' punibile ovvero quando manca una condizione di procedibilita' riferita a tale delitto.))",
+    "caratteri": 737
+  },
+  "note": [],
+  "impronta": "sha256:d9896d6c30a1fb8a4ad77a7535e1705cf766514479ab74c9e8517307beb7c9e4"
+}

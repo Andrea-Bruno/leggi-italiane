@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "470",
+    "rubrica": "Accettazione pura e semplice e accettazione col beneficio d'inventario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art470"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'eredita' puo' essere accettata puramente e semplicemente o col beneficio d'inventario. L'accettazione col beneficio d'inventario puo' farsi nonostante qualunque divieto del testatore.",
+    "con_marcatori": "Art. 470. (Accettazione pura e semplice e accettazione col beneficio d'inventario). L'eredita' puo' essere accettata puramente e semplicemente o col beneficio d'inventario. L'accettazione col beneficio d'inventario puo' farsi nonostante qualunque divieto del testatore.",
+    "caratteri": 185
+  },
+  "note": [],
+  "impronta": "sha256:315d5914222a2e6b16098cf9e77d211db404fd119c7a6dec0d7420fd87b15180"
+}

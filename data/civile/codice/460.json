@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "460",
+    "rubrica": "Poteri del chiamato prima dell'accettazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art460"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il chiamato all'eredita' puo' esercitare le azioni possessorie a tutela dei beni ereditari, senza bisogno di materiale apprensione. Egli inoltre puo' compiere atti conservativi, di vigilanza e di amministrazione temporanea, e puo' farsi autorizzare dall'autorita' giudiziaria a vendere i beni che non si possono conservare o la cui conservazione importa grave dispendio. Non puo' il chiamato compiere gli atti indicati nei commi precedenti, quando si e' provveduto alla nomina di un curatore dell'eredita' a norma dell'art. 528.",
+    "con_marcatori": "Art. 460. (Poteri del chiamato prima dell'accettazione). Il chiamato all'eredita' puo' esercitare le azioni possessorie a tutela dei beni ereditari, senza bisogno di materiale apprensione. Egli inoltre puo' compiere atti conservativi, di vigilanza e di amministrazione temporanea, e puo' farsi autorizzare dall'autorita' giudiziaria a vendere i beni che non si possono conservare o la cui conservazione importa grave dispendio. Non puo' il chiamato compiere gli atti indicati nei commi precedenti, quando si e' provveduto alla nomina di un curatore dell'eredita' a norma dell'art. 528.",
+    "caratteri": 528
+  },
+  "note": [],
+  "impronta": "sha256:b511982fd1b5b8a934711206be731c3ac0068f4aabd5a6602b48911f7a02d6bc"
+}

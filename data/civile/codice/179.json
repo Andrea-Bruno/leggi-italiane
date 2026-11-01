@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "179",
+    "rubrica": "Beni personali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art179"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non costituiscono oggetto della comunione e sono beni personali del coniuge: a) i beni di cui, prima del matrimonio, il coniuge era proprietario o rispetto ai quali era titolare di un diritto reale di godimento; b) i beni acquisiti successivamente al matrimonio per effetto di donazione o successione, quando nell'atto di liberalita' o nel testamento non e' specificato che essi sono attribuiti alla comunione; c) i beni di uso strettamente personale di ciascun coniuge ed i loro accessori; d) i beni che servono all'esercizio della professione del coniuge, tranne quelli destinati alla conduzione di un'azienda facente parte della comunione; e) i beni ottenuti a titolo di risarcimento del danno nonche' la pensione attinente alla perdita parziale o totale della capacita' lavorativa; f) i beni acquisiti con il prezzo del trasferimento dei beni personali sopraelencati o col loro scambio, purche' cio' sia espressamente dichiarato all'atto dell'acquisto. L'acquisto di beni immobili, o di beni mobili elencati nell'articolo 2683, effettuato dopo il matrimonio, e' escluso dalla comunione, ai sensi delle lettere c), d) ed f) del precedente comma, quando tale esclusione risulti dall'atto di acquisto se di esso sia stato parte anche l'altro coniuge.",
+    "con_marcatori": "Art. 179. ((Beni personali.)) ((Non costituiscono oggetto della comunione e sono beni personali del coniuge: a) i beni di cui, prima del matrimonio, il coniuge era proprietario o rispetto ai quali era titolare di un diritto reale di godimento; b) i beni acquisiti successivamente al matrimonio per effetto di donazione o successione, quando nell'atto di liberalita' o nel testamento non e' specificato che essi sono attribuiti alla comunione; c) i beni di uso strettamente personale di ciascun coniuge ed i loro accessori; d) i beni che servono all'esercizio della professione del coniuge, tranne quelli destinati alla conduzione di un'azienda facente parte della comunione; e) i beni ottenuti a titolo di risarcimento del danno nonche' la pensione attinente alla perdita parziale o totale della capacita' lavorativa; f) i beni acquisiti con il prezzo del trasferimento dei beni personali sopraelencati o col loro scambio, purche' cio' sia espressamente dichiarato all'atto dell'acquisto. L'acquisto di beni immobili, o di beni mobili elencati nell'articolo 2683, effettuato dopo il matrimonio, e' escluso dalla comunione, ai sensi delle lettere c), d) ed f) del precedente comma, quando tale esclusione risulti dall'atto di acquisto se di esso sia stato parte anche l'altro coniuge)).",
+    "caratteri": 1251
+  },
+  "note": [],
+  "impronta": "sha256:6aecca838c019bd15307e95f089755d5040fb5ac3a3a8b7466623dff13bcdfb6"
+}

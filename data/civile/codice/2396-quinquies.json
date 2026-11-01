@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2396-quinquies",
+    "rubrica": "Doveri dell'organo di controllo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2396-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". L'organo di controllo vigila sull'osservanza della legge e dello statuto, sul rispetto dei principi di corretta amministrazione, nonche' sull'adeguatezza e sul concreto funzionamento dell'assetto organizzativo, amministrativo e contabile adottato dalla societa', ivi compreso il sistema di controllo interno e di gestione dei rischi e il coordinamento delle sue funzioni. E' fatto salvo quanto diversamente stabilito ai sensi delle leggi speciali. L'organo di controllo riferisce sull'attivita' di vigilanza svolta e sulle omissioni e sui fatti censurabili rilevati all'assemblea convocata per l'approvazione del bilancio di esercizio ovvero ai sensi del secondo comma dell'articolo 2364-bis.",
+    "con_marcatori": "Art. 2396-quinquies. (( (Doveri dell'organo di controllo).)). ((L'organo di controllo vigila sull'osservanza della legge e dello statuto, sul rispetto dei principi di corretta amministrazione, nonche' sull'adeguatezza e sul concreto funzionamento dell'assetto organizzativo, amministrativo e contabile adottato dalla societa', ivi compreso il sistema di controllo interno e di gestione dei rischi e il coordinamento delle sue funzioni. E' fatto salvo quanto diversamente stabilito ai sensi delle leggi speciali. L'organo di controllo riferisce sull'attivita' di vigilanza svolta e sulle omissioni e sui fatti censurabili rilevati all'assemblea convocata per l'approvazione del bilancio di esercizio ovvero ai sensi del secondo comma dell'articolo 2364-bis.))",
+    "caratteri": 694
+  },
+  "note": [],
+  "impronta": "sha256:2f86ef0c6bafc78935316d4b6eaa2a15c249c1090b4c3ba5505bcf28fa5293ac"
+}

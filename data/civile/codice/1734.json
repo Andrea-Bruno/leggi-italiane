@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1734",
+    "rubrica": "Revoca della commissione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1734"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il committente puo' revocare l'ordine di concludere l'affare fino a che il commissionario non l'abbia concluso. In tal caso spetta al commissionario una parte della provvigione, che si determina tenendo conto delle spese sostenute e dell'opera prestata.",
+    "con_marcatori": "Art. 1734. (Revoca della commissione). Il committente puo' revocare l'ordine di concludere l'affare fino a che il commissionario non l'abbia concluso. In tal caso spetta al commissionario una parte della provvigione, che si determina tenendo conto delle spese sostenute e dell'opera prestata.",
+    "caratteri": 253
+  },
+  "note": [],
+  "impronta": "sha256:3444a36d04244d78d2869fee218a156f530731a1fccc47ec18ce26cf6bae152f"
+}

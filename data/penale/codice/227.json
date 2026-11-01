@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "227",
+    "rubrica": "Riformatori speciali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art227"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando la legge stabilisce che il ricovero in un riformatorio giudiziario sia ordinato senza che occorra accertare che il minore e' socialmente pericoloso, questi e' assegnato ad uno stabilimento speciale o ad una sezione speciale degli stabilimenti ordinari. Puo' altresi' essere assegnato ad uno stabilimento speciale o ad una sezione speciale degli stabilimenti ordinari il minore che, durante il ricovero nello stabilimento ordinario, si sia rivelato particolarmente pericoloso.",
+    "con_marcatori": "Art. 227. (Riformatori speciali) Quando la legge stabilisce che il ricovero in un riformatorio giudiziario sia ordinato senza che occorra accertare che il minore e' socialmente pericoloso, questi e' assegnato ad uno stabilimento speciale o ad una sezione speciale degli stabilimenti ordinari. Puo' altresi' essere assegnato ad uno stabilimento speciale o ad una sezione speciale degli stabilimenti ordinari il minore che, durante il ricovero nello stabilimento ordinario, si sia rivelato particolarmente pericoloso.",
+    "caratteri": 482
+  },
+  "note": [],
+  "impronta": "sha256:f31755eb197ccab2b2f7d154a374497625d634ab1aa522ad5cb92741537490fd"
+}

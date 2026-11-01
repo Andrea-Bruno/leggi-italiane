@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1167",
+    "rubrica": "Interruzione dell'usucapione per perdita di possesso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1167"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'usucapione e' interrotta quando il possessore e' stato privato del possesso per oltre un anno. L'interruzione si ha come non avvenuta se e' stata proposta l'azione diretta a ricuperare il possesso e questo e' stato ricuperato.",
+    "con_marcatori": "Art. 1167. (Interruzione dell'usucapione per perdita di possesso). L'usucapione e' interrotta quando il possessore e' stato privato del possesso per oltre un anno. L'interruzione si ha come non avvenuta se e' stata proposta l'azione diretta a ricuperare il possesso e questo e' stato ricuperato.",
+    "caratteri": 228
+  },
+  "note": [],
+  "impronta": "sha256:a129c37036ea84077b7432055af16b639e9d0fa2a44d248ba06137eb4cb174dd"
+}

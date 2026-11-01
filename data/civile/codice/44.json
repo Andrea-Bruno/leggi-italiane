@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "44",
+    "rubrica": "Trasferimento della residenza e del domicilio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art44"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il trasferimento della residenza non puo' essere opposto ai terzi di buona fede, se non e' stato denunciato nei modi prescritti dalla legge. Quando una persona ha nel medesimo luogo il domicilio e la residenza e trasferisce questa altrove, di fronte ai terzi di buona fede si considera trasferito pure il domicilio, se non si e' fatta una diversa dichiarazione nell'atto in cui e' stato denunciato il trasferimento della residenza.",
+    "con_marcatori": "Art. 44. (Trasferimento della residenza e del domicilio). Il trasferimento della residenza non puo' essere opposto ai terzi di buona fede, se non e' stato denunciato nei modi prescritti dalla legge. Quando una persona ha nel medesimo luogo il domicilio e la residenza e trasferisce questa altrove, di fronte ai terzi di buona fede si considera trasferito pure il domicilio, se non si e' fatta una diversa dichiarazione nell'atto in cui e' stato denunciato il trasferimento della residenza.",
+    "caratteri": 431
+  },
+  "note": [],
+  "impronta": "sha256:65369006319fe4db19944f5819e1d4eab68302abf55fb9de831ea55a414af856"
+}

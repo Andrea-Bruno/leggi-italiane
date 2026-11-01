@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "599",
+    "rubrica": "Provocazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art599"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "COMMA ABROGATO DAL D.LGS. 15 GENNAIO 2016, N. 7. Non e' punibile chi ha commesso alcuno dei fatti preveduti dall'articolo 595 nello stato d'ira determinato da un fatto ingiusto altrui, e subito dopo di esso. COMMA ABROGATO DAL D.LGS. 15 GENNAIO 2016, N. 7.",
+    "con_marcatori": "Art. 599. (( Provocazione. )) ((COMMA ABROGATO DAL D.LGS. 15 GENNAIO 2016, N. 7)). Non e' punibile chi ha commesso alcuno dei fatti preveduti ((dall'articolo)) 595 nello stato d'ira determinato da un fatto ingiusto altrui, e subito dopo di esso. ((COMMA ABROGATO DAL D.LGS. 15 GENNAIO 2016, N. 7)).",
+    "caratteri": 256
+  },
+  "note": [],
+  "impronta": "sha256:2a2bf550736cc90b16d1fd310297c51ee98f834992647c4e62e03a727bf2970c"
+}

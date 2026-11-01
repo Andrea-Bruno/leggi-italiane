@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "502",
+    "rubrica": "Pagamento dei creditori e dei legatari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art502"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Divenuto definitivo lo stato di graduazione o passata in giudicato la sentenza che pronunzia sui reclami, l'erede deve soddisfare i creditori e i legatari in conformita' dello stato medesimo. Questo costituisce titolo esecutivo contro l'erede. La collocazione dei crediti condizionali non impedisce il pagamento dei creditori posteriori, sempre che questi diano cauzione. I creditori e i legatari che non si sono presentati hanno azione contro l'erede solo nei limiti della somma che residua dopo il pagamento dei creditori e dei legatari collocati nello stato di graduazione. Questa azione si prescrive in tre anni dal giorno in cui lo stato e' divenuto definitivo o e' passata in giudicato la sentenza che ha pronunziato sui reclami, salvo che il credito sia anteriormente prescritto.",
+    "con_marcatori": "Art. 502. (Pagamento dei creditori e dei legatari). Divenuto definitivo lo stato di graduazione o passata in giudicato la sentenza che pronunzia sui reclami, l'erede deve soddisfare i creditori e i legatari in conformita' dello stato medesimo. Questo costituisce titolo esecutivo contro l'erede. La collocazione dei crediti condizionali non impedisce il pagamento dei creditori posteriori, sempre che questi diano cauzione. I creditori e i legatari che non si sono presentati hanno azione contro l'erede solo nei limiti della somma che residua dopo il pagamento dei creditori e dei legatari collocati nello stato di graduazione. Questa azione si prescrive in tre anni dal giorno in cui lo stato e' divenuto definitivo o e' passata in giudicato la sentenza che ha pronunziato sui reclami, salvo che il credito sia anteriormente prescritto.",
+    "caratteri": 786
+  },
+  "note": [],
+  "impronta": "sha256:5fe6dfd3df6a56e49c0fd74b70167f92f6ac5580218e46cdcadb3556003665c4"
+}

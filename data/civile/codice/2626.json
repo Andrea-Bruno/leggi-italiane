@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2626",
+    "rubrica": "Indebita restituzione dei conferimenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2626"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori che, fuori dei casi di legittima riduzione del capitale sociale, restituiscono, anche simulatamente, i conferimenti ai soci o li liberano dall'obbligo di eseguirli, sono puniti con la reclusione fino ad un anno. ----------- AGGIORNAMENTO (4a) Il D.P.R. 11 luglio 1959, n. 460 ha disposto (con l'art. 6, comma 1) che \"E' concessa amnistia per i reati previsti nell'art. 27, terzo comma, della legge 29 aprile 1949, n. 264; nell'art. 2626 del Codice civile e per gli altri reati contravvenzionali di omissione previsti da leggi penali e da leggi fiscali, a condizione che la denunzia, il deposito o la dichiarazione omessi vengano effettuati o vengano attuate le eventuali ottemperanze sostitutive, nel termine di centoventi giorni dalla data del presente decreto, sempreche' il termine stabilito per la denuncia, il deposito o la dichiarazione sia anteriore alla data di cui all'art. 15\". Ha inoltre disposto (con l'art. 15, comma 1) che \"Salvo quanto disposto dall'art. 1, lettere a) ed e), l'amnistia e l'indulto hanno efficacia per i reati commessi lino a tutto il 23 ottobre 1958\".",
+    "con_marcatori": "Art. 2626. (( (Indebita restituzione dei conferimenti). )) (( Gli amministratori che, fuori dei casi di legittima riduzione del capitale sociale, restituiscono, anche simulatamente, i conferimenti ai soci o li liberano dall'obbligo di eseguirli, sono puniti con la reclusione fino ad un anno.)) ----------- AGGIORNAMENTO (4a) Il D.P.R. 11 luglio 1959, n. 460 ha disposto (con l'art. 6, comma 1) che \"E' concessa amnistia per i reati previsti nell'art. 27, terzo comma, della legge 29 aprile 1949, n. 264; nell'art. 2626 del Codice civile e per gli altri reati contravvenzionali di omissione previsti da leggi penali e da leggi fiscali, a condizione che la denunzia, il deposito o la dichiarazione omessi vengano effettuati o vengano attuate le eventuali ottemperanze sostitutive, nel termine di centoventi giorni dalla data del presente decreto, sempreche' il termine stabilito per la denuncia, il deposito o la dichiarazione sia anteriore alla data di cui all'art. 15\". Ha inoltre disposto (con l'art. 15, comma 1) che \"Salvo quanto disposto dall'art. 1, lettere a) ed e), l'amnistia e l'indulto hanno efficacia per i reati commessi lino a tutto il 23 ottobre 1958\".",
+    "caratteri": 1103
+  },
+  "note": [],
+  "impronta": "sha256:0221c7dce498a3390ed338232f4e2e6ce5b45c839fb9e041e7d7b7d8288670ec"
+}

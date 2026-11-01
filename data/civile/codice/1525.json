@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1525",
+    "rubrica": "Inadempimento del compratore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1525"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nonostante patto contrario, il mancato pagamento di una sola rata, che non superi l'ottava parte del prezzo, non da' luogo alla risoluzione del contratto, e il compratore conserva il beneficio del termine relativamente alle rate successive.",
+    "con_marcatori": "Art. 1525. (Inadempimento del compratore). Nonostante patto contrario, il mancato pagamento di una sola rata, che non superi l'ottava parte del prezzo, non da' luogo alla risoluzione del contratto, e il compratore conserva il beneficio del termine relativamente alle rate successive.",
+    "caratteri": 240
+  },
+  "note": [],
+  "impronta": "sha256:4a9f29eb2eba64abb65fed4832ed7f6bf50273dc5b26a2e0f61fb3a5f2df7f8c"
+}

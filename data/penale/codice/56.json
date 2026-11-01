@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "56",
+    "rubrica": "Delitto tentato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art56"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi compie atti idonei, diretti in modo non equivoco a commettere un delitto, risponde di delitto tentato, se l'azione non si compie o l'evento non si verifica. Il colpevole di delitto tentato e' punito: con la reclusione da ventiquattro a trenta anni, se dalla legge e' stabilita per il delitto la pena di morte; con la reclusione non inferiore a dodici anni, se la pena stabilita e' l'ergastolo; e, negli altri casi, con la pena stabilita per il delitto, diminuita da un terzo a due terzi. Se il colpevole volontariamente desiste dall'azione, soggiace soltanto alla pena per gli atti compiuti, qualora questi costituiscano per se' un reato diverso. Se volontariamente impedisce l'evento, soggiace alla pena stabilita per il delitto tentato, diminuita da un terzo alla meta'.",
+    "con_marcatori": "Art. 56. (Delitto tentato) Chi compie atti idonei, diretti in modo non equivoco a commettere un delitto, risponde di delitto tentato, se l'azione non si compie o l'evento non si verifica. Il colpevole di delitto tentato e' punito: con la reclusione da ventiquattro a trenta anni, se dalla legge e' stabilita per il delitto la pena di morte; con la reclusione non inferiore a dodici anni, se la pena stabilita e' l'ergastolo; e, negli altri casi, con la pena stabilita per il delitto, diminuita da un terzo a due terzi. ((5)) Se il colpevole volontariamente desiste dall'azione, soggiace soltanto alla pena per gli atti compiuti, qualora questi costituiscano per se' un reato diverso. Se volontariamente impedisce l'evento, soggiace alla pena stabilita per il delitto tentato, diminuita da un terzo alla meta'.",
+    "caratteri": 776
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:3d88f2c16c85a1e25070b7b1a7c92b87dfeb0d3974ede4d37e005ab3d971272f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2229",
+    "rubrica": "Esercizio delle professioni intellettuali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2229"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La legge determina le professioni intellettuali per l'esercizio delle quali e' necessaria l'iscrizione in appositi albi o elenchi. L'accertamento dei requisiti per l'iscrizione negli albi o negli elenchi, la tenuta dei medesimi e il potere disciplinare sugli iscritti sono demandati alle associazioni professionali, sotto la vigilanza dello Stato, salvo che la legge disponga diversamente. Contro il rifiuto dell'iscrizione o la cancellazione dagli albi o elenchi, e contro i provvedimenti disciplinari che importano la perdita o la sospensione del diritto all'esercizio della professione e' ammesso ricorso in via giurisdizionale nei modi e nei termini stabiliti dalle leggi speciali.",
+    "con_marcatori": "Art. 2229. (Esercizio delle professioni intellettuali). La legge determina le professioni intellettuali per l'esercizio delle quali e' necessaria l'iscrizione in appositi albi o elenchi. L'accertamento dei requisiti per l'iscrizione negli albi o negli elenchi, la tenuta dei medesimi e il potere disciplinare sugli iscritti sono demandati alle associazioni professionali, sotto la vigilanza dello Stato, salvo che la legge disponga diversamente. Contro il rifiuto dell'iscrizione o la cancellazione dagli albi o elenchi, e contro i provvedimenti disciplinari che importano la perdita o la sospensione del diritto all'esercizio della professione e' ammesso ricorso in via giurisdizionale nei modi e nei termini stabiliti dalle leggi speciali.",
+    "caratteri": 685
+  },
+  "note": [],
+  "impronta": "sha256:18b65318bbf5e265a1d4c6cf8099c3da8566aa2778d7c26a8dfe84a60152536b"
+}

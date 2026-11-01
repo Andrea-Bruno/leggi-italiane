@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "433-bis",
+    "rubrica": "Attentato alla sicurezza delle installazioni nucleari",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art433-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque attenta alla sicurezza delle installazioni nucleari ovvero degli impianti, dei luoghi o dei mezzi adibiti alla produzione, alla conservazione o al trasporto di materie nucleari e' punito, qualora dal fatto derivi pericolo per la pubblica incolumita', con la reclusione da quattro a otto anni. Se dal fatto deriva un disastro, la pena e' della reclusione da cinque a venti anni.",
+    "con_marcatori": "Art. 433-bis (( (Attentato alla sicurezza delle installazioni nucleari). )) ((Chiunque attenta alla sicurezza delle installazioni nucleari ovvero degli impianti, dei luoghi o dei mezzi adibiti alla produzione, alla conservazione o al trasporto di materie nucleari e' punito, qualora dal fatto derivi pericolo per la pubblica incolumita', con la reclusione da quattro a otto anni. Se dal fatto deriva un disastro, la pena e' della reclusione da cinque a venti anni)).",
+    "caratteri": 386
+  },
+  "note": [],
+  "impronta": "sha256:022cc76f93b560d8e5bda5ce24d223c72db6524fef582b89e4b6eb1c391ff675"
+}

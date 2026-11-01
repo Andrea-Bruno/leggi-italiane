@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "378",
+    "rubrica": "Atti vietati al tutore e al protutore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art378"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il tutore e il protutore non possono, neppure all'asta pubblica, rendersi acquirenti direttamente o per iterposta persona dei beni e dei diritti del minore. Non possono prendere in locazione i beni del minore senza l'autorizzazione e le cautele fissate dal giudice tutelare. Gli atti compiuti in violazione di questi divieti possono essere annullati su istanza delle persone indicate dell'articolo precedente, ad eccezione del tutore e del protutore che li hanno compiuti. Il tutore e il protutore non possono neppure diventare cessionari di alcuna ragione o credito verso il minore.",
+    "con_marcatori": "Art. 378. (Atti vietati al tutore e al protutore). Il tutore e il protutore non possono, neppure all'asta pubblica, rendersi acquirenti direttamente o per iterposta persona dei beni e dei diritti del minore. Non possono prendere in locazione i beni del minore senza l'autorizzazione e le cautele fissate dal giudice tutelare. Gli atti compiuti in violazione di questi divieti possono essere annullati su istanza delle persone indicate dell'articolo precedente, ad eccezione del tutore e del protutore che li hanno compiuti. Il tutore e il protutore non possono neppure diventare cessionari di alcuna ragione o credito verso il minore.",
+    "caratteri": 583
+  },
+  "note": [],
+  "impronta": "sha256:26763797c9f8f14a43a9cb61e0ba881de81a98711feb44ca0df408193d620bcd"
+}

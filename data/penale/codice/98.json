@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "98",
+    "rubrica": "Minore degli anni diciotto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art98"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' imputabile chi, nel momento in cui ha commesso il fatto, aveva compiuto i quattordici anni, ma non ancora i diciotto, se aveva capacita' d'intendere e di volere; ma la pena e' diminuita. Nei casi di cui al primo periodo la capacita' di intendere e di volere del minore si presume fino a prova contraria. Quando la pena detentiva inflitta e' inferiore a cinque anni, o si tratta di pena pecuniaria, alla condanna non conseguono pene accessorie. Se si tratta di pena piu' grave, la condanna importa soltanto l'interdizione dai pubblici uffici per una durata non superiore a cinque anni, e, nei casi stabiliti dalla legge, la sospensione dall'esercizio della responsabilita' genitoriale o dell'autorita' maritale.",
+    "con_marcatori": "Art. 98. (Minore degli anni diciotto) E' imputabile chi, nel momento in cui ha commesso il fatto, aveva compiuto i quattordici anni, ma non ancora i diciotto, se aveva capacita' d'intendere e di volere; ma la pena e' diminuita. ((Nei casi di cui al primo periodo la capacita' di intendere e di volere del minore si presume fino a prova contraria.)) Quando la pena detentiva inflitta e' inferiore a cinque anni, o si tratta di pena pecuniaria, alla condanna non conseguono pene accessorie. Se si tratta di pena piu' grave, la condanna importa soltanto l'interdizione dai pubblici uffici per una durata non superiore a cinque anni, e, nei casi stabiliti dalla legge, la sospensione dall'esercizio della responsabilita' genitoriale o dell'autorita' maritale.",
+    "caratteri": 713
+  },
+  "note": [],
+  "impronta": "sha256:a4e83951a88db708fa07984f9813be171a834197269e2b1f20a848b410390044"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2391",
+    "rubrica": "Interessi degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2391"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". L'amministratore deve dare notizia agli altri amministratori e all'organo di controllo di ogni interesse che, per conto proprio o di terzi, abbia in una determinata operazione della societa', precisandone la natura, i termini, l'origine e la portata; se si tratta di amministratore delegato, deve altresi' astenersi dal compiere l'operazione, investendo della stessa l'organo collegiale. Se si tratta di amministratore unico, deve darne notizia anche alla prima assemblea utile. Nei casi previsti dal precedente comma la deliberazione del consiglio deve adeguatamente motivare le ragioni e la convenienza per la societa' dell'operazione. Nei casi di inosservanza a quanto disposto ai due precedenti commi del presente articolo ovvero nel caso di deliberazioni del consiglio o del comitato esecutivo adottate con il voto determinante dell'amministratore interessato, le deliberazioni medesime, qualora possano recare danno alla societa', possono essere impugnate dagli amministratori e dall'organo di controllo entro novanta giorni dalla loro data; l'impugnazione non puo' essere proposta da chi ha consentito con il proprio voto alla deliberazione se sono stati adempiuti gli obblighi di informazione previsti dal primo comma. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione. L'amministratore risponde dei danni derivati alla societa' dalla sua azione od omissione. Lo statuto o il consiglio con proprio regolamento possono stabilire condizioni, modalita' e limiti ulteriori in relazione alla partecipazione all'adunanza consiliare per il caso in cui l'amministratore sia portatore di un interesse in una determinata operazione.",
+    "con_marcatori": "Art. 2391. (( (Interessi degli amministratori).)). ((L'amministratore deve dare notizia agli altri amministratori e all'organo di controllo di ogni interesse che, per conto proprio o di terzi, abbia in una determinata operazione della societa', precisandone la natura, i termini, l'origine e la portata; se si tratta di amministratore delegato, deve altresi' astenersi dal compiere l'operazione, investendo della stessa l'organo collegiale. Se si tratta di amministratore unico, deve darne notizia anche alla prima assemblea utile. Nei casi previsti dal precedente comma la deliberazione del consiglio deve adeguatamente motivare le ragioni e la convenienza per la societa' dell'operazione. Nei casi di inosservanza a quanto disposto ai due precedenti commi del presente articolo ovvero nel caso di deliberazioni del consiglio o del comitato esecutivo adottate con il voto determinante dell'amministratore interessato, le deliberazioni medesime, qualora possano recare danno alla societa', possono essere impugnate dagli amministratori e dall'organo di controllo entro novanta giorni dalla loro data; l'impugnazione non puo' essere proposta da chi ha consentito con il proprio voto alla deliberazione se sono stati adempiuti gli obblighi di informazione previsti dal primo comma. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione. L'amministratore risponde dei danni derivati alla societa' dalla sua azione od omissione. Lo statuto o il consiglio con proprio regolamento possono stabilire condizioni, modalita' e limiti ulteriori in relazione alla partecipazione all'adunanza consiliare per il caso in cui l'amministratore sia portatore di un interesse in una determinata operazione.))",
+    "caratteri": 1710
+  },
+  "note": [],
+  "impronta": "sha256:50fc0d1316df04f5d9e913a411625db6ec96931b6323e3631a80c58c578ee206"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2334",
+    "rubrica": "Versamenti e convocazione dell'assemblea dei sottoscrittori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2334"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Raccolte le sottoscrizioni, i promotori, con raccomandata o nella forma prevista nel programma, devono assegnare ai sottoscrittori un termine non superiore a trenta giorni per fare il versamento prescritto dal secondo comma dell'articolo 2342. Decorso inutilmente questo termine, e' in facolta' dei promotori di agire contro i sottoscrittori morosi o di scioglierli dall'obbligazione assunta. Qualora i promotori si avvalgano di quest'ultima facolta', non puo' procedersi alla costituzione della societa' prima che siano collocate le azioni che quelli avevano sottoscritte. Salvo che il programma stabilisca un termine diverso, i promotori, nei venti giorni successivi al termine fissato per il versamento prescritto dal primo comma del presente articolo, devono convocare l'assemblea dei sottoscrittori mediante raccomandata, da inviarsi a ciascuno di essi almeno dieci giorni prima di quello fissato per l'assemblea, con l'indicazione delle materie da trattare.",
+    "con_marcatori": "Art. 2334. (( (Versamenti e convocazione dell'assemblea dei sottoscrittori). )) ((Raccolte le sottoscrizioni, i promotori, con raccomandata o nella forma prevista nel programma, devono assegnare ai sottoscrittori un termine non superiore a trenta giorni per fare il versamento prescritto dal secondo comma dell'articolo 2342. Decorso inutilmente questo termine, e' in facolta' dei promotori di agire contro i sottoscrittori morosi o di scioglierli dall'obbligazione assunta. Qualora i promotori si avvalgano di quest'ultima facolta', non puo' procedersi alla costituzione della societa' prima che siano collocate le azioni che quelli avevano sottoscritte. Salvo che il programma stabilisca un termine diverso, i promotori, nei venti giorni successivi al termine fissato per il versamento prescritto dal primo comma del presente articolo, devono convocare l'assemblea dei sottoscrittori mediante raccomandata, da inviarsi a ciascuno di essi almeno dieci giorni prima di quello fissato per l'assemblea, con l'indicazione delle materie da trattare.))",
+    "caratteri": 963
+  },
+  "note": [],
+  "impronta": "sha256:80101bedca5d784ab5a678f09f2fc925161a26e036c6c6be101e7258bb8a7001"
+}

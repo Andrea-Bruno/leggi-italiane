@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "683",
+    "rubrica": "Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art683"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, senza autorizzazione, pubblica col mezzo della stampa, o con un altro dei mezzi indicati nell'articolo 662, anche per riassunto, il contenuto delle discussioni o delle deliberazioni segrete del Senato o della Camera dei deputati e' punito, qualora il fatto non costituisca un piu' grave reato, con l'arresto fino a trenta giorni o con l'ammenda da lire centomila a cinquecentomila.",
+    "con_marcatori": "Art. 683. (( (Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere).)) ((Chiunque, senza autorizzazione, pubblica col mezzo della stampa, o con un altro dei mezzi indicati nell'articolo 662, anche per riassunto, il contenuto delle discussioni o delle deliberazioni segrete del Senato o della Camera dei deputati e' punito, qualora il fatto non costituisca un piu' grave reato, con l'arresto fino a trenta giorni o con l'ammenda da lire centomila a cinquecentomila)).",
+    "caratteri": 391
+  },
+  "note": [],
+  "impronta": "sha256:c58244dae00e6350ed3e49ea9c844864fd76237454355a944803e5d98cb27854"
+}

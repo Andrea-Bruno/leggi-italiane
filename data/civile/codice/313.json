@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "313",
+    "rubrica": "Provvedimento del tribunale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art313"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il tribunale, in camera di consiglio, sentito il pubblico ministero e omessa ogni altra formalita' di procedura, provvede con sentenza decidendo di far luogo o non far luogo alla adozione. L'adottante, il pubblico ministero, l'adottando, entro trenta giorni dalla comunicazione, possono proporre impugnazione avanti la Corte d'appello, che decide in camera di consiglio, sentito il pubblico ministero.",
+    "con_marcatori": "Art. 313. (( (Provvedimento del tribunale) )) ((Il tribunale, in camera di consiglio, sentito il pubblico ministero e omessa ogni altra formalita' di procedura, provvede con sentenza decidendo di far luogo o non far luogo alla adozione. L'adottante, il pubblico ministero, l'adottando, entro trenta giorni dalla comunicazione, possono proporre impugnazione avanti la Corte d'appello, che decide in camera di consiglio, sentito il pubblico ministero)).",
+    "caratteri": 401
+  },
+  "note": [
+    {
+      "numero": 14,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 5 giugno 1967, n. 431",
+          "urn": "urn:nir:stato:legge:1967-06-05;431",
+          "data": "1967-06-05",
+          "numero": "431",
+          "data_gazzetta": "1967-06-22"
+        },
+        {
+          "denominazione": "Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 5 giugno 1967, n. 431, ha disposto(con l'art. 3, comma 1)che \"Nelle ipotesi di cui al capo II del titolo VIII del libro I del Codice civile, alla competenza della Corte d'appello e' sostituita quella del tribunale nel cui circondario l'adottante ha la residenza. Per l'adozione di minorenni e' competente il tribunale per i minorenni\"."
+    }
+  ],
+  "impronta": "sha256:57f176be9869c0cb65b52c63ec69a13654a6b91b94125fd113b466986dcd48e9"
+}

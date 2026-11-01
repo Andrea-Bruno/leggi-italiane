@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "903",
+    "rubrica": "Luci nel muro proprio o nel muro comune",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art903"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le luci possono essere aperte dal proprietario del muro contiguo al fondo altrui. Se il muro e' comune, nessuno dei proprietari puo' aprire luci senza il consenso dell'altro; ma chi ha sopraelevato il muro comune puo' aprirle nella maggiore altezza a cui il vicino non abbia voluto contribuire.",
+    "con_marcatori": "Art. 903. (Luci nel muro proprio o nel muro comune). Le luci possono essere aperte dal proprietario del muro contiguo al fondo altrui. Se il muro e' comune, nessuno dei proprietari puo' aprire luci senza il consenso dell'altro; ma chi ha sopraelevato il muro comune puo' aprirle nella maggiore altezza a cui il vicino non abbia voluto contribuire.",
+    "caratteri": 294
+  },
+  "note": [],
+  "impronta": "sha256:ba68dd0c158b14ea9e643441c49c54b17c605686dac98638207d09e30169ac41"
+}

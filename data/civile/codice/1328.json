@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1328",
+    "rubrica": "Revoca della proposta e dell'accettazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1328"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La proposta puo' essere revocata finche' il contratto non sia concluso. Tuttavia, se l'accettante ne ha intrapreso in buona fede l'esecuzione prima di avere notizia della revoca, il proponente e' tenuto a indennizzarlo delle spese e delle perdite subite per l'iniziata esecuzione del contratto. L'accettazione puo' essere revocata, purche' la revoca giunga a conoscenza del proponente prima dell'accettazione.",
+    "con_marcatori": "Art. 1328. (Revoca della proposta e dell'accettazione). La proposta puo' essere revocata finche' il contratto non sia concluso. Tuttavia, se l'accettante ne ha intrapreso in buona fede l'esecuzione prima di avere notizia della revoca, il proponente e' tenuto a indennizzarlo delle spese e delle perdite subite per l'iniziata esecuzione del contratto. L'accettazione puo' essere revocata, purche' la revoca giunga a conoscenza del proponente prima dell'accettazione.",
+    "caratteri": 409
+  },
+  "note": [],
+  "impronta": "sha256:a4209b5a0eb3d241225f84e4ad1eb1061a271561ef263e693817494d1d143052"
+}

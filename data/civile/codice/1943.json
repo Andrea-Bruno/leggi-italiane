@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1943",
+    "rubrica": "Obbligazione di prestare fideiussione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1943"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il debitore obbligato a dare un fideiussore deve presentare persona capace, che possieda beni sufficienti a garantire l'obbligazione e che abbia o elegga domicilio nella giurisdizione della corte di appello in cui la fideiussione si deve prestare. Quando il fideiussore e' divenuto insolvente, deve esserne dato un altro, tranne che la fideiussione sia stata prestata dalla persona voluta dal creditore.",
+    "con_marcatori": "Art. 1943. (Obbligazione di prestare fideiussione). Il debitore obbligato a dare un fideiussore deve presentare persona capace, che possieda beni sufficienti a garantire l'obbligazione e che abbia o elegga domicilio nella giurisdizione della corte di appello in cui la fideiussione si deve prestare. Quando il fideiussore e' divenuto insolvente, deve esserne dato un altro, tranne che la fideiussione sia stata prestata dalla persona voluta dal creditore.",
+    "caratteri": 403
+  },
+  "note": [],
+  "impronta": "sha256:2200df343e2fa81a8e301cec41bd2bded56a099338ce007b16830640a3cd5af3"
+}

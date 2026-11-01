@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2898",
+    "rubrica": "Beni non ipotecati per il credito per il quale si procede",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2898"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso in cui il titolo d'acquisto del terzo acquirente comprende mobili e immobili, o comprende piu' immobili, gli uni ipotecati e gli altri liberi, ovvero non tutti gravati dalle stesse iscrizioni, situati nella giurisdizione dello stesso tribunale o in diverse giurisdizioni di tribunali, alienati per un unico prezzo ovvero per prezzi distinti, il prezzo di ciascun immobile assoggettato a particolari e separate iscrizioni deve dichiararsi nella notificazione, ragguagliato al prezzo totale espresso nel titolo. Il creditore che richiede l'espropriazione non puo' in nessun caso essere costretto a estendere la sua domanda ai mobili, o ad altri immobili, fuori di quelli che sono ipotecati per il suo credito, salvo il regresso del terzo acquirente contro il suo autore per il risarcimento del danno che venga a soffrire a causa della separazione dei beni compresi nell'acquisto e delle relative coltivazioni.",
+    "con_marcatori": "Art. 2898. (Beni non ipotecati per il credito per il quale si procede). Nel caso in cui il titolo d'acquisto del terzo acquirente comprende mobili e immobili, o comprende piu' immobili, gli uni ipotecati e gli altri liberi, ovvero non tutti gravati dalle stesse iscrizioni, situati nella giurisdizione dello stesso tribunale o in diverse giurisdizioni di tribunali, alienati per un unico prezzo ovvero per prezzi distinti, il prezzo di ciascun immobile assoggettato a particolari e separate iscrizioni deve dichiararsi nella notificazione, ragguagliato al prezzo totale espresso nel titolo. Il creditore che richiede l'espropriazione non puo' in nessun caso essere costretto a estendere la sua domanda ai mobili, o ad altri immobili, fuori di quelli che sono ipotecati per il suo credito, salvo il regresso del terzo acquirente contro il suo autore per il risarcimento del danno che venga a soffrire a causa della separazione dei beni compresi nell'acquisto e delle relative coltivazioni.",
+    "caratteri": 916
+  },
+  "note": [],
+  "impronta": "sha256:57993a419c4796ca52feb4ba08ce989072a7a5141863e5fa3a145aa42c5fcb98"
+}

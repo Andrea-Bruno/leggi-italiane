@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "63",
+    "rubrica": "Effetti della dichiarazione di morte presunta dell'assente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art63"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Divenuta eseguibile la sentenza indicata nell'art. 58, coloro che ottennero l'immissione nel possesso temporaneo dei beni dell'assente o i loro successori possono disporre liberamente dei beni. Coloro ai quali fu concesso l'esercizio temporaneo dei diritti o la liberazione temporanea dalle obbligazioni di cui all'art. 50 conseguono l'esercizio definitivo dei diritti o la liberazione definitiva dalle obbligazioni. Si estinguono inoltre le obbligazioni alimentari indicate nel quarto comma dell'art. 50. In ogni caso cessano le cauzioni e le altre cautele che sono state imposte.",
+    "con_marcatori": "Art. 63. (Effetti della dichiarazione di morte presunta dell'assente). Divenuta eseguibile la sentenza indicata nell'art. 58, coloro che ottennero l'immissione nel possesso temporaneo dei beni dell'assente o i loro successori possono disporre liberamente dei beni. Coloro ai quali fu concesso l'esercizio temporaneo dei diritti o la liberazione temporanea dalle obbligazioni di cui all'art. 50 conseguono l'esercizio definitivo dei diritti o la liberazione definitiva dalle obbligazioni. Si estinguono inoltre le obbligazioni alimentari indicate nel quarto comma dell'art. 50. In ogni caso cessano le cauzioni e le altre cautele che sono state imposte.",
+    "caratteri": 581
+  },
+  "note": [],
+  "impronta": "sha256:5f1e73d51e0a1d2056c14a27a93ea9d2d27d0986776392ba3998d4973b0c6233"
+}

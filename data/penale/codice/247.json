@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "247",
+    "rubrica": "Favoreggiamento bellico",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art247"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in tempo di guerra, tiene intelligenze con lo straniero per favorire le operazioni militari del nemico a danno dello Stato italiano, o per nuocere altrimenti alle operazioni militari dello Stato italiano, ovvero commette altri fatti diretti agli stessi scopi, e' punito con la reclusione non inferiore a dieci anni; e, se raggiunge l'intento, con la morte.",
+    "con_marcatori": "Art. 247. (Favoreggiamento bellico) Chiunque, in tempo di guerra, tiene intelligenze con lo straniero per favorire le operazioni militari del nemico a danno dello Stato italiano, o per nuocere altrimenti alle operazioni militari dello Stato italiano, ovvero commette altri fatti diretti agli stessi scopi, e' punito con la reclusione non inferiore a dieci anni; e, se raggiunge l'intento, con la morte. ((5))",
+    "caratteri": 366
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:399d8aca53d84f99bb47f65651485fdcaf1389d9f0c2c27861951dd44b6c8aa5"
+}

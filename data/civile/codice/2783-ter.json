@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2783-ter",
+    "rubrica": "Crediti dello Stato attinenti alle risorse proprie tradizionali di pertinenza del bilancio generale dell'Unione europea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2783-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti dello Stato attinenti alle risorse proprie tradizionali di cui all'articolo 2, paragrafo 1, lettera a), della decisione n. 2007/436/CE/Euratom del Consiglio, del 7 giugno 2007, di pertinenza del bilancio generale dell'Unione europea sono equiparati, ai fini dell'applicazione delle disposizioni del presente capo, ai crediti dello Stato per l'imposta sul valore aggiunto.",
+    "con_marcatori": "Art. 2783-ter (( (Crediti dello Stato attinenti alle risorse proprie tradizionali di pertinenza del bilancio generale dell'Unione europea). )) (( I crediti dello Stato attinenti alle risorse proprie tradizionali di cui all'articolo 2, paragrafo 1, lettera a), della decisione n. 2007/436/CE/Euratom del Consiglio, del 7 giugno 2007, di pertinenza del bilancio generale dell'Unione europea sono equiparati, ai fini dell'applicazione delle disposizioni del presente capo, ai crediti dello Stato per l'imposta sul valore aggiunto.))",
+    "caratteri": 381
+  },
+  "note": [],
+  "impronta": "sha256:1c8d37ad9cfb2333eb9724ed84e1cb0f15a374492066b64dd1ad45a4af2d9282"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2850",
+    "rubrica": "Formalita' per la rinnovazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2850"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per ottenere la rinnovazione si presenta al conservatore una nota in doppio originale conforme a quella della precedente iscrizione, in cui si dichiari che s'intende rinnovare l'iscrizione originaria. In luogo del titolo si puo' presentare la nota precedente. Il conservatore deve osservare le disposizioni dell'art. 2840.",
+    "con_marcatori": "Art. 2850. (Formalita' per la rinnovazione). Per ottenere la rinnovazione si presenta al conservatore una nota in doppio originale conforme a quella della precedente iscrizione, in cui si dichiari che s'intende rinnovare l'iscrizione originaria. In luogo del titolo si puo' presentare la nota precedente. Il conservatore deve osservare le disposizioni dell'art. 2840.",
+    "caratteri": 322
+  },
+  "note": [],
+  "impronta": "sha256:1005e7151f2787c59b512282050933f44aff1463be92fab63b0edd9feb1b6c59"
+}

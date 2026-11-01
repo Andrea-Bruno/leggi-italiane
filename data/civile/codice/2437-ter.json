@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2437-ter",
+    "rubrica": "Criteri di determinazione del valore delle azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2437-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il socio ha diritto alla liquidazione delle azioni per le quali esercita il recesso. Il valore di liquidazione delle azioni e' determinato dagli amministratori, sentito il parere del collegio sindacale e del soggetto incaricato della revisione legale dei conti, tenuto conto della consistenza patrimoniale della societa' e delle sue prospettive reddituali, nonche' dell'eventuale valore di mercato delle azioni. Il valore di liquidazione delle azioni quotate in mercati regolamentati e' determinato facendo ... riferimento alla media aritmetica dei prezzi di chiusura nei sei mesi che precedono la pubblicazione ovvero ricezione dell'avviso di convocazione dell'assemblea le cui deliberazioni legittimano il recesso. Lo statuto delle societa' con azioni quotate in mercati regolamentati puo' prevedere che il valore di liquidazione sia determinato secondo i criteri indicati dai commi 2 e 4 del presente articolo, fermo restando che in ogni caso tale valore non puo' essere inferiore al valore che sarebbe dovuto in applicazione del criterio indicato dal primo periodo del presente comma. Lo statuto puo' stabilire criteri diversi di determinazione del valore di liquidazione, indicando gli elementi dell'attivo e del passivo del bilancio che possono essere rettificati rispetto ai valori risultanti dal bilancio, unitamente ai criteri di rettifica, nonche' altri elementi suscettibili di valutazione patrimoniale da tenere in considerazione. I soci hanno diritto di conoscere la determinazione del valore di cui al secondo comma del presente articolo nei quindici giorni precedenti alla data fissata per l'assemblea; ciascun socio ha diritto di prenderne visione e di ottenerne copia a proprie spese. In caso di contestazione da proporre contestualmente alla dichiarazione di recesso il valore di liquidazione e' determinato entro novanta giorni dall'esercizio del diritto di recesso tramite relazione giurata di un esperto nominato dal tribunale, che provvede anche sulle spese, su istanza della parte piu' diligente; si applica in tal caso il primo comma dell'articolo 1349.",
+    "con_marcatori": "Art. 2437-ter. (Criteri di determinazione del valore delle azioni). Il socio ha diritto alla liquidazione delle azioni per le quali esercita il recesso. Il valore di liquidazione delle azioni e' determinato dagli amministratori, sentito il parere del collegio sindacale e del soggetto incaricato della revisione legale dei conti, tenuto conto della consistenza patrimoniale della societa' e delle sue prospettive reddituali, nonche' dell'eventuale valore di mercato delle azioni. Il valore di liquidazione delle azioni quotate in mercati regolamentati e' determinato facendo ((...)) riferimento alla media aritmetica dei prezzi di chiusura nei sei mesi che precedono la pubblicazione ovvero ricezione dell'avviso di convocazione dell'assemblea le cui deliberazioni legittimano il recesso. ((Lo statuto delle societa' con azioni quotate in mercati regolamentati puo' prevedere che il valore di liquidazione sia determinato secondo i criteri indicati dai commi 2 e 4 del presente articolo, fermo restando che in ogni caso tale valore non puo' essere inferiore al valore che sarebbe dovuto in applicazione del criterio indicato dal primo periodo del presente comma.)) Lo statuto puo' stabilire criteri diversi di determinazione del valore di liquidazione, indicando gli elementi dell'attivo e del passivo del bilancio che possono essere rettificati rispetto ai valori risultanti dal bilancio, unitamente ai criteri di rettifica, nonche' altri elementi suscettibili di valutazione patrimoniale da tenere in considerazione. I soci hanno diritto di conoscere la determinazione del valore di cui al secondo comma del presente articolo nei quindici giorni precedenti alla data fissata per l'assemblea; ciascun socio ha diritto di prenderne visione e di ottenerne copia a proprie spese. In caso di contestazione da proporre contestualmente alla dichiarazione di recesso il valore di liquidazione e' determinato entro novanta giorni dall'esercizio del diritto di recesso tramite relazione giurata di un esperto nominato dal tribunale, che provvede anche sulle spese, su istanza della parte piu' diligente; si applica in tal caso il primo comma dell'articolo 1349.",
+    "caratteri": 2077
+  },
+  "note": [],
+  "impronta": "sha256:8373edf419a7be57085dcc091c1d4e44a9b9d97fa52f3df0e8da433883f8eefe"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2811",
+    "rubrica": "Miglioramenti e accessioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2811"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ipoteca si estende ai miglioramenti, nonche' alle costruzioni e alle altre accessioni dell'immobile ipotecato, salve le eccezioni stabilite dalla legge.",
+    "con_marcatori": "Art. 2811. (Miglioramenti e accessioni). L'ipoteca si estende ai miglioramenti, nonche' alle costruzioni e alle altre accessioni dell'immobile ipotecato, salve le eccezioni stabilite dalla legge.",
+    "caratteri": 154
+  },
+  "note": [],
+  "impronta": "sha256:656e19a2dce0d3984e9349342f2effbe85a23a0ea5a53f82cca6fbde5385906a"
+}

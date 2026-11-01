@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "322",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art322"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Inosservanza delle disposizioni precedenti. Gli atti compiuti senza osservare le norme dei precedenti articoli del presente titolo possono essere annullati su istanza dei genitori esercenti la responsabilita' genitoriale o del figlio o dei suoi eredi o aventi causa.",
+    "con_marcatori": "Art. 322. Inosservanza delle disposizioni precedenti. Gli atti compiuti senza osservare le norme dei precedenti articoli del presente titolo possono essere annullati su istanza dei genitori esercenti la ((responsabilita' genitoriale)) o del figlio o dei suoi eredi o aventi causa.",
+    "caratteri": 266
+  },
+  "note": [],
+  "impronta": "sha256:7c90e2333ab3efe993c107cd278b6dd063e0be3b4785f561edfc86c7f43db971"
+}

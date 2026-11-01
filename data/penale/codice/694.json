@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "694",
+    "rubrica": "Omessa consegna di monete riconosciute contraffatte",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art694"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, avendo ricevuto come genuine, per un valore complessivo non inferiore a lire venti, monete contraffatte o alterate, non le consegna all'Autorita' entro tre giorni da quello in cui ne ha conosciuto la falsita' o l'alterazione, indicandone la provenienza se la conosce, e' punito con l'ammenda fino a lire duemila.",
+    "con_marcatori": "Art. 694. (Omessa consegna di monete riconosciute contraffatte) Chiunque, avendo ricevuto come genuine, per un valore complessivo non inferiore a lire venti, monete contraffatte o alterate, non le consegna all'Autorita' entro tre giorni da quello in cui ne ha conosciuto la falsita' o l'alterazione, indicandone la provenienza se la conosce, e' punito con l'ammenda fino a lire duemila. ((90))",
+    "caratteri": 322
+  },
+  "note": [
+    {
+      "numero": 90,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 24 novembre 1981, n. 689",
+          "urn": "urn:nir:stato:legge:1981-11-24;689",
+          "data": "1981-11-24",
+          "numero": "689",
+          "data_gazzetta": "1981-11-30"
+        },
+        {
+          "denominazione": "articoli 669",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "672",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "687",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "693",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "694 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 24 novembre 1981, n. 689 ha disposto (con l'art. 33, comma 1, lettera a)) che \"Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le contravvenzioni previste: a) dagli articoli 669, 672, 687, 693 e 694 del codice penale\"."
+    }
+  ],
+  "impronta": "sha256:761b204fe31f12961c91b8a34bf15e8f0e95bc22a16b5fc5f273fde275610e02"
+}

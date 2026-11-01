@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "348",
+    "rubrica": "Scelta del tutore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art348"
+  },
+  "stato": {
+    "codice": "da_verificare",
+    "inapplicabile": null,
+    "certezza": "bassa",
+    "motivazione": "Il testo riporta un'abrogazione riferita a una parte non identificata dell'articolo: verificare sulla fonte.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione",
+        "ambito": "parte",
+        "fonte": "Il giudice tutelare nomina tutore la persona designata dal genitore che ha esercitato per ultimo la patria potesta'. La designazione puo' essere fatta per testamento, per atto pubblico o per scrittura privata autenticata. Se manca la designazione ovvero se gravi motivi si oppongono alla nomina della persona designata, la scelta del tutore avviene preferibilmente tra gli ascendenti o tra gli altri prossimi parenti o affini del minore, i quali, in quanto sia opportuno, devono essere sentiti. Il giudice, prima di procedere alla nomina del tutore, dispone l'ascolto del minore che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento. In ogni caso la scelta deve cadere su persona idonea all'ufficio, di ineccepibile condotta, la quale dia affidamento di educare e istruire il minore conformemente a quanto e' prescritto nell'art. 147. IL D.LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287",
+        "testo": "Il giudice tutelare nomina tutore la persona designata dal genitore che ha esercitato per ultimo la patria potesta'. La designazione puo' essere fatta per testamento, per atto pubblico o per scrittura privata autenticata. Se manca la designazione ovvero se gravi motivi si oppongono alla nomina della"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il giudice tutelare nomina tutore la persona designata dal genitore che ha esercitato per ultimo la patria potesta'. La designazione puo' essere fatta per testamento, per atto pubblico o per scrittura privata autenticata. Se manca la designazione ovvero se gravi motivi si oppongono alla nomina della persona designata, la scelta del tutore avviene preferibilmente tra gli ascendenti o tra gli altri prossimi parenti o affini del minore, i quali, in quanto sia opportuno, devono essere sentiti. Il giudice, prima di procedere alla nomina del tutore, dispone l'ascolto del minore che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento. In ogni caso la scelta deve cadere su persona idonea all'ufficio, di ineccepibile condotta, la quale dia affidamento di educare e istruire il minore conformemente a quanto e' prescritto nell'art. 147. IL D.LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.",
+    "con_marcatori": "Art. 348. (Scelta del tutore). Il giudice tutelare nomina tutore la persona designata dal genitore che ha esercitato per ultimo la patria potesta'. La designazione puo' essere fatta per testamento, per atto pubblico o per scrittura privata autenticata.((223)) Se manca la designazione ovvero se gravi motivi si oppongono alla nomina della persona designata, la scelta del tutore avviene preferibilmente tra gli ascendenti o tra gli altri prossimi parenti o affini del minore, i quali, in quanto sia opportuno, devono essere sentiti. ((Il giudice, prima di procedere alla nomina del tutore, dispone l'ascolto del minore che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento)). In ogni caso la scelta deve cadere su persona idonea all'ufficio, di ineccepibile condotta, la quale dia affidamento di educare e istruire il minore conformemente a quanto e' prescritto nell'art. 147. IL D.LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.",
+    "caratteri": 969
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 57, comma 1, lettera a)) che \"al primo comma le parole: \"potesta' dei genitori\" sono sostituite dalle seguenti: \"responsabilita' genitoriale\".\"."
+    }
+  ],
+  "impronta": "sha256:ae9b9a4856d4f195c2fe2b1371bd79fbdd83a197d9e1f769d90363bfb0799f69"
+}

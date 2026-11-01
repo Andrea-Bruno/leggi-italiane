@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2579",
+    "rubrica": "Interpreti ed esecutori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2579"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Agli artisti attori o interpreti di opere o composizioni drammatiche o letterarie, e agli artisti esecutori di opere o composizioni musicali, anche se le opere o composizioni sovraindicate sono in dominio pubblico, compete, nei limiti, per gli effetti e con le modalita' fissati dalle leggi speciali, indipendentemente dall'eventuale retribuzione loro spettante per la recitazione, rappresentazione od esecuzione, il diritto ad un equo compenso nei confronti di chiunque diffonda o trasmetta per radio, telefono od altro apparecchio equivalente, ovvero incida, registri o comunque riproduca su dischi fonografici, pellicola cinematografica od altro apparecchio equivalente la suddetta recitazione, rappresentazione od esecuzione. Gli artisti attori od interpreti e gli artisti esecutori hanno diritto di opporsi alla diffusione, trasmissione o riproduzione della loro recitazione, rappresentazione od esecuzione che possa essere di pregiudizio al loro onore o alla loro reputazione.",
+    "con_marcatori": "Art. 2579. (Interpreti ed esecutori). Agli artisti attori o interpreti di opere o composizioni drammatiche o letterarie, e agli artisti esecutori di opere o composizioni musicali, anche se le opere o composizioni sovraindicate sono in dominio pubblico, compete, nei limiti, per gli effetti e con le modalita' fissati dalle leggi speciali, indipendentemente dall'eventuale retribuzione loro spettante per la recitazione, rappresentazione od esecuzione, il diritto ad un equo compenso nei confronti di chiunque diffonda o trasmetta per radio, telefono od altro apparecchio equivalente, ovvero incida, registri o comunque riproduca su dischi fonografici, pellicola cinematografica od altro apparecchio equivalente la suddetta recitazione, rappresentazione od esecuzione. Gli artisti attori od interpreti e gli artisti esecutori hanno diritto di opporsi alla diffusione, trasmissione o riproduzione della loro recitazione, rappresentazione od esecuzione che possa essere di pregiudizio al loro onore o alla loro reputazione.",
+    "caratteri": 982
+  },
+  "note": [],
+  "impronta": "sha256:4006ff84adf0f6f98b903e6377aaf9959fd99bb7035c761021d880217430c946"
+}

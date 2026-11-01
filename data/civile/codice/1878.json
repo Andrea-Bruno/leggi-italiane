@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1878",
+    "rubrica": "Mancanza di pagamento delle rate scadute",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1878"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di mancato pagamento delle rate di rendita scadute, il creditore della rendita, anche se e' lo stesso stipulante, non puo' domandare la risoluzione del contratto, ma puo' far sequestrare e vendere i beni del suo debitore affinche' col ricavato della vendita si faccia l'impiego di una somma sufficiente ad assicurare il pagamento della rendita.",
+    "con_marcatori": "Art. 1878. (Mancanza di pagamento delle rate scadute). In caso di mancato pagamento delle rate di rendita scadute, il creditore della rendita, anche se e' lo stesso stipulante, non puo' domandare la risoluzione del contratto, ma puo' far sequestrare e vendere i beni del suo debitore affinche' col ricavato della vendita si faccia l'impiego di una somma sufficiente ad assicurare il pagamento della rendita.",
+    "caratteri": 352
+  },
+  "note": [],
+  "impronta": "sha256:7d4f6c941ced756096e2bdfcf12749901b06e6b7b1bf8b4ae7e824ae11281ed0"
+}

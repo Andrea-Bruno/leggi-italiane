@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2538",
+    "rubrica": "Assemblea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2538"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle assemblee hanno diritto di voto coloro che risultano iscritti da almeno novanta giorni nel libro dei soci. Ciascun socio cooperatore ha un voto, qualunque sia il valore della quota o il numero delle azioni possedute. L'atto costitutivo determina i limiti al diritto di voto degli strumenti finanziari offerti in sottoscrizione ai soci cooperatori. Ai soci cooperatori persone giuridiche l'atto costitutivo puo' attribuire piu' voti, ma non oltre cinque, in relazione all'ammontare della quota oppure al numero dei loro membri. Nelle cooperative in cui i soci realizzano lo scopo mutualistico attraverso l'integrazione delle rispettive imprese o di talune fasi di esse, l'atto costitutivo puo' prevedere che il diritto di voto sia attribuito in ragione della partecipazione allo scambio mutualistico. Lo statuto stabilisce un limite per il voto plurimo per tali categorie di soci, in modo che nessuno di essi possa esprimere piu' del decimo dei voti in ciascuna assemblea generale. In ogni caso, ad essi non puo' essere attribuito piu' di un terzo dei voti spettanti all'insieme dei soci presenti o rappresentati in ciascuna assemblea generale. Le maggioranze richieste per la costituzione delle assemblee e per la validita' delle deliberazioni sono determinate dall'atto costitutivo e sono calcolate secondo il numero dei voti spettanti ai soci. L'atto costitutivo puo' prevedere che il voto venga espresso per corrispondenza, ovvero mediante altri mezzi di telecomunicazione. In tal caso l'avviso di convocazione deve contenere per esteso la deliberazione proposta. Se sono poste in votazione proposte diverse da quelle indicate nell'avviso di convocazione, i voti espressi per corrispondenza non si computano ai fini della regolare costituzione dell'assemblea.",
+    "con_marcatori": "Art. 2538. (( (Assemblea).)) ((Nelle assemblee hanno diritto di voto coloro che risultano iscritti da almeno novanta giorni nel libro dei soci. Ciascun socio cooperatore ha un voto, qualunque sia il valore della quota o il numero delle azioni possedute. L'atto costitutivo determina i limiti al diritto di voto degli strumenti finanziari offerti in sottoscrizione ai soci cooperatori. Ai soci cooperatori persone giuridiche l'atto costitutivo puo' attribuire piu' voti, ma non oltre cinque, in relazione all'ammontare della quota oppure al numero dei loro membri. Nelle cooperative in cui i soci realizzano lo scopo mutualistico attraverso l'integrazione delle rispettive imprese o di talune fasi di esse, l'atto costitutivo puo' prevedere che il diritto di voto sia attribuito in ragione della partecipazione allo scambio mutualistico. Lo statuto stabilisce un limite per il voto plurimo per tali categorie di soci, in modo che nessuno di essi possa esprimere piu' del decimo dei voti in ciascuna assemblea generale. In ogni caso, ad essi non puo' essere attribuito piu' di un terzo dei voti spettanti all'insieme dei soci presenti o rappresentati in ciascuna assemblea generale. Le maggioranze richieste per la costituzione delle assemblee e per la validita' delle deliberazioni sono determinate dall'atto costitutivo e sono calcolate secondo il numero dei voti spettanti ai soci. L'atto costitutivo puo' prevedere che il voto venga espresso per corrispondenza, ovvero mediante altri mezzi di telecomunicazione. In tal caso l'avviso di convocazione deve contenere per esteso la deliberazione proposta. Se sono poste in votazione proposte diverse da quelle indicate nell'avviso di convocazione, i voti espressi per corrispondenza non si computano ai fini della regolare costituzione dell'assemblea. ))",
+    "caratteri": 1768
+  },
+  "note": [],
+  "impronta": "sha256:cc1fd7eed6d342ed6ae45d2fe71a9410e6f219c73a443fd6a7dab9c8e2745147"
+}

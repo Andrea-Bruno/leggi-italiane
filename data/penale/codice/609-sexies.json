@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "609-sexies",
+    "rubrica": "Ignoranza dell'eta' della persona offesa",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art609-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando i delitti previsti negli articoli 609-bis, 609-ter, 609-quater, 609-octies e 609-undecies sono commessi in danno di un minore degli anni diciotto, e quando e' commesso il delitto di cui all'articolo 609-quinquies, il colpevole non puo' invocare a propria scusa l'ignoranza dell'eta' della persona offesa, salvo che si tratti di ignoranza inevitabile.",
+    "con_marcatori": "Art. 609-sexies. (( (Ignoranza dell'eta' della persona offesa).)) ((Quando i delitti previsti negli articoli 609-bis, 609-ter, 609-quater, 609-octies e 609-undecies sono commessi in danno di un minore degli anni diciotto, e quando e' commesso il delitto di cui all'articolo 609-quinquies, il colpevole non puo' invocare a propria scusa l'ignoranza dell'eta' della persona offesa, salvo che si tratti di ignoranza inevitabile)).",
+    "caratteri": 357
+  },
+  "note": [],
+  "impronta": "sha256:a682c134072b03ab132524f137d9033751abcf6397e595d1ae76151be7823e0e"
+}

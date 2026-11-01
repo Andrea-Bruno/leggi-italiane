@@ -1,0 +1,61 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "467",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art467"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 15,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nozione. La rappresentazione fa subentrare i discendenti ... nel luogo e nel grado del loro ascendente, in tutti i casi in cui questi non puo' o non vuole accettare l'eredita' o il legato. Si ha rappresentazione nella successione testamentaria quando il testatore non ha provveduto per il caso in cui l'istituto non possa o non voglia accettare la eredita' o il legato, e sempre che non si tratti di legato di usufrutto o di altro diritto di natura personale.",
+    "con_marcatori": "Art. 467. Nozione. La rappresentazione fa subentrare i discendenti ((...)) nel luogo e nel grado del loro ascendente, in tutti i casi in cui questi non puo' o non vuole accettare l'eredita' o il legato. Si ha rappresentazione nella successione testamentaria quando il testatore non ha provveduto per il caso in cui l'istituto non possa o non voglia accettare la eredita' o il legato, e sempre che non si tratti di legato di usufrutto o di altro diritto di natura personale.",
+    "caratteri": 459
+  },
+  "note": [
+    {
+      "numero": 15,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1969-04-14",
+        "numero": "79"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2 - 14 aprile 1969, n. 79 (in G.U. 1a s.s. 23/04/1969, n. 105), ha dichiarato l'illegittimita' costituzionale del presente articolo \"limitatamente alla parte in cui esclude dalla rappresentazione il figlio naturale di chi, figlio o fratello del de cuius, non potendo o non volendo accettare, non lasci o non abbia discendenti legittimi\"."
+    }
+  ],
+  "impronta": "sha256:49054904b2f0528c735776b5075cc048fc3ac799c20718e1ae43352e3c65052d"
+}

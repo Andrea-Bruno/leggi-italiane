@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "517-sexies",
+    "rubrica": "Frode alimentare",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art517-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Fuori dei casi di cui all'articolo 517-septies, chiunque, al fine di indurre in errore il compratore e di trarne profitto, nell'esercizio di un'attivita' agricola, commerciale, industriale o di intermediazione, importa, esporta, spedisce in transito, introduce in custodia temporanea o in deposito doganale, trasporta, pone in vendita, distribuisce o mette altrimenti in circolazione, anche con tecniche di comunicazione a distanza o con strumenti digitali nelle reti telematiche, alimenti, acque e bevande che sa essere non genuini o, per origine, provenienza, qualita' o quantita', sostanzialmente difformi da quelli indicati, dichiarati o pattuiti e' punito, se il fatto non e' previsto come piu' grave reato, con la reclusione da due mesi a un anno e con la multa da euro 1.000 a euro 4.000.. La punibilita' e' esclusa quando la condotta, per le quantita' o il valore economico esiguo del prodotto o l'assenza di effettivo pregiudizio per il consumatore o per il mercato, e' di lieve entita'..",
+    "con_marcatori": "Art. 517-sexies. (( (Frode alimentare). )). ((Fuori dei casi di cui all'articolo 517-septies, chiunque, al fine di indurre in errore il compratore e di trarne profitto, nell'esercizio di un'attivita' agricola, commerciale, industriale o di intermediazione, importa, esporta, spedisce in transito, introduce in custodia temporanea o in deposito doganale, trasporta, pone in vendita, distribuisce o mette altrimenti in circolazione, anche con tecniche di comunicazione a distanza o con strumenti digitali nelle reti telematiche, alimenti, acque e bevande che sa essere non genuini o, per origine, provenienza, qualita' o quantita', sostanzialmente difformi da quelli indicati, dichiarati o pattuiti e' punito, se il fatto non e' previsto come piu' grave reato, con la reclusione da due mesi a un anno e con la multa da euro 1.000 a euro 4.000.)). ((La punibilita' e' esclusa quando la condotta, per le quantita' o il valore economico esiguo del prodotto o l'assenza di effettivo pregiudizio per il consumatore o per il mercato, e' di lieve entita'.)).",
+    "caratteri": 999
+  },
+  "note": [],
+  "impronta": "sha256:757e2cb9744e3319f9511673fbb2ec231d2bc0b553140bae1c6c2d8fb9e4789e"
+}

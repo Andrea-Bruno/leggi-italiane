@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "881",
+    "rubrica": "Presunzione di proprieta' esclusiva del muro divisorio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art881"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si presume che il muro divisorio tra i campi, cortili, giardini od orti appartenga al proprietario del fondo verso il quale esiste il piovente e in ragione del piovente medesimo. Se esistono sporti, come cornicioni, mensole e simili, o vani che si addentrano oltre la meta' della grossezza del muro, e gli uni e gli altri risultano costruiti col muro stesso, si presume che questo spetti al proprietario dalla cui parte gli sporti o i vani si presentano, anche se vi sia soltanto qualcuno di tali segni. Se uno o piu' di essi sono da una parte, e uno o piu' dalla parte opposta, il muro e' reputato comune: in ogni caso la positura del piovente prevale su tutti gli altri indizi.",
+    "con_marcatori": "Art. 881. (Presunzione di proprieta' esclusiva del muro divisorio). Si presume che il muro divisorio tra i campi, cortili, giardini od orti appartenga al proprietario del fondo verso il quale esiste il piovente e in ragione del piovente medesimo. Se esistono sporti, come cornicioni, mensole e simili, o vani che si addentrano oltre la meta' della grossezza del muro, e gli uni e gli altri risultano costruiti col muro stesso, si presume che questo spetti al proprietario dalla cui parte gli sporti o i vani si presentano, anche se vi sia soltanto qualcuno di tali segni. Se uno o piu' di essi sono da una parte, e uno o piu' dalla parte opposta, il muro e' reputato comune: in ogni caso la positura del piovente prevale su tutti gli altri indizi.",
+    "caratteri": 679
+  },
+  "note": [],
+  "impronta": "sha256:2905b694f350d89df9120c34e9debc74b95fc2d0bd2f1ff60d534bbbe4648af6"
+}

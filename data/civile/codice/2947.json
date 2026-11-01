@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2947",
+    "rubrica": "Prescrizione del diritto al risarcimento del danno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2947"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il diritto al risarcimento del danno derivante da fatto illecito si prescrive in cinque anni dal giorno in cui il fatto si e' verificato. Per il risarcimento del danno prodotto dalla circolazione dei veicoli di ogni specie il diritto si prescrive in due anni. In ogni caso, se il fatto e' considerato dalla legge come reato e per il reato e' stabilita una prescrizione piu' lunga, questa si applica anche all'azione civile. Tuttavia, se il reato e' estinto per causa diversa dalla prescrizione o e' intervenuta sentenza irrevocabile nel giudizio penale, il diritto al risarcimento del danno si prescrive nei termini indicati dai primi due commi, con decorrenza dalla data di estinzione del reato o dalla data in cui la sentenza e' divenuta irrevocabile.",
+    "con_marcatori": "Art. 2947. (Prescrizione del diritto al risarcimento del danno). Il diritto al risarcimento del danno derivante da fatto illecito si prescrive in cinque anni dal giorno in cui il fatto si e' verificato. Per il risarcimento del danno prodotto dalla circolazione dei veicoli di ogni specie il diritto si prescrive in due anni. In ogni caso, se il fatto e' considerato dalla legge come reato e per il reato e' stabilita una prescrizione piu' lunga, questa si applica anche all'azione civile. Tuttavia, se il reato e' estinto per causa diversa dalla prescrizione o e' intervenuta sentenza irrevocabile nel giudizio penale, il diritto al risarcimento del danno si prescrive nei termini indicati dai primi due commi, con decorrenza dalla data di estinzione del reato o dalla data in cui la sentenza e' divenuta irrevocabile.",
+    "caratteri": 753
+  },
+  "note": [],
+  "impronta": "sha256:6791881b3c4ba15b1326b50a6e961547681e1a3c9b86434e7c14d7549515e620"
+}

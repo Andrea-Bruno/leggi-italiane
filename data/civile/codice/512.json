@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "512",
+    "rubrica": "Oggetto della separazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art512"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La separazione dei beni del defunto da quelli dell'erede assicura il soddisfacimento, con i beni del defunto, dei creditori di lui e dei legatari che l'hanno esercitata, a preferenza dei creditori dell'erede. Il diritto alla separazione spetta anche ai creditori o legatari che hanno altre garanzie sui beni del defunto. La separazione non impedisce ai creditori e ai legatari che l'hanno esercitata, di soddisfarsi anche sui beni propri dell'erede.",
+    "con_marcatori": "Art. 512. (Oggetto della separazione). La separazione dei beni del defunto da quelli dell'erede assicura il soddisfacimento, con i beni del defunto, dei creditori di lui e dei legatari che l'hanno esercitata, a preferenza dei creditori dell'erede. Il diritto alla separazione spetta anche ai creditori o legatari che hanno altre garanzie sui beni del defunto. La separazione non impedisce ai creditori e ai legatari che l'hanno esercitata, di soddisfarsi anche sui beni propri dell'erede.",
+    "caratteri": 449
+  },
+  "note": [],
+  "impronta": "sha256:70f5e6ee950cec62b2029a41c18a38cf3d34505eeb6c08e23872242350d877d9"
+}

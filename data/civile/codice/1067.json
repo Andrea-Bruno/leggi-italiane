@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1067",
+    "rubrica": "Divieto di aggravare o di diminuire l'esercizio della servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1067"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario del fondo dominante non puo' fare innovazioni che rendano piu' gravosa la condizione del fondo servente. Il proprietario del fondo servente non puo' compiere alcuna cosa che tenda a diminuire l'esercizio della servitu' o a renderlo piu' incomodo.",
+    "con_marcatori": "Art. 1067. (Divieto di aggravare o di diminuire l'esercizio della servitu'). Il proprietario del fondo dominante non puo' fare innovazioni che rendano piu' gravosa la condizione del fondo servente. Il proprietario del fondo servente non puo' compiere alcuna cosa che tenda a diminuire l'esercizio della servitu' o a renderlo piu' incomodo.",
+    "caratteri": 262
+  },
+  "note": [],
+  "impronta": "sha256:21a23ca3e853ed00a719eebf3c4ef851a4f7bff97d7f17394f62caee8b471359"
+}

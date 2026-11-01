@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1474",
+    "rubrica": "Mancanza di determinazione espressa del prezzo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1474"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contratto ha per oggetto cose che il venditore vende abitualmente e le parti non hanno determinato il prezzo, ne' hanno convenuto il modo di determinarlo, ne' esso e' stabilito per atto della pubblica autorita' o da norme corporative, si presume che le parti abbiano voluto riferirsi al prezzo normalmente praticato dal venditore. Se si tratta di cose aventi un prezzo di borsa o di mercato, il prezzo si desume dai listini o dalle mercuriali del luogo in cui deve essere eseguita la consegna, o da quelli della piazza piu' vicina. Qualora le parti abbiano inteso riferirsi al giusto prezzo, si applicano le disposizioni dei commi precedenti; e, quando non ricorrono i casi da essi previsti, il prezzo, in mancanza di accordo, e' determinato da un terzo, nominato a norma del secondo comma dell'articolo precedente.",
+    "con_marcatori": "Art. 1474. (Mancanza di determinazione espressa del prezzo). Se il contratto ha per oggetto cose che il venditore vende abitualmente e le parti non hanno determinato il prezzo, ne' hanno convenuto il modo di determinarlo, ne' esso e' stabilito per atto della pubblica autorita' o da norme corporative, si presume che le parti abbiano voluto riferirsi al prezzo normalmente praticato dal venditore. Se si tratta di cose aventi un prezzo di borsa o di mercato, il prezzo si desume dai listini o dalle mercuriali del luogo in cui deve essere eseguita la consegna, o da quelli della piazza piu' vicina. Qualora le parti abbiano inteso riferirsi al giusto prezzo, si applicano le disposizioni dei commi precedenti; e, quando non ricorrono i casi da essi previsti, il prezzo, in mancanza di accordo, e' determinato da un terzo, nominato a norma del secondo comma dell'articolo precedente.",
+    "caratteri": 821
+  },
+  "note": [],
+  "impronta": "sha256:5a1b23c3bf6971977d557b56d9aaf2aba3bfb8de411c1baeb122a2f15616e81e"
+}

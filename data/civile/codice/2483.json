@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2483",
+    "rubrica": "Emissione di titoli di debito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2483"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'atto costitutivo lo prevede, la societa' puo' emettere titoli di debito. In tal caso l'atto costitutivo attribuisce la relativa competenza ai soci o agli amministratori determinando gli eventuali limiti, le modalita' e le maggioranze necessarie per la decisione. I titoli emessi ai sensi del precedente comma possono essere sottoscritti soltanto da investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali. In caso di successiva circolazione dei titoli di debito, chi li trasferisce risponde della solvenza della societa' nei confronti degli acquirenti che non siano investitori professionali ovvero soci della societa' medesima. Il secondo comma non si applica ai titoli destinati ad essere acquistati esclusivamente da investitori professionali ai sensi delle leggi speciali qualora tale previsione risulti tra le condizioni dell'emissione di cui al quarto comma, senza facolta' di modifica. La decisione di emissione dei titoli prevede le condizioni del prestito e le modalita' del rimborso ed e' iscritta a cura degli amministratori presso il registro delle imprese. Puo' altresi' prevedere che, previo consenso della maggioranza dei possessori dei titoli, la societa' possa modificare tali condizioni e modalita'. Restano salve le disposizioni di leggi speciali relative a particolari categorie di societa' e alle riserve di attivita'.",
+    "con_marcatori": "Art. 2483. (Emissione di titoli di debito). Se l'atto costitutivo lo prevede, la societa' puo' emettere titoli di debito. In tal caso l'atto costitutivo attribuisce la relativa competenza ai soci o agli amministratori determinando gli eventuali limiti, le modalita' e le maggioranze necessarie per la decisione. I titoli emessi ai sensi del precedente comma possono essere sottoscritti soltanto da investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali. In caso di successiva circolazione dei titoli di debito, chi li trasferisce risponde della solvenza della societa' nei confronti degli acquirenti che non siano investitori professionali ovvero soci della societa' medesima. ((Il secondo comma non si applica ai titoli destinati ad essere acquistati esclusivamente da investitori professionali ai sensi delle leggi speciali qualora tale previsione risulti tra le condizioni dell'emissione di cui al quarto comma, senza facolta' di modifica)). La decisione di emissione dei titoli prevede le condizioni del prestito e le modalita' del rimborso ed e' iscritta a cura degli amministratori presso il registro delle imprese. Puo' altresi' prevedere che, previo consenso della maggioranza dei possessori dei titoli, la societa' possa modificare tali condizioni e modalita'. Restano salve le disposizioni di leggi speciali relative a particolari categorie di societa' e alle riserve di attivita'.",
+    "caratteri": 1376
+  },
+  "note": [],
+  "impronta": "sha256:6c39dc440e5806a534a83bcecfc95dc17969155e3e0f5696c1fe5217357a39fb"
+}

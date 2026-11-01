@@ -1,0 +1,47 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "292-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art292-bis"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 24 FEBBRAIO 2006, N. 85",
+        "testo": "ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 2006, N. 85"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 2006, N. 85",
+    "con_marcatori": "Art. 292-bis. ((ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 2006, N. 85))",
+    "caratteri": 50
+  },
+  "note": [],
+  "impronta": "sha256:814f1f649435542600cad0eaa71bb35cb0c44f646c2674649664c9e1cd3c1c95"
+}

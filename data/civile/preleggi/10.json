@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "10",
+    "rubrica": "Inizio dell'obbligatorieta' delle leggi e dei regolamenti",
+    "sezione": "Disposizioni sulla legge in generale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art10"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le leggi e i regolamenti divengono obbligatori nel decimoquinto giorno successivo a quello della loro pubblicazione, salvo che sia altrimenti disposto. Le norme corporative divengono obbligatorie nel giorno successivo a quello della pubblicazione, salvo che in esse sia altrimenti disposto.",
+    "con_marcatori": "Art. 10. (Inizio dell'obbligatorieta' delle leggi e dei regolamenti). Le leggi e i regolamenti divengono obbligatori nel decimoquinto giorno successivo a quello della loro pubblicazione, salvo che sia altrimenti disposto. Le norme corporative divengono obbligatorie nel giorno successivo a quello della pubblicazione, salvo che in esse sia altrimenti disposto.",
+    "caratteri": 290
+  },
+  "note": [],
+  "impronta": "sha256:dbe32b0cf83077b222d109e7652075965c751e16ffe81e4404e2f77d59f3a3ce"
+}

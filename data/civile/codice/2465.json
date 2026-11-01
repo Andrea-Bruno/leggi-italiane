@@ -1,0 +1,97 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2465",
+    "rubrica": "Stima dei conferimenti di beni in natura e di crediti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2465"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi conferisce beni in natura o crediti deve presentare la relazione giurata di un esperto o di una societa' di revisione iscritti nel registro dei revisori contabili o di una societa' di revisione iscritta nell'apposito registro albo. La relazione, che deve contenere la descrizione dei beni o crediti conferiti, l'indicazione dei criteri di valutazione adottati e l'attestazione che il loro valore e' almeno pari a quello ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale soprapprezzo, deve essere allegata all'atto costitutivo. La disposizione del precedente comma si applica in caso di acquisto da parte della societa', per un corrispettivo pari o superiore al decimo del capitale sociale, di beni o di crediti dei soci fondatori, dei soci e degli amministratori, nei due anni dalla iscrizione della societa' nel registro delle imprese. In tal caso l'acquisto, salvo diversa disposizione dell'atto costitutivo, deve essere autorizzato con decisione dei soci a norma dell'articolo 2479. Nei casi previsti dai precedenti commi si applicano il secondo comma dell'articolo 2343 ed il quarto e quinto comma dell'articolo 2343-bis.",
+    "con_marcatori": "Art. 2465. (Stima dei conferimenti di beni in natura e di crediti). Chi conferisce beni in natura o crediti deve presentare la relazione giurata di un esperto o di una societa' di revisione iscritti nel registro dei revisori contabili o di una societa' di revisione iscritta nell'apposito registro albo. La relazione, che deve contenere la descrizione dei beni o crediti conferiti, l'indicazione dei criteri di valutazione adottati e l'attestazione che il loro valore e' almeno pari a quello ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale soprapprezzo, deve essere allegata all'atto costitutivo.((192)) La disposizione del precedente comma si applica in caso di acquisto da parte della societa', per un corrispettivo pari o superiore al decimo del capitale sociale, di beni o di crediti dei soci fondatori, dei soci e degli amministratori, nei due anni dalla iscrizione della societa' nel registro delle imprese. In tal caso l'acquisto, salvo diversa disposizione dell'atto costitutivo, deve essere autorizzato con decisione dei soci a norma dell'articolo 2479.(147) Nei casi previsti dai precedenti commi si applicano il secondo comma dell'articolo 2343 ed il quarto e quinto comma dell'articolo 2343-bis.",
+    "caratteri": 1165
+  },
+  "note": [
+    {
+      "numero": 147,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 febbraio 2004, n. 37",
+          "urn": "urn:nir:stato:decretoLegislativo:2004-02-06;37",
+          "data": "2004-02-06",
+          "numero": "37",
+          "data_gazzetta": "2004-02-14"
+        },
+        {
+          "denominazione": "art. 3 comma 1 del D.Lgs. 17 gennaio 2003, n. 6",
+          "urn": "urn:nir:stato:decretoLegislativo:2003-01-17;6",
+          "data": "2003-01-17",
+          "numero": "6",
+          "data_gazzetta": "2003-01-22"
+        },
+        {
+          "denominazione": "articolo 2465 secondo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 febbraio 2004, n. 37, nel modificare l'art. 3 comma 1 del D.Lgs. 17 gennaio 2003, n. 6, ha conseguentemente disposto (con l'art. 5, comma 1, lettera ll)) che \"all'articolo 2465 secondo comma, del codice civile le parole: «proporzione della» sono sostituite dalle parole: proporzione alla»\"."
+    },
+    {
+      "numero": 192,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 27 gennaio 2010, n. 39",
+          "urn": "urn:nir:stato:decretoLegislativo:2010-01-27;39",
+          "data": "2010-01-27",
+          "numero": "39",
+          "data_gazzetta": "2010-03-23"
+        },
+        {
+          "denominazione": "primo comma dell'articolo 2465 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 27 gennaio 2010, n. 39, ha disposto (con l'art. 37, comma 25) che \" Al primo comma dell'articolo 2465 del codice civile le parole: \"di un esperto o di una societa' di revisione iscritti nel registro dei revisori contabili o di una societa' di revisione iscritta nell'albo speciale\" sono sostituite dalle seguenti: \"di un revisore legale o di una societa' di revisione legali iscritti nell'apposito registro\".\""
+    }
+  ],
+  "impronta": "sha256:85ed7fc383af6b5cd716601c7207a1f18126bbe23b3fa3a227d52b114b3d19be"
+}

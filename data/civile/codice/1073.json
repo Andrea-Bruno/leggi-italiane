@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1073",
+    "rubrica": "Estinzione per prescrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1073"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La servitu' si estingue per prescrizione quando non se ne usa per venti anni. Il termine decorre dal giorno in cui si e' cessato di esercitarla; ma, se si tratta di servitu' negativa o di servitu' per il cui esercizio non e' necessario il fatto dell'uomo, il termine decorre dal giorno in cui si e' verificato un fatto che ne ha impedito l'esercizio. Nelle servitu' che si esercitano a intervalli, il termine decorre dal giorno in cui la servitu' si sarebbe potuta esercitare e non ne fu ripreso l'esercizio. Agli effetti dell'estinzione si computa anche il tempo per il quale la servitu' non fu esercitata dai precedenti titolari. Se il fondo dominante appartiene a piu' persone in comune, l'uso della servitu' fatto da una di esse impedisce l'estinzione riguardo a tutte. La sospensione o l'interruzione del non uso a vantaggio di uno dei comproprietari giova anche agli altri.",
+    "con_marcatori": "Art. 1073. (Estinzione per prescrizione). La servitu' si estingue per prescrizione quando non se ne usa per venti anni. Il termine decorre dal giorno in cui si e' cessato di esercitarla; ma, se si tratta di servitu' negativa o di servitu' per il cui esercizio non e' necessario il fatto dell'uomo, il termine decorre dal giorno in cui si e' verificato un fatto che ne ha impedito l'esercizio. Nelle servitu' che si esercitano a intervalli, il termine decorre dal giorno in cui la servitu' si sarebbe potuta esercitare e non ne fu ripreso l'esercizio. Agli effetti dell'estinzione si computa anche il tempo per il quale la servitu' non fu esercitata dai precedenti titolari. Se il fondo dominante appartiene a piu' persone in comune, l'uso della servitu' fatto da una di esse impedisce l'estinzione riguardo a tutte. La sospensione o l'interruzione del non uso a vantaggio di uno dei comproprietari giova anche agli altri.",
+    "caratteri": 879
+  },
+  "note": [],
+  "impronta": "sha256:b347ad4b2e4848e0ed10bd9c3cd8745dac20d9ff1da900d017f596770db8f975"
+}

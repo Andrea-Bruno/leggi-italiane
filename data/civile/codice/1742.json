@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1742",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1742"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Col contratto di agenzia una parte assume stabilmente l'incarico di promuovere, per conto dell'altra, verso retribuzione, la conclusione di contratti in una zona determinata. Il contratto deve essere provato per iscritto. Ciascuna parte ha diritto di ottenere dall'altra un documento dalla stessa sottoscritto che riproduca il contenuto del contratto e delle clausole aggiuntive. Tale diritto e' irrinunciabile.",
+    "con_marcatori": "Art. 1742. (Nozione). Col contratto di agenzia una parte assume stabilmente l'incarico di promuovere, per conto dell'altra, verso retribuzione, la conclusione di contratti in una zona determinata. ((Il contratto deve essere provato per iscritto. Ciascuna parte ha diritto di ottenere dall'altra un documento dalla stessa sottoscritto che riproduca il contenuto del contratto e delle clausole aggiuntive. Tale diritto e' irrinunciabile.))",
+    "caratteri": 411
+  },
+  "note": [
+    {
+      "numero": 81,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 settembre 1991, n. 303",
+          "urn": "urn:nir:stato:decretoLegislativo:1991-09-10;303",
+          "data": "1991-09-10",
+          "numero": "303",
+          "data_gazzetta": "1991-09-20"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 settembre 1991, n. 303, ha disposto (con l'art. 6, comma 1) che \"Le disposizioni del presente decreto si applicano ai contratti gia' in corso alla data del 1° gennaio 1990, a decorrere dal 1° gennaio 1994\"."
+    }
+  ],
+  "impronta": "sha256:481beb58a2cd5b10a42b70f09be42dede1053a75f90c46d2a61404f580d5cbb0"
+}

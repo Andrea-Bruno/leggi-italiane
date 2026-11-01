@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-duodecies",
+    "rubrica": "Ripristino dello stato dei luoghi",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452-duodecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando pronuncia sentenza di condanna ovvero di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per taluno dei delitti previsti dal presente titolo, il giudice ordina il recupero e, ove tecnicamente possibile, il ripristino dello stato dei luoghi, ponendone l'esecuzione a carico del condannato e dei soggetti di cui all'articolo 197 del presente codice. Al ripristino dello stato dei luoghi di cui al comma precedente si applicano le disposizioni di cui al titolo II della parte sesta del decreto legislativo 3 aprile 2006, n. 152, in materia di ripristino ambientale.",
+    "con_marcatori": "Art. 452-duodecies. (( (Ripristino dello stato dei luoghi).)) ((Quando pronuncia sentenza di condanna ovvero di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per taluno dei delitti previsti dal presente titolo, il giudice ordina il recupero e, ove tecnicamente possibile, il ripristino dello stato dei luoghi, ponendone l'esecuzione a carico del condannato e dei soggetti di cui all'articolo 197 del presente codice. Al ripristino dello stato dei luoghi di cui al comma precedente si applicano le disposizioni di cui al titolo II della parte sesta del decreto legislativo 3 aprile 2006, n. 152, in materia di ripristino ambientale.))",
+    "caratteri": 627
+  },
+  "note": [],
+  "impronta": "sha256:91469ece8b9ef67ced14be46ac1a33f738e7fab49af145868b8ad0176cf255c4"
+}

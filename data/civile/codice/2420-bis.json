@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2420-bis",
+    "rubrica": "Obbligazioni convertibili in azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2420-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea straordinaria puo' deliberare l'emissione di obbligazioni convertibili in azioni, determinando il rapporto di cambio e il periodo e le modalita' della conversione. La deliberazione non puo' essere adottata se il capitale sociale non sia stato interamente versato. Contestualmente la societa' deve deliberare l'aumento del capitale sociale per un ammontare corrispondente alle azioni da attribuire in conversione. Si applicano, in quanto compatibili, le disposizioni del secondo, terzo, quarto e quinto comma dell'articolo 2346. Nel primo mese di ciascun semestre gli amministratori provvedono all'emissione delle azioni spettanti agli obbligazionisti che hanno chiesto la conversione nel semestre precedente. Entro il mese successivo gli amministratori devono depositare per l'iscrizione nel registro delle imprese un'attestazione dell'aumento del capitale sociale in misura corrispondente al valore nominale delle azioni emesse. Si applica la disposizione del secondo comma dell'articolo 2444. Fino a quando non siano scaduti i termini fissati per la conversione, la societa' non puo' deliberare ne' la riduzione volontaria del capitale sociale, ne' la modificazione delle disposizioni dello statuto concernenti la ripartizione degli utili, salvo che ai possessori di obbligazioni convertibili sia stata data la facolta', mediante avviso depositato presso l'ufficio del registro delle imprese almeno novanta giorni prima della convocazione dell'assemblea di esercitare il diritto di conversione nel termine di trenta giorni dalla pubblicazione. Nei casi di aumento del capitale mediante imputazione di riserve e di riduzione del capitale per perdite, il rapporto di cambio e' modificato in proporzione alla misura dell'aumento o della riduzione. Le obbligazioni convertibili in azioni devono indicare in aggiunta a quanto stabilito nell'articolo 2414, il rapporto di cambio e le modalita' della conversione.",
+    "con_marcatori": "Art. 2420-bis. (( (Obbligazioni convertibili in azioni).)) ((L'assemblea straordinaria puo' deliberare l'emissione di obbligazioni convertibili in azioni, determinando il rapporto di cambio e il periodo e le modalita' della conversione. La deliberazione non puo' essere adottata se il capitale sociale non sia stato interamente versato. Contestualmente la societa' deve deliberare l'aumento del capitale sociale per un ammontare corrispondente alle azioni da attribuire in conversione. Si applicano, in quanto compatibili, le disposizioni del secondo, terzo, quarto e quinto comma dell'articolo 2346. Nel primo mese di ciascun semestre gli amministratori provvedono all'emissione delle azioni spettanti agli obbligazionisti che hanno chiesto la conversione nel semestre precedente. Entro il mese successivo gli amministratori devono depositare per l'iscrizione nel registro delle imprese un'attestazione dell'aumento del capitale sociale in misura corrispondente al valore nominale delle azioni emesse. Si applica la disposizione del secondo comma dell'articolo 2444. Fino a quando non siano scaduti i termini fissati per la conversione, la societa' non puo' deliberare ne' la riduzione volontaria del capitale sociale, ne' la modificazione delle disposizioni dello statuto concernenti la ripartizione degli utili, salvo che ai possessori di obbligazioni convertibili sia stata data la facolta', mediante avviso depositato presso l'ufficio del registro delle imprese almeno novanta giorni prima della convocazione dell'assemblea di esercitare il diritto di conversione nel termine di trenta giorni dalla pubblicazione. Nei casi di aumento del capitale mediante imputazione di riserve e di riduzione del capitale per perdite, il rapporto di cambio e' modificato in proporzione alla misura dell'aumento o della riduzione. Le obbligazioni convertibili in azioni devono indicare in aggiunta a quanto stabilito nell'articolo 2414, il rapporto di cambio e le modalita' della conversione. ))",
+    "caratteri": 1920
+  },
+  "note": [
+    {
+      "numero": 35,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 8 aprile 1974, n. 95",
+          "urn": "urn:nir:stato:decretoLegge:1974-04-08;95",
+          "data": "1974-04-08",
+          "numero": "95",
+          "data_gazzetta": "1974-04-09"
+        },
+        {
+          "denominazione": "L. 7 giugno 1974, n. 216",
+          "urn": "urn:nir:stato:legge:1974-06-07;216",
+          "data": "1974-06-07",
+          "numero": "216",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2420-bis del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 8 aprile 1974, n. 95, convertito con modificazioni dalla L. 7 giugno 1974, n. 216, ha disposto (con l'art. 9, comma 2) che \" Gli amministratori che emettono obbligazioni convertibili senza le indicazioni prescritte nell'ultimo comma dell'articolo 2420-bis del codice civile, sono puniti con l'ammenda da lire 1 milione a lire 5 milioni.\""
+    }
+  ],
+  "impronta": "sha256:51eb47198e245da33a28c3bc258bac585a59d5ed3cac350891d1f5fce191f4cb"
+}

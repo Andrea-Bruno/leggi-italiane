@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "418",
+    "rubrica": "Assistenza agli associati",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art418"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi di concorso nel reato o di favoreggiamento, da' rifugio o fornisce vitto, ospitalita', mezzi di trasporto, strumenti di comunicazione a taluna delle persone che partecipano all'associazione e' punito con la reclusione da due a quattro anni. La pena e' aumentata se l'assistenza e' prestata continuatamente. Non e' punibile chi commette il fatto in favore di un prossimo congiunto.",
+    "con_marcatori": "Art. 418. (Assistenza agli associati) Chiunque, fuori dei casi di concorso nel reato o di favoreggiamento, da' rifugio o fornisce vitto, ospitalita', mezzi di trasporto, strumenti di comunicazione a taluna delle persone che partecipano all'associazione e' punito con la reclusione da due a quattro anni. La pena e' aumentata se l'assistenza e' prestata continuatamente. Non e' punibile chi commette il fatto in favore di un prossimo congiunto. ((281))",
+    "caratteri": 405
+  },
+  "note": [
+    {
+      "numero": 281,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        },
+        {
+          "denominazione": "L. 17 ottobre 2017, n. 161",
+          "urn": "urn:nir:stato:legge:2017-10-17;161",
+          "data": "2017-10-17",
+          "numero": "161",
+          "data_gazzetta": "2017-11-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'art. 71, commi 1 e 3) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:929ab6780a368eb90f3c3d719f8029393b40c85ceb2ec926da82b8fd5487ad06"
+}

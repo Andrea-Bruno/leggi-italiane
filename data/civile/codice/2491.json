@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2491",
+    "rubrica": "Poteri e doveri particolari dei liquidatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2491"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se i fondi disponibili risultano insufficienti per il pagamento dei debiti sociali, i liquidatori possono chiedere proporzionalmente ai soci i versamenti ancora dovuti. I liquidatori non possono ripartire tra i soci acconti sul risultato della liquidazione, salvo che dai bilanci risulti che la ripartizione non incide sulla disponibilita' di somme idonee alla integrale e tempestiva soddisfazione dei creditori sociali; i liquidatori possono condizionare la ripartizione alla prestazione da parte del socio di idonee garanzie. I liquidatori sono personalmente e solidalmente responsabili per i danni cagionati ai creditori sociali con la violazione delle disposizioni del comma precedente.",
+    "con_marcatori": "Art. 2491. (( (Poteri e doveri particolari dei liquidatori). )) ((Se i fondi disponibili risultano insufficienti per il pagamento dei debiti sociali, i liquidatori possono chiedere proporzionalmente ai soci i versamenti ancora dovuti. I liquidatori non possono ripartire tra i soci acconti sul risultato della liquidazione, salvo che dai bilanci risulti che la ripartizione non incide sulla disponibilita' di somme idonee alla integrale e tempestiva soddisfazione dei creditori sociali; i liquidatori possono condizionare la ripartizione alla prestazione da parte del socio di idonee garanzie. I liquidatori sono personalmente e solidalmente responsabili per i danni cagionati ai creditori sociali con la violazione delle disposizioni del comma precedente.))",
+    "caratteri": 690
+  },
+  "note": [],
+  "impronta": "sha256:d32262e4415df79c6ede15f325a3cc043e3b1f1e5d436e2db699f445d80de2a0"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1630",
+    "rubrica": "Affitto senza determinazione di tempo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1630"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'affitto a tempo indeterminato di un fondo soggetto a rotazione di colture si reputa stipulato per il tempo necessario affinche' l'affittuario possa svolgere e portare a compimento il normale ciclo di avvicendamento delle colture praticate nel fondo. Se il fondo non e' soggetto ad avvicendamento di colture, l'affitto si reputa fatto per il tempo necessario alla raccolta dei frutti. L'affitto non cessa se prima della scadenza una delle parti non ha dato disdetta con preavviso di sei mesi. Sono salve le diverse disposizioni delle norme corporative.",
+    "con_marcatori": "Art. 1630. (Affitto senza determinazione di tempo). L'affitto a tempo indeterminato di un fondo soggetto a rotazione di colture si reputa stipulato per il tempo necessario affinche' l'affittuario possa svolgere e portare a compimento il normale ciclo di avvicendamento delle colture praticate nel fondo. Se il fondo non e' soggetto ad avvicendamento di colture, l'affitto si reputa fatto per il tempo necessario alla raccolta dei frutti. L'affitto non cessa se prima della scadenza una delle parti non ha dato disdetta con preavviso di sei mesi. Sono salve le diverse disposizioni delle norme corporative.",
+    "caratteri": 553
+  },
+  "note": [],
+  "impronta": "sha256:2ece097fbfc89909d23826a3697763b21d34cb39eb80effcef9593ac2d6715c2"
+}

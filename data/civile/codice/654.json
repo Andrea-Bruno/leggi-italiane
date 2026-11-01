@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "654",
+    "rubrica": "Legato di cosa non esistente nell'asse",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art654"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando il testatore ha lasciato una sua cosa particolare, o una cosa determinata soltanto nel genere da prendersi dal suo patrimonio, il legato non ha effetto se la cosa non si trova nel patrimonio del testatore al tempo della sua morte. Se la cosa si trova nel patrimonio del testatore al tempo della sua morte, ma non nella quantita' determinata, il legato ha effetto per la quantita' che vi si trova.",
+    "con_marcatori": "Art. 654. (Legato di cosa non esistente nell'asse). Quando il testatore ha lasciato una sua cosa particolare, o una cosa determinata soltanto nel genere da prendersi dal suo patrimonio, il legato non ha effetto se la cosa non si trova nel patrimonio del testatore al tempo della sua morte. Se la cosa si trova nel patrimonio del testatore al tempo della sua morte, ma non nella quantita' determinata, il legato ha effetto per la quantita' che vi si trova.",
+    "caratteri": 403
+  },
+  "note": [],
+  "impronta": "sha256:229b25d82ae0eb27d1a0f98f547c53bc2d8f18801772487838aa34d0afcf048c"
+}

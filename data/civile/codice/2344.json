@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2344",
+    "rubrica": "Mancato pagamento delle quote",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2344"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il socio non esegue i pagamenti dovuti, decorsi quindici giorni dalla pubblicazione di una diffida nella Gazzetta Ufficiale della Repubblica, gli amministratori, se non ritengono utile promuovere azione per l'esecuzione del conferimento, offrono le azioni agli altri soci, in proporzione alla loro partecipazione, per un corrispettivo non inferiore ai conferimenti ancora dovuti. In mancanza di offerte possono far vendere le azioni a rischio e per conto del socio, a mezzo di una banca o di un intermediario autorizzato alla negoziazione in mercati regolamentati. Qualora la vendita non possa aver luogo per mancanza di compratori, gli amministratori possono dichiarare decaduto il socio, trattenendo le somme riscosse, salvo il risarcimento dei maggiori danni. Le azioni non vendute, se non possono essere rimesse in circolazione entro l'esercizio in cui fu pronunziata la decadenza del socio moroso, devono essere estinte con la corrispondente riduzione del capitale. Il socio in mora nei versamenti non puo' esercitare il diritto di voto.",
+    "con_marcatori": "Art. 2344. (Mancato pagamento delle quote). Se il socio non esegue i pagamenti dovuti, decorsi quindici giorni dalla pubblicazione di una diffida nella Gazzetta Ufficiale della Repubblica, gli amministratori, se non ritengono utile promuovere azione per l'esecuzione del conferimento, offrono le azioni agli altri soci, in proporzione ((alla loro partecipazione)), per un corrispettivo non inferiore ai conferimenti ancora dovuti. In mancanza di offerte possono far vendere le azioni a rischio e per conto del socio, a mezzo di una banca o di un intermediario autorizzato alla negoziazione ((in mercati regolamentati)). Qualora la vendita non possa aver luogo per mancanza di compratori, gli amministratori possono dichiarare decaduto il socio, trattenendo le somme riscosse, salvo il risarcimento dei maggiori danni. Le azioni non vendute, se non possono essere rimesse in circolazione entro l'esercizio in cui fu pronunziata la decadenza del socio moroso, devono essere estinte con la corrispondente riduzione del capitale. Il socio in mora nei versamenti non puo' esercitare il diritto di voto.",
+    "caratteri": 1045
+  },
+  "note": [],
+  "impronta": "sha256:19eb70f7562f5d162d64e6b8f2ee8e5be364fd46304cfc8f06e6e40062e33192"
+}

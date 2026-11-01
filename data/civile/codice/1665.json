@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1665",
+    "rubrica": "Verifica e pagamento dell'opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1665"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il committente, prima di ricevere la consegna, ha diritto di verificare l'opera compiuta. La verifica deve essere fatta dal committente appena l'appaltatore lo mette in condizione di poterla eseguire. Se, nonostante l'invito fattogli dall'appaltatore, il committente tralascia di procedere alla verifica senza giusti motivi, ovvero non ne comunica il risultato entro un breve termine, l'opera si considera accettata. Se il committente riceve senza riserve la consegna dell'opera, questa si considera accettata ancorche' non si sia proceduto alla verifica. Salvo diversa pattuizione o uso contrario, l'appaltatore ha diritto al pagamento del corrispettivo quando l'opera e' accettata dal committente.",
+    "con_marcatori": "Art. 1665. (Verifica e pagamento dell'opera). Il committente, prima di ricevere la consegna, ha diritto di verificare l'opera compiuta. La verifica deve essere fatta dal committente appena l'appaltatore lo mette in condizione di poterla eseguire. Se, nonostante l'invito fattogli dall'appaltatore, il committente tralascia di procedere alla verifica senza giusti motivi, ovvero non ne comunica il risultato entro un breve termine, l'opera si considera accettata. Se il committente riceve senza riserve la consegna dell'opera, questa si considera accettata ancorche' non si sia proceduto alla verifica. Salvo diversa pattuizione o uso contrario, l'appaltatore ha diritto al pagamento del corrispettivo quando l'opera e' accettata dal committente.",
+    "caratteri": 699
+  },
+  "note": [],
+  "impronta": "sha256:43a3283be3d804d124af833561abd45c297dc21f6d2cc4810cb417c9dd45477d"
+}

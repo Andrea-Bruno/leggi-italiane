@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1780",
+    "rubrica": "Perdita non imputabile della detenzione della cosa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1780"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la detenzione della cosa e' tolta al depositario in conseguenza di un fatto a lui non imputabile, egli e' liberato dall'obbligazione di restituire la cosa, ma deve, sotto pena di risarcimento del danno, denunziare immediatamente al depositante il fatto per cui ha perduto la detenzione. Il depositante ha diritto di ricevere cio' che, in conseguenza del fatto stesso, il depositario abbia conseguito, e subentra nei diritti spettanti a quest'ultimo.",
+    "con_marcatori": "Art. 1780. (Perdita non imputabile della detenzione della cosa). Se la detenzione della cosa e' tolta al depositario in conseguenza di un fatto a lui non imputabile, egli e' liberato dall'obbligazione di restituire la cosa, ma deve, sotto pena di risarcimento del danno, denunziare immediatamente al depositante il fatto per cui ha perduto la detenzione. Il depositante ha diritto di ricevere cio' che, in conseguenza del fatto stesso, il depositario abbia conseguito, e subentra nei diritti spettanti a quest'ultimo.",
+    "caratteri": 452
+  },
+  "note": [],
+  "impronta": "sha256:7a94ceca3da8f7e650528f418a623929d2b70f17c83d675647db12a5e654f76a"
+}

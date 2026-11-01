@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2448",
+    "rubrica": "Effetti della pubblicazione nel registro delle imprese",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2448"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti per i quali il codice prescrive l'iscrizione o il deposito nel registro delle imprese sono opponibili ai terzi soltanto dopo tale pubblicazione, a meno che la societa' provi che i terzi ne erano a conoscenza. Per le operazioni compiute entro il quindicesimo giorno dalla pubblicazione di cui al comma precedente, gli atti non sono opponibili ai terzi che provino di essere stati nella impossibilita' di averne conoscenza.",
+    "con_marcatori": "Art. 2448. (( (Effetti della pubblicazione nel registro delle imprese).)) ((Gli atti per i quali il codice prescrive l'iscrizione o il deposito nel registro delle imprese sono opponibili ai terzi soltanto dopo tale pubblicazione, a meno che la societa' provi che i terzi ne erano a conoscenza. Per le operazioni compiute entro il quindicesimo giorno dalla pubblicazione di cui al comma precedente, gli atti non sono opponibili ai terzi che provino di essere stati nella impossibilita' di averne conoscenza.))",
+    "caratteri": 430
+  },
+  "note": [],
+  "impronta": "sha256:32712c9aa0beae1d185e536999f1bd4ebc18fa76f23ed128ebaf280dfebaca78"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2393",
+    "rubrica": "Azione sociale di responsabilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2393"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". L'azione di responsabilita' contro gli amministratori e' promossa in seguito a deliberazione dell'assemblea, anche se la societa' e' in liquidazione. La deliberazione concernente la responsabilita' degli amministratori puo' essere presa in occasione della discussione del bilancio, anche se non e' indicata nell'elenco delle materie da trattare, quando si tratta di fatti di competenza dell'esercizio cui si riferisce il bilancio. L'azione puo' essere esercitata entro cinque anni dalla cessazione dell'amministratore dalla carica. La deliberazione dell'azione di responsabilita' importa la revoca dall'ufficio degli amministratori contro cui e' proposta, purche' sia presa con il voto favorevole di almeno un quinto del capitale sociale. In questo caso, l'assemblea provvede alla sostituzione degli amministratori. La societa' puo' rinunziare all'esercizio dell'azione di responsabilita' e puo' transigere, purche' la rinunzia e la transazione siano approvate con espressa deliberazione dell'assemblea, e purche' non vi sia il voto contrario di una minoranza di soci che rappresenti almeno il quinto del capitale sociale o, nelle societa' che fanno ricorso al mercato del capitale di rischio, almeno un ventesimo del capitale sociale, ovvero la misura prevista nello statuto per l'esercizio dell'azione sociale di responsabilita' ai sensi dei commi primo e secondo dell'articolo 2393-bis.",
+    "con_marcatori": "Art. 2393. (( (Azione sociale di responsabilita').)). ((L'azione di responsabilita' contro gli amministratori e' promossa in seguito a deliberazione dell'assemblea, anche se la societa' e' in liquidazione. La deliberazione concernente la responsabilita' degli amministratori puo' essere presa in occasione della discussione del bilancio, anche se non e' indicata nell'elenco delle materie da trattare, quando si tratta di fatti di competenza dell'esercizio cui si riferisce il bilancio. L'azione puo' essere esercitata entro cinque anni dalla cessazione dell'amministratore dalla carica. La deliberazione dell'azione di responsabilita' importa la revoca dall'ufficio degli amministratori contro cui e' proposta, purche' sia presa con il voto favorevole di almeno un quinto del capitale sociale. In questo caso, l'assemblea provvede alla sostituzione degli amministratori. La societa' puo' rinunziare all'esercizio dell'azione di responsabilita' e puo' transigere, purche' la rinunzia e la transazione siano approvate con espressa deliberazione dell'assemblea, e purche' non vi sia il voto contrario di una minoranza di soci che rappresenti almeno il quinto del capitale sociale o, nelle societa' che fanno ricorso al mercato del capitale di rischio, almeno un ventesimo del capitale sociale, ovvero la misura prevista nello statuto per l'esercizio dell'azione sociale di responsabilita' ai sensi dei commi primo e secondo dell'articolo 2393-bis.))",
+    "caratteri": 1391
+  },
+  "note": [],
+  "impronta": "sha256:d7c01d0369eed3cb1203e25a3a9b25dbde69a548e903bee7491fb8bd7c463153"
+}

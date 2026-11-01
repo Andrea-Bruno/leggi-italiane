@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2168",
+    "rubrica": "Morte di una delle parti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2168"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La colonia parziaria non si scioglie per la morte del concedente. In caso di morte del colono, si applicano a favore degli eredi di questo le disposizioni del secondo, terzo e quarto comma dell'art. 2158.",
+    "con_marcatori": "Art. 2168. (Morte di una delle parti). La colonia parziaria non si scioglie per la morte del concedente. In caso di morte del colono, si applicano a favore degli eredi di questo le disposizioni del secondo, terzo e quarto comma dell'art. 2158.",
+    "caratteri": 204
+  },
+  "note": [],
+  "impronta": "sha256:2b3f5e7d0aa1da4dbf7f0c43b90139f236a3fd221dc82137aaea457022a44c7c"
+}

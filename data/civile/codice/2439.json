@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2439",
+    "rubrica": "Sottoscrizione e versamenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2439"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo quanto previsto nel quarto comma dell'articolo 2342, i sottoscrittori delle azioni di nuova emissione devono, all'atto della sottoscrizione, versare alla societa' almeno il venticinque per cento del valore nominale delle azioni sottoscritte. Se e' previsto un soprapprezzo, questo deve essere interamente versato all'atto della sottoscrizione. Se l'aumento di capitale non e' integralmente sottoscritto entro il termine che, nell'osservanza di quelli stabiliti dall'articolo 2441, secondo e terzo comma, deve risultare dalla deliberazione, il capitale e' aumentato di un importo pari alle sottoscrizioni raccolte soltanto se la deliberazione medesima lo abbia espressamente previsto.",
+    "con_marcatori": "Art. 2439. (( (Sottoscrizione e versamenti).)) ((Salvo quanto previsto nel quarto comma dell'articolo 2342, i sottoscrittori delle azioni di nuova emissione devono, all'atto della sottoscrizione, versare alla societa' almeno il venticinque per cento del valore nominale delle azioni sottoscritte. Se e' previsto un soprapprezzo, questo deve essere interamente versato all'atto della sottoscrizione. Se l'aumento di capitale non e' integralmente sottoscritto entro il termine che, nell'osservanza di quelli stabiliti dall'articolo 2441, secondo e terzo comma, deve risultare dalla deliberazione, il capitale e' aumentato di un importo pari alle sottoscrizioni raccolte soltanto se la deliberazione medesima lo abbia espressamente previsto.))",
+    "caratteri": 689
+  },
+  "note": [],
+  "impronta": "sha256:1a7a6521c6ca93d48d23999c572de74bcc32e8d1b5b25afa8e130534883d6620"
+}

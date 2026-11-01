@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2653",
+    "rubrica": "Altre domande e atti soggetti a trascrizione a diversi effetti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2653"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Devono parimenti essere trascritti: 1) le domande dirette a rivendicare la proprieta' o altri diritti reali di godimento su beni immobili e le domande dirette all'accertamento dei diritti stessi. La sentenza pronunziata contro il convenuto indicato nella trascrizione della domanda ha effetto anche contro coloro che hanno acquistato diritti dal medesimo in base a un atto trascritto dopo la trascrizione della domanda; 2) la domanda di devoluzione del fondo enfiteutico. La pronunzia di devoluzione ha effetto anche nei confronti di coloro che hanno acquistato diritti dall'enfiteuta in base a un atto trascritto posteriormente alla trascrizione della domanda; 3) le domande e le dichiarazioni di riscatto nella vendita di beni immobili. Se la trascrizione di tali domande a dichiarazioni e' eseguita dopo sessanta giorni dalla scadenza del termine per l'esercizio del riscatto, restano salvi i diritti acquistati dai terzi dopo la scadenza del termine medesimo in base a un atto trascritto o iscritto anteriormente alla trascrizione della domanda o della dichiarazione; 4) le domande di separazione degli immobili dotali e quelle di scioglimento della comunione tra coniugi avente per oggetto beni immobili. La sentenza che pronunzia la separazione o lo scioglimento non ha effetto a danno dei terzi che, anteriormente alla trascrizione della domanda, hanno validamente acquistato dal marito diritti relativi a beni dotali o a beni della comunione; 5) gli atti e le domande che interrompono il corso dell'usucapione di beni immobili. L'interruzione non ha effetto riguardo ai terzi che hanno acquistato diritti dal possessore in base a un atto trascritto o iscritto, se non dalla data della trascrizione dell'atto o della domanda. Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o di clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri.",
+    "con_marcatori": "Art. 2653. (Altre domande e atti soggetti a trascrizione a diversi effetti). Devono parimenti essere trascritti: 1) le domande dirette a rivendicare la proprieta' o altri diritti reali di godimento su beni immobili e le domande dirette all'accertamento dei diritti stessi. La sentenza pronunziata contro il convenuto indicato nella trascrizione della domanda ha effetto anche contro coloro che hanno acquistato diritti dal medesimo in base a un atto trascritto dopo la trascrizione della domanda; 2) la domanda di devoluzione del fondo enfiteutico. La pronunzia di devoluzione ha effetto anche nei confronti di coloro che hanno acquistato diritti dall'enfiteuta in base a un atto trascritto posteriormente alla trascrizione della domanda; 3) le domande e le dichiarazioni di riscatto nella vendita di beni immobili. Se la trascrizione di tali domande a dichiarazioni e' eseguita dopo sessanta giorni dalla scadenza del termine per l'esercizio del riscatto, restano salvi i diritti acquistati dai terzi dopo la scadenza del termine medesimo in base a un atto trascritto o iscritto anteriormente alla trascrizione della domanda o della dichiarazione; 4) le domande di separazione degli immobili dotali e quelle di scioglimento della comunione tra coniugi avente per oggetto beni immobili. La sentenza che pronunzia la separazione o lo scioglimento non ha effetto a danno dei terzi che, anteriormente alla trascrizione della domanda, hanno validamente acquistato dal marito diritti relativi a beni dotali o a beni della comunione; 5) gli atti e le domande che interrompono il corso dell'usucapione di beni immobili. L'interruzione non ha effetto riguardo ai terzi che hanno acquistato diritti dal possessore in base a un atto trascritto o iscritto, se non dalla data della trascrizione dell'atto o della domanda. ((Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o di clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri)).",
+    "caratteri": 2029
+  },
+  "note": [],
+  "impronta": "sha256:2d8a1cfc5cb71359a5c3c099d31dedece72e50a813aa011ada93c9d50a39be09"
+}

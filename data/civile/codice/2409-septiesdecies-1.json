@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2409-septiesdecies.1",
+    "rubrica": "Sostituzione degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Se nel corso dell'esercizio vengono a mancare uno o piu' amministratori, gli altri provvedono a sostituirli con deliberazione approvata anche dal comitato per il controllo sulla gestione, purche' la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori cosi' nominati restano in carica fino alla prossima assemblea. Se viene meno la maggioranza degli amministratori nominati dall'assemblea, quelli rimasti in carica devono convocare l'assemblea perche' provveda alla sostituzione dei mancanti. Salvo diversa disposizione dello statuto o dell'assemblea, gli amministratori nominati ai sensi del secondo comma scadono insieme con quelli in carica all'atto della loro nomina. Se particolari disposizioni dello statuto prevedono che a seguito della cessazione di taluni amministratori cessi l'intero consiglio, l'assemblea per la nomina del nuovo consiglio e' convocata d'urgenza dagli amministratori rimasti in carica; lo statuto puo' tuttavia prevedere l'applicazione in tal caso di quanto disposto nel successivo comma. Se vengono a cessare tutti gli amministratori, l'assemblea per la nomina dell'intero consiglio e' convocata, su istanza di ciascun socio, dal tribunale, che provvede con decreto nel quale designa la persona che deve presiederla.",
+    "con_marcatori": "Art. 2409-septiesdecies.1 (( (Sostituzione degli amministratori).)). ((Se nel corso dell'esercizio vengono a mancare uno o piu' amministratori, gli altri provvedono a sostituirli con deliberazione approvata anche dal comitato per il controllo sulla gestione, purche' la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori cosi' nominati restano in carica fino alla prossima assemblea. Se viene meno la maggioranza degli amministratori nominati dall'assemblea, quelli rimasti in carica devono convocare l'assemblea perche' provveda alla sostituzione dei mancanti. Salvo diversa disposizione dello statuto o dell'assemblea, gli amministratori nominati ai sensi del secondo comma scadono insieme con quelli in carica all'atto della loro nomina. Se particolari disposizioni dello statuto prevedono che a seguito della cessazione di taluni amministratori cessi l'intero consiglio, l'assemblea per la nomina del nuovo consiglio e' convocata d'urgenza dagli amministratori rimasti in carica; lo statuto puo' tuttavia prevedere l'applicazione in tal caso di quanto disposto nel successivo comma. Se vengono a cessare tutti gli amministratori, l'assemblea per la nomina dell'intero consiglio e' convocata, su istanza di ciascun socio, dal tribunale, che provvede con decreto nel quale designa la persona che deve presiederla.))",
+    "caratteri": 1291
+  },
+  "note": [],
+  "impronta": "sha256:b268a94da9cb8104d69c68b2f54aa10be20dbf09922806e9ff8aadd7adfc13fb"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1500",
+    "rubrica": "Patto di riscatto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1500"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il venditore puo' riservarsi il diritto di riavere la proprieta' della cosa venduta mediante la restituzione del prezzo e i rimborsi stabiliti dalle disposizioni che seguono. Il patto di restituire un prezzo superiore a quello stipulato per la vendita e' nullo per l'eccedenza.",
+    "con_marcatori": "Art. 1500. (Patto di riscatto). Il venditore puo' riservarsi il diritto di riavere la proprieta' della cosa venduta mediante la restituzione del prezzo e i rimborsi stabiliti dalle disposizioni che seguono. Il patto di restituire un prezzo superiore a quello stipulato per la vendita e' nullo per l'eccedenza.",
+    "caratteri": 277
+  },
+  "note": [],
+  "impronta": "sha256:dbb3adb594e52c9406b887438b8db4e51bb7b20ab2948184592450dd62053b14"
+}

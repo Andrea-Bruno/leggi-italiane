@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "879",
+    "rubrica": "Edifici non soggetti all'obbligo delle distanze o a comunione forzosa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art879"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Alla comunione forzosa non sono soggetti gli edifici appartenenti al demanio pubblico e quelli soggetti allo stesso regime, ne' gli edifici che sono riconosciuti di interesse storico, archeologico o artistico, a norma delle leggi in materia. Il vicino non puo' neppure usare della facolta' concessa dall'art. 877. Alle costruzioni che si fanno in confine con le piazze e le vie pubbliche non si applicano le norme relative alle distanze, ma devono osservarsi le leggi e i regolamenti che le riguardano.",
+    "con_marcatori": "Art. 879. (Edifici non soggetti all'obbligo delle distanze o a comunione forzosa). Alla comunione forzosa non sono soggetti gli edifici appartenenti al demanio pubblico e quelli soggetti allo stesso regime, ne' gli edifici che sono riconosciuti di interesse storico, archeologico o artistico, a norma delle leggi in materia. Il vicino non puo' neppure usare della facolta' concessa dall'art. 877. Alle costruzioni che si fanno in confine con le piazze e le vie pubbliche non si applicano le norme relative alle distanze, ma devono osservarsi le leggi e i regolamenti che le riguardano.",
+    "caratteri": 502
+  },
+  "note": [],
+  "impronta": "sha256:fa38999c0a465d3da3353031e710b41cbf101f7ca607750c136728f7191b7a0d"
+}

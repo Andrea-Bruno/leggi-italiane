@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "784",
+    "rubrica": "Donazione a nascituri",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art784"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La donazione puo' essere fatta anche a favore di chi e' soltanto concepito, ovvero a favore dei figli di una determinata persona vivente al tempo della donazione, benche' non ancora concepiti. L'accettazione della donazione a favore di nascituri benche' non concepiti, e' regolata dalle disposizioni degli articoli 320 e 321. Salvo diversa disposizione del donante, l'amministrazione dei beni donati spetta al donante o ai suoi eredi, i quali possono essere obbligati a prestare idonea garanzia. I frutti maturati prima della nascita sono riservati al donatario se la donazione e' fatta a favore di un nascituro gia' concepito. Se e' fatta a favore di un non concepito, i frutti sono riservati al donante sino al momento della nascita del donatario.",
+    "con_marcatori": "Art. 784. (Donazione a nascituri). La donazione puo' essere fatta anche a favore di chi e' soltanto concepito, ovvero a favore dei figli di una determinata persona vivente al tempo della donazione, benche' non ancora concepiti. L'accettazione della donazione a favore di nascituri benche' non concepiti, e' regolata dalle disposizioni degli articoli 320 e 321. Salvo diversa disposizione del donante, l'amministrazione dei beni donati spetta al donante o ai suoi eredi, i quali possono essere obbligati a prestare idonea garanzia. I frutti maturati prima della nascita sono riservati al donatario se la donazione e' fatta a favore di un nascituro gia' concepito. Se e' fatta a favore di un non concepito, i frutti sono riservati al donante sino al momento della nascita del donatario.",
+    "caratteri": 749
+  },
+  "note": [],
+  "impronta": "sha256:b5d6c479d15a859a51cf270f47b28e4176c1beacb87702ceb0af92fcfb951f1f"
+}

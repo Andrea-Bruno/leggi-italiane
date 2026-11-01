@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2734",
+    "rubrica": "Dichiarazioni aggiunte alla confessione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2734"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando alla dichiarazione indicata dall'art. 2730 si accompagna quella di altri fatti o circostanze tendenti a infirmare l'efficacia del fatto confessato ovvero a modificarne o a estinguerne gli effetti, le dichiarazioni fanno piena prova nella loro integrita' se l'altra parte non contesta la verita' dei fatti o delle circostanze aggiunte. In caso di contestazione, e' rimesso al giudice di apprezzare, secondo le circostanze, l'efficacia probatoria delle dichiarazioni.",
+    "con_marcatori": "Art. 2734. (Dichiarazioni aggiunte alla confessione). Quando alla dichiarazione indicata dall'art. 2730 si accompagna quella di altri fatti o circostanze tendenti a infirmare l'efficacia del fatto confessato ovvero a modificarne o a estinguerne gli effetti, le dichiarazioni fanno piena prova nella loro integrita' se l'altra parte non contesta la verita' dei fatti o delle circostanze aggiunte. In caso di contestazione, e' rimesso al giudice di apprezzare, secondo le circostanze, l'efficacia probatoria delle dichiarazioni.",
+    "caratteri": 472
+  },
+  "note": [],
+  "impronta": "sha256:3180912f83e40535a93dbd1e05c7fc11fadb6625052ac67a9e52d84edbc9e23e"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2026",
+    "rubrica": "Pegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2026"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La costituzione in pegno di un titolo nominativo puo' farsi anche mediante consegna del titolo, girato con la clausola «in garanzia» o altra equivalente. Il giratario in garanzia non puo' trasmettere ad altri il titolo se non mediante girata per procura.",
+    "con_marcatori": "Art. 2026. (Pegno). La costituzione in pegno di un titolo nominativo puo' farsi anche mediante consegna del titolo, girato con la clausola «in garanzia» o altra equivalente. Il giratario in garanzia non puo' trasmettere ad altri il titolo se non mediante girata per procura.",
+    "caratteri": 254
+  },
+  "note": [],
+  "impronta": "sha256:384233e9ae3046cc66764dea17ab71ea35b0202393ef41fc38113578a5f73465"
+}

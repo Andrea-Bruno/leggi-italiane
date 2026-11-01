@@ -1,0 +1,71 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "19",
+    "rubrica": null,
+    "sezione": "Disposizioni sulla legge in generale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art19"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 31 MAGGIO 1995, N. 218",
+        "testo": "ARTICOLO ABROGATO DALLA L. 31 MAGGIO 1995, N. 218"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 31 MAGGIO 1995, N. 218",
+    "con_marcatori": "Art. 19. ARTICOLO ABROGATO DALLA L. 31 MAGGIO 1995, N. 218 ((167))",
+    "caratteri": 49
+  },
+  "note": [
+    {
+      "numero": 167,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2006-07-04",
+        "numero": "254"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 21 giugno-4 luglio 2006, n. 254 (in G.U. 1a s.s. 12/7/2006, n. 28) ha dichiarato \"l'illegittimita' costituzionale dell'art. 19, comma primo, delle disposizioni preliminari al codice civile\"."
+    }
+  ],
+  "impronta": "sha256:93208307b8c9d2445325d77dd5095440510b506616ba4a68b89fc9ddfa17b8bf"
+}

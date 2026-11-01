@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2481",
+    "rubrica": "Aumento di capitale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2481"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo puo' attribuire agli amministratori la facolta' di aumentare il capitale sociale, determinandone i limiti e le modalita' di esercizio; la decisione degli amministratori, che deve risultare da verbale redatto senza indugio da notaio, deve essere depositata ed iscritta a norma dell'articolo 2436. La decisione di aumentare il capitale sociale non puo' essere attuata fin quando i conferimenti precedentemente dovuti non sono stati integralmente eseguiti.",
+    "con_marcatori": "Art. 2481. (( (Aumento di capitale).)) ((L'atto costitutivo puo' attribuire agli amministratori la facolta' di aumentare il capitale sociale, determinandone i limiti e le modalita' di esercizio; la decisione degli amministratori, che deve risultare da verbale redatto senza indugio da notaio, deve essere depositata ed iscritta a norma dell'articolo 2436. La decisione di aumentare il capitale sociale non puo' essere attuata fin quando i conferimenti precedentemente dovuti non sono stati integralmente eseguiti. ))",
+    "caratteri": 472
+  },
+  "note": [],
+  "impronta": "sha256:9213f215bfba4a675741ae22571163dd5a348f438d6663d74e50fca84ce4a303"
+}

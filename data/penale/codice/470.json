@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "470",
+    "rubrica": "Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art470"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi di concorso nei reati preveduti dagli articoli precedenti, pone in vendita o acquista cose sulle quali siano le impronte contraffatte di una pubblica autenticazione o certificazione, soggiace alle pene rispettivamente stabilite per i detti reati.",
+    "con_marcatori": "Art. 470. (Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione) Chiunque, fuori dei casi di concorso nei reati preveduti dagli articoli precedenti, pone in vendita o acquista cose sulle quali siano le impronte contraffatte di una pubblica autenticazione o certificazione, soggiace alle pene rispettivamente stabilite per i detti reati. ((16))",
+    "caratteri": 271
+  },
+  "note": [
+    {
+      "numero": 16,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 5 febbraio 1953, n. 39",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1953-02-05;39",
+          "data": "1953-02-05",
+          "numero": "39",
+          "data_gazzetta": "1953-02-10"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 5 febbraio 1953, n. 39 ha disposto (con l'art. 36, comma 1) che \"Le disposizioni del libro II, titolo VII, capo II, del Codice penale sono estese alla contraffazione dei contrassegni indicati nel presente Testo Unico, all'uso e messa in vendita e detenzione dei contrassegni contraffatti ed alla detenzione degli strumenti destinati alla contraffazione\"."
+    }
+  ],
+  "impronta": "sha256:76445e6ceaad21de463c96876f68dea1fa01170d6c704d9fc2f4785798eb7596"
+}

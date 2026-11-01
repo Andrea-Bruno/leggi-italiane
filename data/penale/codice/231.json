@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "231",
+    "rubrica": "Trasgressione degli obblighi imposti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art231"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori del caso preveduto dalla prima parte dell'articolo 177, quando la persona in stato di liberta' vigilata trasgredisce agli obblighi imposti, il giudice puo' aggiungere alla liberta' vigilata la cauzione di buona condotta. Avuto riguardo alla particolare gravita' della trasgressione o al ripetersi della medesima, ovvero qualora il trasgressore non presti la cauzione, il giudice puo' sostituire alla liberta' vigilata l'assegnazione a una colonia agricola o ad una casa di lavoro, ovvero, se si tratta di un minore, il ricovero in un riformatorio giudiziario.",
+    "con_marcatori": "Art. 231. (Trasgressione degli obblighi imposti) Fuori del caso preveduto dalla prima parte dell'articolo 177, quando la persona in stato di liberta' vigilata trasgredisce agli obblighi imposti, il giudice puo' aggiungere alla liberta' vigilata la cauzione di buona condotta. Avuto riguardo alla particolare gravita' della trasgressione o al ripetersi della medesima, ovvero qualora il trasgressore non presti la cauzione, il giudice puo' sostituire alla liberta' vigilata l'assegnazione a una colonia agricola o ad una casa di lavoro, ovvero, se si tratta di un minore, il ricovero in un riformatorio giudiziario.",
+    "caratteri": 565
+  },
+  "note": [],
+  "impronta": "sha256:7d5a650d83796d38cd6898189dafaaa3827b839eaffa0eaf852a3725947e6fe5"
+}

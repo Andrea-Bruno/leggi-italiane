@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "942",
+    "rubrica": "Terreni abbandonati dalle acque correnti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art942"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I terreni abbandonati dalle acque correnti, che insensibilmente si ritirano da una delle rive portandosi sull'altra, appartengono al demanio pubblico, senza che il confinante della riva opposta possa reclamare il terreno perduto. Ai sensi del primo comma, si intendono per acque correnti i fiumi, i torrenti e le altre acque definite pubbliche dalle leggi in materia. Quanto stabilito al primo comma vale anche per i terreni abbandonati dal mare, dai laghi, dalle lagune e dagli stagni appartenenti al demanio pubblico.",
+    "con_marcatori": "Art. 942. (( (Terreni abbandonati dalle acque correnti). )) ((I terreni abbandonati dalle acque correnti, che insensibilmente si ritirano da una delle rive portandosi sull'altra, appartengono al demanio pubblico, senza che il confinante della riva opposta possa reclamare il terreno perduto. Ai sensi del primo comma, si intendono per acque correnti i fiumi, i torrenti e le altre acque definite pubbliche dalle leggi in materia. Quanto stabilito al primo comma vale anche per i terreni abbandonati dal mare, dai laghi, dalle lagune e dagli stagni appartenenti al demanio pubblico)).",
+    "caratteri": 519
+  },
+  "note": [],
+  "impronta": "sha256:04a6f7ab736a3368b16ff97d6ccee37da3658520320cf062a27f57b6dc344c08"
+}

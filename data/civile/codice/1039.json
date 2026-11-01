@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1039",
+    "rubrica": "Indennita' per il passaggio temporaneo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1039"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora il passaggio delle acque sia domandato per un tempo non maggiore di nove anni, il pagamento dei valori e delle indennita' indicati dall'articolo precedente e' ristretto alla sola meta', ma con l'obbligo, scaduto il termine, di rimettere le cose nel primitivo stato. Il passaggio temporaneo puo' essere reso perpetuo prima della scadenza del termine mediante il pagamento dell'altra meta' con gli interessi legali dal giorno in cui il passaggio e' stato praticato; scaduto il termine, non si tiene piu' conto di cio' che e' stato pagato per la concessione temporanea.",
+    "con_marcatori": "Art. 1039. (Indennita' per il passaggio temporaneo). Qualora il passaggio delle acque sia domandato per un tempo non maggiore di nove anni, il pagamento dei valori e delle indennita' indicati dall'articolo precedente e' ristretto alla sola meta', ma con l'obbligo, scaduto il termine, di rimettere le cose nel primitivo stato. Il passaggio temporaneo puo' essere reso perpetuo prima della scadenza del termine mediante il pagamento dell'altra meta' con gli interessi legali dal giorno in cui il passaggio e' stato praticato; scaduto il termine, non si tiene piu' conto di cio' che e' stato pagato per la concessione temporanea.",
+    "caratteri": 574
+  },
+  "note": [],
+  "impronta": "sha256:c59f75dd9bfa7d70c25f558920509a661bdcc91331845b0aed7f1e138a138fcd"
+}

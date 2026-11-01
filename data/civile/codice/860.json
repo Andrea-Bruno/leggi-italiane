@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "860",
+    "rubrica": "Concorso dei proprietari nella spesa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art860"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I proprietari dei beni situati entro il perimetro del comprensorio sono obbligati a contribuire nella spesa necessaria per l'esecuzione, la manutenzione e l'esercizio delle opere in ragione del beneficio che traggono dalla bonifica.",
+    "con_marcatori": "Art. 860. (Concorso dei proprietari nella spesa). I proprietari dei beni situati entro il perimetro del comprensorio sono obbligati a contribuire nella spesa necessaria per l'esecuzione, la manutenzione e l'esercizio delle opere in ragione del beneficio che traggono dalla bonifica.",
+    "caratteri": 232
+  },
+  "note": [],
+  "impronta": "sha256:d8e441592f3147b1c1f4e4c06c4ba3aa1ab03f05d077903a4dd103151f7cdad4"
+}

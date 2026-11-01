@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "837",
+    "rubrica": "Ammassi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art837"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Allo scopo di regolare la distribuzione di determinati prodotti agricoli o industriali nell'interesse della produzione nazionale sono costituiti gli ammassi. Le norme per il conferimento dei prodotti negli ammassi sono contenute in leggi speciali.",
+    "con_marcatori": "Art. 837. (Ammassi). Allo scopo di regolare la distribuzione di determinati prodotti agricoli o industriali nell'interesse della produzione nazionale sono costituiti gli ammassi. Le norme per il conferimento dei prodotti negli ammassi sono contenute in leggi speciali.",
+    "caratteri": 247
+  },
+  "note": [],
+  "impronta": "sha256:89372e8054608467ddb7e2b525acf0e10d6d4334baccefde79e386bb003eb198"
+}

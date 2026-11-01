@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1957",
+    "rubrica": "Scadenza dell'obbligazione principale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1957"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il fideiussore rimane obbligato anche dopo la scadenza dell'obbligazione principale, purche' il creditore entro sei mesi abbia proposto le sue istanze contro il debitore e le abbia con diligenza continuate. La disposizione si applica anche al caso in cui il fideiussore ha espressamente limitato la sua fideiussione allo stesso termine dell'obbligazione principale. In questo caso pero' l'istanza contro il debitore deve essere proposta entro due mesi. L'istanza proposta contro il debitore interrompe la prescrizione anche nei confronti del fideiussore.",
+    "con_marcatori": "Art. 1957. (Scadenza dell'obbligazione principale). Il fideiussore rimane obbligato anche dopo la scadenza dell'obbligazione principale, purche' il creditore entro sei mesi abbia proposto le sue istanze contro il debitore e le abbia con diligenza continuate. La disposizione si applica anche al caso in cui il fideiussore ha espressamente limitato la sua fideiussione allo stesso termine dell'obbligazione principale. In questo caso pero' l'istanza contro il debitore deve essere proposta entro due mesi. L'istanza proposta contro il debitore interrompe la prescrizione anche nei confronti del fideiussore.",
+    "caratteri": 554
+  },
+  "note": [],
+  "impronta": "sha256:d2eb9b8ec1b6378d8c3daeb462b86232fac5448051241607d70142ae546d1065"
+}

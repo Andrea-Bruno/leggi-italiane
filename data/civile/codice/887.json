@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "887",
+    "rubrica": "Fondi a dislivello negli abitati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art887"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se di due fondi posti negli abitati uno e' superiore e l'altro inferiore, il proprietario del fondo superiore deve sopportare per intero le spese di costruzione e conservazione del muro dalle fondamenta all'altezza del proprio suolo, ed entrambi i proprietari devono contribuire per tutta la restante altezza. Il muro deve essere costruito per meta' sul terreno del fondo inferiore e per meta' sul terreno del fondo superiore.",
+    "con_marcatori": "Art. 887. (Fondi a dislivello negli abitati). Se di due fondi posti negli abitati uno e' superiore e l'altro inferiore, il proprietario del fondo superiore deve sopportare per intero le spese di costruzione e conservazione del muro dalle fondamenta all'altezza del proprio suolo, ed entrambi i proprietari devono contribuire per tutta la restante altezza. Il muro deve essere costruito per meta' sul terreno del fondo inferiore e per meta' sul terreno del fondo superiore.",
+    "caratteri": 426
+  },
+  "note": [],
+  "impronta": "sha256:f46babc42fa50b273fd0d412629ef240f27294e4ceb381688ccba54d55a14dea"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "323",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art323"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Atti vietati ai genitori. I genitori esercenti la responsabilita' genitoriale sui figli non possono, neppure all'asta pubblica, rendersi acquirenti direttamente o per interposta persona dei beni e dei diritti del minore. Gli atti compiuti in violazione del divieto previsto nel comma precedente possono essere annullati su istanza del figlio o dei suoi eredi o aventi causa. I genitori esercenti la responsabilita' genitoriale non possono diventare cessionari di alcuna ragione o credito verso il minore.",
+    "con_marcatori": "Art. 323. Atti vietati ai genitori. I genitori esercenti la ((responsabilita' genitoriale)) sui figli non possono, neppure all'asta pubblica, rendersi acquirenti direttamente o per interposta persona dei beni e dei diritti del minore. Gli atti compiuti in violazione del divieto previsto nel comma precedente possono essere annullati su istanza del figlio o dei suoi eredi o aventi causa. I genitori esercenti la ((responsabilita' genitoriale)) non possono diventare cessionari di alcuna ragione o credito verso il minore.",
+    "caratteri": 504
+  },
+  "note": [],
+  "impronta": "sha256:9be8930424c154a2aaf1b24c01854349a80dab32c9ef672ab929cffec52b275e"
+}

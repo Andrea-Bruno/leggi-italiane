@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-bis.1",
+    "rubrica": "Commercio di prodotti inquinanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Alle pene stabilite dall'articolo 452-bis, primo comma, soggiace chiunque abusivamente immette sul mercato o mette comunque in circolazione un prodotto il cui impiego, per lo scarico, l'emissione o l'immissione di materie, sostanze, energia o radiazioni ionizzanti nell'aria, nel suolo o nelle acque che ne deriva, cagioni una compromissione o un deterioramento significativi e misurabili: 1) delle acque o dell'aria, o di porzioni estese o significative del suolo o del sottosuolo; 2) di un ecosistema, di un habitat, della biodiversita', anche agraria, della flora o della fauna. La pena e' aumentata se dal fatto deriva: 1) un pericolo per la vita o per l'incolumita' delle persone; 2) un pericolo rilevante alla qualita' dell'aria, del suolo o delle acque, a un ecosistema, a un habitat, alla fauna o alla flora. La pena e' aumentata da un terzo alla meta' quando l'inquinamento e' prodotto alternativamente: 1) in un'area naturale protetta o sottoposta a vincolo paesaggistico, ambientale, storico, artistico, architettonico o archeologico; 2) in danno di specie animali o vegetali protette; 3) in danno di un ecosistema di dimensioni notevoli; 4) in danno di un ecosistema quando l'inquinamento ha effetti durevoli. Nel caso in cui l'inquinamento di un habitat all'interno di un'area naturale protetta o sottoposta a vincolo paesaggistico, ambientale, storico, artistico, architettonico o archeologico, ne causi la distruzione la pena e' aumentata da un terzo a due terzi.",
+    "con_marcatori": "Art. 452-bis.1 (( (Commercio di prodotti inquinanti). )). ((Alle pene stabilite dall'articolo 452-bis, primo comma, soggiace chiunque abusivamente immette sul mercato o mette comunque in circolazione un prodotto il cui impiego, per lo scarico, l'emissione o l'immissione di materie, sostanze, energia o radiazioni ionizzanti nell'aria, nel suolo o nelle acque che ne deriva, cagioni una compromissione o un deterioramento significativi e misurabili: 1) delle acque o dell'aria, o di porzioni estese o significative del suolo o del sottosuolo; 2) di un ecosistema, di un habitat, della biodiversita', anche agraria, della flora o della fauna)). ((La pena e' aumentata se dal fatto deriva: 1) un pericolo per la vita o per l'incolumita' delle persone; 2) un pericolo rilevante alla qualita' dell'aria, del suolo o delle acque, a un ecosistema, a un habitat, alla fauna o alla flora)). ((La pena e' aumentata da un terzo alla meta' quando l'inquinamento e' prodotto alternativamente: 1) in un'area naturale protetta o sottoposta a vincolo paesaggistico, ambientale, storico, artistico, architettonico o archeologico; 2) in danno di specie animali o vegetali protette; 3) in danno di un ecosistema di dimensioni notevoli; 4) in danno di un ecosistema quando l'inquinamento ha effetti durevoli)). ((Nel caso in cui l'inquinamento di un habitat all'interno di un'area naturale protetta o sottoposta a vincolo paesaggistico, ambientale, storico, artistico, architettonico o archeologico, ne causi la distruzione la pena e' aumentata da un terzo a due terzi.))",
+    "caratteri": 1480
+  },
+  "note": [],
+  "impronta": "sha256:7cb9ebcff33d7494848cede3d6758f84417d055e961113f6495ace12e4bc2ebe"
+}

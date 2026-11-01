@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "477",
+    "rubrica": "Donazione, vendita e cessione dei diritti di successione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art477"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La donazione, la vendita o la cessione, che il chiamato all'eredita' faccia dei suoi diritti di successione a un estraneo o a tutti gli altri chiamati o ad alcuno di questi, importa accettazione dell'eredita'.",
+    "con_marcatori": "Art. 477. (Donazione, vendita e cessione dei diritti di successione). La donazione, la vendita o la cessione, che il chiamato all'eredita' faccia dei suoi diritti di successione a un estraneo o a tutti gli altri chiamati o ad alcuno di questi, importa accettazione dell'eredita'.",
+    "caratteri": 209
+  },
+  "note": [],
+  "impronta": "sha256:86c115aee78a5985e1e0cd64ccab5b72cd3e826c386d24632bc1b6528ed77f86"
+}

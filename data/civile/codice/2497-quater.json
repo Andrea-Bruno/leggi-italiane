@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2497-quater",
+    "rubrica": "Diritto di recesso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2497-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il socio di societa' soggetta ad attivita' di direzione e coordinamento puo' recedere: a) quando la societa' o l'ente che esercita attivita' di direzione e coordinamento ha deliberato una trasformazione che implica il mutamento del suo scopo sociale, ovvero ha deliberato una modifica del suo oggetto sociale consentendo l'esercizio di attivita' che alterino in modo sensibile e diretto le condizioni economiche e patrimoniali della societa' soggetta ad attivita' di direzione e coordinamento; b) quando a favore del socio sia stata pronunciata, con decisione esecutiva, condanna di chi esercita attivita' di direzione e coordinamento ai sensi dell'articolo 2497; in tal caso il diritto di recesso puo' essere esercitato soltanto per l'intera partecipazione del socio; c) all'inizio ed alla cessazione dell'attivita' di direzione e coordinamento, quando non si tratta di una societa' con azioni quotate in mercati regolamentati e ne deriva un'alterazione delle condizioni di rischio dell'investimento e non venga promossa un'offerta pubblica di acquisto. Si applicano, a seconda dei casi ed in quanto compatibili, le disposizioni previste per il diritto di recesso del socio nella societa' per azioni o in quella a responsabilita' limitata.",
+    "con_marcatori": "Art. 2497-quater. (( (Diritto di recesso). )) ((Il socio di societa' soggetta ad attivita' di direzione e coordinamento puo' recedere: a) quando la societa' o l'ente che esercita attivita' di direzione e coordinamento ha deliberato una trasformazione che implica il mutamento del suo scopo sociale, ovvero ha deliberato una modifica del suo oggetto sociale consentendo l'esercizio di attivita' che alterino in modo sensibile e diretto le condizioni economiche e patrimoniali della societa' soggetta ad attivita' di direzione e coordinamento; b) quando a favore del socio sia stata pronunciata, con decisione esecutiva, condanna di chi esercita attivita' di direzione e coordinamento ai sensi dell'articolo 2497; in tal caso il diritto di recesso puo' essere esercitato soltanto per l'intera partecipazione del socio; c) all'inizio ed alla cessazione dell'attivita' di direzione e coordinamento, quando non si tratta di una societa' con azioni quotate in mercati regolamentati e ne deriva un'alterazione delle condizioni di rischio dell'investimento e non venga promossa un'offerta pubblica di acquisto. Si applicano, a seconda dei casi ed in quanto compatibili, le disposizioni previste per il diritto di recesso del socio nella societa' per azioni o in quella a responsabilita' limitata. ))",
+    "caratteri": 1240
+  },
+  "note": [],
+  "impronta": "sha256:855215125ff7b2e38cc81023bbaf38462d17f870a00fe96edeed16645c2464dd"
+}

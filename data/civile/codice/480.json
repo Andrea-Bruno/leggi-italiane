@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "480",
+    "rubrica": "Prescrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art480"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il diritto di accettare l'eredita' si prescrive in dieci anni. Il termine decorre dal giorno dell'apertura della successione e, in caso d'istituzione condizionale, dal giorno in cui si verifica la condizione.In caso di accertamento giudiziale della filiazione il termine decorre dal passaggio in giudicato della sentenza che accerta la filiazione stessa. Il termine non corre per i chiamati ulteriori, se vi e' stata accettazione da parte di precedenti chiamati e successivamente il loro acquisto ereditario e' venuto meno.",
+    "con_marcatori": "Art. 480. (Prescrizione). Il diritto di accettare l'eredita' si prescrive in dieci anni. Il termine decorre dal giorno dell'apertura della successione e, in caso d'istituzione condizionale, dal giorno in cui si verifica la condizione.((In caso di accertamento giudiziale della filiazione il termine decorre dal passaggio in giudicato della sentenza che accerta la filiazione stessa.)) Il termine non corre per i chiamati ulteriori, se vi e' stata accettazione da parte di precedenti chiamati e successivamente il loro acquisto ereditario e' venuto meno.",
+    "caratteri": 523
+  },
+  "note": [],
+  "impronta": "sha256:b1a316c7697f0e9a499c89f07973081450073e35db5fa5c2e298538a3bbf697b"
+}

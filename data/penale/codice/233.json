@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "233",
+    "rubrica": "Divieto di soggiorno in uno o piu' Comuni o in una o piu' Provincie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art233"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Al colpevole di un delitto contro la personalita' dello Stato o contro l'ordine pubblico, ovvero di un delitto commesso per motivi politici o occasionato da particolari condizioni sociali o morali esistenti in un determinato luogo, puo' essere imposto il divieto di soggiornare in uno o piu' Comuni o in una o piu' Provincie, designati dal giudice. Il divieto di soggiorno ha una durata non inferiore a un anno. Nel caso di trasgressione, ricomincia a decorrere il termine minimo, e puo' essere ordinata inoltre la liberta' vigilata.",
+    "con_marcatori": "Art. 233. (Divieto di soggiorno in uno o piu' Comuni o in una o piu' Provincie) Al colpevole di un delitto contro la personalita' dello Stato o contro l'ordine pubblico, ovvero di un delitto commesso per motivi politici o occasionato da particolari condizioni sociali o morali esistenti in un determinato luogo, puo' essere imposto il divieto di soggiornare in uno o piu' Comuni o in una o piu' Provincie, designati dal giudice. Il divieto di soggiorno ha una durata non inferiore a un anno. Nel caso di trasgressione, ricomincia a decorrere il termine minimo, e puo' essere ordinata inoltre la liberta' vigilata.",
+    "caratteri": 533
+  },
+  "note": [],
+  "impronta": "sha256:bbfbe5153645c59ff1802a652fe73bf69bf4d581bbb6f97426fc3e1e573e3be9"
+}

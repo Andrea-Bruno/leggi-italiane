@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "129",
+    "rubrica": "Diritti dei coniugi in buona fede",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art129"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando le condizioni del matrimonio putativo si verificano rispetto ad ambedue i coniugi, il giudice puo' disporre a carico di uno di essi e per un periodo non superiore a tre anni l'obbligo di corrispondere somme periodiche di denaro, in proporzione alle sue sostanze, a favore dell'altro, ove questi non abbia adeguati redditi propri e non sia passato a nuove nozze. Per i provvedimenti che il giudice adotta riguardo ai figli, si applica l'articolo 155.",
+    "con_marcatori": "Art. 129. ((Diritti dei coniugi in buona fede.)) ((Quando le condizioni del matrimonio putativo si verificano rispetto ad ambedue i coniugi, il giudice puo' disporre a carico di uno di essi e per un periodo non superiore a tre anni l'obbligo di corrispondere somme periodiche di denaro, in proporzione alle sue sostanze, a favore dell'altro, ove questi non abbia adeguati redditi propri e non sia passato a nuove nozze. Per i provvedimenti che il giudice adotta riguardo ai figli, si applica l'articolo 155)).",
+    "caratteri": 456
+  },
+  "note": [],
+  "impronta": "sha256:f1b66a13ba05ea8cde43b0b6210ac8c19f2bca77ab9a9140a66cc11e5054df2a"
+}

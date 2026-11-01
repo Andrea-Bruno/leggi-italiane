@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1805",
+    "rubrica": "Perimento della cosa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1805"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il comodatario e' responsabile se la cosa perisce per un caso fortuito a cui poteva sottrarla sostituendola con la cosa propria, o se, potendo salvare una delle due cose, ha preferito la propria. Il comodatario che impiega la cosa per un uso diverso o per un tempo piu' lungo di quello a lui consentito, e' responsabile della perdita avvenuta per causa a lui non imputabile, qualora non provi che la cosa sarebbe perita anche se non l'avesse impiegata per l'uso diverso o l'avesse restituita a tempo debito.",
+    "con_marcatori": "Art. 1805. (Perimento della cosa). Il comodatario e' responsabile se la cosa perisce per un caso fortuito a cui poteva sottrarla sostituendola con la cosa propria, o se, potendo salvare una delle due cose, ha preferito la propria. Il comodatario che impiega la cosa per un uso diverso o per un tempo piu' lungo di quello a lui consentito, e' responsabile della perdita avvenuta per causa a lui non imputabile, qualora non provi che la cosa sarebbe perita anche se non l'avesse impiegata per l'uso diverso o l'avesse restituita a tempo debito.",
+    "caratteri": 507
+  },
+  "note": [],
+  "impronta": "sha256:c05551189af499288ecf6de18d87ded06e3302b80f267a42bc880613f582b4d0"
+}

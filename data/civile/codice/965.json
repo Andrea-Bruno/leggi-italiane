@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "965",
+    "rubrica": "Disponibilita' del diritto dell'enfiteuta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art965"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'enfiteuta puo' disporre del proprio diritto, sia per atto tra vivi, sia per atto di ultima volonta'. Per l'alienazione del diritto dell'enfiteuta non e' dovuta alcuna prestazione al concedente. Nell'atto costitutivo puo' essere vietato all'enfiteuta di disporre per atto tra vivi, in tutto o in parte, del proprio diritto, per un tempo non maggiore di venti anni. Nel caso di alienazione compiuta contro tale divieto, l'enfiteuta non e' liberato dai suoi obblighi verso il concedente ed e' tenuto a questi solidalmente con l'acquirente.",
+    "con_marcatori": "Art. 965. (Disponibilita' del diritto dell'enfiteuta). L'enfiteuta puo' disporre del proprio diritto, sia per atto tra vivi, sia per atto di ultima volonta'. Per l'alienazione del diritto dell'enfiteuta non e' dovuta alcuna prestazione al concedente. Nell'atto costitutivo puo' essere vietato all'enfiteuta di disporre per atto tra vivi, in tutto o in parte, del proprio diritto, per un tempo non maggiore di venti anni. Nel caso di alienazione compiuta contro tale divieto, l'enfiteuta non e' liberato dai suoi obblighi verso il concedente ed e' tenuto a questi solidalmente con l'acquirente.",
+    "caratteri": 538
+  },
+  "note": [],
+  "impronta": "sha256:866ca3384710d3ba553ccc5c7e0640e72147bd5756e017791fc2cbae66b99db9"
+}

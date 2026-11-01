@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "230-bis",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art230-bis"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 334,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Impresa familiare. Salvo che sia configurabile un diverso rapporto, il familiare che presta in modo continuativo la sua attivita' di lavoro nella famiglia o nell'impresa familiare ha diritto al mantenimento secondo la condizione patrimoniale della famiglia e partecipa agli utili dell'impresa familiare ed ai beni acquistati con essi nonche' agli incrementi della azienda, anche in ordine all'avviamento, in proporzione alla quantita' e qualita' del lavoro prestato. Le decisioni concernenti l'impiego degli utili e degli incrementi nonche' quelle inerenti alla gestione straordinaria, agli indirizzi produttivi e alla cessazione dell'impresa sono adottate, a maggioranza, dai familiari che partecipano all'impresa stessa. I familiari partecipanti all'impresa che non hanno la piena capacita' di agire sono rappresentati nel voto da chi esercita la potesta' su di essi. Il lavoro della donna e' considerato equivalente a quello dell'uomo. Ai fini della disposizione di cui al primo comma si intende come familiare il coniuge, i parenti entro il terzo grado, gli affini entro il secondo; per impresa familiare quella cui collaborano il coniuge, i parenti entro il terzo grado, gli affini entro il secondo. Il diritto di partecipazione di cui al primo comma e' intrasferibile, salvo che il trasferimento avvenga a favore di familiari indicati nel comma precedente col consenso di tutti i partecipi. Esso puo' essere liquidato in danaro alla cessazione, per qualsiasi causa, della prestazione del lavoro, ed altresi' in caso di alienazione dell'azienda. Il pagamento puo' avvenire in piu' annualita', determinate, in difetto di accordo, dal giudice. In caso di divisione ereditaria o di trasferimento dell'azienda i partecipi di cui al primo comma hanno diritto di prelazione sull'azienda. Si applica, nei limiti in cui e' compatibile, la disposizione dell'articolo 732. Le comunioni tacite familiari nell'esercizio dell'agricoltura sono regolate dagli usi che non contrastino con le precedenti norme.",
+    "con_marcatori": "Art. 230-bis. Impresa familiare. Salvo che sia configurabile un diverso rapporto, il familiare che presta in modo continuativo la sua attivita' di lavoro nella famiglia o nell'impresa familiare ha diritto al mantenimento secondo la condizione patrimoniale della famiglia e partecipa agli utili dell'impresa familiare ed ai beni acquistati con essi nonche' agli incrementi della azienda, anche in ordine all'avviamento, in proporzione alla quantita' e qualita' del lavoro prestato. Le decisioni concernenti l'impiego degli utili e degli incrementi nonche' quelle inerenti alla gestione straordinaria, agli indirizzi produttivi e alla cessazione dell'impresa sono adottate, a maggioranza, dai familiari che partecipano all'impresa stessa. I familiari partecipanti all'impresa che non hanno la piena capacita' di agire sono rappresentati nel voto da chi esercita la potesta' su di essi. Il lavoro della donna e' considerato equivalente a quello dell'uomo. Ai fini della disposizione di cui al primo comma si intende come familiare il coniuge, i parenti entro il terzo grado, gli affini entro il secondo; per impresa familiare quella cui collaborano il coniuge, i parenti entro il terzo grado, gli affini entro il secondo. ((334)) Il diritto di partecipazione di cui al primo comma e' intrasferibile, salvo che il trasferimento avvenga a favore di familiari indicati nel comma precedente col consenso di tutti i partecipi. Esso puo' essere liquidato in danaro alla cessazione, per qualsiasi causa, della prestazione del lavoro, ed altresi' in caso di alienazione dell'azienda. Il pagamento puo' avvenire in piu' annualita', determinate, in difetto di accordo, dal giudice. In caso di divisione ereditaria o di trasferimento dell'azienda i partecipi di cui al primo comma hanno diritto di prelazione sull'azienda. Si applica, nei limiti in cui e' compatibile, la disposizione dell'articolo 732. Le comunioni tacite familiari nell'esercizio dell'agricoltura sono regolate dagli usi che non contrastino con le precedenti norme.",
+    "caratteri": 1998
+  },
+  "note": [
+    {
+      "numero": 334,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 230-bis, terzo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2024-07-25",
+        "numero": "148"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 4 - 25 luglio 2024, n. 148 (in G.U. 1ª s.s. 31/07/2024, n. 31), ha dichiarato \"l'illegittimita' costituzionale dell'art. 230-bis, terzo comma, del codice civile, nella parte in cui non prevede come familiare anche il «convivente di fatto» e come impresa familiare quella cui collabora anche il «convivente di fatto»\"."
+    }
+  ],
+  "impronta": "sha256:3e8483cf1307a9f9da9756a13d771e014b352bf4d8ef37641453609e9838ecef"
+}

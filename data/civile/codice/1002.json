@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1002",
+    "rubrica": "Inventario e garanzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1002"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'usufruttuario prende le cose nello stato in cui si trovano. Egli e' tenuto a fare a sue spese l'inventario dei beni, previo avviso al proprietario. Quando l'usufruttuario e' dispensato dal fare l'inventario, questo puo' essere richiesto dal proprietario a sue spese. L'usufruttuario deve inoltre dare idonea garanzia. Dalla prestazione della garanzia sono dispensati i genitori che hanno l'usufrutto legale sui beni dei loro figli minori. Sono anche dispensati il venditore e il donante con riserva d'usufrutto; ma, qualora questi cedano l'usufrutto, il cessionario e' tenuto a prestare garanzia. L'usufruttuario non puo' conseguire il possesso dei beni prima di avere adempiuto agli obblighi su indicati.",
+    "con_marcatori": "Art. 1002. (Inventario e garanzia). L'usufruttuario prende le cose nello stato in cui si trovano. Egli e' tenuto a fare a sue spese l'inventario dei beni, previo avviso al proprietario. Quando l'usufruttuario e' dispensato dal fare l'inventario, questo puo' essere richiesto dal proprietario a sue spese. L'usufruttuario deve inoltre dare idonea garanzia. Dalla prestazione della garanzia sono dispensati i genitori che hanno l'usufrutto legale sui beni dei loro figli minori. Sono anche dispensati il venditore e il donante con riserva d'usufrutto; ma, qualora questi cedano l'usufrutto, il cessionario e' tenuto a prestare garanzia. L'usufruttuario non puo' conseguire il possesso dei beni prima di avere adempiuto agli obblighi su indicati.",
+    "caratteri": 707
+  },
+  "note": [],
+  "impronta": "sha256:1754067d084fa9470b47572fb9ebf9f22eb92e74d144d120815a07c84c818dbf"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1907",
+    "rubrica": "Assicurazione parziale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1907"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'assicurazione copre solo una parte del valore che la cosa assicurata aveva nel tempo del sinistro, l'assicuratore risponde dei danni in proporzione della parte suddetta, a meno che non sia diversamente convenuto.",
+    "con_marcatori": "Art. 1907. (Assicurazione parziale). Se l'assicurazione copre solo una parte del valore che la cosa assicurata aveva nel tempo del sinistro, l'assicuratore risponde dei danni in proporzione della parte suddetta, a meno che non sia diversamente convenuto.",
+    "caratteri": 217
+  },
+  "note": [],
+  "impronta": "sha256:ac354c7630ba9f384388f59f9ed2096edbbfc70c03ba363f7cf7aeae23a3e00e"
+}

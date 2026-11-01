@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1008",
+    "rubrica": "Imposte e altri pesi a carico dell'usufruttuario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1008"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'usufruttuario e' tenuto, per la durata del suo diritto, ai carichi annuali, come le imposte, i canoni, le rendite fondiarie e gli altri pesi che gravano sul reddito. Per l'anno in corso al principio e alla fine dell'usufrutto questi carichi si ripartiscono tra il proprietario e l'usufruttuario in proporzione della durata del rispettivo diritto.",
+    "con_marcatori": "Art. 1008. (Imposte e altri pesi a carico dell'usufruttuario). L'usufruttuario e' tenuto, per la durata del suo diritto, ai carichi annuali, come le imposte, i canoni, le rendite fondiarie e gli altri pesi che gravano sul reddito. Per l'anno in corso al principio e alla fine dell'usufrutto questi carichi si ripartiscono tra il proprietario e l'usufruttuario in proporzione della durata del rispettivo diritto.",
+    "caratteri": 348
+  },
+  "note": [],
+  "impronta": "sha256:01e08b919584bf77ee1cab77fae3a7e4b7caf316414fae2eb05b2b02cb3869cd"
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "476",
+    "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in atti pubblici",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art476"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, forma, in tutto o in parte, un atto falso o altera un atto vero, e' punito con la reclusione da uno a sei anni. Se la falsita' concerne un atto o parte di un atto, che faccia fede fino a querela di falso, la reclusione e' da tre a dieci anni.",
+    "con_marcatori": "Art. 476. (Falsita' materiale commessa dal pubblico ufficiale in atti pubblici) Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, forma, in tutto o in parte, un atto falso o altera un atto vero, e' punito con la reclusione da uno a sei anni. Se la falsita' concerne un atto o parte di un atto, che faccia fede fino a querela di falso, la reclusione e' da tre a dieci anni. ((91))",
+    "caratteri": 305
+  },
+  "note": [
+    {
+      "numero": 91,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 18 dicembre 1981, n. 744",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1981-12-18;744",
+          "data": "1981-12-18",
+          "numero": "744",
+          "data_gazzetta": "1981-12-19"
+        },
+        {
+          "denominazione": "articoli 491",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "482 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 18 dicembre 1981, n. 744 ha disposto (con l'art. 1, comma 1, lettera d)) che \"E' concessa amnistia: [...] d) per il reato previsto dall'art. 476 in relazione agli articoli 491 e 482 del codice penale limitatamente alla falsita' in cambiale o in altro titolo di credito trasmissibile per girata o al portatore\". Ha inoltre disposto (con l'art. 11, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 31 agosto 1981."
+    }
+  ],
+  "impronta": "sha256:0f15bfb3a823bc68d4f1c116d9d8bc3cc734648dfacffcc3a7cd651c9e3bf509"
+}

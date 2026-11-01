@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2658",
+    "rubrica": "Atti da presentare al conservatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2658"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La parte che domanda la trascrizione del titolo deve presentarne al conservatore dei registri immobiliari copia autenticata, se si tratta di atti pubblici o di sentenze, e, se si tratta di scritture private, deve presentare l'originale, salvo che questo si trovi depositato in un pubblico archivio o negli atti di un notaio. In questo caso basta la presentazione di una copia autenticata dall'archivista o dal notaio, dalla quale risulti che la scrittura ha i requisiti indicati dall'articolo precedente. Per la trascrizione di una domanda giudiziale occorre presentare copia autentica del documento che la contiene, munito della relazione di notifica alla controparte. Quando la domanda giudiziale si propone con ricorso, la parte che chiede la trascrizione presenta copia conforme dell'atto che la contiene munita di attestazione della data del suo deposito presso l'ufficio giudiziario.",
+    "con_marcatori": "Art. 2658. (Atti da presentare al conservatore). La parte che domanda la trascrizione del titolo deve presentarne al conservatore dei registri immobiliari copia autenticata, se si tratta di atti pubblici o di sentenze, e, se si tratta di scritture private, deve presentare l'originale, salvo che questo si trovi depositato in un pubblico archivio o negli atti di un notaio. In questo caso basta la presentazione di una copia autenticata dall'archivista o dal notaio, dalla quale risulti che la scrittura ha i requisiti indicati dall'articolo precedente. Per la trascrizione di una domanda giudiziale occorre presentare copia autentica del documento che la contiene, munito della relazione di notifica alla controparte. Quando la domanda giudiziale si propone con ricorso, la parte che chiede la trascrizione presenta copia conforme dell'atto che la contiene munita di attestazione della data del suo deposito presso l'ufficio giudiziario. (321)((322))",
+    "caratteri": 889
+  },
+  "note": [
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:0ee606e0e1e9e55496df7fd353b8342d12edb1e134af4875816dd4d1b452aeac"
+}

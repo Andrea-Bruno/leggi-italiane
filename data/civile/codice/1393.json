@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1393",
+    "rubrica": "Giustificazione dei poteri del rappresentante",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1393"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il terzo che contratta col rappresentante puo' sempre esigere che questi giustifichi i suoi poteri e, se la rappresentanza risulta da un atto scritto, che gliene dia una copia da lui firmata.",
+    "con_marcatori": "Art. 1393. (Giustificazione dei poteri del rappresentante). Il terzo che contratta col rappresentante puo' sempre esigere che questi giustifichi i suoi poteri e, se la rappresentanza risulta da un atto scritto, che gliene dia una copia da lui firmata.",
+    "caratteri": 191
+  },
+  "note": [],
+  "impronta": "sha256:e2b1a1645ecc2dae405d4e0cacdc7b5716fd704a0af0cb7cf6a1aa1b5c8d8cd4"
+}

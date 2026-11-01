@@ -1,0 +1,146 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1120",
+    "rubrica": "Innovazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1120"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I condomini, con la maggioranza indicata dal quinto comma dell'art. 1136, possono disporre tutte le innovazioni dirette al miglioramento o all'uso piu' comodo o al maggior rendimento delle cose comuni. I condomini, con la maggioranza indicata dal secondo comma dell'articolo 1136, possono disporre le innovazioni che, nel rispetto della normativa di settore, hanno ad oggetto: 1) le opere e gli interventi volti a migliorare la sicurezza e la salubrita' degli edifici e degli impianti; 2) le opere e gli interventi previsti per eliminare le barriere architettoniche, per il contenimento del consumo energetico degli edifici e per realizzare parcheggi destinati a servizio delle unita' immobiliari o dell'edificio, nonche' per la produzione di energia mediante l'utilizzo di impianti di cogenerazione, fonti eoliche, solari o comunque rinnovabili da parte del condominio o di terzi che conseguano a titolo oneroso un diritto reale o personale di godimento del lastrico solare o di altra idonea superficie comune; 3) l'installazione di impianti centralizzati per la ricezione radiotelevisiva e per l'accesso a qualunque altro genere di flusso informativo, anche da satellite o via cavo, e i relativi collegamenti fino alla diramazione per le singole utenze, ad esclusione degli impianti che non comportano modifiche in grado di alterare la destinazione della cosa comune e di impedire agli altri condomini di farne uso secondo il loro diritto. L'amministratore e' tenuto a convocare l'assemblea entro trenta giorni dalla richiesta anche di un solo condomino interessato all'adozione delle deliberazioni di cui al precedente comma. La richiesta deve contenere l'indicazione del contenuto specifico e delle modalita' di esecuzione degli interventi proposti. In mancanza, l'amministratore deve invitare senza indugio il condomino proponente a fornire le necessarie integrazioni. Sono vietate le innovazioni che possano recare pregiudizio alla stabilita' o alla sicurezza del fabbricato, che ne alterino il decoro architettonico o che rendano talune parti comuni dell'edificio inservibili all'uso o al godimento anche di un solo condomino.",
+    "con_marcatori": "Art. 1120. (Innovazioni). I condomini, con la maggioranza indicata dal quinto comma dell'art. 1136, possono disporre tutte le innovazioni dirette al miglioramento o all'uso piu' comodo o al maggior rendimento delle cose comuni. I condomini, con la maggioranza indicata dal secondo comma dell'articolo 1136, possono disporre le innovazioni che, nel rispetto della normativa di settore, hanno ad oggetto: 1) le opere e gli interventi volti a migliorare la sicurezza e la salubrita' degli edifici e degli impianti; 2) le opere e gli interventi previsti per eliminare le barriere architettoniche, per il contenimento del consumo energetico degli edifici e per realizzare parcheggi destinati a servizio delle unita' immobiliari o dell'edificio, nonche' per la produzione di energia mediante l'utilizzo di impianti di cogenerazione, fonti eoliche, solari o comunque rinnovabili da parte del condominio o di terzi che conseguano a titolo oneroso un diritto reale o personale di godimento del lastrico solare o di altra idonea superficie comune; 3) l'installazione di impianti centralizzati per la ricezione radiotelevisiva e per l'accesso a qualunque altro genere di flusso informativo, anche da satellite o via cavo, e i relativi collegamenti fino alla diramazione per le singole utenze, ad esclusione degli impianti che non comportano modifiche in grado di alterare la destinazione della cosa comune e di impedire agli altri condomini di farne uso secondo il loro diritto. L'amministratore e' tenuto a convocare l'assemblea entro trenta giorni dalla richiesta anche di un solo condomino interessato all'adozione delle deliberazioni di cui al precedente comma. La richiesta deve contenere l'indicazione del contenuto specifico e delle modalita' di esecuzione degli interventi proposti. In mancanza, l'amministratore deve invitare senza indugio il condomino proponente a fornire le necessarie integrazioni. Sono vietate le innovazioni che possano recare pregiudizio alla stabilita' o alla sicurezza del fabbricato, che ne alterino il decoro architettonico o che rendano talune parti comuni dell'edificio inservibili all'uso o al godimento anche di un solo condomino. (87) ((283))",
+    "caratteri": 2133
+  },
+  "note": [
+    {
+      "numero": 87,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 5 agosto 1978, n. 457",
+          "urn": "urn:nir:stato:legge:1978-08-05;457",
+          "data": "1978-08-05",
+          "numero": "457",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "L. 17 febbraio 1992, n. 179",
+          "urn": "urn:nir:stato:legge:1992-02-17;179",
+          "data": "1992-02-17",
+          "numero": "179",
+          "data_gazzetta": "1992-02-29"
+        },
+        {
+          "denominazione": "articoli 1120",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "1121",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "1136, quinto comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "quinto comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 5 agosto 1978, n. 457, come modificata dalla L. 17 febbraio 1992, n. 179 ha disposto (con l'art. 30, comma 2) che \"In deroga agli articoli 1120, 1121 e 1136, quinto comma, del codice civile gli interventi di recupero relativi ad un unico immobile composto da piu' unita' immobiliari possono essere disposti dalla maggioranza dei condomini che comunque rappresenti almeno la meta' del valore dell'edificio\"."
+    },
+    {
+      "numero": 283,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articoli 1120",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "1121",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 18 aprile 2019, n. 32",
+          "urn": "urn:nir:stato:decretoLegge:2019-04-18;32",
+          "data": "2019-04-18",
+          "numero": "32",
+          "data_gazzetta": "2019-04-18"
+        },
+        {
+          "denominazione": "L. 14 giugno 2019, n. 55",
+          "urn": "urn:nir:stato:legge:2019-06-14;55",
+          "data": "2019-06-14",
+          "numero": "55",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "1136, quarto",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "quinto comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 18 aprile 2019, n. 32, convertito con modificazioni dalla L. 14 giugno 2019, n. 55, ha disposto (con l'art. 10, comma 9) che \"In deroga agli articoli 1120, 1121 e 1136, quarto e quinto comma, del codice civile, gli interventi di recupero relativi ad un unico immobile composto da piu' unita' immobiliari possono essere disposti dalla maggioranza dei condomini che comunque rappresenti almeno la meta' del valore dell'edificio e gli interventi ivi previsti devono essere approvati con un numero di voti che rappresenti la maggioranza degli intervenuti e almeno un terzo del valore dell'edificio\"."
+    }
+  ],
+  "impronta": "sha256:72987d9a3a695f446f06b1a6c671abf32ee5084743fe99b3d9380ba4e2811767"
+}

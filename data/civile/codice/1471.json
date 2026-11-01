@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1471",
+    "rubrica": "Divieti speciali di comprare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1471"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non possono essere compratori nemmeno all'asta pubblica, ne' direttamente ne' per interposta persona: 1) gli amministratori dei beni dello Stato, dei comuni, delle provincie o degli altri enti pubblici, rispetto ai beni affidati alla loro cura; 2) gli ufficiali pubblici, rispetto ai beni che sono venduti per loro ministero; 3) coloro che per legge o per atto della pubblica autorita' amministrano beni altrui, rispetto ai beni medesimi; 4) i mandatari, rispetto ai beni che sono stati incaricati di vendere, salvo il disposto dell'art. 1395. Nei primi due casi l'acquisto e' nullo; negli altri e' annullabile.",
+    "con_marcatori": "Art. 1471. (Divieti speciali di comprare). Non possono essere compratori nemmeno all'asta pubblica, ne' direttamente ne' per interposta persona: 1) gli amministratori dei beni dello Stato, dei comuni, delle provincie o degli altri enti pubblici, rispetto ai beni affidati alla loro cura; 2) gli ufficiali pubblici, rispetto ai beni che sono venduti per loro ministero; 3) coloro che per legge o per atto della pubblica autorita' amministrano beni altrui, rispetto ai beni medesimi; 4) i mandatari, rispetto ai beni che sono stati incaricati di vendere, salvo il disposto dell'art. 1395. Nei primi due casi l'acquisto e' nullo; negli altri e' annullabile.",
+    "caratteri": 611
+  },
+  "note": [],
+  "impronta": "sha256:3ca8debd4c16291b5995900f6c6ec09ee9d7ae94b961f6c3d664c4a2bd9da334"
+}

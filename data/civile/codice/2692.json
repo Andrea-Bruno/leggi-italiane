@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2692",
+    "rubrica": "Annotazione della trascrizione delle domande e degli atti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2692"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La trascrizione delle domande e degli atti indicati dai due articoli precedenti dev'essere anche annotata secondo le modalita' stabilite dall'art. 2654. Si osservano inoltre le disposizioni del primo, terzo e quarto comma dell'art. 2655 e quelle dell'art. 2656.",
+    "con_marcatori": "Art. 2692. (Annotazione della trascrizione delle domande e degli atti). La trascrizione delle domande e degli atti indicati dai due articoli precedenti dev'essere anche annotata secondo le modalita' stabilite dall'art. 2654. Si osservano inoltre le disposizioni del primo, terzo e quarto comma dell'art. 2655 e quelle dell'art. 2656.",
+    "caratteri": 261
+  },
+  "note": [],
+  "impronta": "sha256:5d37eefd81f5137e4fd00a72e83e9d479a04f09d9df702c262574bf7c09d8b39"
+}

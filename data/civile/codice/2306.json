@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2306",
+    "rubrica": "Riduzione di capitale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2306"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La deliberazione di riduzione di capitale, mediante rimborso ai soci delle quote pagate o mediante liberazione di essi dall'obbligo di ulteriori versamenti, puo' essere eseguita soltanto dopo tre mesi dal giorno della iscrizione nel registro delle imprese, purche' entro questo termine nessun creditore sociale anteriore all'iscrizione abbia fatto opposizione. Il tribunale, nonostante l'opposizione, puo' disporre che l'esecuzione abbia luogo, previa prestazione da parte della societa' di un'idonea garanzia.",
+    "con_marcatori": "Art. 2306. (Riduzione di capitale). La deliberazione di riduzione di capitale, mediante rimborso ai soci delle quote pagate o mediante liberazione di essi dall'obbligo di ulteriori versamenti, puo' essere eseguita soltanto dopo tre mesi dal giorno della iscrizione nel registro delle imprese, purche' entro questo termine nessun creditore sociale anteriore all'iscrizione abbia fatto opposizione. Il tribunale, nonostante l'opposizione, puo' disporre che l'esecuzione abbia luogo, previa prestazione da parte della societa' di un'idonea garanzia.",
+    "caratteri": 510
+  },
+  "note": [],
+  "impronta": "sha256:c8dc33e9ef1b73df0152d8b1824ef812ec7461963c3672ee80be20d1cdedf5a9"
+}

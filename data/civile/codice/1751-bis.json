@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1751-bis",
+    "rubrica": "Patto di non concorrenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1751-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patto che limita la concorrenza da parte dell'agente dopo lo scioglimento del contratto deve farsi per iscritto. Esso deve riguardare la medesima zona, clientela e genere di beni o servizi per i quali era stato concluso il contratto di agenzia e la sua durata non puo' eccedere i due anni successivi all'estinzione del contratto. L'accettazione del patto di non concorrenza comporta, in occasione della cessazione del rapporto, la corresponsione all'agente commerciale di una indennita' di natura non provvigionale. L'indennita' va commisurata alla durata, non superiore a due anni dopo l'estinzione del contratto, alla natura del contratto di agenzia e all'indennita' di fine rapporto. La determinazione della indennita' in base ai parametri di cui al precedente periodo e' affidata alla contrattazione tra le parti tenuto conto degli accordi economici nazionali di categoria. In difetto di accordo l'indennita' e' determinata dal giudice in via equitativa anche con riferimento: 1) alla media dei corrispettivi riscossi dall'agente in pendenza di contratto ed alla loro incidenza sul volume d'affari complessivo nello stesso periodo; 2) alle cause di cessazione del contratto di agenzia; 3) all'ampiezza della zona assegnata all'agente; 4) all'esistenza o meno del vincolo di esclusiva per un solo preponente. 128a",
+    "con_marcatori": "Art. 1751-bis. (Patto di non concorrenza). Il patto che limita la concorrenza da parte dell'agente dopo lo scioglimento del contratto deve farsi per iscritto. Esso deve riguardare la medesima zona, clientela e genere di beni o servizi per i quali era stato concluso il contratto di agenzia e la sua durata non puo' eccedere i due anni successivi all'estinzione del contratto. ((L'accettazione del patto di non concorrenza comporta, in occasione della cessazione del rapporto, la corresponsione all'agente commerciale di una indennita' di natura non provvigionale. L'indennita' va commisurata alla durata, non superiore a due anni dopo l'estinzione del contratto, alla natura del contratto di agenzia e all'indennita' di fine rapporto. La determinazione della indennita' in base ai parametri di cui al precedente periodo e' affidata alla contrattazione tra le parti tenuto conto degli accordi economici nazionali di categoria. In difetto di accordo l'indennita' e' determinata dal giudice in via equitativa anche con riferimento: 1) alla media dei corrispettivi riscossi dall'agente in pendenza di contratto ed alla loro incidenza sul volume d'affari complessivo nello stesso periodo; 2) alle cause di cessazione del contratto di agenzia; 3) all'ampiezza della zona assegnata all'agente; 4) all'esistenza o meno del vincolo di esclusiva per un solo preponente)). ((128a)) (81)",
+    "caratteri": 1319
+  },
+  "note": [
+    {
+      "numero": 81,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 settembre 1991, n. 303",
+          "urn": "urn:nir:stato:decretoLegislativo:1991-09-10;303",
+          "data": "1991-09-10",
+          "numero": "303",
+          "data_gazzetta": "1991-09-20"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2000, n. 422",
+          "urn": "urn:nir:stato:legge:2000-12-29;422",
+          "data": "2000-12-29",
+          "numero": "422",
+          "data_gazzetta": "2001-01-20"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 settembre 1991, n. 303, ha disposto (con l'art. 6, comma 1) che \"Le disposizioni del presente decreto si applicano ai contratti gia' in corso alla data del 1° gennaio 1990, a decorrere dal 1° gennaio 1994\". ------------ AGGIORNAMENTO (128a) La L. 29 dicembre 2000, n. 422 ha disposto (con l'art. 23, comma 2) che \"Le disposizioni di cui al comma 1 si applicano esclusivamente agli agenti che esercitano in forma individuale, di societa' di persone o di societa' di capitali con un solo socio, nonche', ove previsto da accordi economici nazionali di categoria, a societa' di capitali costituite esclusivamente o prevalentemente da agenti commerciali. Le disposizioni di cui al comma 1 acquistano efficacia dal 1° giugno 2001\"."
+    }
+  ],
+  "impronta": "sha256:15d93fad87b1ee8b7a3f08b408ac0461a3b45ba3ecad7d255f554ad83a16bcd3"
+}

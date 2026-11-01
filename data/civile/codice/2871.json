@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2871",
+    "rubrica": "Diritti del terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2871"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione ha regresso contro il debitore. Se vi sono piu' debitori obbligati in solido, il terzo che ha costituito l'ipoteca a garanzia di tutti ha regresso contro ciascuno per l'intero. Il terzo datore ha regresso contro i fideiussori del debitore. Ha inoltre regresso contro gli altri terzi datori per la loro rispettiva porzione e puo' esercitare, anche nei confronti dei terzi acquirenti, il subingresso previsto dal secondo comma dell'art. 2866.",
+    "con_marcatori": "Art. 2871. (Diritti del terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione). Il terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazione ha regresso contro il debitore. Se vi sono piu' debitori obbligati in solido, il terzo che ha costituito l'ipoteca a garanzia di tutti ha regresso contro ciascuno per l'intero. Il terzo datore ha regresso contro i fideiussori del debitore. Ha inoltre regresso contro gli altri terzi datori per la loro rispettiva porzione e puo' esercitare, anche nei confronti dei terzi acquirenti, il subingresso previsto dal secondo comma dell'art. 2866.",
+    "caratteri": 522
+  },
+  "note": [],
+  "impronta": "sha256:87989a9cfc3221c2fc7d71330cadff953867452cc96d83c03325450a5b84ea5e"
+}

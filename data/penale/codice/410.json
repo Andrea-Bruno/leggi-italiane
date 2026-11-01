@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "410",
+    "rubrica": "Vilipendio di cadavere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art410"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque commette atti di vilipendio sopra un cadavere o sulle sue ceneri e' punito con la reclusione da uno a tre anni. Se il colpevole deturpa o mutila il cadavere, o commette, comunque, su questo atti di brutalita' o di oscenita', e' punito con la reclusione da tre a sei anni.",
+    "con_marcatori": "Art. 410. (Vilipendio di cadavere) Chiunque commette atti di vilipendio sopra un cadavere o sulle sue ceneri e' punito con la reclusione da uno a tre anni. Se il colpevole deturpa o mutila il cadavere, o commette, comunque, su questo atti di brutalita' o di oscenita', e' punito con la reclusione da tre a sei anni.",
+    "caratteri": 280
+  },
+  "note": [],
+  "impronta": "sha256:66a850cd173ca16e782820bfcb668a9803f73eb407a9e2ef425b75f87bb616f5"
+}

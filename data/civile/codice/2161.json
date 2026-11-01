@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2161",
+    "rubrica": "Libretto colonico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2161"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il concedente deve istituire un libretto colonico da tenersi in due esemplari, uno per ciascuna delle parti. Il concedente deve annotare di volta in volta su entrambi gli esemplari i crediti e i debiti delle parti relativi alla mezzadria, con indicazione della data e del fatto che li ha determinati. Le annotazioni devono, alla fine dell'anno agrario, essere sottoscritte per accettazione dal concedente e dal mezzadro. Il mezzadro deve presentare il libretto colonico al concedente per le annotazioni e per i saldi annuali.",
+    "con_marcatori": "Art. 2161. (Libretto colonico). Il concedente deve istituire un libretto colonico da tenersi in due esemplari, uno per ciascuna delle parti. Il concedente deve annotare di volta in volta su entrambi gli esemplari i crediti e i debiti delle parti relativi alla mezzadria, con indicazione della data e del fatto che li ha determinati. Le annotazioni devono, alla fine dell'anno agrario, essere sottoscritte per accettazione dal concedente e dal mezzadro. Il mezzadro deve presentare il libretto colonico al concedente per le annotazioni e per i saldi annuali.",
+    "caratteri": 525
+  },
+  "note": [],
+  "impronta": "sha256:5ad8a396f2f3ff098f92064b16a15954eeef5fa038b86a883ddf812521276f1c"
+}

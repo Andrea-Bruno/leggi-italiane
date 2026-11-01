@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "517-octies",
+    "rubrica": "Pena accessoria e circostanze aggravanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art517-octies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Nei casi di cui agli articoli 517-sexies e 517-septies il giudice, se il fatto e' di particolare gravita' o in caso di recidiva specifica, puo' disporre la chiusura temporanea, da cinque giorni a tre mesi, dello stabilimento o dell'esercizio in cui il fatto e' stato commesso.. Le pene stabilite dagli articoli 517-sexies e 517-septies sono aumentate se: 1) le condotte attengono alla denominazione di origine o all'indicazione geografica degli alimenti o degli ingredienti protette dalle norme vigenti; 2) i fatti sono commessi mediante falsi documenti di trasporto o false dichiarazioni all'organismo di vigilanza; 3) i fatti sono di particolare gravita' in ragione della quantita' dell'alimento oggetto dell'illecito; 4) le condotte hanno ad oggetto alimenti indicati come biologici in assenza della relativa certificazione. . Se concorrono due o piu' delle circostanze previste dal secondo comma, la pena e' aumentata da un terzo alla meta'. Le pene stabilite dagli articoli 517-sexies e 517-septies sono aumentate da un terzo alla meta' se le condotte ivi previste, al di fuori dei casi di cui agli articoli 416 e 416-bis, sono realizzate con piu' operazioni e attraverso l'allestimento di mezzi e attivita' continuative organizzate diretti a commettere tali reati.",
+    "con_marcatori": "Art. 517-octies. (( (Pena accessoria e circostanze aggravanti). )). ((Nei casi di cui agli articoli 517-sexies e 517-septies il giudice, se il fatto e' di particolare gravita' o in caso di recidiva specifica, puo' disporre la chiusura temporanea, da cinque giorni a tre mesi, dello stabilimento o dell'esercizio in cui il fatto e' stato commesso.)). ((Le pene stabilite dagli articoli 517-sexies e 517-septies sono aumentate se: 1) le condotte attengono alla denominazione di origine o all'indicazione geografica degli alimenti o degli ingredienti protette dalle norme vigenti; 2) i fatti sono commessi mediante falsi documenti di trasporto o false dichiarazioni all'organismo di vigilanza; 3) i fatti sono di particolare gravita' in ragione della quantita' dell'alimento oggetto dell'illecito; 4) le condotte hanno ad oggetto alimenti indicati come biologici in assenza della relativa certificazione.)) . ((Se concorrono due o piu' delle circostanze previste dal secondo comma, la pena e' aumentata da un terzo alla meta'.)) ((Le pene stabilite dagli articoli 517-sexies e 517-septies sono aumentate da un terzo alla meta' se le condotte ivi previste, al di fuori dei casi di cui agli articoli 416 e 416-bis, sono realizzate con piu' operazioni e attraverso l'allestimento di mezzi e attivita' continuative organizzate diretti a commettere tali reati)).",
+    "caratteri": 1272
+  },
+  "note": [],
+  "impronta": "sha256:a3318fc3ea0e6a7212ab8f0be7dfe85cc07495c6ea3887afd5b9e05199e1eab0"
+}

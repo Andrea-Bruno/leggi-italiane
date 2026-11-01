@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "501",
+    "rubrica": "Rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art501"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, al fine di turbare il mercato interno dei valori o delle merci, pubblica o altrimenti divulga notizie false, esagerate o tendenziose o adopera altri artifici atti a cagionare un aumento o una diminuzione del prezzo delle merci, ovvero dei valori ammessi nelle liste di borsa o negoziabili nel pubblico mercato, e' punito con la reclusione fino a tre anni e con la multa da uno a cinquanta milioni di lire. Se l'aumento o la diminuzione del prezzo delle merci o dei valori si verifica, le pene sono aumentate. Le pene sono raddoppiate: 1) se il fatto e' commesso dal cittadino per favorire interessi stranieri; 2) se dal fatto deriva un deprezzamento della valuta nazionale o dei titoli dello Stato, ovvero il rincaro di merci di comune o largo consumo. Le pene stabilite nelle disposizioni precedenti si applicano anche se il fatto e' commesso all'estero, in danno della valuta nazionale o di titoli pubblici italiani. La condanna importa l'interdizione dai pubblici uffici.",
+    "con_marcatori": "Art. 501. (( (Rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio). )) ((Chiunque, al fine di turbare il mercato interno dei valori o delle merci, pubblica o altrimenti divulga notizie false, esagerate o tendenziose o adopera altri artifici atti a cagionare un aumento o una diminuzione del prezzo delle merci, ovvero dei valori ammessi nelle liste di borsa o negoziabili nel pubblico mercato, e' punito con la reclusione fino a tre anni e con la multa da uno a cinquanta milioni di lire. Se l'aumento o la diminuzione del prezzo delle merci o dei valori si verifica, le pene sono aumentate. Le pene sono raddoppiate: 1) se il fatto e' commesso dal cittadino per favorire interessi stranieri; 2) se dal fatto deriva un deprezzamento della valuta nazionale o dei titoli dello Stato, ovvero il rincaro di merci di comune o largo consumo. Le pene stabilite nelle disposizioni precedenti si applicano anche se il fatto e' commesso all'estero, in danno della valuta nazionale o di titoli pubblici italiani. La condanna importa l'interdizione dai pubblici uffici)).",
+    "caratteri": 984
+  },
+  "note": [],
+  "impronta": "sha256:a923332677ca0e93d3863fbcf6da11f3ea34499137e41d6dcec8e60f68c6e368"
+}

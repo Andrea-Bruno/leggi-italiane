@@ -1,0 +1,76 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "17",
+    "rubrica": "Pene principali: specie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art17"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 139,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Le pene principali stabilite per i delitti sono: 1° NUMERO SOPPRESSO DAL D.LGS. LUOGOTENZIALE 10 AGOSTO 1944, N. 224; 2° l'ergastolo; 3° la reclusione; 4° la multa. Le pene principali stabilite per le contravvenzioni sono: 1° l'arresto; 2° l'ammenda.",
+    "con_marcatori": "Art. 17. (Pene principali: specie) Le pene principali stabilite per i delitti sono: 1° NUMERO SOPPRESSO DAL D.LGS. LUOGOTENZIALE 10 AGOSTO 1944, N. 224; 2° l'ergastolo; ((139)) 3° la reclusione; 4° la multa. Le pene principali stabilite per le contravvenzioni sono: 1° l'arresto; 2° l'ammenda.",
+    "caratteri": 250
+  },
+  "note": [
+    {
+      "numero": 139,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "artt. 17",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "22 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1994-04-28",
+        "numero": "168"
+      },
+      "testo": "La Corte Costituzionale con sentenza 27-28 aprile 1994, n. 168 (in G.U. 1ª s.s. 04/05/1994, n. 19) ha dichiarato \"l'illegittimita' costituzionale degli artt. 17 e 22 del codice penale nella parte in cui non escludono l'applicazione della pena dell'ergastolo al minore imputabile\"."
+    }
+  ],
+  "impronta": "sha256:c4dcb8273cbc8fc75b6e13d583e6134e9c3e2c1efe0c52b74421f5c298525f98"
+}

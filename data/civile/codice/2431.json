@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2431",
+    "rubrica": "Soprapprezzo delle azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2431"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le somme percepite dalla societa' per l'emissione di azioni ad un prezzo superiore al loro valore nominale, ivi comprese quelle derivate dalla conversione di obbligazioni, non possono essere distribuite fino a che la riserva legale non abbia raggiunto il limite stabilito dall'articolo 2430.",
+    "con_marcatori": "Art. 2431. (( (Soprapprezzo delle azioni).)) (( Le somme percepite dalla societa' per l'emissione di azioni ad un prezzo superiore al loro valore nominale, ivi comprese quelle derivate dalla conversione di obbligazioni, non possono essere distribuite fino a che la riserva legale non abbia raggiunto il limite stabilito dall'articolo 2430.))",
+    "caratteri": 291
+  },
+  "note": [],
+  "impronta": "sha256:7335cd9a6aaeb6c01eef52a007a7265f15f777eee6893735bbb46eedc6e86302"
+}

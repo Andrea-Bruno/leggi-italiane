@@ -1,0 +1,155 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "263",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art263"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 310,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Impugnazione del riconoscimento per difetto di veridicita' Il riconoscimento puo' essere impugnato per difetto di veridicita' dall'autore del riconoscimento, da colui che e' stato riconosciuto e da chiunque vi abbia interesse. L'azione e' imprescrittibile riguardo al figlio. L'azione di impugnazione da parte dell'autore del riconoscimento deve essere proposta nel termine di un anno che decorre dal giorno dell'annotazione del riconoscimento sull'atto di nascita. Se l'autore del riconoscimento prova di aver ignorato la propria impotenza al tempo del concepimento, il termine decorre dal giorno in cui ne ha avuto conoscenza; nello stesso termine, la madre che abbia effettuato il riconoscimento e' ammessa a provare di aver ignorato l'impotenza del presunto padre. L'azione non puo' essere comunque proposta oltre cinque anni dall'annotazione del riconoscimento. L'azione di impugnazione da parte degli altri legittimati deve essere proposta nel termine di cinque anni che decorrono dal giorno dall'annotazione del riconoscimento sull'atto di nascita. Si applica l'articolo 245.",
+    "con_marcatori": "Art. 263. Impugnazione del riconoscimento per difetto di veridicita' Il riconoscimento puo' essere impugnato per difetto di veridicita' dall'autore del riconoscimento, da colui che e' stato riconosciuto e da chiunque vi abbia interesse. L'azione e' imprescrittibile riguardo al figlio. L'azione di impugnazione da parte dell'autore del riconoscimento deve essere proposta nel termine di un anno che decorre dal giorno dell'annotazione del riconoscimento sull'atto di nascita. Se l'autore del riconoscimento prova di aver ignorato la propria impotenza al tempo del concepimento, il termine decorre dal giorno in cui ne ha avuto conoscenza; nello stesso termine, la madre che abbia effettuato il riconoscimento e' ammessa a provare di aver ignorato l'impotenza del presunto padre. L'azione non puo' essere comunque proposta oltre cinque anni dall'annotazione del riconoscimento. ((310)) L'azione di impugnazione da parte degli altri legittimati deve essere proposta nel termine di cinque anni che decorrono dal giorno dall'annotazione del riconoscimento sull'atto di nascita. Si applica l'articolo 245. (223)",
+    "caratteri": 1082
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "legge 10 dicembre 2012, n. 219",
+          "urn": "urn:nir:stato:legge:2012-12-10;219",
+          "data": "2012-12-10",
+          "numero": "219",
+          "data_gazzetta": "2012-12-17"
+        },
+        {
+          "denominazione": "articolo 263 e dai commi secondo",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "terzo",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "quarto",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 267 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154, ha disposto (con l'art. 104, comma 10) che \" Fermi gli effetti del giudicato formatosi prima dell'entrata in vigore della legge 10 dicembre 2012, n. 219, nel caso di riconoscimento di figlio annotato sull'atto di nascita prima dell'entrata in vigore del presente decreto legislativo, i termini per proporre l'azione di impugnazione, previsti dall'articolo 263 e dai commi secondo, terzo e quarto dell'articolo 267 del codice civile, decorrono dal giorno dell'entrata in vigore del medesimo decreto legislativo\"."
+    },
+    {
+      "numero": 310,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "legge 10 dicembre 2012, n. 219",
+          "urn": "urn:nir:stato:legge:2012-12-10;219",
+          "data": "2012-12-10",
+          "numero": "219",
+          "data_gazzetta": "2012-12-17"
+        },
+        {
+          "denominazione": "terzo",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 263, terzo comma, codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 28, comma 1, del decreto legislativo 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "articolo 2 della legge 10 dicembre 2012, n. 219",
+          "urn": "urn:nir:stato:legge:2012-12-10;219",
+          "data": "2012-12-10",
+          "numero": "219",
+          "data_gazzetta": "2012-12-17"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2021-06-25",
+        "numero": "133"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 12 maggio - 25 giugno 2021, n. 133 (in G.U. 1ª s.s. 30/06/2021, n. 26) ha dichiarato \"l'illegittimita' costituzionale dell'art. 263, terzo comma, codice civile, come modificato dall'art. 28, comma 1, del decreto legislativo 28 dicembre 2013, n. 154 (Revisione delle disposizioni vigenti in materia di filiazione, a norma dell'articolo 2 della legge 10 dicembre 2012, n. 219), nella parte in cui non prevede che, per l'autore del riconoscimento, il termine annuale per proporre l'azione di impugnazione decorra dal giorno in cui ha avuto conoscenza della non paternita'\"."
+    }
+  ],
+  "impronta": "sha256:c55cb0102621253c5025157c1b2b50a421fc40fd49e7ff7983d4c0064cb6df13"
+}

@@ -1,0 +1,87 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2641",
+    "rubrica": "Confisca",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2641"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 337,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "In caso di condanna o di applicazione della pena su richiesta delle parti per uno dei reati previsti dal presente titolo e' ordinata la confisca del prodotto o del profitto del reato e dei beni utilizzati per commetterlo. Quando non e' possibile l'individuazione o l'apprensione dei beni indicati nel comma primo, la confisca ha ad oggetto una somma di denaro o beni di valore equivalente. Per quanto non stabilito nei commi precedenti si applicano le disposizioni dell'articolo 240 del codice penale.",
+    "con_marcatori": "Art. 2641. (Confisca). In caso di condanna o di applicazione della pena su richiesta delle parti per uno dei reati previsti dal presente titolo e' ordinata la confisca del prodotto o del profitto del reato e dei beni utilizzati per commetterlo. ((337)) Quando non e' possibile l'individuazione o l'apprensione dei beni indicati nel comma primo, la confisca ha ad oggetto una somma di denaro o beni di valore equivalente. ((337)) Per quanto non stabilito nei commi precedenti si applicano le disposizioni dell'articolo 240 del codice penale.",
+    "caratteri": 501
+  },
+  "note": [
+    {
+      "numero": 337,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2641, secondo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 2641, primo comma, cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-02-04",
+        "numero": "7"
+      },
+      "testo": "La Corte Costituzionale con sentenza 14 gennaio - 4 febbraio 2025, n. 7 (in G.U. 1ª s.s. 5/2/2025, n. 6) ha dichiarato \"l'illegittimita' costituzionale dell'art. 2641, secondo comma, del codice civile, nella parte in cui prevede la confisca obbligatoria di una somma di denaro o beni di valore equivalente a quelli utilizzati per commettere il reato\". Ha inoltre dichiarato \"in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 2641, primo comma, cod. civ., limitatamente alle parole «e dei beni utilizzati per commetterlo»\"."
+    }
+  ],
+  "impronta": "sha256:bcb37c8f85012fbd471162c91804a420ae0b25b31b2c7f4ac559ed9fdee386f8"
+}

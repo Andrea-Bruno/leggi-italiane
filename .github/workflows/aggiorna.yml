@@ -1,0 +1,58 @@
+name: Aggiorna leggi
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      codice:
+        description: "Codice da sincronizzare (vuoto = tutti)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna-leggi
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Test delle regole di lettura
+        run: python -m unittest discover -s tests
+
+      - name: Sincronizzazione da Normattiva
+        run: |
+          if [ -n "${{ inputs.codice }}" ]; then
+            python -m sync --codice "${{ inputs.codice }}"
+          else
+            python -m sync
+          fi
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica: il repository e' gia' aggiornato."
+            exit 0
+          fi
+          DATA=$(python -c "import json;print(json.load(open('data/indice.json',encoding='utf-8'))['aggiornato_al'])")
+          FILE=$(git diff --cached --name-only | wc -l)
+          git commit -m "Aggiornamento al $DATA" -m "File modificati: $FILE. Fonte: Normattiva."
+          git push

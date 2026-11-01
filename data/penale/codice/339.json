@@ -1,0 +1,115 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "339",
+    "rubrica": "Circostanze aggravanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art339"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le pene stabilite nei tre articoli precedenti sono aumentate se la violenza o la minaccia e' commessa nel corso di manifestazioni in luogo pubblico o aperto al pubblico ovvero con armi, o da persona travisata, o da piu' persone riunite, o con scritto anonimo, o in modo simbolico, o valendosi della forza intimidatrice derivante da segrete associazioni, esistenti o supposte. Se la violenza o la minaccia e' commessa da piu' di cinque persone riunite, mediante uso di armi anche soltanto da parte di una di esse, ovvero da piu' di dieci persone, pur senza uso di armi, la pena e', nei casi preveduti dalla prima parte dell'articolo 336 e dagli articoli 337 e 338, della reclusione da tre a quindici anni, e, nel caso preveduto dal capoverso dell'articolo 336, della reclusione da due a otto anni. Le disposizioni di cui al secondo comma si applicano anche, salvo che il fatto costituisca piu' grave reato, nel caso in cui la violenza o la minaccia sia commessa mediante il lancio o l'utilizzo di corpi contundenti o altri oggetti atti ad offendere, compresi gli artifici pirotecnici, in modo da creare pericolo alle persone. Le disposizioni del primo comma si applicano anche se la violenza o la minaccia e' commessa al fine di impedire la realizzazione di infrastrutture destinate all'erogazione di energia, di servizi di trasporto, di telecomunicazioni o di altri servizi pubblici.",
+    "con_marcatori": "Art. 339. (Circostanze aggravanti) Le pene stabilite nei tre articoli precedenti sono aumentate se la violenza o la minaccia e' commessa nel corso di manifestazioni in luogo pubblico o aperto al pubblico ovvero con armi, o da persona travisata, o da piu' persone riunite, o con scritto anonimo, o in modo simbolico, o valendosi della forza intimidatrice derivante da segrete associazioni, esistenti o supposte. Se la violenza o la minaccia e' commessa da piu' di cinque persone riunite, mediante uso di armi anche soltanto da parte di una di esse, ovvero da piu' di dieci persone, pur senza uso di armi, la pena e', nei casi preveduti dalla prima parte dell'articolo 336 e dagli articoli 337 e 338, della reclusione da tre a quindici anni, e, nel caso preveduto dal capoverso dell'articolo 336, della reclusione da due a otto anni. Le disposizioni di cui al secondo comma si applicano anche, salvo che il fatto costituisca piu' grave reato, nel caso in cui la violenza o la minaccia sia commessa mediante il lancio o l'utilizzo di corpi contundenti o altri oggetti atti ad offendere, compresi gli artifici pirotecnici, in modo da creare pericolo alle persone. ((Le disposizioni del primo comma si applicano anche se la violenza o la minaccia e' commessa al fine di impedire la realizzazione di infrastrutture destinate all'erogazione di energia, di servizi di trasporto, di telecomunicazioni o di altri servizi pubblici.)) (6)",
+    "caratteri": 1383
+  },
+  "note": [
+    {
+      "numero": 6,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 288",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;288",
+          "data": "1944-09-14",
+          "numero": "288",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "articoli 336",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "338",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "339",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "341",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "342",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "343 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288 ha disposto (con l'art. 4, comma 1) che \"Non si applicano le disposizioni degli articoli 336, 337, 338, 339, 341, 342, 343 del Codice penale quando il pubblico ufficiale o l'incaricato di un pubblico servizio ovvero il pubblico impiegato abbia dato causa al fatto preveduto negli stessi articoli, eccedendo con atti arbitrari i limiti delle sue attribuzioni\". Ha inoltre disposto (con l'art. 1, comma 1) che le presenti modifiche sono apportate fino a quando non sia pubblicato il nuovo Codice penale."
+    }
+  ],
+  "impronta": "sha256:f545ff87a98417c2f3370e63802803a95b2a712c2393a0c2cf9058163a395753"
+}

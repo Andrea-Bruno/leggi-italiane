@@ -1,0 +1,206 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1284",
+    "rubrica": "Saggio degli interessi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1284"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il saggio degli interessi legali e' determinato in misura pari al 5 per cento in ragione d'anno. Il Ministro del tesoro, con proprio decreto pubblicato nella Gazzetta Ufficiale della Repubblica italiana non oltre il 15 dicembre dell'anno precedente a quello cui il saggio si riferisce, puo' modificarne annualmente la misura, sulla base del rendimento medio annuo lordo dei titoli di Stato di durata non superiore a dodici mesi e tenuto conto del tasso di inflazione registrato nell'anno. Qualora entro il 15 dicembre non sia fissata una nuova misura del saggio, questo rimane invariato per l'anno successivo. (129a) (140a) (151a) (161a) (193a) (211a) (221a) (237a) (244a) (252a) (260a) (321a) (336a) Allo stesso saggio si computano gli interessi convenzionali, se le parti non ne hanno determinato la misura. Gli interessi superiori alla misura legale devono essere determinati per iscritto; altrimenti sono dovuti nella misura legale. Se le parti non ne hanno determinato la misura, dal momento in cui e' proposta domanda giudiziale il saggio degli interessi legali e' pari a quello previsto dalla legislazione speciale relativa ai ritardi di pagamento nelle transazioni commerciali. La disposizione del quarto comma si applica anche all'atto con cui si promuove il procedimento arbitrale. --------------- AGGIORNAMENTO (129a) Il Decreto 10 dicembre 1998 (in G.U. 11/12/1998, n. 289) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 2,5 per cento in ragione d'anno, con decorrenza dal 1 gennaio 1999\". --------------- AGGIORNAMENTO (140a) Il Decreto 11 dicembre 2000 (in G.U. 15/12/2000, n. 292) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 3,5 per cento in ragione d'anno, con decorrenza dal 1o gennaio 2001\". --------------- AGGIORNAMENTO (151a) Il Decreto 11 dicembre 2001 (in G.U. 14/12/2001, n. 290) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 3 per cento in ragione d'anno, con decorrenza dal 1 gennaio 2002\". --------------- AGGIORNAMENTO (161a) Il Decreto 1 dicembre 2003 (in G.U. 10/12/2003, n. 286) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 2,5 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2004\". --------------- AGGIORNAMENTO (193a) Il Decreto 12 dicembre 2007 (in G.U. 15/12/2007, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 3 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2008\". --------------- AGGIORNAMENTO (207a) Il Decreto 4 dicembre 2009 (in G.U. 15/12/2009, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata all'1% in ragione d'anno, con decorrenza dal 1° gennaio 2010\". --------------- AGGIORNAMENTO (211a) Il Decreto 7 dicembre 2010 (in G.U. 15/12/2010, n. 292) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata all'1,5% in ragione d'anno, con decorrenza dal 1° gennaio 2011\". --------------- AGGIORNAMENTO (221a) Il Decreto 12 dicembre 2011 (in G.U. 15/12/2011, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 2,5% in ragione d'anno, con decorrenza dal 1° gennaio 2012\". --------------- AGGIORNAMENTO (237a) Il Decreto 12 dicembre 2013 (in G.U. 13/12/2013, n. 292) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata all'1 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2014\".",
+    "con_marcatori": "Art. 1284. (Saggio degli interessi). Il saggio degli interessi legali e' determinato in misura pari al 5 per cento in ragione d'anno. Il Ministro del tesoro, con proprio decreto pubblicato nella Gazzetta Ufficiale della Repubblica italiana non oltre il 15 dicembre dell'anno precedente a quello cui il saggio si riferisce, puo' modificarne annualmente la misura, sulla base del rendimento medio annuo lordo dei titoli di Stato di durata non superiore a dodici mesi e tenuto conto del tasso di inflazione registrato nell'anno. Qualora entro il 15 dicembre non sia fissata una nuova misura del saggio, questo rimane invariato per l'anno successivo. (129a) (140a) (151a) (161a) (193a) (211a) (221a) (237a) (244a) (252a) (260a)(276) (280) (299) (307) (314) (321a) (327)(336a) ((348)) Allo stesso saggio si computano gli interessi convenzionali, se le parti non ne hanno determinato la misura. Gli interessi superiori alla misura legale devono essere determinati per iscritto; altrimenti sono dovuti nella misura legale. Se le parti non ne hanno determinato la misura, dal momento in cui e' proposta domanda giudiziale il saggio degli interessi legali e' pari a quello previsto dalla legislazione speciale relativa ai ritardi di pagamento nelle transazioni commerciali. (242) La disposizione del quarto comma si applica anche all'atto con cui si promuove il procedimento arbitrale. (242) --------------- AGGIORNAMENTO (129a) Il Decreto 10 dicembre 1998 (in G.U. 11/12/1998, n. 289) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 2,5 per cento in ragione d'anno, con decorrenza dal 1 gennaio 1999\". --------------- AGGIORNAMENTO (140a) Il Decreto 11 dicembre 2000 (in G.U. 15/12/2000, n. 292) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 3,5 per cento in ragione d'anno, con decorrenza dal 1o gennaio 2001\". --------------- AGGIORNAMENTO (151a) Il Decreto 11 dicembre 2001 (in G.U. 14/12/2001, n. 290) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 3 per cento in ragione d'anno, con decorrenza dal 1 gennaio 2002\". --------------- AGGIORNAMENTO (161a) Il Decreto 1 dicembre 2003 (in G.U. 10/12/2003, n. 286) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 2,5 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2004\". --------------- AGGIORNAMENTO (193a) Il Decreto 12 dicembre 2007 (in G.U. 15/12/2007, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 3 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2008\". --------------- AGGIORNAMENTO (207a) Il Decreto 4 dicembre 2009 (in G.U. 15/12/2009, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata all'1% in ragione d'anno, con decorrenza dal 1° gennaio 2010\". --------------- AGGIORNAMENTO (211a) Il Decreto 7 dicembre 2010 (in G.U. 15/12/2010, n. 292) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata all'1,5% in ragione d'anno, con decorrenza dal 1° gennaio 2011\". --------------- AGGIORNAMENTO (221a) Il Decreto 12 dicembre 2011 (in G.U. 15/12/2011, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 2,5% in ragione d'anno, con decorrenza dal 1° gennaio 2012\". --------------- AGGIORNAMENTO (237a) Il Decreto 12 dicembre 2013 (in G.U. 13/12/2013, n. 292) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata all'1 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2014\".",
+    "caratteri": 3980
+  },
+  "note": [
+    {
+      "numero": 242,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 12 settembre 2014, n. 132",
+          "urn": "urn:nir:stato:decretoLegge:2014-09-12;132",
+          "data": "2014-09-12",
+          "numero": "132",
+          "data_gazzetta": "2014-09-12"
+        },
+        {
+          "denominazione": "L. 10 novembre 2014, n. 162",
+          "urn": "urn:nir:stato:legge:2014-11-10;162",
+          "data": "2014-11-10",
+          "numero": "162",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 12 settembre 2014, n. 132 convertito con modificazioni dalla L. 10 novembre 2014, n. 162 ha disposto (con l'art. 17, comma 2) che le presenti modifiche producono effetti rispetto ai procedimenti iniziati a decorrere dal trentesimo giorno successivo all'entrata in vigore della legge di conversione del decreto medesimo. --------------- AGGIORNAMENTO (244a) Il Decreto 11 dicembre 2014 (in G.U. 15/12/2014, n. 290) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata allo 0,5 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2015\". --------------- AGGIORNAMENTO (252a) Il Decreto 11 dicembre 2015 (in G.U. 15/12/2015, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata allo 0,2 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2016\". --------------- AGGIORNAMENTO (260a) Il Decreto 7 dicembre 2016 (in G.U. 14/12/2016, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata allo 0,1 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2017\"."
+    },
+    {
+      "numero": 276,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 13 dicembre 2017 (in G.U. 15/12/2017, n. 292) ha disposto (con l'art. 1, comam 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata allo 0,3 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2018\"."
+    },
+    {
+      "numero": 280,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 12 dicembre 2018 (in G.U. 15/12/2018, n. 291) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata allo 0,8 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2019\"."
+    },
+    {
+      "numero": 299,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articolo 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 12 dicembre 2019 (in G.U. 14/12/2019, n. 293) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata allo 0,05 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2020\"."
+    },
+    {
+      "numero": 307,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 11 dicembre 2020 (in G.U. 15/12/2020, n. 310) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata allo 0,01 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2021\"."
+    },
+    {
+      "numero": 314,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 13 dicembre 2021 (in G.U. 15/12/2021, n. 297) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata all'1,25 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2022\". --------------- AGGIORNAMENTO (321a) Il Decreto 13 dicembre 2022 (in G.U. 15/12/2022, n. 292) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 5 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2023\"."
+    },
+    {
+      "numero": 327,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 29 novembre 2023 (in G.U. 11/12/2023, n. 288) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'articolo 1284 del codice civile e' fissata al 2,50 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2024\". --------------- AGGIORNAMENTO (336a) Il Decreto 10 dicembre 2024 (in G.U. 16/12/2024, n. 294) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata al 2 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2025\"."
+    },
+    {
+      "numero": 348,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1284 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Decreto 10 dicembre 2025 (in G.U. 13/12/2025, n. 289) ha disposto (con l'art. 1, comma 1) che \"La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata all'1,60 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2026\"."
+    }
+  ],
+  "impronta": "sha256:71892a4c1c9305e2a3c9f682d07fe946f5dcae29f5500eb2f80202a6040b2d04"
+}

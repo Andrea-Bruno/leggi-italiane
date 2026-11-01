@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "570-bis",
+    "rubrica": "Violazione degli obblighi di assistenza familiare in caso di separazione o di scioglimento del matrimonio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art570-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le pene previste dall'articolo 570 si applicano al coniuge che si sottrae all'obbligo di corresponsione di ogni tipologia di assegno dovuto in caso di scioglimento, di cessazione degli effetti civili o di nullita' del matrimonio ovvero viola gli obblighi di natura economica in materia di separazione dei coniugi e di affidamento condiviso dei figli.",
+    "con_marcatori": "Art. 570-bis. (( (Violazione degli obblighi di assistenza familiare in caso di separazione o di scioglimento del matrimonio). )) ((Le pene previste dall'articolo 570 si applicano al coniuge che si sottrae all'obbligo di corresponsione di ogni tipologia di assegno dovuto in caso di scioglimento, di cessazione degli effetti civili o di nullita' del matrimonio ovvero viola gli obblighi di natura economica in materia di separazione dei coniugi e di affidamento condiviso dei figli.))",
+    "caratteri": 350
+  },
+  "note": [],
+  "impronta": "sha256:6441304d490ea10e1026c1dff9606a99795f8d8b122fdf545d8cbb0962924333"
+}

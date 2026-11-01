@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "4",
+    "rubrica": "Cittadino italiano. Territorio dello Stato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art4"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Agli effetti della legge penale, sono considerati cittadini italiani i cittadini delle colonie, i sudditi coloniali, gli appartenenti per origine o per elezione ai luoghi soggetti alla sovranita' dello Stato e gli apolidi residenti nel territorio dello Stato. Agli effetti della legge penale, e' territorio dello Stato il territorio del Regno, quello delle colonie e ogni altro luogo soggetto alla sovranita' dello Stato. Le navi e gli aeromobili italiani sono considerati come territorio dello Stato, ovunque si trovino, salvo che siano soggetti, secondo il diritto internazionale, a una legge territoriale straniera.",
+    "con_marcatori": "Art. 4. (Cittadino italiano. Territorio dello Stato) Agli effetti della legge penale, sono considerati cittadini italiani i cittadini delle colonie, i sudditi coloniali, gli appartenenti per origine o per elezione ai luoghi soggetti alla sovranita' dello Stato e gli apolidi residenti nel territorio dello Stato. Agli effetti della legge penale, e' territorio dello Stato il territorio del Regno, quello delle colonie e ogni altro luogo soggetto alla sovranita' dello Stato. Le navi e gli aeromobili italiani sono considerati come territorio dello Stato, ovunque si trovino, salvo che siano soggetti, secondo il diritto internazionale, a una legge territoriale straniera.",
+    "caratteri": 618
+  },
+  "note": [],
+  "impronta": "sha256:764bcaacdfbc7576bf568912ef609f44b4b1c03d6e10e5fcc9574e00cda3f8a1"
+}

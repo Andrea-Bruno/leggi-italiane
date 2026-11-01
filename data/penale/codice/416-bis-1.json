@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "416-bis.1",
+    "rubrica": "Circostanze aggravanti e attenuanti per reati connessi ad attivita' mafiose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per i delitti punibili con pena diversa dall'ergastolo commessi avvalendosi delle condizioni previste dall'articolo 416-bis ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo, la pena e' aumentata da un terzo alla meta'. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114 concorrenti con l'aggravante di cui al primo comma non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alla predetta aggravante. Per i delitti di cui all'articolo 416-bis e per quelli commessi avvalendosi delle condizioni previste dal predetto articolo ovvero al fine di agevolare l'attivita' delle associazioni di tipo mafioso, nei confronti dell'imputato che, dissociandosi dagli altri, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori anche aiutando concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura degli autori dei reati, la pena dell'ergastolo e' sostituita da quella della reclusione da dodici a venti anni e le altre pene sono diminuite da un terzo alla meta'. Nei casi previsti dal terzo comma non si applicano le disposizioni di cui al primo e secondo comma. Per i delitti aggravati dalla circostanza di cui al primo comma si procede sempre d'ufficio.",
+    "con_marcatori": "Art. 416-bis.1 (Circostanze aggravanti e attenuanti per reati connessi ad attivita' mafiose) Per i delitti punibili con pena diversa dall'ergastolo commessi avvalendosi delle condizioni previste dall'articolo 416-bis ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo, la pena e' aumentata da un terzo alla meta'. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114 concorrenti con l'aggravante di cui al primo comma non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alla predetta aggravante. Per i delitti di cui all'articolo 416-bis e per quelli commessi avvalendosi delle condizioni previste dal predetto articolo ovvero al fine di agevolare l'attivita' delle associazioni di tipo mafioso, nei confronti dell'imputato che, dissociandosi dagli altri, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori anche aiutando concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura degli autori dei reati, la pena dell'ergastolo e' sostituita da quella della reclusione da dodici a venti anni e le altre pene sono diminuite da un terzo alla meta'. Nei casi previsti dal terzo comma non si applicano le disposizioni di cui al primo e secondo comma. ((Per i delitti aggravati dalla circostanza di cui al primo comma si procede sempre d'ufficio)).",
+    "caratteri": 1467
+  },
+  "note": [],
+  "impronta": "sha256:920a55917aa2ae82cf5840fce2217e506b39b3537008628c1686d260b079c892"
+}

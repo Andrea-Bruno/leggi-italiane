@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "81",
+    "rubrica": "Risarcimento dei danni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art81"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La promessa di matrimonio fatta vicendevolmente per atto pubblico o per scrittura privata da una persona maggiore di eta' o dal minore ammesso a contrarre matrimonio a norma dell'articolo 84, oppure risultante dalla richiesta della pubblicazione, obbliga il promittente che senza giusto motivo ricusi di eseguirla a risarcire il danno cagionato all'altra parte per le spese fatte e per le obbligazioni contratte a causa di quella promessa. Il danno e' risarcito entro il limite in cui le spese e le obbligazioni corrispondono alla condizione delle parti. Lo stesso risarcimento e' dovuto dal promittente che con la propria colpa ha dato giusto motivo al rifiuto dell'altro. La domanda non e' proponibile dopo un anno dal giorno del rifiuto di celebrare il matrimonio.",
+    "con_marcatori": "Art. 81. ((Risarcimento dei danni.)) ((La promessa di matrimonio fatta vicendevolmente per atto pubblico o per scrittura privata da una persona maggiore di eta' o dal minore ammesso a contrarre matrimonio a norma dell'articolo 84, oppure risultante dalla richiesta della pubblicazione, obbliga il promittente che senza giusto motivo ricusi di eseguirla a risarcire il danno cagionato all'altra parte per le spese fatte e per le obbligazioni contratte a causa di quella promessa. Il danno e' risarcito entro il limite in cui le spese e le obbligazioni corrispondono alla condizione delle parti.)) Lo stesso risarcimento e' dovuto dal promittente che con la propria colpa ha dato giusto motivo al rifiuto dell'altro. La domanda non e' proponibile dopo un anno dal giorno del rifiuto di celebrare il matrimonio.",
+    "caratteri": 767
+  },
+  "note": [],
+  "impronta": "sha256:7885550db2f172c94d91ebd7f8a451df559eb74a5530ad743e55e8a886806968"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "193",
+    "rubrica": "Atti a titolo oneroso compiuti dal colpevole dopo il reato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art193"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti a titolo oneroso, eccedenti la semplice amministrazione ovvero la gestione dell'ordinario commercio, i quali siano compiuti dal colpevole dopo il reato, si presumono fatti in frode rispetto ai crediti indicati nell'articolo 189. Nondimeno, per la revoca dell'atto, e' necessaria la prova della mala fede dell'altro contraente.",
+    "con_marcatori": "Art. 193. (Atti a titolo oneroso compiuti dal colpevole dopo il reato) Gli atti a titolo oneroso, eccedenti la semplice amministrazione ovvero la gestione dell'ordinario commercio, i quali siano compiuti dal colpevole dopo il reato, si presumono fatti in frode rispetto ai crediti indicati nell'articolo 189. Nondimeno, per la revoca dell'atto, e' necessaria la prova della mala fede dell'altro contraente.",
+    "caratteri": 335
+  },
+  "note": [],
+  "impronta": "sha256:49d1d7854c87eb8ca6ab4c12d9876f0c77d38a79e2aa1f8e7afef8cfbb815b67"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "182",
+    "rubrica": "Amministrazione affidata ad uno solo dei coniugi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art182"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di lontananza o di altro impedimento di uno dei coniugi l'altro, in mancanza di procura del primo risultante da atto pubblico o da scrittura privata autenticata, puo' compiere, previa autorizzazione del giudice e con le cautele eventualmente da questo stabilite, gli atti necessari per i quali e' richiesto, a norma dell'articolo 180, il consenso di entrambi i coniugi. Nel caso di gestione comune di azienda, uno dei coniugi puo' essere delegato dall'altro al compimento di tutti gli atti necessari all'attivita' dell'impresa.",
+    "con_marcatori": "Art. 182. ((Amministrazione affidata ad uno solo dei coniugi.)) ((In caso di lontananza o di altro impedimento di uno dei coniugi l'altro, in mancanza di procura del primo risultante da atto pubblico o da scrittura privata autenticata, puo' compiere, previa autorizzazione del giudice e con le cautele eventualmente da questo stabilite, gli atti necessari per i quali e' richiesto, a norma dell'articolo 180, il consenso di entrambi i coniugi. Nel caso di gestione comune di azienda, uno dei coniugi puo' essere delegato dall'altro al compimento di tutti gli atti necessari all'attivita' dell'impresa)).",
+    "caratteri": 535
+  },
+  "note": [],
+  "impronta": "sha256:f61cfc6be4ff50d329e7e7a313967348b0a9e41b53761b3ac3cfaf1c81f70367"
+}

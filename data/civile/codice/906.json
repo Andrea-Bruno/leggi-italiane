@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "906",
+    "rubrica": "Distanza per l'apertura di vedute laterali od oblique",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art906"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non si possono aprire vedute laterali od oblique sul fondo del vicino se non si osserva la distanza di settantacinque centimetri, la quale deve misurarsi dal piu' vicino lato della finestra o dal piu' vicino sporto.",
+    "con_marcatori": "Art. 906. (Distanza per l'apertura di vedute laterali od oblique). Non si possono aprire vedute laterali od oblique sul fondo del vicino se non si osserva la distanza di settantacinque centimetri, la quale deve misurarsi dal piu' vicino lato della finestra o dal piu' vicino sporto.",
+    "caratteri": 215
+  },
+  "note": [],
+  "impronta": "sha256:fcf01ee5d6f060db19fabb775e208107fef6f4b7abe13e1a4c23c66dc0fb108f"
+}

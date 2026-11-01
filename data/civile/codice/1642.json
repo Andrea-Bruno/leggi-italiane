@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1642",
+    "rubrica": "Proprieta' del bestiame consegnato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1642"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora il bestiame consegnato all'affittuario sia stato determinato con indicazione della specie, del numero, del sesso, della qualita', dell'eta' e del peso, anche se ne e' stata fatta stima, la proprieta' di esso rimane al locatore. Tuttavia l'affittuario puo' disporre dei singoli capi, ma deve mantenere nel fondo la dotazione necessaria.",
+    "con_marcatori": "Art. 1642. (Proprieta' del bestiame consegnato). Qualora il bestiame consegnato all'affittuario sia stato determinato con indicazione della specie, del numero, del sesso, della qualita', dell'eta' e del peso, anche se ne e' stata fatta stima, la proprieta' di esso rimane al locatore. Tuttavia l'affittuario puo' disporre dei singoli capi, ma deve mantenere nel fondo la dotazione necessaria.",
+    "caratteri": 343
+  },
+  "note": [],
+  "impronta": "sha256:eaa6ea511dc76697ea6bc5480d351bee7fb00a14e71d745581b349bd9f9084cb"
+}

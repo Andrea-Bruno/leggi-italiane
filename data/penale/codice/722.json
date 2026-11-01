@@ -1,0 +1,139 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "722",
+    "rubrica": "Pena accessoria e misura di sicurezza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art722"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La condanna per alcuna delle contravvenzioni prevedute dagli articoli precedenti importa la pubblicazione della sentenza. E' sempre ordinata la confisca del denaro esposto nel giuoco e degli arnesi od oggetti ad esso destinati.",
+    "con_marcatori": "Art. 722. (Pena accessoria e misura di sicurezza) La condanna per alcuna delle contravvenzioni prevedute dagli articoli precedenti importa la pubblicazione della sentenza. E' sempre ordinata la confisca del denaro esposto nel giuoco e degli arnesi od oggetti ad esso destinati. (102) ((157))",
+    "caratteri": 227
+  },
+  "note": [
+    {
+      "numero": 102,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 11 dicembre 1984, n. 848",
+          "urn": "urn:nir:stato:legge:1984-12-11;848",
+          "data": "1984-12-11",
+          "numero": "848",
+          "data_gazzetta": "1984-12-18"
+        },
+        {
+          "denominazione": "articoli da 718",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "a 722 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 110 del testo unico delle leggi di pubblica sicurezza",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "regio decreto 18 giugno 1931, n. 773",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 11 dicembre 1984, n. 848 ha disposto (con l'art. 25, comma 1) che \"Le disposizioni di cui agli articoli da 718 a 722 del codice penale e all'articolo 110 del testo unico delle leggi di pubblica sicurezza approvato con regio decreto 18 giugno 1931, n. 773, non si applicano ai fatti commessi a bordo delle navi adibite a crociera durante il periodo di navigazione oltre lo Stretto di Gibilterra ed il Canale di Suez\"."
+    },
+    {
+      "numero": 157,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articoli da 718",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "a 722 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 110 del testo unico delle leggi di pubblica sicurezza",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "regio decreto 18 giugno 1931, n. 773",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 30 dicembre 1997, n. 457",
+          "urn": "urn:nir:stato:decretoLegge:1997-12-30;457",
+          "data": "1997-12-30",
+          "numero": "457",
+          "data_gazzetta": "1997-12-31"
+        },
+        {
+          "denominazione": "L. 27 febbraio 1998, n. 30",
+          "urn": "urn:nir:stato:legge:1998-02-27;30",
+          "data": "1998-02-27",
+          "numero": "30",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 30 dicembre 1997, n. 457 convertito con modificazioni dalla L. 27 febbraio 1998, n. 30 ha disposto (con l'art. 5, comma 3) che \"Le disposizioni di cui agli articoli da 718 a 722 del codice penale e all'articolo 110 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, non si applicano ai fatti commessi a bordo delle navi passeggeri iscritte nel Registro internazionale, durante il periodo di navigazione al di la' del mare territoriale\"."
+    }
+  ],
+  "impronta": "sha256:e82677fbec8d638e27eabc7a552c8224436b15069498e5e7b0b9633e9e7d1b06"
+}

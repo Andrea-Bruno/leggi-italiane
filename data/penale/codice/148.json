@@ -1,0 +1,100 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "148",
+    "rubrica": "Infermita' psichica sopravvenuta al condannato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art148"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 67,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Se, prima dell'esecuzione di una pena restrittiva della liberta' personale o durante l'esecuzione, sopravviene al condannato una infermita' psichica, il giudice, qualora ritenga che l'infermita' sia tale da impedire l'esecuzione della pena, ordina che questa sia differita o sospesa e che il condannato sia ricoverato in un manicomio giudiziario, ovvero in una casa di cura e di custodia. Il giudice puo' disporre che il condannato, invece che in un manicomio giudiziario, sia ricoverato in un manicomio comune, se la pena inflittagli sia inferiore a tre anni di reclusione o di arresto, e non si tratti di delinquente o contravventore abituale o professionale, o di delinquente per tendenza. La disposizione precedente si applica anche nel caso in cui, per infermita' psichica sopravvenuta, il condannato alla pena di morte deve essere ricoverato in un manicomio giudiziario. Il provvedimento di ricovero e' revocato, e il condannato e' sottoposto all'esecuzione della pena, quando sono venute meno le ragioni che hanno determinato tale provvedimento.",
+    "con_marcatori": "Art. 148. (Infermita' psichica sopravvenuta al condannato) Se, prima dell'esecuzione di una pena restrittiva della liberta' personale o durante l'esecuzione, sopravviene al condannato una infermita' psichica, il giudice, qualora ritenga che l'infermita' sia tale da impedire l'esecuzione della pena, ordina che questa sia differita o sospesa e che il condannato sia ricoverato in un manicomio giudiziario, ovvero in una casa di cura e di custodia. Il giudice puo' disporre che il condannato, invece che in un manicomio giudiziario, sia ricoverato in un manicomio comune, se la pena inflittagli sia inferiore a tre anni di reclusione o di arresto, e non si tratti di delinquente o contravventore abituale o professionale, o di delinquente per tendenza. La disposizione precedente si applica anche nel caso in cui, per infermita' psichica sopravvenuta, il condannato alla pena di morte deve essere ricoverato in un manicomio giudiziario.(5) Il provvedimento di ricovero e' revocato, e il condannato e' sottoposto all'esecuzione della pena, quando sono venute meno le ragioni che hanno determinato tale provvedimento. ((67))",
+    "caratteri": 1052
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 67,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 148 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1975-06-19",
+        "numero": "146"
+      },
+      "testo": "La Corte Costituzionale con sentenza 6-19 giugno 1975, n. 146 (in G.U. 1ª s.s. 25/06/1975, n. 166) ha dichiarato \"1) l'illegittimita' costituzionale dell'art. 148 del codice penale, nella parte in cui prevede che il giudice, nel disporre il ricovero in manicomio giudiziario del condannato caduto in stato d'infermita' psichica durante l'esecuzione di pena restrittiva della liberta' personale, ordini che la pena medesima sia sospesa; 2) in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, dichiara altresi' l'illegittimita' costituzionale dello stesso art. 148 del codice penale, nella parte in cui prevede che il giudice ordini la sospensione della pena anche nel caso in cui il condannato sia ricoverato in una casa di cura e di custodia ovvero in un manicomio comune (ospedale psichiatrico)\"."
+    }
+  ],
+  "impronta": "sha256:dcfb62f9a5ca1c90fc70c00de4ca7bc479f70ebd1538b015dbda7911fa13c47e"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2530",
+    "rubrica": "Trasferibilita' della quota o delle azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2530"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La quota o le azioni dei soci cooperatori non possono essere cedute con effetto verso la societa', se la cessione non e' autorizzata dagli amministratori. Il socio che intende trasferire la propria quota o le proprie azioni deve darne comunicazione agli amministratori con lettera raccomandata. Il provvedimento che concede o nega l'autorizzazione deve essere comunicato al socio entro sessanta giorni dal ricevimento della richiesta. Decorso tale termine, il socio e' libero di trasferire la propria partecipazione e la societa' deve iscrivere nel libro dei soci l'acquirente che abbia i requisiti previsti per divenire socio. Il provvedimento che nega al socio l'autorizzazione deve essere motivato. Contro il diniego il socio entro sessanta giorni dal ricevimento della comunicazione puo' proporre opposizione al tribunale. Qualora l'atto costitutivo vieti la cessione della quota o delle azioni il socio puo' recedere dalla societa' con preavviso di novanta giorni. Il diritto di recesso, in caso di divieto statutario di trasferimento della partecipazione, non puo' essere esercitato prima che siano decorsi due anni dall'ingresso del socio nella societa'.",
+    "con_marcatori": "Art. 2530. (( (Trasferibilita' della quota o delle azioni).)) ((La quota o le azioni dei soci cooperatori non possono essere cedute con effetto verso la societa', se la cessione non e' autorizzata dagli amministratori. Il socio che intende trasferire la propria quota o le proprie azioni deve darne comunicazione agli amministratori con lettera raccomandata. Il provvedimento che concede o nega l'autorizzazione deve essere comunicato al socio entro sessanta giorni dal ricevimento della richiesta. Decorso tale termine, il socio e' libero di trasferire la propria partecipazione e la societa' deve iscrivere nel libro dei soci l'acquirente che abbia i requisiti previsti per divenire socio. Il provvedimento che nega al socio l'autorizzazione deve essere motivato. Contro il diniego il socio entro sessanta giorni dal ricevimento della comunicazione puo' proporre opposizione al tribunale. Qualora l'atto costitutivo vieti la cessione della quota o delle azioni il socio puo' recedere dalla societa' con preavviso di novanta giorni. Il diritto di recesso, in caso di divieto statutario di trasferimento della partecipazione, non puo' essere esercitato prima che siano decorsi due anni dall'ingresso del socio nella societa'.))",
+    "caratteri": 1161
+  },
+  "note": [],
+  "impronta": "sha256:bf5b56ad97a6ec558f29baa82c823a05142a0acc9f4486662f61dd515b834dca"
+}

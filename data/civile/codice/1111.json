@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1111",
+    "rubrica": "Scioglimento della comunione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1111"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascuno dei partecipanti puo' sempre domandare lo scioglimento della comunione; l'autorita' giudiziaria puo' stabilire una congrua dilazione, in ogni caso non superiore a cinque anni, se l'immediato scioglimento puo' pregiudicare gli interessi degli altri. Il patto di rimanere in comunione per un tempo non maggiore di dieci anni e' valido e ha effetto anche per gli aventi causa dai partecipanti. Se e' stato stipulato per un termine maggiore, questo si riduce a dieci anni. Se gravi circostanze lo richiedono, l'autorita' giudiziaria puo' ordinare lo scioglimento della comunione prima del tempo convenuto.",
+    "con_marcatori": "Art. 1111. (Scioglimento della comunione). Ciascuno dei partecipanti puo' sempre domandare lo scioglimento della comunione; l'autorita' giudiziaria puo' stabilire una congrua dilazione, in ogni caso non superiore a cinque anni, se l'immediato scioglimento puo' pregiudicare gli interessi degli altri. Il patto di rimanere in comunione per un tempo non maggiore di dieci anni e' valido e ha effetto anche per gli aventi causa dai partecipanti. Se e' stato stipulato per un termine maggiore, questo si riduce a dieci anni. Se gravi circostanze lo richiedono, l'autorita' giudiziaria puo' ordinare lo scioglimento della comunione prima del tempo convenuto.",
+    "caratteri": 610
+  },
+  "note": [],
+  "impronta": "sha256:17e91458615385f243e4f7376cb94877e4d19754169f7ba7c27a0788769ee0b4"
+}

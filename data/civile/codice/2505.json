@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2505",
+    "rubrica": "Incorporazione di societa' interamente possedute",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2505"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Alla fusione per incorporazione di una societa' in un'altra che possiede tutte le azioni o le quote della prima non si applicano le disposizioni dell'articolo 2501-ter, primo comma, numeri 3), 4) e 5) e degli articoli 2501-quinquies e 2501-sexies. L'atto costitutivo o lo statuto puo' prevedere che la fusione per incorporazione di una societa' in un'altra che possiede tutte le azioni o le quote della prima sia decisa, con deliberazione risultante da atto pubblico, dai rispettivi organi amministrativi, sempre che siano rispettate, con riferimento a ciascuna delle societa' partecipanti alla fusione, le disposizioni dell'articolo 2501-ter, terzo e quarto comma, nonche', quanto alla societa' incorporante, quelle dell'articolo 2501-septies. I soci della societa' incorporante che rappresentano almeno il cinque per cento del capitale sociale possono in ogni caso, con domanda indirizzata alla societa' entro otto giorni dal deposito o dalla pubblicazione di cui al terzo comma dell'articolo 2501-ter, chiedere che la decisione di approvazione della fusione da parte della incorporante medesima sia adottata a norma del primo comma dell'articolo 2502.",
+    "con_marcatori": "Art. 2505. (Incorporazione di societa' interamente possedute). Alla fusione per incorporazione di una societa' in un'altra che possiede tutte le azioni o le quote della prima non si applicano le disposizioni dell'articolo 2501-ter, primo comma, numeri 3), 4) e 5) e degli articoli 2501-quinquies e 2501-sexies. L'atto costitutivo o lo statuto puo' prevedere che la fusione per incorporazione di una societa' in un'altra che possiede tutte le azioni o le quote della prima sia decisa, con deliberazione risultante da atto pubblico, dai rispettivi organi amministrativi, sempre che siano rispettate, con riferimento a ciascuna delle societa' partecipanti alla fusione, ((le disposizioni dell'articolo 2501-ter, terzo e quarto comma, nonche', quanto alla societa' incorporante, quelle dell'articolo 2501-septies)). I soci della societa' incorporante che rappresentano almeno il cinque per cento del capitale sociale possono in ogni caso, con domanda indirizzata alla societa' entro otto giorni dal deposito ((o dalla pubblicazione)) di cui al terzo comma dell'articolo 2501-ter, chiedere che la decisione di approvazione della fusione da parte della incorporante medesima sia adottata a norma del primo comma dell'articolo 2502.",
+    "caratteri": 1154
+  },
+  "note": [],
+  "impronta": "sha256:3b7e6797daa026c2d9c9fb7efbb2f1c0c0b5d183bcd9470de95b4859659af3e8"
+}

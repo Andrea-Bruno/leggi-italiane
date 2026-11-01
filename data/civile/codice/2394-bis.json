@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2394-bis",
+    "rubrica": "Azioni di responsabilita' nelle procedure concorsuali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2394-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di liquidazione giudiziale, concordato liquidatorio,, liquidazione coatta amministrativa e amministrazione straordinaria le azioni di responsabilita' previste dai precedenti articoli spettano al curatore, al liquidatore giudiziale, al commissario liquidatore e al commissario straordinario. Le azioni di cui al primo periodo sono proposte, a pena di decadenza, nel termine di due anni dalla sentenza di apertura della liquidazione giudiziale o dalla sentenza che dichiara lo stato di insolvenza.",
+    "con_marcatori": "Art. 2394-bis. (Azioni di responsabilita' nelle procedure concorsuali). In caso ((di liquidazione giudiziale, concordato liquidatorio,)), liquidazione coatta amministrativa e amministrazione straordinaria le azioni di responsabilita' previste dai precedenti articoli spettano ((al curatore, al liquidatore giudiziale)), al commissario liquidatore e al commissario straordinario. ((Le azioni di cui al primo periodo sono proposte, a pena di decadenza, nel termine di due anni dalla sentenza di apertura della liquidazione giudiziale o dalla sentenza che dichiara lo stato di insolvenza.))",
+    "caratteri": 503
+  },
+  "note": [],
+  "impronta": "sha256:21a39157c21978df35d02354973d78e33b44d8e62cc7d49784370af14befbac7"
+}

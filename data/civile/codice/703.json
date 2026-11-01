@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "703",
+    "rubrica": "Funzioni dell'esecutore testamentario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art703"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esecutore testamentario deve curare che siano esattamente eseguite le disposizioni di ultima volonta' del defunto. A tal fine, salvo contraria volonta' del testatore, egli deve amministrare la massa ereditaria, prendendo possesso dei beni che ne fanno parte. Il possesso non puo' durare piu' di un anno dalla dichiarazione di accettazione, salvo che l'autorita' giudiziaria, per motivi di evidente necessita', sentiti gli eredi, ne prolunghi la durata, che non potra' mai superare un altro anno. L'esecutore deve amministrare come un buon padre di famiglia e puo' compiere tutti gli atti di gestione occorrenti. Quando e' necessario alienare beni dell'eredita', ne chiede l'autorizzazione all'autorita' giudiziaria, la quale provvede sentiti gli eredi. Qualsiasi atto dell'esecutore testamentario non pregiudica il diritto del chiamato a rinunziare all'eredita' o ad accettarla col beneficio d'inventario.",
+    "con_marcatori": "Art. 703. (Funzioni dell'esecutore testamentario). L'esecutore testamentario deve curare che siano esattamente eseguite le disposizioni di ultima volonta' del defunto. A tal fine, salvo contraria volonta' del testatore, egli deve amministrare la massa ereditaria, prendendo possesso dei beni che ne fanno parte. Il possesso non puo' durare piu' di un anno dalla dichiarazione di accettazione, salvo che l'autorita' giudiziaria, per motivi di evidente necessita', sentiti gli eredi, ne prolunghi la durata, che non potra' mai superare un altro anno. L'esecutore deve amministrare come un buon padre di famiglia e puo' compiere tutti gli atti di gestione occorrenti. Quando e' necessario alienare beni dell'eredita', ne chiede l'autorizzazione all'autorita' giudiziaria, la quale provvede sentiti gli eredi. Qualsiasi atto dell'esecutore testamentario non pregiudica il diritto del chiamato a rinunziare all'eredita' o ad accettarla col beneficio d'inventario.",
+    "caratteri": 907
+  },
+  "note": [],
+  "impronta": "sha256:2d43c33407b444e4cabdf9dfb2f8a40dcdfd522d73bd1859ae42bff7ffb354e7"
+}

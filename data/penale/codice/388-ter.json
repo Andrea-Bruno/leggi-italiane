@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "388-ter",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art388-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "(Mancata esecuzione fraudolenta di sanzioni pecuniarie). Chiunque, per sottrarsi all'esecuzione di una multa o di una ammenda o di una sanzione amministrativa pecuniaria, compie, sui propri o sugli altrui beni, atti simulati o fraudolenti, o commette allo stesso scopo altri fatti fraudolenti, e' punito, qualora non ottemperi nei termini all'ingiunzione di pagamento ..., con la reclusione da sei mesi a tre anni.",
+    "con_marcatori": "Art. 388-ter. (Mancata esecuzione ((fraudolenta)) di sanzioni pecuniarie). Chiunque, per sottrarsi all'esecuzione di una multa o di una ammenda o di una sanzione amministrativa pecuniaria, compie, sui propri o sugli altrui beni, atti simulati o fraudolenti, o commette allo stesso scopo altri fatti fraudolenti, e' punito, qualora non ottemperi nei termini all'ingiunzione di pagamento ((...)), con la reclusione da sei mesi a tre anni.",
+    "caratteri": 414
+  },
+  "note": [],
+  "impronta": "sha256:f367b69400df6e02193514bf52a948515fef25e20445aad2fed6336f5be40332"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "941",
+    "rubrica": "Alluvione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art941"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le unioni di terra e gli incrementi, che si formano successivamente e impercettibilmente nei fondi posti lungo le rive dei fiumi o torrenti, appartengono al proprietario del fondo, salvo quanto e' disposto dalle leggi speciali.",
+    "con_marcatori": "Art. 941. (Alluvione). Le unioni di terra e gli incrementi, che si formano successivamente e impercettibilmente nei fondi posti lungo le rive dei fiumi o torrenti, appartengono al proprietario del fondo, salvo quanto e' disposto dalle leggi speciali.",
+    "caratteri": 227
+  },
+  "note": [],
+  "impronta": "sha256:5767f21288eb8fb20b4c4e17ed56cb0fbe47e27f4d61bf5836efb9a51554cb33"
+}

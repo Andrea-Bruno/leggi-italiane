@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1783",
+    "rubrica": "Responsabilita' per le cose portate in albergo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1783"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli albergatori sono responsabili di ogni deterioramento, distruzione o sottrazione delle cose portate dal cliente in albergo. Sono considerate cose portate in albergo: 1) le cose che vi si trovano durante il tempo nel quale il cliente dispone dell'alloggio; 2) le cose di cui l'albergatore, un membro della sua famiglia o un suo ausiliario assumono la custodia, fuori dell'albergo, durante il periodo di tempo in cui il cliente dispone dell'alloggio; 3) le cose di cui l'albergatore, un membro della sua famiglia o un suo ausiliario assumono la custodia sia nell'albergo, sia fuori dell'albergo, durante un periodo di tempo ragionevole, precedente o successivo a quello in cui il cliente dispone dell'alloggio. La responsabilita' di cui al presente articolo e' limitata al valore di quanto sia deteriorato, distrutto o sottratto, sino all'equivalente di cento volte il prezzo di locazione dell'alloggio per giornata.",
+    "con_marcatori": "Art. 1783. (( (Responsabilita' per le cose portate in albergo). )) ((Gli albergatori sono responsabili di ogni deterioramento, distruzione o sottrazione delle cose portate dal cliente in albergo. Sono considerate cose portate in albergo: 1) le cose che vi si trovano durante il tempo nel quale il cliente dispone dell'alloggio; 2) le cose di cui l'albergatore, un membro della sua famiglia o un suo ausiliario assumono la custodia, fuori dell'albergo, durante il periodo di tempo in cui il cliente dispone dell'alloggio; 3) le cose di cui l'albergatore, un membro della sua famiglia o un suo ausiliario assumono la custodia sia nell'albergo, sia fuori dell'albergo, durante un periodo di tempo ragionevole, precedente o successivo a quello in cui il cliente dispone dell'alloggio. La responsabilita' di cui al presente articolo e' limitata al valore di quanto sia deteriorato, distrutto o sottratto, sino all'equivalente di cento volte il prezzo di locazione dell'alloggio per giornata.))",
+    "caratteri": 917
+  },
+  "note": [],
+  "impronta": "sha256:2da2f3c51cc1ac322d77c64f7752cf8f7fbe4aeb40cdb5e5d04ab5044dd07ad2"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-octies",
+    "rubrica": "Falsificazione in scrittura privata relativa a beni culturali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-octies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque forma, in tutto o in parte, una scrittura privata falsa o, in tutto o in parte, altera, distrugge, sopprime od occulta una scrittura privata vera, in relazione a beni culturali mobili, al fine di farne apparire lecita la provenienza, e' punito con la reclusione da uno a quattro anni. Chiunque fa uso della scrittura privata di cui al primo comma, senza aver concorso nella sua formazione o alterazione, e' punito con la reclusione da otto mesi a due anni e otto mesi.",
+    "con_marcatori": "Art. 518-octies (( (Falsificazione in scrittura privata relativa a beni culturali). )) ((Chiunque forma, in tutto o in parte, una scrittura privata falsa o, in tutto o in parte, altera, distrugge, sopprime od occulta una scrittura privata vera, in relazione a beni culturali mobili, al fine di farne apparire lecita la provenienza, e' punito con la reclusione da uno a quattro anni. Chiunque fa uso della scrittura privata di cui al primo comma, senza aver concorso nella sua formazione o alterazione, e' punito con la reclusione da otto mesi a due anni e otto mesi.))",
+    "caratteri": 477
+  },
+  "note": [],
+  "impronta": "sha256:2f621ae2a2a84b45f44e9329581d91f6c7f173cd31023ee9e430781c6072d8e3"
+}

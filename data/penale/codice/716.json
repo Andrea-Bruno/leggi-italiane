@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "716",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art716"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "(Omesso avviso all'Autorita' dell'evasione o fuga ... di minori) Il pubblico ufficiale o l'addetto a uno stabilimento destinato alla esecuzione di pene o di misure di sicurezza, ovvero ... ad un riformatorio pubblico, che omette di dare immediato avviso all'Autorita' dell'evasione o della fuga di persona ivi detenuta o ricoverata, e' punito con l'ammenda da lire cento a duemila. La stessa disposizione si applica a chi per legge o per provvedimento dell'Autorita' e' stata affidata una persona a scopo di custodia o di vigilanza.",
+    "con_marcatori": "Art. 716. (Omesso avviso all'Autorita' dell'evasione o fuga ((...)) di minori) Il pubblico ufficiale o l'addetto a uno stabilimento destinato alla esecuzione di pene o di misure di sicurezza, ovvero ((...)) ad un riformatorio pubblico, che omette di dare immediato avviso all'Autorita' dell'evasione o della fuga di persona ivi detenuta o ricoverata, e' punito con l'ammenda da lire cento a duemila. La stessa disposizione si applica a chi per legge o per provvedimento dell'Autorita' e' stata affidata una persona a scopo di custodia o di vigilanza.",
+    "caratteri": 532
+  },
+  "note": [],
+  "impronta": "sha256:b1670dcebe0320b3d263643e7f244f51009ff776189ea1f2b83a2e029dec8ad0"
+}

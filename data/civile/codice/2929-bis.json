@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2929-bis",
+    "rubrica": "Espropriazione di beni oggetto di vincoli di indisponibilita' o di alienazioni a titolo gratuito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2929-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore che sia pregiudicato da un atto del debitore, di costituzione di vincolo di indisponibilita' o di alienazione, che ha per oggetto beni immobili o mobili iscritti in pubblici registri, compiuto a titolo gratuito successivamente al sorgere del credito, puo' procedere, munito di titolo esecutivo, a esecuzione forzata, ancorche' non abbia preventivamente ottenuto sentenza dichiarativa di inefficacia, se trascrive il pignoramento nel termine di un anno dalla data in cui l'atto e' stato trascritto. La disposizione di cui al presente comma si applica anche al creditore anteriore che, entro un anno dalla trascrizione dell'atto pregiudizievole, interviene nell'esecuzione da altri promossa. Quando il bene, per effetto o in conseguenza dell'atto, e' stato trasferito a un terzo, il creditore promuove l'azione esecutiva nelle forme dell'espropriazione contro il terzo proprietario ed e' preferito ai creditori personali di costui nella distribuzione del ricavato. Se con l'atto e' stato riservato o costituito alcuno dei diritti di cui al primo comma dell'articolo 2812, il creditore pignora la cosa come libera nei confronti del proprietario. Tali diritti si estinguono con la vendita del bene e i terzi titolari sono ammessi a far valere le loro ragioni sul ricavato, con preferenza rispetto ai creditori cui i diritti sono opponibili. Il debitore, il terzo assoggettato a espropriazione e ogni altro interessato alla conservazione del vincolo possono proporre le opposizioni all'esecuzione di cui al titolo V del libro terzo del codice di procedura civile quando contestano la sussistenza dei presupposti di cui al primo comma o che l'atto abbia arrecato pregiudizio alle ragioni del creditore o che il debitore abbia avuto conoscenza del pregiudizio arrecato. L'azione esecutiva di cui al presente articolo non puo' esercitarsi in pregiudizio dei diritti acquistati a titolo oneroso dall'avente causa del contraente immediato, salvi gli effetti della trascrizione del pignoramento.",
+    "con_marcatori": "Art. 2929-bis. (Espropriazione di beni oggetto di vincoli di indisponibilita' o di alienazioni a titolo gratuito). Il creditore che sia pregiudicato da un atto del debitore, di costituzione di vincolo di indisponibilita' o di alienazione, che ha per oggetto beni immobili o mobili iscritti in pubblici registri, compiuto a titolo gratuito successivamente al sorgere del credito, puo' procedere, munito di titolo esecutivo, a esecuzione forzata, ancorche' non abbia preventivamente ottenuto sentenza dichiarativa di inefficacia, se trascrive il pignoramento nel termine di un anno dalla data in cui l'atto e' stato trascritto. La disposizione di cui al presente comma si applica anche al creditore anteriore che, entro un anno dalla trascrizione dell'atto pregiudizievole, interviene nell'esecuzione da altri promossa. ((Quando il bene, per effetto o in conseguenza dell'atto, e' stato trasferito a un terzo, il creditore promuove l'azione esecutiva nelle forme dell'espropriazione contro il terzo proprietario ed e' preferito ai creditori personali di costui nella distribuzione del ricavato. Se con l'atto e' stato riservato o costituito alcuno dei diritti di cui al primo comma dell'articolo 2812, il creditore pignora la cosa come libera nei confronti del proprietario. Tali diritti si estinguono con la vendita del bene e i terzi titolari sono ammessi a far valere le loro ragioni sul ricavato, con preferenza rispetto ai creditori cui i diritti sono opponibili. Il debitore, il terzo assoggettato a espropriazione e ogni altro interessato alla conservazione del vincolo possono proporre le opposizioni all'esecuzione di cui al titolo V del libro terzo del codice di procedura civile quando contestano la sussistenza dei presupposti di cui al primo comma o che l'atto abbia arrecato pregiudizio alle ragioni del creditore o che il debitore abbia avuto conoscenza del pregiudizio arrecato. L'azione esecutiva di cui al presente articolo non puo' esercitarsi in pregiudizio dei diritti acquistati a titolo oneroso dall'avente causa del contraente immediato, salvi gli effetti della trascrizione del pignoramento)). (245)",
+    "caratteri": 1997
+  },
+  "note": [
+    {
+      "numero": 245,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 27 giugno 2015, n. 83",
+          "urn": "urn:nir:stato:decretoLegge:2015-06-27;83",
+          "data": "2015-06-27",
+          "numero": "83",
+          "data_gazzetta": "2015-06-27"
+        },
+        {
+          "denominazione": "L. 6 agosto 2015, n. 132",
+          "urn": "urn:nir:stato:legge:2015-08-06;132",
+          "data": "2015-08-06",
+          "numero": "132",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 27 giugno 2015, n. 83, convertito con modificazioni dalla L. 6 agosto 2015, n. 132, ha disposto (con l'art. 23, comma 6) che \" Le disposizioni di cui agli articoli 12 e 13, comma 1, lettere d), l), m), n), si applicano esclusivamente alle procedure esecutive iniziate successivamente alla data di entrata in vigore del presente decreto\"."
+    }
+  ],
+  "impronta": "sha256:eb87b3d1c043e432e4eaff35d945829da05642e0fadfa3308a50c20d9e5a89bd"
+}

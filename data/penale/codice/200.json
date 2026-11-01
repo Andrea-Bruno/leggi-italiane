@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "200",
+    "rubrica": "Applicabilita' delle misure di sicurezza rispetto al tempo, al territorio e alle persone",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art200"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le misure di sicurezza sono regolate dalla legge in vigore al tempo della loro applicazione. Se la legge del tempo in cui deve eseguirsi la misura di sicurezza e' diversa, si applica la legge in vigore al tempo della esecuzione. Le misure di sicurezza si applicano anche agli stranieri, che si trovano nel territorio dello Stato. Tuttavia l'applicazione di misure di sicurezza allo straniero non impedisce l'espulsione di lui dal territorio dello Stato, a norma delle leggi di pubblica sicurezza.",
+    "con_marcatori": "Art. 200. (Applicabilita' delle misure di sicurezza rispetto al tempo, al territorio e alle persone) Le misure di sicurezza sono regolate dalla legge in vigore al tempo della loro applicazione. Se la legge del tempo in cui deve eseguirsi la misura di sicurezza e' diversa, si applica la legge in vigore al tempo della esecuzione. Le misure di sicurezza si applicano anche agli stranieri, che si trovano nel territorio dello Stato. Tuttavia l'applicazione di misure di sicurezza allo straniero non impedisce l'espulsione di lui dal territorio dello Stato, a norma delle leggi di pubblica sicurezza.",
+    "caratteri": 496
+  },
+  "note": [],
+  "impronta": "sha256:5e28d71ed67a570db6e3cff152114f92c8fbeac00525b4b0992a399e11928f6d"
+}

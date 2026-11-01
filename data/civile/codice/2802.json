@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2802",
+    "rubrica": "Riscossione d'interessi e di prestazioni periodiche",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2802"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore pignoratizio e' tenuto a riscuotere gli interessi del credito o le altre prestazioni periodiche, imputandone l'ammontare in primo luogo alle spese e agli interessi e poi al capitale. Egli e' tenuto a compiere gli atti conservativi del credito ricevuto in pegno.",
+    "con_marcatori": "Art. 2802. (Riscossione d'interessi e di prestazioni periodiche). Il creditore pignoratizio e' tenuto a riscuotere gli interessi del credito o le altre prestazioni periodiche, imputandone l'ammontare in primo luogo alle spese e agli interessi e poi al capitale. Egli e' tenuto a compiere gli atti conservativi del credito ricevuto in pegno.",
+    "caratteri": 274
+  },
+  "note": [],
+  "impronta": "sha256:e486fb0d0f58f458163a53cfd1263ae0db5f50adf1f782a3d6ec89adbdec6e5d"
+}

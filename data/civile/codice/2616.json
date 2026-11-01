@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2616",
+    "rubrica": "Costituzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2616"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Con provvedimento dell'autorita' governativa, sentite le corporazioni interessate, puo' essere disposta, anche per zone determinate, la costituzione di consorzi obbligatori fra esercenti lo stesso ramo o rami similari di attivita' economica, qualora la costituzione stessa risponda alle esigenze dell'organizzazione della produzione. Nello stesso modo, ricorrendo le condizioni di cui al comma precedente, possono essere trasformati in obbligatori i consorzi costituiti volontariamente.",
+    "con_marcatori": "Art. 2616. (Costituzione). Con provvedimento dell'autorita' governativa, sentite le corporazioni interessate, puo' essere disposta, anche per zone determinate, la costituzione di consorzi obbligatori fra esercenti lo stesso ramo o rami similari di attivita' economica, qualora la costituzione stessa risponda alle esigenze dell'organizzazione della produzione. Nello stesso modo, ricorrendo le condizioni di cui al comma precedente, possono essere trasformati in obbligatori i consorzi costituiti volontariamente.",
+    "caratteri": 486
+  },
+  "note": [],
+  "impronta": "sha256:7378b343c42cf111a5f6e045ecc1cb139d28c65362f4351b304a7bbb97139afe"
+}

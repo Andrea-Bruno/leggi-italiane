@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "113",
+    "rubrica": "Matrimonio celebrato davanti a un apparente ufficiale dello stato civile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art113"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si considera celebrato davanti all'ufficiale dello stato civile il matrimonio che sia stato celebrato dinanzi a persona la quale, senza avere la qualita' di ufficiale dello stato civile, ne esercitava pubblicamente le funzioni, a meno che entrambi gli sposi, al momento della celebrazione, abbiano saputo che la detta persona non aveva tale qualita'.",
+    "con_marcatori": "Art. 113. (Matrimonio celebrato davanti a un apparente ufficiale dello stato civile). Si considera celebrato davanti all'ufficiale dello stato civile il matrimonio che sia stato celebrato dinanzi a persona la quale, senza avere la qualita' di ufficiale dello stato civile, ne esercitava pubblicamente le funzioni, a meno che entrambi gli sposi, al momento della celebrazione, abbiano saputo che la detta persona non aveva tale qualita'.",
+    "caratteri": 350
+  },
+  "note": [],
+  "impronta": "sha256:9656690be4f5c21c0fdce7e2d5b0c6f610c0162f728c3b87c524300be8c69db1"
+}

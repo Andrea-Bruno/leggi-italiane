@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1689",
+    "rubrica": "Diritti del destinatario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1689"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I diritti nascenti dal contratto di trasporto verso il vettore spettano al destinatario dal momento in cui, arrivate le cose a destinazione o scaduto il termine in cui sarebbero dovute arrivare, il destinatario ne richiede la riconsegna al vettore. Il destinatario non puo' esercitare i diritti nascenti dal contratto se non verso pagamento al vettore dei crediti derivanti dal trasporto e degli assegni da cui le cose trasportate sono gravate. Nel caso in cui l'ammontare delle somme dovute sia controverso, il destinatario deve depositare la differenza contestata presso un istituto di credito.",
+    "con_marcatori": "Art. 1689. (Diritti del destinatario). I diritti nascenti dal contratto di trasporto verso il vettore spettano al destinatario dal momento in cui, arrivate le cose a destinazione o scaduto il termine in cui sarebbero dovute arrivare, il destinatario ne richiede la riconsegna al vettore. Il destinatario non puo' esercitare i diritti nascenti dal contratto se non verso pagamento al vettore dei crediti derivanti dal trasporto e degli assegni da cui le cose trasportate sono gravate. Nel caso in cui l'ammontare delle somme dovute sia controverso, il destinatario deve depositare la differenza contestata presso un istituto di credito.",
+    "caratteri": 596
+  },
+  "note": [],
+  "impronta": "sha256:5233b7160c54d9808b1fb6d7f5e8bc636db2960fd3bd8d9a1e54b7e26df8d18a"
+}

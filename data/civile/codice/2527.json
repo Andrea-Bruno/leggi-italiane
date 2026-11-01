@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2527",
+    "rubrica": "Requisiti dei soci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2527"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo stabilisce i requisiti per l'ammissione dei nuovi soci e la relativa procedura, secondo criteri non discriminatori coerenti con lo scopo mutualistico e l'attivita' economica svolta. Non possono in ogni caso divenire soci quanti esercitano in proprio imprese in concorrenza con quella della cooperativa. L'atto costitutivo puo' prevedere, determinandone i diritti e gli obblighi, l'ammissione del nuovo socio cooperatore in una categoria speciale in ragione dell'interesse alla sua formazione ovvero del suo inserimento nell'impresa. I soci ammessi alla categoria speciale non possono in ogni caso superare un terzo del numero totale dei soci cooperatori. Al termine di un periodo comunque non superiore a cinque anni il nuovo socio e' ammesso a godere i diritti che spettano agli altri soci cooperatori.",
+    "con_marcatori": "Art. 2527. (Requisiti dei soci). L'atto costitutivo stabilisce i requisiti per l'ammissione dei nuovi soci e la relativa procedura, secondo criteri non discriminatori coerenti con lo scopo mutualistico e l'attivita' economica svolta. ((Non possono in ogni caso divenire soci quanti esercitano in proprio imprese in concorrenza con quella della cooperativa.)) L'atto costitutivo puo' prevedere, determinandone i diritti e gli obblighi, l'ammissione del nuovo socio cooperatore in una categoria speciale in ragione dell'interesse alla sua formazione ovvero del suo inserimento nell'impresa. I soci ammessi alla categoria speciale non possono in ogni caso superare un terzo del numero totale dei soci cooperatori. Al termine di un periodo comunque non superiore a cinque anni il nuovo socio e' ammesso a godere i diritti che spettano agli altri soci cooperatori.",
+    "caratteri": 822
+  },
+  "note": [],
+  "impronta": "sha256:195d9d906b9a18568ab293447ab21d6dd5f72bde0bd00ef9d674f48006ef9a55"
+}

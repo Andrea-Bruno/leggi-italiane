@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "371",
+    "rubrica": "Provvedimenti circa l'educazione e l'amministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art371"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Compiuto l'inventario, il giudice tutelare, su proposta del tutore e sentito il protutore, delibera: ( sul luogo dove il minore deve essere cresciuto e sul suo avviamento agli studi o all'esercizio di un'arte, mestiere o professione, disposto l'ascolto dello stesso minore che abbia compiuto gli anni dieci e anche di eta' inferiore ove capace di discernimento e richiesto, quando opportuno, l'avviso dei parenti prossimi;)) 2) sulla spesa annua occorrente per il mantenimento e l'istruzione del minore e per l'amministrazione del patrimonio, fissando i modi d'impiego del reddito eccedente; 3) sulla convenienza di continuare ovvero alienare o liquidare le aziende commerciali, che si trovano nel patrimonio del minore, e sulle relative modalita' e cautele. Nel caso in cui il giudice stimi evidentemente utile per il minore la continuazione dell'esercizio dell'impresa, il tutore deve domandare l'autorizzazione del tribunale. In pendenza della deliberazione del tribunale il giudice tutelare puo' consentire l'esercizio provvisorio dell'impresa.",
+    "con_marcatori": "Art. 371. (Provvedimenti circa l'educazione e l'amministrazione). Compiuto l'inventario, il giudice tutelare, su proposta del tutore e sentito il protutore, delibera: ((1) sul luogo dove il minore deve essere cresciuto e sul suo avviamento agli studi o all'esercizio di un'arte, mestiere o professione, disposto l'ascolto dello stesso minore che abbia compiuto gli anni dieci e anche di eta' inferiore ove capace di discernimento e richiesto, quando opportuno, l'avviso dei parenti prossimi;)) 2) sulla spesa annua occorrente per il mantenimento e l'istruzione del minore e per l'amministrazione del patrimonio, fissando i modi d'impiego del reddito eccedente; 3) sulla convenienza di continuare ovvero alienare o liquidare le aziende commerciali, che si trovano nel patrimonio del minore, e sulle relative modalita' e cautele. Nel caso in cui il giudice stimi evidentemente utile per il minore la continuazione dell'esercizio dell'impresa, il tutore deve domandare l'autorizzazione del tribunale. In pendenza della deliberazione del tribunale il giudice tutelare puo' consentire l'esercizio provvisorio dell'impresa.",
+    "caratteri": 1048
+  },
+  "note": [],
+  "impronta": "sha256:ef8c24db5510751a3d467303193a9a17d67d06fb9ee6530a04b5c894f781886d"
+}

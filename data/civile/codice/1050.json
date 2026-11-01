@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1050",
+    "rubrica": "Somministrazione di acqua a un fondo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1050"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le norme stabilite dall'articolo precedente si applicano anche se il proprietario di un fondo non ha acqua per irrigarlo, quando le acque del fondo vicino consentono una parziale somministrazione, dopo soddisfatto ogni bisogno domestico, agricolo o industriale. Le disposizioni di questo articolo e del precedente non si applicano nel caso in cui delle acque si dispone in forza di concessione amministrativa.",
+    "con_marcatori": "Art. 1050. (Somministrazione di acqua a un fondo). Le norme stabilite dall'articolo precedente si applicano anche se il proprietario di un fondo non ha acqua per irrigarlo, quando le acque del fondo vicino consentono una parziale somministrazione, dopo soddisfatto ogni bisogno domestico, agricolo o industriale. Le disposizioni di questo articolo e del precedente non si applicano nel caso in cui delle acque si dispone in forza di concessione amministrativa.",
+    "caratteri": 409
+  },
+  "note": [],
+  "impronta": "sha256:4de3eaf0877111230a5d1b40bf9224097f6ce78114fed9067625e2cc584d450e"
+}

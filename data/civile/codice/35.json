@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "35",
+    "rubrica": "Disposizione penale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art35"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori e i liquidatori che non richiedono le iscrizioni prescritte dagli articoli 33 e 34, nel termine e secondo le modalita' stabiliti dalle norme di attuazione del codice, sono puniti con l'ammenda da lire cento a lire cinquemila.",
+    "con_marcatori": "Art. 35. (Disposizione penale). Gli amministratori e i liquidatori che non richiedono le iscrizioni prescritte dagli articoli 33 e 34, nel termine e secondo le modalita' stabiliti dalle norme di attuazione del codice, sono puniti con l'ammenda da lire cento a lire cinquemila. ((126))",
+    "caratteri": 244
+  },
+  "note": [
+    {
+      "numero": 126,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 10 febbraio 2000, n. 361",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:2000-02-10;361",
+          "data": "2000-02-10",
+          "numero": "361",
+          "data_gazzetta": "2000-12-07"
+        },
+        {
+          "denominazione": "articolo 20, comma 4, della legge 15 marzo 1997, n. 59",
+          "urn": "urn:nir:stato:legge:1997-03-15;59",
+          "data": "1997-03-15",
+          "numero": "59",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 10 febbraio 2000, n. 361 ha disposto (con l'art. 11, comma 1, lettera e)) che \"Al sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento, sono abrogate le seguenti disposizioni: [...] e) articolo 35, limitatamente alle parole: \"dagli articoli 33 e 34, nel termine e secondo le modalita' stabilite dalle norme di attuazione del codice\".\""
+    }
+  ],
+  "impronta": "sha256:d3a6b39bdfd853140b741e83fd2d3cba8565c6467cb3d78e9cbd562660ab1609"
+}

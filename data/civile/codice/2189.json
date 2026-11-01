@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2189",
+    "rubrica": "Modalita' dell'iscrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2189"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le iscrizioni nel registro sono eseguite su domanda sottoscritta dall'interessato. Prima di procedere all'iscrizione, l'ufficio del registro deve accertare l'autenticita' della sottoscrizione e il concorso delle condizioni richieste dalla legge per l'iscrizione. Il rifiuto dell'iscrizione deve essere comunicato con raccomandata al richiedente. Questi puo' ricorrere entro otto giorni al giudice del registro, che provvede con decreto.",
+    "con_marcatori": "Art. 2189. (Modalita' dell'iscrizione). Le iscrizioni nel registro sono eseguite su domanda sottoscritta dall'interessato. Prima di procedere all'iscrizione, l'ufficio del registro deve accertare l'autenticita' della sottoscrizione e il concorso delle condizioni richieste dalla legge per l'iscrizione. Il rifiuto dell'iscrizione deve essere comunicato con raccomandata al richiedente. Questi puo' ricorrere entro otto giorni al giudice del registro, che provvede con decreto.",
+    "caratteri": 436
+  },
+  "note": [],
+  "impronta": "sha256:3f9d77dd7b3a74b0ee51f51d46993d27417c08e7775c26c483805f9d9dc64f09"
+}

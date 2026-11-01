@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2096",
+    "rubrica": "Assunzione in prova",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2096"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 50,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Salvo diversa disposizione delle norme corporative, l'assunzione del prestatore di lavoro per un periodo di prova deve risultare da atto scritto. L'imprenditore e il prestatore di lavoro sono rispettivamente tenuti a consentire e a fare l'esperimento che forma oggetto del patto di prova. Durante il periodo di prova ciascuna delle parti puo' recedere dal contratto, senza obbligo di preavviso o d'indennita'. Se pero' la prova e' stabilita per un tempo minimo necessario, la facolta' di recesso non puo' esercitarsi prima della scadenza del termine. Compiuto il periodo di prova, l'assunzione diviene definitiva e il servizio prestato si computa nell'anzianita' del prestatore di lavoro.",
+    "con_marcatori": "Art. 2096. (Assunzione in prova). Salvo diversa disposizione delle norme corporative, l'assunzione del prestatore di lavoro per un periodo di prova deve risultare da atto scritto. L'imprenditore e il prestatore di lavoro sono rispettivamente tenuti a consentire e a fare l'esperimento che forma oggetto del patto di prova. Durante il periodo di prova ciascuna delle parti puo' recedere dal contratto, senza obbligo di preavviso o d'indennita'. Se pero' la prova e' stabilita per un tempo minimo necessario, la facolta' di recesso non puo' esercitarsi prima della scadenza del termine. ((50)) Compiuto il periodo di prova, l'assunzione diviene definitiva e il servizio prestato si computa nell'anzianita' del prestatore di lavoro.",
+    "caratteri": 688
+  },
+  "note": [
+    {
+      "numero": 50,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2096, terzo comma, cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1980-12-22",
+        "numero": "189"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 16 - 22 dicembre 1980, n. 189 (in G.U. 1a s.s. 31/12/1980, n. 357), ha dichiarato \"l'illegittimita' costituzionale dell'art. 2096, terzo comma, cod. civ. nella parte in cui non riconosce il diritto alla indennita' di anzianita' di cui agli artt. 2120 e 2121 stesso codice, al lavoratore assunto con patto di prova nel caso di recesso dal contratto durante il periodo di prova medesimo\"."
+    }
+  ],
+  "impronta": "sha256:8f3f8922c29734013e08e81aebff3069127bae0d57a88b3ce1e9213531f52d20"
+}

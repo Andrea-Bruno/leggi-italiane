@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "503",
+    "rubrica": "Liquidazione promossa dall'erede",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art503"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Anche quando non vi e' opposizione di creditori o di legatari, l'erede puo' valersi della procedura di liquidazione prevista dagli articoli precedenti. Il pagamento fatto a creditori privilegiati o ipotecari non impedisce all'erede di valersi di questa procedura.",
+    "con_marcatori": "Art. 503. (Liquidazione promossa dall'erede). Anche quando non vi e' opposizione di creditori o di legatari, l'erede puo' valersi della procedura di liquidazione prevista dagli articoli precedenti. Il pagamento fatto a creditori privilegiati o ipotecari non impedisce all'erede di valersi di questa procedura.",
+    "caratteri": 263
+  },
+  "note": [],
+  "impronta": "sha256:aec88875ef7383e6f6175013fa8022cf7c21721239246beb20c25a3cf1b2dc4f"
+}

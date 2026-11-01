@@ -1,0 +1,120 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2221",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2221"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": null,
+        "testo": "ARTICOLO ABROGATO DAL D.LGS. 12 GENNAIO 2019, N. 14"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DAL D.LGS. 12 GENNAIO 2019, N. 14",
+    "con_marcatori": "Art. 2221. ((ARTICOLO ABROGATO DAL D.LGS. 12 GENNAIO 2019, N. 14)) ((303)) ((311)) ((316))",
+    "caratteri": 51
+  },
+  "note": [
+    {
+      "numero": 303,
+      "effetto": "abrogazione",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 12 gennaio 2019, n. 14",
+          "urn": "urn:nir:stato:decretoLegislativo:2019-01-12;14",
+          "data": "2019-01-12",
+          "numero": "14",
+          "data_gazzetta": "2019-02-14"
+        },
+        {
+          "denominazione": "D.L. 8 aprile 2020, n. 23",
+          "urn": "urn:nir:stato:decretoLegge:2020-04-08;23",
+          "data": "2020-04-08",
+          "numero": "23",
+          "data_gazzetta": "2020-04-08"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 15 agosto 2020 al 1° settembre 2021."
+    },
+    {
+      "numero": 311,
+      "effetto": "abrogazione",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 12 gennaio 2019, n. 14",
+          "urn": "urn:nir:stato:decretoLegislativo:2019-01-12;14",
+          "data": "2019-01-12",
+          "numero": "14",
+          "data_gazzetta": "2019-02-14"
+        },
+        {
+          "denominazione": "D.L. 24 agosto 2021, n. 118",
+          "urn": "urn:nir:stato:decretoLegge:2021-08-24;118",
+          "data": "2021-08-24",
+          "numero": "118",
+          "data_gazzetta": "2021-08-24"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1° settembre 2021 al 16 maggio 2022."
+    },
+    {
+      "numero": 316,
+      "effetto": "abrogazione",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 12 gennaio 2019, n. 14",
+          "urn": "urn:nir:stato:decretoLegislativo:2019-01-12;14",
+          "data": "2019-01-12",
+          "numero": "14",
+          "data_gazzetta": "2019-02-14"
+        },
+        {
+          "denominazione": "D.L. 30 aprile 2022, n. 36",
+          "urn": "urn:nir:stato:decretoLegge:2022-04-30;36",
+          "data": "2022-04-30",
+          "numero": "36",
+          "data_gazzetta": "2022-04-30"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 16 maggio 2022 al 15 luglio 2022."
+    }
+  ],
+  "impronta": "sha256:c193c08ea5deab9036f645f9a1abc6789bd471b3d0d8bf6b2f0ee92fdee1c0f0"
+}

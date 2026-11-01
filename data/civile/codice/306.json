@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "306",
+    "rubrica": "Revoca per indegnita' dell'adottato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art306"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La revoca dell'adozione puo' essere pronunziata dal tribunale su domanda dell'adottante, quando l'adottato abbia attentato alla vita di lui o del suo coniuge, dei suoi discendenti o ascendenti, ovvero si sia reso colpevole verso loro di delitto punibile con pena restrittiva della liberta' personale non inferiore nel minimo a tre anni. Se l'adottante muore in conseguenza dell'attentato, la revoca dell'adozione puo' essere chiesta da coloro ai quali si devolverebbe l'eredita' in mancanza dell'adottato e dei suoi discendenti.",
+    "con_marcatori": "Art. 306. (Revoca per indegnita' dell'adottato). La revoca dell'adozione puo' essere pronunziata dal tribunale su domanda dell'adottante, quando l'adottato abbia attentato alla vita di lui o del suo coniuge, dei suoi discendenti o ascendenti, ovvero si sia reso colpevole verso loro di delitto punibile con pena restrittiva della liberta' personale non inferiore nel minimo a tre anni. Se l'adottante muore in conseguenza dell'attentato, la revoca dell'adozione puo' essere chiesta da coloro ai quali si devolverebbe l'eredita' in mancanza dell'adottato e dei suoi discendenti.",
+    "caratteri": 528
+  },
+  "note": [],
+  "impronta": "sha256:64030bf7a68f7907aaf389571bca70a7785325aa42bc24a06e603873aec35c7a"
+}

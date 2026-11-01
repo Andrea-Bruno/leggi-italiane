@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "501-bis",
+    "rubrica": "Manovre speculative su merci",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art501-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Fuori dei casi previsti dall'articolo precedente, chiunque, nell'esercizio di qualsiasi attivita' produttiva o commerciale, compie manovre speculative ovvero occulta, accaparra od incetta materie prime, generi alimentari di largo consumo o prodotti di prima necessita', in modo atto a determinarne la rarefazione o il rincaro sul mercato interno, e' punito con la reclusione da sei mesi a tre anni e con la multa da uno a cinquanta milioni di lire. Alla stessa pena soggiace chiunque, in presenza di fenomeni di rarefazione o rincaro sul mercato interno delle merci indicate nella prima parte del presente articolo e nell'esercizio delle medesime attivita', ne sottrae alla utilizzazione o al consumo rilevanti quantita'. L'autorita' giudiziaria competente e, in caso di flagranza, anche gli ufficiali e agenti di polizia giudiziaria procedono al sequestro delle merci, osservando le norme sull'istruzione formale. L'autorita' giudiziaria competente dispone la vendita coattiva immediata delle merci stesse nelle forme di cui all'articolo 625 del codice di procedura penale. La condanna importa l'interdizione dall'esercizio di attivita' commerciali o industriali per le quali sia richiesto uno speciale permesso o una speciale abilitazione, autorizzazione o licenza da parte dell'autorita' e la pubblicazione della sentenza.",
+    "con_marcatori": "Art. 501-bis. (( (Manovre speculative su merci). )). ((Fuori dei casi previsti dall'articolo precedente, chiunque, nell'esercizio di qualsiasi attivita' produttiva o commerciale, compie manovre speculative ovvero occulta, accaparra od incetta materie prime, generi alimentari di largo consumo o prodotti di prima necessita', in modo atto a determinarne la rarefazione o il rincaro sul mercato interno, e' punito con la reclusione da sei mesi a tre anni e con la multa da uno a cinquanta milioni di lire. Alla stessa pena soggiace chiunque, in presenza di fenomeni di rarefazione o rincaro sul mercato interno delle merci indicate nella prima parte del presente articolo e nell'esercizio delle medesime attivita', ne sottrae alla utilizzazione o al consumo rilevanti quantita'. L'autorita' giudiziaria competente e, in caso di flagranza, anche gli ufficiali e agenti di polizia giudiziaria procedono al sequestro delle merci, osservando le norme sull'istruzione formale. L'autorita' giudiziaria competente dispone la vendita coattiva immediata delle merci stesse nelle forme di cui all'articolo 625 del codice di procedura penale. La condanna importa l'interdizione dall'esercizio di attivita' commerciali o industriali per le quali sia richiesto uno speciale permesso o una speciale abilitazione, autorizzazione o licenza da parte dell'autorita' e la pubblicazione della sentenza)).",
+    "caratteri": 1327
+  },
+  "note": [],
+  "impronta": "sha256:cfb06a98da7dd27b43ac7a10107e95ab1bedcb1ca9f72e49082d9868804eb241"
+}

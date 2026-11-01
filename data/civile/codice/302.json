@@ -1,0 +1,47 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "302",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art302"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 4 MAGGIO 1983, N. 184",
+        "testo": "ARTICOLO ABROGATO DALLA L. 4 MAGGIO 1983, N. 184"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 4 MAGGIO 1983, N. 184",
+    "con_marcatori": "Art. 302. ((ARTICOLO ABROGATO DALLA L. 4 MAGGIO 1983, N. 184))",
+    "caratteri": 48
+  },
+  "note": [],
+  "impronta": "sha256:d9f1a987b03f3d0d1fec618f67e6123b291d127692b87316cd8dffec9910bec1"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1797",
+    "rubrica": "Azione nei confronti dei giranti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1797"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il possessore della nota di pegno non puo' agire contro il girante, se prima non ha proceduto alla vendita del pegno. I termini per esercitare l'azione di regresso contro i giranti sono quelli stabiliti dalla legge cambiaria e decorrono dal giorno in cui e' avvenuta la vendita delle cose depositate. Il possessore della nota di pegno decade dall'azione di regresso contro i giranti, se alla scadenza non leva il protesto o se, entro quindici giorni dal protesto, non fa istanza per la vendita delle cose depositate. Egli conserva tuttavia l'azione contro i giranti della fede di deposito e contro il debitore. Quest'azione si prescrive in tre anni.",
+    "con_marcatori": "Art. 1797. (Azione nei confronti dei giranti). Il possessore della nota di pegno non puo' agire contro il girante, se prima non ha proceduto alla vendita del pegno. I termini per esercitare l'azione di regresso contro i giranti sono quelli stabiliti dalla legge cambiaria e decorrono dal giorno in cui e' avvenuta la vendita delle cose depositate. Il possessore della nota di pegno decade dall'azione di regresso contro i giranti, se alla scadenza non leva il protesto o se, entro quindici giorni dal protesto, non fa istanza per la vendita delle cose depositate. Egli conserva tuttavia l'azione contro i giranti della fede di deposito e contro il debitore. Quest'azione si prescrive in tre anni.",
+    "caratteri": 649
+  },
+  "note": [],
+  "impronta": "sha256:e285584625af971fc78d1005ee092d4df787bc8c119ec8b61d76d79e28549a85"
+}

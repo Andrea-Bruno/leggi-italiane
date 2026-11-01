@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "705",
+    "rubrica": "Commercio non autorizzato di cose preziose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art705"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, senza la licenza dell'Autorita' o senza osservare le prescrizioni della legge, fabbrica o pone in commercio cose preziose, o compie su esse operazioni di mediazione o esercita altre simili industrie, arti o attivita', e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni. Si applicano le disposizioni di cui al terzo e quarto comma dell'articolo 686.",
+    "con_marcatori": "Art. 705. (Commercio non autorizzato di cose preziose). Chiunque, senza la licenza dell'Autorita' o senza osservare le prescrizioni della legge, fabbrica o pone in commercio cose preziose, o compie su esse operazioni di mediazione o esercita altre simili industrie, arti o attivita', ((e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni)). ((Si applicano le disposizioni di cui al terzo e quarto comma dell'articolo 686.))",
+    "caratteri": 397
+  },
+  "note": [],
+  "impronta": "sha256:befeea572df53414d5f84e5965736162b953a930b96edaf4e51d01681e8c8922"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2665",
+    "rubrica": "Omissioni o inesattezze nelle note",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2665"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'omissione o l'inesattezza di alcuna delle indicazioni richieste nelle note menzionate negli articoli 2659 e 2660 non nuoce alla validita' della trascrizione, eccetto che induca incertezza sulle persone, sul bene o sul rapporto giuridico a cui si riferisce l'atto o, rispettivamente, la sentenza o la domanda.",
+    "con_marcatori": "Art. 2665. (Omissioni o inesattezze nelle note). L'omissione o l'inesattezza di alcuna delle indicazioni richieste nelle note menzionate negli articoli 2659 e 2660 non nuoce alla validita' della trascrizione, eccetto che induca incertezza sulle persone, sul bene o sul rapporto giuridico a cui si riferisce l'atto o, rispettivamente, la sentenza o la domanda.",
+    "caratteri": 310
+  },
+  "note": [],
+  "impronta": "sha256:79ef0d86ed0296fcf93cc2f8cb120efd47f487217ed95ef8eb01ef24bca82910"
+}

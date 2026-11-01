@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2933",
+    "rubrica": "Esecuzione forzata degli obblighi di non fare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2933"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non e' adempiuto un obbligo di non fare, l'avente diritto puo' ottenere che sia distrutto, a spese dell'obbligato, cio' che e' stato fatto in violazione dell'obbligo. Non puo' essere ordinata la distruzione della cosa e l'avente diritto puo' conseguire solo il risarcimento dei danni, se la distruzione della cosa e' di pregiudizio all'economia nazionale.",
+    "con_marcatori": "Art. 2933. (Esecuzione forzata degli obblighi di non fare). Se non e' adempiuto un obbligo di non fare, l'avente diritto puo' ottenere che sia distrutto, a spese dell'obbligato, cio' che e' stato fatto in violazione dell'obbligo. Non puo' essere ordinata la distruzione della cosa e l'avente diritto puo' conseguire solo il risarcimento dei danni, se la distruzione della cosa e' di pregiudizio all'economia nazionale.",
+    "caratteri": 358
+  },
+  "note": [],
+  "impronta": "sha256:500e1b2ae1e1006efe036dd31f6e3d9b19fa97c40c0f52d96c0b1cd83a3e4c19"
+}

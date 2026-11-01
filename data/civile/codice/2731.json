@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2731",
+    "rubrica": "Capacita' richiesta per la confessione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2731"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La confessione non e' efficace se non proviene da persona capace di disporre del diritto, a cui i fatti confessati si riferiscono. Qualora sia resa da un rappresentante, e' efficace solo se fatta entro i limiti e nei modi in cui questi vincola il rappresentato.",
+    "con_marcatori": "Art. 2731. (Capacita' richiesta per la confessione). La confessione non e' efficace se non proviene da persona capace di disporre del diritto, a cui i fatti confessati si riferiscono. Qualora sia resa da un rappresentante, e' efficace solo se fatta entro i limiti e nei modi in cui questi vincola il rappresentato.",
+    "caratteri": 261
+  },
+  "note": [],
+  "impronta": "sha256:ca633a90cfa2ff806968779b17a7dc9208617e2f2169ce26a22d066c081a976a"
+}

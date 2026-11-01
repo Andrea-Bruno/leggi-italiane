@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "653",
+    "rubrica": "Legato di cosa genericamente determinata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art653"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' valido il legato di cosa determinata solo nel genere, anche se nessuna del genere ve n'era nel patrimonio del testatore al tempo del testamento e nessuna se ne trova al tempo della morte.",
+    "con_marcatori": "Art. 653. (Legato di cosa genericamente determinata). E' valido il legato di cosa determinata solo nel genere, anche se nessuna del genere ve n'era nel patrimonio del testatore al tempo del testamento e nessuna se ne trova al tempo della morte.",
+    "caratteri": 190
+  },
+  "note": [],
+  "impronta": "sha256:1fbc1c1f8047200062102e7397bd297f0ec9f0ebc5fa8254d15fab84647bfadd"
+}

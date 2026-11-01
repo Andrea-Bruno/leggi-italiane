@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1507",
+    "rubrica": "Vendita congiuntiva di cosa indivisa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1507"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se piu' persone hanno venduto congiuntamente, mediante un solo contratto, una cosa indivisa, ciascuna puo' esercitare il diritto di riscatto solo sopra la quota che le spettava. La medesima disposizione si osserva se il venditore ha lasciato piu' eredi. Il compratore, nei casi sopra espressi, puo' esigere che tutti i venditori o tutti i coeredi esercitino congiuntamente il diritto di riscatto dell'intera cosa; se essi non si accordano, il riscatto puo' esercitarsi soltanto da parte di colui o di coloro che offrono di riscattare la cosa per intero.",
+    "con_marcatori": "Art. 1507. (Vendita congiuntiva di cosa indivisa). Se piu' persone hanno venduto congiuntamente, mediante un solo contratto, una cosa indivisa, ciascuna puo' esercitare il diritto di riscatto solo sopra la quota che le spettava. La medesima disposizione si osserva se il venditore ha lasciato piu' eredi. Il compratore, nei casi sopra espressi, puo' esigere che tutti i venditori o tutti i coeredi esercitino congiuntamente il diritto di riscatto dell'intera cosa; se essi non si accordano, il riscatto puo' esercitarsi soltanto da parte di colui o di coloro che offrono di riscattare la cosa per intero.",
+    "caratteri": 553
+  },
+  "note": [],
+  "impronta": "sha256:b9546a157ecd0fab520039a517b8211d7cd887bb43a6ebfe8a334f42f8d5f365"
+}

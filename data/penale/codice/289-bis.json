@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "289-bis",
+    "rubrica": "Sequestro di persona a scopo di terrorismo o di eversione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art289-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, per finalita' di terrorismo o di eversione dell'ordine democratico sequestra una persona e' punito con la reclusione da venticinque a trenta anni. Se dal sequestro deriva comunque la morte, quale conseguenza non voluta dal reo, della persona sequestrata, il colpevole e' punito con la reclusione di anni trenta. Se il colpevole cagiona la morte del sequestrato si applica la pena dell'ergastolo. Il concorrente che, dissociandosi dagli altri, si adopera in modo che il soggetto passivo riacquisti la liberta' e' punito con la reclusione da due a otto anni; se il soggetto passivo muore, in conseguenza del sequestro, dopo la liberazione, la pena e' della reclusione da otto a diciotto anni. Quando ricorre una circostanza attenuante, alla pena prevista dal secondo comma e' sostituita la reclusione da venti a ventiquattro anni; alla pena prevista dal terzo comma e' sostituita la reclusione da ventiquattro a trenta anni. Se concorrono piu' circostanze attenuanti, la pena da applicare per effetto delle diminuzioni non puo' essere inferiore a dieci anni, nell'ipotesi prevista dal secondo comma, ed a quindici anni, nell'ipotesi prevista dal terzo comma.",
+    "con_marcatori": "Art. 289-bis. (( (Sequestro di persona a scopo di terrorismo o di eversione).)) ((Chiunque, per finalita' di terrorismo o di eversione dell'ordine democratico sequestra una persona e' punito con la reclusione da venticinque a trenta anni. Se dal sequestro deriva comunque la morte, quale conseguenza non voluta dal reo, della persona sequestrata, il colpevole e' punito con la reclusione di anni trenta. Se il colpevole cagiona la morte del sequestrato si applica la pena dell'ergastolo. Il concorrente che, dissociandosi dagli altri, si adopera in modo che il soggetto passivo riacquisti la liberta' e' punito con la reclusione da due a otto anni; se il soggetto passivo muore, in conseguenza del sequestro, dopo la liberazione, la pena e' della reclusione da otto a diciotto anni. Quando ricorre una circostanza attenuante, alla pena prevista dal secondo comma e' sostituita la reclusione da venti a ventiquattro anni; alla pena prevista dal terzo comma e' sostituita la reclusione da ventiquattro a trenta anni. Se concorrono piu' circostanze attenuanti, la pena da applicare per effetto delle diminuzioni non puo' essere inferiore a dieci anni, nell'ipotesi prevista dal secondo comma, ed a quindici anni, nell'ipotesi prevista dal terzo comma)).",
+    "caratteri": 1166
+  },
+  "note": [],
+  "impronta": "sha256:3fb68939a0fdf521f62f59eb91d5f9737b9386af1200c3a41b6e6346b69b0ddf"
+}

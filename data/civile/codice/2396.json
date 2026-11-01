@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2396",
+    "rubrica": "Direttori generali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2396"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni che regolano la responsabilita' degli amministratori si applicano anche ai direttori generali nominati dall'assemblea o per disposizione dello statuto, in relazione ai compiti loro affidati, salve le azioni esercitabili in base al rapporto di lavoro con la societa'.",
+    "con_marcatori": "Art. 2396. (( (Direttori generali).)) ((Le disposizioni che regolano la responsabilita' degli amministratori si applicano anche ai direttori generali nominati dall'assemblea o per disposizione dello statuto, in relazione ai compiti loro affidati, salve le azioni esercitabili in base al rapporto di lavoro con la societa'.))",
+    "caratteri": 282
+  },
+  "note": [],
+  "impronta": "sha256:fbc4b4a9ed9e8599bfab558dd7cc41618f4c0f931555b14f86090a18157077ee"
+}

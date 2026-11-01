@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "641",
+    "rubrica": "Amministrazione in caso di condizione sospensiva o di mancata prestazione di garanzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art641"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora l'erede sia istituito sotto condizione sospensiva, finche' questa condizione non si verifica o non e' certo che non si puo' piu' verificare, e' dato all'eredita' un amministratore. Vale la stessa norma anche nel caso in cui l'erede o il legatario non adempie l'obbligo di prestare la garanzia prevista dai due articoli precedenti.",
+    "con_marcatori": "Art. 641. (Amministrazione in caso di condizione sospensiva o di mancata prestazione di garanzia). Qualora l'erede sia istituito sotto condizione sospensiva, finche' questa condizione non si verifica o non e' certo che non si puo' piu' verificare, e' dato all'eredita' un amministratore. Vale la stessa norma anche nel caso in cui l'erede o il legatario non adempie l'obbligo di prestare la garanzia prevista dai due articoli precedenti.",
+    "caratteri": 338
+  },
+  "note": [],
+  "impronta": "sha256:496fb44642c74f6336abf45095e37d4cbd227bf0a166d527741521dac2b416ad"
+}

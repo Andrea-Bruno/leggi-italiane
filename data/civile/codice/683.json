@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "683",
+    "rubrica": "Testamento posteriore inefficace",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art683"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La revocazione fatta con un testamento posteriore conserva la sua efficacia anche quando questo rimane senza effetto perche' l'erede istituito o il legatario e' premorto al testatore, o e' incapace o indegno, ovvero ha rinunziato all'eredita' o al legato.",
+    "con_marcatori": "Art. 683. (Testamento posteriore inefficace). La revocazione fatta con un testamento posteriore conserva la sua efficacia anche quando questo rimane senza effetto perche' l'erede istituito o il legatario e' premorto al testatore, o e' incapace o indegno, ovvero ha rinunziato all'eredita' o al legato.",
+    "caratteri": 255
+  },
+  "note": [],
+  "impronta": "sha256:81f28808d4f9da39d44606b9d5bfc7c8eb7327ce2928e13c4cb7adc3f6cd37ba"
+}

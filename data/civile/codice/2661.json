@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2661",
+    "rubrica": "Ulteriori trascrizioni in base allo stesso titolo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2661"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando si domanda la trascrizione di un acquisto a causa di morte e per la stessa successione e' stato gia' trascritto altro acquisto in base allo stesso titolo, basta presentare l'atto di accettazione se si tratta di acquisto a titolo di erede. Deve essere anche indicata la trascrizione anteriormente eseguita, se si tratta dello stesso ufficio, e, se si tratta di ufficio diverso, deve essere presentato il certificato della trascrizione medesima. Se chi ha trascritto anteriormente ha presentato un estratto del testamento, alla domanda di nuova trascrizione deve essere allegato, qualora occorra, un altro estratto o la copia dell'intero testamento.",
+    "con_marcatori": "Art. 2661. (Ulteriori trascrizioni in base allo stesso titolo). Quando si domanda la trascrizione di un acquisto a causa di morte e per la stessa successione e' stato gia' trascritto altro acquisto in base allo stesso titolo, basta presentare l'atto di accettazione se si tratta di acquisto a titolo di erede. Deve essere anche indicata la trascrizione anteriormente eseguita, se si tratta dello stesso ufficio, e, se si tratta di ufficio diverso, deve essere presentato il certificato della trascrizione medesima. Se chi ha trascritto anteriormente ha presentato un estratto del testamento, alla domanda di nuova trascrizione deve essere allegato, qualora occorra, un altro estratto o la copia dell'intero testamento.",
+    "caratteri": 654
+  },
+  "note": [],
+  "impronta": "sha256:382b5fb302749c9780d48103aec4b8345507b13f7c83ebd881b5b3f51f62670f"
+}

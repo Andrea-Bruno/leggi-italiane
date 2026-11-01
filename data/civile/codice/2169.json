@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2169",
+    "rubrica": "Rinvio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2169"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono applicabili alla colonia parziaria le norme dettate per la mezzadria negli articoli 2145, secondo comma, 2147, secondo comma, 2149, 2151, secondo comma, 2152, 2155, 2156, 2157, 2159, 2160 e 2163, nonche' quelle concernenti la tenuta e l'efficacia probatoria del libretto colonico, qualora le parti l'abbiano d'accordo istituito.",
+    "con_marcatori": "Art. 2169. (Rinvio). Sono applicabili alla colonia parziaria le norme dettate per la mezzadria negli articoli 2145, secondo comma, 2147, secondo comma, 2149, 2151, secondo comma, 2152, 2155, 2156, 2157, 2159, 2160 e 2163, nonche' quelle concernenti la tenuta e l'efficacia probatoria del libretto colonico, qualora le parti l'abbiano d'accordo istituito.",
+    "caratteri": 333
+  },
+  "note": [],
+  "impronta": "sha256:d6789f5a09594a4c7b7dcb8c89478899d9558d095b8f80a81264804f7c67e242"
+}

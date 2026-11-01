@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "214",
+    "rubrica": "Inosservanza delle misure di sicurezza detentive",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art214"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso in cui la persona sottoposta a misura di sicurezza detentiva si sottrae volontariamente alla esecuzione di essa, ricomincia a decorrere il periodo minimo di durata della misura di sicurezza dal giorno in cui a questa e' data nuovamente esecuzione. Tale disposizione non si applica nel caso di persona ricoverata in un manicomio giudiziario o in una casa di cura e di custodia.",
+    "con_marcatori": "Art. 214. (Inosservanza delle misure di sicurezza detentive) Nel caso in cui la persona sottoposta a misura di sicurezza detentiva si sottrae volontariamente alla esecuzione di essa, ricomincia a decorrere il periodo minimo di durata della misura di sicurezza dal giorno in cui a questa e' data nuovamente esecuzione. Tale disposizione non si applica nel caso di persona ricoverata in un manicomio giudiziario o in una casa di cura e di custodia.",
+    "caratteri": 385
+  },
+  "note": [],
+  "impronta": "sha256:f814100327fda4165012b4a0f6121c956a745c4a6cca58f8d68a05006bc5040f"
+}

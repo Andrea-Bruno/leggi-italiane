@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "664",
+    "rubrica": "Distruzione o deterioramento di affissioni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art664"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque stacca, lacera o rende comunque inservibili o illeggibili scritti o disegni, fatti affiggere dalle Autorita' civili o da quelle ecclesiastiche, e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila. Se si tratta di scritti o disegni fatti affiggere da privati, nei luoghi e nei modi consentiti dalla legge o dall'Autorita', si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.",
+    "con_marcatori": "Art. 664. (Distruzione o deterioramento di affissioni) Chiunque stacca, lacera o rende comunque inservibili o illeggibili scritti o disegni, fatti affiggere dalle Autorita' civili o da quelle ecclesiastiche, ((e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila)). Se si tratta di scritti o disegni fatti affiggere da privati, nei luoghi e nei modi consentiti dalla legge o dall'Autorita', ((si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila)).",
+    "caratteri": 456
+  },
+  "note": [],
+  "impronta": "sha256:52e3ea56e3ba36327b96947fdfb200ed44d87446ce97bc46d763b0479555ba0e"
+}

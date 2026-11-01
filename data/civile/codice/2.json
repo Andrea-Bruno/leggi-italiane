@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2",
+    "rubrica": "Maggiore eta'. Capacita' di agire",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La maggiore eta' e' fissata al compimento del diciottesimo anno. Con la maggiore eta' si acquista la capacita' di compiere tutti gli atti per i quali non sia stabilita una eta' diversa. Sono salve le leggi speciali che stabiliscono un'eta' inferiore in materia di capacita' a prestare il proprio lavoro. In tal caso il minore e' abilitato all'esercizio dei diritti e delle azioni che dipendono dal contratto di lavoro.",
+    "con_marcatori": "Art. 2. (( (Maggiore eta'. Capacita' di agire).)) ((La maggiore eta' e' fissata al compimento del diciottesimo anno. Con la maggiore eta' si acquista la capacita' di compiere tutti gli atti per i quali non sia stabilita una eta' diversa. Sono salve le leggi speciali che stabiliscono un'eta' inferiore in materia di capacita' a prestare il proprio lavoro. In tal caso il minore e' abilitato all'esercizio dei diritti e delle azioni che dipendono dal contratto di lavoro)).",
+    "caratteri": 418
+  },
+  "note": [],
+  "impronta": "sha256:77759cf414d302453cc008742099a085fd9c889eb3f72840ace68a1da96c1cd4"
+}

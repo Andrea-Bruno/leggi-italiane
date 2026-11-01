@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "275-novies",
+    "rubrica": "Pubblicazione della sentenza di condanna",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art275-novies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". La condanna per taluno dei reati di cui agli articoli 275-bis, 275-ter, 275-quater, 275-quinquies e all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286, importa la pubblicazione della sentenza quando e' irrogata una pena detentiva non inferiore a tre anni di reclusione. I dati personali della persona condannata sono riportati solo se sussistono specifiche ed eccezionali ragioni di pubblico interesse espressamente indicate in sentenza.",
+    "con_marcatori": "Art. 275-novies (( (Pubblicazione della sentenza di condanna). )). ((La condanna per taluno dei reati di cui agli articoli 275-bis, 275-ter, 275-quater, 275-quinquies e all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286, importa la pubblicazione della sentenza quando e' irrogata una pena detentiva non inferiore a tre anni di reclusione. I dati personali della persona condannata sono riportati solo se sussistono specifiche ed eccezionali ragioni di pubblico interesse espressamente indicate in sentenza.))",
+    "caratteri": 497
+  },
+  "note": [],
+  "impronta": "sha256:4647ff3c831edfc1f5f3dcb20a48a8756b824b11c7630a02e1ed76f0d9659dab"
+}

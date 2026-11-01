@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "319-quater",
+    "rubrica": "Induzione indebita a dare o promettere utilita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art319-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, abusando della sua qualita' o dei suoi poteri, induce taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilita' e' punito con la reclusione da sei anni a dieci anni e sei mesi. Nei casi previsti dal primo comma, chi da' o promette denaro o altra utilita' e' punito con la reclusione fino a tre anni ovvero con la reclusione fino a quattro anni quando il fatto offende gli interessi finanziari dell'Unione europea e il danno o il profitto sono superiori a euro 100.000.",
+    "con_marcatori": "Art. 319-quater. (Induzione indebita a dare o promettere utilita'). Salvo che il fatto costituisca piu' grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, abusando della sua qualita' o dei suoi poteri, induce taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilita' e' punito con la reclusione da sei anni a dieci anni e sei mesi. Nei casi previsti dal primo comma, chi da' o promette denaro o altra utilita' e' punito con la reclusione fino a tre anni ((ovvero con la reclusione fino a quattro anni quando il fatto offende gli interessi finanziari dell'Unione europea e il danno o il profitto sono superiori a euro 100.000)). (281)",
+    "caratteri": 610
+  },
+  "note": [
+    {
+      "numero": 281,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        },
+        {
+          "denominazione": "L. 17 ottobre 2017, n. 161",
+          "urn": "urn:nir:stato:legge:2017-10-17;161",
+          "data": "2017-10-17",
+          "numero": "161",
+          "data_gazzetta": "2017-11-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'art. 71, commi 1 e 3) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:bd16377096f745295165cc1a725867b6d46d18b39524fc30872a46bda7acb0b9"
+}

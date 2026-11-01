@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2495",
+    "rubrica": "Cancellazione della societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2495"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Approvato il bilancio finale di liquidazione, i liquidatori devono chiedere la cancellazione della societa' dal registro delle imprese , salvo quanto disposto dal secondo comma. Decorsi cinque giorni dalla scadenza del termine previsto dal terzo comma dell'articolo 2492, il conservatore del registro delle imprese iscrive la cancellazione della societa' qualora non riceva notizia della presentazione di reclami da parte del cancelliere. Ferma restando l'estinzione della societa', dopo la cancellazione i creditori sociali non soddisfatti possono far valere i loro crediti nei confronti dei soci, fino alla concorrenza delle somme da questi riscosse in base al bilancio finale di liquidazione, e nei confronti dei liquidatori, se il mancato pagamento e' dipeso da colpa di questi. La domanda, se proposta entro un anno dalla cancellazione, puo' essere notificata presso l'ultima sede della societa'.",
+    "con_marcatori": "Art. 2495. (Cancellazione della societa'). Approvato il bilancio finale di liquidazione, i liquidatori devono chiedere la cancellazione della societa' dal registro delle imprese ((, salvo quanto disposto dal secondo comma)). ((Decorsi cinque giorni dalla scadenza del termine previsto dal terzo comma dell'articolo 2492, il conservatore del registro delle imprese iscrive la cancellazione della societa' qualora non riceva notizia della presentazione di reclami da parte del cancelliere)). Ferma restando l'estinzione della societa', dopo la cancellazione i creditori sociali non soddisfatti possono far valere i loro crediti nei confronti dei soci, fino alla concorrenza delle somme da questi riscosse in base al bilancio finale di liquidazione, e nei confronti dei liquidatori, se il mancato pagamento e' dipeso da colpa di questi. La domanda, se proposta entro un anno dalla cancellazione, puo' essere notificata presso l'ultima sede della societa'.",
+    "caratteri": 901
+  },
+  "note": [],
+  "impronta": "sha256:51bc11218e4c36fe7eff5658656c4fe12c71ebe526eff7da4b52929edbe23819"
+}

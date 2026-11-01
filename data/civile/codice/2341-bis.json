@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2341-bis",
+    "rubrica": "Patti parasociali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2341-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I patti, in qualunque forma stipulati, che al fine di stabilizzare gli assetti proprietari o il governo della societa': a) hanno per oggetto l'esercizio del diritto di voto nelle societa' per azioni o nelle societa' che le controllano; b) pongono limiti al trasferimento delle relative azioni o delle partecipazioni in societa' che le controllano; c) hanno per oggetto o per effetto l'esercizio anche congiunto di un'influenza dominante su tali societa', non possono avere durata superiore a cinque anni e si intendono stipulati per questa durata anche se le parti hanno previsto un termine maggiore; i patti sono rinnovabili alla scadenza. Qualora il patto non preveda un termine di durata, ciascun contraente ha diritto di recedere con un preavviso di centottanta giorni. Le disposizioni di questo articolo non si applicano ai patti strumentali ad accordi di collaborazione nella produzione o nello scambio di beni o servizi e relativi a societa' interamente possedute dai partecipanti all'accordo.",
+    "con_marcatori": "Art. 2341-bis (( (Patti parasociali). )) ((I patti, in qualunque forma stipulati, che al fine di stabilizzare gli assetti proprietari o il governo della societa': a) hanno per oggetto l'esercizio del diritto di voto nelle societa' per azioni o nelle societa' che le controllano; b) pongono limiti al trasferimento delle relative azioni o delle partecipazioni in societa' che le controllano; c) hanno per oggetto o per effetto l'esercizio anche congiunto di un'influenza dominante su tali societa', non possono avere durata superiore a cinque anni e si intendono stipulati per questa durata anche se le parti hanno previsto un termine maggiore; i patti sono rinnovabili alla scadenza. Qualora il patto non preveda un termine di durata, ciascun contraente ha diritto di recedere con un preavviso di centottanta giorni. Le disposizioni di questo articolo non si applicano ai patti strumentali ad accordi di collaborazione nella produzione o nello scambio di beni o servizi e relativi a societa' interamente possedute dai partecipanti all'accordo.))",
+    "caratteri": 1000
+  },
+  "note": [],
+  "impronta": "sha256:72ec4f9f3c3f2d23f630d4b194fb115be8de481e0832688cb24c4d03221bfad9"
+}

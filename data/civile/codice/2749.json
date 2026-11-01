@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2749",
+    "rubrica": "Estensione del privilegio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2749"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il privilegio accordato al credito si estende alle spese ordinarie per l'intervento nel processo di esecuzione. Si estende anche agli interessi dovuti per l'anno in corso alla data del pignoramento e per quelli dell'anno precedente. Gli interessi successivamente maturati hanno privilegio nei limiti della misura legale fino alla data della vendita.",
+    "con_marcatori": "Art. 2749. (Estensione del privilegio). Il privilegio accordato al credito si estende alle spese ordinarie per l'intervento nel processo di esecuzione. Si estende anche agli interessi dovuti per l'anno in corso alla data del pignoramento e per quelli dell'anno precedente. Gli interessi successivamente maturati hanno privilegio nei limiti della misura legale fino alla data della vendita.",
+    "caratteri": 349
+  },
+  "note": [],
+  "impronta": "sha256:3b2e1870fc6540a74228a8d6a12f9e893e213a0ef64812802d2278b0cf42be86"
+}

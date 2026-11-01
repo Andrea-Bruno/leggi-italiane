@@ -1,0 +1,61 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "156",
+    "rubrica": "Estinzione del diritto di remissione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art156"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 68,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il diritto di remissione si estingue con la morte della persona offesa dal reato.",
+    "con_marcatori": "Art. 156. (Estinzione del diritto di remissione) Il diritto di remissione si estingue con la morte della persona offesa dal reato. ((68))",
+    "caratteri": 81
+  },
+  "note": [
+    {
+      "numero": 68,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1975-06-19",
+        "numero": "151"
+      },
+      "testo": "La Corte Costituzionale con sentenza 6-19 giugno 1975, n. 151 (in G.U. 1ª s.s. 25/06/1975, n. 166) ha dichiarato l'illegittimita' costituzionale del presente articolo nella parte in cui non attribuisce l'esercizio del diritto di remissione della querela agli eredi della persona offesa dal reato, allorche' tutti vi consentano."
+    }
+  ],
+  "impronta": "sha256:cb51b285db9cb89d909e7b8fed0776c4570d8818bb9ed8b06a1ce309400f4e5f"
+}

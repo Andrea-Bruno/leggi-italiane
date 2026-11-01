@@ -1,0 +1,131 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "416-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art416-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Associazioni di tipo mafioso anche straniere Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione da dieci a quindici anni. Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione da dodici a diciotto anni. L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri ovvero al fine di impedire od ostacolare il libero esercizio del voto o di procurare voti a se' o ad altri in occasione di consultazioni elettorali. Se l'associazione e' armata si applica la pena della reclusione da dodici a venti anni nei casi previsti dal primo comma e da quindici a ventisei anni nei casi previsti dal secondo comma. L'associazione si considera armata quando i partecipanti hanno la disponibilita', per il conseguimento della finalita' dell'associazione, di armi o materie esplodenti, anche se occultate o tenute in luogo di deposito. Se le attivita' economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di delitti, le pene stabilite nei commi precedenti sono aumentate da un terzo alla meta'. Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. PERIODO ABROGATO DALLA L. 19 MARZO 1990, N. 55. Ove la confisca non sia possibile, e' disposta la confisca di beni di cui il reo ha la disponibilita', anche indirettamente o per interposta persona, per un valore corrispondente al prezzo, al prodotto o al profitto del reato. Le disposizioni del presente articolo si applicano anche alla camorra, alla 'ndrangheta e alle altre associazioni, comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.",
+    "con_marcatori": "Art. 416-bis. Associazioni di tipo mafioso anche straniere Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione da dieci a quindici anni. Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione da dodici a diciotto anni. L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri ovvero al fine di impedire od ostacolare il libero esercizio del voto o di procurare voti a se' o ad altri in occasione di consultazioni elettorali. Se l'associazione e' armata si applica la pena della reclusione da dodici a venti anni nei casi previsti dal primo comma e da quindici a ventisei anni nei casi previsti dal secondo comma. L'associazione si considera armata quando i partecipanti hanno la disponibilita', per il conseguimento della finalita' dell'associazione, di armi o materie esplodenti, anche se occultate o tenute in luogo di deposito. Se le attivita' economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di delitti, le pene stabilite nei commi precedenti sono aumentate da un terzo alla meta'. Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. PERIODO ABROGATO DALLA L. 19 MARZO 1990, N. 55. ((Ove la confisca non sia possibile, e' disposta la confisca di beni di cui il reo ha la disponibilita', anche indirettamente o per interposta persona, per un valore corrispondente al prezzo, al prodotto o al profitto del reato.)) (118) Le disposizioni del presente articolo si applicano anche alla camorra, alla 'ndrangheta e alle altre associazioni, comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso. (96) (125) (233)",
+    "caratteri": 2389
+  },
+  "note": [
+    {
+      "numero": 96,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "L. 13 settembre 1982, n. 646",
+          "urn": "urn:nir:stato:legge:1982-09-13;646",
+          "data": "1982-09-13",
+          "numero": "646",
+          "data_gazzetta": "1982-09-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 ha disposto: - (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate se il fatto e' commesso da persona gia' sottoposta con provvedimento definitivo a misura di prevenzione; -(con l'art. 7, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    },
+    {
+      "numero": 118,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 19 marzo 1990, n. 55",
+          "urn": "urn:nir:stato:legge:1990-03-19;55",
+          "data": "1990-03-19",
+          "numero": "55",
+          "data_gazzetta": "1990-03-23"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 19 marzo 1990, n. 55 ha disposto (con l'art. 36, comma 2) che restano tuttavia ferme le decadenze di diritto previste dalla seconda parte del settimo comma del presente articolo conseguenti a sentenze divenute irrevocabili anteriormente alla data di entrata in vigore della stessa L. 19 marzo 1990, n. 55."
+    },
+    {
+      "numero": 125,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "D.L. 13 maggio 1991, n. 152",
+          "urn": "urn:nir:stato:decretoLegge:1991-05-13;152",
+          "data": "1991-05-13",
+          "numero": "152",
+          "data_gazzetta": "1991-05-13"
+        },
+        {
+          "denominazione": "L. 12 luglio 1991, n. 203",
+          "urn": "urn:nir:stato:legge:1991-07-12;203",
+          "data": "1991-07-12",
+          "numero": "203",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575 come modificata dal D.L. 13 maggio 1991, n. 152 convertito con modificazioni dalla L. 12 luglio 1991, n. 203 ha disposto (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione."
+    },
+    {
+      "numero": 233,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159 ha disposto: - (con l'art. 71, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione; - (con l'art. 71, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:10dcd5eba37863047e9e87c254a3e1037d63b49fa5604dd2a515c6b0aaf293b0"
+}

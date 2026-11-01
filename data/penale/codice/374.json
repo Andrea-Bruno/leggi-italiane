@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "374",
+    "rubrica": "Frode processuale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art374"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, nel corso di un procedimento civile o amministrativo, al fine di trarre in inganno il giudice in un atto d'ispezione o di esperimento giudiziale, ovvero il perito nella esecuzione di una perizia, immuta artificiosamente lo stato dei luoghi o delle cose o delle persone, e' punito, qualora il fatto non sia preveduto come reato da una particolare disposizione di legge, con la reclusione da uno a cinque anni. La stessa disposizione si applica se il fatto e' commesso nel corso di un procedimento penale, anche davanti alla Corte penale internazionale, o anteriormente ad esso; ma in tal caso la punibilita' e' esclusa, se si tratta di reato per cui non si puo' procedere che in seguito a querela, richiesta o istanza, e questa non e' stata presentata.",
+    "con_marcatori": "Art. 374. (Frode processuale) Chiunque, nel corso di un procedimento civile o amministrativo, al fine di trarre in inganno il giudice in un atto d'ispezione o di esperimento giudiziale, ovvero il perito nella esecuzione di una perizia, immuta artificiosamente lo stato dei luoghi o delle cose o delle persone, e' punito, qualora il fatto non sia preveduto come reato da una particolare disposizione di legge, con la reclusione ((da uno a cinque anni)). La stessa disposizione si applica se il fatto e' commesso nel corso di un procedimento penale, anche davanti alla Corte penale internazionale, o anteriormente ad esso; ma in tal caso la punibilita' e' esclusa, se si tratta di reato per cui non si puo' procedere che in seguito a querela, richiesta o istanza, e questa non e' stata presentata.",
+    "caratteri": 761
+  },
+  "note": [],
+  "impronta": "sha256:3347379385239f1f0e718e003433737181ee9e019a9a4f1f5c3a01f893ab1b03"
+}

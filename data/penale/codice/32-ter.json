@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "32-ter",
+    "rubrica": "Incapacita' di contrattare con la pubblica amministrazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art32-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'incapacita' di contrattare con la pubblica amministrazione importa il divieto di concludere contratti con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio. Essa non puo' avere durata inferiore ad un anno ne' superiore a cinque anni.",
+    "con_marcatori": "Art. 32-ter. (Incapacita' di contrattare con la pubblica amministrazione). L'incapacita' di contrattare con la pubblica amministrazione importa il divieto di concludere contratti con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio. Essa non puo' avere durata inferiore ad un anno ne' superiore a ((cinque)) anni.",
+    "caratteri": 276
+  },
+  "note": [],
+  "impronta": "sha256:bf4859ccb52940cc1de350ce6b78b4621a0de1751c27e7d17815f449b87a0ccf"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-quinquiesdecies",
+    "rubrica": "Nozione di abusivita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452-quinquiesdecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Agli effetti della legge penale, il termine abusivamente si intende riferito anche alle condotte poste in essere: 1) in violazione di disposizioni legislative dell'Unione europea in materia di salvaguardia, tutela e miglioramento della qualita' dell'ambiente, protezione della salute umana, utilizzazione accorta e razionale delle risorse naturali, promozione sul piano internazionale di misure destinate a risolvere i problemi dell'ambiente; 2) in violazione di disposizioni legislative, regolamentari o amministrative attuative delle disposizioni di cui al numero 1); 3) sulla base di autorizzazioni ottenute fraudolentemente ovvero con violenza o minaccia o mediante la commissione di reati contro la pubblica amministrazione.",
+    "con_marcatori": "Art. 452-quinquiesdecies (( (Nozione di abusivita'). )). ((Agli effetti della legge penale, il termine abusivamente si intende riferito anche alle condotte poste in essere: 1) in violazione di disposizioni legislative dell'Unione europea in materia di salvaguardia, tutela e miglioramento della qualita' dell'ambiente, protezione della salute umana, utilizzazione accorta e razionale delle risorse naturali, promozione sul piano internazionale di misure destinate a risolvere i problemi dell'ambiente; 2) in violazione di disposizioni legislative, regolamentari o amministrative attuative delle disposizioni di cui al numero 1); 3) sulla base di autorizzazioni ottenute fraudolentemente ovvero con violenza o minaccia o mediante la commissione di reati contro la pubblica amministrazione)).",
+    "caratteri": 731
+  },
+  "note": [],
+  "impronta": "sha256:7a878bd16e9c9b14c4f99a3914fb98f6ed48ba2b9e3c903db513d47dd9edc68a"
+}

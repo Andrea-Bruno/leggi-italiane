@@ -1,0 +1,63 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "272",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art272"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 24 FEBBRAIO 2006, N. 85",
+        "testo": "ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 2006, N. 85"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 2006, N. 85",
+    "con_marcatori": "Art. 272. ((ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 2006, N. 85))",
+    "caratteri": 50
+  },
+  "note": [
+    {
+      "numero": 37,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1966-07-06",
+        "numero": "87"
+      },
+      "testo": "La Corte Costituzionale con sentenza 22 giugno - 6 luglio 1966, n. 87 (in G.U. 1ª s.s. 9/7/1966, n. 168) ha dichiarato l'illegittimita' costituzionale del secondo comma del presente articolo."
+    }
+  ],
+  "impronta": "sha256:9a98e28462a9f58c7786637c6de080812f8c1a1b93d1322c4605866398c55aac"
+}

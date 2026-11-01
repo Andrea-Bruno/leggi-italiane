@@ -1,0 +1,47 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2504-sexies",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2504-sexies"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "D.LGS. 17 GENNAIO 2003, N. 6",
+        "testo": "ARTICOLO NON PIU' PREVISTO A SEGUITO DELLA SOSTITUZIONE DEL LIBRO V, TITOLO V, CAPO IX, DISPOSTA DAL D.LGS. 17 GENNAIO 2003, N. 6"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO NON PIU' PREVISTO A SEGUITO DELLA SOSTITUZIONE DEL LIBRO V, TITOLO V, CAPO IX, DISPOSTA DAL D.LGS. 17 GENNAIO 2003, N. 6",
+    "con_marcatori": "Art. 2504-sexies. ((ARTICOLO NON PIU' PREVISTO A SEGUITO DELLA SOSTITUZIONE DEL LIBRO V, TITOLO V, CAPO IX, DISPOSTA DAL D.LGS. 17 GENNAIO 2003, N. 6))",
+    "caratteri": 129
+  },
+  "note": [],
+  "impronta": "sha256:97351e0ef6b4024f9223a1a4c963953c195b74785b4cc01e7e4e2f9c315f3e3a"
+}

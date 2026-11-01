@@ -1,0 +1,162 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "57",
+    "rubrica": "Reati commessi col mezzo della stampa periodica",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art57"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salva la responsabilita' dell'autore della pubblicazione e fuori dei casi di concorso, il direttore o il vice-direttore responsabile, il quale omette di esercitare sul contenuto del periodico da lui diretto il controllo necessario ad impedire che col mezzo della pubblicazione siano commessi reati, e' punito, a titolo di colpa, se un reato e' commesso, con la pena stabilita per tale reato, diminuita in misura non eccedente un terzo.",
+    "con_marcatori": "Art. 57. (Reati commessi col mezzo della stampa periodica). Salva la responsabilita' dell'autore della pubblicazione e fuori dei casi di concorso, il direttore o il vice-direttore responsabile, il quale omette di esercitare sul contenuto del periodico da lui diretto il controllo necessario ad impedire che col mezzo della pubblicazione siano commessi reati, e' punito, a titolo di colpa, se un reato e' commesso, con la pena stabilita per tale reato, diminuita in misura non eccedente un terzo.(36) (83) (91) (107) ((119))",
+    "caratteri": 435
+  },
+  "note": [
+    {
+      "numero": 36,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 4 giugno 1966, n. 332",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1966-06-04;332",
+          "data": "1966-06-04",
+          "numero": "332",
+          "data_gazzetta": "1966-06-04"
+        },
+        {
+          "denominazione": "art. 57 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 giugno 1966, n. 332 ha disposto (con l'art. 1, comma 1, lettera e)) che \"E' concessa amnistia, salvo quanto previsto dal presente decreto per i reati in materia tributaria: [...] e) per i reati previsti e puniti dall'art. 57 del Codice penale, commessi dal direttore o vice direttore responsabile, quando sia noto l'autore della pubblicazione\". Ha inoltre disposto (con l'art. 16, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966."
+    },
+    {
+      "numero": 83,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 4 agosto 1978, n. 413",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1978-08-04;413",
+          "data": "1978-08-04",
+          "numero": "413",
+          "data_gazzetta": "1978-08-05"
+        },
+        {
+          "denominazione": "art. 57 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 agosto 1978, n. 413 ha disposto (con l'art. 1, comma 1, lettera c)) che \"E' concessa amnistia: [...] c) per i reati previsti dall'art. 57 del codice penale (reati commessi col mezzo della stampa periodica) commessi dal direttore o dal vicedirettore responsabile, quando sia noto l'autore della pubblicazione\". Ha inoltre disposto (con l'art. 10, comma 1) che l'amnistia ha efficacia per i reati commessi sino a tutto il giorno 15 marzo 1978."
+    },
+    {
+      "numero": 91,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 57 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 18 dicembre 1981, n. 744",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1981-12-18;744",
+          "data": "1981-12-18",
+          "numero": "744",
+          "data_gazzetta": "1981-12-19"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 18 dicembre 1981, n. 744 ha disposto (con l'art. 1, comma 1, lettera c)) che \"E' concessa amnistia: [...] c) per i reati previsti dall'art. 57 del codice penale (reati commessi col mezzo della stampa periodica) commessi dal direttore o dal vice direttore responsabile, quando sia noto l'autore della pubblicazione\". Ha inoltre disposto (con l'art. 11, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 31 agosto 1981."
+    },
+    {
+      "numero": 107,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 57 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 16 dicembre 1986, n. 865",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1986-12-16;865",
+          "data": "1986-12-16",
+          "numero": "865",
+          "data_gazzetta": "1986-12-16"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 16 dicembre 1986, n. 865 ha disposto (con l'art. 1, comma 1, lettera c)) che \"E' concessa amnistia: [...] c) per i reati previsti dall'art. 57 del codice penale commessi dal direttore o dal vicedirettore responsabile, quando sia noto l'autore della pubblicazione\". Ha inoltre disposto (con l'art. 12, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 8 giugno 1986."
+    },
+    {
+      "numero": 119,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 12 aprile 1990, n. 75",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-04-12;75",
+          "data": "1990-04-12",
+          "numero": "75",
+          "data_gazzetta": "1990-04-12"
+        },
+        {
+          "denominazione": "articolo 57 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 12 aprile 1990, n. 75 ha disposto (con l'art. 1, comma 1, lettera b)) che \"E' concessa amnistia: [...] b) per i reati previsti dall'articolo 57 del codice penale commessi dal direttore o dal vicedirettore responsabile, quando e' noto l'autore della pubblicazione\". Ha inoltre disposto (con l'art. 6, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 24 ottobre 1989."
+    }
+  ],
+  "impronta": "sha256:d18cd46d22b60d15d9497cdca0ab4f85bc2cb34a3900f21aee286e596312c0a0"
+}

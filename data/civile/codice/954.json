@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "954",
+    "rubrica": "Estinzione del diritto di superficie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art954"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'estinzione del diritto di superficie per scadenza del termine importa l'estinzione dei diritti reali imposti dal superficiario. I diritti gravanti sul suolo si estendono alla costruzione, salvo, per le ipoteche, il disposto del primo comma dell'art. 2816. I contratti di locazione, che hanno per oggetto la costruzione, non durano se non per l'anno in corso alla scadenza del termine. Il perimento della costruzione non importa, salvo patto contrario, l'estinzione del diritto di superficie. Il diritto di fare la costruzione sul suolo altrui si estingue per prescrizione per effetto del non uso protratto per venti anni.",
+    "con_marcatori": "Art. 954. (Estinzione del diritto di superficie). L'estinzione del diritto di superficie per scadenza del termine importa l'estinzione dei diritti reali imposti dal superficiario. I diritti gravanti sul suolo si estendono alla costruzione, salvo, per le ipoteche, il disposto del primo comma dell'art. 2816. I contratti di locazione, che hanno per oggetto la costruzione, non durano se non per l'anno in corso alla scadenza del termine. Il perimento della costruzione non importa, salvo patto contrario, l'estinzione del diritto di superficie. Il diritto di fare la costruzione sul suolo altrui si estingue per prescrizione per effetto del non uso protratto per venti anni.",
+    "caratteri": 623
+  },
+  "note": [],
+  "impronta": "sha256:5cfcc8c01cbfc9ff9a6fa21a7a5066ef5fb8451d95305da0d3299bc0bf8ca3a3"
+}

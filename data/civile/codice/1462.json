@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1462",
+    "rubrica": "Clausola limitativa della proponibilita' di eccezioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1462"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La clausola con cui si stabilisce che una delle parti non puo' opporre eccezioni al fine di evitare o ritardare la prestazione dovuta, non ha effetto per le eccezioni di nullita', di annullabilita' e di rescissione del contratto. Nei casi in cui la clausola e' efficace, il giudice, se riconosce che concorrono gravi motivi, puo' tuttavia sospendere la condanna, imponendo, se del caso, una cauzione.",
+    "con_marcatori": "Art. 1462. (Clausola limitativa della proponibilita' di eccezioni). La clausola con cui si stabilisce che una delle parti non puo' opporre eccezioni al fine di evitare o ritardare la prestazione dovuta, non ha effetto per le eccezioni di nullita', di annullabilita' e di rescissione del contratto. Nei casi in cui la clausola e' efficace, il giudice, se riconosce che concorrono gravi motivi, puo' tuttavia sospendere la condanna, imponendo, se del caso, una cauzione.",
+    "caratteri": 400
+  },
+  "note": [],
+  "impronta": "sha256:2311b67e3110eb20896a3c69de39af2968ebc8eb38a88c852dfde085dd429dc9"
+}

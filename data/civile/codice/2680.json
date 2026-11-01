@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2680",
+    "rubrica": "Tenuta del registro generale d'ordine",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2680"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il registro generale deve essere vidimato in ogni foglio dal presidente o da un giudice del tribunale nella cui circoscrizione e' stabilito l'ufficio, indicando nel relativo processo verbale il numero dei fogli e il giorno in cui sono stati vidimati. Questo registro deve essere scritto di seguito, senza spazi in bianco o interlinee e senza aggiunte. Le cancellature di parole devono essere approvate dal conservatore in fine di ciascun foglio con la sua firma e con l'indicazione del numero delle parole cancellate. Il registro, alla fine di ciascun giorno, deve essere chiuso con l'indicazione del numero dei titoli annotati e firmato dal conservatore. In esso si deve rigorosamente osservare la serie delle date, dei fogli e dei numeri d'ordine.",
+    "con_marcatori": "Art. 2680. (( (Tenuta del registro generale d'ordine).)) ((Il registro generale deve essere vidimato in ogni foglio dal presidente o da un giudice del tribunale nella cui circoscrizione e' stabilito l'ufficio, indicando nel relativo processo verbale il numero dei fogli e il giorno in cui sono stati vidimati. Questo registro deve essere scritto di seguito, senza spazi in bianco o interlinee e senza aggiunte. Le cancellature di parole devono essere approvate dal conservatore in fine di ciascun foglio con la sua firma e con l'indicazione del numero delle parole cancellate. Il registro, alla fine di ciascun giorno, deve essere chiuso con l'indicazione del numero dei titoli annotati e firmato dal conservatore. In esso si deve rigorosamente osservare la serie delle date, dei fogli e dei numeri d'ordine)).",
+    "caratteri": 749
+  },
+  "note": [],
+  "impronta": "sha256:b879bdbe9523feda4f9ba4eea93867ca4befe95d469030419997360b3341e0b2"
+}

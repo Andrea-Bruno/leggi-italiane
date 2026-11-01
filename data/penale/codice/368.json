@@ -1,0 +1,90 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "368",
+    "rubrica": "Calunnia",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art368"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, con denunzia, querela, richiesta o istanza, anche se anonima o sotto falso nome, diretta all'Autorita' giudiziaria o ad un'altra Autorita' che a quella abbia obbligo di riferirne o alla Corte penale internazionale, incolpa di un reato taluno che egli sa innocente, ovvero simula a carico di lui le tracce di un reato, e' punito con la reclusione da due a sei anni. La pena e' aumentata se s'incolpa taluno di un reato pel quale la legge stabilisce la pena della reclusione superiore nel massimo a dieci anni, o un'altra pena piu' grave. La reclusione e' da quattro a dodici anni, se dal fatto deriva una condanna alla reclusione superiore a cinque anni; e' da sei a venti anni, se dal fatto deriva una condanna all'ergastolo; e si applica la pena dell'ergastolo, se dal fatto deriva una condanna alla pena di morte.",
+    "con_marcatori": "Art. 368. (Calunnia) Chiunque, con denunzia, querela, richiesta o istanza, anche se anonima o sotto falso nome, diretta all'Autorita' giudiziaria o ad un'altra Autorita' che a quella abbia obbligo di riferirne o alla Corte penale internazionale, incolpa di un reato taluno che egli sa innocente, ovvero simula a carico di lui le tracce di un reato, e' punito con la reclusione da due a sei anni. La pena e' aumentata se s'incolpa taluno di un reato pel quale la legge stabilisce la pena della reclusione superiore nel massimo a dieci anni, o un'altra pena piu' grave. La reclusione e' da quattro a dodici anni, se dal fatto deriva una condanna alla reclusione superiore a cinque anni; e' da sei a venti anni, se dal fatto deriva una condanna all'ergastolo; e si applica la pena dell'ergastolo, se dal fatto deriva una condanna alla pena di morte. (5) ((287))",
+    "caratteri": 825
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 287,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 11 gennaio 2018, n. 6",
+          "urn": "urn:nir:stato:legge:2018-01-11;6",
+          "data": "2018-01-11",
+          "numero": "6",
+          "data_gazzetta": "2018-02-06"
+        },
+        {
+          "denominazione": "articolo 368 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 11 gennaio 2018, n. 6 ha disposto (con l'art. 22, comma 1) che \"Le pene previste per il reato di calunnia di cui all'articolo 368 del codice penale sono aumentate da un terzo alla meta' quando il colpevole ha commesso il fatto allo scopo di usufruire o di continuare ad usufruire delle speciali misure di protezione previste dalla presente legge. L'aumento e' dalla meta' ai due terzi se uno dei benefici e' stato conseguito\"."
+    }
+  ],
+  "impronta": "sha256:1da447a69066dddf825c45a8d8f40a7ccc6aba6ca52004c095af9c1b3f1a2dd1"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "407",
+    "rubrica": "Procedimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art407"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il ricorso per l'istituzione dell'amministrazione di sostegno deve indicare le generalita' del beneficiario, la sua dimora abituale, le ragioni per cui si richiede la nomina dell'amministratore di sostegno, il nominativo ed il domicilio, se conosciuti dal ricorrente, del coniuge, dei discendenti, degli ascendenti, dei fratelli e dei conviventi del beneficiario. Il giudice tutelare deve sentire personalmente la persona cui il procedimento si riferisce recandosi, ove occorra, nel luogo in cui questa si trova e deve tener conto, compatibilmente con gli interessi e le esigenze di protezione della persona, dei bisogni e delle richieste di questa. Il giudice tutelare provvede, assunte le necessarie informazioni e sentiti i soggetti di cui all'articolo 406; in caso di mancata comparizione provvede comunque sul ricorso. Dispone altresi', anche d'ufficio, gli accertamenti di natura medica e tutti gli altri mezzi istruttori utili ai fini della decisione. Il giudice tutelare puo', in ogni tempo, modificare o integrare, anche d'ufficio, le decisioni assunte con il decreto di nomina dell'amministratore di sostegno. In ogni caso, nel procedimento di nomina dell'amministratore di sostegno interviene il pubblico ministero.",
+    "con_marcatori": "Art. 407. (( (Procedimento). )) ((Il ricorso per l'istituzione dell'amministrazione di sostegno deve indicare le generalita' del beneficiario, la sua dimora abituale, le ragioni per cui si richiede la nomina dell'amministratore di sostegno, il nominativo ed il domicilio, se conosciuti dal ricorrente, del coniuge, dei discendenti, degli ascendenti, dei fratelli e dei conviventi del beneficiario. Il giudice tutelare deve sentire personalmente la persona cui il procedimento si riferisce recandosi, ove occorra, nel luogo in cui questa si trova e deve tener conto, compatibilmente con gli interessi e le esigenze di protezione della persona, dei bisogni e delle richieste di questa. Il giudice tutelare provvede, assunte le necessarie informazioni e sentiti i soggetti di cui all'articolo 406; in caso di mancata comparizione provvede comunque sul ricorso. Dispone altresi', anche d'ufficio, gli accertamenti di natura medica e tutti gli altri mezzi istruttori utili ai fini della decisione. Il giudice tutelare puo', in ogni tempo, modificare o integrare, anche d'ufficio, le decisioni assunte con il decreto di nomina dell'amministratore di sostegno. In ogni caso, nel procedimento di nomina dell'amministratore di sostegno interviene il pubblico ministero.))",
+    "caratteri": 1226
+  },
+  "note": [],
+  "impronta": "sha256:7ca1a3d34fd996fc131e1cca2a3d8bf1599b246093887d068773c42092cd262e"
+}

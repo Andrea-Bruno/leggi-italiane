@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1512",
+    "rubrica": "Garanzia di buon funzionamento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1512"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il venditore ha garantito per un tempo determinato il buon funzionamento della cosa venduta, il compratore, salvo patto contrario, deve denunziare al venditore il difetto di funzionamento entro trenta giorni dalla scoperta, sotto pena di decadenza. L'azione si prescrive in sei mesi dalla scoperta. Il giudice, secondo le circostanze, puo' assegnare al venditore un termine per sostituire o riparare la cosa in modo da assicurarne il buon funzionamento, salvo il risarcimento dei danni. Sono salvi gli usi i quali stabiliscono che la garanzia di buon funzionamento e' dovuta anche in mancanza di patto espresso.",
+    "con_marcatori": "Art. 1512. (Garanzia di buon funzionamento). Se il venditore ha garantito per un tempo determinato il buon funzionamento della cosa venduta, il compratore, salvo patto contrario, deve denunziare al venditore il difetto di funzionamento entro trenta giorni dalla scoperta, sotto pena di decadenza. L'azione si prescrive in sei mesi dalla scoperta. Il giudice, secondo le circostanze, puo' assegnare al venditore un termine per sostituire o riparare la cosa in modo da assicurarne il buon funzionamento, salvo il risarcimento dei danni. Sono salvi gli usi i quali stabiliscono che la garanzia di buon funzionamento e' dovuta anche in mancanza di patto espresso.",
+    "caratteri": 614
+  },
+  "note": [],
+  "impronta": "sha256:5d16ed9208e5e5424384f6d5df434d8f722cc999aa733b043ce9af19f3d272cd"
+}

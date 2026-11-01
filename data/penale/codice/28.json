@@ -1,0 +1,115 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "28",
+    "rubrica": "Interdizione dai pubblici uffici",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art28"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 34,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 41,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "L'interdizione dai pubblici uffici e' perpetua o temporanea. L'interdizione perpetua dai pubblici uffici, salvo che dalla legge sia altrimenti disposto, priva il condannato: 1° del diritto di elettorato o di eleggibilita' in qualsiasi comizio elettorale, e di ogni altro diritto politico; 2° di ogni pubblico ufficio, di ogni incarico non obbligatorio di pubblico servizio, e della qualita' ad essi inerente di pubblico ufficiale o d'incaricato di pubblico servizio; 3° dell'ufficio di tutore o di curatore, anche provvisorio, e di ogni altro ufficio attinente alla tutela o alla cura; 4° dei gradi e delle dignita' accademiche, dei titoli, delle decorazioni o di altre pubbliche insegne onorifiche; 5° degli stipendi, delle pensioni e degli assegni che siano a carico dello Stato o di un altro ente pubblico; 6° di ogni diritto onorifico, inerente a qualunque degli uffici, servizi, gradi o titoli e delle qualita', dignita' e decorazioni indicati nei numeri precedenti; 7° della capacita' di assumere o di acquistare qualsiasi diritto, ufficio, servizio, qualita', grado, titolo, dignita', decorazione e insegna onorifica, indicati nei numeri precedenti. L'interdizione temporanea priva il condannato della capacita' di acquistare o di esercitare o di godere, durante l'interdizione, i predetti diritti, uffici, servizi, qualita', gradi, titoli e onorificenze. Essa non puo' avere una durata inferiore a un anno, ne' superiore a cinque. La legge determina i casi nei quali l'interdizione dai pubblici uffici e' limitata ad alcuni di questi.",
+    "con_marcatori": "Art. 28. (Interdizione dai pubblici uffici) L'interdizione dai pubblici uffici e' perpetua o temporanea. L'interdizione perpetua dai pubblici uffici, salvo che dalla legge sia altrimenti disposto, priva il condannato: 1° del diritto di elettorato o di eleggibilita' in qualsiasi comizio elettorale, e di ogni altro diritto politico; 2° di ogni pubblico ufficio, di ogni incarico non obbligatorio di pubblico servizio, e della qualita' ad essi inerente di pubblico ufficiale o d'incaricato di pubblico servizio; 3° dell'ufficio di tutore o di curatore, anche provvisorio, e di ogni altro ufficio attinente alla tutela o alla cura; 4° dei gradi e delle dignita' accademiche, dei titoli, delle decorazioni o di altre pubbliche insegne onorifiche; 5° degli stipendi, delle pensioni e degli assegni che siano a carico dello Stato o di un altro ente pubblico;(34) ((41)) 6° di ogni diritto onorifico, inerente a qualunque degli uffici, servizi, gradi o titoli e delle qualita', dignita' e decorazioni indicati nei numeri precedenti; 7° della capacita' di assumere o di acquistare qualsiasi diritto, ufficio, servizio, qualita', grado, titolo, dignita', decorazione e insegna onorifica, indicati nei numeri precedenti. L'interdizione temporanea priva il condannato della capacita' di acquistare o di esercitare o di godere, durante l'interdizione, i predetti diritti, uffici, servizi, qualita', gradi, titoli e onorificenze.(34) Essa non puo' avere una durata inferiore a un anno, ne' superiore a cinque. La legge determina i casi nei quali l'interdizione dai pubblici uffici e' limitata ad alcuni di questi.",
+    "caratteri": 1542
+  },
+  "note": [
+    {
+      "numero": 34,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 28, secondo comma, n. 5, del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 28 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1966-01-13",
+        "numero": "3"
+      },
+      "testo": "La Corte Costituzionale con sentenza 7 - 13 gennaio 1966 n. 3, (in G.U. 1ª s.s. 15/01/1966, n. 12) ha dichiarato l'illegittimita' costituzionale dell'art. 28, secondo comma, n. 5, del Codice penale, limitatamente alla parte in cui i diritti in esso previsti traggono titolo da un rapporto di lavoro e, a norma dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale del terzo comma dello stesso art. 28 del Codice penale, nei medesimi limiti."
+    },
+    {
+      "numero": 41,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 28, secondo comma n. 5, del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1968-07-19",
+        "numero": "113"
+      },
+      "testo": "La Corte Costituzionale con sentenza 2 - 19 luglio 1968 n. 113, (in G.U. 1ª s.s. 20/07/1968, n. 184) ha dichiarato l'illegittimita' costituzionale dell'art. 28, secondo comma n. 5, del Codice penale, per quanto attiene alle pensioni di guerra."
+    }
+  ],
+  "impronta": "sha256:50568418f7a400a784d831151255877d2316533059042f0bc007b4023fed5bdb"
+}

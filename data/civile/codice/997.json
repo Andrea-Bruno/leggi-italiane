@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "997",
+    "rubrica": "Impianti, opifici e macchinari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art997"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'usufrutto comprende impianti, opifici o macchinari che hanno una destinazione produttiva, l'usufruttuario e' tenuto a riparare e a sostituire durante l'usufrutto le parti che si logorano, in modo da assicurare il regolare funzionamento delle cose suddette. Se l'usufruttuario ha sopportato spese che eccedono quelle delle ordinarie riparazioni, il proprietario, al termine dell'usufrutto, e' tenuto a corrispondergli una congrua indennita'.",
+    "con_marcatori": "Art. 997. (Impianti, opifici e macchinari). Se l'usufrutto comprende impianti, opifici o macchinari che hanno una destinazione produttiva, l'usufruttuario e' tenuto a riparare e a sostituire durante l'usufrutto le parti che si logorano, in modo da assicurare il regolare funzionamento delle cose suddette. Se l'usufruttuario ha sopportato spese che eccedono quelle delle ordinarie riparazioni, il proprietario, al termine dell'usufrutto, e' tenuto a corrispondergli una congrua indennita'.",
+    "caratteri": 445
+  },
+  "note": [],
+  "impronta": "sha256:12db8c35ba4f364dcd8a512fe78b55fcd7f9d833d610e90bc2caa7b8113c7dd1"
+}

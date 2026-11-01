@@ -1,0 +1,124 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "314",
+    "rubrica": "Peculato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art314"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 56,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale o l'incaricato di un pubblico servizio, che, avendo per ragione del suo ufficio o servizio il possesso o comunque la disponibilita' di denaro o di altra cosa mobile altrui, se ne appropria, e' punito con la reclusione da quattro anni a dieci anni e sei mesi. Si applica la pena della reclusione da sei mesi a tre anni quando il colpevole ha agisto al solo scopo di fare uso momentaneo della cosa, e questa, dopo l'uso momentaneo, e' stata immediatamente restituita.",
+    "con_marcatori": "Art. 314. (Peculato). Il pubblico ufficiale o l'incaricato di un pubblico servizio, che, avendo per ragione del suo ufficio o servizio il possesso o comunque la disponibilita' di denaro o di altra cosa mobile altrui, se ne appropria, e' punito con la reclusione da quattro anni a dieci anni e sei mesi. Si applica la pena della reclusione da sei mesi a tre anni quando il colpevole ha agisto al solo scopo di fare uso momentaneo della cosa, e questa, dopo l'uso momentaneo, e' stata immediatamente restituita. ((281))",
+    "caratteri": 487
+  },
+  "note": [
+    {
+      "numero": 48,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 22 maggio 1970, n. 283",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1970-05-22;283",
+          "data": "1970-05-22",
+          "numero": "283",
+          "data_gazzetta": "1970-05-22"
+        },
+        {
+          "denominazione": "art. 314 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 22 maggio 1970, n. 283 ha disposto (con l'art. 5, comma 1, lettera c)) che e' concessa amnistia \"per il delitto di cui all'art. 314 del codice penale, quando, esclusa la ipotesi di appropriazione, risulti che la distrazione del denaro o altra cosa mobile sia stata compiuta per finalita' non estranee a quelle della pubblica amministrazione\". Ha inoltre disposto (con l'art. 11, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 6 aprile 1970."
+    },
+    {
+      "numero": 56,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 22 maggio 1970, n. 283",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1970-05-22;283",
+          "data": "1970-05-22",
+          "numero": "283",
+          "data_gazzetta": "1970-05-22"
+        },
+        {
+          "denominazione": "art. 5 del D.P.R. 22 maggio 1970, n. 283",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1970-05-22;283",
+          "data": "1970-05-22",
+          "numero": "283",
+          "data_gazzetta": "1970-05-22"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1971-07-14",
+        "numero": "175"
+      },
+      "testo": "Successivamente la Corte Costituzionale, con sentenza 5 - 14 luglio 1971, n. 175 (in G.U. 1ª s.s. 21/07/1971, n. 184), ha dichiarato l'illegittimita' costituzionale dell'art. 5 del D.P.R. 22 maggio 1970, n. 283 (che ha modificato il presente articolo) nella parte in cui esclude la rinunzia, con le conseguenze indicate in motivazione, all'applicazione dell'amnistia."
+    },
+    {
+      "numero": 281,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        },
+        {
+          "denominazione": "L. 17 ottobre 2017, n. 161",
+          "urn": "urn:nir:stato:legge:2017-10-17;161",
+          "data": "2017-10-17",
+          "numero": "161",
+          "data_gazzetta": "2017-11-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'art. 71, commi 1 e 3) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:dc3bf004f2259b904b90cf1ac751557fd2ff3feb58d3ce121434ef0e6070f2ca"
+}

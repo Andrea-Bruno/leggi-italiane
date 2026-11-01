@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "502",
+    "rubrica": "Serrata e sciopero per fini contrattuali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art502"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il datore di lavoro, che, col solo scopo d'imporre ai suoi dipendenti modificazioni ai patti stabiliti, o di opporsi a modificazioni di tali patti, ovvero di ottenere o impedire una diversa applicazione dei patti o usi esistenti, sospende in tutto o in parte il lavoro nei suoi stabilimenti, aziende o uffici, e' punito con la multa non inferiore a lire diecimila.24a I lavoratori addetti a stabilimenti, aziende o uffici, che, in numero di tre o piu', abbandonano collettivamente il lavoro, ovvero lo prestano in modo da turbarne la continuita' o la regolarita', col solo scopo di imporre ai datori di lavoro patti diversi da quelli stabiliti, ovvero di opporsi a modificazioni di tali patti o, comunque, di ottenere o impedire una diversa applicazione dei patti o usi esistenti, sono puniti con la multa fino a lire mille.24a --------------- AGGIORNAMENTO (24a) La Corte costituzionale con sentenza 28 aprile - 4 maggio 1960, n. 29 (in G.U. 1ª s.s. 07/05/1960, n. 112) ha dichiarato l'illegittimita' costituzionale dell'art. 502, primo comma, del Codice penale, in riferimento agli artt. 39 e 40 della Costituzione e, in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, ha dichiarato altresi' la illegittimita' costituzionale del secondo comma dello stesso art. 502 del Codice penale.",
+    "con_marcatori": "Art. 502. (Serrata e sciopero per fini contrattuali) Il datore di lavoro, che, col solo scopo d'imporre ai suoi dipendenti modificazioni ai patti stabiliti, o di opporsi a modificazioni di tali patti, ovvero di ottenere o impedire una diversa applicazione dei patti o usi esistenti, sospende in tutto o in parte il lavoro nei suoi stabilimenti, aziende o uffici, e' punito con la multa non inferiore a lire diecimila.((24a)) I lavoratori addetti a stabilimenti, aziende o uffici, che, in numero di tre o piu', abbandonano collettivamente il lavoro, ovvero lo prestano in modo da turbarne la continuita' o la regolarita', col solo scopo di imporre ai datori di lavoro patti diversi da quelli stabiliti, ovvero di opporsi a modificazioni di tali patti o, comunque, di ottenere o impedire una diversa applicazione dei patti o usi esistenti, sono puniti con la multa fino a lire mille.((24a)) --------------- AGGIORNAMENTO (24a) La Corte costituzionale con sentenza 28 aprile - 4 maggio 1960, n. 29 (in G.U. 1ª s.s. 07/05/1960, n. 112) ha dichiarato l'illegittimita' costituzionale dell'art. 502, primo comma, del Codice penale, in riferimento agli artt. 39 e 40 della Costituzione e, in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, ha dichiarato altresi' la illegittimita' costituzionale del secondo comma dello stesso art. 502 del Codice penale.",
+    "caratteri": 1297
+  },
+  "note": [],
+  "impronta": "sha256:28a6d2e2665655031ae13f086ebe64aba65deb0d31fe3c7ab77b477ae38d4240"
+}

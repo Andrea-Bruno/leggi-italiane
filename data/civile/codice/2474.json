@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2474",
+    "rubrica": "Operazioni sulle proprie partecipazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2474"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In nessun caso la societa' puo' acquistare o accettare in garanzia partecipazioni proprie, ovvero accordare prestiti o fornire garanzia per il loro acquisto o la loro sottoscrizione.",
+    "con_marcatori": "Art. 2474. (( (Operazioni sulle proprie partecipazioni).)) ((In nessun caso la societa' puo' acquistare o accettare in garanzia partecipazioni proprie, ovvero accordare prestiti o fornire garanzia per il loro acquisto o la loro sottoscrizione.))",
+    "caratteri": 182
+  },
+  "note": [
+    {
+      "numero": 113,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 giugno 1998, n. 213",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-06-24;213",
+          "data": "1998-06-24",
+          "numero": "213",
+          "data_gazzetta": "1998-07-08"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 giugno 1998, n. 213 ha disposto (con l'art. 4, comma 2) che le presenti modifiche decorrono dal 1 gennaio 2002."
+    }
+  ],
+  "impronta": "sha256:da8c184ae82e0718d0944619485065046b23fd84c549c7f9d454b15c2d77b2f0"
+}

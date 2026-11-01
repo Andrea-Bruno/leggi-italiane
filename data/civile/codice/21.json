@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "21",
+    "rubrica": "Deliberazioni dell'assemblea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art21"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le deliberazioni dell'assemblea sono prese a maggioranza di voti e con la presenza di almeno la meta' degli associati. In seconda convocazione la deliberazione e' valida qualunque sia il numero degli intervenuti. Nelle deliberazioni di approvazione del bilancio e in quelle che riguardano la loro responsabilita' gli amministratori non hanno voto. Per modificare l'atto costitutivo e lo statuto, se in essi non e' altrimenti disposto, occorrono la presenza di almeno tre quarti degli associati e il voto favorevole della maggioranza dei presenti. Per deliberare lo scioglimento dell'associazione e la devoluzione del patrimonio occorre il voto favorevole di almeno tre quarti degli associati.",
+    "con_marcatori": "Art. 21. (Deliberazioni dell'assemblea). Le deliberazioni dell'assemblea sono prese a maggioranza di voti e con la presenza di almeno la meta' degli associati. In seconda convocazione la deliberazione e' valida qualunque sia il numero degli intervenuti. Nelle deliberazioni di approvazione del bilancio e in quelle che riguardano la loro responsabilita' gli amministratori non hanno voto. Per modificare l'atto costitutivo e lo statuto, se in essi non e' altrimenti disposto, occorrono la presenza di almeno tre quarti degli associati e il voto favorevole della maggioranza dei presenti. Per deliberare lo scioglimento dell'associazione e la devoluzione del patrimonio occorre il voto favorevole di almeno tre quarti degli associati.",
+    "caratteri": 692
+  },
+  "note": [],
+  "impronta": "sha256:23cb9430935b3acd2be473d6df20d8b40c141cf0d326ad6621a4b7bdf3d715b5"
+}

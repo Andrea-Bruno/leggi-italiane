@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "181",
+    "rubrica": "Rifiuto di consenso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art181"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se uno dei coniugi rifiuta il consenso per la stipulazione di un atto di straordinaria amministrazione o per gli altri atti per cui il consenso e' richiesto, l'altro coniuge puo' rivolgersi al giudice per ottenere l'autorizzazione nel caso in cui la stipulazione dell'atto e' necessaria nell'interesse della famiglia o dell'azienda che a norma della lettera d) dell'articolo 177 fa parte della comunione.",
+    "con_marcatori": "Art. 181. ((Rifiuto di consenso.)) ((Se uno dei coniugi rifiuta il consenso per la stipulazione di un atto di straordinaria amministrazione o per gli altri atti per cui il consenso e' richiesto, l'altro coniuge puo' rivolgersi al giudice per ottenere l'autorizzazione nel caso in cui la stipulazione dell'atto e' necessaria nell'interesse della famiglia o dell'azienda che a norma della lettera d) dell'articolo 177 fa parte della comunione)).",
+    "caratteri": 404
+  },
+  "note": [],
+  "impronta": "sha256:19226ed351ea8e1fb505ec43a5fe0814232fa2f08da0a5b4f6c585047dd04680"
+}

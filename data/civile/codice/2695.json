@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2695",
+    "rubrica": "Forme e modalita' della trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2695"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le forme e le modalita' delle trascrizioni previste in questo capo sono regolate dal codice della navigazione, per quanto riguarda le navi e gli aeromobili, e dalla legge speciale per quanto riguarda gli autoveicoli. In mancanza, si osservano le norme concernenti la trascrizione degli atti relativi ai beni immobili, in quanto sono applicabili.",
+    "con_marcatori": "Art. 2695. (Forme e modalita' della trascrizione). Le forme e le modalita' delle trascrizioni previste in questo capo sono regolate dal codice della navigazione, per quanto riguarda le navi e gli aeromobili, e dalla legge speciale per quanto riguarda gli autoveicoli. In mancanza, si osservano le norme concernenti la trascrizione degli atti relativi ai beni immobili, in quanto sono applicabili.",
+    "caratteri": 345
+  },
+  "note": [],
+  "impronta": "sha256:c639762cf2695b72dc89cb99480335d6595733abc1c9acc064d09dd86c09f11b"
+}

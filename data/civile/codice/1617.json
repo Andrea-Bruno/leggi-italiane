@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1617",
+    "rubrica": "Obblighi del locatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1617"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il locatore e' tenuto a consegnare la cosa, con i suoi accessori e le sue pertinenze, in istato da servire all'uso e alla produzione a cui e' destinata.",
+    "con_marcatori": "Art. 1617. (Obblighi del locatore). Il locatore e' tenuto a consegnare la cosa, con i suoi accessori e le sue pertinenze, in istato da servire all'uso e alla produzione a cui e' destinata.",
+    "caratteri": 152
+  },
+  "note": [],
+  "impronta": "sha256:f6bedeecdefefe7bf2a0b7f4bbd1fc4f060a394fe1cbffdce19f294c90ec85cb"
+}

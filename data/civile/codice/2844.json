@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2844",
+    "rubrica": "Azioni e notificazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2844"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le azioni a cui le iscrizioni possono dar luogo contro i creditori sono promosse davanti all'autorita' giudiziaria competente, per mezzo di citazione da farsi alla persona in mani proprie o all'ultimo domicilio da essi eletto. La stessa disposizione si applica per ogni altra notificazione relativa alle dette iscrizioni. Se non e' stata fatta elezione di domicilio o se e' morta la persona ovvero e' cessato l'ufficio presso cui si era eletto il domicilio, le citazioni e le notificazioni possono essere fatte all'ufficio presso il quale l'iscrizione e' stata presa. Se si tratta di giudizio promosso dal debitore contro il suo creditore per la riduzione dell'ipoteca o per la cancellazione totale o parziale dell'iscrizione, il creditore deve essere citato nei modi ordinari stabiliti dal codice di procedura civile.",
+    "con_marcatori": "Art. 2844. (Azioni e notificazioni). Le azioni a cui le iscrizioni possono dar luogo contro i creditori sono promosse davanti all'autorita' giudiziaria competente, per mezzo di citazione da farsi alla persona in mani proprie o all'ultimo domicilio da essi eletto. La stessa disposizione si applica per ogni altra notificazione relativa alle dette iscrizioni. Se non e' stata fatta elezione di domicilio o se e' morta la persona ovvero e' cessato l'ufficio presso cui si era eletto il domicilio, le citazioni e le notificazioni possono essere fatte all'ufficio presso il quale l'iscrizione e' stata presa. Se si tratta di giudizio promosso dal debitore contro il suo creditore per la riduzione dell'ipoteca o per la cancellazione totale o parziale dell'iscrizione, il creditore deve essere citato nei modi ordinari stabiliti dal codice di procedura civile.",
+    "caratteri": 818
+  },
+  "note": [],
+  "impronta": "sha256:3e38ce2ff7ae283777ca34c0847e2ea57782d35e756cdad68e6b07fe258af52a"
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "669",
+    "rubrica": "Esercizio abusivo di mestieri girovaghi",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art669"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque esercita un mestiere girovago senza la licenza dell'Autorita' o senza osservare le altre prescrizioni stabilite dalla legge, e' punito con l'arresto fino a due mesi o con l'ammenda da lire cinquanta a mille. Alla stessa pena soggiace il genitore o il tutore che impiega in mestieri girovaghi un minore degli anni diciotto, senza che questi abbia ottenuto la licenza o abbia osservate le altre prescrizioni di legge. La pena e' dell'arresto da uno a quattro mesi o dell'ammenda da lire cento a duemila e puo' essere ordinata la liberta' vigilata: 1° se il fatto e' commesso contro il divieto della legge o dell'Autorita'; 2° se la persona che esercita abusivamente il mestiere girovago ha riportato una precedente condanna a pena detentiva per delitto non colposo.",
+    "con_marcatori": "Art. 669. (Esercizio abusivo di mestieri girovaghi). Chiunque esercita un mestiere girovago senza la licenza dell'Autorita' o senza osservare le altre prescrizioni stabilite dalla legge, e' punito con l'arresto fino a due mesi o con l'ammenda da lire cinquanta a mille. Alla stessa pena soggiace il genitore o il tutore che impiega in mestieri girovaghi un minore degli anni diciotto, senza che questi abbia ottenuto la licenza o abbia osservate le altre prescrizioni di legge. La pena e' dell'arresto da uno a quattro mesi o dell'ammenda da lire cento a duemila e puo' essere ordinata la liberta' vigilata: 1° se il fatto e' commesso contro il divieto della legge o dell'Autorita'; 2° se la persona che esercita abusivamente il mestiere girovago ha riportato una precedente condanna a pena detentiva per delitto non colposo. ((90))",
+    "caratteri": 772
+  },
+  "note": [
+    {
+      "numero": 90,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 24 novembre 1981, n. 689",
+          "urn": "urn:nir:stato:legge:1981-11-24;689",
+          "data": "1981-11-24",
+          "numero": "689",
+          "data_gazzetta": "1981-11-30"
+        },
+        {
+          "denominazione": "articoli 669",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "672",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "687",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "693",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "694 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 24 novembre 1981, n. 689 ha disposto (con l'art. 33, comma 1, lettera a)) che \"Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le contravvenzioni previste: a) dagli articoli 669, 672, 687, 693 e 694 del codice penale\". Ha inoltre disposto (con l'art. 38, comma 2) che la somma dovuta come sanzione amministrativa e' da lire ventimila a lire cinquecentomila per la violazione prevista dal presente articolo."
+    }
+  ],
+  "impronta": "sha256:c979f75279c3171264d52f717984c801f8157a6f81319605b1ea106a711127f8"
+}

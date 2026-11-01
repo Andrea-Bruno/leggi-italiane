@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "703",
+    "rubrica": "Accensioni ed esplosioni pericolose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art703"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, senza la licenza dell'Autorita', in un luogo abitato o nelle sue adiacenze, o lungo una pubblica via o in direzione di essa spara armi da fuoco, accende fuochi d'artificio, o lancia razzi, o innalza areostati con fiamme, o, in genere, fa accensioni o esplosioni pericolose, e' punito con l'ammenda fino a lire mille. Se il fatto e' commesso in un luogo ove sia adunanza o concorso di persone, la pena e' dell'arresto fino a un mese.",
+    "con_marcatori": "Art. 703. (Accensioni ed esplosioni pericolose) Chiunque, senza la licenza dell'Autorita', in un luogo abitato o nelle sue adiacenze, o lungo una pubblica via o in direzione di essa spara armi da fuoco, accende fuochi d'artificio, o lancia razzi, o innalza areostati con fiamme, o, in genere, fa accensioni o esplosioni pericolose, e' punito con l'ammenda fino a lire mille. Se il fatto e' commesso in un luogo ove sia adunanza o concorso di persone, la pena e' dell'arresto fino a un mese.",
+    "caratteri": 442
+  },
+  "note": [],
+  "impronta": "sha256:6df94eed787854c551db201955883b4f8dd5ec9142199eeb0577ba28ebc36d2a"
+}

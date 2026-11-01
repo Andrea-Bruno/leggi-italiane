@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "817",
+    "rubrica": "Pertinenze",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art817"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono pertinenze le cose destinate in modo durevole a servizio o ad ornamento di un'altra cosa. La destinazione puo' essere effettuata dal proprietario della cosa principale o da chi ha un diritto reale sulla medesima.",
+    "con_marcatori": "Art. 817. (Pertinenze). Sono pertinenze le cose destinate in modo durevole a servizio o ad ornamento di un'altra cosa. La destinazione puo' essere effettuata dal proprietario della cosa principale o da chi ha un diritto reale sulla medesima.",
+    "caratteri": 217
+  },
+  "note": [],
+  "impronta": "sha256:beeae8316d454c03ac34f0d80fefab0cf22811f4e28487bd4eea83dfae173c2a"
+}

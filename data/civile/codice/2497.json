@@ -1,0 +1,97 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2497",
+    "rubrica": "Responsabilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2497"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le societa' o gli enti che, esercitando attivita' di direzione e coordinamento di societa', agiscono nell'interesse imprenditoriale proprio o altrui in violazione dei principi di corretta gestione societaria e imprenditoriale delle societa' medesime, sono direttamente responsabili nei confronti dei soci di queste per il pregiudizio arrecato alla redditivita' ed al valore della partecipazione sociale, nonche' nei confronti dei creditori sociali per la lesione cagionata all'integrita' del patrimonio della societa'. Non vi e' responsabilita' quando il danno risulta mancante alla luce del risultato complessivo dell'attivita' di direzione e coordinamento ovvero integralmente eliminato anche a seguito di operazioni a cio' dirette. Risponde in solido chi abbia comunque preso parte al fatto lesivo e, nei limiti del vantaggio conseguito, chi ne abbia consapevolmente tratto beneficio. Il socio ed il creditore sociale possono agire contro la societa' o l'ente che esercita l'attivita' di direzione e coordinamento, solo se non sono stati soddisfatti dalla societa' soggetta alla attivita' di direzione e coordinamento. Nel caso di fallimento, liquidazione coatta amministrativa e amministrazione straordinaria di societa' soggetta ad altrui direzione e coordinamento, l'azione spettante ai creditori di questa e' esercitata dal curatore o dal commissario liquidatore o dal commissario straordinario.",
+    "con_marcatori": "Art. 2497. (Responsabilita'). Le societa' o gli enti che, esercitando attivita' di direzione e coordinamento di societa', agiscono nell'interesse imprenditoriale proprio o altrui in violazione dei principi di corretta gestione societaria e imprenditoriale delle societa' medesime, sono direttamente responsabili nei confronti dei soci di queste per il pregiudizio arrecato alla redditivita' ed al valore della partecipazione sociale, nonche' nei confronti dei creditori sociali per la lesione cagionata all'integrita' del patrimonio della societa'. Non vi e' responsabilita' quando il danno risulta mancante alla luce del risultato complessivo dell'attivita' di direzione e coordinamento ovvero integralmente eliminato anche a seguito di operazioni a cio' dirette. (186) Risponde in solido chi abbia comunque preso parte al fatto lesivo e, nei limiti del vantaggio conseguito, chi ne abbia consapevolmente tratto beneficio. Il socio ed il creditore sociale possono agire contro la societa' o l'ente che esercita l'attivita' di direzione e coordinamento, solo se non sono stati soddisfatti dalla societa' soggetta alla attivita' di direzione e coordinamento. Nel caso di fallimento, liquidazione coatta amministrativa e amministrazione straordinaria di societa' soggetta ad altrui direzione e coordinamento, l'azione spettante ai creditori di questa e' esercitata dal curatore o dal commissario liquidatore o dal commissario straordinario. ((306))",
+    "caratteri": 1402
+  },
+  "note": [
+    {
+      "numero": 186,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 1 luglio 2009, n. 78",
+          "urn": "urn:nir:stato:decretoLegge:2009-07-01;78",
+          "data": "2009-07-01",
+          "numero": "78",
+          "data_gazzetta": "2009-07-01"
+        },
+        {
+          "denominazione": "L. 3 agosto 2009, n. 102",
+          "urn": "urn:nir:stato:legge:2009-08-03;102",
+          "data": "2009-08-03",
+          "numero": "102",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2497, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 1 luglio 2009, n. 78, convertito con modificazioni dalla L. 3 agosto 2009, n. 102, ha disposto (con l'art. 19, comma 6) che \"L'articolo 2497, primo comma, del codice civile, si interpreta nel senso che per enti si intendono i soggetti giuridici collettivi, diversi dallo Stato, che detengono la partecipazione sociale nell'ambito della propria attivita' imprenditoriale ovvero per finalita' di natura economica o finanziaria.\""
+    },
+    {
+      "numero": 306,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 12 gennaio 2019, n. 14",
+          "urn": "urn:nir:stato:decretoLegislativo:2019-01-12;14",
+          "data": "2019-01-12",
+          "numero": "14",
+          "data_gazzetta": "2019-02-14"
+        },
+        {
+          "denominazione": "D.Lgs. 26 ottobre 2020, n. 147",
+          "urn": "urn:nir:stato:decretoLegislativo:2020-10-26;147",
+          "data": "2020-10-26",
+          "numero": "147",
+          "data_gazzetta": "2020-11-05"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.Lgs. 26 ottobre 2020, n. 147, non prevede piu' (con l'art. 382, comma 3) la modifica dell'ultimo comma del presente articolo."
+    }
+  ],
+  "impronta": "sha256:776d35813fff40b90e7650c3e3e0a10f400df0dcb517e95359737e53661d5156"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "216",
+    "rubrica": "Assegnazione a una colonia agricola o ad una casa di lavoro",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art216"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono assegnati a una colonia agricola o ad una casa di lavoro: 1° coloro che sono stati dichiarati delinquenti abituali, professionali o per tendenza; 2° coloro che, essendo stati dichiarati delinquenti abituali, professionali o per tendenza, e non essendo piu' sottoposti a misura di sicurezza, commettono un nuovo delitto, non colposo, che sia nuova manifestazione della abitualita', della professionalita' o della tendenza a delinquere; 3° le persone condannate o prosciolte, negli altri casi indicati espressamente nella legge.",
+    "con_marcatori": "Art. 216. (Assegnazione a una colonia agricola o ad una casa di lavoro) Sono assegnati a una colonia agricola o ad una casa di lavoro: 1° coloro che sono stati dichiarati delinquenti abituali, professionali o per tendenza; 2° coloro che, essendo stati dichiarati delinquenti abituali, professionali o per tendenza, e non essendo piu' sottoposti a misura di sicurezza, commettono un nuovo delitto, non colposo, che sia nuova manifestazione della abitualita', della professionalita' o della tendenza a delinquere; 3° le persone condannate o prosciolte, negli altri casi indicati espressamente nella legge.",
+    "caratteri": 531
+  },
+  "note": [],
+  "impronta": "sha256:0e4957ddfe33d8cd162644a2e09ef71816d7215f11398868d8b5fbb1321fc397"
+}

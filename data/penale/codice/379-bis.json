@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "379-bis",
+    "rubrica": "Rivelazione di segreti inerenti a un procedimento penale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art379-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque rivela indebitamente notizie segrete concernenti un procedimento penale, da lui apprese per avere partecipato o assistito ad un atto del procedimento stesso, e' punito con la reclusione fino a un anno. La stessa pena si applica alla persona che, dopo avere rilasciato dichiarazioni nel corso delle indagini preliminari, non osserva il divieto imposto dal pubblico ministero ai sensi dell'articolo 391-quinquies del codice di procedura penale.",
+    "con_marcatori": "Art. 379-bis. (( (Rivelazione di segreti inerenti a un procedimento penale). )) ((Salvo che il fatto costituisca piu' grave reato, chiunque rivela indebitamente notizie segrete concernenti un procedimento penale, da lui apprese per avere partecipato o assistito ad un atto del procedimento stesso, e' punito con la reclusione fino a un anno. La stessa pena si applica alla persona che, dopo avere rilasciato dichiarazioni nel corso delle indagini preliminari, non osserva il divieto imposto dal pubblico ministero ai sensi dell'articolo 391-quinquies del codice di procedura penale)).",
+    "caratteri": 500
+  },
+  "note": [],
+  "impronta": "sha256:72943449fd7e19d6d7bbdbe579ab6e513731bf1d8181a61c1ec3797fd8fcade8"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "24",
+    "rubrica": "Multa",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art24"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La pena della multa consiste nel pagamento allo Stato di una somma non inferiore a euro 50, ne' superiore a euro 50.000. Per i delitti determinati da motivi di lucro, se la legge stabilisce soltanto la pena della reclusione, il giudice puo' aggiungere la multa da euro 50 a euro 25.000.",
+    "con_marcatori": "Art. 24. (Multa) La pena della multa consiste nel pagamento allo Stato di una somma ((non inferiore a euro 50)), ((ne' superiore a euro 50.000)). Per i delitti determinati da motivi di lucro, se la legge stabilisce soltanto la pena della reclusione, il giudice puo' aggiungere la multa ((da euro 50 a euro 25.000)).",
+    "caratteri": 286
+  },
+  "note": [],
+  "impronta": "sha256:8f94f9e49b16878e09b6a918a96fc6be1153ee2b7368a737fc38c523ac908bb8"
+}

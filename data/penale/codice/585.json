@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "585",
+    "rubrica": "Circostanze aggravanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art585"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi previsti dagli articoli 582, 583, 583-bis, 583-quinquies e 584, la pena e' aumentata da un terzo alla meta', se concorre alcuna delle circostanze aggravanti previste dall'articolo 576, ed e' aumentata fino a un terzo, se concorre alcuna delle circostanze aggravanti previste dall'articolo 577, ovvero se il fatto e' commesso con armi o con sostanze corrosive, ovvero da persona travisata o da piu' persone riunite. Agli effetti della legge penale, per armi s'intendono: 1° quelle da sparo e tutte le altre la cui destinazione naturale e' l'offesa alla persona; 2° tutti gli strumenti atti ad offendere, dei quali e' dalla legge vietato il porto in modo assoluto, ovvero senza giustificato motivo. Sono assimilate alle armi le materie esplodenti e i gas asfissianti o accecanti. Nei casi di cui al primo comma, quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali, la pena e' aumentata da un terzo alla meta'.",
+    "con_marcatori": "Art. 585. (Circostanze aggravanti) Nei casi previsti dagli articoli 582, 583, 583-bis, 583-quinquies e 584, la pena e' aumentata da un terzo alla meta', se concorre alcuna delle circostanze aggravanti previste dall'articolo 576, ed e' aumentata fino a un terzo, se concorre alcuna delle circostanze aggravanti previste dall'articolo 577, ovvero se il fatto e' commesso con armi o con sostanze corrosive, ovvero da persona travisata o da piu' persone riunite. Agli effetti della legge penale, per armi s'intendono: 1° quelle da sparo e tutte le altre la cui destinazione naturale e' l'offesa alla persona; 2° tutti gli strumenti atti ad offendere, dei quali e' dalla legge vietato il porto in modo assoluto, ovvero senza giustificato motivo. Sono assimilate alle armi le materie esplodenti e i gas asfissianti o accecanti. ((Nei casi di cui al primo comma, quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali, la pena e' aumentata da un terzo alla meta')).",
+    "caratteri": 1158
+  },
+  "note": [],
+  "impronta": "sha256:820f907c40019f5cea3249ce2295b4fa980195820713740a8648e2f274a81693"
+}

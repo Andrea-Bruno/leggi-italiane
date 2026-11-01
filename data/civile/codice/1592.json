@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1592",
+    "rubrica": "Miglioramenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1592"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo disposizioni particolari della legge o degli usi, il conduttore non ha diritto a indennita' per i miglioramenti apportati alla cosa locata. Se pero' vi e' stato il consenso del locatore, questi e' tenuto a pagare un'indennita' corrispondente alla minor somma tra l'importo della spesa e il valore del risultato utile al tempo della riconsegna. Anche nel caso in cui il conduttore non ha diritto a indennita', il valore dei miglioramenti puo' compensare i deterioramenti che si sono verificati senza colpa grave del conduttore.",
+    "con_marcatori": "Art. 1592. (Miglioramenti). Salvo disposizioni particolari della legge o degli usi, il conduttore non ha diritto a indennita' per i miglioramenti apportati alla cosa locata. Se pero' vi e' stato il consenso del locatore, questi e' tenuto a pagare un'indennita' corrispondente alla minor somma tra l'importo della spesa e il valore del risultato utile al tempo della riconsegna. Anche nel caso in cui il conduttore non ha diritto a indennita', il valore dei miglioramenti puo' compensare i deterioramenti che si sono verificati senza colpa grave del conduttore.",
+    "caratteri": 532
+  },
+  "note": [],
+  "impronta": "sha256:1938c181397754b037bf169210b6f7c7e1fc1496ca3f3b95e4d132247a611d80"
+}

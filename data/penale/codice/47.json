@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "47",
+    "rubrica": "Errore di fatto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art47"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'errore sul fatto che costituisce il reato esclude la punibilita' dell'agente. Nondimeno, se si tratta di errore determinato da colpa, la punibilita' non e' esclusa, quando il fatto e' preveduto dalla legge come delitto colposo. L'errore sul fatto che costituisce un determinato reato non esclude la punibilita' per un reato diverso. L'errore su una legge diversa dalla legge penale esclude la punibilita', quando ha cagionato un errore sul fatto che costituisce il reato.",
+    "con_marcatori": "Art. 47. (Errore di fatto) L'errore sul fatto che costituisce il reato esclude la punibilita' dell'agente. Nondimeno, se si tratta di errore determinato da colpa, la punibilita' non e' esclusa, quando il fatto e' preveduto dalla legge come delitto colposo. L'errore sul fatto che costituisce un determinato reato non esclude la punibilita' per un reato diverso. L'errore su una legge diversa dalla legge penale esclude la punibilita', quando ha cagionato un errore sul fatto che costituisce il reato.",
+    "caratteri": 473
+  },
+  "note": [],
+  "impronta": "sha256:1f27986bcbeab7c910e7811a52f2c7e56c654b2f20b9c93c8a73da7317458e1d"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2301",
+    "rubrica": "Divieto di concorrenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2301"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il socio non puo', senza il consenso degli altri soci, esercitare per conto proprio o altrui un'attivita' concorrente con quella della societa', ne' partecipare come socio illimitatamente responsabile ad altra societa' concorrente. Il consenso si presume, se l'esercizio dell'attivita' o la partecipazione ad altra societa' preesisteva al contratto sociale, e gli altri soci ne erano a conoscenza. In caso d'inosservanza delle disposizioni del primo comma la societa' ha diritto al risarcimento del danno, salva l'applicazione dell'art. 2286.",
+    "con_marcatori": "Art. 2301. (Divieto di concorrenza). Il socio non puo', senza il consenso degli altri soci, esercitare per conto proprio o altrui un'attivita' concorrente con quella della societa', ne' partecipare come socio illimitatamente responsabile ad altra societa' concorrente. Il consenso si presume, se l'esercizio dell'attivita' o la partecipazione ad altra societa' preesisteva al contratto sociale, e gli altri soci ne erano a conoscenza. In caso d'inosservanza delle disposizioni del primo comma la societa' ha diritto al risarcimento del danno, salva l'applicazione dell'art. 2286.",
+    "caratteri": 542
+  },
+  "note": [],
+  "impronta": "sha256:afebb5a401b32a412066ddc8499c049e506cbe75e34b3198b82deacb3a5470de"
+}

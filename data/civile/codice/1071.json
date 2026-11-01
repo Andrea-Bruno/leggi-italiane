@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1071",
+    "rubrica": "Divisione del fondo dominante o del fondo servente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1071"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il fondo dominante viene diviso, la servitu' e' dovuta a ciascuna porzione, senza che pero' si renda piu' gravosa la condizione del fondo servente. Se il fondo servente viene diviso e la servitu' ricade su una parte determinata del fondo stesso, le altre parti sono liberate.",
+    "con_marcatori": "Art. 1071. (Divisione del fondo dominante o del fondo servente). Se il fondo dominante viene diviso, la servitu' e' dovuta a ciascuna porzione, senza che pero' si renda piu' gravosa la condizione del fondo servente. Se il fondo servente viene diviso e la servitu' ricade su una parte determinata del fondo stesso, le altre parti sono liberate.",
+    "caratteri": 278
+  },
+  "note": [],
+  "impronta": "sha256:9807dcbcc6cc4665723b9becee8fda43553b139de3ca170068c126b49fd9b692"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "384-bis",
+    "rubrica": "Punibilita' dei fatti commessi in collegamento audiovisivo nel corso di una rogatoria dall'estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art384-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I delitti di cui agli articoli 366, 367, 368, 369, 371-bis, 372 e 373, commessi in occasione di un collegamento audiovisivo nel corso di una rogatoria all'estero, si considerano commessi nel territorio dello Stato e sono puniti secondo la legge italiana.",
+    "con_marcatori": "Art. 384-bis. (( (Punibilita' dei fatti commessi in collegamento audiovisivo nel corso di una rogatoria dall'estero). )) ((I delitti di cui agli articoli 366, 367, 368, 369, 371-bis, 372 e 373, commessi in occasione di un collegamento audiovisivo nel corso di una rogatoria all'estero, si considerano commessi nel territorio dello Stato e sono puniti secondo la legge italiana)).",
+    "caratteri": 254
+  },
+  "note": [],
+  "impronta": "sha256:02d8d7f5f3a32cd552972de501602865e7eff19d0f92bb6c793a85152112bdb0"
+}

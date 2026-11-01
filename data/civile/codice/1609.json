@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1609",
+    "rubrica": "Piccole riparazioni a carico dell'inquilino",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1609"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le riparazioni di piccola manutenzione, che a norma dell'art. 1576 devono essere eseguite dall'inquilino a sue spese, sono quelle dipendenti da deterioramenti prodotti dall'uso, e non quelle dipendenti da vetusta' o da caso fortuito. Le suddette riparazioni, in mancanza di patto, sono determinate dagli usi locali.",
+    "con_marcatori": "Art. 1609. (Piccole riparazioni a carico dell'inquilino). Le riparazioni di piccola manutenzione, che a norma dell'art. 1576 devono essere eseguite dall'inquilino a sue spese, sono quelle dipendenti da deterioramenti prodotti dall'uso, e non quelle dipendenti da vetusta' o da caso fortuito. Le suddette riparazioni, in mancanza di patto, sono determinate dagli usi locali.",
+    "caratteri": 315
+  },
+  "note": [],
+  "impronta": "sha256:afde5462a63fe4dbfebba2a32cb1dacce9015a3523f8f7e224955e18ed8bf812"
+}

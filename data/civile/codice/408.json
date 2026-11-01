@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "408",
+    "rubrica": "Scelta dell'amministratore di sostegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art408"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La scelta dell'amministratore di sostegno avviene con esclusivo riguardo alla cura ed agli interessi della persona del beneficiario. L'amministratore di sostegno puo' essere designato dallo stesso interessato, in previsione della propria eventuale futura incapacita', mediante atto pubblico o scrittura privata autenticata. In mancanza, ovvero in presenza di gravi motivi, il giudice tutelare puo' designare con decreto motivato un amministratore di sostegno diverso. Nella scelta, il giudice tutelare preferisce, ove possibile, il coniuge che non sia separato legalmente, la persona stabilmente convivente, il padre, la madre, il figlio o il fratello o la sorella, il parente entro il quarto grado ovvero il soggetto designato dal genitore superstite con testamento, atto pubblico o scrittura privata autenticata. Le designazioni di cui al primo comma possono essere revocate dall'autore con le stesse forme. Non possono ricoprire le funzioni di amministratore di sostegno gli operatori dei servizi pubblici o privati che hanno in cura o in carico il beneficiario. Il giudice tutelare, quando ne ravvisa l'opportunita', e nel caso di designazione dell'interessato quando ricorrano gravi motivi, puo' chiamare all'incarico di amministratore di sostegno anche altra persona idonea, ovvero uno dei soggetti di cui al titolo II al cui legale rappresentante ovvero alla persona che questi ha facolta' di delegare con atto depositato presso l'ufficio del giudice tutelare, competono tutti i doveri e tutte le facolta' previste nel presente capo.",
+    "con_marcatori": "Art. 408. (( (Scelta dell'amministratore di sostegno). )) ((La scelta dell'amministratore di sostegno avviene con esclusivo riguardo alla cura ed agli interessi della persona del beneficiario. L'amministratore di sostegno puo' essere designato dallo stesso interessato, in previsione della propria eventuale futura incapacita', mediante atto pubblico o scrittura privata autenticata. In mancanza, ovvero in presenza di gravi motivi, il giudice tutelare puo' designare con decreto motivato un amministratore di sostegno diverso. Nella scelta, il giudice tutelare preferisce, ove possibile, il coniuge che non sia separato legalmente, la persona stabilmente convivente, il padre, la madre, il figlio o il fratello o la sorella, il parente entro il quarto grado ovvero il soggetto designato dal genitore superstite con testamento, atto pubblico o scrittura privata autenticata. Le designazioni di cui al primo comma possono essere revocate dall'autore con le stesse forme. Non possono ricoprire le funzioni di amministratore di sostegno gli operatori dei servizi pubblici o privati che hanno in cura o in carico il beneficiario. Il giudice tutelare, quando ne ravvisa l'opportunita', e nel caso di designazione dell'interessato quando ricorrano gravi motivi, puo' chiamare all'incarico di amministratore di sostegno anche altra persona idonea, ovvero uno dei soggetti di cui al titolo II al cui legale rappresentante ovvero alla persona che questi ha facolta' di delegare con atto depositato presso l'ufficio del giudice tutelare, competono tutti i doveri e tutte le facolta' previste nel presente capo.))",
+    "caratteri": 1540
+  },
+  "note": [],
+  "impronta": "sha256:c308ea0b7b12f1dcb67539373d577a12d6208509d384402d446591b345c04aa8"
+}

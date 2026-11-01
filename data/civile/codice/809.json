@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "809",
+    "rubrica": "Norme sulle donazioni applicabili ad altri atti di liberalita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art809"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le liberalita', anche se risultano da atti diversi da quelli previsti dall'art. 769, sono soggette alle stesse norme che regolano la revocazione delle donazioni per causa d'ingratitudine e per sopravvenienza di figli, nonche' a quelle sulla riduzione delle donazioni per integrare la quota dovuta ai legittimari. Questa disposizione non si applica alle liberalita' previste dal secondo comma dell'art. 770 e a quelle che a norma dell'art. 742 non sono soggette a collazione.",
+    "con_marcatori": "Art. 809. (Norme sulle donazioni applicabili ad altri atti di liberalita'). Le liberalita', anche se risultano da atti diversi da quelli previsti dall'art. 769, sono soggette alle stesse norme che regolano la revocazione delle donazioni per causa d'ingratitudine e per sopravvenienza di figli, nonche' a quelle sulla riduzione delle donazioni per integrare la quota dovuta ai legittimari. Questa disposizione non si applica alle liberalita' previste dal secondo comma dell'art. 770 e a quelle che a norma dell'art. 742 non sono soggette a collazione.",
+    "caratteri": 474
+  },
+  "note": [],
+  "impronta": "sha256:09c711c8cc8d8c6b98fc9612e001cc5d8186b9d9aae2db28134d1125a29acb98"
+}

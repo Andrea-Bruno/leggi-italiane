@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2420-ter",
+    "rubrica": "Delega agli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2420-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Lo statuto puo' attribuire agli amministratori la facolta' di emettere in una o piu' volte obbligazioni convertibili, fino ad un ammontare determinato e per il periodo massimo di cinque anni dalla data di iscrizione della societa' nel registro delle imprese. In tal caso la delega comprende anche quella relativa al corrispondente aumento del capitale sociale. Tale facolta' puo' essere attribuita anche mediante modificazione dello statuto, per il periodo massimo di cinque anni dalla data della deliberazione. Si applica il secondo comma dell'articolo 2410.",
+    "con_marcatori": "Art. 2420-ter. (( (Delega agli amministratori). )) ((Lo statuto puo' attribuire agli amministratori la facolta' di emettere in una o piu' volte obbligazioni convertibili, fino ad un ammontare determinato e per il periodo massimo di cinque anni dalla data di iscrizione della societa' nel registro delle imprese. In tal caso la delega comprende anche quella relativa al corrispondente aumento del capitale sociale. Tale facolta' puo' essere attribuita anche mediante modificazione dello statuto, per il periodo massimo di cinque anni dalla data della deliberazione. Si applica il secondo comma dell'articolo 2410.))",
+    "caratteri": 559
+  },
+  "note": [],
+  "impronta": "sha256:9b09bc2ebb2524ad1ba4291eccf1e71f3a95218917e0fca6dc30d4e610070bec"
+}

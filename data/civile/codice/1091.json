@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1091",
+    "rubrica": "Obblighi del concedente fino al luogo di consegna dell'acqua",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1091"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il titolo non dispone diversamente, il concedente dell'acqua di una fonte o di un canale e' tenuto verso gli utenti a eseguire le opere ordinarie e straordinarie per la derivazione e condotta dell'acqua fino al punto in cui ne fa la consegna, a mantenere in buono stato gli edifici, a conservare l'alveo e le sponde della fonte o del canale, a praticare i consueti spurghi e a usare la dovuta diligenza, affinche' la derivazione e la regolare condotta dell'acqua siano in tempi debiti effettuate.",
+    "con_marcatori": "Art. 1091. (Obblighi del concedente fino al luogo di consegna dell'acqua). Se il titolo non dispone diversamente, il concedente dell'acqua di una fonte o di un canale e' tenuto verso gli utenti a eseguire le opere ordinarie e straordinarie per la derivazione e condotta dell'acqua fino al punto in cui ne fa la consegna, a mantenere in buono stato gli edifici, a conservare l'alveo e le sponde della fonte o del canale, a praticare i consueti spurghi e a usare la dovuta diligenza, affinche' la derivazione e la regolare condotta dell'acqua siano in tempi debiti effettuate.",
+    "caratteri": 499
+  },
+  "note": [],
+  "impronta": "sha256:10a7d21047049a4bbbfb41069ae5a9f37dfb0e0bfa5d8c29319cf3fc766171e6"
+}

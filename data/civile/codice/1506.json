@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1506",
+    "rubrica": "Riscatto di parte indivisa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1506"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di vendita con patto di riscatto di una parte indivisa di una cosa, il comproprietario che chiede la divisione deve proporre la domanda anche in confronto del venditore. Se la cosa non e' comodamente divisibile e si fa luogo all'incanto, il venditore che non ha esercitato il riscatto anteriormente all'aggiudicazione decade da tale diritto, anche se aggiudicatario sia lo stesso compratore.",
+    "con_marcatori": "Art. 1506. (Riscatto di parte indivisa). In caso di vendita con patto di riscatto di una parte indivisa di una cosa, il comproprietario che chiede la divisione deve proporre la domanda anche in confronto del venditore. Se la cosa non e' comodamente divisibile e si fa luogo all'incanto, il venditore che non ha esercitato il riscatto anteriormente all'aggiudicazione decade da tale diritto, anche se aggiudicatario sia lo stesso compratore.",
+    "caratteri": 399
+  },
+  "note": [],
+  "impronta": "sha256:8b55ef53351096646870117daaffa3f7eee865db46fc6870b01c4ab78033c6af"
+}

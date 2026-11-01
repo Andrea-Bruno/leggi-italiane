@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "312",
+    "rubrica": "Accertamenti del tribunale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art312"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il tribunale, assunte le opportune informazioni, verifica: 1) se tutte le condizioni della legge sono state adempiute; 2) se l'adozione conviene all'adottando.",
+    "con_marcatori": "Art. 312. ((Accertamenti del tribunale.)) ((Il tribunale, assunte le opportune informazioni, verifica: 1) se tutte le condizioni della legge sono state adempiute; 2) se l'adozione conviene all'adottando)).",
+    "caratteri": 159
+  },
+  "note": [
+    {
+      "numero": 14,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 5 giugno 1967, n. 431",
+          "urn": "urn:nir:stato:legge:1967-06-05;431",
+          "data": "1967-06-05",
+          "numero": "431",
+          "data_gazzetta": "1967-06-22"
+        },
+        {
+          "denominazione": "Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 5 giugno 1967, n. 431, ha disposto(con l'art. 3, comma 1)che \"Nelle ipotesi di cui al capo II del titolo VIII del libro I del Codice civile, alla competenza della Corte d'appello e' sostituita quella del tribunale nel cui circondario l'adottante ha la residenza. Per l'adozione di minorenni e' competente il tribunale per i minorenni\"."
+    }
+  ],
+  "impronta": "sha256:3cc79acde3b24f604fbe1f3d90af49179fbda4bc55498005cb79798d5231e454"
+}

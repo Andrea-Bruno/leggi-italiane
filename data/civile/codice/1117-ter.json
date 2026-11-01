@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1117-ter",
+    "rubrica": "Modificazioni delle destinazioni d'uso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per soddisfare esigenze di interesse condominiale, l'assemblea, con un numero di voti che rappresenti i quattro quinti dei partecipanti al condominio e i quattro quinti del valore dell'edificio, puo' modificare la destinazione d'uso delle parti comuni. La convocazione dell'assemblea deve essere affissa per non meno di trenta giorni consecutivi nei locali di maggior uso comune o negli spazi a tal fine destinati e deve effettuarsi mediante lettera raccomandata o equipollenti mezzi telematici, in modo da pervenire almeno venti giorni prima della data di convocazione. La convocazione dell'assemblea, a pena di nullita', deve indicare le parti comuni oggetto della modificazione e la nuova destinazione d'uso. La deliberazione deve contenere la dichiarazione espressa che sono stati effettuati gli adempimenti di cui ai precedenti commi. Sono vietate le modificazioni delle destinazioni d'uso che possono recare pregiudizio alla stabilita' o alla sicurezza del fabbricato o che ne alterano il decoro architettonico.",
+    "con_marcatori": "Art. 1117-ter. (( (Modificazioni delle destinazioni d'uso). )) ((Per soddisfare esigenze di interesse condominiale, l'assemblea, con un numero di voti che rappresenti i quattro quinti dei partecipanti al condominio e i quattro quinti del valore dell'edificio, puo' modificare la destinazione d'uso delle parti comuni. La convocazione dell'assemblea deve essere affissa per non meno di trenta giorni consecutivi nei locali di maggior uso comune o negli spazi a tal fine destinati e deve effettuarsi mediante lettera raccomandata o equipollenti mezzi telematici, in modo da pervenire almeno venti giorni prima della data di convocazione. La convocazione dell'assemblea, a pena di nullita', deve indicare le parti comuni oggetto della modificazione e la nuova destinazione d'uso. La deliberazione deve contenere la dichiarazione espressa che sono stati effettuati gli adempimenti di cui ai precedenti commi. Sono vietate le modificazioni delle destinazioni d'uso che possono recare pregiudizio alla stabilita' o alla sicurezza del fabbricato o che ne alterano il decoro architettonico. ))",
+    "caratteri": 1017
+  },
+  "note": [],
+  "impronta": "sha256:b0a7e2c4d658284f97296758f1102c82c5071028787680664ebc216bd8c1d7af"
+}

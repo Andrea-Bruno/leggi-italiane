@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1105",
+    "rubrica": "Amministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1105"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Tutti i partecipanti hanno diritto di concorrere nell'amministrazione della cosa comune. Per gli atti di ordinaria amministrazione le deliberazioni della maggioranza dei partecipanti, calcolata secondo il valore delle loro quote, sono obbligatorie per la minoranza dissenziente. Per la validita' delle deliberazioni della maggioranza si richiede che tutti i partecipanti siano stati preventivamente informati dell'oggetto della deliberazione. Se non si prendono i provvedimenti necessari per l'amministrazione della cosa comune o non si forma una maggioranza, ovvero se la deliberazione adottata non viene eseguita, ciascun partecipante puo' ricorrere all'autorita' giudiziaria. Questa provvede in camera di consiglio e puo' anche nominare un amministratore.",
+    "con_marcatori": "Art. 1105. (Amministrazione). Tutti i partecipanti hanno diritto di concorrere nell'amministrazione della cosa comune. Per gli atti di ordinaria amministrazione le deliberazioni della maggioranza dei partecipanti, calcolata secondo il valore delle loro quote, sono obbligatorie per la minoranza dissenziente. Per la validita' delle deliberazioni della maggioranza si richiede che tutti i partecipanti siano stati preventivamente informati dell'oggetto della deliberazione. Se non si prendono i provvedimenti necessari per l'amministrazione della cosa comune o non si forma una maggioranza, ovvero se la deliberazione adottata non viene eseguita, ciascun partecipante puo' ricorrere all'autorita' giudiziaria. Questa provvede in camera di consiglio e puo' anche nominare un amministratore.",
+    "caratteri": 758
+  },
+  "note": [],
+  "impronta": "sha256:1b1492e45c222f501708095e113a483393d0446f8636fbb536f04f46ab9ea6a1"
+}

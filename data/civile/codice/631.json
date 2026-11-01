@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "631",
+    "rubrica": "Disposizioni rimesse all'arbitrio del terzo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art631"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' nulla ogni disposizione testamentaria con la quale si fa dipendere dall'arbitrio di un terzo l'indicazione dell'erede o del legatario, ovvero la determinazione della quota di eredita'. Tuttavia e' valida la disposizione a titolo particolare in favore di persona da scegliersi dall'onerato o da un terzo tra piu' persone determinate dal testatore e appartenenti a famiglie o categorie di persone da lui determinate, ed e' pure valida la disposizione a titolo particolare a favore di uno tra piu' enti determinati del pari dal testatore. Se sono indicate piu' persone in modo alternativo e non e' stabilito chi deve fare la scelta, questa si considera lasciata all'onerato. Se l'onerato o il terzo non puo' o non vuole fare la scelta, questa e' fatta con decreto dal presidente del tribunale del luogo in cui si e' aperta la successione, dopo avere assunto le opportune informazioni.",
+    "con_marcatori": "Art. 631. (Disposizioni rimesse all'arbitrio del terzo). E' nulla ogni disposizione testamentaria con la quale si fa dipendere dall'arbitrio di un terzo l'indicazione dell'erede o del legatario, ovvero la determinazione della quota di eredita'. Tuttavia e' valida la disposizione a titolo particolare in favore di persona da scegliersi dall'onerato o da un terzo tra piu' persone determinate dal testatore e appartenenti a famiglie o categorie di persone da lui determinate, ed e' pure valida la disposizione a titolo particolare a favore di uno tra piu' enti determinati del pari dal testatore. Se sono indicate piu' persone in modo alternativo e non e' stabilito chi deve fare la scelta, questa si considera lasciata all'onerato. Se l'onerato o il terzo non puo' o non vuole fare la scelta, questa e' fatta con decreto dal presidente del tribunale del luogo in cui si e' aperta la successione, dopo avere assunto le opportune informazioni.",
+    "caratteri": 884
+  },
+  "note": [],
+  "impronta": "sha256:41c64dcbb79156ee5239e676b366c22eda73b3905b4c9cd659781c97d68f86dd"
+}

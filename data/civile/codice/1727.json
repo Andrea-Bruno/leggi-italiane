@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1727",
+    "rubrica": "Rinunzia del mandatario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1727"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mandatario che rinunzia senza giusta causa al mandato deve risarcire i danni al mandante. Se il mandato e' a tempo indeterminato, il mandatario che rinunzia senza giusta causa e' tenuto al risarcimento, qualora non abbia dato un congruo preavviso. In ogni caso la rinunzia deve essere fatta in modo e in tempo tali che il mandante possa provvedere altrimenti, salvo il caso d'impedimento grave da parte del mandatario.",
+    "con_marcatori": "Art. 1727. (Rinunzia del mandatario). Il mandatario che rinunzia senza giusta causa al mandato deve risarcire i danni al mandante. Se il mandato e' a tempo indeterminato, il mandatario che rinunzia senza giusta causa e' tenuto al risarcimento, qualora non abbia dato un congruo preavviso. In ogni caso la rinunzia deve essere fatta in modo e in tempo tali che il mandante possa provvedere altrimenti, salvo il caso d'impedimento grave da parte del mandatario.",
+    "caratteri": 421
+  },
+  "note": [],
+  "impronta": "sha256:bc5de332dc230c6cd6f23b1b7bb814aab3ea0dc480e55b849d253f43dc744f98"
+}

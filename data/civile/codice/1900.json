@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1900",
+    "rubrica": "Sinistri cagionati con dolo o con colpa grave dell'assicurato o dei dipendenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1900"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assicuratore non e' obbligato per i sinistri cagionati da dolo o da colpa grave del contraente, dell'assicurato o del beneficiario, salvo patto contrario per i casi di colpa grave. L'assicuratore e' obbligato per il sinistro cagionato da dolo o da colpa grave delle persone del fatto delle quali l'assicurato deve rispondere. Egli e' obbligato altresi', nonostante patto contrario, per i sinistri conseguenti ad atti del contraente, dell'assicurato o del beneficiario, compiuti per dovere di solidarieta' umana o nella tutela degli interessi comuni all'assicuratore.",
+    "con_marcatori": "Art. 1900. (Sinistri cagionati con dolo o con colpa grave dell'assicurato o dei dipendenti). L'assicuratore non e' obbligato per i sinistri cagionati da dolo o da colpa grave del contraente, dell'assicurato o del beneficiario, salvo patto contrario per i casi di colpa grave. L'assicuratore e' obbligato per il sinistro cagionato da dolo o da colpa grave delle persone del fatto delle quali l'assicurato deve rispondere. Egli e' obbligato altresi', nonostante patto contrario, per i sinistri conseguenti ad atti del contraente, dell'assicurato o del beneficiario, compiuti per dovere di solidarieta' umana o nella tutela degli interessi comuni all'assicuratore.",
+    "caratteri": 568
+  },
+  "note": [],
+  "impronta": "sha256:7558f10e5ef731bfd95ea18459d207a1062994cc15e564bf62987a28128336b3"
+}

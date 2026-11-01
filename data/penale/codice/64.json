@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "64",
+    "rubrica": "Aumento di pena nel caso di una sola circostanza aggravante",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art64"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando ricorre una circostanza aggravante, e l'aumento di pena non e' determinato dalla legge, e' aumentata fino a un terzo la pena che dovrebbe essere inflitta per il reato commesso. Nondimeno, la pena della reclusione da applicare per effetto dell'aumento non puo' superare gli anni trenta.",
+    "con_marcatori": "Art. 64. (Aumento di pena nel caso di una sola circostanza aggravante) Quando ricorre una circostanza aggravante, e l'aumento di pena non e' determinato dalla legge, e' aumentata fino a un terzo la pena che dovrebbe essere inflitta per il reato commesso. Nondimeno, la pena della reclusione da applicare per effetto dell'aumento non puo' superare gli anni trenta.",
+    "caratteri": 292
+  },
+  "note": [],
+  "impronta": "sha256:42cfef45fce45650fd8c9a6bdbcc318c3511f33292e109951d5efec204165889"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1162",
+    "rubrica": "Usucapione di beni mobili iscritti in pubblici registri",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1162"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Colui che acquista in buona fede da chi non e' proprietario un bene mobile iscritto in pubblici registri, in forza di un titolo che sia idoneo a trasferire la proprieta' e che sia stato debitamente trascritto, ne compie in suo favore l'usucapione col decorso di tre anni dalla data della trascrizione. Se non concorrono le condizioni previste dal comma precedente, l'usucapione si compie col decorso di dieci anni. Le stesse disposizioni si applicano nel caso di acquisto degli altri diritti reali di godimento.",
+    "con_marcatori": "Art. 1162. (Usucapione di beni mobili iscritti in pubblici registri). Colui che acquista in buona fede da chi non e' proprietario un bene mobile iscritto in pubblici registri, in forza di un titolo che sia idoneo a trasferire la proprieta' e che sia stato debitamente trascritto, ne compie in suo favore l'usucapione col decorso di tre anni dalla data della trascrizione. Se non concorrono le condizioni previste dal comma precedente, l'usucapione si compie col decorso di dieci anni. Le stesse disposizioni si applicano nel caso di acquisto degli altri diritti reali di godimento.",
+    "caratteri": 511
+  },
+  "note": [],
+  "impronta": "sha256:e5325dfea6f60134c5c66ea00c5bdcae50792a1adf20ad7b6d1ed1c83f3fe030"
+}

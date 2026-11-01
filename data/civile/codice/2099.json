@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2099",
+    "rubrica": "Retribuzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2099"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La retribuzione del prestatore di lavoro puo' essere stabilita a tempo o a cottimo e deve essere corrisposta nella misura determinata dalle norme corporative, con le modalita' e nei termini in uso nel luogo in cui il lavoro viene eseguito. In mancanza di norme corporative o di accordo tra le parti, la retribuzione e' determinata dal giudice, tenuto conto, ove occorra, del parere delle associazioni professionali. Il prestatore di lavoro puo' anche essere retribuito in tutto o in parte con partecipazione agli utili o ai prodotti, con provvigione o con prestazioni in natura.",
+    "con_marcatori": "Art. 2099. (Retribuzione). La retribuzione del prestatore di lavoro puo' essere stabilita a tempo o a cottimo e deve essere corrisposta nella misura determinata dalle norme corporative, con le modalita' e nei termini in uso nel luogo in cui il lavoro viene eseguito. In mancanza di norme corporative o di accordo tra le parti, la retribuzione e' determinata dal giudice, tenuto conto, ove occorra, del parere delle associazioni professionali. Il prestatore di lavoro puo' anche essere retribuito in tutto o in parte con partecipazione agli utili o ai prodotti, con provvigione o con prestazioni in natura.",
+    "caratteri": 578
+  },
+  "note": [],
+  "impronta": "sha256:2831b2b35b9f46d7d87e691d103ab0cababc1f6913e430661b22ae39ad784403"
+}

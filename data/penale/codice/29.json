@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "29",
+    "rubrica": "Casi nei quali alla condanna consegue l'interdizione dai pubblici uffici",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art29"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La condanna all'ergastolo e la condanna alla reclusione per un tempo non inferiore a cinque anni importano l'interdizione perpetua del condannato dai pubblici uffici; e la condanna alla reclusione per un tempo non inferiore a tre anni importa l'interdizione dai pubblici uffici per la durata di anni cinque. La dichiarazione di abitualita' o di professionalita' nel delitto, ovvero di tendenza a delinquere, importa l'interdizione perpetua dai pubblici uffici.",
+    "con_marcatori": "Art. 29. (Casi nei quali alla condanna consegue l'interdizione dai pubblici uffici) La condanna all'ergastolo e la condanna alla reclusione per un tempo non inferiore a cinque anni importano l'interdizione perpetua del condannato dai pubblici uffici; e la condanna alla reclusione per un tempo non inferiore a tre anni importa l'interdizione dai pubblici uffici per la durata di anni cinque. La dichiarazione di abitualita' o di professionalita' nel delitto, ovvero di tendenza a delinquere, importa l'interdizione perpetua dai pubblici uffici.",
+    "caratteri": 460
+  },
+  "note": [],
+  "impronta": "sha256:a9fdc98a28c6a10a2991bb35e67e03d77cf7a6e42639adc640a3a7197a1b880e"
+}

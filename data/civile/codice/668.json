@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "668",
+    "rubrica": "Adempimento del legato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art668"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la cosa legata e' gravata da una servitu', da un canone o da altro onere inerente al fondo, ovvero da una rendita fondiaria, il peso ne e' sopportato dal legatario. Se la cosa legata e' vincolata per una rendita semplice, un censo o altro debito dell'eredita', o anche di un terzo, l'erede e' tenuto al pagamento delle annualita' o degli interessi e della somma principale, secondo la natura del debito, qualora il testatore non abbia diversamente disposto.",
+    "con_marcatori": "Art. 668. (Adempimento del legato). Se la cosa legata e' gravata da una servitu', da un canone o da altro onere inerente al fondo, ovvero da una rendita fondiaria, il peso ne e' sopportato dal legatario. Se la cosa legata e' vincolata per una rendita semplice, un censo o altro debito dell'eredita', o anche di un terzo, l'erede e' tenuto al pagamento delle annualita' o degli interessi e della somma principale, secondo la natura del debito, qualora il testatore non abbia diversamente disposto.",
+    "caratteri": 460
+  },
+  "note": [],
+  "impronta": "sha256:918d2b040c44e4522906d2f48edf3cb1af8129011035d5cfc2df14cb9d6e304f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2066",
+    "rubrica": "Inderogabilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2066"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I contratti individuali non possono derogare alle ordinanze corporative e agli accordi economici collettivi, salvo che questi lo consentano. Le clausole dei contratti individuali, difformi dalle norme inderogabili contenute nelle ordinanze e negli accordi previsti nel presente capo, sono sostituite di diritto dalle norme suddette. La disposizione del comma precedente non si applica ai contratti stipulati prima dell'entrata in vigore dell'ordinanza corporativa o dell'accordo economico collettivo. L'ordinanza e l'accordo possono tuttavia stabilire che le norme in essi contenute si applichino anche ai contratti ad esecuzione continuata o periodica in corso, per la parte non ancora eseguita.",
+    "con_marcatori": "Art. 2066. (Inderogabilita'). I contratti individuali non possono derogare alle ordinanze corporative e agli accordi economici collettivi, salvo che questi lo consentano. Le clausole dei contratti individuali, difformi dalle norme inderogabili contenute nelle ordinanze e negli accordi previsti nel presente capo, sono sostituite di diritto dalle norme suddette. La disposizione del comma precedente non si applica ai contratti stipulati prima dell'entrata in vigore dell'ordinanza corporativa o dell'accordo economico collettivo. L'ordinanza e l'accordo possono tuttavia stabilire che le norme in essi contenute si applichino anche ai contratti ad esecuzione continuata o periodica in corso, per la parte non ancora eseguita.",
+    "caratteri": 696
+  },
+  "note": [],
+  "impronta": "sha256:7a41ec2ffccd3b0619909980b8ede03e4ecb0298f96fc3f0f00ffa24bb5de7ff"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2542",
+    "rubrica": "Consiglio di amministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2542"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La nomina degli amministratori spetta all'assemblea fatta eccezione per i primi amministratori che sono nominati nell'atto costitutivo e salvo quanto disposto nell'ultimo comma del presente articolo. L'amministrazione della societa' e' affidata ad un organo collegiale formato da almeno tre soggetti. Alle cooperative di cui all'articolo 2519, secondo comma, si applica la disposizione prevista dall'articolo 2383, secondo comma. La maggioranza degli amministratori e' scelta tra i soci cooperatori ovvero tra le persone indicate dai soci cooperatori persone giuridiche. COMMA SOPPRESSO DAL D.LGS. 28 DICEMBRE 2004, N. 310. L'atto costitutivo puo' prevedere che uno o piu' amministratori siano scelti tra gli appartenenti alle diverse categorie dei soci, in proporzione dell'interesse che ciascuna categoria ha nell'attivita' sociale. In ogni caso, ai possessori di strumenti finanziari non puo' essere attribuito il diritto di eleggere piu' di un terzo degli amministratori. La nomina di uno o piu' amministratori puo' essere attribuita dall'atto costitutivo allo Stato o ad enti pubblici. In ogni caso, la nomina della maggioranza degli amministratori e' riservata all'assemblea.",
+    "con_marcatori": "Art. 2542. (Consiglio di amministrazione). La nomina degli amministratori spetta all'assemblea fatta eccezione per i primi amministratori che sono nominati nell'atto costitutivo e salvo quanto disposto nell'ultimo comma del presente articolo. ((L'amministrazione della societa' e' affidata ad un organo collegiale formato da almeno tre soggetti. Alle cooperative di cui all'articolo 2519, secondo comma, si applica la disposizione prevista dall'articolo 2383, secondo comma)). La maggioranza degli amministratori e' scelta tra i soci cooperatori ovvero tra le persone indicate dai soci cooperatori persone giuridiche. COMMA SOPPRESSO DAL D.LGS. 28 DICEMBRE 2004, N. 310. L'atto costitutivo puo' prevedere che uno o piu' amministratori siano scelti tra gli appartenenti alle diverse categorie dei soci, in proporzione dell'interesse che ciascuna categoria ha nell'attivita' sociale. In ogni caso, ai possessori di strumenti finanziari non puo' essere attribuito il diritto di eleggere piu' di un terzo degli amministratori. La nomina di uno o piu' amministratori puo' essere attribuita dall'atto costitutivo allo Stato o ad enti pubblici. In ogni caso, la nomina della maggioranza degli amministratori e' riservata all'assemblea.",
+    "caratteri": 1181
+  },
+  "note": [],
+  "impronta": "sha256:33fc0cc82745478cc0cd3ae028c1c78537fb175306d243589a2cd3f40a413714"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2756",
+    "rubrica": "Crediti per prestazioni e spese di conservazione e miglioramento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2756"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti per le prestazioni e le spese relative alla conservazione o al miglioramento di beni mobili hanno privilegio sui beni stessi, purche' questi si trovino ancora presso chi ha fatto le prestazioni o le spese. Il privilegio ha effetto anche in pregiudizio dei terzi che hanno diritti sulla cosa, qualora chi ha fatto le prestazioni o le spese sia stato in buona fede. Il creditore puo' ritenere la cosa soggetta al privilegio finche' non e' soddisfatto del suo credito e puo' anche venderla secondo le norme stabilite per la vendita del pegno.",
+    "con_marcatori": "Art. 2756. (Crediti per prestazioni e spese di conservazione e miglioramento). I crediti per le prestazioni e le spese relative alla conservazione o al miglioramento di beni mobili hanno privilegio sui beni stessi, purche' questi si trovino ancora presso chi ha fatto le prestazioni o le spese. Il privilegio ha effetto anche in pregiudizio dei terzi che hanno diritti sulla cosa, qualora chi ha fatto le prestazioni o le spese sia stato in buona fede. Il creditore puo' ritenere la cosa soggetta al privilegio finche' non e' soddisfatto del suo credito e puo' anche venderla secondo le norme stabilite per la vendita del pegno.",
+    "caratteri": 549
+  },
+  "note": [],
+  "impronta": "sha256:6d23a1fce4aee53375b4f9c0ac9cb4d23e9799a5ea2fd95464134326693d5113"
+}

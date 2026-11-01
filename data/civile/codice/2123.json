@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2123",
+    "rubrica": "Forme di previdenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2123"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo patto contrario, l'imprenditore che ha compiuto volontariamente atti di previdenza puo' dedurre dalle somme da lui dovute a norma degli articoli 2110, 2111 e 2120 quanto il prestatore di lavoro ha diritto di percepire per effetto degli atti medesimi. Se esistono fondi di previdenza formati con il contributo dei prestatori di lavoro, questi hanno diritto alla liquidazione della propria quota, qualunque sia la causa della cessazione del contratto.",
+    "con_marcatori": "Art. 2123. (Forme di previdenza). Salvo patto contrario, l'imprenditore che ha compiuto volontariamente atti di previdenza puo' dedurre dalle somme da lui dovute a norma degli articoli 2110, 2111 e 2120 quanto il prestatore di lavoro ha diritto di percepire per effetto degli atti medesimi. Se esistono fondi di previdenza formati con il contributo dei prestatori di lavoro, questi hanno diritto alla liquidazione della propria quota, qualunque sia la causa della cessazione del contratto.",
+    "caratteri": 455
+  },
+  "note": [],
+  "impronta": "sha256:0316c8bc2b47c5730a37470d231844400cfdc7db21d7d33ffad105a135659379"
+}

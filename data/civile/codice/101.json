@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "101",
+    "rubrica": "Matrimonio in imminente pericolo di vita",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art101"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di imminente pericolo di vita di uno degli sposi, l'ufficiale dello stato civile del luogo puo' procedere alla celebrazione del matrimonio senza pubblicazione e senza l'assenso al matrimonio, se questo e' richiesto, purche' gli sposi prima giurino che non esistono tra loro impedimenti non suscettibili di dispensa. L'ufficiale dello stato civile dichiara nell'atto di matrimonio il modo con cui ha accertato l'imminente pericolo di vita.",
+    "con_marcatori": "Art. 101. (Matrimonio in imminente pericolo di vita). Nel caso di imminente pericolo di vita di uno degli sposi, l'ufficiale dello stato civile del luogo puo' procedere alla celebrazione del matrimonio senza pubblicazione e senza l'assenso al matrimonio, se questo e' richiesto, purche' gli sposi prima giurino che non esistono tra loro impedimenti non suscettibili di dispensa. L'ufficiale dello stato civile dichiara nell'atto di matrimonio il modo con cui ha accertato l'imminente pericolo di vita.",
+    "caratteri": 447
+  },
+  "note": [],
+  "impronta": "sha256:4215515dbaff4ac5106648a9d68aabf1cda0078f49f269e4ab13eb90960177c9"
+}

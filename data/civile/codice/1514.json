@@ -1,0 +1,176 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1514",
+    "rubrica": "Deposito della cosa venduta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1514"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il compratore non si presenta per ricevere la cosa acquistata, il venditore puo' depositarla, per conto e a spese del compratore medesimo, in un locale di pubblico deposito, oppure in altro locale idoneo determinato dal giudice di pace del luogo in cui la consegna doveva essere fatta. (112a) Il venditore deve dare al compratore pronta notizia del deposito eseguito.",
+    "con_marcatori": "Art. 1514. (Deposito della cosa venduta). Se il compratore non si presenta per ricevere la cosa acquistata, il venditore puo' depositarla, per conto e a spese del compratore medesimo, in un locale di pubblico deposito, oppure in altro locale idoneo determinato dal ((giudice di pace)) del luogo in cui la consegna doveva essere fatta. (111) (112a) ((273)) ((300)) ((341)) ((351)) Il venditore deve dare al compratore pronta notizia del deposito eseguito.",
+    "caratteri": 370
+  },
+  "note": [
+    {
+      "numero": 111,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 19 febbraio 1998, n. 51",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-19;51",
+          "data": "1998-02-19",
+          "numero": "51",
+          "data_gazzetta": "1998-03-20"
+        },
+        {
+          "denominazione": "articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254",
+          "urn": "urn:nir:stato:legge:1997-07-16;254",
+          "data": "1997-07-16",
+          "numero": "254",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "L. 16 giugno 1998, n. 188",
+          "urn": "urn:nir:stato:legge:1998-06-16;188",
+          "data": "1998-06-16",
+          "numero": "188",
+          "data_gazzetta": "1998-06-19"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 19 febbraio 1998, n. 51, ha disposto (con l'art. 247, comma 1) che \"Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3.\" --------------- AGGIORNAMENTO (112a) Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188, ha disposto (con l'art. 247, comma 1) che \"Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3.\""
+    },
+    {
+      "numero": 273,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 13 luglio 2017, n. 116",
+          "urn": "urn:nir:stato:decretoLegislativo:2017-07-13;116",
+          "data": "2017-07-13",
+          "numero": "116",
+          "data_gazzetta": "2017-07-31"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 13 luglio 2017, n. 116 ha disposto (con l'art. 32, comma 5) che \"A decorrere dal 31 ottobre 2021 ai procedimenti civili contenziosi, di volontaria giurisdizione e di espropriazione forzata introdotti dinanzi al giudice di pace a norma dell'articolo 27 si applicano le disposizioni, anche regolamentari, in materia di processo civile telematico per i procedimenti di competenza del tribunale vigenti alla medesima data. Per i procedimenti di cui all'articolo 27, comma 1, lettera a), numero 1, lettera c), numero 2), e comma 3, lettera d), capoverso «Art. 60-bis», e lettera e), la disposizione del primo periodo si applica a decorrere dal 31 ottobre 2025\"."
+    },
+    {
+      "numero": 300,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 13 luglio 2017, n. 116",
+          "urn": "urn:nir:stato:decretoLegislativo:2017-07-13;116",
+          "data": "2017-07-13",
+          "numero": "116",
+          "data_gazzetta": "2017-07-31"
+        },
+        {
+          "denominazione": "D.L. 30 dicembre 2019, n. 162",
+          "urn": "urn:nir:stato:decretoLegge:2019-12-30;162",
+          "data": "2019-12-30",
+          "numero": "162",
+          "data_gazzetta": "2019-12-31"
+        },
+        {
+          "denominazione": "L. 28 febbraio 2020, n. 8",
+          "urn": "urn:nir:stato:legge:2020-02-28;8",
+          "data": "2020-02-28",
+          "numero": "8",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2025."
+    },
+    {
+      "numero": 341,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 13 luglio 2017, n. 116",
+          "urn": "urn:nir:stato:decretoLegislativo:2017-07-13;116",
+          "data": "2017-07-13",
+          "numero": "116",
+          "data_gazzetta": "2017-07-31"
+        },
+        {
+          "denominazione": "D.L. 8 agosto 2025, n. 117",
+          "urn": "urn:nir:stato:decretoLegge:2025-08-08;117",
+          "data": "2025-08-08",
+          "numero": "117",
+          "data_gazzetta": "2025-08-08"
+        },
+        {
+          "denominazione": "L. 3 ottobre 2025, n. 148",
+          "urn": "urn:nir:stato:legge:2025-10-03;148",
+          "data": "2025-10-03",
+          "numero": "148",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026."
+    },
+    {
+      "numero": 351,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 13 luglio 2017, n. 116",
+          "urn": "urn:nir:stato:decretoLegislativo:2017-07-13;116",
+          "data": "2017-07-13",
+          "numero": "116",
+          "data_gazzetta": "2017-07-31"
+        },
+        {
+          "denominazione": "D.L. 12 giugno 2026, n. 100",
+          "urn": "urn:nir:stato:decretoLegge:2026-06-12;100",
+          "data": "2026-06-12",
+          "numero": "100",
+          "data_gazzetta": "2026-06-12"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che \"Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027\"."
+    }
+  ],
+  "impronta": "sha256:6fb9d21b2e8a439e98fc979b4f2253f90a48246bf698ff0e6382d6ada5486199"
+}

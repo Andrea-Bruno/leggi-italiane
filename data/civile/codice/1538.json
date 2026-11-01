@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1538",
+    "rubrica": "Vendita a corpo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1538"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi in cui il prezzo e' determinato in relazione al corpo dell'immobile e non alla sua misura, sebbene questa sia stata indicata, non si fa luogo a diminuzione o a supplemento di prezzo, salvo che la misura reale sia inferiore o superiore di un ventesimo rispetto a quella indicata nel contratto. Nel caso in cui dovrebbe pagarsi un supplemento di prezzo, il compratore ha la scelta di recedere dal contratto o di corrispondere il supplemento.",
+    "con_marcatori": "Art. 1538. (Vendita a corpo). Nei casi in cui il prezzo e' determinato in relazione al corpo dell'immobile e non alla sua misura, sebbene questa sia stata indicata, non si fa luogo a diminuzione o a supplemento di prezzo, salvo che la misura reale sia inferiore o superiore di un ventesimo rispetto a quella indicata nel contratto. Nel caso in cui dovrebbe pagarsi un supplemento di prezzo, il compratore ha la scelta di recedere dal contratto o di corrispondere il supplemento.",
+    "caratteri": 448
+  },
+  "note": [],
+  "impronta": "sha256:e9df6afbaae0457a3e2ab0eca90cdbbe391db2cf8ad3faff5bb8dfe76acaf04f"
+}

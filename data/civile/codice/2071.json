@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2071",
+    "rubrica": "Contenuto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2071"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto collettivo deve contenere le disposizioni occorrenti, secondo la natura del rapporto, ... per dare esecuzione alle norme di questo codice concernenti la disciplina del lavoro, i diritti e gli obblighi degli imprenditori e dei prestatori di lavoro. Deve inoltre indicare le qualifiche e le rispettive mansioni dei prestatori di lavoro appartenenti alla categoria a cui si riferisce la disciplina collettiva. Deve infine contenere la determinazione della sua durata.",
+    "con_marcatori": "Art. 2071. (Contenuto). Il contratto collettivo deve contenere le disposizioni occorrenti, secondo la natura del rapporto, ((...)) per dare esecuzione alle norme di questo codice concernenti la disciplina del lavoro, i diritti e gli obblighi degli imprenditori e dei prestatori di lavoro. Deve inoltre indicare le qualifiche e le rispettive mansioni dei prestatori di lavoro appartenenti alla categoria a cui si riferisce la disciplina collettiva. Deve infine contenere la determinazione della sua durata.",
+    "caratteri": 477
+  },
+  "note": [],
+  "impronta": "sha256:1455aded3cf585cd14756e955192f39ea8ceb58040ee41ad52f05d5bc856eb4f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1838",
+    "rubrica": "Deposito di titoli in amministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1838"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La banca che assume il deposito di titoli in amministrazione deve custodire i titoli, esigerne gli interessi o i dividendi, verificare i sorteggi per l'attribuzione di premi o per il rimborso di capitale, curare le riscossioni per conto del depositante, e in generale provvedere alla tutela dei diritti inerenti ai titoli. Le somme riscosse devono essere accreditate al depositante. Se per i titoli depositati si deve provvedere al versamento di decimi o si deve esercitare un diritto di opzione, la banca deve chiedere in tempo utile istruzioni al depositante e deve eseguirle, qualora abbia ricevuto i fondi all'uopo occorrenti. In mancanza d'istruzioni, i diritti di opzione devono essere venduti per conto del depositante a mezzo di un agente di cambio. Alla banca spetta un compenso nella misura stabilita dalla convenzione o dagli usi, nonche' il rimborso delle spese necessarie da essa fatte. E' nullo il patto col quale si esonera la banca dall'osservare, nell'amministrazione dei titoli, l'ordinaria diligenza.",
+    "con_marcatori": "Art. 1838. (Deposito di titoli in amministrazione). La banca che assume il deposito di titoli in amministrazione deve custodire i titoli, esigerne gli interessi o i dividendi, verificare i sorteggi per l'attribuzione di premi o per il rimborso di capitale, curare le riscossioni per conto del depositante, e in generale provvedere alla tutela dei diritti inerenti ai titoli. Le somme riscosse devono essere accreditate al depositante. Se per i titoli depositati si deve provvedere al versamento di decimi o si deve esercitare un diritto di opzione, la banca deve chiedere in tempo utile istruzioni al depositante e deve eseguirle, qualora abbia ricevuto i fondi all'uopo occorrenti. In mancanza d'istruzioni, i diritti di opzione devono essere venduti per conto del depositante a mezzo di un agente di cambio. Alla banca spetta un compenso nella misura stabilita dalla convenzione o dagli usi, nonche' il rimborso delle spese necessarie da essa fatte. E' nullo il patto col quale si esonera la banca dall'osservare, nell'amministrazione dei titoli, l'ordinaria diligenza.",
+    "caratteri": 1019
+  },
+  "note": [],
+  "impronta": "sha256:4ebd84d36c4ecad0608ab26ab782417b9887f1c3fe888ddf0fbc58919f1cbc44"
+}

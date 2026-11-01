@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "596",
+    "rubrica": "Incapacita' del tutore e del protutore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art596"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono nulle le disposizioni testamentarie della persona sottoposta a tutela in favore del tutore, se fatte dopo la nomina di questo e prima che sia approvato il conto o sia estinta l'azione per il rendimento del conto medesimo, quantunque il testatore sia morto dopo l'approvazione. Questa norma si applica anche al protutore, se il testamento e' fatto nel tempo in cui egli sostituiva il tutore. Sono pero' valide le disposizioni fatte in favore del tutore o del protutore che e' ascendente, discendente, fratello, sorella o coniuge del testatore.",
+    "con_marcatori": "Art. 596. (Incapacita' del tutore e del protutore). Sono nulle le disposizioni testamentarie della persona sottoposta a tutela in favore del tutore, se fatte dopo la nomina di questo e prima che sia approvato il conto o sia estinta l'azione per il rendimento del conto medesimo, quantunque il testatore sia morto dopo l'approvazione. Questa norma si applica anche al protutore, se il testamento e' fatto nel tempo in cui egli sostituiva il tutore. Sono pero' valide le disposizioni fatte in favore del tutore o del protutore che e' ascendente, discendente, fratello, sorella o coniuge del testatore.",
+    "caratteri": 547
+  },
+  "note": [],
+  "impronta": "sha256:b092c95825034f646a0f21c0f28ff50784f1ceaf852a3086d01667af548505e2"
+}

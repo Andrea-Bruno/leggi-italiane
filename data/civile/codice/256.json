@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "256",
+    "rubrica": "Irrevocabilita' del riconoscimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art256"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il riconoscimento e' irrevocabile. Quando e' contenuto in un testamento ha effetto dal giorno della morte del testatore, anche se il testamento e' stato revocato.",
+    "con_marcatori": "Art. 256. ((Irrevocabilita' del riconoscimento.)) ((Il riconoscimento e' irrevocabile. Quando e' contenuto in un testamento ha effetto dal giorno della morte del testatore, anche se il testamento e' stato revocato)).",
+    "caratteri": 162
+  },
+  "note": [],
+  "impronta": "sha256:609f5c7ae73d73287e4c784c6de4051943f8ab4108bc78683538cf7f1719d075"
+}

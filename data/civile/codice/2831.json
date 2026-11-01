@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2831",
+    "rubrica": "Ipoteca a garanzia di obbligazioni all'ordine o al portatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2831"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le obbligazioni risultanti dai titoli all'ordine o al portatore possono essere garantite con ipoteca. Per i titoli all'ordine l'ipoteca e' iscritta a favore dell'attuale possessore e si trasmette ai successivi possessori; questi non sono tenuti a effettuare l'annotazione prevista dall'art. 2843. Per i titoli al portatore l'ipoteca a favore degli obbligazionisti e' iscritta con l'indicazione dell'emittente, della data dell'atto di emissione, della serie, del numero e del valore delle obbligazioni emesse. In margine all'iscrizione deve essere annotato il nome del rappresentante degli obbligazionisti, appena questo sia nominato. Per l'annotazione deve presentarsi copia della deliberazione o del provvedimento giudiziale di nomina.",
+    "con_marcatori": "Art. 2831. (Ipoteca a garanzia di obbligazioni all'ordine o al portatore). Le obbligazioni risultanti dai titoli all'ordine o al portatore possono essere garantite con ipoteca. Per i titoli all'ordine l'ipoteca e' iscritta a favore dell'attuale possessore e si trasmette ai successivi possessori; questi non sono tenuti a effettuare l'annotazione prevista dall'art. 2843. Per i titoli al portatore l'ipoteca a favore degli obbligazionisti e' iscritta con l'indicazione dell'emittente, della data dell'atto di emissione, della serie, del numero e del valore delle obbligazioni emesse. In margine all'iscrizione deve essere annotato il nome del rappresentante degli obbligazionisti, appena questo sia nominato. Per l'annotazione deve presentarsi copia della deliberazione o del provvedimento giudiziale di nomina.",
+    "caratteri": 736
+  },
+  "note": [],
+  "impronta": "sha256:72c10bd03c446d4ee4f2630d604b7ff3daee14753ffebcc5f38b4747d1edf37f"
+}

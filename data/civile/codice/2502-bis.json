@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2502-bis",
+    "rubrica": "Deposito e iscrizione della decisione di fusione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2502-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La deliberazione di fusione delle societa' previste nei capi V, VI e VII deve essere depositata per l'iscrizione nel registro delle imprese, insieme con i documenti indicati nell'articolo 2501-septies. Si applica l'articolo 2436. La decisione di fusione delle societa' previste nei capi II, III e IV deve essere depositata per l'iscrizione nell'ufficio del registro delle imprese, insieme con i documenti indicati nell'articolo 2501-septies; il deposito va effettuato a norma dell'articolo 2436 se la societa' risultante dalla fusione o quella incorporante e' regolata dai capi V, VI, VII.",
+    "con_marcatori": "Art. 2502-bis. (( (Deposito e iscrizione della decisione di fusione).)) ((La deliberazione di fusione delle societa' previste nei capi V, VI e VII deve essere depositata per l'iscrizione nel registro delle imprese, insieme con i documenti indicati nell'articolo 2501-septies. Si applica l'articolo 2436. La decisione di fusione delle societa' previste nei capi II, III e IV deve essere depositata per l'iscrizione nell'ufficio del registro delle imprese, insieme con i documenti indicati nell'articolo 2501-septies; il deposito va effettuato a norma dell'articolo 2436 se la societa' risultante dalla fusione o quella incorporante e' regolata dai capi V, VI, VII.))",
+    "caratteri": 589
+  },
+  "note": [],
+  "impronta": "sha256:6ffd368eb3296081457e41f0b057f76b3811f3db1bd92c21bd9d70b181826724"
+}

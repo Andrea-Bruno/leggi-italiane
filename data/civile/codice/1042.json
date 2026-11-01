@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1042",
+    "rubrica": "Obblighi inerenti all'uso di corsi contigui a fondi altrui",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1042"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se un corso d'acqua impedisce ai proprietari dei fondi contigui l'accesso ai medesimi, o la continuazione dell'irrigazione o dello scolo delle acque, coloro che si servono di quel corso sono obbligati, in proporzione del beneficio che ne ritraggono, a costruire e a mantenere i ponti e i loro accessi sufficienti per un comodo e sicuro transito, come pure le botti sotterranee, i ponti-canali o altre opere simili per continuare l'irrigazione o lo scolo, salvi i diritti derivanti dal titolo o dall'usucapione.",
+    "con_marcatori": "Art. 1042. (Obblighi inerenti all'uso di corsi contigui a fondi altrui). Se un corso d'acqua impedisce ai proprietari dei fondi contigui l'accesso ai medesimi, o la continuazione dell'irrigazione o dello scolo delle acque, coloro che si servono di quel corso sono obbligati, in proporzione del beneficio che ne ritraggono, a costruire e a mantenere i ponti e i loro accessi sufficienti per un comodo e sicuro transito, come pure le botti sotterranee, i ponti-canali o altre opere simili per continuare l'irrigazione o lo scolo, salvi i diritti derivanti dal titolo o dall'usucapione.",
+    "caratteri": 510
+  },
+  "note": [],
+  "impronta": "sha256:9442383675f1e0c4f77f31fbfa40c25873bd42fb890877cca091e1cb2ae792ce"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "819",
+    "rubrica": "Diritti dei terzi sulle pertinenze",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art819"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La destinazione di una cosa al servizio o all'ornamento di un'altra non pregiudica i diritti preesistenti su di essa a favore dei terzi. Tali diritti non possono essere opposti ai terzi di buona fede se non risultano da scrittura avente data certa anteriore, quando la cosa principale e' un bene immobile o un bene mobile iscritto in pubblici registri.",
+    "con_marcatori": "Art. 819. (Diritti dei terzi sulle pertinenze). La destinazione di una cosa al servizio o all'ornamento di un'altra non pregiudica i diritti preesistenti su di essa a favore dei terzi. Tali diritti non possono essere opposti ai terzi di buona fede se non risultano da scrittura avente data certa anteriore, quando la cosa principale e' un bene immobile o un bene mobile iscritto in pubblici registri.",
+    "caratteri": 352
+  },
+  "note": [],
+  "impronta": "sha256:cbd66659bfaf9fc01ed0c99d2c2524a98f631d6d76b7aacf951da1df4de99073"
+}

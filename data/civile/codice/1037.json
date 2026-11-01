@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1037",
+    "rubrica": "Condizioni per la costituzione della servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1037"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi vuol far passare le acque sul fondo altrui deve dimostrare che puo' disporre dell'acqua durante il tempo per cui chiede il passaggio; che la medesima e' sufficiente per l'uso al quale si vuol destinare; che il passaggio richiesto e' il piu' conveniente e il meno pregiudizievole al fondo servente, avuto riguardo alle condizioni dei fondi vicini, al pendio e alle altre condizioni per la condotta, per il corso e lo sbocco delle acque.",
+    "con_marcatori": "Art. 1037. (Condizioni per la costituzione della servitu'). Chi vuol far passare le acque sul fondo altrui deve dimostrare che puo' disporre dell'acqua durante il tempo per cui chiede il passaggio; che la medesima e' sufficiente per l'uso al quale si vuol destinare; che il passaggio richiesto e' il piu' conveniente e il meno pregiudizievole al fondo servente, avuto riguardo alle condizioni dei fondi vicini, al pendio e alle altre condizioni per la condotta, per il corso e lo sbocco delle acque.",
+    "caratteri": 439
+  },
+  "note": [],
+  "impronta": "sha256:8e44fbc16e7c612923ef4e731f1538add1bedd7542760b1b2c38dd0ea6826d10"
+}

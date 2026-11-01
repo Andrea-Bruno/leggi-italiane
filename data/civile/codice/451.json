@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "451",
+    "rubrica": "Forza probatoria degli atti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art451"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti dello stato civile fanno prova, fino a querela di falso, di cio' che l'ufficiale pubblico attesta essere avvenuto alla sua presenza o da lui compiuto. Le dichiarazioni dei comparenti fanno fede fino a prova contraria. Le indicazioni estranee all'atto non hanno alcun valore.",
+    "con_marcatori": "Art. 451. (Forza probatoria degli atti). Gli atti dello stato civile fanno prova, fino a querela di falso, di cio' che l'ufficiale pubblico attesta essere avvenuto alla sua presenza o da lui compiuto. Le dichiarazioni dei comparenti fanno fede fino a prova contraria. Le indicazioni estranee all'atto non hanno alcun valore.",
+    "caratteri": 283
+  },
+  "note": [],
+  "impronta": "sha256:239f6b30a5412a504a07119ac817b7f5923ddb3de82f4997d21d25fa8345e777"
+}

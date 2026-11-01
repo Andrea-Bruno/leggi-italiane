@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1927",
+    "rubrica": "Suicidio dell'assicurato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1927"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di suicidio dell'assicurato, avvenuto prima che siano decorsi due anni dalla stipulazione del contratto, l'assicuratore non e' tenuto al pagamento delle somme assicurate, salvo patto contrario. L'assicuratore non e' nemmeno obbligato se, essendovi stata sospensione del contratto per mancato pagamento dei premi, non sono decorsi due anni dal giorno in cui la sospensione e' cessata.",
+    "con_marcatori": "Art. 1927. (Suicidio dell'assicurato). In caso di suicidio dell'assicurato, avvenuto prima che siano decorsi due anni dalla stipulazione del contratto, l'assicuratore non e' tenuto al pagamento delle somme assicurate, salvo patto contrario. L'assicuratore non e' nemmeno obbligato se, essendovi stata sospensione del contratto per mancato pagamento dei premi, non sono decorsi due anni dal giorno in cui la sospensione e' cessata.",
+    "caratteri": 391
+  },
+  "note": [],
+  "impronta": "sha256:f840f830e33f2bc67691adcf39b1b324892c5a469e3df34bafe03979e3d15c52"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "587",
+    "rubrica": "Testamento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art587"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento e' un atto revocabile con il quale taluno dispone, per il tempo in cui avra' cessato di vivere, di tutte le proprie sostanze o di parte di esse. Le disposizioni di carattere non patrimoniale, che la legge consente siano contenute in un testamento, hanno efficacia, se contenute in un atto che ha la forma del testamento, anche se manchino disposizioni di carattere patrimoniale.",
+    "con_marcatori": "Art. 587. (Testamento). Il testamento e' un atto revocabile con il quale taluno dispone, per il tempo in cui avra' cessato di vivere, di tutte le proprie sostanze o di parte di esse. Le disposizioni di carattere non patrimoniale, che la legge consente siano contenute in un testamento, hanno efficacia, se contenute in un atto che ha la forma del testamento, anche se manchino disposizioni di carattere patrimoniale.",
+    "caratteri": 392
+  },
+  "note": [],
+  "impronta": "sha256:b8fb5b7145e9d0c3be1e25c0b1c7d72805b8cd9417fc8f580f38bdc88feacf0f"
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "73",
+    "rubrica": "Concorso di reati che importano pene detentive temporanee o pene pecuniarie della stessa specie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art73"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 139,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Se piu' reati importano pene temporanee detentive della stessa specie, si applica una pena unica, per un tempo eguale alla durata complessiva delle pene che si dovrebbero infliggere per i singoli reati. Quando concorrono piu' delitti, per ciascuno dei quali deve infliggersi la pena della reclusione non inferiore a ventiquattro anni, si applica l'ergastolo. Le pene pecuniarie della stessa specie si applicano tutte per intero.",
+    "con_marcatori": "Art. 73. (Concorso di reati che importano pene detentive temporanee o pene pecuniarie della stessa specie) Se piu' reati importano pene temporanee detentive della stessa specie, si applica una pena unica, per un tempo eguale alla durata complessiva delle pene che si dovrebbero infliggere per i singoli reati. Quando concorrono piu' delitti, per ciascuno dei quali deve infliggersi la pena della reclusione non inferiore a ventiquattro anni, si applica l'ergastolo.((139)) Le pene pecuniarie della stessa specie si applicano tutte per intero.",
+    "caratteri": 428
+  },
+  "note": [
+    {
+      "numero": 139,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 73, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1994-04-28",
+        "numero": "168"
+      },
+      "testo": "La Corte Costituzionale con sentenza 27-28 aprile 1994, n. 168 (in G.U. 1ª s.s. 04/05/1994, n. 19) ha dichiarato \"in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87: [...] b) l'illegittimita' costituzionale dell'art. 73, secondo comma, del codice penale, nella parte in cui, in caso di concorso di piu' delitti commessi da minore imputabile, per ciascuno dei quali deve infliggersi la pena della reclusione non inferiore a ventiquattro anni, prevede la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:871879d6718d40444980244d0501db9c9b89386e69f3773a5e19323e8adef7ca"
+}

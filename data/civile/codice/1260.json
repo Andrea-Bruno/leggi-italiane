@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1260",
+    "rubrica": "Cedibilita' dei crediti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1260"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore puo' trasferire a titolo oneroso o gratuito il suo credito, anche senza il consenso del debitore, purche' il credito non abbia carattere strettamente personale o il trasferimento non sia vietato dalla legge. Le parti possono escludere la cedibilita' del credito; ma il patto non e' opponibile al cessionario, se non si prova che egli lo conosceva al tempo della cessione.",
+    "con_marcatori": "Art. 1260. (Cedibilita' dei crediti). Il creditore puo' trasferire a titolo oneroso o gratuito il suo credito, anche senza il consenso del debitore, purche' il credito non abbia carattere strettamente personale o il trasferimento non sia vietato dalla legge. Le parti possono escludere la cedibilita' del credito; ma il patto non e' opponibile al cessionario, se non si prova che egli lo conosceva al tempo della cessione.",
+    "caratteri": 384
+  },
+  "note": [],
+  "impronta": "sha256:a9b908421b4b3f38a678c713eeffdd88b0c1e813ec7c9345b491ee019f63c39e"
+}

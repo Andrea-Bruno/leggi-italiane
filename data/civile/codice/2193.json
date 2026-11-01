@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2193",
+    "rubrica": "Efficacia dell'iscrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2193"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I fatti dei quali la legge prescrive l'iscrizione, se non sono stati iscritti, non possono essere opposti ai terzi da chi e' obbligato a richiederne l'iscrizione, a meno che questi provi che i terzi ne abbiano avuto conoscenza. L'ignoranza dei fatti dei quali la legge prescrive l'iscrizione non puo' essere opposta dai terzi dal momento in cui l'iscrizione e' avvenuta. Sono salve le disposizioni particolari della legge.",
+    "con_marcatori": "Art. 2193. (Efficacia dell'iscrizione). I fatti dei quali la legge prescrive l'iscrizione, se non sono stati iscritti, non possono essere opposti ai terzi da chi e' obbligato a richiederne l'iscrizione, a meno che questi provi che i terzi ne abbiano avuto conoscenza. L'ignoranza dei fatti dei quali la legge prescrive l'iscrizione non puo' essere opposta dai terzi dal momento in cui l'iscrizione e' avvenuta. Sono salve le disposizioni particolari della legge.",
+    "caratteri": 422
+  },
+  "note": [],
+  "impronta": "sha256:0b23b6ccc07cb04bd3cd7f41b8020c5668a4b18bb24ee630cbd77120f6b0e93b"
+}

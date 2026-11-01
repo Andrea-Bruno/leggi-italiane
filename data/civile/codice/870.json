@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "870",
+    "rubrica": "Comparti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art870"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando e' prevista la formazione di comparti, costituenti unita' fabbricabili con speciali modalita' di costruzione e di adattamento, gli aventi diritto sugli immobili compresi nel comparto devono regolare i loro reciproci rapporti in modo da rendere possibile l'attuazione del piano. Possono anche riunirsi in consorzio per l'esecuzione delle opere. In mancanza di accordo, puo' procedersi all'espropriazione a norma delle leggi in materia.",
+    "con_marcatori": "Art. 870. (Comparti). Quando e' prevista la formazione di comparti, costituenti unita' fabbricabili con speciali modalita' di costruzione e di adattamento, gli aventi diritto sugli immobili compresi nel comparto devono regolare i loro reciproci rapporti in modo da rendere possibile l'attuazione del piano. Possono anche riunirsi in consorzio per l'esecuzione delle opere. In mancanza di accordo, puo' procedersi all'espropriazione a norma delle leggi in materia.",
+    "caratteri": 441
+  },
+  "note": [],
+  "impronta": "sha256:569167d9ff4d215b35ee3282d4bb5fd3329c7cb13e38a90e1972205bc55ce0ea"
+}

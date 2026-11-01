@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "899",
+    "rubrica": "Comunione di alberi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art899"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli alberi sorgenti nella siepe comune sono comuni. Gli alberi sorgenti sulla linea di confine si presumono comuni, salvo titolo o prova in contrario. Gli alberi che servono di limite o che si trovano nella siepe comune non possono essere tagliati, se non di comune consenso o dopo che l'autorita' giudiziaria abbia riconosciuto la necessita' o la convenienza del taglio.",
+    "con_marcatori": "Art. 899. (Comunione di alberi). Gli alberi sorgenti nella siepe comune sono comuni. Gli alberi sorgenti sulla linea di confine si presumono comuni, salvo titolo o prova in contrario. Gli alberi che servono di limite o che si trovano nella siepe comune non possono essere tagliati, se non di comune consenso o dopo che l'autorita' giudiziaria abbia riconosciuto la necessita' o la convenienza del taglio.",
+    "caratteri": 371
+  },
+  "note": [],
+  "impronta": "sha256:ee9b31a0bfbecd18d0d61dec554643069c7357ed5b3a78651886d762a0ab25b5"
+}

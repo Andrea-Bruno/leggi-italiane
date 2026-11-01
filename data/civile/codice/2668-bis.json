@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2668-bis",
+    "rubrica": "Durata dell'efficacia della trascrizione della domanda giudiziale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2668-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La trascrizione della domanda giudiziale conserva il suo effetto per venti anni dalla sua data. L'effetto cessa se la trascrizione non e' rinnovata prima che scada detto termine. Per ottenere la rinnovazione si presenta al conservatore una nota in doppio originale conforme a quella della precedente trascrizione, in cui si dichiara che si intende rinnovare la trascrizione originaria. In luogo del titolo si puo' presentare la nota precedente. Il conservatore deve osservare le disposizioni dell'articolo 2664. Se al tempo della rinnovazione gli immobili a cui si riferisce il titolo risultano dai registri delle trascrizioni passati agli eredi o aventi causa di colui contro il quale venne eseguita la formalita', la rinnovazione deve essere fatta anche nei confronti degli eredi o aventi causa e la nota deve contenere le indicazioni stabilite dall'articolo 2659, se queste risultano dai registri medesimi.",
+    "con_marcatori": "Art. 2668-bis. (( (Durata dell'efficacia della trascrizione della domanda giudiziale). )) ((La trascrizione della domanda giudiziale conserva il suo effetto per venti anni dalla sua data. L'effetto cessa se la trascrizione non e' rinnovata prima che scada detto termine. Per ottenere la rinnovazione si presenta al conservatore una nota in doppio originale conforme a quella della precedente trascrizione, in cui si dichiara che si intende rinnovare la trascrizione originaria. In luogo del titolo si puo' presentare la nota precedente. Il conservatore deve osservare le disposizioni dell'articolo 2664. Se al tempo della rinnovazione gli immobili a cui si riferisce il titolo risultano dai registri delle trascrizioni passati agli eredi o aventi causa di colui contro il quale venne eseguita la formalita', la rinnovazione deve essere fatta anche nei confronti degli eredi o aventi causa e la nota deve contenere le indicazioni stabilite dall'articolo 2659, se queste risultano dai registri medesimi)).",
+    "caratteri": 909
+  },
+  "note": [],
+  "impronta": "sha256:ae36e7db13ce565dd3aeef010cbc76eb7e18fba3f3d2cf6ac94eefa425e2d681"
+}

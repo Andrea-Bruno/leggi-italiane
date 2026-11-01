@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1533",
+    "rubrica": "Estrazione per premi o rimborsi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1533"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se i titoli venduti a termine sono soggetti a estrazione per premi o rimborsi, i diritti e gli oneri derivanti dall'estrazione spettano al compratore, qualora la conclusione del contratto sia anteriore al giorno stabilito per l'inizio dell'estrazione. Il venditore, al solo effetto indicato dal comma precedente, deve comunicare per iscritto al compratore una distinta numerica dei titoli almeno un giorno prima dell'inizio dell'estrazione. In mancanza di tale comunicazione, il compratore ha facolta' di acquistare, a spese del venditore, i diritti spettanti a una quantita' corrispondente di titoli, dandone comunicazione al venditore prima dell'inizio dell'estrazione.",
+    "con_marcatori": "Art. 1533. (Estrazione per premi o rimborsi). Se i titoli venduti a termine sono soggetti a estrazione per premi o rimborsi, i diritti e gli oneri derivanti dall'estrazione spettano al compratore, qualora la conclusione del contratto sia anteriore al giorno stabilito per l'inizio dell'estrazione. Il venditore, al solo effetto indicato dal comma precedente, deve comunicare per iscritto al compratore una distinta numerica dei titoli almeno un giorno prima dell'inizio dell'estrazione. In mancanza di tale comunicazione, il compratore ha facolta' di acquistare, a spese del venditore, i diritti spettanti a una quantita' corrispondente di titoli, dandone comunicazione al venditore prima dell'inizio dell'estrazione.",
+    "caratteri": 671
+  },
+  "note": [],
+  "impronta": "sha256:90921c29a7f4719290c7fc21d3ff88ee5fc5a7ad09dc9fe0f99fd8718bc8fb27"
+}

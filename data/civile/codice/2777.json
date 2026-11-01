@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2777",
+    "rubrica": "Preferenza delle spese di giustizia e di altri crediti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2777"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti per spese di giustizia enunciati dagli articoli 2755 e 2770 sono preferiti ad ogni altro credito anche pignoratizio o ipotecario. Immediatamente dopo le spese di giustizia sono collocati i crediti aventi privilegio generale mobiliare di cui all'articolo 2751-bis nell'ordine seguente: a) i crediti di cui all'articolo 2751-bis, n. 1; b) i crediti di cui all'articolo 2751-bis, numeri 2 e 3; c) i crediti di cui all'articolo 2751-bis, numeri 4 e 5. I privilegi che le leggi speciali dichiarano preferiti ad ogni altro credito sono sempre posposti al privilegio per le spese di giustizia ed ai privilegi indicati nell'articolo 2751-bis.",
+    "con_marcatori": "Art. 2777. ((Preferenza delle spese di giustizia e di altri crediti.)) ((I crediti per spese di giustizia enunciati dagli articoli 2755 e 2770 sono preferiti ad ogni altro credito anche pignoratizio o ipotecario. Immediatamente dopo le spese di giustizia sono collocati i crediti aventi privilegio generale mobiliare di cui all'articolo 2751-bis nell'ordine seguente: a) i crediti di cui all'articolo 2751-bis, n. 1; b) i crediti di cui all'articolo 2751-bis, numeri 2 e 3; c) i crediti di cui all'articolo 2751-bis, numeri 4 e 5. I privilegi che le leggi speciali dichiarano preferiti ad ogni altro credito sono sempre posposti al privilegio per le spese di giustizia ed ai privilegi indicati nell'articolo 2751-bis)).",
+    "caratteri": 644
+  },
+  "note": [],
+  "impronta": "sha256:019ed7836c394e06c041045739a4779bcab95cb43298e9a532e672fdf5061248"
+}

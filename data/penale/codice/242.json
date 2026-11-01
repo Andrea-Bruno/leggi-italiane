@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "242",
+    "rubrica": "Cittadino che porta le armi contro lo Stato italiano",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art242"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il cittadino che porta le armi contro lo Stato, o presta servizio nelle forze armate di uno Stato in guerra contro lo Stato italiano, e' punito con l'ergastolo. Se esercita un comando superiore o una funzione direttiva e' punito con la morte. Non e' punibile chi, trovandosi, durante le ostilita', nel territorio dello Stato nemico, ha commesso il fatto per esservi stato costretto da un obbligo impostogli dalle leggi dello Stato medesimo. Agli effetti delle disposizioni di questo titolo, e' considerato cittadino anche chi ha perduto per qualunque causa la cittadinanza italiana. Agli effetti della legge penale, sono considerati Stati in guerra contro lo Stato italiano anche gli aggregati politici che, sebbene dallo Stato italiano non riconosciuti come Stati, abbiano tuttavia il trattamento di belligeranti.",
+    "con_marcatori": "Art. 242. (Cittadino che porta le armi contro lo Stato italiano) Il cittadino che porta le armi contro lo Stato, o presta servizio nelle forze armate di uno Stato in guerra contro lo Stato italiano, e' punito con l'ergastolo. Se esercita un comando superiore o una funzione direttiva e' punito con la morte. ((5)) Non e' punibile chi, trovandosi, durante le ostilita', nel territorio dello Stato nemico, ha commesso il fatto per esservi stato costretto da un obbligo impostogli dalle leggi dello Stato medesimo. Agli effetti delle disposizioni di questo titolo, e' considerato cittadino anche chi ha perduto per qualunque causa la cittadinanza italiana. Agli effetti della legge penale, sono considerati Stati in guerra contro lo Stato italiano anche gli aggregati politici che, sebbene dallo Stato italiano non riconosciuti come Stati, abbiano tuttavia il trattamento di belligeranti.",
+    "caratteri": 814
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:c69a082f590d705c3743a0ec4e0b0899c0d991fe7c35ee4def7f06bd984b17aa"
+}

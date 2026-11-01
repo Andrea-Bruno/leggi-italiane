@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2818",
+    "rubrica": "Provvedimenti da cui deriva",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2818"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni sentenza che porta condanna al pagamento di una somma o all'adempimento di altra obbligazione ovvero al risarcimento dei danni da liquidarsi successivamente e' titolo per iscrivere ipoteca sui beni del debitore. Lo stesso ha luogo per gli altri provvedimenti giudiziali ai quali la legge attribuisce tale effetto.",
+    "con_marcatori": "Art. 2818. (Provvedimenti da cui deriva). Ogni sentenza che porta condanna al pagamento di una somma o all'adempimento di altra obbligazione ovvero al risarcimento dei danni da liquidarsi successivamente e' titolo per iscrivere ipoteca sui beni del debitore. Lo stesso ha luogo per gli altri provvedimenti giudiziali ai quali la legge attribuisce tale effetto.",
+    "caratteri": 318
+  },
+  "note": [],
+  "impronta": "sha256:afc8b9cdfe34fa81ea8b225419b47dfde76f1ddc1e39bd847e629e0ae6731dfd"
+}

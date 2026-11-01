@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "411",
+    "rubrica": "Distruzione, soppressione o sottrazione di cadavere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art411"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque distrugge, sopprime o sottrae un cadavere, o una parte di esso, ovvero ne sottrae o disperde le ceneri, e' punito con la reclusione da due a sette anni. La pena e' aumentata se il fatto e' commesso in cimiteri o in altri luoghi di sepoltura, di deposito o di custodia. Non costituisce reato la dispersione delle ceneri di cadavere autorizzata dall'ufficiale dello stato civile sulla base di espressa volonta' del defunto. La dispersione delle ceneri non autorizzata dall'ufficiale dello stato civile, o effettuata con modalita' diverse rispetto a quanto indicato dal defunto, e' punita con la reclusione da due mesi a un anno e con la multa da lire cinque milioni a lire venticinque milioni.",
+    "con_marcatori": "Art. 411. (Distruzione, soppressione o sottrazione di cadavere) Chiunque distrugge, sopprime o sottrae un cadavere, o una parte di esso, ovvero ne sottrae o disperde le ceneri, e' punito con la reclusione da due a sette anni. La pena e' aumentata se il fatto e' commesso in cimiteri o in altri luoghi di sepoltura, di deposito o di custodia. ((Non costituisce reato la dispersione delle ceneri di cadavere autorizzata dall'ufficiale dello stato civile sulla base di espressa volonta' del defunto. La dispersione delle ceneri non autorizzata dall'ufficiale dello stato civile, o effettuata con modalita' diverse rispetto a quanto indicato dal defunto, e' punita con la reclusione da due mesi a un anno e con la multa da lire cinque milioni a lire venticinque milioni)).",
+    "caratteri": 700
+  },
+  "note": [],
+  "impronta": "sha256:501d745d823caa54c6e19d2215062191db11984ad2bef18eef6a7e1a26faebd0"
+}

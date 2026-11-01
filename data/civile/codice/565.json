@@ -1,0 +1,76 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "565",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art565"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 73,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Categorie dei successibili. Nella successione legittima l'eredita' si devolve al coniuge, ai discendenti ..., agli ascendenti ..., ai collaterali, agli altri parenti e allo Stato, nell'ordine e secondo le regole stabilite nel presente titolo. (48a) -------------- AGGIORNAMENTO (48a) La Corte Costituzionale, con sentenza 15 giugno-4 luglio 1979, n. 55 (in G.U. 1a s.s. 11/7/1979, n. 189), ha dichiarato \"la illegittimita' costituzionale dell'art. 565 cod. civ. nella parte in cui esclude dalla categoria dei chiamati alla successione legittima, in mancanza di altri successibili, e prima dello Stato, i fratelli e le sorelle naturali riconosciuti o dichiarati, per contrasto con gli artt. 3 e 30, terzo comma, della Costituzione\".",
+    "con_marcatori": "Art. 565. Categorie dei successibili. Nella successione legittima l'eredita' si devolve al coniuge, ai discendenti ((...)), agli ascendenti ((...)), ai collaterali, agli altri parenti e allo Stato, nell'ordine e secondo le regole stabilite nel presente titolo. (48a) (73) -------------- AGGIORNAMENTO (48a) La Corte Costituzionale, con sentenza 15 giugno-4 luglio 1979, n. 55 (in G.U. 1a s.s. 11/7/1979, n. 189), ha dichiarato \"la illegittimita' costituzionale dell'art. 565 cod. civ. nella parte in cui esclude dalla categoria dei chiamati alla successione legittima, in mancanza di altri successibili, e prima dello Stato, i fratelli e le sorelle naturali riconosciuti o dichiarati, per contrasto con gli artt. 3 e 30, terzo comma, della Costituzione\".",
+    "caratteri": 731
+  },
+  "note": [
+    {
+      "numero": 73,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 565 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 183 della legge 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1990-04-12",
+        "numero": "184"
+      },
+      "testo": "La Corte Costituzionale con sentenza 4-12 aprile 1990 n. 184 (in G.U. 1a s.s. 18/04/1990 n. 16) ha dichiarato \"l'illegittimita' costituzionale dell'art. 565 del codice civile, riformato dall'art. 183 della legge 19 maggio 1975, n. 151 (\"Riforma del diritto di famiglia\"), nella parte in cui, in mancanza di altri successibili all'infuori dello Stato, non prevede la successione legittima tra fratelli e sorelle naturali, dei quali sia legalmente accertato il rispettivo status di filiazione nei confronti del comune genitore.\""
+    }
+  ],
+  "impronta": "sha256:8605296ad466e5a76a351e455b00e9f0b83c27e272cad32d8289a13ea7f1f59f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "190",
+    "rubrica": "Responsabilita' sussidiaria dei beni personali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art190"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I creditori possono agire in via sussidiaria sui beni personali di ciascuno dei coniugi, nella misura della meta' del credito, quando i beni della comunione non sono sufficienti a soddisfare i debiti su di essa gravanti.",
+    "con_marcatori": "Art. 190. ((Responsabilita' sussidiaria dei beni personali.)) ((I creditori possono agire in via sussidiaria sui beni personali di ciascuno dei coniugi, nella misura della meta' del credito, quando i beni della comunione non sono sufficienti a soddisfare i debiti su di essa gravanti)).",
+    "caratteri": 220
+  },
+  "note": [],
+  "impronta": "sha256:3fc878553a8f934ed2c23754305e8144ca3f65da34f645aee2511e9b5d806131"
+}

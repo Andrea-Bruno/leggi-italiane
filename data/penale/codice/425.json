@@ -1,0 +1,118 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "425",
+    "rubrica": "Circostanze aggravanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art425"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi preveduti dagli articoli 423 e 424, la pena e' aumentata se il fatto e' commesso: 1° su edifici pubblici o destinati a uso pubblico, su monumenti, cimiteri e loro dipendenze; 2° su edifici abitati o destinati a uso di abitazione, su impianti industriali o cantieri, su aziende agricole, o su miniere, cave, sorgenti, o su acquedotti o altri manufatti destinati a raccogliere e condurre le acque; 3° su navi o altri edifici natanti, o su aeromobili; 4° su scali ferroviari o marittimi, o aeroscali, magazzini generali o altri depositi di merci o derrate, o su ammassi o depositi di materie esplodenti, infiammabili o combustibili; 5° NUMERO ABROGATO DAL D.L. 4 AGOSTO 2000, N. 220, CONVERTITO CON MODIFICAZIONI DALLA L. 6 OTTOBRE 2000, N. 275.",
+    "con_marcatori": "Art. 425. (Circostanze aggravanti) Nei casi preveduti dagli articoli 423 e 424, la pena e' aumentata se il fatto e' commesso: (172) 1° su edifici pubblici o destinati a uso pubblico, su monumenti, cimiteri e loro dipendenze; 2° su edifici abitati o destinati a uso di abitazione, su impianti industriali o cantieri, ((su aziende agricole,)) o su miniere, cave, sorgenti, o su acquedotti o altri manufatti destinati a raccogliere e condurre le acque; 3° su navi o altri edifici natanti, o su aeromobili; 4° su scali ferroviari o marittimi, o aeroscali, magazzini generali o altri depositi di merci o derrate, o su ammassi o depositi di materie esplodenti, infiammabili o combustibili; 5° NUMERO ABROGATO DAL D.L. 4 AGOSTO 2000, N. 220, CONVERTITO CON MODIFICAZIONI DALLA L. 6 OTTOBRE 2000, N. 275. (172) (7)",
+    "caratteri": 751
+  },
+  "note": [
+    {
+      "numero": 7,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 maggio 1945, n. 234",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;234",
+          "data": "1945-05-10",
+          "numero": "234",
+          "data_gazzetta": "1945-05-24"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 maggio 1945, n. 234 ha disposto (con l'art. 4, comma 1) che \"Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del Codice penale, sono aumentate da un terzo alla meta'\". Ha inoltre disposto (con l'art. 7, comma 1) che la presente modifica ha efficacia fino ad un anno dopo la cessazione dello stato di guerra."
+    },
+    {
+      "numero": 172,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 21 novembre 2000, n. 353",
+          "urn": "urn:nir:stato:legge:2000-11-21;353",
+          "data": "2000-11-21",
+          "numero": "353",
+          "data_gazzetta": "2000-11-30"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 425 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1, commi 5",
+          "urn": "urn:nir:stato:decretoLegge:2000-08-04;220",
+          "data": "2000-08-04",
+          "numero": "220",
+          "data_gazzetta": "2000-08-07"
+        },
+        {
+          "denominazione": "6, del D.L. 4 agosto 2000, n. 220",
+          "urn": "urn:nir:stato:decretoLegge:2000-08-04;220",
+          "data": "2000-08-04",
+          "numero": "220",
+          "data_gazzetta": "2000-08-07"
+        },
+        {
+          "denominazione": "L. 6 ottobre 2000, n. 275",
+          "urn": "urn:nir:stato:legge:2000-10-06;275",
+          "data": "2000-10-06",
+          "numero": "275",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 21 novembre 2000, n. 353 ha disposto (con l'art. 11, comma 5) che \"All'articolo 425, alinea, del codice penale, le parole: \"dai due articoli precedenti\" sono sostituite dalle seguenti: \"dagli articoli 423 e 424\".\" Ha inoltre disposto (con l'art. 11, comma 6) che \"All'articolo 425 del codice penale, il numero 5) e' abrogato\". Le medesime modifiche erano state precedentemente disposte dall'art. 1, commi 5 e 6, del D.L. 4 agosto 2000, n. 220, convertito con modificazioni dalla L. 6 ottobre 2000, n. 275."
+    }
+  ],
+  "impronta": "sha256:14b0486783caa75b9327db0e8694275467d8238290fee3427169dccb9574099d"
+}

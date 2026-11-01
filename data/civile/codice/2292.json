@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2292",
+    "rubrica": "Ragione sociale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2292"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' in nome collettivo agisce sotto una ragione sociale costituita dal nome di uno o piu' soci con l'indicazione del rapporto sociale. La societa' puo' conservare nella ragione sociale il nome del socio receduto o defunto, se il socio receduto o gli eredi del socio defunto vi consentono.",
+    "con_marcatori": "Art. 2292. (Ragione sociale). La societa' in nome collettivo agisce sotto una ragione sociale costituita dal nome di uno o piu' soci con l'indicazione del rapporto sociale. La societa' puo' conservare nella ragione sociale il nome del socio receduto o defunto, se il socio receduto o gli eredi del socio defunto vi consentono.",
+    "caratteri": 296
+  },
+  "note": [],
+  "impronta": "sha256:0c5b5a1e36d659e881bd18bdbc5032f440bca43c6813c27cd2fb0294a433e702"
+}

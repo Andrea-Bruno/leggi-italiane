@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "884",
+    "rubrica": "Appoggio e immissione di travi e catene nel muro comune",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art884"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il comproprietario di un muro comune puo' fabbricare appoggiandovi le sue costruzioni e puo' immettervi travi, purche' le mantenga a distanza di cinque centimetri dalla superficie opposta, salvo il diritto dell'altro comproprietario di fare accorciare la trave fino alla meta' del muro, nel caso in cui egli voglia collocare una trave nello stesso luogo, aprirvi un incavo o appoggiarvi un camino. Il comproprietario puo' anche attraversare il muro comune con chiavi e catene di rinforzo, mantenendo la stessa distanza. Egli e' tenuto in ogni caso a riparare i danni causati dalle opere compiute. Non puo' fare incavi nel muro comune, ne' eseguirvi altra opera che ne comprometta la stabilita' o che in altro modo lo danneggi.",
+    "con_marcatori": "Art. 884. (Appoggio e immissione di travi e catene nel muro comune). Il comproprietario di un muro comune puo' fabbricare appoggiandovi le sue costruzioni e puo' immettervi travi, purche' le mantenga a distanza di cinque centimetri dalla superficie opposta, salvo il diritto dell'altro comproprietario di fare accorciare la trave fino alla meta' del muro, nel caso in cui egli voglia collocare una trave nello stesso luogo, aprirvi un incavo o appoggiarvi un camino. Il comproprietario puo' anche attraversare il muro comune con chiavi e catene di rinforzo, mantenendo la stessa distanza. Egli e' tenuto in ogni caso a riparare i danni causati dalle opere compiute. Non puo' fare incavi nel muro comune, ne' eseguirvi altra opera che ne comprometta la stabilita' o che in altro modo lo danneggi.",
+    "caratteri": 726
+  },
+  "note": [],
+  "impronta": "sha256:37ebb0ba250104f2c3de9d6522f0f78aa63367008f237fe712d1736641ba6057"
+}

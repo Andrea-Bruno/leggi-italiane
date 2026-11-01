@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2116",
+    "rubrica": "Prestazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2116"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le prestazioni indicate nell'art. 2114 sono dovute al prestatore di lavoro, anche quando l'imprenditore non ha versato regolarmente i contributi dovuti alle istituzioni di previdenza e di assistenza, salvo diverse disposizioni delle leggi speciali o delle norme corporative. Nei casi in cui, secondo tali disposizioni, le istituzioni di previdenza e di assistenza, per mancata o irregolare contribuzione, non sono tenute a corrispondere in tutto o in parte le prestazioni dovute, l'imprenditore e' responsabile del danno che ne deriva al prestatore di lavoro.",
+    "con_marcatori": "Art. 2116. (Prestazioni). Le prestazioni indicate nell'art. 2114 sono dovute al prestatore di lavoro, anche quando l'imprenditore non ha versato regolarmente i contributi dovuti alle istituzioni di previdenza e di assistenza, salvo diverse disposizioni delle leggi speciali o delle norme corporative. Nei casi in cui, secondo tali disposizioni, le istituzioni di previdenza e di assistenza, per mancata o irregolare contribuzione, non sono tenute a corrispondere in tutto o in parte le prestazioni dovute, l'imprenditore e' responsabile del danno che ne deriva al prestatore di lavoro.",
+    "caratteri": 559
+  },
+  "note": [],
+  "impronta": "sha256:6386195c5b72cf203db2dede5735bf20f911f797bf6526bf01cf2c279179c226"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2458",
+    "rubrica": "Cessazione dall'ufficio di tutti i soci amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2458"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di cessazione dall'ufficio di tutti gli amministratori, la societa' si scioglie se nel termine di centottanta giorni non si e' provveduto alla loro sostituzione e i sostituti non hanno accettato la carica. Per questo periodo il collegio sindacale nomina un amministratore provvisorio per il compimento degli atti di ordinaria amministrazione. L'amministratore provvisorio non assume la qualita' di socio accomandatario.",
+    "con_marcatori": "Art. 2458. (( (Cessazione dall'ufficio di tutti i soci amministratori).)) ((In caso di cessazione dall'ufficio di tutti gli amministratori, la societa' si scioglie se nel termine di centottanta giorni non si e' provveduto alla loro sostituzione e i sostituti non hanno accettato la carica. Per questo periodo il collegio sindacale nomina un amministratore provvisorio per il compimento degli atti di ordinaria amministrazione. L'amministratore provvisorio non assume la qualita' di socio accomandatario.))",
+    "caratteri": 427
+  },
+  "note": [],
+  "impronta": "sha256:145e470ef07f2cff8c59aa0865d2df3239fcc2bcb025a16292c8b8e9f8c689c7"
+}

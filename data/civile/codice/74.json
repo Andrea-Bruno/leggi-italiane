@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "74",
+    "rubrica": "Parentela",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art74"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La parentela e' il vincolo tra le persone che discendono da uno stesso stipite, sia nel caso in cui la filiazione e' avvenuta all'interno del matrimonio, sia nel caso in cui e' avvenuta al di fuori di esso, sia nel caso in cui il figlio e' adottivo. Il vincolo di parentela non sorge nei casi di adozione di persone maggiori di eta', di cui agli articoli 291 e seguenti.",
+    "con_marcatori": "Art. 74 (Parentela). La parentela e' il vincolo tra le persone che discendono da uno stesso stipite, sia nel caso in cui la filiazione e' avvenuta all'interno del matrimonio, sia nel caso in cui e' avvenuta al di fuori di esso, sia nel caso in cui il figlio e' adottivo. Il vincolo di parentela non sorge nei casi di adozione di persone maggiori di eta', di cui agli articoli 291 e seguenti.((223))",
+    "caratteri": 370
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "articolo 74 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 10 dicembre 2012, n. 219",
+          "urn": "urn:nir:stato:legge:2012-12-10;219",
+          "data": "2012-12-10",
+          "numero": "219",
+          "data_gazzetta": "2012-12-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 104, comma 4) che \"I diritti successori che discendono dall'articolo 74 del codice civile, come modificato dalla legge 10 dicembre 2012, n. 219, sulle eredita' aperte anteriormente al termine della sua entrata in vigore si prescrivono a far data da suddetto termine\"."
+    }
+  ],
+  "impronta": "sha256:2156ff3015f9388003c452a31244266619eab9712de2069205cb1ecc84ac6641"
+}

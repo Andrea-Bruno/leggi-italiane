@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "15",
+    "rubrica": "Revoca dell'atto costitutivo della fondazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art15"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto di fondazione puo' essere revocato dal fondatore fino a quando non sia intervenuto il riconoscimento ovvero il fondatore non abbia fatto iniziare l'attivita' dell'opera da lui disposta. La facolta' di revoca non si trasmette agli eredi.",
+    "con_marcatori": "Art. 15. (Revoca dell'atto costitutivo della fondazione). L'atto di fondazione puo' essere revocato dal fondatore fino a quando non sia intervenuto il riconoscimento ovvero il fondatore non abbia fatto iniziare l'attivita' dell'opera da lui disposta. La facolta' di revoca non si trasmette agli eredi.",
+    "caratteri": 243
+  },
+  "note": [],
+  "impronta": "sha256:02508ddce4ae04377d3189ca3035be86293c564562e56d34d42d3b984c697666"
+}

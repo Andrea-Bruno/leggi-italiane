@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1683",
+    "rubrica": "Indicazioni e documenti che devono essere forniti al vettore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1683"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mittente deve indicare con esattezza al vettore il nome del destinatario e il luogo di destinazione, la natura, il peso, la quantita' e il numero delle cose da trasportare e gli altri estremi necessari per eseguire il trasporto. Se per l'esecuzione del trasporto occorrono particolari documenti, il mittente deve rimetterli al vettore all'atto in cui consegna le cose da trasportare. Sono a carico del mittente i danni che derivano dall'omissione o dall'inesattezza delle indicazioni o dalla mancata consegna o irregolarita' dei documenti.",
+    "con_marcatori": "Art. 1683. (Indicazioni e documenti che devono essere forniti al vettore). Il mittente deve indicare con esattezza al vettore il nome del destinatario e il luogo di destinazione, la natura, il peso, la quantita' e il numero delle cose da trasportare e gli altri estremi necessari per eseguire il trasporto. Se per l'esecuzione del trasporto occorrono particolari documenti, il mittente deve rimetterli al vettore all'atto in cui consegna le cose da trasportare. Sono a carico del mittente i danni che derivano dall'omissione o dall'inesattezza delle indicazioni o dalla mancata consegna o irregolarita' dei documenti.",
+    "caratteri": 542
+  },
+  "note": [],
+  "impronta": "sha256:a2d7d6ae198ed516b86624c58248e4bbae356497fd4e488a0d28480fd3086c10"
+}

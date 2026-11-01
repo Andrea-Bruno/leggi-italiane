@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "564",
+    "rubrica": "Condizioni per l'esercizio dell'azione di riduzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art564"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il legittimario che non ha accettato l'eredita' col beneficio d'inventario non puo' chiedere la riduzione delle donazioni e dei legati, salvo che le donazioni e i legati siano stati fatti a persone chiamate come coeredi, ancorche' abbiano rinunziato all'eredita'. Questa disposizione non si applica all'erede che ha accettato col beneficio d'inventario e che ne e' decaduto. In ogni caso il legittimario, che domanda la riduzione di donazioni o di disposizioni testamentarie, deve imputare alla sua porzione legittima le donazioni e i legati a lui fatti, salvo che ne sia stato espressamente dispensato. Il legittimario che succede per rappresentazione deve anche imputare le donazioni e i legati fatti, senza espressa dispensa, al suo ascendente. La dispensa non ha effetto a danno dei donatari anteriori. Ogni cosa, che, secondo le regole contenute nel capo II del titolo IV di questo libro, e' esente da collazione, e' pure esente da imputazione.",
+    "con_marcatori": "Art. 564. (Condizioni per l'esercizio dell'azione di riduzione). Il legittimario che non ha accettato l'eredita' col beneficio d'inventario non puo' chiedere la riduzione delle donazioni e dei legati, salvo che le donazioni e i legati siano stati fatti a persone chiamate come coeredi, ancorche' abbiano rinunziato all'eredita'. Questa disposizione non si applica all'erede che ha accettato col beneficio d'inventario e che ne e' decaduto. In ogni caso il legittimario, che domanda la riduzione di donazioni o di disposizioni testamentarie, deve imputare alla sua porzione legittima le donazioni e i legati a lui fatti, salvo che ne sia stato espressamente dispensato. Il legittimario che succede per rappresentazione deve anche imputare le donazioni e i legati fatti, senza espressa dispensa, al suo ascendente. La dispensa non ha effetto a danno dei donatari anteriori. Ogni cosa, che, secondo le regole contenute nel capo II del titolo IV di questo libro, e' esente da collazione, e' pure esente da imputazione.",
+    "caratteri": 949
+  },
+  "note": [],
+  "impronta": "sha256:e947ad4201a323daab0e91c1aa78cf622010e2e097e823572042b23911495880"
+}

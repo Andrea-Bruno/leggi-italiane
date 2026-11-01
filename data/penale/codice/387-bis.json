@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "387-bis",
+    "rubrica": "Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art387-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, essendovi legalmente sottoposto, violi gli obblighi o i divieti derivanti dal provvedimento che applica le misure cautelari di cui agli articoli 282-bis e 282-ter del codice di procedura penale o dall'ordine di cui all'articolo 384-bis del medesimo codice e' punito con la reclusione da sei mesi a tre anni e sei mesi. La stessa pena si applica a chi elude l'ordine di protezione previsto dall'articolo 473-bis.70, primo comma, del codice di procedura civile, o un provvedimento di eguale contenuto assunto nel procedimento di separazione personale dei coniugi o nel procedimento di scioglimento o di cessazione degli effetti civili del matrimonio.",
+    "con_marcatori": "Art. 387-bis. (Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa). Chiunque, essendovi legalmente sottoposto, violi gli obblighi o i divieti derivanti dal provvedimento che applica le misure cautelari di cui agli articoli 282-bis e 282-ter del codice di procedura penale o dall'ordine di cui all'articolo 384-bis del medesimo codice e' punito con la reclusione da sei mesi a tre anni e sei mesi. La stessa pena si applica a chi elude l'ordine di protezione ((previsto dall'articolo 473-bis.70, primo comma, del codice di procedura civile, o)) un provvedimento di eguale contenuto assunto nel procedimento di separazione personale dei coniugi o nel procedimento di scioglimento o di cessazione degli effetti civili del matrimonio. ((364))",
+    "caratteri": 658
+  },
+  "note": [
+    {
+      "numero": 364,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 31 ottobre 2024, n. 164",
+          "urn": "urn:nir:stato:decretoLegislativo:2024-10-31;164",
+          "data": "2024-10-31",
+          "numero": "164",
+          "data_gazzetta": "2024-11-11"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 31 ottobre 2024, n. 164, ha disposto (con l'art. 7, comma 1) che \"Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023\"."
+    }
+  ],
+  "impronta": "sha256:9822c28c068077852767bb43557c4cda5d867f63d916e88b26d74877c66067b8"
+}

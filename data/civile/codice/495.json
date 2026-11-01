@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "495",
+    "rubrica": "Pagamento dei creditori e legatari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art495"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Trascorso un mese dalla trascrizione prevista nell'art. 484 o dall'annotazione disposta nello stesso articolo per il caso che l'inventario sia posteriore alla dichiarazione, l'erede, quando creditori o legatari non si oppongono ed egli non intende promuovere la liquidazione a norma dell'art. 503, paga i creditori e i legatari a misura che si presentano, salvi i loro diritti di poziorita'. Esaurito l'asse ereditario, i creditori rimasti insoddisfatti hanno soltanto diritto di regresso contro i legatari, ancorche' di cosa determinata appartenente al testatore, nei limiti del valore del legato. Tale diritto si prescrive in tre anni dal giorno dell'ultimo pagamento, salvo che il credito sia anteriormente prescritto.",
+    "con_marcatori": "Art. 495. (Pagamento dei creditori e legatari). Trascorso un mese dalla trascrizione prevista nell'art. 484 o dall'annotazione disposta nello stesso articolo per il caso che l'inventario sia posteriore alla dichiarazione, l'erede, quando creditori o legatari non si oppongono ed egli non intende promuovere la liquidazione a norma dell'art. 503, paga i creditori e i legatari a misura che si presentano, salvi i loro diritti di poziorita'. Esaurito l'asse ereditario, i creditori rimasti insoddisfatti hanno soltanto diritto di regresso contro i legatari, ancorche' di cosa determinata appartenente al testatore, nei limiti del valore del legato. Tale diritto si prescrive in tre anni dal giorno dell'ultimo pagamento, salvo che il credito sia anteriormente prescritto.",
+    "caratteri": 721
+  },
+  "note": [],
+  "impronta": "sha256:102ace121825e7e3990ecb1f3bafac0fcef395fe1377f5918ba580021ecec3dd"
+}

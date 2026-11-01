@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1504",
+    "rubrica": "Effetti del riscatto rispetto ai subacquirenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1504"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il venditore che ha legittimamente esercitato il diritto di riscatto nei confronti del compratore puo' ottenere il rilascio della cosa anche dai successivi acquirenti, purche' il patto sia ad essi opponibile. Se l'alienazione e' stata notificata al venditore, il riscatto deve essere esercitato in confronto del terzo acquirente.",
+    "con_marcatori": "Art. 1504. (Effetti del riscatto rispetto ai subacquirenti). Il venditore che ha legittimamente esercitato il diritto di riscatto nei confronti del compratore puo' ottenere il rilascio della cosa anche dai successivi acquirenti, purche' il patto sia ad essi opponibile. Se l'alienazione e' stata notificata al venditore, il riscatto deve essere esercitato in confronto del terzo acquirente.",
+    "caratteri": 329
+  },
+  "note": [],
+  "impronta": "sha256:62c16242549d147cec8d6702d0f74df549604ffe4b0e1ab18147c08f62c53984"
+}

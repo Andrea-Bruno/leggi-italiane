@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2126",
+    "rubrica": "Prestazione di fatto con violazione di legge",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2126"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La nullita' o l'annullamento del contratto di lavoro non produce effetto per il periodo in cui il rapporto ha avuto esecuzione, salvo che la nullita' derivi dall'illiceita' dell'oggetto o della causa. Se il lavoro e' stato prestato con violazione di norme poste a tutela del prestatore di lavoro, questi ha in ogni caso diritto alla retribuzione.",
+    "con_marcatori": "Art. 2126. (Prestazione di fatto con violazione di legge). La nullita' o l'annullamento del contratto di lavoro non produce effetto per il periodo in cui il rapporto ha avuto esecuzione, salvo che la nullita' derivi dall'illiceita' dell'oggetto o della causa. Se il lavoro e' stato prestato con violazione di norme poste a tutela del prestatore di lavoro, questi ha in ogni caso diritto alla retribuzione.",
+    "caratteri": 346
+  },
+  "note": [],
+  "impronta": "sha256:fa2c6078c25041eee66471b6ce7835076a30a28b25c01a8e77418ef1ae2e275a"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2110",
+    "rubrica": "Infortunio, malattia, gravidanza, puerperio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2110"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso d'infortunio, di malattia, di gravidanza o di puerperio, se la legge o le norme corporative non stabiliscono forme equivalenti di previdenza o di assistenza, e' dovuta al prestatore di lavoro la retribuzione o un'indennita' nella misura e per il tempo determinati dalle leggi speciali, dalle norme corporative, dagli usi o secondo equita'. Nei casi indicati nel comma precedente, l'imprenditore ha diritto di recedere dal contratto a norma dell'art. 2118, decorso il periodo stabilito dalla legge, dalle norme corporative, dagli usi o secondo equita'. Il periodo di assenza dal lavoro per una delle cause anzidette deve essere computato nell'anzianita' di servizio.",
+    "con_marcatori": "Art. 2110. (Infortunio, malattia, gravidanza, puerperio). In caso d'infortunio, di malattia, di gravidanza o di puerperio, se la legge o le norme corporative non stabiliscono forme equivalenti di previdenza o di assistenza, e' dovuta al prestatore di lavoro la retribuzione o un'indennita' nella misura e per il tempo determinati dalle leggi speciali, dalle norme corporative, dagli usi o secondo equita'. Nei casi indicati nel comma precedente, l'imprenditore ha diritto di recedere dal contratto a norma dell'art. 2118, decorso il periodo stabilito dalla legge, dalle norme corporative, dagli usi o secondo equita'. Il periodo di assenza dal lavoro per una delle cause anzidette deve essere computato nell'anzianita' di servizio.",
+    "caratteri": 673
+  },
+  "note": [],
+  "impronta": "sha256:088bc9785a7895839fad40dfe61160c8c5a663b04457ebdce37cafb94beed331"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "499",
+    "rubrica": "Procedura di liquidazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art499"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Scaduto il termine entro il quale devono presentarsi le dichiarazioni di credito, l'erede provvede, con l'assistenza del notaio, a liquidare le attivita' ereditarie facendosi autorizzare alle alienazioni necessarie. Se l'alienazione ha per oggetto beni sottoposti a privilegio o a ipoteca, i privilegi non si estinguono, e le ipoteche non possono essere cancellate sino a che l'acquirente non depositi il prezzo nel modo stabilito dal giudice o non provveda al pagamento dei creditori collocati nello stato di graduazione previsto dal comma seguente. L'erede forma, sempre con l'assistenza del notaio, lo stato di graduazione. I creditori sono collocati secondo i rispettivi diritti di prelazione. Essi sono preferiti ai legatari. Tra i creditori non aventi diritto a prelazione l'attivo ereditario e' ripartito in proporzione dei rispettivi crediti. Qualora, per soddisfare i creditori, sia necessario comprendere nella liquidazione anche l'oggetto di un legato di specie, sulla somma che residua dopo il pagamento dei creditori il legatario di specie e' preferito agli altri legatari.",
+    "con_marcatori": "Art. 499. (Procedura di liquidazione). Scaduto il termine entro il quale devono presentarsi le dichiarazioni di credito, l'erede provvede, con l'assistenza del notaio, a liquidare le attivita' ereditarie facendosi autorizzare alle alienazioni necessarie. Se l'alienazione ha per oggetto beni sottoposti a privilegio o a ipoteca, i privilegi non si estinguono, e le ipoteche non possono essere cancellate sino a che l'acquirente non depositi il prezzo nel modo stabilito dal giudice o non provveda al pagamento dei creditori collocati nello stato di graduazione previsto dal comma seguente. L'erede forma, sempre con l'assistenza del notaio, lo stato di graduazione. I creditori sono collocati secondo i rispettivi diritti di prelazione. Essi sono preferiti ai legatari. Tra i creditori non aventi diritto a prelazione l'attivo ereditario e' ripartito in proporzione dei rispettivi crediti. Qualora, per soddisfare i creditori, sia necessario comprendere nella liquidazione anche l'oggetto di un legato di specie, sulla somma che residua dopo il pagamento dei creditori il legatario di specie e' preferito agli altri legatari.",
+    "caratteri": 1086
+  },
+  "note": [],
+  "impronta": "sha256:cdee1877fb8801a80d46eeb473ddbce02735352126c8ce6c55d53785d4161ed8"
+}

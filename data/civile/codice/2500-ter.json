@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2500-ter",
+    "rubrica": "Trasformazione di societa' di persone",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2500-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo diversa disposizione del contratto sociale, la trasformazione di societa' di persone in societa' di capitali e' decisa con il consenso della maggioranza dei soci determinata secondo la parte attribuita a ciascuno negli utili; in ogni caso al socio che non ha concorso alla decisione spetta il diritto di recesso. Nei casi previsti dal precedente comma il capitale della societa' risultante dalla trasformazione deve essere determinato sulla base dei valori attuali degli elementi dell'attivo e del passivo e deve risultare da relazione di stima redatta a norma dell'articolo 2343 ovvero dalla documentazione di cui all'articolo 2343-ter ovvero, infine, nel caso di societa' a responsabilita' limitata, dell'articolo 2465. Si applicano altresi', nel caso di societa' per azioni o in accomandita per azioni, il secondo, terzo e, in quanto compatibile, quarto comma dell'articolo 2343 ovvero, nelle ipotesi di cui al primo e secondo comma dell'articolo 2343-ter, il terzo comma del medesimo articolo.",
+    "con_marcatori": "Art. 2500-ter. (Trasformazione di societa' di persone). Salvo diversa disposizione del contratto sociale, la trasformazione di societa' di persone in societa' di capitali e' decisa con il consenso della maggioranza dei soci determinata secondo la parte attribuita a ciascuno negli utili; in ogni caso al socio che non ha concorso alla decisione spetta il diritto di recesso. ((Nei casi previsti dal precedente comma il capitale della societa' risultante dalla trasformazione deve essere determinato sulla base dei valori attuali degli elementi dell'attivo e del passivo e deve risultare da relazione di stima redatta a norma dell'articolo 2343 ovvero dalla documentazione di cui all'articolo 2343-ter ovvero, infine, nel caso di societa' a responsabilita' limitata, dell'articolo 2465. Si applicano altresi', nel caso di societa' per azioni o in accomandita per azioni, il secondo, terzo e, in quanto compatibile, quarto comma dell'articolo 2343 ovvero, nelle ipotesi di cui al primo e secondo comma dell'articolo 2343-ter, il terzo comma del medesimo articolo.))",
+    "caratteri": 1003
+  },
+  "note": [],
+  "impronta": "sha256:682791b88829f3c51388d3ba53c3154d481a4f14efd9bb88d70e8f228a32c854"
+}

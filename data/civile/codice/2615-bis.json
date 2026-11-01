@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2615-bis",
+    "rubrica": "Situazione patrimoniale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2615-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Entro due mesi dalla chiusura dell'esercizio annuale le persone che hanno la direzione del consorzio redigono la situazione patrimoniale osservando le norme relative al bilancio di esercizio delle societa' per azioni e la depositano presso l'ufficio del registro delle imprese. Alle persone che hanno la direzione del consorzio sono applicati gli articoli 2621, n. 1), e 2626. Negli atti e nella corrispondenza del consorzio devono essere indicati la sede di questo, l'ufficio del registro delle imprese presso il quale esso e' iscritto e il numero di iscrizione.",
+    "con_marcatori": "Art. 2615-bis. ((Situazione patrimoniale.)) ((Entro due mesi dalla chiusura dell'esercizio annuale le persone che hanno la direzione del consorzio redigono la situazione patrimoniale osservando le norme relative al bilancio di esercizio delle societa' per azioni e la depositano presso l'ufficio del registro delle imprese. Alle persone che hanno la direzione del consorzio sono applicati gli articoli 2621, n. 1), e 2626. Negli atti e nella corrispondenza del consorzio devono essere indicati la sede di questo, l'ufficio del registro delle imprese presso il quale esso e' iscritto e il numero di iscrizione.))",
+    "caratteri": 563
+  },
+  "note": [],
+  "impronta": "sha256:60f907f48a716bbb125584cc69eec7e57cd6f13547ab3bf7274c8cba68343e17"
+}

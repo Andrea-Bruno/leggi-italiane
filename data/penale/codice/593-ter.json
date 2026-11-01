@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "593-ter",
+    "rubrica": "Interruzione di gravidanza non consensuale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art593-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque cagiona l'interruzione della gravidanza senza il consenso della donna e' punito con la reclusione da quattro a otto anni. Si considera come non prestato il consenso estorto con violenza o minaccia ovvero carpito con l'inganno. La stessa pena si applica a chiunque provochi l'interruzione della gravidanza con azioni dirette a provocare lesioni alla donna. Detta pena e' diminuita fino alla meta' se da tali lesioni deriva l'acceleramento del parto. Se dai fatti previsti dal primo e dal secondo comma deriva la morte della donna si applica la reclusione da otto a sedici anni; se ne deriva una lesione personale gravissima si applica la reclusione da sei a dodici anni; se la lesione personale e' grave quest'ultima pena e' diminuita. Le pene stabilite dai commi precedenti sono aumentate se la donna e' minore degli anni diciotto. Le pene stabilite dai commi precedenti sono aumentate da un terzo alla meta' quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali.",
+    "con_marcatori": "Art. 593-ter. (Interruzione di gravidanza non consensuale). Chiunque cagiona l'interruzione della gravidanza senza il consenso della donna e' punito con la reclusione da quattro a otto anni. Si considera come non prestato il consenso estorto con violenza o minaccia ovvero carpito con l'inganno. La stessa pena si applica a chiunque provochi l'interruzione della gravidanza con azioni dirette a provocare lesioni alla donna. Detta pena e' diminuita fino alla meta' se da tali lesioni deriva l'acceleramento del parto. Se dai fatti previsti dal primo e dal secondo comma deriva la morte della donna si applica la reclusione da otto a sedici anni; se ne deriva una lesione personale gravissima si applica la reclusione da sei a dodici anni; se la lesione personale e' grave quest'ultima pena e' diminuita. Le pene stabilite dai commi precedenti sono aumentate se la donna e' minore degli anni diciotto. ((Le pene stabilite dai commi precedenti sono aumentate da un terzo alla meta' quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali)).",
+    "caratteri": 1212
+  },
+  "note": [],
+  "impronta": "sha256:08bc2196ff7afdde95fd4e12768fedb9bbc0b30639ded98b7fc2795c58e6dcfd"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "754",
+    "rubrica": "Pagamento dei debiti e rivalsa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art754"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli eredi sono tenuti verso i creditori al pagamento dei debiti e pesi ereditari personalmente in proporzione della loro quota ereditaria e ipotecariamente per l'intero. Il coerede che ha pagato oltre la parte a lui incombente puo' ripetere dagli altri coeredi soltanto la parte per cui essi devono contribuire a norma dell'articolo 752, quantunque si sia fatto surrogare nei diritti dei creditori. Il coerede conserva la facolta' di chiedere il pagamento del credito a lui personale e garantito da ipoteca, non diversamente da ogni altro creditore, detratta la parte che deve sopportare come coerede.",
+    "con_marcatori": "Art. 754. (Pagamento dei debiti e rivalsa). Gli eredi sono tenuti verso i creditori al pagamento dei debiti e pesi ereditari personalmente in proporzione della loro quota ereditaria e ipotecariamente per l'intero. Il coerede che ha pagato oltre la parte a lui incombente puo' ripetere dagli altri coeredi soltanto la parte per cui essi devono contribuire a norma dell'articolo 752, quantunque si sia fatto surrogare nei diritti dei creditori. Il coerede conserva la facolta' di chiedere il pagamento del credito a lui personale e garantito da ipoteca, non diversamente da ogni altro creditore, detratta la parte che deve sopportare come coerede.",
+    "caratteri": 601
+  },
+  "note": [],
+  "impronta": "sha256:8ccfbe3fd75ad72aade868ed0e337696c55621fc3d6126e417f88ab8b7be3380"
+}

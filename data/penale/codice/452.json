@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452",
+    "rubrica": "Delitti colposi contro la salute pubblica",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque commette, per colpa, alcuno dei fatti preveduti dagli articoli 438 e 439 e' punito: 1° con la reclusione da tre a dodici anni, nei casi per i quali le dette disposizioni stabiliscono la pena di morte; 2° con la reclusione da uno a cinque anni, nei casi per i quali esse stabiliscono l'ergastolo; 3° con la reclusione da sei mesi a tre anni, nel caso in cui l'articolo 439 stabilisce la pena della reclusione. Quando sia commesso per colpa alcuno dei fatti preveduti dagli articoli 440, 441, 442, 443, 444 e 445 si applicano le pene ivi rispettivamente stabilite ridotte da un terzo a un sesto.",
+    "con_marcatori": "Art. 452. (Delitti colposi contro la salute pubblica) Chiunque commette, per colpa, alcuno dei fatti preveduti dagli articoli 438 e 439 e' punito: 1° con la reclusione da tre a dodici anni, nei casi per i quali le dette disposizioni stabiliscono la pena di morte; ((5)) 2° con la reclusione da uno a cinque anni, nei casi per i quali esse stabiliscono l'ergastolo; 3° con la reclusione da sei mesi a tre anni, nel caso in cui l'articolo 439 stabilisce la pena della reclusione. Quando sia commesso per colpa alcuno dei fatti preveduti dagli articoli 440, 441, 442, 443, 444 e 445 si applicano le pene ivi rispettivamente stabilite ridotte da un terzo a un sesto.",
+    "caratteri": 602
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:b67cc360805b0c928661012204f83e1e3c8ec7a0a4a9b9f5f5633e3496923868"
+}

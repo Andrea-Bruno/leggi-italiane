@@ -1,0 +1,82 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "116",
+    "rubrica": "Matrimonio dello straniero nel Regno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art116"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 15). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 15"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 198,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Lo straniero che vuole contrarre matrimonio nel Regno deve presentare all'ufficiale dello stato civile una dichiarazione dell'autorita' competente del proprio paese, dalla quale risulti che giusta le leggi a cui e' sottoposto nulla osta al matrimonio nonche' un documento attestante la regolarita' del soggiorno nel territorio italiano. Anche lo straniero e' tuttavia soggetto alle disposizioni contenute negli articoli 85, 86, 87, numeri, 1, 2 e 4, 88 e 89. Lo straniero che ha domicilio o residenza nel Regno deve inoltre far fare la pubblicazione secondo le disposizioni di questo codice.",
+    "con_marcatori": "Art. 116. (Matrimonio dello straniero nel Regno). Lo straniero che vuole contrarre matrimonio nel Regno deve presentare all'ufficiale dello stato civile una dichiarazione dell'autorita' competente del proprio paese, dalla quale risulti che giusta le leggi a cui e' sottoposto nulla osta al matrimonio nonche' un documento attestante la regolarita' del soggiorno nel territorio italiano. ((198)) Anche lo straniero e' tuttavia soggetto alle disposizioni contenute negli articoli 85, 86, 87, numeri, 1, 2 e 4, 88 e 89. Lo straniero che ha domicilio o residenza nel Regno deve inoltre far fare la pubblicazione secondo le disposizioni di questo codice.",
+    "caratteri": 591
+  },
+  "note": [
+    {
+      "numero": 198,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 15"
+      ],
+      "atti": [
+        {
+          "denominazione": "articolo 116, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1, comma 15, della legge 15 luglio 2009, n. 94",
+          "urn": "urn:nir:stato:legge:2009-07-15;94",
+          "data": "2009-07-15",
+          "numero": "94",
+          "data_gazzetta": "2009-07-24"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2011-06-25",
+        "numero": "245"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 20-25 giugno 2011, n. 245 (in G.U. 1a s.s. 27/7/2011, n. 32), ha dichiarato \"l'illegittimita' costituzionale dell'articolo 116, primo comma, del codice civile, come modificato dall'art. 1, comma 15, della legge 15 luglio 2009, n. 94 (Disposizioni in materia di sicurezza pubblica), limitatamente alle parole «nonche' un documento attestante la regolarita' del soggiorno nel territorio italiano»\"."
+    }
+  ],
+  "impronta": "sha256:17c7f0c45520a364aecccdee0ddfda1ebf9aca6c9151cea4806c95965cd08eaa"
+}

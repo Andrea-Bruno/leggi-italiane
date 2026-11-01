@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2797",
+    "rubrica": "Forme della vendita",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2797"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Prima di procedere alla vendita il creditore, a mezzo di ufficiale giudiziario, deve intimare al debitore di pagare il debito e gli accessori, avvertendolo che, in mancanza, si procedera' alla vendita. L'intimazione deve essere notificata anche al terzo che abbia costituito il pegno. Se entro cinque giorni dall'intimazione non e' proposta opposizione, o se questa e' rigettata, il creditore puo' far vendere la cosa al pubblico incanto, o, se la cosa ha un prezzo di mercato, anche a prezzo corrente, a mezzo di persona autorizzata a tali atti. Se il debitore non ha residenza o domicilio eletto nel luogo di residenza del creditore, il termine per l'opposizione e' determinato a norma dell'art. 166 del codice di procedura civile. Il giudice, sull'opposizione del costituente, puo' limitare la vendita a quella tra piu' cose date in pegno, il cui valore basti a pagare il debito. Per la vendita della cosa data in pegno le parti possono convenire forme diverse.",
+    "con_marcatori": "Art. 2797. (Forme della vendita). Prima di procedere alla vendita il creditore, a mezzo di ufficiale giudiziario, deve intimare al debitore di pagare il debito e gli accessori, avvertendolo che, in mancanza, si procedera' alla vendita. L'intimazione deve essere notificata anche al terzo che abbia costituito il pegno. Se entro cinque giorni dall'intimazione non e' proposta opposizione, o se questa e' rigettata, il creditore puo' far vendere la cosa al pubblico incanto, o, se la cosa ha un prezzo di mercato, anche a prezzo corrente, a mezzo di persona autorizzata a tali atti. Se il debitore non ha residenza o domicilio eletto nel luogo di residenza del creditore, il termine per l'opposizione e' determinato a norma dell'art. 166 del codice di procedura civile. Il giudice, sull'opposizione del costituente, puo' limitare la vendita a quella tra piu' cose date in pegno, il cui valore basti a pagare il debito. Per la vendita della cosa data in pegno le parti possono convenire forme diverse.",
+    "caratteri": 964
+  },
+  "note": [],
+  "impronta": "sha256:5fee17d7fab3bebff01cb6008abf02c75ae73edd2fa86f4d8c79485e939be7c7"
+}

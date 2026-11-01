@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "895",
+    "rubrica": "Divieto di ripiantare alberi a distanza non legale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art895"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se si e' acquistato il diritto di tenere alberi a distanza minore di quelle sopra indicate, e l'albero muore o viene reciso o abbattuto, il vicino non puo' sostituirlo, se non osservando la distanza legale. La disposizione non si applica quando gli alberi fanno parte di un filare situato lungo il confine.",
+    "con_marcatori": "Art. 895. (Divieto di ripiantare alberi a distanza non legale). Se si e' acquistato il diritto di tenere alberi a distanza minore di quelle sopra indicate, e l'albero muore o viene reciso o abbattuto, il vicino non puo' sostituirlo, se non osservando la distanza legale. La disposizione non si applica quando gli alberi fanno parte di un filare situato lungo il confine.",
+    "caratteri": 306
+  },
+  "note": [],
+  "impronta": "sha256:048419b49956c4c68c5871fb850cbd1986db13f4f662b56c7bdb1c4eeefcf0b3"
+}

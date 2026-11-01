@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2339",
+    "rubrica": "Responsabilita' dei promotori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2339"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I promotori sono solidalmente responsabili verso la societa' e verso i terzi: 1) per l'integrale sottoscrizione del capitale sociale e per i versamenti richiesti per la costituzione della societa'; 2) per l'esistenza dei conferimenti in natura in conformita' della relazione giurata indicata nell'articolo 2343; 3) per la veridicita' delle comunicazioni da essi fatte al pubblico per la costituzione della societa'. Sono del pari solidalmente responsabili verso la societa' e verso i terzi coloro per conto dei quali i promotori hanno agito.",
+    "con_marcatori": "Art. 2339. (( (Responsabilita' dei promotori). )) ((I promotori sono solidalmente responsabili verso la societa' e verso i terzi: 1) per l'integrale sottoscrizione del capitale sociale e per i versamenti richiesti per la costituzione della societa'; 2) per l'esistenza dei conferimenti in natura in conformita' della relazione giurata indicata nell'articolo 2343; 3) per la veridicita' delle comunicazioni da essi fatte al pubblico per la costituzione della societa'. Sono del pari solidalmente responsabili verso la societa' e verso i terzi coloro per conto dei quali i promotori hanno agito.))",
+    "caratteri": 541
+  },
+  "note": [],
+  "impronta": "sha256:0b002af85e461f90f31789f91338ff88b80f42629983bd4a5feddb15bc61f282"
+}

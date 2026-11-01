@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "375",
+    "rubrica": "Frode in processo penale e depistaggio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art375"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da tre a otto anni il pubblico ufficiale o l'incaricato di pubblico servizio che, al fine di impedire, ostacolare o sviare un'indagine o un processo penale: a) immuta artificiosamente il corpo del reato ovvero lo stato dei luoghi, delle cose o delle persone connessi al reato; b) richiesto dall'autorita' giudiziaria o dalla polizia giudiziaria di fornire informazioni in un procedimento penale, afferma il falso o nega il vero, ovvero tace, in tutto o in parte, cio' che sa intorno ai fatti sui quali viene sentito. Se il fatto e' commesso mediante distruzione, soppressione, occultamento, danneggiamento, in tutto o in parte, ovvero formazione o artificiosa alterazione, in tutto o in parte, di un documento o di un oggetto da impiegare come elemento di prova o comunque utile alla scoperta del reato o al suo accertamento, la pena e' aumentata da un terzo alla meta'. Se il fatto e' commesso in relazione a procedimenti concernenti i delitti di cui agli articoli 270, 270-bis, 276, 280, 280-bis, 283, 284, 285, 289-bis, 304, 305, 306, 416-bis, 416-ter e 422 o i reati previsti dall'articolo 2 della legge 25 gennaio 1982, n. 17, ovvero i reati concernenti il traffico illegale di armi o di materiale nucleare, chimico o biologico e comunque tutti i reati di cui all'articolo 51, comma 3-bis, del codice di procedura penale, si applica la pena della reclusione da sei a dodici anni. La pena e' diminuita dalla meta' a due terzi nei confronti di colui che si adopera per ripristinare lo stato originario dei luoghi, delle cose, delle persone o delle prove, nonche' per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella ricostruzione del fatto oggetto di inquinamento processuale e depistaggio e nell'individuazione degli autori. Le circostanze attenuanti diverse da quelle previste dagli articoli 98 e 114 e dal quarto comma, concorrenti con le aggravanti di cui al secondo e al terzo comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste ultime e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti. La condanna alla reclusione superiore a tre anni comporta l'interdizione perpetua dai pubblici uffici. La pena di cui ai commi precedenti si applica anche quando il pubblico ufficiale o l'incaricato di pubblico servizio siano cessati dal loro ufficio o servizio. La punibilita' e' esclusa se si tratta di reato per cui non si puo' procedere che in seguito a querela, richiesta o istanza, e questa non e' stata presentata. Le disposizioni del presente articolo si applicano anche alle indagini e ai processi della Corte penale internazionale in ordine ai crimini definiti dallo Statuto della Corte medesima.",
+    "con_marcatori": "Art. 375. (( (Frode in processo penale e depistaggio). )) ((Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da tre a otto anni il pubblico ufficiale o l'incaricato di pubblico servizio che, al fine di impedire, ostacolare o sviare un'indagine o un processo penale: a) immuta artificiosamente il corpo del reato ovvero lo stato dei luoghi, delle cose o delle persone connessi al reato; b) richiesto dall'autorita' giudiziaria o dalla polizia giudiziaria di fornire informazioni in un procedimento penale, afferma il falso o nega il vero, ovvero tace, in tutto o in parte, cio' che sa intorno ai fatti sui quali viene sentito. Se il fatto e' commesso mediante distruzione, soppressione, occultamento, danneggiamento, in tutto o in parte, ovvero formazione o artificiosa alterazione, in tutto o in parte, di un documento o di un oggetto da impiegare come elemento di prova o comunque utile alla scoperta del reato o al suo accertamento, la pena e' aumentata da un terzo alla meta'. Se il fatto e' commesso in relazione a procedimenti concernenti i delitti di cui agli articoli 270, 270-bis, 276, 280, 280-bis, 283, 284, 285, 289-bis, 304, 305, 306, 416-bis, 416-ter e 422 o i reati previsti dall'articolo 2 della legge 25 gennaio 1982, n. 17, ovvero i reati concernenti il traffico illegale di armi o di materiale nucleare, chimico o biologico e comunque tutti i reati di cui all'articolo 51, comma 3-bis, del codice di procedura penale, si applica la pena della reclusione da sei a dodici anni. La pena e' diminuita dalla meta' a due terzi nei confronti di colui che si adopera per ripristinare lo stato originario dei luoghi, delle cose, delle persone o delle prove, nonche' per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella ricostruzione del fatto oggetto di inquinamento processuale e depistaggio e nell'individuazione degli autori. Le circostanze attenuanti diverse da quelle previste dagli articoli 98 e 114 e dal quarto comma, concorrenti con le aggravanti di cui al secondo e al terzo comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste ultime e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti. La condanna alla reclusione superiore a tre anni comporta l'interdizione perpetua dai pubblici uffici. La pena di cui ai commi precedenti si applica anche quando il pubblico ufficiale o l'incaricato di pubblico servizio siano cessati dal loro ufficio o servizio. La punibilita' e' esclusa se si tratta di reato per cui non si puo' procedere che in seguito a querela, richiesta o istanza, e questa non e' stata presentata. Le disposizioni del presente articolo si applicano anche alle indagini e ai processi della Corte penale internazionale in ordine ai crimini definiti dallo Statuto della Corte medesima)).",
+    "caratteri": 2882
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:1dd85b2ced2f809eac2f3e2acd064a0643a51a625c3de93243640fc6fd666101"
+}

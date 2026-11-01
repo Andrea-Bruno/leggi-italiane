@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "686",
+    "rubrica": "Alienazione e trasformazione della cosa legata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art686"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'alienazione che il testatore faccia della cosa legata o di parte di essa, anche mediante vendita con patto di riscatto, revoca il legato riguardo a cio' che e' stato alienato, anche quando l'alienazione e' annullabile per cause diverse dai vizi del consenso, ovvero la cosa ritorna in proprieta' del testatore. Lo stesso avviene se il testatore ha trasformato la cosa legata in un'altra, in guisa che quella abbia perduto la precedente forma e la primitiva denominazione. E' ammessa la prova di una diversa volonta' del testatore.",
+    "con_marcatori": "Art. 686. (Alienazione e trasformazione della cosa legata). L'alienazione che il testatore faccia della cosa legata o di parte di essa, anche mediante vendita con patto di riscatto, revoca il legato riguardo a cio' che e' stato alienato, anche quando l'alienazione e' annullabile per cause diverse dai vizi del consenso, ovvero la cosa ritorna in proprieta' del testatore. Lo stesso avviene se il testatore ha trasformato la cosa legata in un'altra, in guisa che quella abbia perduto la precedente forma e la primitiva denominazione. E' ammessa la prova di una diversa volonta' del testatore.",
+    "caratteri": 532
+  },
+  "note": [],
+  "impronta": "sha256:916ea6a1a2b9f1900e72602f3d3c556981479f3cc2e46e87c5a07fffc1a4f9f0"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "600-septies.2",
+    "rubrica": "Pene accessorie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Alla condanna o all'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per i delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice conseguono: 1) la perdita della responsabilita' genitoriale, quando la qualita' di genitore e' prevista quale circostanza aggravante del reato; 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela o all'amministrazione di sostegno; 3) la perdita del diritto agli alimenti e l'esclusione dalla successione della persona offesa; 4) l'interdizione temporanea dai pubblici uffici; l'interdizione dai pubblici uffici per la durata di anni cinque in seguito alla condanna alla reclusione da tre a cinque anni, ferma restando, comunque, l'applicazione dell'articolo 29, primo comma, quanto all'interdizione perpetua. La condanna o l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per uno dei delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice, quando commessi in danno di minori, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado, nonche' da ogni ufficio o servizio in istituzioni o strutture pubbliche o private frequentate abitualmente da minori. In ogni caso e' disposta la chiusura degli esercizi la cui attivita' risulta finalizzata ai delitti previsti dalla presente sezione, nonche' la revoca della licenza di esercizio o della concessione o dell'autorizzazione per le emittenti radiotelevisive.",
+    "con_marcatori": "Art. 600-septies.2. (Pene accessorie). Alla condanna o all'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per i delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice conseguono: 1) la perdita della ((responsabilita' genitoriale)), quando la qualita' di genitore e' prevista quale circostanza aggravante del reato; 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela o all'amministrazione di sostegno; 3) la perdita del diritto agli alimenti e l'esclusione dalla successione della persona offesa; 4) l'interdizione temporanea dai pubblici uffici; l'interdizione dai pubblici uffici per la durata di anni cinque in seguito alla condanna alla reclusione da tre a cinque anni, ferma restando, comunque, l'applicazione dell'articolo 29, primo comma, quanto all'interdizione perpetua. La condanna o l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per uno dei delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice, quando commessi in danno di minori, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado, nonche' da ogni ufficio o servizio in istituzioni o strutture pubbliche o private frequentate abitualmente da minori. In ogni caso e' disposta la chiusura degli esercizi la cui attivita' risulta finalizzata ai delitti previsti dalla presente sezione, nonche' la revoca della licenza di esercizio o della concessione o dell'autorizzazione per le emittenti radiotelevisive.",
+    "caratteri": 1631
+  },
+  "note": [],
+  "impronta": "sha256:93aa6ecadfca4fb0af4f87962f300c3264be3768c3db2ad21e76d86ce3a37eed"
+}

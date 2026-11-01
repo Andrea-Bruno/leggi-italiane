@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "168-quater",
+    "rubrica": "Revoca della sospensione del procedimento con messa alla prova",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art168-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La sospensione del procedimento con messa alla prova e' revocata: 1) in caso di grave o reiterata trasgressione al programma di trattamento o alle prescrizioni imposte, ovvero di rifiuto alla prestazione del lavoro di pubblica utilita'; 2) in caso di commissione, durante il periodo di prova, di un nuovo delitto non colposo ovvero di un reato della stessa indole rispetto a quello per cui si procede.",
+    "con_marcatori": "Art. 168-quater. (( (Revoca della sospensione del procedimento con messa alla prova).)) ((La sospensione del procedimento con messa alla prova e' revocata: 1) in caso di grave o reiterata trasgressione al programma di trattamento o alle prescrizioni imposte, ovvero di rifiuto alla prestazione del lavoro di pubblica utilita'; 2) in caso di commissione, durante il periodo di prova, di un nuovo delitto non colposo ovvero di un reato della stessa indole rispetto a quello per cui si procede)).",
+    "caratteri": 401
+  },
+  "note": [],
+  "impronta": "sha256:1cce89f37525975dc1f23aa7c0a59d5ae02fa19a75ed3929a4b2168d337cd151"
+}

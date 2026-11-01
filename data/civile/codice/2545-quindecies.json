@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2545-quindecies",
+    "rubrica": "Controllo giudiziario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2545-quindecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I fatti previsti dall'articolo 2409 possono essere denunciati al tribunale dai soci che siano titolari del decimo del capitale sociale ovvero da un decimo del numero complessivo dei soci, e, nelle societa' cooperative che hanno piu' di tremila soci, da un ventesimo dei soci. Il ricorso deve essere notificato a cura dei ricorrenti anche all'autorita' di vigilanza. Il tribunale, sentiti in camera di consiglio gli amministratori, i sindaci e l'autorita' di vigilanza, dichiara improcedibile il ricorso se per i medesimi fatti sia stato gia' nominato un ispettore o un commissario dall'autorita' di vigilanza. L'autorita' di vigilanza dispone la sospensione del procedimento dalla medesima iniziato se il tribunale per i medesimi fatti ha nominato un ispettore o un amministratore giudiziario.",
+    "con_marcatori": "Art. 2545-quinquiesdecies. (( (Controllo giudiziario).)) ((I fatti previsti dall'articolo 2409 possono essere denunciati al tribunale dai soci che siano titolari del decimo del capitale sociale ovvero da un decimo del numero complessivo dei soci, e, nelle societa' cooperative che hanno piu' di tremila soci, da un ventesimo dei soci. Il ricorso deve essere notificato a cura dei ricorrenti anche all'autorita' di vigilanza. Il tribunale, sentiti in camera di consiglio gli amministratori, i sindaci e l'autorita' di vigilanza, dichiara improcedibile il ricorso se per i medesimi fatti sia stato gia' nominato un ispettore o un commissario dall'autorita' di vigilanza. L'autorita' di vigilanza dispone la sospensione del procedimento dalla medesima iniziato se il tribunale per i medesimi fatti ha nominato un ispettore o un amministratore giudiziario.))",
+    "caratteri": 793
+  },
+  "note": [],
+  "impronta": "sha256:a53f52333ab2d7b6ad729fd00706e1447e0f7c024578cd507276be7c5e0b37c9"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2620",
+    "rubrica": "Estensione delle norme di controllo alle societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2620"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni di questa sezione si applicano anche alle societa' che si costituiscono per raggiungere gli scopi indicati nell'art. 2602. L'autorita' governativa puo' sempre disporre lo scioglimento della societa', quando la costituzione di questa non abbia avuto l'approvazione prevista nell'art. 2618.",
+    "con_marcatori": "Art. 2620. (Estensione delle norme di controllo alle societa'). Le disposizioni di questa sezione si applicano anche alle societa' che si costituiscono per raggiungere gli scopi indicati nell'art. 2602. L'autorita' governativa puo' sempre disporre lo scioglimento della societa', quando la costituzione di questa non abbia avuto l'approvazione prevista nell'art. 2618.",
+    "caratteri": 304
+  },
+  "note": [],
+  "impronta": "sha256:9fa7777d4f299946bb4b5d714308c8ca2acd6b23b8ae45ffb406abd6ad612aaf"
+}

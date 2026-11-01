@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "197",
+    "rubrica": "Obbligazione civile delle persone giuridiche per il pagamento delle multe e delle ammende",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art197"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli enti forniti di personalita' giuridica, eccettuati lo Stato, le regioni, le province ed i comuni, qualora sia pronunciata condanna per reato contro chi ne abbia la rappresentanza, o l'amministrazione, o sia con essi in rapporto di dipendenza, e si tratti di reato che costituisca violazione degli obblighi inerenti alla qualita' rivestita dal colpevole, ovvero sia commesso nell'interesse della persona giuridica, sono obbligati al pagamento, in caso di insolvibilita' del condannato, di una somma pari all'ammontare della multa o dell'ammenda inflitta. Se tale obbligazione non puo' essere adempiuta, si applicano al condannato le disposizioni dell'articolo 136.",
+    "con_marcatori": "Art. 197. (( (Obbligazione civile delle persone giuridiche per il pagamento delle multe e delle ammende).)) ((Gli enti forniti di personalita' giuridica, eccettuati lo Stato, le regioni, le province ed i comuni, qualora sia pronunciata condanna per reato contro chi ne abbia la rappresentanza, o l'amministrazione, o sia con essi in rapporto di dipendenza, e si tratti di reato che costituisca violazione degli obblighi inerenti alla qualita' rivestita dal colpevole, ovvero sia commesso nell'interesse della persona giuridica, sono obbligati al pagamento, in caso di insolvibilita' del condannato, di una somma pari all'ammontare della multa o dell'ammenda inflitta. Se tale obbligazione non puo' essere adempiuta, si applicano al condannato le disposizioni dell'articolo 136)).",
+    "caratteri": 667
+  },
+  "note": [],
+  "impronta": "sha256:dea54c9f9670a2368b36a7f2a78f083a0909e92ef6d65146535fbb78e833a3f1"
+}

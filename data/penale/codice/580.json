@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "580",
+    "rubrica": "Istigazione o aiuto al suicidio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art580"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 300,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque determina altri al suicidio o rafforza l'altrui proposito di suicidio, ovvero ne agevola in qualsiasi modo l'esecuzione, e' punito, se il suicidio avviene, con la reclusione da cinque a dodici anni. Se il suicidio non avviene, e' punito con la reclusione da uno a cinque anni, sempre che dal tentativo di suicidio derivi una lesione personale grave o gravissima. Le pene sono aumentate se la persona istigata o eccitata o aiutata si trova in una delle condizioni indicate nei numeri 1° e 2° dell'articolo precedente. Nondimeno, se la persona suddetta e' minore degli anni quattordici o comunque e' priva della capacita' d'intendere o di volere, si applicano le disposizioni relative all'omicidio.",
+    "con_marcatori": "Art. 580. (Istigazione o aiuto al suicidio) Chiunque determina altri al suicidio o rafforza l'altrui proposito di suicidio, ovvero ne agevola in qualsiasi modo l'esecuzione, e' punito, se il suicidio avviene, con la reclusione da cinque a dodici anni. Se il suicidio non avviene, e' punito con la reclusione da uno a cinque anni, sempre che dal tentativo di suicidio derivi una lesione personale grave o gravissima. Le pene sono aumentate se la persona istigata o eccitata o aiutata si trova in una delle condizioni indicate nei numeri 1° e 2° dell'articolo precedente. Nondimeno, se la persona suddetta e' minore degli anni quattordici o comunque e' priva della capacita' d'intendere o di volere, si applicano le disposizioni relative all'omicidio. ((300))",
+    "caratteri": 705
+  },
+  "note": [
+    {
+      "numero": 300,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 580 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "artt. 1",
+          "urn": "urn:nir:stato:legge:2017-12-22;219",
+          "data": "2017-12-22",
+          "numero": "219",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "2 della legge 22 dicembre 2017, n. 219",
+          "urn": "urn:nir:stato:legge:2017-12-22;219",
+          "data": "2017-12-22",
+          "numero": "219",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2019-11-22",
+        "numero": "242"
+      },
+      "testo": "La Corte Costituzionale con sentenza 25 settembre - 22 novembre 2019, n. 242 (in G.U. 1ª s.s. 27/11/2019, n. 48) ha dichiarato \"l'illegittimita' costituzionale dell'art. 580 del codice penale, nella parte in cui non esclude la punibilita' di chi, con le modalita' previste dagli artt. 1 e 2 della legge 22 dicembre 2017, n. 219 (Norme in materia di consenso informato e di disposizioni anticipate di trattamento) - ovvero, quanto ai fatti anteriori alla pubblicazione della presente sentenza nella Gazzetta Ufficiale della Repubblica, con modalita' equivalenti nei sensi di cui in motivazione -, agevola l'esecuzione del proposito di suicidio, autonomamente e liberamente formatosi, di una persona tenuta in vita da trattamenti di sostegno vitale e affetta da una patologia irreversibile, fonte di sofferenze fisiche o psicologiche che ella reputa intollerabili, ma pienamente capace di prendere decisioni libere e consapevoli, sempre che tali condizioni e le modalita' di esecuzione siano state verificate da una struttura pubblica del servizio sanitario nazionale, previo parere del comitato etico territorialmente competente\"."
+    }
+  ],
+  "impronta": "sha256:5e871adfa5513f506bc88e4fe0b8add74a96d450ea3b6addad02a8ec5d14ace0"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2031",
+    "rubrica": "Obblighi dell'interessato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2031"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora la gestione sia stata utilmente iniziata, l'interessato deve adempiere le obbligazioni che il gestore ha assunte in nome di lui, deve tenere indenne il gestore di quelle assunte dal medesimo in nome proprio e rimborsargli tutte le spese necessarie o utili con gli interessi dal giorno in cui le spese stesse sono state fatte. Questa disposizione non si applica agli atti di gestione eseguiti contro il divieto dell'interessato, eccetto che tale divieto sia contrario alla legge, all'ordine pubblico o al buon costume.",
+    "con_marcatori": "Art. 2031. (Obblighi dell'interessato). Qualora la gestione sia stata utilmente iniziata, l'interessato deve adempiere le obbligazioni che il gestore ha assunte in nome di lui, deve tenere indenne il gestore di quelle assunte dal medesimo in nome proprio e rimborsargli tutte le spese necessarie o utili con gli interessi dal giorno in cui le spese stesse sono state fatte. Questa disposizione non si applica agli atti di gestione eseguiti contro il divieto dell'interessato, eccetto che tale divieto sia contrario alla legge, all'ordine pubblico o al buon costume.",
+    "caratteri": 525
+  },
+  "note": [],
+  "impronta": "sha256:51f0f9201b4b176dda52ef8bf7d1d29d06856b164855f18de4013ed0e63bb004"
+}

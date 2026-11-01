@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "551",
+    "rubrica": "Legato in sostituzione di legittima",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art551"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se a un legittimario e' lasciato un legato in sostituzione della legittima, egli puo' rinunziare al legato e chiedere la legittima. Se preferisce di conseguire il legato, perde il diritto di chiedere un supplemento, nel caso che il valore del legato sia inferiore a quello della legittima, e non acquista la qualita' di erede. Questa disposizione non si applica quando il testatore ha espressamente attribuito al legittimario la facolta' di chiedere il supplemento. Il legato in sostituzione della legittima grava sulla porzione indisponibile. Se pero' il valore del legato eccede quello della legittima spettante al legittimario, per l'eccedenza il legato grava sulla disponibile.",
+    "con_marcatori": "Art. 551. (Legato in sostituzione di legittima). Se a un legittimario e' lasciato un legato in sostituzione della legittima, egli puo' rinunziare al legato e chiedere la legittima. Se preferisce di conseguire il legato, perde il diritto di chiedere un supplemento, nel caso che il valore del legato sia inferiore a quello della legittima, e non acquista la qualita' di erede. Questa disposizione non si applica quando il testatore ha espressamente attribuito al legittimario la facolta' di chiedere il supplemento. Il legato in sostituzione della legittima grava sulla porzione indisponibile. Se pero' il valore del legato eccede quello della legittima spettante al legittimario, per l'eccedenza il legato grava sulla disponibile.",
+    "caratteri": 681
+  },
+  "note": [],
+  "impronta": "sha256:d1ec53d48af9fdb871c1721c109df58ced6d58376a8b94230d0c53c45cecab56"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "351",
+    "rubrica": "Violazione della pubblica custodia di cose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art351"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque sottrae, sopprime, distrugge, disperde o deteriora corpi di reato, atti, documenti, ovvero un'altra cosa mobile particolarmente custodita in un pubblico ufficio, o presso un pubblico ufficiale o un impiegato che presti un pubblico servizio, e' punito, qualora il fatto non costituisca un piu' grave delitto, con la reclusione da uno a cinque anni.",
+    "con_marcatori": "Art. 351. (Violazione della pubblica custodia di cose) Chiunque sottrae, sopprime, distrugge, disperde o deteriora corpi di reato, atti, documenti, ovvero un'altra cosa mobile particolarmente custodita in un pubblico ufficio, o presso un pubblico ufficiale o un impiegato che presti un pubblico servizio, e' punito, qualora il fatto non costituisca un piu' grave delitto, con la reclusione da uno a cinque anni.",
+    "caratteri": 356
+  },
+  "note": [],
+  "impronta": "sha256:e11d1faf9ef4926c4e8e29e1424ba9bd2de6a349aa022bf71762917893a08d58"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1476",
+    "rubrica": "Obbligazioni principali del venditore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1476"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le obbligazioni principali del venditore sono: 1) quella di consegnare la cosa al compratore; 2) quella di fargli acquistare la proprieta' della cosa o il diritto, se l'acquisto non e' effetto immediato del contratto; 3) quella di garantire il compratore dall'evizione e dai vizi della cosa.",
+    "con_marcatori": "Art. 1476. (Obbligazioni principali del venditore). Le obbligazioni principali del venditore sono: 1) quella di consegnare la cosa al compratore; 2) quella di fargli acquistare la proprieta' della cosa o il diritto, se l'acquisto non e' effetto immediato del contratto; 3) quella di garantire il compratore dall'evizione e dai vizi della cosa.",
+    "caratteri": 291
+  },
+  "note": [],
+  "impronta": "sha256:97e236dde1b8c910b3ec7258a7eae04a46a2d498e0b20bd574cdc14b1dcdc80c"
+}

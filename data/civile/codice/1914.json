@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1914",
+    "rubrica": "Obbligo di salvataggio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1914"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assicurato deve fare quanto gli e' possibile per evitare o diminuire il danno. Le spese fatte a questo scopo dall'assicurato sono a carico dell'assicuratore, in proporzione del valore assicurato rispetto a quello che la cosa aveva nel tempo del sinistro, anche se il loro ammontare, unitamente a quello del danno, supera la somma assicurata, e anche se non si e' raggiunto lo scopo, salvo che l'assicuratore provi che le spese sono state fatte inconsideratamente. L'assicuratore risponde dei danni materiali direttamente derivati alle cose assicurate dai mezzi adoperati dall'assicurato per evitare o diminuire i danni del sinistro, salvo che egli provi che tali mezzi sono stati adoperati inconsideratamente. L'intervento dell'assicuratore per il salvataggio delle cose assicurate e per la loro conservazione non pregiudica i suoi diritti. L'assicuratore che interviene al salvataggio deve, se richiesto dall'assicurato, anticiparne le spese o concorrere in proporzione del valore assicurato.",
+    "con_marcatori": "Art. 1914. (Obbligo di salvataggio). L'assicurato deve fare quanto gli e' possibile per evitare o diminuire il danno. Le spese fatte a questo scopo dall'assicurato sono a carico dell'assicuratore, in proporzione del valore assicurato rispetto a quello che la cosa aveva nel tempo del sinistro, anche se il loro ammontare, unitamente a quello del danno, supera la somma assicurata, e anche se non si e' raggiunto lo scopo, salvo che l'assicuratore provi che le spese sono state fatte inconsideratamente. L'assicuratore risponde dei danni materiali direttamente derivati alle cose assicurate dai mezzi adoperati dall'assicurato per evitare o diminuire i danni del sinistro, salvo che egli provi che tali mezzi sono stati adoperati inconsideratamente. L'intervento dell'assicuratore per il salvataggio delle cose assicurate e per la loro conservazione non pregiudica i suoi diritti. L'assicuratore che interviene al salvataggio deve, se richiesto dall'assicurato, anticiparne le spese o concorrere in proporzione del valore assicurato.",
+    "caratteri": 995
+  },
+  "note": [],
+  "impronta": "sha256:81539aa793835427facb9a71de53e3e2eb2116a341fee2fad6c47cf0241dfa76"
+}

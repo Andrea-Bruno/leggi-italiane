@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1516",
+    "rubrica": "Esecuzione coattiva per inadempimento del venditore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1516"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la vendita ha per oggetto cose fungibili che hanno un prezzo corrente a norma del terzo comma dell'articolo precedente, e il venditore non adempie la sua obbligazione, il compratore puo' fare acquistare senza ritardo le cose, a spese del venditore, a mezzo di una delle persone indicate nel secondo e terzo comma dell'articolo precedente. Dell'acquisto il compratore deve dare pronta notizia al venditore. Il compratore ha diritto alla differenza tra l'ammontare della spesa occorsa per l'acquisto e il prezzo convenuto, oltre al risarcimento del maggior danno.",
+    "con_marcatori": "Art. 1516. (Esecuzione coattiva per inadempimento del venditore). Se la vendita ha per oggetto cose fungibili che hanno un prezzo corrente a norma del terzo comma dell'articolo precedente, e il venditore non adempie la sua obbligazione, il compratore puo' fare acquistare senza ritardo le cose, a spese del venditore, a mezzo di una delle persone indicate nel secondo e terzo comma dell'articolo precedente. Dell'acquisto il compratore deve dare pronta notizia al venditore. Il compratore ha diritto alla differenza tra l'ammontare della spesa occorsa per l'acquisto e il prezzo convenuto, oltre al risarcimento del maggior danno.",
+    "caratteri": 564
+  },
+  "note": [],
+  "impronta": "sha256:9e614b5ab39e8f7361d1ea2a34cdae5108be899494bdbf90c364c10e6b5f856a"
+}

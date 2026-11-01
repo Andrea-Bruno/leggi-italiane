@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "679",
+    "rubrica": "Omessa denuncia di materie esplodenti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art679"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque omette di denunciare all'Autorita' che egli detiene materie esplodenti di qualsiasi specie, ovvero materie infiammabili, pericolose per la loro qualita' o quantita', e' punito con l'arresto fino a quattro mesi o con l'ammenda fino a lire tremila. Soggiace all'ammenda fino a lire duemila chiunque, avendo notizia che in un luogo da lui abitato si trovano materie esplodenti, omette di farne denuncia all'Autorita'. Nel caso di trasgressione all'ordine, legalmente dato dall'Autorita', di consegnare, nei termini prescritti, le materie esplodenti, la pena e' dell'arresto da un mese ad un anno o dell'ammenda da lire trecento a cinquemila.",
+    "con_marcatori": "Art. 679. (Omessa denuncia di materie esplodenti) Chiunque omette di denunciare all'Autorita' che egli detiene materie esplodenti di qualsiasi specie, ovvero materie infiammabili, pericolose per la loro qualita' o quantita', e' punito con l'arresto fino a quattro mesi o con l'ammenda fino a lire tremila. Soggiace all'ammenda fino a lire duemila chiunque, avendo notizia che in un luogo da lui abitato si trovano materie esplodenti, omette di farne denuncia all'Autorita'. Nel caso di trasgressione all'ordine, legalmente dato dall'Autorita', di consegnare, nei termini prescritti, le materie esplodenti, la pena e' dell'arresto da un mese ad un anno o dell'ammenda da lire trecento a cinquemila.",
+    "caratteri": 647
+  },
+  "note": [],
+  "impronta": "sha256:f9a57e9e59b6304dc250b9e0ec64c70a750e3bc07d7a42991a7a4197c9353c06"
+}

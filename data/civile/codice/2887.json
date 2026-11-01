@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2887",
+    "rubrica": "Cancellazione delle ipoteche a garanzia dei titoli all'ordine",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2887"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La cancellazione della ipoteca costituita a garanzia dell'obbligazione risultante da un titolo all'ordine e' consentita dal creditore risultante nei registri immobiliari e l'atto di consenso deve essere presentato al conservatore insieme con il titolo, il quale e' restituito dopo che il conservatore vi ha eseguito l'annotazione della cancellazione. La cancellazione dell'ipoteca importa la perdita del diritto di regresso contro i giranti anteriori alla cancellazione medesima.",
+    "con_marcatori": "Art. 2887. (Cancellazione delle ipoteche a garanzia dei titoli all'ordine). ((La cancellazione della ipoteca costituita a garanzia dell'obbligazione risultante da un titolo all'ordine e' consentita dal creditore risultante nei registri immobiliari e l'atto di consenso deve essere presentato al conservatore insieme con il titolo, il quale e' restituito dopo che il conservatore vi ha eseguito l'annotazione della cancellazione)). La cancellazione dell'ipoteca importa la perdita del diritto di regresso contro i giranti anteriori alla cancellazione medesima.",
+    "caratteri": 479
+  },
+  "note": [],
+  "impronta": "sha256:0aa1250d44e58d1691d4310f72fb65bd65bd1714c024399a1e02f42c418b57c0"
+}

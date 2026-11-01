@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2397",
+    "rubrica": "Collegio sindacale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2397"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il collegio sindacale si compone di tre o cinque membri effettivi, soci o non soci. Devono inoltre essere nominati due sindaci supplenti. Almeno un membro effettivo ed uno supplente devono essere scelti tra i revisori legali iscritti nell'apposito registro. I restanti membri, se non iscritti in tale registro, devono essere scelti fra gli iscritti negli albi professionali individuati con decreto del Ministro della giustizia, o fra i professori universitari di ruolo, in materie economiche o giuridiche. COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO, CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35.",
+    "con_marcatori": "Art. 2397. ((Collegio sindacale)) Il collegio sindacale si compone di tre o cinque membri effettivi, soci o non soci. Devono inoltre essere nominati due sindaci supplenti. Almeno un membro effettivo ed uno supplente devono essere scelti tra i revisori legali iscritti nell'apposito registro. I restanti membri, se non iscritti in tale registro, devono essere scelti fra gli iscritti negli albi professionali individuati con decreto del Ministro della giustizia, o fra i professori universitari di ruolo, in materie economiche o giuridiche. COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO, CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35.",
+    "caratteri": 613
+  },
+  "note": [
+    {
+      "numero": 84,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 27 gennaio 1992, n. 88",
+          "urn": "urn:nir:stato:decretoLegislativo:1992-01-27;88",
+          "data": "1992-01-27",
+          "numero": "88",
+          "data_gazzetta": "1992-02-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 27 gennaio 1992, n. 88 ha disposto (con l'art. 29, comma 1) che \"Gli articoli 16, 17 e da 21 a 26 hanno effetto a decorrere dalla data della pubblicazione del registro prevista dall'art. 11, comma 1\"."
+    }
+  ],
+  "impronta": "sha256:188a16b36199a000cd9c9ac100b4612175164375533a6a8fbbe567508a60ba4d"
+}

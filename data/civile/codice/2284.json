@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2284",
+    "rubrica": "Morte del socio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2284"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo contraria disposizione del contratto sociale, in caso di morte di uno dei soci, gli altri devono liquidare la quota agli eredi, a meno che preferiscano sciogliere la societa', ovvero continuarla con gli eredi stessi e questi vi acconsentano.",
+    "con_marcatori": "Art. 2284. (Morte del socio). Salvo contraria disposizione del contratto sociale, in caso di morte di uno dei soci, gli altri devono liquidare la quota agli eredi, a meno che preferiscano sciogliere la societa', ovvero continuarla con gli eredi stessi e questi vi acconsentano.",
+    "caratteri": 247
+  },
+  "note": [],
+  "impronta": "sha256:183ceee3c7b0d2205995caeaeadfe15af4c710bf133daefef8b3c88f83861f79"
+}

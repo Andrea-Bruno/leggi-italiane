@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1997",
+    "rubrica": "Efficacia dei vincoli sul credito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1997"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pegno, il sequestro, il pignoramento e ogni altro vincolo sul diritto menzionato in un titolo di credito o sulle merci da esso rappresentate non hanno effetto se non si attuano sul titolo.",
+    "con_marcatori": "Art. 1997. (Efficacia dei vincoli sul credito). Il pegno, il sequestro, il pignoramento e ogni altro vincolo sul diritto menzionato in un titolo di credito o sulle merci da esso rappresentate non hanno effetto se non si attuano sul titolo.",
+    "caratteri": 191
+  },
+  "note": [],
+  "impronta": "sha256:488be9ff6737b3aca397a0169be65021df28446e2ef94a032b293d14b8c8a39b"
+}

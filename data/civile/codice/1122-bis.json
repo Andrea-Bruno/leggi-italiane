@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1122-bis",
+    "rubrica": "Impianti non centralizzati di ricezione radiotelevisiva e di produzione di energia da fonti rinnovabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1122-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le installazioni di impianti non centralizzati per la ricezione radiotelevisiva e per l'accesso a qualunque altro genere di flusso informativo, anche da satellite o via cavo, e i relativi collegamenti fino al punto di diramazione per le singole utenze sono realizzati in modo da recare il minor pregiudizio alle parti comuni e alle unita' immobiliari di proprieta' individuale, preservando in ogni caso il decoro architettonico dell'edificio, salvo quanto previsto in materia di reti pubbliche. E' consentita l'installazione di impianti per la produzione di energia da fonti rinnovabili destinati al servizio di singole unita' del condominio sul lastrico solare, su ogni altra idonea superficie comune e sulle parti di proprieta' individuale dell'interessato. Qualora si rendano necessarie modificazioni delle parti comuni, l'interessato ne da' comunicazione all'amministratore indicando il contenuto specifico e le modalita' di esecuzione degli interventi. L'assemblea puo' prescrivere, con la maggioranza di cui al quinto comma dell'articolo 1136, adeguate modalita' alternative di esecuzione o imporre cautele a salvaguardia della stabilita', della sicurezza o del decoro architettonico dell'edificio e, ai fini dell'installazione degli impianti di cui al secondo comma, provvede, a richiesta degli interessati, a ripartire l'uso del lastrico solare e delle altre superfici comuni, salvaguardando le diverse forme di utilizzo previste dal regolamento di condominio o comunque in atto. L'assemblea, con la medesima maggioranza, puo' altresi' subordinare l'esecuzione alla prestazione, da parte dell'interessato, di idonea garanzia per i danni eventuali. L'accesso alle unita' immobiliari di proprieta' individuale deve essere consentito ove necessario per la progettazione e per l'esecuzione delle opere. Non sono soggetti ad autorizzazione gli impianti destinati alle singole unita' abitative.",
+    "con_marcatori": "Art. 1122-bis. (( (Impianti non centralizzati di ricezione radiotelevisiva e di produzione di energia da fonti rinnovabili). )) ((Le installazioni di impianti non centralizzati per la ricezione radiotelevisiva e per l'accesso a qualunque altro genere di flusso informativo, anche da satellite o via cavo, e i relativi collegamenti fino al punto di diramazione per le singole utenze sono realizzati in modo da recare il minor pregiudizio alle parti comuni e alle unita' immobiliari di proprieta' individuale, preservando in ogni caso il decoro architettonico dell'edificio, salvo quanto previsto in materia di reti pubbliche. E' consentita l'installazione di impianti per la produzione di energia da fonti rinnovabili destinati al servizio di singole unita' del condominio sul lastrico solare, su ogni altra idonea superficie comune e sulle parti di proprieta' individuale dell'interessato. Qualora si rendano necessarie modificazioni delle parti comuni, l'interessato ne da' comunicazione all'amministratore indicando il contenuto specifico e le modalita' di esecuzione degli interventi. L'assemblea puo' prescrivere, con la maggioranza di cui al quinto comma dell'articolo 1136, adeguate modalita' alternative di esecuzione o imporre cautele a salvaguardia della stabilita', della sicurezza o del decoro architettonico dell'edificio e, ai fini dell'installazione degli impianti di cui al secondo comma, provvede, a richiesta degli interessati, a ripartire l'uso del lastrico solare e delle altre superfici comuni, salvaguardando le diverse forme di utilizzo previste dal regolamento di condominio o comunque in atto. L'assemblea, con la medesima maggioranza, puo' altresi' subordinare l'esecuzione alla prestazione, da parte dell'interessato, di idonea garanzia per i danni eventuali. L'accesso alle unita' immobiliari di proprieta' individuale deve essere consentito ove necessario per la progettazione e per l'esecuzione delle opere. Non sono soggetti ad autorizzazione gli impianti destinati alle singole unita' abitative.))",
+    "caratteri": 1896
+  },
+  "note": [],
+  "impronta": "sha256:b554d600083c5d4f0e6ae6454a709fed24046560e4e3ea1d6469e58be9dafb82"
+}

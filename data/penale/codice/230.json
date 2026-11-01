@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "230",
+    "rubrica": "Casi nei quali deve essere ordinata la liberta' vigilata",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art230"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La liberta' vigilata e' sempre ordinata: 1° se e' inflitta la pena della reclusione per non meno di dieci anni: e non puo', in tal caso, avere durata inferiore a tre anni; 2° quando il condannato e' ammesso alla liberazione condizionale; 3° se il contravventore abituale o professionale, non essendo piu' sottoposto a misure di sicurezza, commette un nuovo reato, il quale sia nuova manifestazione di abitualita' o professionalita'; 4° negli altri casi determinati dalla legge. Nel caso in cui sia stata disposta l'assegnazione a una colonia agricola o ad una casa di lavoro, il giudice, al termine dell'assegnazione, puo' ordinare che la persona da dimettere sia posta in liberta' vigilata, ovvero puo' obbligarla a cauzione di buona condotta.",
+    "con_marcatori": "Art. 230. (Casi nei quali deve essere ordinata la liberta' vigilata) La liberta' vigilata e' sempre ordinata: 1° se e' inflitta la pena della reclusione per non meno di dieci anni: e non puo', in tal caso, avere durata inferiore a tre anni; 2° quando il condannato e' ammesso alla liberazione condizionale; 3° se il contravventore abituale o professionale, non essendo piu' sottoposto a misure di sicurezza, commette un nuovo reato, il quale sia nuova manifestazione di abitualita' o professionalita'; 4° negli altri casi determinati dalla legge. Nel caso in cui sia stata disposta l'assegnazione a una colonia agricola o ad una casa di lavoro, il giudice, al termine dell'assegnazione, puo' ordinare che la persona da dimettere sia posta in liberta' vigilata, ovvero puo' obbligarla a cauzione di buona condotta.",
+    "caratteri": 744
+  },
+  "note": [],
+  "impronta": "sha256:15d33185fd843251ac62d930c244ce638076f25b04402164430f77d5abfa1489"
+}

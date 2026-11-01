@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1714",
+    "rubrica": "Interessi sulle somme riscosse",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1714"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mandatario deve corrispondere al mandante gli interessi legali sulle somme riscosse per conto del mandante stesso, con decorrenza dal giorno in cui avrebbe dovuto fargliene la consegna o la spedizione ovvero impiegarle secondo le istruzioni ricevute.",
+    "con_marcatori": "Art. 1714. (Interessi sulle somme riscosse). Il mandatario deve corrispondere al mandante gli interessi legali sulle somme riscosse per conto del mandante stesso, con decorrenza dal giorno in cui avrebbe dovuto fargliene la consegna o la spedizione ovvero impiegarle secondo le istruzioni ricevute.",
+    "caratteri": 253
+  },
+  "note": [],
+  "impronta": "sha256:656f118d55b0bb48deac5ac71f28ddae7d7f578913ca4bd3496bce96149a98a1"
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "373",
+    "rubrica": "Falsa perizia o interpretazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art373"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il perito o l'interprete, che, nominato dall'Autorita' giudiziaria, da' parere o interpretazioni mendaci, o afferma fatti non conformi al vero, soggiace alle pene stabilite nell'articolo precedente. La condanna importa, oltre l'interdizione dai pubblici uffici, l'interdizione dalla professione o dall'arte.",
+    "con_marcatori": "Art. 373. (Falsa perizia o interpretazione) Il perito o l'interprete, che, nominato dall'Autorita' giudiziaria, da' parere o interpretazioni mendaci, o afferma fatti non conformi al vero, soggiace alle pene stabilite nell'articolo precedente. La condanna importa, oltre l'interdizione dai pubblici uffici, l'interdizione dalla professione o dall'arte. ((96))",
+    "caratteri": 307
+  },
+  "note": [
+    {
+      "numero": 96,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "L. 13 settembre 1982, n. 646",
+          "urn": "urn:nir:stato:legge:1982-09-13;646",
+          "data": "1982-09-13",
+          "numero": "646",
+          "data_gazzetta": "1982-09-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 ha disposto: - (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate se il fatto e' commesso da persona gia' sottoposta con provvedimento definitivo a misura di prevenzione; -(con l'art. 7, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:02ae311394317d506561871a4851be2497162c005257216ecb9b6bc940cab110"
+}

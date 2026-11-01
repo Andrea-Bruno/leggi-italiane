@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1089",
+    "rubrica": "Acqua impiegata come forza motrice",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1089"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi ha diritto di servirsi dell'acqua come forza motrice non puo', senza espressa disposizione del titolo, impedirne o rallentarne il corso, procurandone il ribocco o ristagno.",
+    "con_marcatori": "Art. 1089. (Acqua impiegata come forza motrice). Chi ha diritto di servirsi dell'acqua come forza motrice non puo', senza espressa disposizione del titolo, impedirne o rallentarne il corso, procurandone il ribocco o ristagno.",
+    "caratteri": 176
+  },
+  "note": [],
+  "impronta": "sha256:d05e7b02d35b47ea98f20a30af8d709cec5280720e91ee7b178532563d6b7a8d"
+}

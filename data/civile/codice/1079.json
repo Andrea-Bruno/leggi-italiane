@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1079",
+    "rubrica": "Accertamento della servitu' e altri provvedimenti di tutela",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1079"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il titolare della servitu' puo' farne riconoscere in giudizio l'esistenza contro chi ne contesta l'esercizio e puo' far cessare gli eventuali impedimenti e turbative. Puo' anche chiedere la rimessione delle cose in pristino, oltre il risarcimento dei danni.",
+    "con_marcatori": "Art. 1079. (Accertamento della servitu' e altri provvedimenti di tutela). Il titolare della servitu' puo' farne riconoscere in giudizio l'esistenza contro chi ne contesta l'esercizio e puo' far cessare gli eventuali impedimenti e turbative. Puo' anche chiedere la rimessione delle cose in pristino, oltre il risarcimento dei danni.",
+    "caratteri": 257
+  },
+  "note": [],
+  "impronta": "sha256:b15e9678e50a8dc5ec2049d6016cfdc6ef315983a7852cef17b0c03c6c6f6bc6"
+}

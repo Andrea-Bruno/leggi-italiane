@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2416",
+    "rubrica": "Impugnazione delle deliberazioni dell'assemblea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2416"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le deliberazioni prese dall'assemblea degli obbligazionisti sono impugnabili a norma degli articoli 2377 e 2379. Le percentuali previste dall'articolo 2377 sono calcolate con riferimento all'ammontare del prestito obbligazionario e alla circostanza che le obbligazioni siano quotate in mercati regolamentati. L'impugnazione e' proposta innanzi al tribunale, nella cui giurisdizione la societa' ha sede, in contraddittorio del rappresentante degli obbligazionisti.",
+    "con_marcatori": "Art. 2416. (Impugnazione delle deliberazioni dell'assemblea). Le deliberazioni prese dall'assemblea degli obbligazionisti sono impugnabili a norma degli articoli 2377 e 2379. ((Le percentuali previste dall'articolo 2377 sono calcolate con riferimento)) all'ammontare del prestito obbligazionario e alla circostanza che le obbligazioni siano quotate in mercati regolamentati. L'impugnazione e' proposta innanzi al tribunale, nella cui giurisdizione la societa' ha sede, in contraddittorio del rappresentante degli obbligazionisti.",
+    "caratteri": 463
+  },
+  "note": [],
+  "impronta": "sha256:bbe9af3e4bdb1c04373a5add1b13146cb21ad5f74147098314139d45c16439ab"
+}

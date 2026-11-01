@@ -1,0 +1,7041 @@
+{
+  "schema": "leggi-italiane/indice@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "aggiornato_al": "2026-11-01",
+  "conteggi": {
+    "totale": 1001,
+    "vigente": 809,
+    "abrogato": 97,
+    "dichiarato_incostituzionale": 9,
+    "parzialmente_inapplicabile": 83,
+    "da_verificare": 3
+  },
+  "sezioni": {
+    "codice": 1001
+  },
+  "articoli": [
+    {
+      "numero": "1",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/1"
+    },
+    {
+      "numero": "2",
+      "rubrica": "Successione di leggi penali",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/2"
+    },
+    {
+      "numero": "3",
+      "rubrica": "Obbligatorieta' della legge penale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/3"
+    },
+    {
+      "numero": "3-bis",
+      "rubrica": "Principio della riserva di codice",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/3-bis"
+    },
+    {
+      "numero": "4",
+      "rubrica": "Cittadino italiano. Territorio dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/4"
+    },
+    {
+      "numero": "5",
+      "rubrica": "Ignoranza della legge penale",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/5"
+    },
+    {
+      "numero": "6",
+      "rubrica": "Reati commessi nel territorio dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/6"
+    },
+    {
+      "numero": "7",
+      "rubrica": "Reati commessi all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/7"
+    },
+    {
+      "numero": "8",
+      "rubrica": "Delitto politico commesso all'estero",
+      "sezione": "codice",
+      "stato": "da_verificare",
+      "percorso": "codice/8"
+    },
+    {
+      "numero": "9",
+      "rubrica": "Delitto comune del cittadino all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/9"
+    },
+    {
+      "numero": "10",
+      "rubrica": "Delitto comune dello straniero all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/10"
+    },
+    {
+      "numero": "11",
+      "rubrica": "Rinnovamento del giudizio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/11"
+    },
+    {
+      "numero": "12",
+      "rubrica": "Riconoscimento delle sentenze penali straniere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/12"
+    },
+    {
+      "numero": "13",
+      "rubrica": "Estradizione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/13"
+    },
+    {
+      "numero": "14",
+      "rubrica": "Computo e decorrenza dei termini",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/14"
+    },
+    {
+      "numero": "15",
+      "rubrica": "Materia regolata da piu' leggi penali o da piu' disposizioni della medesima legge penale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/15"
+    },
+    {
+      "numero": "16",
+      "rubrica": "Leggi penali speciali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/16"
+    },
+    {
+      "numero": "17",
+      "rubrica": "Pene principali: specie",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/17"
+    },
+    {
+      "numero": "18",
+      "rubrica": "Denominazione e classificazione delle pene principali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/18"
+    },
+    {
+      "numero": "19",
+      "rubrica": "Pene accessorie: specie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/19"
+    },
+    {
+      "numero": "20",
+      "rubrica": "Pene principali e accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/20"
+    },
+    {
+      "numero": "20-bis",
+      "rubrica": "Pene sostitutive delle pene detentive brevi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/20-bis"
+    },
+    {
+      "numero": "21",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/21"
+    },
+    {
+      "numero": "22",
+      "rubrica": "Ergastolo",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/22"
+    },
+    {
+      "numero": "23",
+      "rubrica": "Reclusione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/23"
+    },
+    {
+      "numero": "24",
+      "rubrica": "Multa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/24"
+    },
+    {
+      "numero": "25",
+      "rubrica": "Arresto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/25"
+    },
+    {
+      "numero": "26",
+      "rubrica": "Ammenda",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/26"
+    },
+    {
+      "numero": "27",
+      "rubrica": "Pene pecuniarie fisse e proporzionali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/27"
+    },
+    {
+      "numero": "28",
+      "rubrica": "Interdizione dai pubblici uffici",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/28"
+    },
+    {
+      "numero": "29",
+      "rubrica": "Casi nei quali alla condanna consegue l'interdizione dai pubblici uffici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/29"
+    },
+    {
+      "numero": "30",
+      "rubrica": "Interdizione da una professione o da un'arte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/30"
+    },
+    {
+      "numero": "31",
+      "rubrica": "Condanna per delitti commessi con abuso di un pubblico ufficio o di una professione o di un'arte. Interdizione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/31"
+    },
+    {
+      "numero": "32",
+      "rubrica": "Interdizione legale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/32"
+    },
+    {
+      "numero": "32-bis",
+      "rubrica": "Interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/32-bis"
+    },
+    {
+      "numero": "32-ter",
+      "rubrica": "Incapacita' di contrattare con la pubblica amministrazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/32-ter"
+    },
+    {
+      "numero": "32-quater",
+      "rubrica": "Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/32-quater"
+    },
+    {
+      "numero": "32-quinquies",
+      "rubrica": "Casi nei quali alla condanna consegue l'estinzione del rapporto di lavoro o di impiego",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/32-quinquies"
+    },
+    {
+      "numero": "33",
+      "rubrica": "Condanna per delitto colposo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/33"
+    },
+    {
+      "numero": "34",
+      "rubrica": "Decadenza dalla responsabilita' genitoriale e sospensione dall'esercizio di essa",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/34"
+    },
+    {
+      "numero": "35",
+      "rubrica": "Sospensione dall'esercizio di una professione o di un'arte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/35"
+    },
+    {
+      "numero": "35-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/35-bis"
+    },
+    {
+      "numero": "36",
+      "rubrica": "Pubblicazione della sentenza penale di condanna",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/36"
+    },
+    {
+      "numero": "37",
+      "rubrica": "Pene accessorie temporanee: durata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/37"
+    },
+    {
+      "numero": "38",
+      "rubrica": "Condizione giuridica del condannato alla pena di morte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/38"
+    },
+    {
+      "numero": "39",
+      "rubrica": "Reato: distinzione fra delitti e contravvenzioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/39"
+    },
+    {
+      "numero": "40",
+      "rubrica": "Rapporto di causalita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/40"
+    },
+    {
+      "numero": "41",
+      "rubrica": "Concorso di cause",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/41"
+    },
+    {
+      "numero": "42",
+      "rubrica": "Responsabilita' per dolo o per colpa o per delitto preterintenzionale. Responsabilita' obiettiva",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/42"
+    },
+    {
+      "numero": "43",
+      "rubrica": "Elemento psicologico del reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/43"
+    },
+    {
+      "numero": "44",
+      "rubrica": "Condizione obiettiva di punibilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/44"
+    },
+    {
+      "numero": "45",
+      "rubrica": "Caso fortuito o forza maggiore",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/45"
+    },
+    {
+      "numero": "46",
+      "rubrica": "Costringimento fisico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/46"
+    },
+    {
+      "numero": "47",
+      "rubrica": "Errore di fatto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/47"
+    },
+    {
+      "numero": "48",
+      "rubrica": "Errore determinato dall'altrui inganno",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/48"
+    },
+    {
+      "numero": "49",
+      "rubrica": "Reato supposto erroneamente e reato impossibile",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/49"
+    },
+    {
+      "numero": "50",
+      "rubrica": "Consenso dell'avente diritto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/50"
+    },
+    {
+      "numero": "51",
+      "rubrica": "Esercizio di un diritto o adempimento di un dovere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/51"
+    },
+    {
+      "numero": "52",
+      "rubrica": "Difesa legittima",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/52"
+    },
+    {
+      "numero": "53",
+      "rubrica": "Uso legittimo delle armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/53"
+    },
+    {
+      "numero": "54",
+      "rubrica": "Stato di necessita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/54"
+    },
+    {
+      "numero": "55",
+      "rubrica": "Eccesso colposo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/55"
+    },
+    {
+      "numero": "56",
+      "rubrica": "Delitto tentato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/56"
+    },
+    {
+      "numero": "57",
+      "rubrica": "Reati commessi col mezzo della stampa periodica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/57"
+    },
+    {
+      "numero": "57-bis",
+      "rubrica": "Reati commessi col mezzo della stampa non periodica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/57-bis"
+    },
+    {
+      "numero": "58",
+      "rubrica": "Stampa clandestina",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/58"
+    },
+    {
+      "numero": "58-bis",
+      "rubrica": "Procedibilita' per i reati commessi col mezzo della stampa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/58-bis"
+    },
+    {
+      "numero": "59",
+      "rubrica": "Circostanze non conosciute o erroneamente supposte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/59"
+    },
+    {
+      "numero": "60",
+      "rubrica": "Errore sulla persona dell'offeso",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/60"
+    },
+    {
+      "numero": "61",
+      "rubrica": "Circostanze aggravanti comuni",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/61"
+    },
+    {
+      "numero": "61-bis",
+      "rubrica": "Circostanza aggravante del reato transnazionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/61-bis"
+    },
+    {
+      "numero": "62",
+      "rubrica": "Circostanze attenuanti comuni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/62"
+    },
+    {
+      "numero": "62-bis",
+      "rubrica": "Circostanze attenuanti generiche",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/62-bis"
+    },
+    {
+      "numero": "63",
+      "rubrica": "Applicazione degli aumenti o delle diminuzioni di pena",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/63"
+    },
+    {
+      "numero": "64",
+      "rubrica": "Aumento di pena nel caso di una sola circostanza aggravante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/64"
+    },
+    {
+      "numero": "65",
+      "rubrica": "Diminuzione di pena nel caso di una sola circostanza attenuante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/65"
+    },
+    {
+      "numero": "66",
+      "rubrica": "Limiti degli aumenti di pena nel caso di concorso di piu' circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/66"
+    },
+    {
+      "numero": "67",
+      "rubrica": "Limiti delle diminuzioni di pena nel caso di concorso di piu' circostanze attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/67"
+    },
+    {
+      "numero": "68",
+      "rubrica": "Limiti al concorso di circostanze",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/68"
+    },
+    {
+      "numero": "69",
+      "rubrica": "Concorso di circostanze aggravanti e attenuanti",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/69"
+    },
+    {
+      "numero": "69-bis",
+      "rubrica": "Casi di esclusione del giudizio di comparazione tra circostanze",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/69-bis"
+    },
+    {
+      "numero": "70",
+      "rubrica": "Circostanze oggettive e soggettive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/70"
+    },
+    {
+      "numero": "71",
+      "rubrica": "Condanna per piu' reati con unica sentenza o decreto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/71"
+    },
+    {
+      "numero": "72",
+      "rubrica": "Concorso di reati che importano l'ergastolo e di reati che importano pene detentive temporanee",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/72"
+    },
+    {
+      "numero": "73",
+      "rubrica": "Concorso di reati che importano pene detentive temporanee o pene pecuniarie della stessa specie",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/73"
+    },
+    {
+      "numero": "74",
+      "rubrica": "Concorso di reati che importano pene detentive di specie diversa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/74"
+    },
+    {
+      "numero": "75",
+      "rubrica": "Concorso di reati che importano pene pecuniarie di specie diversa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/75"
+    },
+    {
+      "numero": "76",
+      "rubrica": "Pene concorrenti considerate come pena unica ovvero come pene distinte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/76"
+    },
+    {
+      "numero": "77",
+      "rubrica": "Determinazione delle pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/77"
+    },
+    {
+      "numero": "78",
+      "rubrica": "Limiti degli aumenti delle pene principali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/78"
+    },
+    {
+      "numero": "79",
+      "rubrica": "Limiti degli aumenti delle pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/79"
+    },
+    {
+      "numero": "80",
+      "rubrica": "Concorso di pene inflitte con sentenze o decreti diversi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/80"
+    },
+    {
+      "numero": "81",
+      "rubrica": "Concorso formale. Reato continuato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/81"
+    },
+    {
+      "numero": "82",
+      "rubrica": "Offesa di persona diversa da quella alla quale l'offesa era diretta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/82"
+    },
+    {
+      "numero": "83",
+      "rubrica": "Evento diverso da quello voluto dall'agente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/83"
+    },
+    {
+      "numero": "84",
+      "rubrica": "Reato complesso",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/84"
+    },
+    {
+      "numero": "85",
+      "rubrica": "Capacita' d'intendere e di volere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/85"
+    },
+    {
+      "numero": "86",
+      "rubrica": "Determinazione in altri dello stato d'incapacita', allo scopo di far commettere un reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/86"
+    },
+    {
+      "numero": "87",
+      "rubrica": "Stato preordinato d'incapacita' d'intendere o di volere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/87"
+    },
+    {
+      "numero": "88",
+      "rubrica": "Vizio totale di mente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/88"
+    },
+    {
+      "numero": "89",
+      "rubrica": "Vizio parziale di mente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/89"
+    },
+    {
+      "numero": "90",
+      "rubrica": "Stati emotivi o passionali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/90"
+    },
+    {
+      "numero": "91",
+      "rubrica": "Ubriachezza derivata da caso fortuito o da forza maggiore",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/91"
+    },
+    {
+      "numero": "92",
+      "rubrica": "Ubriachezza volontaria o colposa ovvero preordinata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/92"
+    },
+    {
+      "numero": "93",
+      "rubrica": "Fatto commesso sotto l'azione di sostanze stupefacenti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/93"
+    },
+    {
+      "numero": "94",
+      "rubrica": "Ubriachezza abituale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/94"
+    },
+    {
+      "numero": "95",
+      "rubrica": "Cronica intossicazione da alcool o da sostanze stupefacenti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/95"
+    },
+    {
+      "numero": "96",
+      "rubrica": "Sordomutismo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/96"
+    },
+    {
+      "numero": "97",
+      "rubrica": "Minore degli anni quattordici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/97"
+    },
+    {
+      "numero": "98",
+      "rubrica": "Minore degli anni diciotto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/98"
+    },
+    {
+      "numero": "99",
+      "rubrica": "Recidiva",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/99"
+    },
+    {
+      "numero": "100",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/100"
+    },
+    {
+      "numero": "101",
+      "rubrica": "Reati della stessa indole",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/101"
+    },
+    {
+      "numero": "102",
+      "rubrica": "Abitualita' presunta dalla legge",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/102"
+    },
+    {
+      "numero": "103",
+      "rubrica": "Abitualita' ritenuta dal giudice",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/103"
+    },
+    {
+      "numero": "104",
+      "rubrica": "Abitualita' nelle contravvenzioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/104"
+    },
+    {
+      "numero": "105",
+      "rubrica": "Professionalita' nel reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/105"
+    },
+    {
+      "numero": "106",
+      "rubrica": "Effetti dell'estinzione del reato o della pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/106"
+    },
+    {
+      "numero": "107",
+      "rubrica": "Condanna per vari reati con una sola sentenza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/107"
+    },
+    {
+      "numero": "108",
+      "rubrica": "Tendenza a delinquere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/108"
+    },
+    {
+      "numero": "109",
+      "rubrica": "Effetti della dichiarazione di abitualita', professionalita' o tendenza a delinquere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/109"
+    },
+    {
+      "numero": "110",
+      "rubrica": "Pena per coloro che concorrono nel reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/110"
+    },
+    {
+      "numero": "111",
+      "rubrica": "Determinazione al reato di persona non imputabile o non punibile",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/111"
+    },
+    {
+      "numero": "112",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/112"
+    },
+    {
+      "numero": "113",
+      "rubrica": "Cooperazione nel delitto colposo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/113"
+    },
+    {
+      "numero": "114",
+      "rubrica": "Circostanze attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/114"
+    },
+    {
+      "numero": "115",
+      "rubrica": "Accordo per commettere un reato. Istigazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/115"
+    },
+    {
+      "numero": "116",
+      "rubrica": "Reato diverso da quello voluto da taluno dei concorrenti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/116"
+    },
+    {
+      "numero": "117",
+      "rubrica": "Mutamento del titolo del reato per taluno dei concorrenti",
+      "sezione": "codice",
+      "stato": "da_verificare",
+      "percorso": "codice/117"
+    },
+    {
+      "numero": "118",
+      "rubrica": "Valutazione delle circostanze aggravanti o attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/118"
+    },
+    {
+      "numero": "119",
+      "rubrica": "Valutazione delle circostanze di esclusione della pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/119"
+    },
+    {
+      "numero": "120",
+      "rubrica": "Diritto di querela",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/120"
+    },
+    {
+      "numero": "121",
+      "rubrica": "Diritto di querela esercitato da un curatore speciale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/121"
+    },
+    {
+      "numero": "122",
+      "rubrica": "Querela di uno fra piu' offesi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/122"
+    },
+    {
+      "numero": "123",
+      "rubrica": "Estensione della querela",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/123"
+    },
+    {
+      "numero": "124",
+      "rubrica": "Termine per proporre la querela. Rinuncia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/124"
+    },
+    {
+      "numero": "125",
+      "rubrica": "Querela del minore o inabilitato nel caso di rinuncia del rappresentante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/125"
+    },
+    {
+      "numero": "126",
+      "rubrica": "Estinzione del diritto di querela",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/126"
+    },
+    {
+      "numero": "127",
+      "rubrica": "Richiesta di procedimento per delitti contro il Presidente della Repubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/127"
+    },
+    {
+      "numero": "128",
+      "rubrica": "Termine per la richiesta di procedimento",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/128"
+    },
+    {
+      "numero": "129",
+      "rubrica": "Irrevocabilita' ed estensione della richiesta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/129"
+    },
+    {
+      "numero": "130",
+      "rubrica": "Istanza della persona offesa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/130"
+    },
+    {
+      "numero": "131",
+      "rubrica": "Reato complesso. Procedibilita' di ufficio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/131"
+    },
+    {
+      "numero": "131-bis",
+      "rubrica": "Esclusione della punibilita' per particolare tenuita' del fatto",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/131-bis"
+    },
+    {
+      "numero": "132",
+      "rubrica": "Potere discrezionale del giudice nell'applicazione della pena: limiti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/132"
+    },
+    {
+      "numero": "133",
+      "rubrica": "Gravita' del reato: valutazione agli effetti della pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/133"
+    },
+    {
+      "numero": "133-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/133-bis"
+    },
+    {
+      "numero": "133-ter",
+      "rubrica": "Pagamento rateale della multa o dell'ammenda",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/133-ter"
+    },
+    {
+      "numero": "134",
+      "rubrica": "Computo delle pene",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/134"
+    },
+    {
+      "numero": "135",
+      "rubrica": "Ragguaglio fra pene pecuniarie e pene detentive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/135"
+    },
+    {
+      "numero": "136",
+      "rubrica": "Conversione delle pene pecuniarie non eseguite",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/136"
+    },
+    {
+      "numero": "137",
+      "rubrica": "Carcerazione preventiva",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/137"
+    },
+    {
+      "numero": "138",
+      "rubrica": "Pena e carcerazione preventiva per reati commessi all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/138"
+    },
+    {
+      "numero": "139",
+      "rubrica": "Computo delle pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/139"
+    },
+    {
+      "numero": "140",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/140"
+    },
+    {
+      "numero": "141",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/141"
+    },
+    {
+      "numero": "142",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/142"
+    },
+    {
+      "numero": "143",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/143"
+    },
+    {
+      "numero": "144",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/144"
+    },
+    {
+      "numero": "145",
+      "rubrica": "Remunerazione ai condannati per il lavoro prestato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/145"
+    },
+    {
+      "numero": "146",
+      "rubrica": "Rinvio obbligatorio dell'esecuzione della pena",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/146"
+    },
+    {
+      "numero": "147",
+      "rubrica": "Rinvio facoltativo dell'esecuzione della pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/147"
+    },
+    {
+      "numero": "148",
+      "rubrica": "Infermita' psichica sopravvenuta al condannato",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/148"
+    },
+    {
+      "numero": "149",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/149"
+    },
+    {
+      "numero": "150",
+      "rubrica": "Morte del reo prima della condanna",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/150"
+    },
+    {
+      "numero": "151",
+      "rubrica": "Amnistia",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/151"
+    },
+    {
+      "numero": "152",
+      "rubrica": "Remissione della querela",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/152"
+    },
+    {
+      "numero": "153",
+      "rubrica": "Esercizio del diritto di remissione. Incapaci",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/153"
+    },
+    {
+      "numero": "154",
+      "rubrica": "Piu' querelanti: remissione di uno solo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/154"
+    },
+    {
+      "numero": "155",
+      "rubrica": "Accettazione della remissione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/155"
+    },
+    {
+      "numero": "156",
+      "rubrica": "Estinzione del diritto di remissione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/156"
+    },
+    {
+      "numero": "157",
+      "rubrica": "Prescrizione. Tempo necessario a prescrivere",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/157"
+    },
+    {
+      "numero": "158",
+      "rubrica": "Decorrenza del termine della prescrizione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/158"
+    },
+    {
+      "numero": "159",
+      "rubrica": "Sospensione del corso della prescrizione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/159"
+    },
+    {
+      "numero": "160",
+      "rubrica": "Interruzione del corso della prescrizione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/160"
+    },
+    {
+      "numero": "161",
+      "rubrica": "Effetti della sospensione e della interruzione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/161"
+    },
+    {
+      "numero": "161-bis",
+      "rubrica": "Cessazione del corso della prescrizione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/161-bis"
+    },
+    {
+      "numero": "162",
+      "rubrica": "Oblazione nelle contravvenzioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/162"
+    },
+    {
+      "numero": "162-bis",
+      "rubrica": "Oblazione nelle contravvenzioni punite con pene alternative",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/162-bis"
+    },
+    {
+      "numero": "162-ter",
+      "rubrica": "Estinzione del reato per condotte riparatorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/162-ter"
+    },
+    {
+      "numero": "163",
+      "rubrica": "Sospensione condizionale della pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/163"
+    },
+    {
+      "numero": "164",
+      "rubrica": "Limiti entro i quali e' ammessa la sospensione condizionale della pena",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/164"
+    },
+    {
+      "numero": "165",
+      "rubrica": "Obblighi del condannato",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/165"
+    },
+    {
+      "numero": "166",
+      "rubrica": "Effetti della sospensione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/166"
+    },
+    {
+      "numero": "167",
+      "rubrica": "Estinzione del reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/167"
+    },
+    {
+      "numero": "168",
+      "rubrica": "Revoca della sospensione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/168"
+    },
+    {
+      "numero": "168-bis",
+      "rubrica": "Sospensione del procedimento con messa alla prova dell'imputato",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/168-bis"
+    },
+    {
+      "numero": "168-ter",
+      "rubrica": "Effetti della sospensione del procedimento con messa alla prova",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/168-ter"
+    },
+    {
+      "numero": "168-quater",
+      "rubrica": "Revoca della sospensione del procedimento con messa alla prova",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/168-quater"
+    },
+    {
+      "numero": "169",
+      "rubrica": "Perdono giudiziale per i minori degli anni diciotto",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/169"
+    },
+    {
+      "numero": "170",
+      "rubrica": "Estinzione di un reato che sia presupposto, elemento costitutivo o circostanza aggravante di un altro reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/170"
+    },
+    {
+      "numero": "171",
+      "rubrica": "Morte del reo dopo la condanna",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/171"
+    },
+    {
+      "numero": "172",
+      "rubrica": "Estinzione delle pene della reclusione e della multa per decorso del tempo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/172"
+    },
+    {
+      "numero": "173",
+      "rubrica": "Estinzione delle pene dell'arresto e dell'ammenda per decorso del tempo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/173"
+    },
+    {
+      "numero": "174",
+      "rubrica": "Indulto e grazia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/174"
+    },
+    {
+      "numero": "175",
+      "rubrica": "Non menzione della condanna nel certificato del casellario giudiziale",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/175"
+    },
+    {
+      "numero": "176",
+      "rubrica": "Liberazione condizionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/176"
+    },
+    {
+      "numero": "177",
+      "rubrica": "Revoca della liberazione condizionale o estinzione della pena",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/177"
+    },
+    {
+      "numero": "178",
+      "rubrica": "Riabilitazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/178"
+    },
+    {
+      "numero": "179",
+      "rubrica": "Condizioni per la riabilitazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/179"
+    },
+    {
+      "numero": "180",
+      "rubrica": "Revoca della sentenza di riabilitazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/180"
+    },
+    {
+      "numero": "181",
+      "rubrica": "Riabilitazione nel caso di condanna all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/181"
+    },
+    {
+      "numero": "182",
+      "rubrica": "Effetti delle cause di estinzione del reato o della pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/182"
+    },
+    {
+      "numero": "183",
+      "rubrica": "Concorso di cause estintive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/183"
+    },
+    {
+      "numero": "184",
+      "rubrica": "Estinzione della pena di morte, dell'ergastolo o di pene temporanee nel caso di concorso di reati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/184"
+    },
+    {
+      "numero": "185",
+      "rubrica": "Restituzioni e risarcimento del danno",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/185"
+    },
+    {
+      "numero": "186",
+      "rubrica": "Riparazione del danno mediante pubblicazione della sentenza di condanna",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/186"
+    },
+    {
+      "numero": "187",
+      "rubrica": "Indivisibilita' e solidarieta' nelle obbligazioni ex delicto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/187"
+    },
+    {
+      "numero": "188",
+      "rubrica": "Spese per il mantenimento del condannato. Obbligo di rimborso",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/188"
+    },
+    {
+      "numero": "189",
+      "rubrica": "Ipoteca legale; sequestro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/189"
+    },
+    {
+      "numero": "190",
+      "rubrica": "Garanzie sui beni della persona civilmente responsabile",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/190"
+    },
+    {
+      "numero": "191",
+      "rubrica": "Ordine dei crediti garantiti con ipoteca o sequestro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/191"
+    },
+    {
+      "numero": "192",
+      "rubrica": "Atti a titolo gratuito compiuti dal colpevole dopo il reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/192"
+    },
+    {
+      "numero": "193",
+      "rubrica": "Atti a titolo oneroso compiuti dal colpevole dopo il reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/193"
+    },
+    {
+      "numero": "194",
+      "rubrica": "Atti a titolo oneroso o gratuito compiuti dal colpevole prima del reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/194"
+    },
+    {
+      "numero": "195",
+      "rubrica": "Diritti dei terzi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/195"
+    },
+    {
+      "numero": "196",
+      "rubrica": "Obbligazione civile per le multe e le ammende inflitte a persona dipendente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/196"
+    },
+    {
+      "numero": "197",
+      "rubrica": "Obbligazione civile delle persone giuridiche per il pagamento delle multe e delle ammende",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/197"
+    },
+    {
+      "numero": "198",
+      "rubrica": "Effetti dell'estinzione del reato o della pena sulle obbligazioni civili",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/198"
+    },
+    {
+      "numero": "199",
+      "rubrica": "Sottoposizione a misure di sicurezza: disposizione espressa di legge",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/199"
+    },
+    {
+      "numero": "200",
+      "rubrica": "Applicabilita' delle misure di sicurezza rispetto al tempo, al territorio e alle persone",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/200"
+    },
+    {
+      "numero": "201",
+      "rubrica": "Misure di sicurezza per fatti commessi all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/201"
+    },
+    {
+      "numero": "202",
+      "rubrica": "Applicabilita' delle misure di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/202"
+    },
+    {
+      "numero": "203",
+      "rubrica": "Pericolosita' sociale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/203"
+    },
+    {
+      "numero": "204",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/204"
+    },
+    {
+      "numero": "205",
+      "rubrica": "Provvedimento del giudice",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/205"
+    },
+    {
+      "numero": "206",
+      "rubrica": "Applicazione provvisoria delle misure di sicurezza",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/206"
+    },
+    {
+      "numero": "207",
+      "rubrica": "Revoca delle misure di sicurezza personali",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/207"
+    },
+    {
+      "numero": "208",
+      "rubrica": "Riesame della pericolosita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/208"
+    },
+    {
+      "numero": "209",
+      "rubrica": "Persona giudicata per piu' fatti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/209"
+    },
+    {
+      "numero": "210",
+      "rubrica": "Effetti della estinzione del reato o della pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/210"
+    },
+    {
+      "numero": "211",
+      "rubrica": "Esecuzione delle misure di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/211"
+    },
+    {
+      "numero": "211-bis",
+      "rubrica": "Rinvio dell'esecuzione delle misure di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/211-bis"
+    },
+    {
+      "numero": "212",
+      "rubrica": "Casi di sospensione o di trasformazione di misure di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/212"
+    },
+    {
+      "numero": "213",
+      "rubrica": "Stabilimenti destinati alla esecuzione delle misure di sicurezza detentive. Regime educativo, curativo e di lavoro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/213"
+    },
+    {
+      "numero": "214",
+      "rubrica": "Inosservanza delle misure di sicurezza detentive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/214"
+    },
+    {
+      "numero": "215",
+      "rubrica": "Specie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/215"
+    },
+    {
+      "numero": "216",
+      "rubrica": "Assegnazione a una colonia agricola o ad una casa di lavoro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/216"
+    },
+    {
+      "numero": "217",
+      "rubrica": "Durata minima",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/217"
+    },
+    {
+      "numero": "218",
+      "rubrica": "Esecuzione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/218"
+    },
+    {
+      "numero": "219",
+      "rubrica": "Assegnazione a una casa di cura e di custodia",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/219"
+    },
+    {
+      "numero": "220",
+      "rubrica": "Esecuzione dell'ordine di ricovero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/220"
+    },
+    {
+      "numero": "221",
+      "rubrica": "Ubriachi abituali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/221"
+    },
+    {
+      "numero": "222",
+      "rubrica": "Ricovero in un manicomio giudiziario",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/222"
+    },
+    {
+      "numero": "223",
+      "rubrica": "Ricovero dei minori in un riformatorio giudiziario",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/223"
+    },
+    {
+      "numero": "224",
+      "rubrica": "Minore non imputabile",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/224"
+    },
+    {
+      "numero": "225",
+      "rubrica": "Minore imputabile",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/225"
+    },
+    {
+      "numero": "226",
+      "rubrica": "Minore delinquente abituale, professionale o per tendenza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/226"
+    },
+    {
+      "numero": "227",
+      "rubrica": "Riformatori speciali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/227"
+    },
+    {
+      "numero": "228",
+      "rubrica": "Liberta' vigilata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/228"
+    },
+    {
+      "numero": "229",
+      "rubrica": "Casi nei quali puo' essere ordinata la liberta' vigilata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/229"
+    },
+    {
+      "numero": "230",
+      "rubrica": "Casi nei quali deve essere ordinata la liberta' vigilata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/230"
+    },
+    {
+      "numero": "231",
+      "rubrica": "Trasgressione degli obblighi imposti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/231"
+    },
+    {
+      "numero": "232",
+      "rubrica": "Minori o infermi di mente in stato di liberta' vigilata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/232"
+    },
+    {
+      "numero": "233",
+      "rubrica": "Divieto di soggiorno in uno o piu' Comuni o in una o piu' Provincie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/233"
+    },
+    {
+      "numero": "234",
+      "rubrica": "Divieto di frequentare osterie e pubblici spacci di bevande alcooliche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/234"
+    },
+    {
+      "numero": "235",
+      "rubrica": "Espulsione od allontanamento dello straniero dallo Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/235"
+    },
+    {
+      "numero": "236",
+      "rubrica": "Specie: regole generali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/236"
+    },
+    {
+      "numero": "237",
+      "rubrica": "Cauzione di buona condotta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/237"
+    },
+    {
+      "numero": "238",
+      "rubrica": "Inadempimento dell'obbligo di prestare cauzione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/238"
+    },
+    {
+      "numero": "239",
+      "rubrica": "Adempimento o trasgressione dell'obbligo di buona condotta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/239"
+    },
+    {
+      "numero": "240",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/240"
+    },
+    {
+      "numero": "240-bis",
+      "rubrica": "Confisca in casi particolari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/240-bis"
+    },
+    {
+      "numero": "240-ter",
+      "rubrica": "Confisca per equivalente dei beni strumentali in casi particolari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/240-ter"
+    },
+    {
+      "numero": "240-quater",
+      "rubrica": "Confisca dei beni nei confronti dei terzi in casi particolari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/240-quater"
+    },
+    {
+      "numero": "241",
+      "rubrica": "Attentati contro l'integrita', l'indipendenza e l'unita' dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/241"
+    },
+    {
+      "numero": "242",
+      "rubrica": "Cittadino che porta le armi contro lo Stato italiano",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/242"
+    },
+    {
+      "numero": "243",
+      "rubrica": "Intelligenze con lo straniero a scopo di guerra contro lo Stato italiano",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/243"
+    },
+    {
+      "numero": "244",
+      "rubrica": "Atti ostili verso uno Stato estero, che espongono lo Stato italiano al pericolo di guerra",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/244"
+    },
+    {
+      "numero": "245",
+      "rubrica": "Intelligenze con lo straniero per impegnare lo Stato italiano alla neutralita' o alla guerra",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/245"
+    },
+    {
+      "numero": "246",
+      "rubrica": "Corruzione del cittadino da parte dello straniero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/246"
+    },
+    {
+      "numero": "247",
+      "rubrica": "Favoreggiamento bellico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/247"
+    },
+    {
+      "numero": "248",
+      "rubrica": "Somministrazione al nemico di provvigioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/248"
+    },
+    {
+      "numero": "249",
+      "rubrica": "Partecipazione a prestiti a favore del nemico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/249"
+    },
+    {
+      "numero": "250",
+      "rubrica": "Commercio col nemico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/250"
+    },
+    {
+      "numero": "251",
+      "rubrica": "Inadempimento di contratti di forniture in tempo di guerra",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/251"
+    },
+    {
+      "numero": "252",
+      "rubrica": "Frode in forniture in tempo di guerra",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/252"
+    },
+    {
+      "numero": "253",
+      "rubrica": "Distruzione o sabotaggio di opere militari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/253"
+    },
+    {
+      "numero": "254",
+      "rubrica": "Agevolazione colposa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/254"
+    },
+    {
+      "numero": "255",
+      "rubrica": "Soppressione, falsificazione o sottrazione di atti o documenti concernenti la sicurezza dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/255"
+    },
+    {
+      "numero": "256",
+      "rubrica": "Procacciamento di notizie concernenti la sicurezza dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/256"
+    },
+    {
+      "numero": "257",
+      "rubrica": "Spionaggio politico o militare",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/257"
+    },
+    {
+      "numero": "258",
+      "rubrica": "Spionaggio di notizie di cui e' stata vietata la divulgazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/258"
+    },
+    {
+      "numero": "259",
+      "rubrica": "Agevolazione colposa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/259"
+    },
+    {
+      "numero": "260",
+      "rubrica": "Introduzione clandestina in luoghi militari e possesso ingiustificato di mezzi di spionaggio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/260"
+    },
+    {
+      "numero": "261",
+      "rubrica": "Rivelazione di segreti di Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/261"
+    },
+    {
+      "numero": "262",
+      "rubrica": "Rivelazione di notizie di cui sia stata vietata la divulgazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/262"
+    },
+    {
+      "numero": "263",
+      "rubrica": "Utilizzazione dei segreti di Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/263"
+    },
+    {
+      "numero": "264",
+      "rubrica": "Infedelta' in affari di Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/264"
+    },
+    {
+      "numero": "265",
+      "rubrica": "Disfattismo politico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/265"
+    },
+    {
+      "numero": "266",
+      "rubrica": "Istigazione di militari a disobbedire alle leggi",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/266"
+    },
+    {
+      "numero": "267",
+      "rubrica": "Disfattismo economico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/267"
+    },
+    {
+      "numero": "268",
+      "rubrica": "Parificazione degli Stati alleati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/268"
+    },
+    {
+      "numero": "269",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/269"
+    },
+    {
+      "numero": "270",
+      "rubrica": "Associazioni sovversive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270"
+    },
+    {
+      "numero": "270-bis",
+      "rubrica": "Associazioni con finalita' di terrorismo anche internazionale o di eversione dell'ordine democratico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-bis"
+    },
+    {
+      "numero": "270-bis.1",
+      "rubrica": "Circostanze aggravanti e attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-bis-1"
+    },
+    {
+      "numero": "270-ter",
+      "rubrica": "Assistenza agli associati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-ter"
+    },
+    {
+      "numero": "270-quater",
+      "rubrica": "Arruolamento con finalita' di terrorismo anche internazionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-quater"
+    },
+    {
+      "numero": "270-quater.1",
+      "rubrica": "Organizzazione di trasferimenti per finalita' di terrorismo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-quater-1"
+    },
+    {
+      "numero": "270-quinquies",
+      "rubrica": "Addestramento ad attivita' con finalita' di terrorismo anche internazionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-quinquies"
+    },
+    {
+      "numero": "270-quinquies.1",
+      "rubrica": "Finanziamento di condotte con finalita' di terrorismo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-quinquies-1"
+    },
+    {
+      "numero": "270-quinquies.2",
+      "rubrica": "Sottrazione di beni o denaro sottoposti a sequestro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-quinquies-2"
+    },
+    {
+      "numero": "270-quinquies.3",
+      "rubrica": "Detenzione di materiale con finalita' di terrorismo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-quinquies-3"
+    },
+    {
+      "numero": "270-sexies",
+      "rubrica": "Condotte con finalita' di terrorismo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-sexies"
+    },
+    {
+      "numero": "270-septies",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/270-septies"
+    },
+    {
+      "numero": "271",
+      "rubrica": "Associazioni antinazionali",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/271"
+    },
+    {
+      "numero": "272",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/272"
+    },
+    {
+      "numero": "273",
+      "rubrica": "Illecita costituzione di associazioni aventi carattere internazionale",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/273"
+    },
+    {
+      "numero": "274",
+      "rubrica": "Illecita partecipazione ad associazioni aventi carattere internazionale",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/274"
+    },
+    {
+      "numero": "275",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/275"
+    },
+    {
+      "numero": "275-bis",
+      "rubrica": "Violazione delle misure restrittive dell'Unione europea",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-bis"
+    },
+    {
+      "numero": "275-ter",
+      "rubrica": "Violazione di obblighi informativi imposti da una misura restrittiva dell'Unione europea",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-ter"
+    },
+    {
+      "numero": "275-quater",
+      "rubrica": "Violazione delle condizioni dell'autorizzazione allo svolgimento di attivita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-quater"
+    },
+    {
+      "numero": "275-quinquies",
+      "rubrica": "Violazione colposa di misure restrittive dell'Unione europea",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-quinquies"
+    },
+    {
+      "numero": "275-sexies",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-sexies"
+    },
+    {
+      "numero": "275-septies",
+      "rubrica": "Circostanze attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-septies"
+    },
+    {
+      "numero": "275-octies",
+      "rubrica": "Confisca obbligatoria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-octies"
+    },
+    {
+      "numero": "275-novies",
+      "rubrica": "Pubblicazione della sentenza di condanna",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-novies"
+    },
+    {
+      "numero": "275-decies",
+      "rubrica": "Giurisdizione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/275-decies"
+    },
+    {
+      "numero": "276",
+      "rubrica": "Attentato contro il Presidente della Repubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/276"
+    },
+    {
+      "numero": "277",
+      "rubrica": "Offesa alla liberta' del Presidente della Repubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/277"
+    },
+    {
+      "numero": "278",
+      "rubrica": "Offese all'onore o al prestigio del Presidente della Repubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/278"
+    },
+    {
+      "numero": "279",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/279"
+    },
+    {
+      "numero": "280",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/280"
+    },
+    {
+      "numero": "280-bis",
+      "rubrica": "Atto di terrorismo con ordigni micidiali o esplosivi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/280-bis"
+    },
+    {
+      "numero": "280-ter",
+      "rubrica": "Atti di terrorismo nucleare",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/280-ter"
+    },
+    {
+      "numero": "281",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/281"
+    },
+    {
+      "numero": "282",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/282"
+    },
+    {
+      "numero": "283",
+      "rubrica": "Attentato contro la Costituzione dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/283"
+    },
+    {
+      "numero": "284",
+      "rubrica": "Insurrezione armata contro i poteri dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/284"
+    },
+    {
+      "numero": "285",
+      "rubrica": "Devastazione, saccheggio e strage",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/285"
+    },
+    {
+      "numero": "286",
+      "rubrica": "Guerra civile",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/286"
+    },
+    {
+      "numero": "287",
+      "rubrica": "Usurpazione di potere politico o di comando militare",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/287"
+    },
+    {
+      "numero": "288",
+      "rubrica": "Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/288"
+    },
+    {
+      "numero": "289",
+      "rubrica": "Attentato contro organi costituzionali e contro le assemblee regionali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/289"
+    },
+    {
+      "numero": "289-bis",
+      "rubrica": "Sequestro di persona a scopo di terrorismo o di eversione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/289-bis"
+    },
+    {
+      "numero": "289-ter",
+      "rubrica": "Sequestro di persona a scopo di coazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/289-ter"
+    },
+    {
+      "numero": "290",
+      "rubrica": "Vilipendio della Repubblica, delle Istituzioni costituzionali e delle Forze armate",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/290"
+    },
+    {
+      "numero": "290-bis",
+      "rubrica": "Parificazione al Presidente della Repubblica di chi ne fa le veci",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/290-bis"
+    },
+    {
+      "numero": "291",
+      "rubrica": "Vilipendio alla nazione italiana",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/291"
+    },
+    {
+      "numero": "292",
+      "rubrica": "Vilipendio o danneggiamento alla bandiera o ad altro emblema dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/292"
+    },
+    {
+      "numero": "292-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/292-bis"
+    },
+    {
+      "numero": "293",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/293"
+    },
+    {
+      "numero": "294",
+      "rubrica": "Attentati contro i diritti politici del cittadino",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/294"
+    },
+    {
+      "numero": "295",
+      "rubrica": "Attentato contro i Capi di Stati esteri",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/295"
+    },
+    {
+      "numero": "296",
+      "rubrica": "Offesa alla liberta' dei Capi di Stati esteri",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/296"
+    },
+    {
+      "numero": "297",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/297"
+    },
+    {
+      "numero": "298",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/298"
+    },
+    {
+      "numero": "299",
+      "rubrica": "Offesa alla bandiera o ad altro emblema di uno Stato estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/299"
+    },
+    {
+      "numero": "300",
+      "rubrica": "Condizione di reciprocita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/300"
+    },
+    {
+      "numero": "301",
+      "rubrica": "Concorso di reati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/301"
+    },
+    {
+      "numero": "302",
+      "rubrica": "Istigazione a commettere alcuno dei delitti preveduti dai capi primo e secondo",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/302"
+    },
+    {
+      "numero": "303",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/303"
+    },
+    {
+      "numero": "304",
+      "rubrica": "Cospirazione politica mediante accordo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/304"
+    },
+    {
+      "numero": "305",
+      "rubrica": "Cospirazione politica mediante associazione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/305"
+    },
+    {
+      "numero": "306",
+      "rubrica": "Banda armata: formazione e partecipazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/306"
+    },
+    {
+      "numero": "307",
+      "rubrica": "Assistenza ai partecipi di cospirazione o di banda armata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/307"
+    },
+    {
+      "numero": "308",
+      "rubrica": "Cospirazione: casi di non punibilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/308"
+    },
+    {
+      "numero": "309",
+      "rubrica": "Banda armata: casi di non punibilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/309"
+    },
+    {
+      "numero": "310",
+      "rubrica": "Tempo di guerra",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/310"
+    },
+    {
+      "numero": "311",
+      "rubrica": "Circostanza diminuente: lieve entita' del fatto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/311"
+    },
+    {
+      "numero": "312",
+      "rubrica": "Espulsione od allontanamento dello straniero dallo Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/312"
+    },
+    {
+      "numero": "313",
+      "rubrica": "Autorizzazione a procedere o richiesta di procedimento",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/313"
+    },
+    {
+      "numero": "314",
+      "rubrica": "Peculato",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/314"
+    },
+    {
+      "numero": "314-bis",
+      "rubrica": "Indebita destinazione di denaro o cose mobili",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/314-bis"
+    },
+    {
+      "numero": "315",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/315"
+    },
+    {
+      "numero": "316",
+      "rubrica": "Peculato mediante profitto dell'errore altrui",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/316"
+    },
+    {
+      "numero": "316-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/316-bis"
+    },
+    {
+      "numero": "316-ter",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/316-ter"
+    },
+    {
+      "numero": "317",
+      "rubrica": "Concussione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/317"
+    },
+    {
+      "numero": "317-bis",
+      "rubrica": "Pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/317-bis"
+    },
+    {
+      "numero": "318",
+      "rubrica": "Corruzione per l'esercizio della funzione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/318"
+    },
+    {
+      "numero": "319",
+      "rubrica": "Corruzione per un atto contrario ai doveri d'ufficio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/319"
+    },
+    {
+      "numero": "319-bis",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/319-bis"
+    },
+    {
+      "numero": "319-ter",
+      "rubrica": "Corruzione in atti giudiziari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/319-ter"
+    },
+    {
+      "numero": "319-quater",
+      "rubrica": "Induzione indebita a dare o promettere utilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/319-quater"
+    },
+    {
+      "numero": "320",
+      "rubrica": "Corruzione di persona incaricata di un pubblico servizio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/320"
+    },
+    {
+      "numero": "321",
+      "rubrica": "Pene per il corruttore",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/321"
+    },
+    {
+      "numero": "322",
+      "rubrica": "Istigazione alla corruzione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/322"
+    },
+    {
+      "numero": "322-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/322-bis"
+    },
+    {
+      "numero": "322-ter",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/322-ter"
+    },
+    {
+      "numero": "322-ter.1",
+      "rubrica": "Custodia giudiziale dei beni sequestrati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/322-ter-1"
+    },
+    {
+      "numero": "322-quater",
+      "rubrica": "Riparazione pecuniaria",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/322-quater"
+    },
+    {
+      "numero": "323",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/323"
+    },
+    {
+      "numero": "323-bis",
+      "rubrica": "Circostanze attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/323-bis"
+    },
+    {
+      "numero": "323-ter",
+      "rubrica": "Causa di non punibilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/323-ter"
+    },
+    {
+      "numero": "324",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/324"
+    },
+    {
+      "numero": "325",
+      "rubrica": "Utilizzazione d'invenzioni o scoperte conosciute per ragione di ufficio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/325"
+    },
+    {
+      "numero": "326",
+      "rubrica": "Rivelazione ed utilizzazione di segreti di ufficio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/326"
+    },
+    {
+      "numero": "327",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/327"
+    },
+    {
+      "numero": "328",
+      "rubrica": "Rifiuto di atti d'ufficio. Omissione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/328"
+    },
+    {
+      "numero": "329",
+      "rubrica": "Rifiuto o ritardo di obbedienza commesso da un militare o da un agente della forza pubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/329"
+    },
+    {
+      "numero": "330",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/330"
+    },
+    {
+      "numero": "331",
+      "rubrica": "Interruzione d'un servizio pubblico o di pubblica necessita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/331"
+    },
+    {
+      "numero": "332",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/332"
+    },
+    {
+      "numero": "333",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/333"
+    },
+    {
+      "numero": "334",
+      "rubrica": "Sottrazione o danneggiamento di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dalla autorita' amministrativa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/334"
+    },
+    {
+      "numero": "335",
+      "rubrica": "Violazione colposa di doveri inerenti alla custodia di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dall'autorita' amministrativa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/335"
+    },
+    {
+      "numero": "335-bis",
+      "rubrica": "Disposizioni patrimoniali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/335-bis"
+    },
+    {
+      "numero": "336",
+      "rubrica": "Violenza o minaccia a un pubblico ufficiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/336"
+    },
+    {
+      "numero": "337",
+      "rubrica": "Resistenza a un pubblico ufficiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/337"
+    },
+    {
+      "numero": "337-bis",
+      "rubrica": "Occultamento, custodia o alterazione di mezzi di trasporto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/337-bis"
+    },
+    {
+      "numero": "338",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/338"
+    },
+    {
+      "numero": "339",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/339"
+    },
+    {
+      "numero": "339-bis",
+      "rubrica": "Circostanza aggravante. Atti intimidatori di natura ritorsiva ai danni di un componente di un Corpo politico, amministrativo o giudiziario",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/339-bis"
+    },
+    {
+      "numero": "340",
+      "rubrica": "Interruzione di un ufficio o servizio pubblico o di un servizio di pubblica necessita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/340"
+    },
+    {
+      "numero": "341",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/341"
+    },
+    {
+      "numero": "341-bis",
+      "rubrica": "Oltraggio a pubblico ufficiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/341-bis"
+    },
+    {
+      "numero": "342",
+      "rubrica": "Oltraggio a un Corpo politico, amministrativo o giudiziario",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/342"
+    },
+    {
+      "numero": "343",
+      "rubrica": "Oltraggio a un magistrato in udienza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/343"
+    },
+    {
+      "numero": "343-bis",
+      "rubrica": "Corte penale internazionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/343-bis"
+    },
+    {
+      "numero": "344",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/344"
+    },
+    {
+      "numero": "345",
+      "rubrica": "Offesa all'Autorita' mediante danneggiamento di affissioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/345"
+    },
+    {
+      "numero": "346",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/346"
+    },
+    {
+      "numero": "346-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/346-bis"
+    },
+    {
+      "numero": "347",
+      "rubrica": "Usurpazione di funzioni pubbliche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/347"
+    },
+    {
+      "numero": "348",
+      "rubrica": "Esercizio abusivo di una professione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/348"
+    },
+    {
+      "numero": "349",
+      "rubrica": "Violazione di sigilli",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/349"
+    },
+    {
+      "numero": "350",
+      "rubrica": "Agevolazione colposa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/350"
+    },
+    {
+      "numero": "351",
+      "rubrica": "Violazione della pubblica custodia di cose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/351"
+    },
+    {
+      "numero": "352",
+      "rubrica": "Vendita di stampati dei quali e' stato ordinato il sequestro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/352"
+    },
+    {
+      "numero": "353",
+      "rubrica": "Turbata liberta' degli incanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/353"
+    },
+    {
+      "numero": "353-bis",
+      "rubrica": "Turbata liberta' del procedimento di scelta del contraente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/353-bis"
+    },
+    {
+      "numero": "354",
+      "rubrica": "Astensione dagli incanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/354"
+    },
+    {
+      "numero": "355",
+      "rubrica": "Inadempimento di contratti di pubbliche forniture",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/355"
+    },
+    {
+      "numero": "356",
+      "rubrica": "Frode nelle pubbliche forniture",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/356"
+    },
+    {
+      "numero": "357",
+      "rubrica": "Nozione del pubblico ufficiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/357"
+    },
+    {
+      "numero": "358",
+      "rubrica": "Nozione della persona incaricata di un pubblico servizio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/358"
+    },
+    {
+      "numero": "359",
+      "rubrica": "Persone esercenti un servizio di pubblica necessita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/359"
+    },
+    {
+      "numero": "360",
+      "rubrica": "Cessazione della qualita' di pubblico ufficiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/360"
+    },
+    {
+      "numero": "361",
+      "rubrica": "Omessa denuncia di reato da parte del pubblico ufficiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/361"
+    },
+    {
+      "numero": "362",
+      "rubrica": "Omessa denuncia da parte di un incaricato di pubblico servizio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/362"
+    },
+    {
+      "numero": "363",
+      "rubrica": "Omessa denuncia aggravata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/363"
+    },
+    {
+      "numero": "364",
+      "rubrica": "Omessa denuncia di reato da parte del cittadino",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/364"
+    },
+    {
+      "numero": "365",
+      "rubrica": "Omissione di referto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/365"
+    },
+    {
+      "numero": "366",
+      "rubrica": "Rifiuto di uffici legalmente dovuti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/366"
+    },
+    {
+      "numero": "367",
+      "rubrica": "Simulazione di reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/367"
+    },
+    {
+      "numero": "368",
+      "rubrica": "Calunnia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/368"
+    },
+    {
+      "numero": "369",
+      "rubrica": "Autocalunnia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/369"
+    },
+    {
+      "numero": "370",
+      "rubrica": "Simulazione o calunnia per un fatto costituente contravvenzione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/370"
+    },
+    {
+      "numero": "371",
+      "rubrica": "Falso giuramento della parte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/371"
+    },
+    {
+      "numero": "371-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/371-bis"
+    },
+    {
+      "numero": "371-ter",
+      "rubrica": "False dichiarazioni al difensore",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/371-ter"
+    },
+    {
+      "numero": "372",
+      "rubrica": "Falsa testimonianza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/372"
+    },
+    {
+      "numero": "373",
+      "rubrica": "Falsa perizia o interpretazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/373"
+    },
+    {
+      "numero": "374",
+      "rubrica": "Frode processuale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/374"
+    },
+    {
+      "numero": "374-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/374-bis"
+    },
+    {
+      "numero": "375",
+      "rubrica": "Frode in processo penale e depistaggio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/375"
+    },
+    {
+      "numero": "376",
+      "rubrica": "Ritrattazione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/376"
+    },
+    {
+      "numero": "377",
+      "rubrica": "Intralcio alla giustizia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/377"
+    },
+    {
+      "numero": "377-bis",
+      "rubrica": "Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorita' giudiziaria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/377-bis"
+    },
+    {
+      "numero": "378",
+      "rubrica": "Favoreggiamento personale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/378"
+    },
+    {
+      "numero": "379",
+      "rubrica": "Favoreggiamento reale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/379"
+    },
+    {
+      "numero": "379-bis",
+      "rubrica": "Rivelazione di segreti inerenti a un procedimento penale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/379-bis"
+    },
+    {
+      "numero": "380",
+      "rubrica": "Patrocinio o consulenza infedele",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/380"
+    },
+    {
+      "numero": "381",
+      "rubrica": "Altre infedelta' del patrocinatore o del consulente tecnico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/381"
+    },
+    {
+      "numero": "382",
+      "rubrica": "Millantato credito del patrocinatore",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/382"
+    },
+    {
+      "numero": "383",
+      "rubrica": "Interdizione dai pubblici uffici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/383"
+    },
+    {
+      "numero": "383-bis",
+      "rubrica": "Circostanze aggravanti per il caso di condanna",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/383-bis"
+    },
+    {
+      "numero": "384",
+      "rubrica": "Casi di non punibilita'",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/384"
+    },
+    {
+      "numero": "384-bis",
+      "rubrica": "Punibilita' dei fatti commessi in collegamento audiovisivo nel corso di una rogatoria dall'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/384-bis"
+    },
+    {
+      "numero": "384-ter",
+      "rubrica": "Circostanze speciali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/384-ter"
+    },
+    {
+      "numero": "385",
+      "rubrica": "Evasione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/385"
+    },
+    {
+      "numero": "386",
+      "rubrica": "Procurata evasione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/386"
+    },
+    {
+      "numero": "387",
+      "rubrica": "Colpa del custode",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/387"
+    },
+    {
+      "numero": "387-bis",
+      "rubrica": "Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/387-bis"
+    },
+    {
+      "numero": "388",
+      "rubrica": "Mancata esecuzione dolosa di un provvedimento del giudice",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/388"
+    },
+    {
+      "numero": "388-bis",
+      "rubrica": "Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento ovvero a sequestro giudiziario o conservativo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/388-bis"
+    },
+    {
+      "numero": "388-ter",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/388-ter"
+    },
+    {
+      "numero": "389",
+      "rubrica": "Inosservanza di pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/389"
+    },
+    {
+      "numero": "390",
+      "rubrica": "Procurata inosservanza di pena",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/390"
+    },
+    {
+      "numero": "391",
+      "rubrica": "Procurata inosservanza di misure di sicurezza detentive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/391"
+    },
+    {
+      "numero": "391-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/391-bis"
+    },
+    {
+      "numero": "391-ter",
+      "rubrica": "Accesso indebito a dispositivi idonei alla comunicazione da parte di soggetti detenuti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/391-ter"
+    },
+    {
+      "numero": "392",
+      "rubrica": "Esercizio arbitrario delle proprie ragioni con violenza sulle cose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/392"
+    },
+    {
+      "numero": "393",
+      "rubrica": "Esercizio arbitrario delle proprie ragioni con violenza alle persone",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/393"
+    },
+    {
+      "numero": "393-bis",
+      "rubrica": "Causa di non punibilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/393-bis"
+    },
+    {
+      "numero": "394",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/394"
+    },
+    {
+      "numero": "395",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/395"
+    },
+    {
+      "numero": "396",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/396"
+    },
+    {
+      "numero": "397",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/397"
+    },
+    {
+      "numero": "398",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/398"
+    },
+    {
+      "numero": "399",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/399"
+    },
+    {
+      "numero": "400",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/400"
+    },
+    {
+      "numero": "401",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/401"
+    },
+    {
+      "numero": "402",
+      "rubrica": "Vilipendio della religione dello Stato",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/402"
+    },
+    {
+      "numero": "403",
+      "rubrica": "Offese a una confessione religiosa mediante vilipendio di persone",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/403"
+    },
+    {
+      "numero": "404",
+      "rubrica": "(Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose) ",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/404"
+    },
+    {
+      "numero": "405",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/405"
+    },
+    {
+      "numero": "406",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/406"
+    },
+    {
+      "numero": "407",
+      "rubrica": "Violazione di sepolcro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/407"
+    },
+    {
+      "numero": "408",
+      "rubrica": "Vilipendio delle tombe",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/408"
+    },
+    {
+      "numero": "409",
+      "rubrica": "Turbamento di un funerale o servizio funebre",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/409"
+    },
+    {
+      "numero": "410",
+      "rubrica": "Vilipendio di cadavere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/410"
+    },
+    {
+      "numero": "411",
+      "rubrica": "Distruzione, soppressione o sottrazione di cadavere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/411"
+    },
+    {
+      "numero": "412",
+      "rubrica": "Occultamento di cadavere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/412"
+    },
+    {
+      "numero": "413",
+      "rubrica": "Uso illegittimo di cadavere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/413"
+    },
+    {
+      "numero": "414",
+      "rubrica": "Istigazione a delinquere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/414"
+    },
+    {
+      "numero": "414-bis",
+      "rubrica": "Istigazione a pratiche di pedofilia e di pedopornografia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/414-bis"
+    },
+    {
+      "numero": "415",
+      "rubrica": "Istigazione a disobbedire alle leggi",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/415"
+    },
+    {
+      "numero": "415-bis",
+      "rubrica": "Rivolta all'interno di un istituto penitenziario",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/415-bis"
+    },
+    {
+      "numero": "416",
+      "rubrica": "Associazione per delinquere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/416"
+    },
+    {
+      "numero": "416-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/416-bis"
+    },
+    {
+      "numero": "416-bis.1",
+      "rubrica": "Circostanze aggravanti e attenuanti per reati connessi ad attivita' mafiose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/416-bis-1"
+    },
+    {
+      "numero": "416-ter",
+      "rubrica": "Scambio elettorale politico-mafioso",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/416-ter"
+    },
+    {
+      "numero": "417",
+      "rubrica": "Misura di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/417"
+    },
+    {
+      "numero": "418",
+      "rubrica": "Assistenza agli associati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/418"
+    },
+    {
+      "numero": "419",
+      "rubrica": "Devastazione e saccheggio",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/419"
+    },
+    {
+      "numero": "420",
+      "rubrica": "Attentato a impianti di pubblica utilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/420"
+    },
+    {
+      "numero": "420-bis",
+      "rubrica": "Violenza organizzata nelle manifestazioni pubbliche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/420-bis"
+    },
+    {
+      "numero": "421",
+      "rubrica": "Pubblica intimidazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/421"
+    },
+    {
+      "numero": "421-bis",
+      "rubrica": "Pubblica intimidazione con uso di armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/421-bis"
+    },
+    {
+      "numero": "422",
+      "rubrica": "Strage",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/422"
+    },
+    {
+      "numero": "423",
+      "rubrica": "Incendio",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/423"
+    },
+    {
+      "numero": "423-bis",
+      "rubrica": "Incendio boschivo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/423-bis"
+    },
+    {
+      "numero": "423-ter",
+      "rubrica": "Pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/423-ter"
+    },
+    {
+      "numero": "423-quater",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/423-quater"
+    },
+    {
+      "numero": "424",
+      "rubrica": "Danneggiamento seguito da incendio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/424"
+    },
+    {
+      "numero": "425",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/425"
+    },
+    {
+      "numero": "426",
+      "rubrica": "Inondazione, frana o valanga",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/426"
+    },
+    {
+      "numero": "427",
+      "rubrica": "Danneggiamento seguito da inondazione, frana o valanga",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/427"
+    },
+    {
+      "numero": "428",
+      "rubrica": "Naufragio, sommersione o disastro aviatorio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/428"
+    },
+    {
+      "numero": "429",
+      "rubrica": "Danneggiamento seguito da naufragio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/429"
+    },
+    {
+      "numero": "430",
+      "rubrica": "Disastro ferroviario",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/430"
+    },
+    {
+      "numero": "431",
+      "rubrica": "Pericolo di disastro ferroviario causato da danneggiamento",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/431"
+    },
+    {
+      "numero": "432",
+      "rubrica": "Attentati alla sicurezza dei trasporti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/432"
+    },
+    {
+      "numero": "433",
+      "rubrica": "Attentati alla sicurezza degli impianti di energia elettrica e del gas, ovvero delle pubbliche comunicazioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/433"
+    },
+    {
+      "numero": "433-bis",
+      "rubrica": "Attentato alla sicurezza delle installazioni nucleari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/433-bis"
+    },
+    {
+      "numero": "434",
+      "rubrica": "Crollo di costruzioni o altri disastri dolosi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/434"
+    },
+    {
+      "numero": "434-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/434-bis"
+    },
+    {
+      "numero": "435",
+      "rubrica": "Fabbricazione o detenzione di materie esplodenti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/435"
+    },
+    {
+      "numero": "436",
+      "rubrica": "Sottrazione, occultamento o guasto di apparecchi a pubblica difesa da infortuni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/436"
+    },
+    {
+      "numero": "437",
+      "rubrica": "Rimozione od omissione dolosa di cautele contro infortuni sul lavoro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/437"
+    },
+    {
+      "numero": "437-bis",
+      "rubrica": "Omessa adozione di misure di sicurezza nei sistemi di intelligenza artificiale e alterazione illecita dei sistemi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/437-bis"
+    },
+    {
+      "numero": "438",
+      "rubrica": "Epidemia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/438"
+    },
+    {
+      "numero": "439",
+      "rubrica": "Avvelenamento di acque o di sostanze alimentari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/439"
+    },
+    {
+      "numero": "440",
+      "rubrica": "Adulterazione e contraffazione di sostanze alimentari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/440"
+    },
+    {
+      "numero": "441",
+      "rubrica": "Adulterazione e contraffazione di altre cose in danno della pubblica salute",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/441"
+    },
+    {
+      "numero": "442",
+      "rubrica": "Commercio di sostanze alimentari contraffatte o adulterate",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/442"
+    },
+    {
+      "numero": "443",
+      "rubrica": "Commercio o somministrazione di medicinali guasti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/443"
+    },
+    {
+      "numero": "444",
+      "rubrica": "Commercio di sostanze alimentari nocive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/444"
+    },
+    {
+      "numero": "445",
+      "rubrica": "Somministrazione di medicinali in modo pericoloso per la salute pubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/445"
+    },
+    {
+      "numero": "446",
+      "rubrica": "Confisca obbligatoria",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/446"
+    },
+    {
+      "numero": "447",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/447"
+    },
+    {
+      "numero": "448",
+      "rubrica": "Pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/448"
+    },
+    {
+      "numero": "449",
+      "rubrica": "Delitti colposi di danno",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/449"
+    },
+    {
+      "numero": "450",
+      "rubrica": "Delitti colposi di pericolo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/450"
+    },
+    {
+      "numero": "451",
+      "rubrica": "Omissione colposa di cautele o difese contro disastri o infortuni sul lavoro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/451"
+    },
+    {
+      "numero": "452",
+      "rubrica": "Delitti colposi contro la salute pubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452"
+    },
+    {
+      "numero": "452-bis",
+      "rubrica": "Inquinamento ambientale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-bis"
+    },
+    {
+      "numero": "452-bis.1",
+      "rubrica": "Commercio di prodotti inquinanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-bis-1"
+    },
+    {
+      "numero": "452-ter",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-ter"
+    },
+    {
+      "numero": "452-quater",
+      "rubrica": "Disastro ambientale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-quater"
+    },
+    {
+      "numero": "452-quinquies",
+      "rubrica": "Delitti colposi contro l'ambiente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-quinquies"
+    },
+    {
+      "numero": "452-sexies",
+      "rubrica": "Traffico e abbandono di materiale ad alta radioattivita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-sexies"
+    },
+    {
+      "numero": "452-septies",
+      "rubrica": "Impedimento del controllo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-septies"
+    },
+    {
+      "numero": "452-octies",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-octies"
+    },
+    {
+      "numero": "452-novies",
+      "rubrica": "Aggravante ambientale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-novies"
+    },
+    {
+      "numero": "452-decies",
+      "rubrica": "Ravvedimento operoso",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-decies"
+    },
+    {
+      "numero": "452-duodecies",
+      "rubrica": "Ripristino dello stato dei luoghi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-duodecies"
+    },
+    {
+      "numero": "452-quaterdecies",
+      "rubrica": "Attivita' organizzate per il traffico illecito di rifiuti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-quaterdecies"
+    },
+    {
+      "numero": "452-quinquiesdecies",
+      "rubrica": "Nozione di abusivita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-quinquiesdecies"
+    },
+    {
+      "numero": "452-sexiesdecies",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-sexiesdecies"
+    },
+    {
+      "numero": "452-terdecies",
+      "rubrica": "Omessa bonifica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-terdecies"
+    },
+    {
+      "numero": "452-undecies",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/452-undecies"
+    },
+    {
+      "numero": "453",
+      "rubrica": "Falsificazione di monete, spendita e introduzione nello Stato, previo concerto, di monete falsificate",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/453"
+    },
+    {
+      "numero": "454",
+      "rubrica": "Alterazione di monete",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/454"
+    },
+    {
+      "numero": "455",
+      "rubrica": "Spendita e introduzione nello Stato, senza concerto, di monete falsificate",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/455"
+    },
+    {
+      "numero": "456",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/456"
+    },
+    {
+      "numero": "457",
+      "rubrica": "Spendita di monete falsificate ricevute in buona fede",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/457"
+    },
+    {
+      "numero": "458",
+      "rubrica": "Parificazione delle carte di pubblico credito alle monete",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/458"
+    },
+    {
+      "numero": "459",
+      "rubrica": "Falsificazione di valori di bollo, introduzione nello Stato, acquisto, detenzione o messa in circolazione di valori di bollo falsificati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/459"
+    },
+    {
+      "numero": "460",
+      "rubrica": "Contraffazione di carta filigranata in uso per la fabbricazione di carte di pubblico credito o di valori di bollo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/460"
+    },
+    {
+      "numero": "461",
+      "rubrica": "Fabbricazione o detenzione di filigrane o di strumenti destinati alla falsificazione di monete, di valori di bollo o di carta filigranata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/461"
+    },
+    {
+      "numero": "462",
+      "rubrica": "Falsificazione di biglietti di pubbliche imprese di trasporto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/462"
+    },
+    {
+      "numero": "463",
+      "rubrica": "Casi di non punibilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/463"
+    },
+    {
+      "numero": "464",
+      "rubrica": "Uso di valori di bollo contraffatti o alterati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/464"
+    },
+    {
+      "numero": "465",
+      "rubrica": "Uso di biglietti falsificati di pubbliche imprese di trasporto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/465"
+    },
+    {
+      "numero": "466",
+      "rubrica": "Alterazione di segni nei valori di bollo o nei biglietti usati e uso degli oggetti cosi' alterati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/466"
+    },
+    {
+      "numero": "466-bis",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/466-bis"
+    },
+    {
+      "numero": "467",
+      "rubrica": "Contraffazione del sigillo dello Stato e uso del sigillo contraffatto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/467"
+    },
+    {
+      "numero": "468",
+      "rubrica": "Contraffazione di altri pubblici sigilli o strumenti destinati a pubblica autenticazione o certificazione e uso di tali sigilli e strumenti contraffatti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/468"
+    },
+    {
+      "numero": "469",
+      "rubrica": "Contraffazione delle impronte di una pubblica autenticazione o certificazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/469"
+    },
+    {
+      "numero": "470",
+      "rubrica": "Vendita o acquisto di cose con impronte contraffatte di una pubblica autenticazione o certificazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/470"
+    },
+    {
+      "numero": "471",
+      "rubrica": "Uso abusivo di sigilli e strumenti veri",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/471"
+    },
+    {
+      "numero": "472",
+      "rubrica": "Uso o detenzione di misure o pesi con falsa impronta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/472"
+    },
+    {
+      "numero": "473",
+      "rubrica": "Contraffazione, alterazione o uso di marchi o segni distintivi ovvero di brevetti, modelli e disegni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/473"
+    },
+    {
+      "numero": "474",
+      "rubrica": "Introduzione nello Stato e commercio di prodotti con segni falsi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/474"
+    },
+    {
+      "numero": "474-bis",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/474-bis"
+    },
+    {
+      "numero": "474-ter",
+      "rubrica": "Circostanza aggravante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/474-ter"
+    },
+    {
+      "numero": "474-quater",
+      "rubrica": "Circostanza attenuante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/474-quater"
+    },
+    {
+      "numero": "475",
+      "rubrica": "Pena accessoria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/475"
+    },
+    {
+      "numero": "476",
+      "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in atti pubblici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/476"
+    },
+    {
+      "numero": "477",
+      "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in certificati o autorizzazioni amministrative",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/477"
+    },
+    {
+      "numero": "478",
+      "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in copie autentiche di atti pubblici o privati e in attestati del contenuto di atti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/478"
+    },
+    {
+      "numero": "479",
+      "rubrica": "Falsita' ideologica commessa dal pubblico ufficiale in atti pubblici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/479"
+    },
+    {
+      "numero": "480",
+      "rubrica": "Falsita' ideologica commessa dal pubblico ufficiale in certificati o in autorizzazioni amministrative",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/480"
+    },
+    {
+      "numero": "481",
+      "rubrica": "Falsita' ideologica in certificati commessa da persone esercenti un servizio di pubblica necessita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/481"
+    },
+    {
+      "numero": "482",
+      "rubrica": "Falsita' materiale commessa dal privato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/482"
+    },
+    {
+      "numero": "483",
+      "rubrica": "Falsita' ideologica commessa dal privato in atto pubblico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/483"
+    },
+    {
+      "numero": "484",
+      "rubrica": "Falsita' in registri e notificazioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/484"
+    },
+    {
+      "numero": "485",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/485"
+    },
+    {
+      "numero": "486",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/486"
+    },
+    {
+      "numero": "487",
+      "rubrica": "Falsita' in foglio firmato in bianco. Atto pubblico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/487"
+    },
+    {
+      "numero": "488",
+      "rubrica": "Altre falsita' in foglio firmato in bianco. Applicabilita' delle disposizioni sulle falsita' materiali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/488"
+    },
+    {
+      "numero": "489",
+      "rubrica": "Uso di atto falso",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/489"
+    },
+    {
+      "numero": "490",
+      "rubrica": "Soppressione, distruzione e occultamento di atti veri",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/490"
+    },
+    {
+      "numero": "491",
+      "rubrica": "Falsita' in testamento olografo, cambiale o titoli di credito",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/491"
+    },
+    {
+      "numero": "491-bis",
+      "rubrica": "Documenti informatici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/491-bis"
+    },
+    {
+      "numero": "492",
+      "rubrica": "Copie autentiche che tengono luogo degli originali mancanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/492"
+    },
+    {
+      "numero": "493",
+      "rubrica": "Falsita' commesse da pubblici impiegati incaricati di un servizio pubblico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/493"
+    },
+    {
+      "numero": "493-bis",
+      "rubrica": "Casi di perseguibilita' a querela",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/493-bis"
+    },
+    {
+      "numero": "493-ter",
+      "rubrica": "Indebito utilizzo e falsificazione di strumenti di pagamento diversi dai contanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/493-ter"
+    },
+    {
+      "numero": "493-quater",
+      "rubrica": "Detenzione e diffusione di apparecchiature, dispositivi o programmi informatici diretti a commettere reati riguardanti strumenti di pagamento diversi dai contanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/493-quater"
+    },
+    {
+      "numero": "494",
+      "rubrica": "Sostituzione di persona",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/494"
+    },
+    {
+      "numero": "495",
+      "rubrica": "Falsa attestazione o dichiarazione a un pubblico ufficiale sulla identita' o su qualita' personali proprie o di altri",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/495"
+    },
+    {
+      "numero": "495-bis",
+      "rubrica": "Falsa dichiarazione o attestazione al certificatore di firma elettronica sull'identita' o su qualita' personali proprie o di altri",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/495-bis"
+    },
+    {
+      "numero": "495-ter",
+      "rubrica": "Fraudolente alterazioni per impedire l'identificazione o l'accertamento di qualita' personali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/495-ter"
+    },
+    {
+      "numero": "496",
+      "rubrica": "False dichiarazioni sulla identita' o su qualita' personali proprie o di altri",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/496"
+    },
+    {
+      "numero": "497",
+      "rubrica": "Frode nel farsi rilasciare certificati del casellario giudiziale e uso indebito di tali certificati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/497"
+    },
+    {
+      "numero": "497-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/497-bis"
+    },
+    {
+      "numero": "497-ter",
+      "rubrica": "Possesso di segni distintivi contraffatti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/497-ter"
+    },
+    {
+      "numero": "498",
+      "rubrica": "Usurpazione di titoli o di onori",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/498"
+    },
+    {
+      "numero": "499",
+      "rubrica": "Distruzione di materie prime o di prodotti agricoli o industriali ovvero di mezzi di produzione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/499"
+    },
+    {
+      "numero": "500",
+      "rubrica": "Diffusione di una malattia delle piante o degli animali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/500"
+    },
+    {
+      "numero": "501",
+      "rubrica": "Rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/501"
+    },
+    {
+      "numero": "501-bis",
+      "rubrica": "Manovre speculative su merci",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/501-bis"
+    },
+    {
+      "numero": "502",
+      "rubrica": "Serrata e sciopero per fini contrattuali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/502"
+    },
+    {
+      "numero": "503",
+      "rubrica": "Serrata e sciopero per fini non contrattuali",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/503"
+    },
+    {
+      "numero": "504",
+      "rubrica": "Coazione alla pubblica Autorita' mediante serrata o sciopero",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/504"
+    },
+    {
+      "numero": "505",
+      "rubrica": "Serrata o sciopero a scopo di solidarieta' o di protesta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/505"
+    },
+    {
+      "numero": "506",
+      "rubrica": "Serrata di esercenti di piccole industrie o commerci",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/506"
+    },
+    {
+      "numero": "507",
+      "rubrica": "Boicottaggio",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/507"
+    },
+    {
+      "numero": "508",
+      "rubrica": "Arbitraria invasione e occupazione di aziende agricole o industriali. Sabotaggio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/508"
+    },
+    {
+      "numero": "509",
+      "rubrica": "Inosservanza delle norme disciplinanti i rapporti di lavoro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/509"
+    },
+    {
+      "numero": "510",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/510"
+    },
+    {
+      "numero": "511",
+      "rubrica": "Pena per i capi, promotori e organizzatori",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/511"
+    },
+    {
+      "numero": "512",
+      "rubrica": "Pena accessoria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/512"
+    },
+    {
+      "numero": "512-bis",
+      "rubrica": "Trasferimento fraudolento di valori",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/512-bis"
+    },
+    {
+      "numero": "513",
+      "rubrica": "Turbata liberta' dell'industria o del commercio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/513"
+    },
+    {
+      "numero": "513-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/513-bis"
+    },
+    {
+      "numero": "514",
+      "rubrica": "Frodi contro le industrie nazionali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/514"
+    },
+    {
+      "numero": "515",
+      "rubrica": "Frode nell'esercizio del commercio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/515"
+    },
+    {
+      "numero": "516",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/516"
+    },
+    {
+      "numero": "517",
+      "rubrica": "Vendita di prodotti industriali con segni mendaci",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/517"
+    },
+    {
+      "numero": "517-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/517-bis"
+    },
+    {
+      "numero": "517-ter",
+      "rubrica": "Fabbricazione e commercio di beni realizzati usurpando titoli di proprieta' industriale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/517-ter"
+    },
+    {
+      "numero": "517-quater",
+      "rubrica": "Contraffazione dei segni di indicazione geografica e di denominazione protetta dei prodotti agroalimentari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/517-quater"
+    },
+    {
+      "numero": "517-quinquies",
+      "rubrica": "Circostanza attenuante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/517-quinquies"
+    },
+    {
+      "numero": "517-sexies",
+      "rubrica": "Frode alimentare",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/517-sexies"
+    },
+    {
+      "numero": "517-septies",
+      "rubrica": "Commercio di alimenti con segni mendaci",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/517-septies"
+    },
+    {
+      "numero": "517-octies",
+      "rubrica": "Pena accessoria e circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/517-octies"
+    },
+    {
+      "numero": "518",
+      "rubrica": "Pubblicazione della sentenza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518"
+    },
+    {
+      "numero": "518-bis",
+      "rubrica": "Furto di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-bis"
+    },
+    {
+      "numero": "518.1",
+      "rubrica": "Ulteriori pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-1"
+    },
+    {
+      "numero": "518-ter",
+      "rubrica": "Appropriazione indebita di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-ter"
+    },
+    {
+      "numero": "518.2",
+      "rubrica": "Confisca obbligatoria e per equivalente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-2"
+    },
+    {
+      "numero": "518-quater",
+      "rubrica": "Ricettazione di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-quater"
+    },
+    {
+      "numero": "518-quinquies",
+      "rubrica": "Impiego di beni culturali provenienti da delitto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-quinquies"
+    },
+    {
+      "numero": "518-sexies",
+      "rubrica": "Riciclaggio di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-sexies"
+    },
+    {
+      "numero": "518-septies",
+      "rubrica": "Autoriciclaggio di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-septies"
+    },
+    {
+      "numero": "518-octies",
+      "rubrica": "Falsificazione in scrittura privata relativa a beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-octies"
+    },
+    {
+      "numero": "518-novies",
+      "rubrica": "Violazioni in materia di alienazione di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-novies"
+    },
+    {
+      "numero": "518-decies",
+      "rubrica": "Importazione illecita di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-decies"
+    },
+    {
+      "numero": "518-duodecies",
+      "rubrica": "Distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-duodecies"
+    },
+    {
+      "numero": "518-duodevicies",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-duodevicies"
+    },
+    {
+      "numero": "518-quaterdecies",
+      "rubrica": "Contraffazione di opere d'arte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-quaterdecies"
+    },
+    {
+      "numero": "518-quinquiesdecies",
+      "rubrica": "Casi di non punibilita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-quinquiesdecies"
+    },
+    {
+      "numero": "518-septiesdecies",
+      "rubrica": "Circostanze attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-septiesdecies"
+    },
+    {
+      "numero": "518-sexiesdecies",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-sexiesdecies"
+    },
+    {
+      "numero": "518-terdecies",
+      "rubrica": "Devastazione e saccheggio di beni culturali e paesaggistici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-terdecies"
+    },
+    {
+      "numero": "518-undecies",
+      "rubrica": "Uscita o esportazione illecite di beni culturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-undecies"
+    },
+    {
+      "numero": "518-undevicies",
+      "rubrica": "Fatto commesso all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/518-undevicies"
+    },
+    {
+      "numero": "519",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/519"
+    },
+    {
+      "numero": "520",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/520"
+    },
+    {
+      "numero": "521",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/521"
+    },
+    {
+      "numero": "522",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/522"
+    },
+    {
+      "numero": "523",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/523"
+    },
+    {
+      "numero": "524",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/524"
+    },
+    {
+      "numero": "525",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/525"
+    },
+    {
+      "numero": "526",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/526"
+    },
+    {
+      "numero": "527",
+      "rubrica": "Atti osceni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/527"
+    },
+    {
+      "numero": "528",
+      "rubrica": "Pubblicazioni e spettacoli osceni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/528"
+    },
+    {
+      "numero": "529",
+      "rubrica": "Atti e oggetti osceni: nozione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/529"
+    },
+    {
+      "numero": "530",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/530"
+    },
+    {
+      "numero": "531",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/531"
+    },
+    {
+      "numero": "532",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/532"
+    },
+    {
+      "numero": "533",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/533"
+    },
+    {
+      "numero": "534",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/534"
+    },
+    {
+      "numero": "535",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/535"
+    },
+    {
+      "numero": "536",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/536"
+    },
+    {
+      "numero": "537",
+      "rubrica": "Tratta di donne e di minori commessa all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/537"
+    },
+    {
+      "numero": "538",
+      "rubrica": "Misura di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/538"
+    },
+    {
+      "numero": "539",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/539"
+    },
+    {
+      "numero": "540",
+      "rubrica": "Rapporto di parentela",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/540"
+    },
+    {
+      "numero": "541",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/541"
+    },
+    {
+      "numero": "542",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/542"
+    },
+    {
+      "numero": "543",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/543"
+    },
+    {
+      "numero": "544",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/544"
+    },
+    {
+      "numero": "544-bis",
+      "rubrica": "Uccisione di animali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/544-bis"
+    },
+    {
+      "numero": "544-ter",
+      "rubrica": "Maltrattamento di animali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/544-ter"
+    },
+    {
+      "numero": "544-quater",
+      "rubrica": "Spettacoli o manifestazioni vietati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/544-quater"
+    },
+    {
+      "numero": "544-quinquies",
+      "rubrica": "Divieto di combattimenti tra animali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/544-quinquies"
+    },
+    {
+      "numero": "544-sexies",
+      "rubrica": "Confisca e pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/544-sexies"
+    },
+    {
+      "numero": "544-septies",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/544-septies"
+    },
+    {
+      "numero": "545",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/545"
+    },
+    {
+      "numero": "546",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/546"
+    },
+    {
+      "numero": "547",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/547"
+    },
+    {
+      "numero": "548",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/548"
+    },
+    {
+      "numero": "549",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/549"
+    },
+    {
+      "numero": "550",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/550"
+    },
+    {
+      "numero": "551",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/551"
+    },
+    {
+      "numero": "552",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/552"
+    },
+    {
+      "numero": "553",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/553"
+    },
+    {
+      "numero": "554",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/554"
+    },
+    {
+      "numero": "555",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/555"
+    },
+    {
+      "numero": "556",
+      "rubrica": "Bigamia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/556"
+    },
+    {
+      "numero": "557",
+      "rubrica": "Prescrizione del reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/557"
+    },
+    {
+      "numero": "558",
+      "rubrica": "Induzione al matrimonio mediante inganno",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/558"
+    },
+    {
+      "numero": "558-bis",
+      "rubrica": "Costrizione o induzione al matrimonio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/558-bis"
+    },
+    {
+      "numero": "559",
+      "rubrica": "Adulterio",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/559"
+    },
+    {
+      "numero": "560",
+      "rubrica": "Concubinato",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/560"
+    },
+    {
+      "numero": "561",
+      "rubrica": "Casi di non punibilita'. Circostanza attenuante",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/561"
+    },
+    {
+      "numero": "562",
+      "rubrica": "Pena accessoria e sanzione civile",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/562"
+    },
+    {
+      "numero": "563",
+      "rubrica": "Estinzione del reato",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/563"
+    },
+    {
+      "numero": "564",
+      "rubrica": "Incesto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/564"
+    },
+    {
+      "numero": "565",
+      "rubrica": "Attentati alla morale famigliare commessi col mezzo della stampa periodica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/565"
+    },
+    {
+      "numero": "566",
+      "rubrica": "Supposizione o soppressione di stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/566"
+    },
+    {
+      "numero": "567",
+      "rubrica": "Alterazione di stato",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/567"
+    },
+    {
+      "numero": "568",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/568"
+    },
+    {
+      "numero": "569",
+      "rubrica": "Pena accessoria",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/569"
+    },
+    {
+      "numero": "570",
+      "rubrica": "Violazione degli obblighi di assistenza famigliare",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/570"
+    },
+    {
+      "numero": "570-bis",
+      "rubrica": "Violazione degli obblighi di assistenza familiare in caso di separazione o di scioglimento del matrimonio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/570-bis"
+    },
+    {
+      "numero": "570-ter",
+      "rubrica": "Inosservanza dell'obbligo dell'istruzione dei minori",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/570-ter"
+    },
+    {
+      "numero": "571",
+      "rubrica": "Abuso dei mezzi di correzione o di disciplina",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/571"
+    },
+    {
+      "numero": "572",
+      "rubrica": "Maltrattamenti contro familiari e conviventi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/572"
+    },
+    {
+      "numero": "572-bis",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/572-bis"
+    },
+    {
+      "numero": "573",
+      "rubrica": "Sottrazione consensuale di minorenni",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/573"
+    },
+    {
+      "numero": "574",
+      "rubrica": "Sottrazione di persone incapaci",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/574"
+    },
+    {
+      "numero": "574-bis",
+      "rubrica": "Sottrazione e trattenimento di minore all'estero",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/574-bis"
+    },
+    {
+      "numero": "574-ter",
+      "rubrica": "Costituzione di un'unione civile agli effetti della legge penale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/574-ter"
+    },
+    {
+      "numero": "575",
+      "rubrica": "Omicidio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/575"
+    },
+    {
+      "numero": "576",
+      "rubrica": "Circostanze aggravanti. Ergastolo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/576"
+    },
+    {
+      "numero": "577",
+      "rubrica": "Altre circostanze aggravanti. Ergastolo",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/577"
+    },
+    {
+      "numero": "577-bis",
+      "rubrica": "Femminicidio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/577-bis"
+    },
+    {
+      "numero": "578",
+      "rubrica": "Infanticidio in condizioni di abbandono materiale e morale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/578"
+    },
+    {
+      "numero": "579",
+      "rubrica": "Omicidio del consenziente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/579"
+    },
+    {
+      "numero": "580",
+      "rubrica": "Istigazione o aiuto al suicidio",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/580"
+    },
+    {
+      "numero": "581",
+      "rubrica": "Percosse",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/581"
+    },
+    {
+      "numero": "582",
+      "rubrica": "Lesione personale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/582"
+    },
+    {
+      "numero": "583",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/583"
+    },
+    {
+      "numero": "583-bis",
+      "rubrica": "Pratiche di mutilazione degli organi genitali femminili",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/583-bis"
+    },
+    {
+      "numero": "583-ter",
+      "rubrica": "Pena accessoria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/583-ter"
+    },
+    {
+      "numero": "583-quater",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/583-quater"
+    },
+    {
+      "numero": "583-quinquies",
+      "rubrica": "Deformazione dell'aspetto della persona mediante lesioni permanenti al viso",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/583-quinquies"
+    },
+    {
+      "numero": "584",
+      "rubrica": "Omicidio preterintenzionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/584"
+    },
+    {
+      "numero": "585",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/585"
+    },
+    {
+      "numero": "585-bis",
+      "rubrica": "Pena accessoria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/585-bis"
+    },
+    {
+      "numero": "586",
+      "rubrica": "Morte o lesioni come conseguenza di altro delitto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/586"
+    },
+    {
+      "numero": "586-bis",
+      "rubrica": "Utilizzo o somministrazione di farmaci o di altre sostanze al fine di alterare le prestazioni agonistiche degli atleti",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/586-bis"
+    },
+    {
+      "numero": "587",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/587"
+    },
+    {
+      "numero": "588",
+      "rubrica": "Rissa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/588"
+    },
+    {
+      "numero": "589",
+      "rubrica": "Omicidio colposo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/589"
+    },
+    {
+      "numero": "589-bis",
+      "rubrica": "Omicidio stradale o nautico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/589-bis"
+    },
+    {
+      "numero": "589-ter",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/589-ter"
+    },
+    {
+      "numero": "590",
+      "rubrica": "Lesioni personali colpose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/590"
+    },
+    {
+      "numero": "590-bis",
+      "rubrica": "Lesioni personali stradali o nautiche gravi o gravissime",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/590-bis"
+    },
+    {
+      "numero": "590-ter",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/590-ter"
+    },
+    {
+      "numero": "590-quater",
+      "rubrica": "Computo delle circostanze",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/590-quater"
+    },
+    {
+      "numero": "590-quinquies",
+      "rubrica": "Definizione di strade urbane e extraurbane",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/590-quinquies"
+    },
+    {
+      "numero": "590-sexies",
+      "rubrica": "Responsabilita' colposa per morte o lesioni personali in ambito sanitario",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/590-sexies"
+    },
+    {
+      "numero": "591",
+      "rubrica": "Abbandono di persone minori o incapaci",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/591"
+    },
+    {
+      "numero": "592",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/592"
+    },
+    {
+      "numero": "593",
+      "rubrica": "Omissione di soccorso",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/593"
+    },
+    {
+      "numero": "593-bis",
+      "rubrica": "Interruzione colposa di gravidanza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/593-bis"
+    },
+    {
+      "numero": "593-ter",
+      "rubrica": "Interruzione di gravidanza non consensuale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/593-ter"
+    },
+    {
+      "numero": "594",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/594"
+    },
+    {
+      "numero": "595",
+      "rubrica": "Diffamazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/595"
+    },
+    {
+      "numero": "596",
+      "rubrica": "Esclusione della prova liberatoria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/596"
+    },
+    {
+      "numero": "596-bis",
+      "rubrica": "Diffamazione col mezzo della stampa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/596-bis"
+    },
+    {
+      "numero": "597",
+      "rubrica": "Querela della persona offesa ed estinzione del reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/597"
+    },
+    {
+      "numero": "598",
+      "rubrica": "Offese in scritti e discorsi pronunciati dinanzi alle Autorita' giudiziarie o amministrative",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/598"
+    },
+    {
+      "numero": "599",
+      "rubrica": "Provocazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/599"
+    },
+    {
+      "numero": "600",
+      "rubrica": "Riduzione o mantenimento in schiavitu' o in servitu'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600"
+    },
+    {
+      "numero": "600-bis",
+      "rubrica": "Prostituzione minorile",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-bis"
+    },
+    {
+      "numero": "600-ter",
+      "rubrica": "Pornografia minorile",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/600-ter"
+    },
+    {
+      "numero": "600-quater",
+      "rubrica": "Detenzione o accesso a materiale pornografico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-quater"
+    },
+    {
+      "numero": "600-quater.1",
+      "rubrica": "Pornografia virtuale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-quater-1"
+    },
+    {
+      "numero": "600-quinquies",
+      "rubrica": "Iniziative turistiche volte allo sfruttamento della prostituzione minorile",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-quinquies"
+    },
+    {
+      "numero": "600-sexies",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/600-sexies"
+    },
+    {
+      "numero": "600-septies",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-septies"
+    },
+    {
+      "numero": "600-septies.1",
+      "rubrica": "Circostanza attenuante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-septies-1"
+    },
+    {
+      "numero": "600-septies.2",
+      "rubrica": "Pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-septies-2"
+    },
+    {
+      "numero": "600-octies",
+      "rubrica": "Impiego di minori nell'accattonaggio. Organizzazione e favoreggiamento dell'accattonaggio. Induzione e costrizione all'accattonaggio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/600-octies"
+    },
+    {
+      "numero": "601",
+      "rubrica": "Tratta di persone",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/601"
+    },
+    {
+      "numero": "601-bis",
+      "rubrica": "Traffico di organi prelevati da persona vivente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/601-bis"
+    },
+    {
+      "numero": "601.1",
+      "rubrica": "Approfittamento della vittima di riduzione in schiavitu' o di tratta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/601-1"
+    },
+    {
+      "numero": "602",
+      "rubrica": "Acquisto e alienazione di schiavi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/602"
+    },
+    {
+      "numero": "602-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/602-bis"
+    },
+    {
+      "numero": "602-ter",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/602-ter"
+    },
+    {
+      "numero": "602-quater",
+      "rubrica": "Ignoranza dell'eta' della persona offesa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/602-quater"
+    },
+    {
+      "numero": "603",
+      "rubrica": "Plagio",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/603"
+    },
+    {
+      "numero": "603-bis",
+      "rubrica": "Intermediazione illecita e sfruttamento del lavoro",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/603-bis"
+    },
+    {
+      "numero": "603-bis.1",
+      "rubrica": "Circostanza attenuante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/603-bis-1"
+    },
+    {
+      "numero": "603-bis.2",
+      "rubrica": "Confisca obbligatoria",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/603-bis-2"
+    },
+    {
+      "numero": "603-ter",
+      "rubrica": "Pene accessorie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/603-ter"
+    },
+    {
+      "numero": "604",
+      "rubrica": "Fatto commesso all'estero",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/604"
+    },
+    {
+      "numero": "604-bis",
+      "rubrica": "Propaganda e istigazione a delinquere per motivi di discriminazione razziale etnica e religiosa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/604-bis"
+    },
+    {
+      "numero": "604-ter",
+      "rubrica": "Circostanza aggravante",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/604-ter"
+    },
+    {
+      "numero": "605",
+      "rubrica": "Sequestro di persona",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/605"
+    },
+    {
+      "numero": "606",
+      "rubrica": "Arresto illegale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/606"
+    },
+    {
+      "numero": "607",
+      "rubrica": "Indebita limitazione di liberta' personale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/607"
+    },
+    {
+      "numero": "608",
+      "rubrica": "Abuso di autorita' contro arrestati o detenuti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/608"
+    },
+    {
+      "numero": "609",
+      "rubrica": "Perquisizione e ispezione personali arbitrarie",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609"
+    },
+    {
+      "numero": "609-bis",
+      "rubrica": "Violenza sessuale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-bis"
+    },
+    {
+      "numero": "609-ter",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-ter"
+    },
+    {
+      "numero": "609-quater",
+      "rubrica": "Atti sessuali con minorenne",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-quater"
+    },
+    {
+      "numero": "609-quinquies",
+      "rubrica": "Corruzione di minorenne",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-quinquies"
+    },
+    {
+      "numero": "609-sexies",
+      "rubrica": "Ignoranza dell'eta' della persona offesa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-sexies"
+    },
+    {
+      "numero": "609-septies",
+      "rubrica": "Querela di parte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-septies"
+    },
+    {
+      "numero": "609-octies",
+      "rubrica": "Violenza sessuale di gruppo",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/609-octies"
+    },
+    {
+      "numero": "609-novies",
+      "rubrica": "Pene accessorie ed altri effetti penali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-novies"
+    },
+    {
+      "numero": "609-decies",
+      "rubrica": "Comunicazione al tribunale per i minorenni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-decies"
+    },
+    {
+      "numero": "609-duodecies",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-duodecies"
+    },
+    {
+      "numero": "609-undecies",
+      "rubrica": "Adescamento di minorenni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/609-undecies"
+    },
+    {
+      "numero": "610",
+      "rubrica": "Violenza privata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/610"
+    },
+    {
+      "numero": "611",
+      "rubrica": "Violenza o minaccia per costringere a commettere un reato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/611"
+    },
+    {
+      "numero": "612",
+      "rubrica": "Minaccia",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/612"
+    },
+    {
+      "numero": "612-bis",
+      "rubrica": "Atti persecutori",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/612-bis"
+    },
+    {
+      "numero": "612-ter",
+      "rubrica": "Diffusione illecita di immagini o video sessualmente espliciti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/612-ter"
+    },
+    {
+      "numero": "612-quater",
+      "rubrica": "Illecita diffusione di contenuti generati o alterati con sistemi di intelligenza artificiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/612-quater"
+    },
+    {
+      "numero": "613",
+      "rubrica": "Stato di incapacita' procurato mediante violenza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/613"
+    },
+    {
+      "numero": "613-bis",
+      "rubrica": "Tortura",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/613-bis"
+    },
+    {
+      "numero": "613-ter",
+      "rubrica": "Istigazione del pubblico ufficiale a commettere tortura",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/613-ter"
+    },
+    {
+      "numero": "614",
+      "rubrica": "Violazione di domicilio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/614"
+    },
+    {
+      "numero": "615",
+      "rubrica": "Violazione di domicilio commessa da un pubblico ufficiale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/615"
+    },
+    {
+      "numero": "615-bis",
+      "rubrica": "Interferenze illecite nella vita privata",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/615-bis"
+    },
+    {
+      "numero": "615-ter",
+      "rubrica": "Accesso abusivo ad un sistema informatico o telematico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/615-ter"
+    },
+    {
+      "numero": "615-quater",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/615-quater"
+    },
+    {
+      "numero": "615-quinquies",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/615-quinquies"
+    },
+    {
+      "numero": "616",
+      "rubrica": "Violazione, sottrazione e soppressione di corrispondenza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/616"
+    },
+    {
+      "numero": "617",
+      "rubrica": "Cognizione, interruzione o impedimento illeciti di comunicazioni o conversazioni telegrafiche o telefoniche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/617"
+    },
+    {
+      "numero": "617-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/617-bis"
+    },
+    {
+      "numero": "617-ter",
+      "rubrica": "Falsificazione, alterazione o soppressione del contenuto di comunicazioni o conversazioni telegrafiche o telefoniche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/617-ter"
+    },
+    {
+      "numero": "617-quater",
+      "rubrica": "Intercettazione, impedimento o interruzione illecita di comunicazioni informatiche o telematiche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/617-quater"
+    },
+    {
+      "numero": "617-quinquies",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/617-quinquies"
+    },
+    {
+      "numero": "617-sexies",
+      "rubrica": "Falsificazione, alterazione o soppressione del contenuto di comunicazioni informatiche o telematiche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/617-sexies"
+    },
+    {
+      "numero": "617-septies",
+      "rubrica": "Diffusione di riprese e registrazioni fraudolente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/617-septies"
+    },
+    {
+      "numero": "618",
+      "rubrica": "Rivelazione del contenuto di corrispondenza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/618"
+    },
+    {
+      "numero": "619",
+      "rubrica": "Violazione, sottrazione e soppressione di corrispondenza commesse da persona addetta al servizio delle poste, dei telegrafi o dei telefoni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/619"
+    },
+    {
+      "numero": "620",
+      "rubrica": "Rivelazione del contenuto di corrispondenza, commessa da persona addetta al servizio delle poste, dei telegrafi o dei telefoni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/620"
+    },
+    {
+      "numero": "621",
+      "rubrica": "Rivelazione del contenuto di documenti segreti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/621"
+    },
+    {
+      "numero": "622",
+      "rubrica": "Rivelazione di segreto professionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/622"
+    },
+    {
+      "numero": "623",
+      "rubrica": "Rivelazione di segreti scientifici o commerciali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/623"
+    },
+    {
+      "numero": "623-bis",
+      "rubrica": "Altre comunicazioni e conversazioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/623-bis"
+    },
+    {
+      "numero": "623-ter",
+      "rubrica": "Casi di procedibilita' d'ufficio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/623-ter"
+    },
+    {
+      "numero": "623-quater",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/623-quater"
+    },
+    {
+      "numero": "624",
+      "rubrica": "Furto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/624"
+    },
+    {
+      "numero": "624-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/624-bis"
+    },
+    {
+      "numero": "625",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/625"
+    },
+    {
+      "numero": "625-bis",
+      "rubrica": "Circostanze attenuanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/625-bis"
+    },
+    {
+      "numero": "626",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/626"
+    },
+    {
+      "numero": "627",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/627"
+    },
+    {
+      "numero": "628",
+      "rubrica": "Rapina",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/628"
+    },
+    {
+      "numero": "628-bis",
+      "rubrica": "Rapina aggravata commessa da un gruppo organizzato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/628-bis"
+    },
+    {
+      "numero": "629",
+      "rubrica": "Estorsione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/629"
+    },
+    {
+      "numero": "630",
+      "rubrica": "Sequestro di persona a scopo di estorsione",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/630"
+    },
+    {
+      "numero": "631",
+      "rubrica": "Usurpazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/631"
+    },
+    {
+      "numero": "632",
+      "rubrica": "Deviazione di acque e modificazione dello stato dei luoghi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/632"
+    },
+    {
+      "numero": "633",
+      "rubrica": "Invasione di terreni o edifici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/633"
+    },
+    {
+      "numero": "633-bis",
+      "rubrica": "Invasione di terreni o edifici con pericolo per la salute pubblica o l'incolumita' pubblica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/633-bis"
+    },
+    {
+      "numero": "634",
+      "rubrica": "Turbativa violenta del possesso di cose immobili",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/634"
+    },
+    {
+      "numero": "634-bis",
+      "rubrica": "Occupazione arbitraria di immobile destinato a domicilio altrui",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/634-bis"
+    },
+    {
+      "numero": "635",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/635"
+    },
+    {
+      "numero": "635-bis",
+      "rubrica": "Danneggiamento di informazioni, dati e programmi informatici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/635-bis"
+    },
+    {
+      "numero": "635.1",
+      "rubrica": "Danneggiamento commesso da un gruppo organizzato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/635-1"
+    },
+    {
+      "numero": "635-ter",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/635-ter"
+    },
+    {
+      "numero": "635-quater",
+      "rubrica": "Danneggiamento di sistemi informatici o telematici",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/635-quater"
+    },
+    {
+      "numero": "635-quater.1",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/635-quater-1"
+    },
+    {
+      "numero": "635-quinquies",
+      "rubrica": "Danneggiamento di sistemi informatici o telematici di pubblico interesse). Salvo che il fatto costituisca piu' grave reato, chiunque, mediante le condotte di cui all'articolo 635-bis ovvero attraverso l'introduzione o la trasmissione di dati, informazioni o programmi, compie atti diretti a distruggere, danneggiare o rendere, in tutto o in parte, inservibili sistemi informatici o telematici di pubblico interesse ovvero ad ostacolarne gravemente il funzionamento e' punito con la pena della reclusione da due a sei anni. La pena e' della reclusione da tre a otto anni: 1) se il fatto e' commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o con violazione dei doveri inerenti alla funzione o al servizio, o da chi esercita, anche abusivamente, la professione di investigatore privato, o con abuso della qualita' di operatore del sistema; 2) se il colpevole per commettere il fatto usa minaccia o violenza ovvero se e' palesemente armato; 3) se dal fatto deriva la distruzione, il deterioramento, la cancellazione, l'alterazione o la soppressione delle informazioni, dei dati o dei programmi informatici. La pena e' della reclusione da quattro a dodici anni quando taluna delle circostanze di cui ai numeri 1) e 2) del secondo comma concorre con taluna delle circostanze di cui al numero 3",
+      "sezione": "codice",
+      "stato": "da_verificare",
+      "percorso": "codice/635-quinquies"
+    },
+    {
+      "numero": "636",
+      "rubrica": "Introduzione o abbandono di animali nel fondo altrui e pascolo abusivo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/636"
+    },
+    {
+      "numero": "637",
+      "rubrica": "Ingresso abusivo nel fondo altrui",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/637"
+    },
+    {
+      "numero": "638",
+      "rubrica": "Uccisione o danneggiamento di animali altrui",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/638"
+    },
+    {
+      "numero": "639",
+      "rubrica": "Deturpamento e imbrattamento di cose altrui",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/639"
+    },
+    {
+      "numero": "639-bis",
+      "rubrica": "Casi di esclusione della perseguibilita' a querela",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/639-bis"
+    },
+    {
+      "numero": "639-ter",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/639-ter"
+    },
+    {
+      "numero": "640",
+      "rubrica": "Truffa",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/640"
+    },
+    {
+      "numero": "640-bis",
+      "rubrica": "Truffa aggravata per il conseguimento di erogazioni pubbliche",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/640-bis"
+    },
+    {
+      "numero": "640-ter",
+      "rubrica": "Frode informatica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/640-ter"
+    },
+    {
+      "numero": "640-quater",
+      "rubrica": "Applicabilita' dell'articolo 322-ter",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/640-quater"
+    },
+    {
+      "numero": "640-quinquies",
+      "rubrica": "Frode informatica del soggetto che presta servizi di certificazione di firma elettronica",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/640-quinquies"
+    },
+    {
+      "numero": "641",
+      "rubrica": "Insolvenza fraudolenta",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/641"
+    },
+    {
+      "numero": "642",
+      "rubrica": "Fraudolento danneggiamento dei beni assicurati e mutilazione fraudolenta della propria persona",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/642"
+    },
+    {
+      "numero": "643",
+      "rubrica": "Circonvenzione di persone incapaci",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/643"
+    },
+    {
+      "numero": "644",
+      "rubrica": "Usura",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/644"
+    },
+    {
+      "numero": "644-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/644-bis"
+    },
+    {
+      "numero": "644-ter",
+      "rubrica": "Prescrizione del reato di usura",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/644-ter"
+    },
+    {
+      "numero": "645",
+      "rubrica": "Frode in emigrazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/645"
+    },
+    {
+      "numero": "646",
+      "rubrica": "Appropriazione indebita",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/646"
+    },
+    {
+      "numero": "647",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/647"
+    },
+    {
+      "numero": "648",
+      "rubrica": "Ricettazione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/648"
+    },
+    {
+      "numero": "648-bis",
+      "rubrica": "Riciclaggio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/648-bis"
+    },
+    {
+      "numero": "648-ter",
+      "rubrica": "Impiego di denaro, beni o utilita' di provenienza illecita",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/648-ter"
+    },
+    {
+      "numero": "648-ter.1",
+      "rubrica": "Autoriciclaggio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/648-ter-1"
+    },
+    {
+      "numero": "648-quater",
+      "rubrica": "Confisca",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/648-quater"
+    },
+    {
+      "numero": "649",
+      "rubrica": "Non punibilita' e querela della persona offesa, per fatti commessi a danno di congiunti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/649"
+    },
+    {
+      "numero": "649-bis",
+      "rubrica": "Casi di procedibilita' d'ufficio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/649-bis"
+    },
+    {
+      "numero": "650",
+      "rubrica": "Inosservanza dei provvedimenti dell'Autorita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/650"
+    },
+    {
+      "numero": "651",
+      "rubrica": "Rifiuto d'indicazioni sulla propria identita' personale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/651"
+    },
+    {
+      "numero": "652",
+      "rubrica": "Rifiuto di prestare la propria opera in occasione di un tumulto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/652"
+    },
+    {
+      "numero": "653",
+      "rubrica": "Formazione di corpi armati non diretti a commettere reati",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/653"
+    },
+    {
+      "numero": "654",
+      "rubrica": "Grida e manifestazioni sediziose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/654"
+    },
+    {
+      "numero": "655",
+      "rubrica": "Radunata sediziosa",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/655"
+    },
+    {
+      "numero": "656",
+      "rubrica": "Pubblicazione o diffusione di notizie false, esagerate o tendenziose, atte a turbare l'ordine pubblico",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/656"
+    },
+    {
+      "numero": "657",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/657"
+    },
+    {
+      "numero": "658",
+      "rubrica": "Procurato allarme presso l'Autorita'",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/658"
+    },
+    {
+      "numero": "659",
+      "rubrica": "Disturbo delle occupazioni o del riposo delle persone",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/659"
+    },
+    {
+      "numero": "660",
+      "rubrica": "Molestia o disturbo alle persone",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/660"
+    },
+    {
+      "numero": "661",
+      "rubrica": "Abuso della credulita' popolare",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/661"
+    },
+    {
+      "numero": "662",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/662"
+    },
+    {
+      "numero": "663",
+      "rubrica": "Vendita, distribuzione o affissione abusiva di scritti o disegni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/663"
+    },
+    {
+      "numero": "663-bis",
+      "rubrica": "Divulgazione di stampa clandestina",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/663-bis"
+    },
+    {
+      "numero": "664",
+      "rubrica": "Distruzione o deterioramento di affissioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/664"
+    },
+    {
+      "numero": "665",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/665"
+    },
+    {
+      "numero": "666",
+      "rubrica": "Spettacoli o trattenimenti pubblici senza licenza",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/666"
+    },
+    {
+      "numero": "667",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/667"
+    },
+    {
+      "numero": "668",
+      "rubrica": "Rappresentazioni teatrali o cinematografiche abusive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/668"
+    },
+    {
+      "numero": "669",
+      "rubrica": "Esercizio abusivo di mestieri girovaghi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/669"
+    },
+    {
+      "numero": "669-bis",
+      "rubrica": "Esercizio molesto dell'accattonaggio",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/669-bis"
+    },
+    {
+      "numero": "670",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/670"
+    },
+    {
+      "numero": "671",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/671"
+    },
+    {
+      "numero": "672",
+      "rubrica": "Omessa custodia e mal governo di animali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/672"
+    },
+    {
+      "numero": "673",
+      "rubrica": "Omesso collocamento o rimozione di segnali o ripari",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/673"
+    },
+    {
+      "numero": "674",
+      "rubrica": "Getto pericoloso di cose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/674"
+    },
+    {
+      "numero": "675",
+      "rubrica": "Collocamento pericoloso di cose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/675"
+    },
+    {
+      "numero": "676",
+      "rubrica": "Rovina di edifici o di altre costruzioni",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/676"
+    },
+    {
+      "numero": "677",
+      "rubrica": "Omissione di lavori in edifici o costruzioni che minacciano rovina",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/677"
+    },
+    {
+      "numero": "678",
+      "rubrica": "Fabbricazione o commercio abusivi di materie esplodenti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/678"
+    },
+    {
+      "numero": "678-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/678-bis"
+    },
+    {
+      "numero": "679",
+      "rubrica": "Omessa denuncia di materie esplodenti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/679"
+    },
+    {
+      "numero": "679-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/679-bis"
+    },
+    {
+      "numero": "680",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/680"
+    },
+    {
+      "numero": "681",
+      "rubrica": "Apertura abusiva di luoghi di pubblico spettacolo o trattenimento",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/681"
+    },
+    {
+      "numero": "682",
+      "rubrica": "Ingresso arbitrario in luoghi, ove l'accesso e' vietato nell'interesse militare dello Stato",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/682"
+    },
+    {
+      "numero": "683",
+      "rubrica": "Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/683"
+    },
+    {
+      "numero": "684",
+      "rubrica": "Pubblicazione arbitraria di atti di un procedimento penale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/684"
+    },
+    {
+      "numero": "685",
+      "rubrica": "Indebita pubblicazione di notizie concernenti un procedimento penale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/685"
+    },
+    {
+      "numero": "686",
+      "rubrica": "Fabbricazione o commercio abusivi di liquori o droghe, o di sostanze destinate alla loro composizione",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/686"
+    },
+    {
+      "numero": "687",
+      "rubrica": "Consumo di bevande alcooliche in tempo di vendita non consentita",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/687"
+    },
+    {
+      "numero": "688",
+      "rubrica": "Ubriachezza",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/688"
+    },
+    {
+      "numero": "689",
+      "rubrica": "Somministrazione di bevande alcooliche a minori o a infermi di mente",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/689"
+    },
+    {
+      "numero": "690",
+      "rubrica": "Determinazione in altri dello stato di ubriachezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/690"
+    },
+    {
+      "numero": "691",
+      "rubrica": "Somministrazione di bevande alcooliche a persona in stato di manifesta ubriachezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/691"
+    },
+    {
+      "numero": "692",
+      "rubrica": "Detenzione di misure e pesi illegali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/692"
+    },
+    {
+      "numero": "693",
+      "rubrica": "Rifiuto di monete aventi corso legale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/693"
+    },
+    {
+      "numero": "694",
+      "rubrica": "Omessa consegna di monete riconosciute contraffatte",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/694"
+    },
+    {
+      "numero": "695",
+      "rubrica": "Fabbricazione o commercio non autorizzati di armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/695"
+    },
+    {
+      "numero": "696",
+      "rubrica": "Vendita ambulante di armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/696"
+    },
+    {
+      "numero": "697",
+      "rubrica": "Detenzione abusiva di armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/697"
+    },
+    {
+      "numero": "698",
+      "rubrica": "Omessa consegna di armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/698"
+    },
+    {
+      "numero": "699",
+      "rubrica": "Porto abusivo di armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/699"
+    },
+    {
+      "numero": "700",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/700"
+    },
+    {
+      "numero": "701",
+      "rubrica": "Misura di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/701"
+    },
+    {
+      "numero": "702",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/702"
+    },
+    {
+      "numero": "703",
+      "rubrica": "Accensioni ed esplosioni pericolose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/703"
+    },
+    {
+      "numero": "704",
+      "rubrica": "Armi",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/704"
+    },
+    {
+      "numero": "705",
+      "rubrica": "Commercio non autorizzato di cose preziose",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/705"
+    },
+    {
+      "numero": "706",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/706"
+    },
+    {
+      "numero": "707",
+      "rubrica": "Possesso ingiustificato di chiavi alterate o di grimaldelli",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/707"
+    },
+    {
+      "numero": "707-bis",
+      "rubrica": "Possesso ingiustificato di strumenti per il sondaggio del terreno o di apparecchiature per la rilevazione dei metalli",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/707-bis"
+    },
+    {
+      "numero": "708",
+      "rubrica": "Possesso ingiustificato di valori",
+      "sezione": "codice",
+      "stato": "dichiarato_incostituzionale",
+      "percorso": "codice/708"
+    },
+    {
+      "numero": "709",
+      "rubrica": "Omessa denuncia di cose provenienti da delitto",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/709"
+    },
+    {
+      "numero": "710",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/710"
+    },
+    {
+      "numero": "711",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/711"
+    },
+    {
+      "numero": "712",
+      "rubrica": "Acquisto di cose di sospetta provenienza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/712"
+    },
+    {
+      "numero": "713",
+      "rubrica": "Misura di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/713"
+    },
+    {
+      "numero": "714",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/714"
+    },
+    {
+      "numero": "715",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/715"
+    },
+    {
+      "numero": "716",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/716"
+    },
+    {
+      "numero": "717",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/717"
+    },
+    {
+      "numero": "718",
+      "rubrica": "Esercizio di giuochi d'azzardo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/718"
+    },
+    {
+      "numero": "719",
+      "rubrica": "Circostanze aggravanti",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/719"
+    },
+    {
+      "numero": "720",
+      "rubrica": "Partecipazione a giuochi d'azzardo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/720"
+    },
+    {
+      "numero": "721",
+      "rubrica": "Elementi essenziali del giuoco d'azzardo. Case da giuoco",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/721"
+    },
+    {
+      "numero": "722",
+      "rubrica": "Pena accessoria e misura di sicurezza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/722"
+    },
+    {
+      "numero": "723",
+      "rubrica": "Esercizio abusivo di un giuoco non d'azzardo",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/723"
+    },
+    {
+      "numero": "724",
+      "rubrica": "Bestemmia e manifestazioni oltraggiose verso i defunti",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/724"
+    },
+    {
+      "numero": "725",
+      "rubrica": "Commercio di scritti, disegni o altri oggetti contrari alla pubblica decenza",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/725"
+    },
+    {
+      "numero": "726",
+      "rubrica": "Atti contrari alla pubblica decenza. Turpiloquio",
+      "sezione": "codice",
+      "stato": "parzialmente_inapplicabile",
+      "percorso": "codice/726"
+    },
+    {
+      "numero": "727",
+      "rubrica": "Abbandono di animali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/727"
+    },
+    {
+      "numero": "727-bis",
+      "rubrica": "Uccisione, distruzione, cattura, prelievo, detenzione e commercio di esemplari di specie animali o vegetali selvatiche protette",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/727-bis"
+    },
+    {
+      "numero": "728",
+      "rubrica": "Trattamento idoneo a sopprimere la coscienza o la volonta' altrui",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/728"
+    },
+    {
+      "numero": "729",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/729"
+    },
+    {
+      "numero": "730",
+      "rubrica": "Somministrazione a minori di sostanze velenose o nocive",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/730"
+    },
+    {
+      "numero": "731",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/731"
+    },
+    {
+      "numero": "732",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/732"
+    },
+    {
+      "numero": "733",
+      "rubrica": "Danneggiamento al patrimonio archeologico, storico o artistico nazionale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/733"
+    },
+    {
+      "numero": "733-bis",
+      "rubrica": null,
+      "sezione": "codice",
+      "stato": "abrogato",
+      "percorso": "codice/733-bis"
+    },
+    {
+      "numero": "734",
+      "rubrica": "Distruzione o deturpamento di bellezze naturali",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/734"
+    },
+    {
+      "numero": "734-bis",
+      "rubrica": "Divulgazione delle generalita' o dell'immagine di persona offesa da atti di violenza sessuale",
+      "sezione": "codice",
+      "stato": "vigente",
+      "percorso": "codice/734-bis"
+    }
+  ]
+}

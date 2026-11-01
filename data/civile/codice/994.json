@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "994",
+    "rubrica": "Perimento delle mandre o dei greggi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art994"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'usufrutto e' stabilito sopra una mandra o un gregge, l'usufruttuario e' tenuto a surrogare gli animali periti, fino alla concorrente quantita' dei nati, dopo che la mandra o il gregge ha cominciato ad essere mancante del numero primitivo. Se la mandra o il gregge perisce interamente per causa non imputabile all'usufruttuario, questi non e' obbligato verso il proprietario che a rendere conto delle pelli o del loro valore.",
+    "con_marcatori": "Art. 994. (Perimento delle mandre o dei greggi). Se l'usufrutto e' stabilito sopra una mandra o un gregge, l'usufruttuario e' tenuto a surrogare gli animali periti, fino alla concorrente quantita' dei nati, dopo che la mandra o il gregge ha cominciato ad essere mancante del numero primitivo. Se la mandra o il gregge perisce interamente per causa non imputabile all'usufruttuario, questi non e' obbligato verso il proprietario che a rendere conto delle pelli o del loro valore.",
+    "caratteri": 429
+  },
+  "note": [],
+  "impronta": "sha256:82e82d6583520b5fb03bbdfc9223e085e1ccfbd0fbf905f7281a9ea4c3e8096a"
+}

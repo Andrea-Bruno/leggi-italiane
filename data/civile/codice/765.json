@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "765",
+    "rubrica": "Vendita del diritto ereditario fatta al coerede",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art765"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'azione di rescissione non e' ammessa contro la vendita del diritto ereditario fatta senza frode a uno dei coeredi, a suo rischio e pericolo, da parte degli altri coeredi o di uno di essi.",
+    "con_marcatori": "Art. 765. (Vendita del diritto ereditario fatta al coerede). L'azione di rescissione non e' ammessa contro la vendita del diritto ereditario fatta senza frode a uno dei coeredi, a suo rischio e pericolo, da parte degli altri coeredi o di uno di essi.",
+    "caratteri": 189
+  },
+  "note": [],
+  "impronta": "sha256:08d7e7f8b503459c7c1af2039bc70496882e6b3fcaa227c9b403f67fca4ed68c"
+}

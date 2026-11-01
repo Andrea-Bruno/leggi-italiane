@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2069",
+    "rubrica": "Efficacia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2069"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto collettivo deve contenere l'indicazione della categoria d'imprenditori e di prestatori di lavoro, ovvero delle imprese o dell'impresa, a cui si riferisce, e del territorio dove ha efficacia. In mancanza di tali indicazioni il contratto collettivo e' obbligatorio per tutti gli imprenditori e i prestatori di lavoro rappresentati dalle associazioni stipulanti.",
+    "con_marcatori": "Art. 2069. (Efficacia). Il contratto collettivo deve contenere l'indicazione della categoria d'imprenditori e di prestatori di lavoro, ovvero delle imprese o dell'impresa, a cui si riferisce, e del territorio dove ha efficacia. In mancanza di tali indicazioni il contratto collettivo e' obbligatorio per tutti gli imprenditori e i prestatori di lavoro rappresentati dalle associazioni stipulanti.",
+    "caratteri": 372
+  },
+  "note": [],
+  "impronta": "sha256:e6b9bde8134c3b969d2c8422bb10e866194e5137a79af713fab3d3ae6e4882b9"
+}

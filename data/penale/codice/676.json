@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "676",
+    "rubrica": "Rovina di edifici o di altre costruzioni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art676"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque ha avuto parte nel progetto o nei lavori concernenti un edificio o un'altra costruzione, che poi, per sua colpa, rovini, e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila. Se dal fatto e' derivato pericolo alle persone, la pena e' dell'arresto fino a sei mesi ovvero dell'ammenda non inferiore a lire tremila.",
+    "con_marcatori": "Art. 676. (Rovina di edifici o di altre costruzioni) Chiunque ha avuto parte nel progetto o nei lavori concernenti un edificio o un'altra costruzione, che poi, per sua colpa, rovini, ((e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila)). Se dal fatto e' derivato pericolo alle persone, la pena e' dell'arresto fino a sei mesi ovvero dell'ammenda non inferiore a lire tremila.",
+    "caratteri": 368
+  },
+  "note": [],
+  "impronta": "sha256:d8a091b3cda96e166ec9c37cd199fd6f61d4ced724905da6600b6fa944847452"
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2376",
+    "rubrica": "Assemblee speciali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2376"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se esistono diverse categorie di azioni o strumenti finanziari che conferiscono diritti amministrativi, le deliberazioni dell'assemblea, che pregiudicano i diritti di una di esse, devono essere approvate anche dall'assemblea speciale degli appartenenti alla categoria interessata. Alle assemblee speciali si applicano le disposizioni relative alle assemblee straordinarie. Quando le azioni o gli strumenti finanziari sono ammessi al sistema di gestione accentrata la legittimazione all'intervento e al voto nella relativa assemblea e' disciplinata dalle leggi speciali.",
+    "con_marcatori": "Art. 2376. (Assemblee speciali). Se esistono diverse categorie di azioni o strumenti finanziari che conferiscono diritti amministrativi, le deliberazioni dell'assemblea, che pregiudicano i diritti di una di esse, devono essere approvate anche dall'assemblea speciale degli appartenenti alla categoria interessata. Alle assemblee speciali si applicano le disposizioni relative alle assemblee straordinarie. ((Quando le azioni o gli strumenti finanziari sono ammessi al sistema di gestione accentrata la legittimazione all'intervento e al voto nella relativa assemblea e' disciplinata dalle leggi speciali.))((207))",
+    "caratteri": 569
+  },
+  "note": [
+    {
+      "numero": 207,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 giugno 2012, n. 91",
+          "urn": "urn:nir:stato:decretoLegislativo:2012-06-18;91",
+          "data": "2012-06-18",
+          "numero": "91",
+          "data_gazzetta": "2012-07-02"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 giugno 2012, n. 91 ha disposto (con l'art. 5, comma 1) che \"Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013.\""
+    }
+  ],
+  "impronta": "sha256:9f9480ef9a0776f5fa59ed4a5c99f86d25accbd8f8e412e3b49718d07e6929b7"
+}

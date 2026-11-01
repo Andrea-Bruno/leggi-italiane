@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2238",
+    "rubrica": "Rinvio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2238"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'esercizio della professione costituisce elemento di un'attivita' organizzata in forma d'impresa, si applicano anche le disposizioni del titolo II. In ogni caso, se l'esercente una professione intellettuale impiega sostituti o ausiliari, si applicano le disposizioni delle sezioni II, III e IV del capo I del titolo II.",
+    "con_marcatori": "Art. 2238. (Rinvio). Se l'esercizio della professione costituisce elemento di un'attivita' organizzata in forma d'impresa, si applicano anche le disposizioni del titolo II. In ogni caso, se l'esercente una professione intellettuale impiega sostituti o ausiliari, si applicano le disposizioni delle sezioni II, III e IV del capo I del titolo II.",
+    "caratteri": 323
+  },
+  "note": [],
+  "impronta": "sha256:283d2618a5f7bb3fa061f3edb1c0feba122eda7f2d546eb44b6ec4a706f72faa"
+}

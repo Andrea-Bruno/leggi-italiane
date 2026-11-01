@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1663",
+    "rubrica": "Denuncia dei difetti della materia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1663"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'appaltatore e' tenuto a dare pronto avviso al committente dei difetti della materia da questo fornita, se si scoprono nel corso dell'opera e possono comprometterne la regolare esecuzione.",
+    "con_marcatori": "Art. 1663. (Denuncia dei difetti della materia). L'appaltatore e' tenuto a dare pronto avviso al committente dei difetti della materia da questo fornita, se si scoprono nel corso dell'opera e possono comprometterne la regolare esecuzione.",
+    "caratteri": 189
+  },
+  "note": [],
+  "impronta": "sha256:4bccac5b9cf82cb1b1897e5d3bd930d20ce1ecbee46dc9dc7fea0776582f7e9a"
+}

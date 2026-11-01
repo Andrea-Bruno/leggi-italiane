@@ -1,0 +1,98 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "562",
+    "rubrica": "Pena accessoria e sanzione civile",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art562"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 46,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La condanna per alcuno dei delitti preveduti dagli articoli 556 e 560 importa la perdita dell'autorita' maritale. Con la sentenza di condanna per adulterio o per concubinato il giudice puo', sull'istanza del coniuge offeso, ordinare i provvedimenti temporanei di indole civile, che ritenga urgenti nell'interesse del coniuge offeso e della prole. Tali provvedimenti sono immediatamente eseguibili, ma cessano di aver effetto se, entro tre mesi dalla sentenza di condanna, divenuta irrevocabile, non e' presentata dinanzi al giudice civile domanda di separazione personale.",
+    "con_marcatori": "Art. 562. (Pena accessoria e sanzione civile) La condanna per alcuno dei delitti preveduti dagli articoli 556 e 560 importa la perdita dell'autorita' maritale. ((46)) Con la sentenza di condanna per adulterio o per concubinato il giudice puo', sull'istanza del coniuge offeso, ordinare i provvedimenti temporanei di indole civile, che ritenga urgenti nell'interesse del coniuge offeso e della prole. ((46)) Tali provvedimenti sono immediatamente eseguibili, ma cessano di aver effetto se, entro tre mesi dalla sentenza di condanna, divenuta irrevocabile, non e' presentata dinanzi al giudice civile domanda di separazione personale. ((46))",
+    "caratteri": 572
+  },
+  "note": [
+    {
+      "numero": 46,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 2",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 562, primo comma del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 562, commi secondo",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "terzo del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1969-12-03",
+        "numero": "147"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 27 novembre - 3 dicembre 1969, n. 147 (in G.U. 1ª s.s. 10/12/1969, n. 311), ha dichiarato, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, la illegittimita' costituzionale dell'art. 562, primo comma del Codice penale, nella parte relativa alla perdita dell'autorita' maritale per effetto della condanna per il delitto di concubinato, e dell'art. 562, commi secondo e terzo del Codice penale."
+    }
+  ],
+  "impronta": "sha256:e391caf1e829f1a92304966705dbb7bcaa4cce9280d6014471417d51ecfa03c7"
+}

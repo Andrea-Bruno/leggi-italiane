@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1432",
+    "rubrica": "Mantenimento del contratto rettificato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1432"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La parte in errore non puo' domandare l'annullamento del contratto se, prima che ad essa possa derivarne pregiudizio, l'altra offre di eseguirlo in modo conforme al contenuto e alle modalita' del contratto che quella intendeva concludere.",
+    "con_marcatori": "Art. 1432. (Mantenimento del contratto rettificato). La parte in errore non puo' domandare l'annullamento del contratto se, prima che ad essa possa derivarne pregiudizio, l'altra offre di eseguirlo in modo conforme al contenuto e alle modalita' del contratto che quella intendeva concludere.",
+    "caratteri": 238
+  },
+  "note": [],
+  "impronta": "sha256:0f864a89d9bc0b591a6cf4fce519528e08f1a2e42b87677264bf0f44c62d45a7"
+}

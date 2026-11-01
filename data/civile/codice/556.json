@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "556",
+    "rubrica": "Determinazione della porzione disponibile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art556"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per determinare l'ammontare della quota di cui il defunto poteva disporre si forma una massa di tutti i beni che appartenevano al defunto al tempo della morte, detraendone i debiti. Si riuniscono quindi fittiziamente i beni di cui sia stato disposto a titolo di donazione, secondo il loro valore determinato in base alle regole dettate negli articoli 747 a 750, e sull'asse cosi' formato si calcola la quota di cui il defunto poteva disporre.",
+    "con_marcatori": "Art. 556. (Determinazione della porzione disponibile). Per determinare l'ammontare della quota di cui il defunto poteva disporre si forma una massa di tutti i beni che appartenevano al defunto al tempo della morte, detraendone i debiti. Si riuniscono quindi fittiziamente i beni di cui sia stato disposto a titolo di donazione, secondo il loro valore determinato in base alle regole dettate negli articoli 747 a 750, e sull'asse cosi' formato si calcola la quota di cui il defunto poteva disporre.",
+    "caratteri": 442
+  },
+  "note": [],
+  "impronta": "sha256:ee50f8a43aa98c87557ec518fdd254e81c9e72fd0d4edd0d5c8e74aaa59dffe2"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2125",
+    "rubrica": "Patto di non concorrenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2125"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patto con il quale si limita lo svolgimento dell'attivita' del prestatore di lavoro, per il tempo successivo alla cessazione del contratto, e' nullo se non risulta da atto scritto, se non e' pattuito un corrispettivo a favore del prestatore di lavoro e se il vincolo non e' contenuto entro determinati limiti di oggetto, di tempo e di luogo. La durata del vincolo non puo' essere superiore a cinque anni, se si tratta di dirigenti, e a tre anni negli altri casi. Se e' pattuita una durata maggiore, essa si riduce nella misura indicata dal comma precedente.",
+    "con_marcatori": "Art. 2125. (Patto di non concorrenza). Il patto con il quale si limita lo svolgimento dell'attivita' del prestatore di lavoro, per il tempo successivo alla cessazione del contratto, e' nullo se non risulta da atto scritto, se non e' pattuito un corrispettivo a favore del prestatore di lavoro e se il vincolo non e' contenuto entro determinati limiti di oggetto, di tempo e di luogo. La durata del vincolo non puo' essere superiore a cinque anni, se si tratta di dirigenti, e a tre anni negli altri casi. Se e' pattuita una durata maggiore, essa si riduce nella misura indicata dal comma precedente.",
+    "caratteri": 560
+  },
+  "note": [],
+  "impronta": "sha256:8ec2a676011d67fbc3ddd896e7c2ca5ed9ef1dba60f88c5805cfffdc2a54d3ae"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "877",
+    "rubrica": "Costruzioni in aderenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art877"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il vicino, senza chiedere la comunione del muro posto sul confine, puo' costruire sul confine stesso in aderenza, ma senza appoggiare la sua fabbrica a quella preesistente. Questa norma si applica anche nel caso previsto dall'art. 875; il vicino in tal caso deve pagare soltanto il valore del suolo.",
+    "con_marcatori": "Art. 877. (Costruzioni in aderenza). Il vicino, senza chiedere la comunione del muro posto sul confine, puo' costruire sul confine stesso in aderenza, ma senza appoggiare la sua fabbrica a quella preesistente. Questa norma si applica anche nel caso previsto dall'art. 875; il vicino in tal caso deve pagare soltanto il valore del suolo.",
+    "caratteri": 299
+  },
+  "note": [],
+  "impronta": "sha256:aa26b53dcc0bab9140a392e899b1d9959eba9e4cf4418860f84227f7942cdf18"
+}

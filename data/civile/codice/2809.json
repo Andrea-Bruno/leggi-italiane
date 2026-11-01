@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2809",
+    "rubrica": "Specialita' e indivisibilita' dell'ipoteca",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2809"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ipoteca deve essere iscritta su beni specialmente indicati e per una somma determinata in danaro. Essa e' indivisibile e sussiste per intero sopra tutti i beni vincolati, sopra ciascuno di essi e sopra ogni loro parte.",
+    "con_marcatori": "Art. 2809. (Specialita' e indivisibilita' dell'ipoteca). L'ipoteca deve essere iscritta su beni specialmente indicati e per una somma determinata in danaro. Essa e' indivisibile e sussiste per intero sopra tutti i beni vincolati, sopra ciascuno di essi e sopra ogni loro parte.",
+    "caratteri": 220
+  },
+  "note": [],
+  "impronta": "sha256:461ecfd659ca6a50458d2eb0e48ae28e5035074a8bd486bf4864ccc40efe8126"
+}

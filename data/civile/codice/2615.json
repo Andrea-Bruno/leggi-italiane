@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2615",
+    "rubrica": "Responsabilita' verso i terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2615"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per le obbligazioni assunte in nome del consorzio dalle persone che ne hanno la rappresentanza, i terzi possono far valere i loro diritti esclusivamente sul fondo consortile. Per le obbligazioni assunte dagli organi del consorzio per conto dei singoli consorziati rispondono questi ultimi solidalmente col fondo consortile. In caso d'insolvenza nei rapporti tra i consorziati il debito dell'insolvente si ripartisce tra tutti in proporzione delle quote.",
+    "con_marcatori": "Art. 2615. (Responsabilita' verso i terzi). ((Per le obbligazioni assunte in nome del consorzio dalle persone che ne hanno la rappresentanza, i terzi possono far valere i loro diritti esclusivamente sul fondo consortile)). Per le obbligazioni assunte dagli organi del consorzio per conto dei singoli consorziati rispondono questi ultimi solidalmente col fondo consortile. In caso d'insolvenza nei rapporti tra i consorziati il debito dell'insolvente si ripartisce tra tutti in proporzione delle quote.",
+    "caratteri": 453
+  },
+  "note": [],
+  "impronta": "sha256:6ff3b728eeba2f7518a4303f5719c066f5201918d53271e4e1cfed7ae874dba9"
+}

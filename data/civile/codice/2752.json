@@ -1,0 +1,173 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2752",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2752"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 37). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 37"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 217,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Crediti per tributi diretti dello Stato, per imposta sul valore aggiunto e per tributi degli enti locali. Hanno privilegio generale sui mobili del debitore i crediti dello Stato per le imposte e le sanzioni dovute secondo le norme in materia di imposta sul reddito delle persone fisiche, imposta sul reddito delle persone giuridiche, imposta sul reddito delle societa', imposta regionale sulle attivita' produttive ed imposta locale sui redditi. COMMA SOPPRESSO DAL D.LGS. 26 FEBBRAIO 1999, N. 46. Hanno altresi' privilegio generale sui mobili del debitore i crediti dello Stato per le imposte, le pene pecuniarie e le soprattasse dovute secondo le norme relative all'imposta sul valore aggiunto. Hanno lo stesso privilegio, subordinatamente a quello dello Stato, i crediti per le imposte, tasse e tributi dei comuni e delle province previsti dalla legge per la finanza locale e dalle norme relative all'imposta comunale sulla pubblicita' e ai diritti sulle pubbliche affissioni.",
+    "con_marcatori": "Art. 2752. Crediti per tributi diretti dello Stato, per imposta sul valore aggiunto e per tributi degli enti locali. Hanno privilegio generale sui mobili del debitore i crediti dello Stato per le imposte e le sanzioni dovute secondo le norme in materia di imposta sul reddito delle persone fisiche, imposta sul reddito delle persone giuridiche, imposta sul reddito delle societa', imposta regionale sulle attivita' produttive ed imposta locale sui redditi. (197) (217) COMMA SOPPRESSO DAL D.LGS. 26 FEBBRAIO 1999, N. 46. Hanno altresi' privilegio generale sui mobili del debitore i crediti dello Stato per le imposte, le pene pecuniarie e le soprattasse dovute secondo le norme relative all'imposta sul valore aggiunto. Hanno lo stesso privilegio, subordinatamente a quello dello Stato, i crediti per le imposte, tasse e tributi dei comuni e delle province previsti dalla legge per la finanza locale e dalle norme relative all'imposta comunale sulla pubblicita' e ai diritti sulle pubbliche affissioni. (202) ((352))",
+    "caratteri": 979
+  },
+  "note": [
+    {
+      "numero": 197,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 6 luglio 2011, n. 98",
+          "urn": "urn:nir:stato:decretoLegge:2011-07-06;98",
+          "data": "2011-07-06",
+          "numero": "98",
+          "data_gazzetta": "2011-07-06"
+        },
+        {
+          "denominazione": "L. 15 luglio 2011, n. 111",
+          "urn": "urn:nir:stato:legge:2011-07-15;111",
+          "data": "2011-07-15",
+          "numero": "111",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 2011, n. 111, ha disposto (con l'art. 23, comma 37) che \"La disposizione si osserva anche per i crediti sorti anteriormente all'entrata in vigore del presente decreto\"."
+    },
+    {
+      "numero": 217,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 37"
+      ],
+      "atti": [
+        {
+          "denominazione": "D.L. 6 luglio 2011, n. 98",
+          "urn": "urn:nir:stato:decretoLegge:2011-07-06;98",
+          "data": "2011-07-06",
+          "numero": "98",
+          "data_gazzetta": "2011-07-06"
+        },
+        {
+          "denominazione": "L. 15 luglio 2011, n. 111",
+          "urn": "urn:nir:stato:legge:2011-07-15;111",
+          "data": "2011-07-15",
+          "numero": "111",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2013-07-04",
+        "numero": "170"
+      },
+      "testo": "Successivamente la Corte Costituzionale, con sentenza 1 - 4 luglio 2013, n. 170 (in G.U. 1a s.s. 10/7/2013, n. 28), ha dichiarato l'illegittimita' costituzionale dell'art. 23, comma 37, ultimo periodo del D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 2011, n. 111, che dispone quanto segue: \"La disposizione si osserva anche per i crediti sorti anteriormente all'entrata in vigore del presente decreto\"."
+    },
+    {
+      "numero": 202,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 6 dicembre 2011, n. 201",
+          "urn": "urn:nir:stato:decretoLegge:2011-12-06;201",
+          "data": "2011-12-06",
+          "numero": "201",
+          "data_gazzetta": "2011-12-06"
+        },
+        {
+          "denominazione": "L. 22 dicembre 2011, n. 214",
+          "urn": "urn:nir:stato:legge:2011-12-22;214",
+          "data": "2011-12-22",
+          "numero": "214",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "quarto comma dell'articolo 2752 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 6 dicembre 2011, n. 201, convertito con modificazioni dalla L. 22 dicembre 2011, n. 214, ha disposto (con l'art. 13, comma 13) che \"Ai fini del quarto comma dell'articolo 2752 del codice civile il riferimento alla \"legge per la finanza locale\" si intende effettuato a tutte disposizioni che disciplinano i singoli tributi comunali e provinciali\"."
+    },
+    {
+      "numero": 352,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 6 dicembre 2011, n. 201",
+          "urn": "urn:nir:stato:decretoLegge:2011-12-06;201",
+          "data": "2011-12-06",
+          "numero": "201",
+          "data_gazzetta": "2011-12-06"
+        },
+        {
+          "denominazione": "L. 22 dicembre 2011, n. 214",
+          "urn": "urn:nir:stato:legge:2011-12-22;214",
+          "data": "2011-12-22",
+          "numero": "214",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "quarto comma dell'articolo 2752 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.Lgs. 7 agosto 2026, n. 147",
+          "urn": "urn:nir:stato:decretoLegislativo:2026-08-07;147",
+          "data": "2026-08-07",
+          "numero": "147",
+          "data_gazzetta": "2026-08-11"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 6 dicembre 2011, n. 201, convertito con modificazioni dalla L. 22 dicembre 2011, n. 214, come modificato dal D.Lgs. 7 agosto 2026, n. 147, ha disposto (con l'art. 13, comma 13) che \"Ai fini del quarto comma dell'articolo 2752 del codice civile il riferimento alla \"legge per la finanza locale\" si intende effettuato a tutte disposizioni che disciplinano i singoli tributi delle regioni e degli enti locali\"."
+    }
+  ],
+  "impronta": "sha256:777bb41af85bfc8f7a45a1d1edcc7b8916e9db0c3446b9a102fa367061699f80"
+}

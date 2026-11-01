@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1521",
+    "rubrica": "Vendita a prova",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1521"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La vendita a prova si presume fatta sotto la condizione sospensiva che la cosa abbia le qualita' pattuite o sia idonea all'uso a cui e' destinata. La prova si deve eseguire nel termine e secondo le modalita' stabiliti dal contratto o dagli usi.",
+    "con_marcatori": "Art. 1521. (Vendita a prova). La vendita a prova si presume fatta sotto la condizione sospensiva che la cosa abbia le qualita' pattuite o sia idonea all'uso a cui e' destinata. La prova si deve eseguire nel termine e secondo le modalita' stabiliti dal contratto o dagli usi.",
+    "caratteri": 244
+  },
+  "note": [],
+  "impronta": "sha256:966005d30a49d66923cee21ea96edd3e44e11a9c3703a49f746ea0885ec3e6b5"
+}

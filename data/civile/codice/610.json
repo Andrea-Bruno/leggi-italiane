@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "610",
+    "rubrica": "Termine di efficacia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art610"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento ricevuto nel modo indicato dall'articolo precedente perde la sua efficacia tre mesi dopo la cessazione della causa che ha impedito al testatore di valersi delle forme ordinarie. Se il testatore muore nell'intervallo, il testamento deve essere depositato, appena e' possibile, nell'archivio notarile del luogo in cui e' stato ricevuto.",
+    "con_marcatori": "Art. 610. (Termine di efficacia). Il testamento ricevuto nel modo indicato dall'articolo precedente perde la sua efficacia tre mesi dopo la cessazione della causa che ha impedito al testatore di valersi delle forme ordinarie. Se il testatore muore nell'intervallo, il testamento deve essere depositato, appena e' possibile, nell'archivio notarile del luogo in cui e' stato ricevuto.",
+    "caratteri": 348
+  },
+  "note": [],
+  "impronta": "sha256:46f807818add5967354517e3700d52aee85c3932838279556b85455f9c4fc3bf"
+}

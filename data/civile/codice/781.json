@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "781",
+    "rubrica": "Donazione tra coniugi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art781"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 31,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "I coniugi non possono, durante il matrimonio, farsi l'uno all'altro alcuna liberalita', salve quelle conformi agli usi.",
+    "con_marcatori": "Art. 781. (Donazione tra coniugi). I coniugi non possono, durante il matrimonio, farsi l'uno all'altro alcuna liberalita', salve quelle conformi agli usi.((31))",
+    "caratteri": 119
+  },
+  "note": [
+    {
+      "numero": 31,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articolo 781 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1973-06-27",
+        "numero": "91"
+      },
+      "testo": "La Corte Costituzionale con sentenza 14 - 27 giugno 1973 n. 91 (in G.U. 1ª s.s. 04/07/1973 n. 169) ha dichiarato \"l'illegittimita' costituzionale dell'articolo 781 del codice civile.\""
+    }
+  ],
+  "impronta": "sha256:f9f3aa5bdc570ea2389eccb50282bafa2a979fb616baaa3059ae437dbf520e29"
+}

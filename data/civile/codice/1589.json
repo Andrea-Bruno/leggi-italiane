@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1589",
+    "rubrica": "Incendio di cosa assicurata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1589"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la cosa distrutta o deteriorata per incendio era stata assicurata dal locatore o per conto di questo, la responsabilita' del conduttore verso il locatore e' limitata alla differenza tra l'indennizzo corrisposto dall'assicuratore e il danno effettivo. Quando si tratta di cosa mobile stimata e l'assicurazione e' stata fatta per valore uguale alla stima, cessa ogni responsabilita' del conduttore in confronto del locatore, se questi e' indennizzato dall'assicuratore. Sono salve in ogni caso le norme concernenti il diritto di surrogazione dell'assicuratore.",
+    "con_marcatori": "Art. 1589. (Incendio di cosa assicurata). Se la cosa distrutta o deteriorata per incendio era stata assicurata dal locatore o per conto di questo, la responsabilita' del conduttore verso il locatore e' limitata alla differenza tra l'indennizzo corrisposto dall'assicuratore e il danno effettivo. Quando si tratta di cosa mobile stimata e l'assicurazione e' stata fatta per valore uguale alla stima, cessa ogni responsabilita' del conduttore in confronto del locatore, se questi e' indennizzato dall'assicuratore. Sono salve in ogni caso le norme concernenti il diritto di surrogazione dell'assicuratore.",
+    "caratteri": 561
+  },
+  "note": [],
+  "impronta": "sha256:d07f7396fc18c90d005f2dd062fc4ec6953ce9b64b851598c8da6ffcb7f9f846"
+}

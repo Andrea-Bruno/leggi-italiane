@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-quater",
+    "rubrica": "Disastro ambientale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori dai casi previsti dall'articolo 434, chiunque abusivamente cagiona un disastro ambientale e' punito con la reclusione da cinque a quindici anni. Costituiscono disastro ambientale alternativamente: 1) l'alterazione irreversibile dell'equilibrio di un ecosistema; 2) l'alterazione dell'equilibrio di un ecosistema la cui eliminazione risulti particolarmente onerosa e conseguibile solo con provvedimenti eccezionali; 3) l'offesa alla pubblica incolumita' in ragione della rilevanza del fatto per l'estensione della compromissione o dei suoi effetti lesivi ovvero per il numero delle persone offese o esposte a pericolo. Quando il disastro e' prodotto in un'area naturale protetta o sottoposta a vincolo paesaggistico, ambientale, storico, artistico, architettonico o archeologico, ovvero in danno di specie animali o vegetali protette, la pena e' aumentata da un terzo alla meta'.",
+    "con_marcatori": "Art. 452-quater. (Disastro ambientale). Fuori dai casi previsti dall'articolo 434, chiunque abusivamente cagiona un disastro ambientale e' punito con la reclusione da cinque a quindici anni. Costituiscono disastro ambientale alternativamente: 1) l'alterazione irreversibile dell'equilibrio di un ecosistema; 2) l'alterazione dell'equilibrio di un ecosistema la cui eliminazione risulti particolarmente onerosa e conseguibile solo con provvedimenti eccezionali; 3) l'offesa alla pubblica incolumita' in ragione della rilevanza del fatto per l'estensione della compromissione o dei suoi effetti lesivi ovvero per il numero delle persone offese o esposte a pericolo. ((Quando il disastro e' prodotto in un'area naturale protetta o sottoposta a vincolo paesaggistico, ambientale, storico, artistico, architettonico o archeologico, ovvero in danno di specie animali o vegetali protette, la pena e' aumentata da un terzo alla meta')).",
+    "caratteri": 884
+  },
+  "note": [],
+  "impronta": "sha256:4cad0cc4186b35628aa9254ed749904c8b4bc5443c0f51ec3d04c9deb1aa1ce8"
+}

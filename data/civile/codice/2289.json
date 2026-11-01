@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2289",
+    "rubrica": "Liquidazione della quota del socio uscente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2289"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi in cui il rapporto sociale si scioglie limitatamente a un socio, questi o i suoi eredi hanno diritto soltanto ad una somma di danaro che rappresenti il valore della quota. La liquidazione della quota e' fatta in base alla situazione patrimoniale della societa' nel giorno in cui si verifica lo scioglimento. Se vi sono operazioni in corso, il socio o i suoi eredi partecipano agli utili e alle perdite inerenti alle operazioni medesime. Salvo quanto e' disposto nell'art. 2270, il pagamento della quota spettante al socio deve essere fatto entro sei mesi dal giorno in cui si verifica lo scioglimento del rapporto.",
+    "con_marcatori": "Art. 2289. (Liquidazione della quota del socio uscente). Nei casi in cui il rapporto sociale si scioglie limitatamente a un socio, questi o i suoi eredi hanno diritto soltanto ad una somma di danaro che rappresenti il valore della quota. La liquidazione della quota e' fatta in base alla situazione patrimoniale della societa' nel giorno in cui si verifica lo scioglimento. Se vi sono operazioni in corso, il socio o i suoi eredi partecipano agli utili e alle perdite inerenti alle operazioni medesime. Salvo quanto e' disposto nell'art. 2270, il pagamento della quota spettante al socio deve essere fatto entro sei mesi dal giorno in cui si verifica lo scioglimento del rapporto.",
+    "caratteri": 623
+  },
+  "note": [],
+  "impronta": "sha256:6bb37ae119242ee68641aedabd01852e2beb26e7d054281a723e5518820deada"
+}

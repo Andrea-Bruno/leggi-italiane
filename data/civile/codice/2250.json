@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2250",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2250"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Indicazione negli atti e nella corrispondenza Negli atti e nella corrispondenza delle societa' soggette all'obbligo dell'iscrizione nel registro delle imprese devono essere indicati la sede della societa' e lo ufficio del registro delle imprese presso il quale questa e' iscritta e il numero d'iscrizione. Il capitale delle societa' per azioni, in accomandita per azioni e a responsabilita' limitata deve essere negli atti e nella corrispondenza indicato secondo la somma effettivamente versata e quale risulta esistente dallo ultimo bilancio. Dopo lo scioglimento delle societa' previste dal primo comma deve essere espressamente indicato negli atti e nella corrispondenza che la societa' e' in liquidazione. Negli atti e nella corrispondenza delle societa' per azioni ed a responsabilita' limitata deve essere indicato se queste hanno un unico socio. Gli atti delle societa` costituite secondo uno dei tipi regolati nei capi V, VI e VII del presente titolo, per i quali e` obbligatoria l'iscrizione o il deposito, possono essere altresi' pubblicati in apposita sezione del registro delle imprese in altra lingua ufficiale delle Comunita` europee, con traduzione giurata di un esperto. In caso di discordanza con gli atti pubblicati in lingua italiana, quelli pubblicati in altra lingua ai sensi del quinto comma non possono essere opposti ai terzi, ma questi possono avvalersene, salvo che la societa` dimostri che essi erano a conoscenza della loro versione in lingua italiana. Le societa` di cui al quinto comma che dispongono di uno spazio elettronico destinato alla comunicazione collegato ad una rete telematica ad accesso pubblico forniscono, attraverso tale mezzo, tutte le informazioni di cui al primo, secondo, terzo e quarto comma.",
+    "con_marcatori": "Art. 2250. Indicazione negli atti e nella corrispondenza Negli atti e nella corrispondenza delle societa' soggette all'obbligo dell'iscrizione nel registro delle imprese devono essere indicati la sede della societa' e lo ufficio del registro delle imprese presso il quale questa e' iscritta e il numero d'iscrizione. Il capitale delle societa' per azioni, in accomandita per azioni e a responsabilita' limitata deve essere negli atti e nella corrispondenza indicato secondo la somma effettivamente versata e quale risulta esistente dallo ultimo bilancio. Dopo lo scioglimento delle societa' previste dal primo comma deve essere espressamente indicato negli atti e nella corrispondenza che la societa' e' in liquidazione. Negli atti e nella corrispondenza delle societa' per azioni ed a responsabilita' limitata deve essere indicato se queste hanno un unico socio. ((Gli atti delle societa` costituite secondo uno dei tipi regolati nei capi V, VI e VII del presente titolo, per i quali e` obbligatoria l'iscrizione o il deposito, possono essere altresi' pubblicati in apposita sezione del registro delle imprese in altra lingua ufficiale delle Comunita` europee, con traduzione giurata di un esperto. In caso di discordanza con gli atti pubblicati in lingua italiana, quelli pubblicati in altra lingua ai sensi del quinto comma non possono essere opposti ai terzi, ma questi possono avvalersene, salvo che la societa` dimostri che essi erano a conoscenza della loro versione in lingua italiana. Le societa` di cui al quinto comma che dispongono di uno spazio elettronico destinato alla comunicazione collegato ad una rete telematica ad accesso pubblico forniscono, attraverso tale mezzo, tutte le informazioni di cui al primo, secondo, terzo e quarto comma)).",
+    "caratteri": 1743
+  },
+  "note": [],
+  "impronta": "sha256:46ace79c4c7d667a502150e87690818e3328dbf9a27ecfbc0c5b1a48a1a42943"
+}

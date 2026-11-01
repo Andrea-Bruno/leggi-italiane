@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1977",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1977"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La cessione dei beni ai creditori e' il contratto col quale il debitore incarica i suoi creditori o alcuni di essi di liquidare tutte o alcune sue attivita' e di ripartirne tra loro il ricavato in soddisfacimento dei loro crediti.",
+    "con_marcatori": "Art. 1977. (Nozione). La cessione dei beni ai creditori e' il contratto col quale il debitore incarica i suoi creditori o alcuni di essi di liquidare tutte o alcune sue attivita' e di ripartirne tra loro il ricavato in soddisfacimento dei loro crediti.",
+    "caratteri": 230
+  },
+  "note": [],
+  "impronta": "sha256:1e71269e55e4489d964d94207bf0db9a81158d8135a1471dc48e5dfd9670f169"
+}

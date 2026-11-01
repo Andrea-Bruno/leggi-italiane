@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2204",
+    "rubrica": "Poteri dell'institore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2204"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'institore puo' compiere tutti gli atti pertinenti all'esercizio dell'impresa a cui e' preposto, salve le limitazioni contenute nella procura. Tuttavia non puo' alienare o ipotecare i beni immobili del preponente, se non e' stato a cio' espressamente autorizzato. L'institore puo' stare in giudizio in nome del preponente per le obbligazioni dipendenti da atti compiuti nell'esercizio dell'impresa a cui e' preposto.",
+    "con_marcatori": "Art. 2204. (Poteri dell'institore). L'institore puo' compiere tutti gli atti pertinenti all'esercizio dell'impresa a cui e' preposto, salve le limitazioni contenute nella procura. Tuttavia non puo' alienare o ipotecare i beni immobili del preponente, se non e' stato a cio' espressamente autorizzato. L'institore puo' stare in giudizio in nome del preponente per le obbligazioni dipendenti da atti compiuti nell'esercizio dell'impresa a cui e' preposto.",
+    "caratteri": 417
+  },
+  "note": [],
+  "impronta": "sha256:ca5fc3a560ace3e49f552d693bb19a7dbda31c9d8350fc947875df675d698508"
+}

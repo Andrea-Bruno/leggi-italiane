@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "369",
+    "rubrica": "Autocalunnia",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art369"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, mediante dichiarazione ad alcuna delle Autorita' indicate nell'articolo precedente, anche se fatta con scritto anonimo o sotto falso nome, ovvero mediante confessione innanzi all'Autorita' giudiziaria, incolpa se' stesso di un reato che egli sa non avvenuto, o di un reato commesso da altri, e' punito con la reclusione da uno a tre anni.",
+    "con_marcatori": "Art. 369. (Autocalunnia) Chiunque, mediante dichiarazione ad alcuna delle Autorita' indicate nell'articolo precedente, anche se fatta con scritto anonimo o sotto falso nome, ovvero mediante confessione innanzi all'Autorita' giudiziaria, incolpa se' stesso di un reato che egli sa non avvenuto, o di un reato commesso da altri, e' punito con la reclusione da uno a tre anni.",
+    "caratteri": 348
+  },
+  "note": [],
+  "impronta": "sha256:79461c4ab5c411d7c8214d996ec08929d0bb35c3d409bff1decb49aa0b3ea736"
+}

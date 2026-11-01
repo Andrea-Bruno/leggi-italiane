@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "170",
+    "rubrica": "Estinzione di un reato che sia presupposto, elemento costitutivo o circostanza aggravante di un altro reato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art170"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando un reato e' il presupposto di un altro reato, la causa che lo estingue non si estende all'altro reato. La causa estintiva di un reato, che e' elemento costitutivo o circostanza aggravante di un reato complesso, non si estende al reato complesso. L'estinzione di taluno fra piu' reati connessi non esclude, per gli altri, l'aggravamento di pena derivante dalla connessione.",
+    "con_marcatori": "Art. 170. (Estinzione di un reato che sia presupposto, elemento costitutivo o circostanza aggravante di un altro reato) Quando un reato e' il presupposto di un altro reato, la causa che lo estingue non si estende all'altro reato. La causa estintiva di un reato, che e' elemento costitutivo o circostanza aggravante di un reato complesso, non si estende al reato complesso. L'estinzione di taluno fra piu' reati connessi non esclude, per gli altri, l'aggravamento di pena derivante dalla connessione.",
+    "caratteri": 379
+  },
+  "note": [],
+  "impronta": "sha256:ec665b1189da38d3c4c36bb63ed88b42d518b099d25b6064b839fc03e79c51af"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2493",
+    "rubrica": "Approvazione tacita del bilancio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2493"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Decorso il termine di novanta giorni senza che siano stati proposti reclami, il bilancio finale di liquidazione s'intende approvato, e i liquidatori, salvi i loro obblighi relativi alla distribuzione dell'attivo risultante dal bilancio, sono liberati di fronte ai soci. Indipendentemente dalla decorrenza del termine, la quietanza, rilasciata senza riserve all'atto del pagamento dell'ultima quota di riparto, importa approvazione del bilancio.",
+    "con_marcatori": "Art. 2493. (( (Approvazione tacita del bilancio).)) ((Decorso il termine di novanta giorni senza che siano stati proposti reclami, il bilancio finale di liquidazione s'intende approvato, e i liquidatori, salvi i loro obblighi relativi alla distribuzione dell'attivo risultante dal bilancio, sono liberati di fronte ai soci. Indipendentemente dalla decorrenza del termine, la quietanza, rilasciata senza riserve all'atto del pagamento dell'ultima quota di riparto, importa approvazione del bilancio.))",
+    "caratteri": 444
+  },
+  "note": [],
+  "impronta": "sha256:38d7a6965a77416ea8760d5bc64c7f44f1282a498e15618c2799a6046df0decf"
+}

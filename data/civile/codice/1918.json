@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1918",
+    "rubrica": "Alienazione delle cose assicurate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1918"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'alienazione delle cose assicurate non e' causa di scioglimento del contratto di assicurazione. L'assicurato, che non comunica all'assicuratore l'avvenuta alienazione e all'acquirente l'esistenza del contratto di assicurazione, rimane obbligato a pagare i premi che scadono posteriormente alla data dell'alienazione. I diritti e gli obblighi dell'assicurato passano all'acquirente, se questi, avuta notizia dell'esistenza del contratto di assicurazione, entro dieci giorni dalla scadenza del primo premio successivo all'alienazione, non dichiara all'assicuratore, mediante raccomandata, che non intende subentrare nel contratto. Spettano in tal caso all'assicuratore i premi relativi al periodo di assicurazione in corso. L'assicuratore, entro dieci giorni da quello in cui ha avuto notizia dell'avvenuta alienazione, puo' recedere dal contratto con preavviso di quindici giorni, che puo' essere dato anche mediante raccomandata. Se e' stata emessa una polizza all'ordine o al portatore, nessuna notizia dell'alienazione deve essere data all'assicuratore, e cosi' quest'ultimo come l'acquirente non possono recedere dal contratto.",
+    "con_marcatori": "Art. 1918. (Alienazione delle cose assicurate). L'alienazione delle cose assicurate non e' causa di scioglimento del contratto di assicurazione. L'assicurato, che non comunica all'assicuratore l'avvenuta alienazione e all'acquirente l'esistenza del contratto di assicurazione, rimane obbligato a pagare i premi che scadono posteriormente alla data dell'alienazione. I diritti e gli obblighi dell'assicurato passano all'acquirente, se questi, avuta notizia dell'esistenza del contratto di assicurazione, entro dieci giorni dalla scadenza del primo premio successivo all'alienazione, non dichiara all'assicuratore, mediante raccomandata, che non intende subentrare nel contratto. Spettano in tal caso all'assicuratore i premi relativi al periodo di assicurazione in corso. L'assicuratore, entro dieci giorni da quello in cui ha avuto notizia dell'avvenuta alienazione, puo' recedere dal contratto con preavviso di quindici giorni, che puo' essere dato anche mediante raccomandata. Se e' stata emessa una polizza all'ordine o al portatore, nessuna notizia dell'alienazione deve essere data all'assicuratore, e cosi' quest'ultimo come l'acquirente non possono recedere dal contratto.",
+    "caratteri": 1131
+  },
+  "note": [],
+  "impronta": "sha256:778be3f03093be4c215ca5501302c7b72ed4b416ae773cbdb0636415af82e299"
+}

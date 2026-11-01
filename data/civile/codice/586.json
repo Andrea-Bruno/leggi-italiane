@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "586",
+    "rubrica": "Acquisto dei beni da parte dello Stato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art586"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In mancanza di altri successibili, l'eredita' e' devoluta allo Stato. L'acquisto si opera di diritto senza bisogno di accettazione e non puo' farsi luogo a rinunzia. Lo Stato non risponde dei debiti ereditari e dei legati oltre il valore dei beni acquistati.",
+    "con_marcatori": "Art. 586. (Acquisto dei beni da parte dello Stato). In mancanza di altri successibili, l'eredita' e' devoluta allo Stato. L'acquisto si opera di diritto senza bisogno di accettazione e non puo' farsi luogo a rinunzia. Lo Stato non risponde dei debiti ereditari e dei legati oltre il valore dei beni acquistati.",
+    "caratteri": 258
+  },
+  "note": [],
+  "impronta": "sha256:0018a84f59cbd2dac1bacc67de8c50273f681cb3d266ee1baccc48e77b7eb2a5"
+}

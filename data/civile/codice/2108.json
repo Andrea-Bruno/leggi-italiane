@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2108",
+    "rubrica": "Lavoro straordinario e notturno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2108"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di prolungamento dell'orario normale, il prestatore di lavoro deve essere compensato per le ore straordinarie con un aumento di retribuzione rispetto a quella dovuta per il lavoro ordinario. Il lavoro notturno non compreso in regolari turni periodici deve essere parimenti retribuito con una maggiorazione rispetto al lavoro diurno. I limiti entro i quali sono consentiti il lavoro straordinario e quello notturno, la durata di essi e la misura della maggiorazione sono stabiliti dalla legge o dalle norme corporative.",
+    "con_marcatori": "Art. 2108. (Lavoro straordinario e notturno). In caso di prolungamento dell'orario normale, il prestatore di lavoro deve essere compensato per le ore straordinarie con un aumento di retribuzione rispetto a quella dovuta per il lavoro ordinario. Il lavoro notturno non compreso in regolari turni periodici deve essere parimenti retribuito con una maggiorazione rispetto al lavoro diurno. I limiti entro i quali sono consentiti il lavoro straordinario e quello notturno, la durata di essi e la misura della maggiorazione sono stabiliti dalla legge o dalle norme corporative.",
+    "caratteri": 526
+  },
+  "note": [],
+  "impronta": "sha256:93235366c10b6c61ce595d72e82d1a144ae576b787c5c9c19e3417075dd2a944"
+}

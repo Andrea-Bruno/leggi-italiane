@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "466",
+    "rubrica": "Riabilitazione dell'indegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art466"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi e' incorso nell'indegnita' e' ammesso a succedere quando la persona, della cui successione si tratta, ve lo ha espressamente abilitato con atto pubblico o con testamento. Tuttavia l'indegno non espressamente abilitato, se e' stato contemplato nel testamento quando il testatore conosceva la causa dell'indegnita', e' ammesso a succedere nei limiti della disposizione testamentaria.",
+    "con_marcatori": "Art. 466. (Riabilitazione dell'indegno). Chi e' incorso nell'indegnita' e' ammesso a succedere quando la persona, della cui successione si tratta, ve lo ha espressamente abilitato con atto pubblico o con testamento. Tuttavia l'indegno non espressamente abilitato, se e' stato contemplato nel testamento quando il testatore conosceva la causa dell'indegnita', e' ammesso a succedere nei limiti della disposizione testamentaria.",
+    "caratteri": 385
+  },
+  "note": [],
+  "impronta": "sha256:4868e41d122991e3fc3232434cf0633f7a04edc3f532a95c13e9a76ea38069be"
+}

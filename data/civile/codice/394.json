@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "394",
+    "rubrica": "Capacita' dell'emancipato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art394"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'emancipazione conferisce al minore la capacita' di compiere gli atti che non eccedono l'ordinaria amministrazione. Il minore emancipato puo' con l'assistenza del curatore riscuotere i capitali sotto la condizione di un idoneo impiego e puo' stare in giudizio sia come attore sia come convenuto. Per gli altri atti eccedenti l'ordinaria amministrazione, oltre il consenso del curatore, e' necessaria l'autorizzazione del giudice tutelare. PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 149. Qualora nasca conflitto di interessi fra il minore e il curatore, e' nominato un curatore speciale a norma dell'ultimo comma dell'art. 320.",
+    "con_marcatori": "Art. 394. (Capacita' dell'emancipato). L'emancipazione conferisce al minore la capacita' di compiere gli atti che non eccedono l'ordinaria amministrazione. Il minore emancipato puo' con l'assistenza del curatore riscuotere i capitali sotto la condizione di un idoneo impiego e puo' stare in giudizio sia come attore sia come convenuto. Per gli altri atti eccedenti l'ordinaria amministrazione, oltre il consenso del curatore, e' necessaria l'autorizzazione del giudice tutelare. ((PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 149)). Qualora nasca conflitto di interessi fra il minore e il curatore, e' nominato un curatore speciale a norma dell'ultimo comma dell'art. 320.",
+    "caratteri": 633
+  },
+  "note": [],
+  "impronta": "sha256:e8d5ff7b09969ab2191b81c0f2b077f9b59ee78f210044fe742abc854661fe3a"
+}

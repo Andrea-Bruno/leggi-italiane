@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2508",
+    "rubrica": "Societa' estere con sede secondaria nel territorio dello Stato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2508"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le societa' costituite all'estero, le quali stabiliscono nel territorio dello Stato una o piu' sedi secondarie con rappresentanza stabile, sono soggette, per ciascuna sede, alle disposizioni della legge italiana sulla pubblicita' degli atti sociali. Esse devono inoltre pubblicare, secondo le medesime disposizioni, il cognome, il nome, la data e il luogo di nascita delle persone che le rappresentano stabilmente nel territorio dello Stato, con indicazione dei relativi poteri. Ai terzi che hanno compiuto operazioni con le sede secondaria non puo' essere opposto che gli atti pubblicati ai sensi dei commi precedenti sono difformi da quelli pubblicati nello Stato ove e' situata la sede principale. Le societa' costituite all'estero sono altresi' soggette, per quanto riguarda le sedi secondarie, alle disposizioni che regolano l'esercizio dell'impresa o che la subordinano all'osservanza di particolari condizioni. Negli atti e nella corrispondenza delle sedi secondarie di societa' costituite all'estero devono essere contenute le indicazioni richieste dall'articolo 2250; devono essere altresi' indicati l'ufficio del registro delle imprese presso la quale e' iscritta la sede secondaria e il numero di iscrizione.",
+    "con_marcatori": "Art. 2508. (( (Societa' estere con sede secondaria nel territorio dello Stato).)) ((Le societa' costituite all'estero, le quali stabiliscono nel territorio dello Stato una o piu' sedi secondarie con rappresentanza stabile, sono soggette, per ciascuna sede, alle disposizioni della legge italiana sulla pubblicita' degli atti sociali. Esse devono inoltre pubblicare, secondo le medesime disposizioni, il cognome, il nome, la data e il luogo di nascita delle persone che le rappresentano stabilmente nel territorio dello Stato, con indicazione dei relativi poteri. Ai terzi che hanno compiuto operazioni con le sede secondaria non puo' essere opposto che gli atti pubblicati ai sensi dei commi precedenti sono difformi da quelli pubblicati nello Stato ove e' situata la sede principale. Le societa' costituite all'estero sono altresi' soggette, per quanto riguarda le sedi secondarie, alle disposizioni che regolano l'esercizio dell'impresa o che la subordinano all'osservanza di particolari condizioni. Negli atti e nella corrispondenza delle sedi secondarie di societa' costituite all'estero devono essere contenute le indicazioni richieste dall'articolo 2250; devono essere altresi' indicati l'ufficio del registro delle imprese presso la quale e' iscritta la sede secondaria e il numero di iscrizione.))",
+    "caratteri": 1219
+  },
+  "note": [],
+  "impronta": "sha256:68dba962a876dc13cb2a7a8fbbf748d58d5d7bb03d2bc88a8e72ec04b70c87d4"
+}

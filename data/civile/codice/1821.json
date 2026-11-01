@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1821",
+    "rubrica": "Danni al mutuatario per vizi delle cose",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1821"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mutuante e' responsabile del danno cagionato al mutuatario per i vizi delle cose date a prestito, se non prova di averli ignorati senza colpa. Se il mutuo e' gratuito, il mutuante e' responsabile solo nel caso in cui, conoscendo i vizi, non ne abbia avvertito il mutuatario.",
+    "con_marcatori": "Art. 1821. (Danni al mutuatario per vizi delle cose). Il mutuante e' responsabile del danno cagionato al mutuatario per i vizi delle cose date a prestito, se non prova di averli ignorati senza colpa. Se il mutuo e' gratuito, il mutuante e' responsabile solo nel caso in cui, conoscendo i vizi, non ne abbia avvertito il mutuatario.",
+    "caratteri": 277
+  },
+  "note": [],
+  "impronta": "sha256:886b5b95004af51e8d37e2436565f894b6754d0bc3214f0a456b2743d53ea5de"
+}

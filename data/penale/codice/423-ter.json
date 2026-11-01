@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "423-ter",
+    "rubrica": "Pene accessorie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art423-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fermo quanto previsto dal secondo comma e dagli articoli 29 e 31, la condanna alla reclusione per un tempo non inferiore a due anni per il delitto di cui all'articolo 423-bis, primo comma, importa l'estinzione del rapporto di lavoro o di impiego nei confronti del dipendente di amministrazioni od enti pubblici ovvero di enti a prevalente partecipazione pubblica. La condanna per il reato di cui all'articolo 423-bis, primo comma, importa altresi' l'interdizione da cinque a dieci anni dall'assunzione di incarichi o dallo svolgimento di servizi nell'ambito della lotta attiva contro gli incedi boschivi nonche' l'interdizione dai pubblici uffici e l'incapacita' di contrattare con la pubblica amministrazione, salvo che per ottenere prestazioni di un pubblico servizio, per la durata di cinque anni.",
+    "con_marcatori": "Art. 423-ter. (Pene accessorie). Fermo quanto previsto dal secondo comma e dagli articoli 29 e 31, la condanna alla reclusione per un tempo non inferiore a due anni per il delitto di cui all'articolo 423-bis, primo comma, importa l'estinzione del rapporto di lavoro o di impiego nei confronti del dipendente di amministrazioni od enti pubblici ovvero di enti a prevalente partecipazione pubblica. La condanna per il reato di cui all'articolo 423-bis, primo comma, importa altresi' l'interdizione da cinque a dieci anni dall'assunzione di incarichi o dallo svolgimento di servizi nell'ambito della lotta attiva contro gli incedi boschivi ((nonche' l'interdizione dai pubblici uffici e l'incapacita' di contrattare con la pubblica amministrazione, salvo che per ottenere prestazioni di un pubblico servizio, per la durata di cinque anni)).",
+    "caratteri": 800
+  },
+  "note": [],
+  "impronta": "sha256:03c627d9612685f3e133503505eb414766f1df139e2f80284a1bd87b0b523af1"
+}

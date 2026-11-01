@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2638",
+    "rubrica": "Ostacolo all'esercizio delle funzioni delle autorita' pubbliche di vigilanza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2638"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori di societa' o enti e gli altri soggetti sottoposti per legge alle autorita' pubbliche di vigilanza, o tenuti ad obblighi nei loro confronti, i quali nelle comunicazioni alle predette autorita' previste in base alla legge, al fine di ostacolare l'esercizio delle funzioni di vigilanza, espongono fatti materiali non rispondenti al vero, ancorche' oggetto di valutazioni, sulla situazione economica, patrimoniale o finanziaria dei sottoposti alla vigilanza ovvero, allo stesso fine, occultano con altri mezzi fraudolenti, in tutto o in parte fatti che avrebbero dovuto comunicare, concernenti la situazione medesima, sono puniti con la reclusione da uno a quattro anni. La punibilita' e' estesa anche al caso in cui le informazioni riguardino beni posseduti o amministrati dalla societa' per conto di terzi. Sono puniti con la stessa pena gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori di societa', o enti e gli altri soggetti sottoposti per legge alle autorita' pubbliche di vigilanza o tenuti ad obblighi nei loro confronti, i quali, in qualsiasi forma, anche omettendo le comunicazioni dovute alle predette autorita', consapevolmente ne ostacolano le funzioni. La pena e' raddoppiata se si tratta di societa' con titoli quotati in mercati regolamentati italiani o di altri Stati dell'Unione europea o diffusi tra il pubblico in misura rilevante ai sensi dell'articolo 116 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58. 3-bis. Agli effetti della legge penale, alle autorita' e alle funzioni di vigilanza sono equiparate le autorita' e le funzioni di risoluzione di cui al decreto di recepimento della direttiva 2014/59/UE e al regolamento (UE) 2021/23 e alle relative norme attuative.",
+    "con_marcatori": "Art. 2638. (Ostacolo all'esercizio delle funzioni delle autorita' pubbliche di vigilanza). Gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori di societa' o enti e gli altri soggetti sottoposti per legge alle autorita' pubbliche di vigilanza, o tenuti ad obblighi nei loro confronti, i quali nelle comunicazioni alle predette autorita' previste in base alla legge, al fine di ostacolare l'esercizio delle funzioni di vigilanza, espongono fatti materiali non rispondenti al vero, ancorche' oggetto di valutazioni, sulla situazione economica, patrimoniale o finanziaria dei sottoposti alla vigilanza ovvero, allo stesso fine, occultano con altri mezzi fraudolenti, in tutto o in parte fatti che avrebbero dovuto comunicare, concernenti la situazione medesima, sono puniti con la reclusione da uno a quattro anni. La punibilita' e' estesa anche al caso in cui le informazioni riguardino beni posseduti o amministrati dalla societa' per conto di terzi. Sono puniti con la stessa pena gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori di societa', o enti e gli altri soggetti sottoposti per legge alle autorita' pubbliche di vigilanza o tenuti ad obblighi nei loro confronti, i quali, in qualsiasi forma, anche omettendo le comunicazioni dovute alle predette autorita', consapevolmente ne ostacolano le funzioni. La pena e' raddoppiata se si tratta di societa' con titoli quotati in mercati regolamentati italiani o di altri Stati dell'Unione europea o diffusi tra il pubblico in misura rilevante ai sensi dell'articolo 116 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58. ((3-bis. Agli effetti della legge penale, alle autorita' e alle funzioni di vigilanza sono equiparate le autorita' e le funzioni di risoluzione di cui al decreto di recepimento della direttiva 2014/59/UE e al regolamento (UE) 2021/23 e alle relative norme attuative.))",
+    "caratteri": 1939
+  },
+  "note": [],
+  "impronta": "sha256:910a2c80caf380f6ae9ed9f4ad95083ae46cef95be8912208c5b33660d8450c0"
+}

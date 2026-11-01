@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2778",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2778"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ordine degli altri privilegi sui mobili Salvo quanto e' disposto dall'articolo 2777, nel concorso di crediti aventi privilegio generale o speciale sulla medesima cosa, la prelazione si esercita nell'ordine che segue: 1) i crediti per contributi ad istituti, enti o fondi speciali - compresi quelli sostitutivi o integrativi - che gestiscono forme di assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti, indicati dall'articolo 2753; 2) i crediti per le imposte sui redditi immobiliari, indicati dall'articolo 2771, quando il privilegio si esercita separatamente sopra i frutti, i fitti e le pigioni degli immobili; 3) NUMERO ABROGATO DAL D.GLS. 1 SETTEMBRE 1993, N. 385; 4) i crediti per prestazioni e spese di conservazione e miglioramento di beni mobili, indicati dall'articolo 2756; 5) i crediti per le mercedi dovute ai lavoratori impiegati nelle opere di coltivazione e di raccolta, indicate dall'articolo 2757; 6) i crediti per sementi e materie fertilizzanti e antiparassitarie e per somministrazione di acqua per irrigazione, nonche' i crediti per i lavori di coltivazione e di raccolta indicati dall'articolo 2757. Qualora tali crediti vengano in concorso tra loro, sono preferiti quelli di raccolta, seguono quelli di coltivazione e, infine, gli altri crediti indicati dallo stesso articolo; 7) i crediti per i tributi indiretti, indicati dall'articolo 2758, salvo che la legge speciale accordi un diverso grado di preferenza, e i crediti per le imposte sul reddito, indicati dall'articolo 2759; 8) i crediti per contributi dovuti a istituti ed enti per forme di tutela previdenziale e assistenziale indicati dall'articolo 2754, nonche' gli accessori, limitatamente al cinquanta per cento del loro ammontare, relativi a tali crediti ed a quelli indicati dal precedente n. 1) del presente articolo; 9) NUMERO ABROGATO DAL D.GLS. 1 SETTEMBRE 1993, N. 385; 10) i crediti dipendenti da reato, indicati dall'articolo 2768, sulle cose sequestrate, nei casi e secondo l'ordine stabiliti dal codice penale e dal codice di procedura penale; 11) i crediti per risarcimento, indicati dall'articolo 2767; 12) i crediti dell'albergatore, indicati dall'articolo 2760; 13) i crediti del vettore, del mandatario, del depositario e del sequestratario, indicati dall'articolo 2761; 14) i crediti del venditore di macchine o della banca per le anticipazioni del prezzo, indicati dall'articolo 2762; 15) i crediti per canoni enfiteutici, indicati dall'articolo 2763; 16) i crediti del locatore e i crediti del concedente dipendenti dai contratti di mezzadria e colonia, indicati rispettivamente dagli articoli 2764 e 2765; 17) i crediti per spese funebri, d'infermita', per somministrazioni ed alimenti, nell'ordine indicato dall'articolo 2751; 18) i crediti dello Stato per tributi diretti, indicati dal primo comma dell'articolo 2752; 19) i crediti dello Stato indicati dal terzo comma dell'articolo 2752; 20) i crediti degli enti locali per tributi, indicati dal quarto comma dell'articolo 2752.",
+    "con_marcatori": "Art. 2778. Ordine degli altri privilegi sui mobili Salvo quanto e' disposto dall'articolo 2777, nel concorso di crediti aventi privilegio generale o speciale sulla medesima cosa, la prelazione si esercita nell'ordine che segue: 1) i crediti per contributi ad istituti, enti o fondi speciali - compresi quelli sostitutivi o integrativi - che gestiscono forme di assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti, indicati dall'articolo 2753; 2) i crediti per le imposte sui redditi immobiliari, indicati dall'articolo 2771, quando il privilegio si esercita separatamente sopra i frutti, i fitti e le pigioni degli immobili; 3) ((NUMERO ABROGATO DAL D.GLS. 1 SETTEMBRE 1993, N. 385)); 4) i crediti per prestazioni e spese di conservazione e miglioramento di beni mobili, indicati dall'articolo 2756; 5) i crediti per le mercedi dovute ai lavoratori impiegati nelle opere di coltivazione e di raccolta, indicate dall'articolo 2757; 6) i crediti per sementi e materie fertilizzanti e antiparassitarie e per somministrazione di acqua per irrigazione, nonche' i crediti per i lavori di coltivazione e di raccolta indicati dall'articolo 2757. Qualora tali crediti vengano in concorso tra loro, sono preferiti quelli di raccolta, seguono quelli di coltivazione e, infine, gli altri crediti indicati dallo stesso articolo; 7) i crediti per i tributi indiretti, indicati dall'articolo 2758, salvo che la legge speciale accordi un diverso grado di preferenza, e i crediti per le imposte sul reddito, indicati dall'articolo 2759; 8) i crediti per contributi dovuti a istituti ed enti per forme di tutela previdenziale e assistenziale indicati dall'articolo 2754, nonche' gli accessori, limitatamente al cinquanta per cento del loro ammontare, relativi a tali crediti ed a quelli indicati dal precedente n. 1) del presente articolo; 9) ((NUMERO ABROGATO DAL D.GLS. 1 SETTEMBRE 1993, N. 385)); 10) i crediti dipendenti da reato, indicati dall'articolo 2768, sulle cose sequestrate, nei casi e secondo l'ordine stabiliti dal codice penale e dal codice di procedura penale; 11) i crediti per risarcimento, indicati dall'articolo 2767; 12) i crediti dell'albergatore, indicati dall'articolo 2760; 13) i crediti del vettore, del mandatario, del depositario e del sequestratario, indicati dall'articolo 2761; 14) i crediti del venditore di macchine o della banca per le anticipazioni del prezzo, indicati dall'articolo 2762; 15) i crediti per canoni enfiteutici, indicati dall'articolo 2763; 16) i crediti del locatore e i crediti del concedente dipendenti dai contratti di mezzadria e colonia, indicati rispettivamente dagli articoli 2764 e 2765; 17) i crediti per spese funebri, d'infermita', per somministrazioni ed alimenti, nell'ordine indicato dall'articolo 2751; 18) i crediti dello Stato per tributi diretti, indicati dal primo comma dell'articolo 2752; 19) i crediti dello Stato indicati dal terzo comma dell'articolo 2752; 20) i crediti degli enti locali per tributi, indicati dal quarto comma dell'articolo 2752.",
+    "caratteri": 3010
+  },
+  "note": [],
+  "impronta": "sha256:bf8a85fe92aee37526aa12695cdfedb19ecf881abbb9b20c6808df39a03afaa9"
+}

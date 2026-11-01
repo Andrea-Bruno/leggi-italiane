@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1104",
+    "rubrica": "Obblighi dei partecipanti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1104"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascun partecipante deve contribuire nelle spese necessarie per la conservazione e per il godimento della cosa comune e nelle spese deliberate dalla maggioranza a norma delle disposizioni seguenti, salva la facolta' di liberarsene con la rinunzia al suo diritto. La rinunzia non giova al partecipante che abbia anche tacitamente approvato la spesa. Il cessionario del partecipante e' tenuto in solido con il cedente a pagare i contributi da questo dovuti e non versati.",
+    "con_marcatori": "Art. 1104. (Obblighi dei partecipanti). Ciascun partecipante deve contribuire nelle spese necessarie per la conservazione e per il godimento della cosa comune e nelle spese deliberate dalla maggioranza a norma delle disposizioni seguenti, salva la facolta' di liberarsene con la rinunzia al suo diritto. La rinunzia non giova al partecipante che abbia anche tacitamente approvato la spesa. Il cessionario del partecipante e' tenuto in solido con il cedente a pagare i contributi da questo dovuti e non versati.",
+    "caratteri": 470
+  },
+  "note": [],
+  "impronta": "sha256:9fef19c1b8303022edf1cb65279fa61d757b7bc7f73d00b79395e7d9a8670f30"
+}

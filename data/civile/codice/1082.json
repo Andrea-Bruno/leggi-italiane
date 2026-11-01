@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1082",
+    "rubrica": "Forma della bocca e dell'edificio derivatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1082"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando, per la derivazione di una data e costante quantita' di acqua corrente, e' stata determinata la forma della bocca e dell'edificio derivatore, le parti non possono chiederne la modificazione per eccedenza deficienza d'acqua, salvo che l'eccedenza o la deficienza provenga da variazioni seguite nel canale dispensatore o nel corso delle acque in esso correnti. Se la forma non e' stata determinata, ma la bocca e l'edificio derivatore sono stati costruiti e posseduti per cinque anni, non e' neppure ammesso dopo tale tempo alcun reclamo delle parti per eccedenza o deficienza d'acqua, salvo nel caso di variazione seguita nel canale o nel corso delle acque. In mancanza di titolo o di possesso, la forma e' determinata dall'autorita' giudiziaria.",
+    "con_marcatori": "Art. 1082. (Forma della bocca e dell'edificio derivatore). Quando, per la derivazione di una data e costante quantita' di acqua corrente, e' stata determinata la forma della bocca e dell'edificio derivatore, le parti non possono chiederne la modificazione per eccedenza deficienza d'acqua, salvo che l'eccedenza o la deficienza provenga da variazioni seguite nel canale dispensatore o nel corso delle acque in esso correnti. Se la forma non e' stata determinata, ma la bocca e l'edificio derivatore sono stati costruiti e posseduti per cinque anni, non e' neppure ammesso dopo tale tempo alcun reclamo delle parti per eccedenza o deficienza d'acqua, salvo nel caso di variazione seguita nel canale o nel corso delle acque. In mancanza di titolo o di possesso, la forma e' determinata dall'autorita' giudiziaria.",
+    "caratteri": 752
+  },
+  "note": [],
+  "impronta": "sha256:939ae0a5a53d023ce0dc43a3104b61d25fd0f24078acdfba8b76890da4fb42ef"
+}

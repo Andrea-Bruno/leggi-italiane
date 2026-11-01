@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "544-quater",
+    "rubrica": "Spettacoli o manifestazioni vietati",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art544-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque organizza o promuove spettacoli o manifestazioni che comportino sevizie o strazio per gli animali e' punito con la reclusione da quattro mesi a due anni e con la multa da 15.000 a 30.000 euro. La pena e' aumentata da un terzo alla meta' se i fatti di cui al primo comma sono commessi in relazione all'esercizio di scommesse clandestine o al fine di trarne profitto per se' od altri ovvero se ne deriva la morte dell'animale.",
+    "con_marcatori": "Art. 544-quater. (Spettacoli o manifestazioni vietati). Salvo che il fatto costituisca piu' grave reato, chiunque organizza o promuove spettacoli o manifestazioni che comportino sevizie o strazio per gli animali e' punito con la reclusione da quattro mesi a due anni e con ((la multa da 15.000 a 30.000 euro)). La pena e' aumentata da un terzo alla meta' se i fatti di cui al primo comma sono commessi in relazione all'esercizio di scommesse clandestine o al fine di trarne profitto per se' od altri ovvero se ne deriva la morte dell'animale.",
+    "caratteri": 482
+  },
+  "note": [],
+  "impronta": "sha256:592edec569c49c4dfdb71ac5a62bb3efcecc60e47f8bc87a90c31c0ed9a198d4"
+}

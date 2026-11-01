@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "782",
+    "rubrica": "Forma della donazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art782"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La donazione deve essere fatta per atto pubblico, sotto pena di nullita'. Se ha per oggetto cose mobili, essa non e' valida che per quelle specificate con indicazione del loro valore nell'atto medesimo della donazione, ovvero in una nota a parte sottoscritta dal donante, dal donatario e dal notaio. L'accettazione puo' essere fatta nell'atto stesso o con atto pubblico posteriore. In questo caso la donazione non e' perfetta se non dal momento in cui l'atto di accettazione e' notificato al donante. Prima che la donazione sia perfetta, tanto il donante quanto il donatario possono revocare la loro dichiarazione. COMMA ABROGATO DALLA L. 15 MAGGIO 1997, N. 127 COME MODIFICATA DALLA L. 22 GIUGNO 2000, N. 192.",
+    "con_marcatori": "Art. 782. (Forma della donazione). La donazione deve essere fatta per atto pubblico, sotto pena di nullita'. Se ha per oggetto cose mobili, essa non e' valida che per quelle specificate con indicazione del loro valore nell'atto medesimo della donazione, ovvero in una nota a parte sottoscritta dal donante, dal donatario e dal notaio. L'accettazione puo' essere fatta nell'atto stesso o con atto pubblico posteriore. In questo caso la donazione non e' perfetta se non dal momento in cui l'atto di accettazione e' notificato al donante. Prima che la donazione sia perfetta, tanto il donante quanto il donatario possono revocare la loro dichiarazione. ((COMMA ABROGATO DALLA L. 15 MAGGIO 1997, N. 127 COME MODIFICATA DALLA L. 22 GIUGNO 2000, N. 192)).((123))",
+    "caratteri": 710
+  },
+  "note": [
+    {
+      "numero": 123,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 15 maggio 1997, n. 127",
+          "urn": "urn:nir:stato:legge:1997-05-15;127",
+          "data": "1997-05-15",
+          "numero": "127",
+          "data_gazzetta": "1997-05-17"
+        },
+        {
+          "denominazione": "L. 22 giugno 2000, n. 192",
+          "urn": "urn:nir:stato:legge:2000-06-22;192",
+          "data": "2000-06-22",
+          "numero": "192",
+          "data_gazzetta": "2000-07-12"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 15 maggio 1997, n. 127 come modificata dalla L. 22 giugno 2000, n. 192 ha disposto (con l'art. 13, comma 2) che \"Le disposizioni di cui al comma 1 si applicano anche alle acquisizioni deliberate o verificatesi in data anteriore a quella di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:cfd15329efc0dd031f4dbeb8939b2a7977e43cea2e4400b313443441403e2c83"
+}

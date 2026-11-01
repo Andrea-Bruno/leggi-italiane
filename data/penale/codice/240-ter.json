@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "240-ter",
+    "rubrica": "Confisca per equivalente dei beni strumentali in casi particolari",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art240-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale, per taluno dei delitti previsti dagli articoli 275-bis, 275-ter, 275-quater, 275-quinquies, 280, 280-bis, 289-bis, 305, 306, 316, 316-bis, 316-ter, 322-bis, 414-bis, 416, realizzato allo scopo di commettere delitti puniti con pena detentiva non inferiore a quattro anni, 416-bis, 452-bis, 452-quater, 452-sexies, 452-quaterdecies, 453, 461, 493-ter, 493-quater, 600, 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 602, 609-undecies, 615-ter, 615-quater, 617, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 628-bis, 635-bis, 635-ter, 635-quater, 635-quater.1, 635-quinquies, 640-bis, 640-quater, 648-bis, 648-ter, 648-ter.1 del codice penale, dagli articoli 2635 e 2635-bis del codice civile o per taluno dei delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine costituzionale, quando non e' possibile procedere alla confisca delle cose che servirono o furono destinate a commettere il reato, il giudice dispone la confisca dei beni o delle altre utilita' dei quali il reo ha la disponibilita', anche per interposta persona, per un valore equivalente a quello del bene strumentale. La disposizione di cui al comma che precede si applica altresi' in caso di condanna o di applicazione della pena su richiesta per i reati di cui all'articolo 12, commi 1, 3 e 3-ter, 12-bis del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, per i delitti in materia di abuso di mercato previsti dal decreto legislativo 24 febbraio 1998, n. 58, per i delitti di cui agli articoli 84 e 86 del decreto legislativo 26 settembre 2024, n. 141 o per taluno dei reati concernenti le armi, le munizioni e gli esplosivi, nonche' per i reati di cui agli articoli 255-bis, 255-ter, 256, 256-bis, 259, del decreto legislativo 3 aprile 2006, n. 152 relativo alle norme in materia ambientale. Nel determinare il valore dei beni da sottoporre a confisca per equivalente, il giudice tiene conto della gravita' del reato e delle condizioni economico e patrimoniali del condannato.",
+    "con_marcatori": "Art. 240-ter. (( (Confisca per equivalente dei beni strumentali in casi particolari).)). ((Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale, per taluno dei delitti previsti dagli articoli 275-bis, 275-ter, 275-quater, 275-quinquies, 280, 280-bis, 289-bis, 305, 306, 316, 316-bis, 316-ter, 322-bis, 414-bis, 416, realizzato allo scopo di commettere delitti puniti con pena detentiva non inferiore a quattro anni, 416-bis, 452-bis, 452-quater, 452-sexies, 452-quaterdecies, 453, 461, 493-ter, 493-quater, 600, 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 602, 609-undecies, 615-ter, 615-quater, 617, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 628-bis, 635-bis, 635-ter, 635-quater, 635-quater.1, 635-quinquies, 640-bis, 640-quater, 648-bis, 648-ter, 648-ter.1 del codice penale, dagli articoli 2635 e 2635-bis del codice civile o per taluno dei delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine costituzionale, quando non e' possibile procedere alla confisca delle cose che servirono o furono destinate a commettere il reato, il giudice dispone la confisca dei beni o delle altre utilita' dei quali il reo ha la disponibilita', anche per interposta persona, per un valore equivalente a quello del bene strumentale.)) ((La disposizione di cui al comma che precede si applica altresi' in caso di condanna o di applicazione della pena su richiesta per i reati di cui all'articolo 12, commi 1, 3 e 3-ter, 12-bis del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, per i delitti in materia di abuso di mercato previsti dal decreto legislativo 24 febbraio 1998, n. 58, per i delitti di cui agli articoli 84 e 86 del decreto legislativo 26 settembre 2024, n. 141 o per taluno dei reati concernenti le armi, le munizioni e gli esplosivi, nonche' per i reati di cui agli articoli 255-bis, 255-ter, 256, 256-bis, 259, del decreto legislativo 3 aprile 2006, n. 152 relativo alle norme in materia ambientale.)) ((Nel determinare il valore dei beni da sottoporre a confisca per equivalente, il giudice tiene conto della gravita' del reato e delle condizioni economico e patrimoniali del condannato.))",
+    "caratteri": 2258
+  },
+  "note": [],
+  "impronta": "sha256:7682428403ef36b7a3eb03adba0e9a5d2a88958d12f6b092b8f2951e36f1014b"
+}

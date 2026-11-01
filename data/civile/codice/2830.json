@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2830",
+    "rubrica": "Ipoteca giudiziale sui beni dell'eredita' beneficiata e dell'eredita' giacente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2830"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'eredita' e' accettata con beneficio d'inventario o se si tratta di eredita' giacente, non possono essere iscritte ipoteche giudiziali sui beni ereditari, neppure in base a sentenze pronunziate anteriormente alla morte del debitore.",
+    "con_marcatori": "Art. 2830. (Ipoteca giudiziale sui beni dell'eredita' beneficiata e dell'eredita' giacente). Se l'eredita' e' accettata con beneficio d'inventario o se si tratta di eredita' giacente, non possono essere iscritte ipoteche giudiziali sui beni ereditari, neppure in base a sentenze pronunziate anteriormente alla morte del debitore.",
+    "caratteri": 236
+  },
+  "note": [],
+  "impronta": "sha256:35ce3fa02b1924700948384b6599082ae3588ec8c6572d94bc1507703bba0a35"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2969",
+    "rubrica": "Rilievo d'ufficio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2969"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La decadenza non puo' essere rilevata d'ufficio dal giudice, salvo che, trattandosi di materia sottratta alla disponibilita' delle parti, il giudice debba rilevare le cause d'improponibilita' dell'azione. Roma, addi' 16 marzo 1942-XX VITTORIO EMANUELE GRANDI",
+    "con_marcatori": "Art. 2969. (Rilievo d'ufficio). La decadenza non puo' essere rilevata d'ufficio dal giudice, salvo che, trattandosi di materia sottratta alla disponibilita' delle parti, il giudice debba rilevare le cause d'improponibilita' dell'azione. Roma, addi' 16 marzo 1942-XX VITTORIO EMANUELE GRANDI",
+    "caratteri": 258
+  },
+  "note": [],
+  "impronta": "sha256:569935b7e4c2b500f8985d240b0d93d989040838937a15a60bc843bebe4abfd0"
+}

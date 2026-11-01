@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2464",
+    "rubrica": "Conferimenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2464"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il valore dei conferimenti non puo' essere complessivamente inferiore all'ammontare globale del capitale sociale. Possono essere conferiti tutti gli elementi dell'attivo suscettibili di valutazione economica. Se nell'atto costitutivo non e' stabilito diversamente, il conferimento deve farsi in danaro. Alla sottoscrizione dell'atto costitutivo deve essere versato all'organo amministrativo nominato nell'atto costitutivo almeno il venticinque per cento dei conferimenti in danaro e l'intero soprapprezzo o, nel caso di costituzione con atto unilaterale, il loro intero ammontare. I mezzi di pagamento sono indicati nell'atto. Il versamento puo' essere sostituito dalla stipula, per un importo almeno corrispondente, di una polizza di assicurazione o di una fideiussione bancaria con le caratteristiche determinate con decreto del Presidente del Consiglio dei Ministri; in tal caso il socio puo' in ogni momento sostituire la polizza o la fideiussione con il versamento del corrispondente importo in danaro. Per i conferimenti di beni in natura e di crediti si osservano le disposizioni degli articoli 2254 e 2255. Le quote corrispondenti a tali conferimenti devono essere integralmente liberate al momento della sottoscrizione. Il conferimento puo' anche avvenire mediante la prestazione di una polizza di assicurazione o di una fideiussione bancaria con cui vengono garantiti, per l'intero valore ad essi assegnato, gli obblighi assunti dal socio aventi per oggetto la prestazione d'opera o di servizi a favore della societa'. In tal caso, se l'atto costitutivo lo prevede, la polizza o la fideiussione possono essere sostituite dal socio con il versamento a titolo di cauzione del corrispondente importo in danaro presso la societa'. Se viene meno la pluralita' dei soci, i versamenti ancora dovuti devono essere effettuati nei novanta giorni.",
+    "con_marcatori": "Art. 2464. (Conferimenti). Il valore dei conferimenti non puo' essere complessivamente inferiore all'ammontare globale del capitale sociale. Possono essere conferiti tutti gli elementi dell'attivo suscettibili di valutazione economica. Se nell'atto costitutivo non e' stabilito diversamente, il conferimento deve farsi in danaro. Alla sottoscrizione dell'atto costitutivo deve essere versato ((all'organo amministrativo nominato nell'atto costitutivo)) almeno il venticinque per cento dei conferimenti in danaro e l'intero soprapprezzo o, nel caso di costituzione con atto unilaterale, il loro intero ammontare. ((I mezzi di pagamento sono indicati nell'atto)). Il versamento puo' essere sostituito dalla stipula, per un importo almeno corrispondente, di una polizza di assicurazione o di una fideiussione bancaria con le caratteristiche determinate con decreto del Presidente del Consiglio dei Ministri; in tal caso il socio puo' in ogni momento sostituire la polizza o la fideiussione con il versamento del corrispondente importo in danaro. Per i conferimenti di beni in natura e di crediti si osservano le disposizioni degli articoli 2254 e 2255. Le quote corrispondenti a tali conferimenti devono essere integralmente liberate al momento della sottoscrizione. Il conferimento puo' anche avvenire mediante la prestazione di una polizza di assicurazione o di una fideiussione bancaria con cui vengono garantiti, per l'intero valore ad essi assegnato, gli obblighi assunti dal socio aventi per oggetto la prestazione d'opera o di servizi a favore della societa'. In tal caso, se l'atto costitutivo lo prevede, la polizza o la fideiussione possono essere sostituite dal socio con il versamento a titolo di cauzione del corrispondente importo in danaro presso la societa'. Se viene meno la pluralita' dei soci, i versamenti ancora dovuti devono essere effettuati nei novanta giorni.",
+    "caratteri": 1846
+  },
+  "note": [],
+  "impronta": "sha256:b6752036890268f544971324d7f7c43ec2c09f83bca95ff1198e63190e579325"
+}

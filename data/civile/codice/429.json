@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "429",
+    "rubrica": "Revoca dell'interdizione e dell'inabilitazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art429"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando cessa la causa dell'interdizione o dell'inabilitazione, queste possono essere revocate su istanza del coniuge, dei parenti entro il quarto grado o degli affini entro il secondo grado, del tutore dell'interdetto, del curatore dell'inabilitato o su istanza del pubblico ministero. Il giudice tutelare deve vigilare per riconoscere se la causa dell'interdizione o dell'inabilitazione continui. Se ritiene che sia venuta meno, deve informarne il pubblico ministero. Se nel corso del giudizio per la revoca dell'interdizione o dell'inabilitazione appare opportuno che, successivamente alla revoca, il soggetto sia assistito dall'amministratore di sostegno, il tribunale, d'ufficio o ad istanza di parte, dispone la trasmissione degli atti al giudice tutelare.",
+    "con_marcatori": "Art. 429. (Revoca dell'interdizione e dell'inabilitazione). Quando cessa la causa dell'interdizione o dell'inabilitazione, queste possono essere revocate su istanza del coniuge, dei parenti entro il quarto grado o degli affini entro il secondo grado, del tutore dell'interdetto, del curatore dell'inabilitato o su istanza del pubblico ministero. Il giudice tutelare deve vigilare per riconoscere se la causa dell'interdizione o dell'inabilitazione continui. Se ritiene che sia venuta meno, deve informarne il pubblico ministero. ((Se nel corso del giudizio per la revoca dell'interdizione o dell'inabilitazione appare opportuno che, successivamente alla revoca, il soggetto sia assistito dall'amministratore di sostegno, il tribunale, d'ufficio o ad istanza di parte, dispone la trasmissione degli atti al giudice tutelare)).",
+    "caratteri": 761
+  },
+  "note": [],
+  "impronta": "sha256:2dfa075a0707ba28411f00c4bc8707bee674c9a52e8e73afdaa9106e34391e95"
+}

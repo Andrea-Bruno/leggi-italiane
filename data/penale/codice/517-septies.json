@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "517-septies",
+    "rubrica": "Commercio di alimenti con segni mendaci",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art517-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Chiunque, al fine di trarne profitto, nell'esercizio di un'attivita' agricola, industriale, commerciale, di importazione, di esportazione, di introduzione in custodia temporanea o in deposito doganale ovvero di intermediazione di alimenti, acque e bevande, utilizza segni distintivi o indicazioni, ancorche' figurative, che sa essere falsi o ingannevoli al fine di indurre in errore il compratore, anche con tecniche di comunicazione a distanza o con strumenti digitali nelle reti telematiche, sull'origine, sulla provenienza, sulla qualita' o sulla quantita' degli alimenti o degli ingredienti e' punito con la reclusione da tre a diciotto mesi e con la multa fino a euro 20.000.",
+    "con_marcatori": "Art. 517-septies. (( (Commercio di alimenti con segni mendaci). )). ((Chiunque, al fine di trarne profitto, nell'esercizio di un'attivita' agricola, industriale, commerciale, di importazione, di esportazione, di introduzione in custodia temporanea o in deposito doganale ovvero di intermediazione di alimenti, acque e bevande, utilizza segni distintivi o indicazioni, ancorche' figurative, che sa essere falsi o ingannevoli al fine di indurre in errore il compratore, anche con tecniche di comunicazione a distanza o con strumenti digitali nelle reti telematiche, sull'origine, sulla provenienza, sulla qualita' o sulla quantita' degli alimenti o degli ingredienti e' punito con la reclusione da tre a diciotto mesi e con la multa fino a euro 20.000.))",
+    "caratteri": 682
+  },
+  "note": [],
+  "impronta": "sha256:6c1d5bb591e48d297b6e0e9a673e319c931b44164112067a1fbeec556ade9a3e"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "341-bis",
+    "rubrica": "Oltraggio a pubblico ufficiale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art341-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in luogo pubblico o aperto al pubblico e in presenza di piu' persone, offende l'onore ed il prestigio di un pubblico ufficiale mentre compie un atto d'ufficio ed a causa o nell'esercizio delle sue funzioni e' punito con la reclusione da sei mesi a tre anni. La pena e' aumentata fino alla meta' se il fatto e' commesso dal genitore esercente la responsabilita' genitoriale o dal tutore dell'alunno nei confronti di un dirigente scolastico o di un membro del personale docente, educativo o amministrativo della scuola. La pena e' aumentata se l'offesa consiste nell'attribuzione di un fatto determinato. Se la verita' del fatto e' provata o se per esso l'ufficiale a cui il fatto e' attribuito e' condannato dopo l'attribuzione del fatto medesimo, l'autore dell'offesa non e' punibile. Ove l'imputato, prima del giudizio, abbia riparato interamente il danno, mediante risarcimento di esso sia nei confronti della persona offesa sia nei confronti dell'ente di appartenenza della medesima, il reato e' estinto.",
+    "con_marcatori": "Art. 341-bis (Oltraggio a pubblico ufficiale). Chiunque, in luogo pubblico o aperto al pubblico e in presenza di piu' persone, offende l'onore ed il prestigio di un pubblico ufficiale mentre compie un atto d'ufficio ed a causa o nell'esercizio delle sue funzioni e' punito con la reclusione da sei mesi a tre anni. ((La pena e' aumentata fino alla meta' se il fatto e' commesso dal genitore esercente la responsabilita' genitoriale o dal tutore dell'alunno nei confronti di un dirigente scolastico o di un membro del personale docente, educativo o amministrativo della scuola)). La pena e' aumentata se l'offesa consiste nell'attribuzione di un fatto determinato. Se la verita' del fatto e' provata o se per esso l'ufficiale a cui il fatto e' attribuito e' condannato dopo l'attribuzione del fatto medesimo, l'autore dell'offesa non e' punibile. Ove l'imputato, prima del giudizio, abbia riparato interamente il danno, mediante risarcimento di esso sia nei confronti della persona offesa sia nei confronti dell'ente di appartenenza della medesima, il reato e' estinto.",
+    "caratteri": 1017
+  },
+  "note": [],
+  "impronta": "sha256:c6450bd75eb3f66c221bfead83deff2e46d955697d8ff2cc6fd66fbb9d54551d"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2662",
+    "rubrica": "Trascrizione di acquisti a causa di morte in luogo di altri chiamati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2662"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora l'acquisto a causa di morte si colleghi alla rinunzia o alla morte di uno dei chiamati, chi domanda la trascrizione deve presentare il documento comprovante la morte o la rinunzia, facendone menzione nella nota. Se invece l'acquisto dipende da altra ragione che impedisce ad alcuno dei chiamati di succedere, non e' necessario esibire un documento che giustifichi la ragione stessa, ma il richiedente risponde dei danni, quando le sue dichiarazioni non corrispondono a verita'. Qualora alcuna delle cause di impedimento sopra indicate si sia constatata dopo la trascrizione dell'acquisto a causa di morte, essa si annota in margine alla trascrizione stessa, purche' risulti da regolare documento.",
+    "con_marcatori": "Art. 2662. (Trascrizione di acquisti a causa di morte in luogo di altri chiamati). Qualora l'acquisto a causa di morte si colleghi alla rinunzia o alla morte di uno dei chiamati, chi domanda la trascrizione deve presentare il documento comprovante la morte o la rinunzia, facendone menzione nella nota. Se invece l'acquisto dipende da altra ragione che impedisce ad alcuno dei chiamati di succedere, non e' necessario esibire un documento che giustifichi la ragione stessa, ma il richiedente risponde dei danni, quando le sue dichiarazioni non corrispondono a verita'. Qualora alcuna delle cause di impedimento sopra indicate si sia constatata dopo la trascrizione dell'acquisto a causa di morte, essa si annota in margine alla trascrizione stessa, purche' risulti da regolare documento.",
+    "caratteri": 704
+  },
+  "note": [],
+  "impronta": "sha256:e95535ca0b0a28c6e94d41f282e9243dc4605edf9485fa4cbc5a1c8d5b485b6f"
+}

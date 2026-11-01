@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2396-quater",
+    "rubrica": "Denunzia al tribunale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2396-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Se vi e' fondato sospetto che gli amministratori, in violazione dei loro doveri, abbiano compiuto gravi irregolarita' nella gestione che possono arrecare danno alla societa' o a una o piu' societa' controllate, i soci che rappresentano il decimo del capitale sociale o, nelle societa' che fanno ricorso al mercato del capitale di rischio, il ventesimo del capitale sociale possono denunziare i fatti al tribunale con ricorso notificato anche alla societa'. Lo statuto puo' prevedere percentuali minori di partecipazione. Il tribunale, sentiti in camera di consiglio gli amministratori e i componenti dell'organo di controllo, puo' ordinare l'ispezione dell'amministrazione della societa' a spese dei soci richiedenti, subordinandola, se del caso, alla prestazione di una cauzione. Il provvedimento e' reclamabile. Il tribunale non ordina l'ispezione e sospende per un periodo determinato il procedimento se gli amministratori sono sostituiti con soggetti di adeguata professionalita', che si attivano senza indugio per accertare se le violazioni sussistono e, in caso positivo, per eliminarle, riferendo al tribunale sugli accertamenti e le attivita' compiute. Il tribunale puo' subordinare la sospensione del procedimento anche alla sostituzione dei componenti dell'organo di controllo. Se le violazioni denunziate sussistono ovvero se gli accertamenti e le attivita' compiute ai sensi del terzo comma risultano insufficienti alla loro eliminazione, il tribunale puo' disporre gli opportuni provvedimenti provvisori e convocare l'assemblea per le conseguenti deliberazioni. Nei casi piu' gravi puo' revocare gli amministratori ed eventualmente anche i componenti dell'organo di controllo e nominare un amministratore giudiziario, determinandone i poteri e la durata. L'amministratore giudiziario puo' proporre l'azione di responsabilita' contro gli amministratori e i componenti dell'organo di controllo. Si applica l'ultimo comma dell'articolo 2393. Prima della scadenza del suo incarico l'amministratore giudiziario rende conto al tribunale che lo ha nominato; convoca e presiede l'assemblea per la nomina dei nuovi amministratori e componenti dell'organo di controllo o per proporre, se del caso, la messa in liquidazione della societa' o la sua ammissione ad una procedura concorsuale. I provvedimenti previsti da questo articolo possono essere adottati anche su richiesta dell'organo di controllo nonche', nelle societa' che fanno ricorso al mercato del capitale di rischio, del pubblico ministero; in questi casi le spese per l'ispezione sono a carico della societa'.",
+    "con_marcatori": "Art. 2396-quater. (( (Denunzia al tribunale).)). ((Se vi e' fondato sospetto che gli amministratori, in violazione dei loro doveri, abbiano compiuto gravi irregolarita' nella gestione che possono arrecare danno alla societa' o a una o piu' societa' controllate, i soci che rappresentano il decimo del capitale sociale o, nelle societa' che fanno ricorso al mercato del capitale di rischio, il ventesimo del capitale sociale possono denunziare i fatti al tribunale con ricorso notificato anche alla societa'. Lo statuto puo' prevedere percentuali minori di partecipazione. Il tribunale, sentiti in camera di consiglio gli amministratori e i componenti dell'organo di controllo, puo' ordinare l'ispezione dell'amministrazione della societa' a spese dei soci richiedenti, subordinandola, se del caso, alla prestazione di una cauzione. Il provvedimento e' reclamabile. Il tribunale non ordina l'ispezione e sospende per un periodo determinato il procedimento se gli amministratori sono sostituiti con soggetti di adeguata professionalita', che si attivano senza indugio per accertare se le violazioni sussistono e, in caso positivo, per eliminarle, riferendo al tribunale sugli accertamenti e le attivita' compiute. Il tribunale puo' subordinare la sospensione del procedimento anche alla sostituzione dei componenti dell'organo di controllo. Se le violazioni denunziate sussistono ovvero se gli accertamenti e le attivita' compiute ai sensi del terzo comma risultano insufficienti alla loro eliminazione, il tribunale puo' disporre gli opportuni provvedimenti provvisori e convocare l'assemblea per le conseguenti deliberazioni. Nei casi piu' gravi puo' revocare gli amministratori ed eventualmente anche i componenti dell'organo di controllo e nominare un amministratore giudiziario, determinandone i poteri e la durata. L'amministratore giudiziario puo' proporre l'azione di responsabilita' contro gli amministratori e i componenti dell'organo di controllo. Si applica l'ultimo comma dell'articolo 2393. Prima della scadenza del suo incarico l'amministratore giudiziario rende conto al tribunale che lo ha nominato; convoca e presiede l'assemblea per la nomina dei nuovi amministratori e componenti dell'organo di controllo o per proporre, se del caso, la messa in liquidazione della societa' o la sua ammissione ad una procedura concorsuale. I provvedimenti previsti da questo articolo possono essere adottati anche su richiesta dell'organo di controllo nonche', nelle societa' che fanno ricorso al mercato del capitale di rischio, del pubblico ministero; in questi casi le spese per l'ispezione sono a carico della societa'.))",
+    "caratteri": 2576
+  },
+  "note": [],
+  "impronta": "sha256:0c8fc61f5b090e421295c7e98c2574d21d1a0e38c66c480c5c4fd8c19533aade"
+}

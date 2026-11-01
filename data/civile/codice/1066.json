@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1066",
+    "rubrica": "Possesso delle servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1066"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle questioni di possesso delle servitu' si ha riguardo alla pratica dell'anno antecedente e, se si tratta di servitu' esercitate a intervalli maggiori di un anno, si ha riguardo alla pratica dell'ultimo godimento.",
+    "con_marcatori": "Art. 1066. (Possesso delle servitu'). Nelle questioni di possesso delle servitu' si ha riguardo alla pratica dell'anno antecedente e, se si tratta di servitu' esercitate a intervalli maggiori di un anno, si ha riguardo alla pratica dell'ultimo godimento.",
+    "caratteri": 216
+  },
+  "note": [],
+  "impronta": "sha256:c40cabd475808a544ffd99ab6ffda5dfc55d905d818dca71d5d218f0961e4e33"
+}

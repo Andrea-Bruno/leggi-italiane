@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "540",
+    "rubrica": "Riserva a favore del coniuge",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art540"
+  },
+  "stato": {
+    "codice": "da_verificare",
+    "inapplicabile": null,
+    "certezza": "bassa",
+    "motivazione": "Una nota segnala un effetto abrogativo o di illegittimita' di cui non e' stato possibile determinare l'oggetto: leggere il testo della nota.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 30,
+        "ambito": "non_determinato"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "A favore del coniuge e' riservata la meta' del patrimonio dell'altro coniuge, salve le disposizioni dell'articolo 542 per il caso di concorso con i figli. Al coniuge, anche quando concorra con altri chiamati, sono riservati i diritti di abitazione sulla casa adibita a residenza familiare e di uso sui mobili che la corredano, se di proprieta' del defunto o comuni. Tali diritti gravano sulla porzione disponibile e, qualora questa non sia sufficiente, per il rimanente sulla quota di riserva del coniuge ed eventualmente sulla quota riservata ai figli.",
+    "con_marcatori": "Art. 540. ((Riserva a favore del coniuge.)) ((A favore del coniuge e' riservata la meta' del patrimonio dell'altro coniuge, salve le disposizioni dell'articolo 542 per il caso di concorso con i figli. Al coniuge, anche quando concorra con altri chiamati, sono riservati i diritti di abitazione sulla casa adibita a residenza familiare e di uso sui mobili che la corredano, se di proprieta' del defunto o comuni. Tali diritti gravano sulla porzione disponibile e, qualora questa non sia sufficiente, per il rimanente sulla quota di riserva del coniuge ed eventualmente sulla quota riservata ai figli)).",
+    "caratteri": 553
+  },
+  "note": [
+    {
+      "numero": 30,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "artt. 545",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "546 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1973-04-30",
+        "numero": "50"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 16 - 30 aprile 1973, n. 50 (in G.U. 1a s.s. 9/5/1973, n. 119), ha dichiarato l'illegittimita' costituzionale, \"in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, degli artt. 545 e 546 del codice civile e, conseguentemente, degli artt. 538, 539 e 540 dello stesso codice nelle parti in cui fanno richiamo ai predetti artt. 545 e 546\"."
+    }
+  ],
+  "impronta": "sha256:41a2cbdc78e40cfa96709a164b952a4a90ff2c92e6926d8e415a0e43bb5de22f"
+}

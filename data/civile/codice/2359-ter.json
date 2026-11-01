@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2359-ter",
+    "rubrica": "Alienazione o annullamento delle azioni o quote della societa' controllante",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le azioni o quote acquistate in violazione dell'articolo 2359-bis devono essere alienate secondo modalita' da determinarsi dall'assemblea entro un anno dal loro acquisto. In mancanza, la societa' controllante deve procedere senza indugio al loro annullamento e alla corrispondente riduzione del capitale, con rimborso secondo i criteri indicati dagli articoli 2437-ter e 2437-quater. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma.",
+    "con_marcatori": "Art. 2359-ter (( (Alienazione o annullamento delle azioni o quote della societa' controllante). )) ((Le azioni o quote acquistate in violazione dell'articolo 2359-bis devono essere alienate secondo modalita' da determinarsi dall'assemblea entro un anno dal loro acquisto. In mancanza, la societa' controllante deve procedere senza indugio al loro annullamento e alla corrispondente riduzione del capitale, con rimborso secondo i criteri indicati dagli articoli 2437-ter e 2437-quater. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma.))",
+    "caratteri": 576
+  },
+  "note": [],
+  "impronta": "sha256:b4f76f40e749fdd5e355cfd3f77a400e3cdd81f3fecbec8d6d21fd2ca2a3f1de"
+}

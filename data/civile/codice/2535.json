@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2535",
+    "rubrica": "Liquidazione della quota o rimborso delle azioni del socio uscente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2535"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La liquidazione della quota o il rimborso delle azioni ha luogo sulla base del bilancio dell'esercizio in cui si sono verificati il recesso, l'esclusione o la morte del socio. La liquidazione della partecipazione sociale, eventualmente ridotta in proporzione alle perdite imputabili al capitale, avviene sulla base dei criteri stabiliti nell'atto costitutivo. Salvo diversa disposizione, la liquidazione comprende anche il rimborso del soprapprezzo, ove versato, qualora sussista nel patrimonio della societa' e non sia stato destinato ad aumento gratuito del capitale ai sensi dell'articolo 2545-quinquies, terzo comma. Il pagamento deve essere fatto entro centottanta giorni dall'approvazione. L'atto costitutivo puo' prevedere che, per la frazione della quota o le azioni assegnate al socio ai sensi degli articoli dell'articolo 2545-quinquies e 2545-sexies, la liquidazione o il rimborso, unitamente agli interessi legali, possa essere corrisposto in piu' rate entro un termine massimo di cinque anni.",
+    "con_marcatori": "Art. 2535. (( (Liquidazione della quota o rimborso delle azioni del socio uscente).)) ((La liquidazione della quota o il rimborso delle azioni ha luogo sulla base del bilancio dell'esercizio in cui si sono verificati il recesso, l'esclusione o la morte del socio. La liquidazione della partecipazione sociale, eventualmente ridotta in proporzione alle perdite imputabili al capitale, avviene sulla base dei criteri stabiliti nell'atto costitutivo. Salvo diversa disposizione, la liquidazione comprende anche il rimborso del soprapprezzo, ove versato, qualora sussista nel patrimonio della societa' e non sia stato destinato ad aumento gratuito del capitale ai sensi dell'articolo 2545-quinquies, terzo comma. Il pagamento deve essere fatto entro centottanta giorni dall'approvazione. L'atto costitutivo puo' prevedere che, per la frazione della quota o le azioni assegnate al socio ai sensi degli articoli dell'articolo 2545-quinquies e 2545-sexies, la liquidazione o il rimborso, unitamente agli interessi legali, possa essere corrisposto in piu' rate entro un termine massimo di cinque anni.))",
+    "caratteri": 1005
+  },
+  "note": [],
+  "impronta": "sha256:2e08831b5101e82aa6802ee3a2426bfe03875bf3a13c66e5e5fb0a30e956d914"
+}

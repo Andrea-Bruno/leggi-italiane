@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "593",
+    "rubrica": "Omissione di soccorso",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art593"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, trovando abbandonato o smarrito un fanciullo minore degli anni dieci, o un'altra persona incapace di provvedere a se' stessa, per malattia di mente o di corpo, per vecchiaia o per altra causa, omette di darne immediato avviso all'Autorita' e` punito con la reclusione fino a un anno o con la multa fino a 2.500 euro. Alla stessa pena soggiace chi, trovando un corpo umano che sia o sembri inanimato, ovvero una persona ferita o altrimenti in pericolo, omette di prestare l'assistenza occorrente o di darne immediato avviso all'Autorita'. Se da siffatta condotta del colpevole deriva una lesione personale, la pena e' aumentata; se ne deriva la morte, la pena e' raddoppiata.",
+    "con_marcatori": "Art. 593. (Omissione di soccorso) Chiunque, trovando abbandonato o smarrito un fanciullo minore degli anni dieci, o un'altra persona incapace di provvedere a se' stessa, per malattia di mente o di corpo, per vecchiaia o per altra causa, omette di darne immediato avviso all'Autorita' ((e` punito con la reclusione fino a un anno o con la multa fino a 2.500 euro)). Alla stessa pena soggiace chi, trovando un corpo umano che sia o sembri inanimato, ovvero una persona ferita o altrimenti in pericolo, omette di prestare l'assistenza occorrente o di darne immediato avviso all'Autorita'. Se da siffatta condotta del colpevole deriva una lesione personale, la pena e' aumentata; se ne deriva la morte, la pena e' raddoppiata.",
+    "caratteri": 684
+  },
+  "note": [],
+  "impronta": "sha256:8c6ec6f2cbcaa039ee634cafe74332c3531d8410299177e6abdee7a711a81c5a"
+}

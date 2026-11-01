@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "384-ter",
+    "rubrica": "Circostanze speciali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art384-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se i fatti di cui agli articoli 371-bis, 371-ter, 372, 374 e 378 sono commessi al fine di impedire, ostacolare o sviare un'indagine o un processo penale in relazione ai delitti di cui agli articoli 270, 270-bis, 276, 280, 280-bis, 283, 284, 285, 289-bis, 304, 305, 306, 416-bis, 416-ter e 422 o ai reati previsti dall'articolo 2 della legge 25 gennaio 1982, n. 17, ovvero ai reati concernenti il traffico illegale di armi o di materiale nucleare, chimico o biologico e comunque in relazione ai reati di cui all'articolo 51, comma 3-bis, del codice di procedura penale, la pena e' aumentata dalla meta' a due terzi e non opera la sospensione del procedimento di cui agli articoli 371-bis e 371-ter. La pena e' diminuita dalla meta' a due terzi nei confronti di colui che si adopera per ripristinare lo stato originario dei luoghi, delle cose, delle persone o delle prove, nonche' per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella ricostruzione del fatto oggetto di inquinamento processuale e depistaggio e nell'individuazione degli autori.",
+    "con_marcatori": "Art. 384-ter. (( (Circostanze speciali). )) ((Se i fatti di cui agli articoli 371-bis, 371-ter, 372, 374 e 378 sono commessi al fine di impedire, ostacolare o sviare un'indagine o un processo penale in relazione ai delitti di cui agli articoli 270, 270-bis, 276, 280, 280-bis, 283, 284, 285, 289-bis, 304, 305, 306, 416-bis, 416-ter e 422 o ai reati previsti dall'articolo 2 della legge 25 gennaio 1982, n. 17, ovvero ai reati concernenti il traffico illegale di armi o di materiale nucleare, chimico o biologico e comunque in relazione ai reati di cui all'articolo 51, comma 3-bis, del codice di procedura penale, la pena e' aumentata dalla meta' a due terzi e non opera la sospensione del procedimento di cui agli articoli 371-bis e 371-ter. La pena e' diminuita dalla meta' a due terzi nei confronti di colui che si adopera per ripristinare lo stato originario dei luoghi, delle cose, delle persone o delle prove, nonche' per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella ricostruzione del fatto oggetto di inquinamento processuale e depistaggio e nell'individuazione degli autori)).",
+    "caratteri": 1148
+  },
+  "note": [],
+  "impronta": "sha256:91019731d9fc8a861113c60ff268e54b7bd2a86811612c25865d1a57e733a892"
+}

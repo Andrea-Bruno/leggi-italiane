@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "612-bis",
+    "rubrica": "Atti persecutori",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art612-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da un anno a sei anni e sei mesi chiunque, con condotte reiterate, minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura ovvero da ingenerare un fondato timore per l'incolumita' propria o di un prossimo congiunto o di persona al medesimo legata da relazione affettiva ovvero da costringere lo stesso ad alterare le proprie abitudini di vita. La pena e' aumentata se il fatto e' commesso dal coniuge, anche separato o divorziato, o da persona che e' o e' stata legata da relazione affettiva alla persona offesa ovvero se il fatto e' commesso attraverso strumenti informatici o telematici. La pena e' aumentata fino alla meta' se il fatto e' commesso a danno di un minore, di una donna in stato di gravidanza o di una persona con disabilita' di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, ovvero con armi o da persona travisata. La pena e' aumentata da un terzo a due terzi quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali. Il delitto e' punito a querela della persona offesa. Il termine per la proposizione della querela e' di sei mesi. La remissione della querela puo' essere soltanto processuale. La querela e' comunque irrevocabile se il fatto e' stato commesso mediante minacce reiterate nei modi di cui all'articolo 612, secondo comma. Si procede tuttavia d'ufficio se il fatto e' commesso nei confronti di un minore o di una persona con disabilita' di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, nonche' quando il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio.",
+    "con_marcatori": "Art. 612-bis. (Atti persecutori). Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da un anno a sei anni e sei mesi chiunque, con condotte reiterate, minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura ovvero da ingenerare un fondato timore per l'incolumita' propria o di un prossimo congiunto o di persona al medesimo legata da relazione affettiva ovvero da costringere lo stesso ad alterare le proprie abitudini di vita. La pena e' aumentata se il fatto e' commesso dal coniuge, anche separato o divorziato, o da persona che e' o e' stata legata da relazione affettiva alla persona offesa ovvero se il fatto e' commesso attraverso strumenti informatici o telematici. La pena e' aumentata fino alla meta' se il fatto e' commesso a danno di un minore, di una donna in stato di gravidanza o di una persona con disabilita' di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, ovvero con armi o da persona travisata. ((La pena e' aumentata da un terzo a due terzi quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali)). Il delitto e' punito a querela della persona offesa. Il termine per la proposizione della querela e' di sei mesi. La remissione della querela puo' essere soltanto processuale. La querela e' comunque irrevocabile se il fatto e' stato commesso mediante minacce reiterate nei modi di cui all'articolo 612, secondo comma. Si procede tuttavia d'ufficio se il fatto e' commesso nei confronti di un minore o di una persona con disabilita' di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, nonche' quando il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio.",
+    "caratteri": 1883
+  },
+  "note": [],
+  "impronta": "sha256:6bf10beda5ee8158abadc7518765306fadf8b46495872fc9094ad1e457b2479a"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1911",
+    "rubrica": "Coassicurazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1911"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora la medesima assicurazione o l'assicurazione di rischi relativi alle stesse cose sia ripartita tra piu' assicuratori per quota determinate, ciascun assicuratore e' tenuto al pagamento dell'indennita' assicurata soltanto in proporzione della rispettiva quota, anche se unico e' il contratto sottoscritto da tutti gli assicuratori.",
+    "con_marcatori": "Art. 1911. (Coassicurazione). Qualora la medesima assicurazione o l'assicurazione di rischi relativi alle stesse cose sia ripartita tra piu' assicuratori per quota determinate, ciascun assicuratore e' tenuto al pagamento dell'indennita' assicurata soltanto in proporzione della rispettiva quota, anche se unico e' il contratto sottoscritto da tutti gli assicuratori.",
+    "caratteri": 336
+  },
+  "note": [],
+  "impronta": "sha256:b87ce633734c307f94b46a727d2ebd27cc192588dd22f5818760bea08179d512"
+}

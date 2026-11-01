@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2352",
+    "rubrica": "Pegno, usufrutto e sequestro delle azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2352"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di pegno o usufrutto sulle azioni, il diritto di voto spetta, salvo convenzione contraria, al creditore pignoratizio o all'usufruttuario. Nel caso di sequestro delle azioni il diritto di voto e' esercitato dal custode. Se le azioni attribuiscono un diritto di opzione, questo spetta al socio ed al medesimo sono attribuite le azioni in base ad esso sottoscritte. Qualora il socio non provveda almeno tre giorni prima della scadenza al versamento delle somme necessarie per l'esercizio del diritto di opzione e qualora gli altri soci non si offrano di acquistarlo, questo deve essere alienato per suo conto a mezzo banca od intermediario autorizzato alla negoziazione nei mercati regolamentati. Nel caso di aumento del capitale sociale ai sensi dell'articolo 2442, il pegno, l'usufrutto o il sequestro si estendono alle azioni di nuova emissione. Se sono richiesti versamenti sulle azioni, nel caso di pegno, il socio deve provvedere al versamento delle somme necessarie almeno tre giorni prima della scadenza; in mancanza il creditore pignoratizio puo' vendere le azioni nel modo stabilito dal secondo comma del presente articolo. Nel caso di usufrutto, l'usufruttuario deve provvedere al versamento, salvo il suo diritto alla restituzione al termine dell'usufrutto. Se l'usufrutto spetta a piu' persone, si applica il secondo comma dell'articolo 2347. Salvo che dal titolo o dal provvedimento del giudice risulti diversamente, i diritti amministrativi diversi da quelli previsti nel presente articolo spettano, nel caso di pegno o di usufrutto, sia al socio sia al creditore pignoratizio o all'usufruttuario; nel caso di sequestro sono esercitati dal custode.",
+    "con_marcatori": "Art. 2352. (( (Pegno, usufrutto e sequestro delle azioni). )) ((Nel caso di pegno o usufrutto sulle azioni, il diritto di voto spetta, salvo convenzione contraria, al creditore pignoratizio o all'usufruttuario. Nel caso di sequestro delle azioni il diritto di voto e' esercitato dal custode. Se le azioni attribuiscono un diritto di opzione, questo spetta al socio ed al medesimo sono attribuite le azioni in base ad esso sottoscritte. Qualora il socio non provveda almeno tre giorni prima della scadenza al versamento delle somme necessarie per l'esercizio del diritto di opzione e qualora gli altri soci non si offrano di acquistarlo, questo deve essere alienato per suo conto a mezzo banca od intermediario autorizzato alla negoziazione nei mercati regolamentati. Nel caso di aumento del capitale sociale ai sensi dell'articolo 2442, il pegno, l'usufrutto o il sequestro si estendono alle azioni di nuova emissione. Se sono richiesti versamenti sulle azioni, nel caso di pegno, il socio deve provvedere al versamento delle somme necessarie almeno tre giorni prima della scadenza; in mancanza il creditore pignoratizio puo' vendere le azioni nel modo stabilito dal secondo comma del presente articolo. Nel caso di usufrutto, l'usufruttuario deve provvedere al versamento, salvo il suo diritto alla restituzione al termine dell'usufrutto. Se l'usufrutto spetta a piu' persone, si applica il secondo comma dell'articolo 2347. Salvo che dal titolo o dal provvedimento del giudice risulti diversamente, i diritti amministrativi diversi da quelli previsti nel presente articolo spettano, nel caso di pegno o di usufrutto, sia al socio sia al creditore pignoratizio o all'usufruttuario; nel caso di sequestro sono esercitati dal custode.))",
+    "caratteri": 1669
+  },
+  "note": [],
+  "impronta": "sha256:523d2b3b5786958fb42375bd3645fc8c2e3b3264db51dc8454a81b8bc8514fa6"
+}

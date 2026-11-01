@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1489",
+    "rubrica": "Cosa gravata da oneri o da diritti di godimento di terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1489"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la cosa venduta e' gravata da oneri o da diritti reali o personali non apparenti che ne diminuiscono il libero godimento e non sono stati dichiarati nel contratto, il compratore che non ne abbia avuto conoscenza puo' domandare la risoluzione del contratto oppure una riduzione del prezzo secondo la disposizione dell'art. 1480. Si osservano inoltre, in quanto applicabili, le disposizioni degli articoli 1481, 1485, 1486, 1487 e 1488.",
+    "con_marcatori": "Art. 1489. (Cosa gravata da oneri o da diritti di godimento di terzi). Se la cosa venduta e' gravata da oneri o da diritti reali o personali non apparenti che ne diminuiscono il libero godimento e non sono stati dichiarati nel contratto, il compratore che non ne abbia avuto conoscenza puo' domandare la risoluzione del contratto oppure una riduzione del prezzo secondo la disposizione dell'art. 1480. Si osservano inoltre, in quanto applicabili, le disposizioni degli articoli 1481, 1485, 1486, 1487 e 1488.",
+    "caratteri": 437
+  },
+  "note": [],
+  "impronta": "sha256:bd00201766174f75127eb8837d2faf26d9e6771eb198f4b19b64fd6da4cc976a"
+}

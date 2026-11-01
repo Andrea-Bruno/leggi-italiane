@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2172",
+    "rubrica": "Durata del contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2172"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se nel contratto non e' stabilito un termine, la soccida ha la durata di tre anni. Alla scadenza del termine il contratto non cessa di diritto, e la parte che non intende rinnovarlo deve darne disdetta almeno sei mesi prima della scadenza o nel maggior termine fissato dalle norme corporative, dalla convenzione o dagli usi. Se non e' data disdetta, il contratto s'intende rinnovato di anno in anno.",
+    "con_marcatori": "Art. 2172. (Durata del contratto). Se nel contratto non e' stabilito un termine, la soccida ha la durata di tre anni. Alla scadenza del termine il contratto non cessa di diritto, e la parte che non intende rinnovarlo deve darne disdetta almeno sei mesi prima della scadenza o nel maggior termine fissato dalle norme corporative, dalla convenzione o dagli usi. Se non e' data disdetta, il contratto s'intende rinnovato di anno in anno.",
+    "caratteri": 399
+  },
+  "note": [],
+  "impronta": "sha256:d3f9739ae5266457c22c780f28da67d7b7f1dbdb660c0f89b83f0b89aacd94bf"
+}

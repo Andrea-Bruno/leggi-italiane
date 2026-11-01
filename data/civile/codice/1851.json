@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1851",
+    "rubrica": "Pegno irregolare a garanzia di anticipazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1851"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se, a garanzia di uno o piu' crediti, sono vincolati depositi di danaro, merci o titoli che non siano stati individuati o per i quali sia stata conferita alla banca la facolta' di disporre, la banca deve restituire solo la somma o la parte delle merci o dei titoli che eccedono l'ammontare dei crediti garantiti. L'eccedenza e' determinata in relazione al valore delle merci o dei titoli al tempo della scadenza dei crediti.",
+    "con_marcatori": "Art. 1851. (Pegno irregolare a garanzia di anticipazione). Se, a garanzia di uno o piu' crediti, sono vincolati depositi di danaro, merci o titoli che non siano stati individuati o per i quali sia stata conferita alla banca la facolta' di disporre, la banca deve restituire solo la somma o la parte delle merci o dei titoli che eccedono l'ammontare dei crediti garantiti. L'eccedenza e' determinata in relazione al valore delle merci o dei titoli al tempo della scadenza dei crediti.",
+    "caratteri": 424
+  },
+  "note": [],
+  "impronta": "sha256:e53bb777cf43077473c755e21e437faff4d03877064bbd720d000bec39ecc382"
+}

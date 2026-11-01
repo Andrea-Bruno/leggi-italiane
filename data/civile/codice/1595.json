@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1595",
+    "rubrica": "Rapporti tra il locatore e il subconduttore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1595"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il locatore, senza pregiudizio dei suoi diritti verso il conduttore, ha azione diretta contro il subconduttore per esigere il prezzo della sublocazione, di cui questi sia ancora debitore al momento della domanda giudiziale, e per costringerlo ad adempiere tutte le altre obbligazioni derivanti dal contratto di sublocazione. Il subconduttore non puo' opporgli pagamenti anticipati, salvo che siano stati fatti secondo gli usi locali. Senza pregiudizio delle ragioni del subconduttore verso il sublocatore, la nullita' o la risoluzione del contratto di locazione ha effetto anche nei confronti del subconduttore, e la sentenza pronunciata tra locatore e conduttore ha effetto anche contro di lui.",
+    "con_marcatori": "Art. 1595. (Rapporti tra il locatore e il subconduttore). Il locatore, senza pregiudizio dei suoi diritti verso il conduttore, ha azione diretta contro il subconduttore per esigere il prezzo della sublocazione, di cui questi sia ancora debitore al momento della domanda giudiziale, e per costringerlo ad adempiere tutte le altre obbligazioni derivanti dal contratto di sublocazione. Il subconduttore non puo' opporgli pagamenti anticipati, salvo che siano stati fatti secondo gli usi locali. Senza pregiudizio delle ragioni del subconduttore verso il sublocatore, la nullita' o la risoluzione del contratto di locazione ha effetto anche nei confronti del subconduttore, e la sentenza pronunciata tra locatore e conduttore ha effetto anche contro di lui.",
+    "caratteri": 695
+  },
+  "note": [],
+  "impronta": "sha256:1ddb1b7a61f4efd0d7eda68515527dd2a1848dc470b093813750ca8526a0a696"
+}

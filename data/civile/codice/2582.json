@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2582",
+    "rubrica": "Ritiro dell'opera dal commercio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2582"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'autore, qualora concorrano gravi ragioni morali, ha diritto di ritirare l'opera dal commercio, salvo l'obbligo d'indennizzare coloro che hanno acquistato i diritti di riprodurre, diffondere, eseguire, rappresentare o mettere in commercio l'opera medesima. Questo diritto e' personale e intrasmissibile.",
+    "con_marcatori": "Art. 2582. (Ritiro dell'opera dal commercio). L'autore, qualora concorrano gravi ragioni morali, ha diritto di ritirare l'opera dal commercio, salvo l'obbligo d'indennizzare coloro che hanno acquistato i diritti di riprodurre, diffondere, eseguire, rappresentare o mettere in commercio l'opera medesima. Questo diritto e' personale e intrasmissibile.",
+    "caratteri": 304
+  },
+  "note": [],
+  "impronta": "sha256:395e080541c73910dfadfa9194a74d7d51700a40cb4de17d17190f4bedb0d7e5"
+}

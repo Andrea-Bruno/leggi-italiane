@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1439",
+    "rubrica": "Dolo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1439"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il dolo e' causa di annullamento del contratto quando i raggiri usati da uno dei contraenti sono stati tali che, senza di essi, l'altra parte non avrebbe contrattato. Quando i raggiri sono stati usati da un terzo, il contratto e' annullabile se essi erano noti al contraente che ne ha tratto vantaggio.",
+    "con_marcatori": "Art. 1439. (Dolo). Il dolo e' causa di annullamento del contratto quando i raggiri usati da uno dei contraenti sono stati tali che, senza di essi, l'altra parte non avrebbe contrattato. Quando i raggiri sono stati usati da un terzo, il contratto e' annullabile se essi erano noti al contraente che ne ha tratto vantaggio.",
+    "caratteri": 302
+  },
+  "note": [],
+  "impronta": "sha256:f808010ea5d525f1164842af01d4798d89566a46ed3f361d675eec03b4529371"
+}

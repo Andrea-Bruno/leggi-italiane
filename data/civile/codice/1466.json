@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1466",
+    "rubrica": "Impossibilita' nel contratto plurilaterale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1466"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei contratti indicati dall'art. 1420 l'impossibilita' della prestazione di una delle parti non importa scioglimento del contratto rispetto alle altre, salvo che la prestazione mancata debba, secondo le circostanze, considerarsi essenziale.",
+    "con_marcatori": "Art. 1466. (Impossibilita' nel contratto plurilaterale). Nei contratti indicati dall'art. 1420 l'impossibilita' della prestazione di una delle parti non importa scioglimento del contratto rispetto alle altre, salvo che la prestazione mancata debba, secondo le circostanze, considerarsi essenziale.",
+    "caratteri": 240
+  },
+  "note": [],
+  "impronta": "sha256:ac6619a5d660a8fdc2718f94f8cddf87b8673a427b4ed33bda20f44c336ba0c1"
+}

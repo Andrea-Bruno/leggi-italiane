@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "264",
+    "rubrica": "Impugnazione da parte del figlio minore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art264"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'impugnazione del riconoscimento per difetto di veridicita' puo' essere altresi' promossa da un curatore speciale nominato dal giudice, assunte sommarie informazioni, su istanza del figlio minore che ha compiuto quattordici anni, ovvero del pubblico ministero o dell'altro genitore che abbia validamente riconosciuto il figlio, quando si tratti di figlio di eta' inferiore.",
+    "con_marcatori": "Art. 264. ((Impugnazione da parte del figlio minore)) ((L'impugnazione del riconoscimento per difetto di veridicita' puo' essere altresi' promossa da un curatore speciale nominato dal giudice, assunte sommarie informazioni, su istanza del figlio minore che ha compiuto quattordici anni, ovvero del pubblico ministero o dell'altro genitore che abbia validamente riconosciuto il figlio, quando si tratti di figlio di eta' inferiore.))",
+    "caratteri": 374
+  },
+  "note": [],
+  "impronta": "sha256:9000d4b7cb0ddbbc15821f215891cce0416159c98cbc1553ec0a794c1cc6c0b2"
+}

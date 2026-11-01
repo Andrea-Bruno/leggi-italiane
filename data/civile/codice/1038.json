@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1038",
+    "rubrica": "Indennita' per l'imposizione della servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1038"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Prima d'imprendere la costruzione dell'acquedotto, chi vuol condurre acqua per il fondo altrui deve pagare il valore, secondo la stima, dei terreni da occupare, senza detrazione delle imposte e degli altri carichi inerenti al fondo, oltre l'indennita' per i danni, ivi compresi quelli derivanti dalla separazione in due o piu' parti o da altro deterioramento del fondo da intersecare. Per i terreni, pero', che sono occupati soltanto per il deposito delle materie estratte e per il getto dello spurgo non si deve pagare che la meta' del valore del suolo, e sempre senza detrazione delle imposte e degli altri carichi inerenti; ma nei terreni medesimi il proprietario del fondo servente puo' fare piantagioni e rimuovere e trasportare le materie ammucchiate, purche' tutto segua senza danno dell'acquedotto, del suo spurgo e della sua riparazione.",
+    "con_marcatori": "Art. 1038. (Indennita' per l'imposizione della servitu'). Prima d'imprendere la costruzione dell'acquedotto, chi vuol condurre acqua per il fondo altrui deve pagare il valore, secondo la stima, dei terreni da occupare, senza detrazione delle imposte e degli altri carichi inerenti al fondo, oltre l'indennita' per i danni, ivi compresi quelli derivanti dalla separazione in due o piu' parti o da altro deterioramento del fondo da intersecare. Per i terreni, pero', che sono occupati soltanto per il deposito delle materie estratte e per il getto dello spurgo non si deve pagare che la meta' del valore del suolo, e sempre senza detrazione delle imposte e degli altri carichi inerenti; ma nei terreni medesimi il proprietario del fondo servente puo' fare piantagioni e rimuovere e trasportare le materie ammucchiate, purche' tutto segua senza danno dell'acquedotto, del suo spurgo e della sua riparazione.",
+    "caratteri": 846
+  },
+  "note": [],
+  "impronta": "sha256:983d6b93ba94f88d01a3e387a02eeff02f6e8b258ac5e2d67b019adec0888d4e"
+}

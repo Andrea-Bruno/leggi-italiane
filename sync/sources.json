@@ -1,0 +1,27 @@
+{
+  "commento": [
+    "Registro degli atti sincronizzati. Ogni voce è un codice di Normattiva.",
+    "urn: identificatore permanente (urn:nir) usato per la pagina consolidata.",
+    "sezioni: nome della sezione nell'export Akoma Ntoso -> cartella di destinazione.",
+    "Per aggiungere un codice: una voce qui, nessuna modifica al codice Python."
+  ],
+  "codici": [
+    {
+      "id": "civile",
+      "denominazione": "Codice civile",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "sezioni": {
+        "CODICE CIVILE": "codice",
+        "Disposizioni sulla legge in generale": "preleggi"
+      }
+    },
+    {
+      "id": "penale",
+      "denominazione": "Codice penale",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "sezioni": {
+        "Codice Penale": "codice"
+      }
+    }
+  ]
+}

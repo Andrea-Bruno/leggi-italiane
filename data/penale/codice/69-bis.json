@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "69-bis",
+    "rubrica": "Casi di esclusione del giudizio di comparazione tra circostanze",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art69-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per i delitti di cui all'articolo 407, comma 2, lettera a), numeri da 1) a 6), del codice di procedura penale le circostanze attenuanti, diverse da quella prevista dall'articolo 98, concorrenti con le aggravanti di cui agli articoli 111 e 112, primo comma, numeri 3) e 4), e secondo comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste se chi ha determinato altri a commettere il reato, o si e' avvalso di altri nella commissione del delitto, ne e' il genitore esercente la responsabilita' genitoriale ovvero il fratello o la sorella e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti.",
+    "con_marcatori": "Art. 69-bis. (( (Casi di esclusione del giudizio di comparazione tra circostanze).)) ((Per i delitti di cui all'articolo 407, comma 2, lettera a), numeri da 1) a 6), del codice di procedura penale le circostanze attenuanti, diverse da quella prevista dall'articolo 98, concorrenti con le aggravanti di cui agli articoli 111 e 112, primo comma, numeri 3) e 4), e secondo comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste se chi ha determinato altri a commettere il reato, o si e' avvalso di altri nella commissione del delitto, ne e' il genitore esercente la responsabilita' genitoriale ovvero il fratello o la sorella e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti.))",
+    "caratteri": 680
+  },
+  "note": [],
+  "impronta": "sha256:9e6738c5e71397c744149c3abe4f678f1bfd8540d55bd8492c7d0365d400cf42"
+}

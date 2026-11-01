@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "20-bis",
+    "rubrica": "Pene sostitutive delle pene detentive brevi",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art20-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo quanto previsto da particolari disposizioni di legge, le pene sostitutive della reclusione e dell'arresto sono disciplinate dal Capo III della legge 24 novembre 1981, n. 689, e sono le seguenti: 1) la semiliberta' sostitutiva; 2) la detenzione domiciliare sostitutiva; 3) il lavoro di pubblica utilita' sostitutivo; 4) la pena pecuniaria sostitutiva. La semiliberta' sostitutiva e la detenzione domiciliare sostitutiva possono essere applicate dal giudice in caso di condanna alla reclusione o all'arresto non superiori a quattro anni. Il lavoro di pubblica utilita' sostitutivo puo' essere applicato dal giudice in caso di condanna alla reclusione o all'arresto non superiori a tre anni. La pena pecuniaria sostitutiva puo' essere applicata dal giudice in caso di condanna alla reclusione o all'arresto non superiori a un anno.",
+    "con_marcatori": "Art. 20-bis. (( (Pene sostitutive delle pene detentive brevi). )) ((Salvo quanto previsto da particolari disposizioni di legge, le pene sostitutive della reclusione e dell'arresto sono disciplinate dal Capo III della legge 24 novembre 1981, n. 689, e sono le seguenti: 1) la semiliberta' sostitutiva; 2) la detenzione domiciliare sostitutiva; 3) il lavoro di pubblica utilita' sostitutivo; 4) la pena pecuniaria sostitutiva. La semiliberta' sostitutiva e la detenzione domiciliare sostitutiva possono essere applicate dal giudice in caso di condanna alla reclusione o all'arresto non superiori a quattro anni. Il lavoro di pubblica utilita' sostitutivo puo' essere applicato dal giudice in caso di condanna alla reclusione o all'arresto non superiori a tre anni. La pena pecuniaria sostitutiva puo' essere applicata dal giudice in caso di condanna alla reclusione o all'arresto non superiori a un anno.))",
+    "caratteri": 834
+  },
+  "note": [],
+  "impronta": "sha256:314f37a7485be9685120d2387f4280d45c7878ce5cfa2d6fee6e276e4ee2aa4b"
+}

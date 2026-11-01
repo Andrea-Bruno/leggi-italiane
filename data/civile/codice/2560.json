@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2560",
+    "rubrica": "Debiti relativi all'azienda ceduta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2560"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'alienante non e' liberato dai debiti, inerenti all'esercizio dell'azienda ceduta anteriori al trasferimento, se non risulta che i creditori vi hanno consentito. Nel trasferimento di un'azienda commerciale risponde dei debiti suddetti anche l'acquirente dell'azienda, se essi risultano dai libri contabili obbligatori.",
+    "con_marcatori": "Art. 2560. (Debiti relativi all'azienda ceduta). L'alienante non e' liberato dai debiti, inerenti all'esercizio dell'azienda ceduta anteriori al trasferimento, se non risulta che i creditori vi hanno consentito. Nel trasferimento di un'azienda commerciale risponde dei debiti suddetti anche l'acquirente dell'azienda, se essi risultano dai libri contabili obbligatori.",
+    "caratteri": 319
+  },
+  "note": [],
+  "impronta": "sha256:1ae6fc050dcc2d61f5ddea334475763c180c9438a46f158a3cac0336b8c6f549"
+}

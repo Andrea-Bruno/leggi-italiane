@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "298",
+    "rubrica": "Decorrenza degli effetti dell'adozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art298"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'adozione produce i suoi effetti dalla data del decreto che la pronunzia. Finche' il decreto non e' emanato, tanto l'adottante quanto l'adottando possono revocare il loro consenso. Se l'adottante muore dopo la prestazione del consenso e prima dell'emanazione del decreto, si puo' procedere al compimento degli atti necessari per l'adozione. Gli eredi dell'adottante possono presentare alla corte memorie e osservazioni per opporsi all'adozione. Se l'adozione e' ammessa, essa produce i suoi effetti dal momento della morte dell'adottante.",
+    "con_marcatori": "Art. 298. (Decorrenza degli effetti dell'adozione). L'adozione produce i suoi effetti dalla data del decreto che la pronunzia. Finche' il decreto non e' emanato, tanto l'adottante quanto l'adottando possono revocare il loro consenso. Se l'adottante muore dopo la prestazione del consenso e prima dell'emanazione del decreto, si puo' procedere al compimento degli atti necessari per l'adozione. Gli eredi dell'adottante possono presentare alla corte memorie e osservazioni per opporsi all'adozione. Se l'adozione e' ammessa, essa produce i suoi effetti dal momento della morte dell'adottante.",
+    "caratteri": 539
+  },
+  "note": [],
+  "impronta": "sha256:5040b3c81e788c0c4ce986a4e7ad946a5528ba079c9c7e7c7294bdbcb6488f9e"
+}

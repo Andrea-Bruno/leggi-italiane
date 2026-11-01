@@ -1,0 +1,111 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "146",
+    "rubrica": "Rinvio obbligatorio dell'esecuzione della pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art146"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 145,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "L'esecuzione di una pena, che non sia pecuniaria, e' differita: 1) NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48; 2) NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48; 3) se deve aver luogo nei confronti di persona affetta da AIDS conclamata o da grave deficienza immunitaria accertate ai sensi dell'articolo 286-bis, comma 2, del codice di procedura penale, ovvero da altra malattia particolarmente grave per effetto della quale le sue condizioni di salute risultano incompatibili con lo stato di detenzione, quando la persona si trova in una fase della malattia cosi' avanzata da non rispondere piu', secondo le certificazioni del servizio sanitario penitenziario o esterno, ai trattamenti disponibili e alle terapie curative. COMMA ABROGATO DAL D.L. 11 APRILE 2025, N. 48.",
+    "con_marcatori": "Art. 146. (Rinvio obbligatorio dell'esecuzione della pena). L'esecuzione di una pena, che non sia pecuniaria, e' differita: 1) ((NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48)); 2) ((NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48)); 3) se deve aver luogo nei confronti di persona affetta da AIDS conclamata o da grave deficienza immunitaria accertate ai sensi dell'articolo 286-bis, comma 2, del codice di procedura penale, ovvero da altra malattia particolarmente grave per effetto della quale le sue condizioni di salute risultano incompatibili con lo stato di detenzione, quando la persona si trova in una fase della malattia cosi' avanzata da non rispondere piu', secondo le certificazioni del servizio sanitario penitenziario o esterno, ai trattamenti disponibili e alle terapie curative. ((COMMA ABROGATO DAL D.L. 11 APRILE 2025, N. 48)).",
+    "caratteri": 773
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 145,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 146, primo comma, numero 3, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 2 del d.-l. 14 maggio 1993, n. 139",
+          "urn": "urn:nir:stato:decretoLegge:1993-05-14;139",
+          "data": "1993-05-14",
+          "numero": "139",
+          "data_gazzetta": "1993-05-15"
+        },
+        {
+          "denominazione": "legge 14 luglio 1993, n. 222",
+          "urn": "urn:nir:stato:legge:1993-07-14;222",
+          "data": "1993-07-14",
+          "numero": "222",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1995-10-18",
+        "numero": "438"
+      },
+      "testo": "La Corte Costituzionale con sentenza 18 ottobre 1995, n. 438 (in G.U. 1ª s.s. 25/10/1995, n. 44) ha dichiarato \"l'illegittimita' costituzionale dell'art. 146, primo comma, numero 3, del codice penale, aggiunto dall'art. 2 del d.-l. 14 maggio 1993, n. 139, convertito dalla legge 14 luglio 1993, n. 222, nella parte in cui prevede che il differimento ha luogo anche quando l'espiazione della pena possa avvenire senza pregiudizio della salute del soggetto e di quella degli altri detenuti\"."
+    }
+  ],
+  "impronta": "sha256:cd10abf45e160c1b1be0dc49bd3595bdc174b266f28c01fb200e4b3940ec67ad"
+}

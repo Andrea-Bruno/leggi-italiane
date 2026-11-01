@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "337-quinquies",
+    "rubrica": "Revisione delle disposizioni concernenti l'affidamento dei figli",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art337-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I genitori hanno diritto di chiedere in ogni tempo la revisione delle disposizioni concernenti l'affidamento dei figli, l'attribuzione dell'esercizio della responsabilita' genitoriale su di essi e delle eventuali disposizioni relative alla misura e alla modalita' del contributo.",
+    "con_marcatori": "Art. 337-quinquies. ((Revisione delle disposizioni concernenti l'affidamento dei figli)) ((I genitori hanno diritto di chiedere in ogni tempo la revisione delle disposizioni concernenti l'affidamento dei figli, l'attribuzione dell'esercizio della responsabilita' genitoriale su di essi e delle eventuali disposizioni relative alla misura e alla modalita' del contributo.))",
+    "caratteri": 279
+  },
+  "note": [],
+  "impronta": "sha256:4d76a3ddade6a538b3477311ea56ca58d43d7f33c5391a8499a1b2d47d67fc9b"
+}

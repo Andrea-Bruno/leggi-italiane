@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518.2",
+    "rubrica": "Confisca obbligatoria e per equivalente",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Nei casi di cui agli articoli 517-quater, 517-sexies e 517-septies e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento del danno, la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono l'oggetto, il prodotto, il prezzo o il profitto, salvo che siano appartenenti a persona estranea al reato medesimo. Si applicano le disposizioni di cui all'articolo 474-bis, secondo e quarto comma.",
+    "con_marcatori": "Art. 518.2. (( (Confisca obbligatoria e per equivalente).)). ((Nei casi di cui agli articoli 517-quater, 517-sexies e 517-septies e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento del danno, la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono l'oggetto, il prodotto, il prezzo o il profitto, salvo che siano appartenenti a persona estranea al reato medesimo. Si applicano le disposizioni di cui all'articolo 474-bis, secondo e quarto comma)).",
+    "caratteri": 473
+  },
+  "note": [],
+  "impronta": "sha256:28a25da77012630e81b1e956135563244cf35df10799ac2bc3575b13fcec418e"
+}

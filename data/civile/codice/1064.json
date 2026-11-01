@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1064",
+    "rubrica": "Estensione del diritto di servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1064"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il diritto di servitu' comprende tutto cio' che e' necessario per usarne. Se il fondo viene chiuso, il proprietario deve lasciarne libero e comodo l'ingresso a chi ha un diritto di servitu' che renda necessario il passaggio per il fondo stesso.",
+    "con_marcatori": "Art. 1064. (Estensione del diritto di servitu'). Il diritto di servitu' comprende tutto cio' che e' necessario per usarne. Se il fondo viene chiuso, il proprietario deve lasciarne libero e comodo l'ingresso a chi ha un diritto di servitu' che renda necessario il passaggio per il fondo stesso.",
+    "caratteri": 244
+  },
+  "note": [],
+  "impronta": "sha256:f26383e03fc877e3a714019f777311e27b4280a56bf9edfb96776799804ef4c9"
+}

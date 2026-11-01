@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "22",
+    "rubrica": "Azioni di responsabilita' contro gli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art22"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le azioni di responsabilita' contro gli amministratori delle associazioni per fatti da loro compiuti sono deliberate dall'assemblea e sono esercitate dai nuovi amministratori o dai liquidatori.",
+    "con_marcatori": "Art. 22. (Azioni di responsabilita' contro gli amministratori). Le azioni di responsabilita' contro gli amministratori delle associazioni per fatti da loro compiuti sono deliberate dall'assemblea e sono esercitate dai nuovi amministratori o dai liquidatori.",
+    "caratteri": 193
+  },
+  "note": [],
+  "impronta": "sha256:989e85f323f9a99ae90e6fc35bda97976d10e0085bb02ed51f4f6e75d6b713e0"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2704",
+    "rubrica": "Data della scrittura privata nei confronti dei terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2704"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La data della scrittura privata della quale non e' autenticata la sottoscrizione non e' certa e computabile riguardo ai terzi, se non dal giorno in cui la scrittura e' stata registrata o dal giorno della morte o della sopravvenuta impossibilita' fisica di colui o di uno di coloro che l'hanno sottoscritta o dal giorno in cui il contenuto della scrittura e' riprodotto in atti pubblici o, infine, dal giorno in cui si verifica un altro fatto che stabilisca in modo egualmente certo l'anteriorita' della formazione del documento. La data della scrittura privata che contiene dichiarazioni unilaterali non destinate a persona determinata puo' essere accertata con qualsiasi mezzo di prova. Per l'accertamento della data nelle quietanze il giudice, tenuto conto delle circostanze, puo' ammettere qualsiasi mezzo di prova.",
+    "con_marcatori": "Art. 2704. (Data della scrittura privata nei confronti dei terzi). La data della scrittura privata della quale non e' autenticata la sottoscrizione non e' certa e computabile riguardo ai terzi, se non dal giorno in cui la scrittura e' stata registrata o dal giorno della morte o della sopravvenuta impossibilita' fisica di colui o di uno di coloro che l'hanno sottoscritta o dal giorno in cui il contenuto della scrittura e' riprodotto in atti pubblici o, infine, dal giorno in cui si verifica un altro fatto che stabilisca in modo egualmente certo l'anteriorita' della formazione del documento. La data della scrittura privata che contiene dichiarazioni unilaterali non destinate a persona determinata puo' essere accertata con qualsiasi mezzo di prova. Per l'accertamento della data nelle quietanze il giudice, tenuto conto delle circostanze, puo' ammettere qualsiasi mezzo di prova.",
+    "caratteri": 818
+  },
+  "note": [],
+  "impronta": "sha256:9d920289f63200aa73ec37cb4497a5601cc3872d28f166b003495bd615904a0d"
+}

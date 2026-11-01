@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "244",
+    "rubrica": "Atti ostili verso uno Stato estero, che espongono lo Stato italiano al pericolo di guerra",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art244"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, senza l'approvazione del Governo, fa arruolamenti o compie altri atti ostili contro uno Stato estero, in modo da esporre lo Stato italiano al pericolo di una guerra, e' punito con la reclusione da sei a diciotto anni; se la guerra avviene, e' punito con l'ergastolo. Qualora gli atti ostili siano tali da turbare soltanto le relazioni con un Governo estero, ovvero da esporre lo Stato italiano o i suoi cittadini, ovunque residenti, al pericolo di rappresaglie o di ritorsioni, la pena e' della reclusione da tre a dodici anni. Se segue la rottura delle relazioni diplomatiche, o se avvengono le rappresaglie o le ritorsioni, la pena e' della reclusione da cinque a quindici anni.",
+    "con_marcatori": "Art. 244. (Atti ostili verso uno Stato estero, che espongono lo Stato italiano al pericolo di guerra) Chiunque, senza l'approvazione del Governo, fa arruolamenti o compie altri atti ostili contro uno Stato estero, in modo da esporre lo Stato italiano al pericolo di una guerra, e' punito con la reclusione da ((sei a diciotto anni)); se la guerra avviene, e' punito con l'ergastolo. Qualora gli atti ostili siano tali da turbare soltanto le relazioni con un Governo estero, ovvero da esporre lo Stato italiano o i suoi cittadini, ovunque residenti, al pericolo di rappresaglie o di ritorsioni, la pena e' della reclusione da ((tre a dodici anni)). Se segue la rottura delle relazioni diplomatiche, o se avvengono le rappresaglie o le ritorsioni, la pena e' della reclusione da ((cinque a quindici anni)).",
+    "caratteri": 690
+  },
+  "note": [],
+  "impronta": "sha256:b16798be31fd974a8c1750de9c75a789fd565bfc9243f035531313832c6e6601"
+}

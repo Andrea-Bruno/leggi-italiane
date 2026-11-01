@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1513",
+    "rubrica": "Accertamento dei difetti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1513"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di divergenza sulla qualita' o condizione della cosa, il venditore o il compratore possono chiederne la verifica nei modi stabiliti dall'art. 696 del codice di procedura civile. Il giudice, su istanza della parte interessata, puo' ordinare il deposito o il sequestro della cosa stessa, nonche' la vendita per conto di chi spetta, determinandone le condizioni. La parte che non ha chiesto la verifica della cosa, deve, in caso di contestazione, provarne rigorosamente l'identita' e lo stato.",
+    "con_marcatori": "Art. 1513. (Accertamento dei difetti). In caso di divergenza sulla qualita' o condizione della cosa, il venditore o il compratore possono chiederne la verifica nei modi stabiliti dall'art. 696 del codice di procedura civile. Il giudice, su istanza della parte interessata, puo' ordinare il deposito o il sequestro della cosa stessa, nonche' la vendita per conto di chi spetta, determinandone le condizioni. La parte che non ha chiesto la verifica della cosa, deve, in caso di contestazione, provarne rigorosamente l'identita' e lo stato.",
+    "caratteri": 498
+  },
+  "note": [],
+  "impronta": "sha256:7de9a96961b0453ca7d7a954f4f2aeb284ed0872158210b47622af875b6a2743"
+}

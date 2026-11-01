@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "495",
+    "rubrica": "Falsa attestazione o dichiarazione a un pubblico ufficiale sulla identita' o su qualita' personali proprie o di altri",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art495"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque dichiara o attesta falsamente al pubblico ufficiale l'identita', lo stato o altre qualita' della propria o dell'altrui persona e' punito con la reclusione da uno a sei anni. La reclusione non e' inferiore a due anni: 1) se si tratta di dichiarazioni in atti dello stato civile; 2) se la falsa dichiarazione sulla propria identita', sul proprio stato o sulle proprie qualita' personali e' resa all'autorita' giudiziaria da un imputato o da una persona sottoposta ad indagini, ovvero se, per effetto della falsa dichiarazione, nel casellario giudiziale una decisione penale viene iscritta sotto falso nome. AGGIORNAMENTO ------------ La Corte Costituzionale, con sentenza 6 aprile - 5 giugno 2023 n. 111 (in G.U. 1ª s.s. 07/06/2023 n. 23), ha dichiarato \"l'illegittimita' costituzionale dell'art. 495, primo comma, del codice penale, nella parte in cui non esclude la punibilita' della persona sottoposta alle indagini o dell'imputato che, richiesti di fornire le informazioni indicate nell'art. 21 norme att. cod. proc. pen. senza che siano stati loro previamente formulati gli avvertimenti di cui all'art. 64, comma 3, cod. proc. pen., abbiano reso false dichiarazioni\".",
+    "con_marcatori": "Art. 495. (Falsa attestazione o dichiarazione a un pubblico ufficiale sulla identita' o su qualita' personali proprie o di altri). Chiunque dichiara o attesta falsamente al pubblico ufficiale l'identita', lo stato o altre qualita' della propria o dell'altrui persona e' punito con la reclusione da uno a sei anni. ((336)) La reclusione non e' inferiore a due anni: 1) se si tratta di dichiarazioni in atti dello stato civile; 2) se la falsa dichiarazione sulla propria identita', sul proprio stato o sulle proprie qualita' personali e' resa all'autorita' giudiziaria da un imputato o da una persona sottoposta ad indagini, ovvero se, per effetto della falsa dichiarazione, nel casellario giudiziale una decisione penale viene iscritta sotto falso nome. AGGIORNAMENTO (336) ------------ La Corte Costituzionale, con sentenza 6 aprile - 5 giugno 2023 n. 111 (in G.U. 1ª s.s. 07/06/2023 n. 23), ha dichiarato \"l'illegittimita' costituzionale dell'art. 495, primo comma, del codice penale, nella parte in cui non esclude la punibilita' della persona sottoposta alle indagini o dell'imputato che, richiesti di fornire le informazioni indicate nell'art. 21 norme att. cod. proc. pen. senza che siano stati loro previamente formulati gli avvertimenti di cui all'art. 64, comma 3, cod. proc. pen., abbiano reso false dichiarazioni\".",
+    "caratteri": 1179
+  },
+  "note": [],
+  "impronta": "sha256:127ed17effee525ee4f737112d4671792ec329474f1b992683d935a350d97e30"
+}

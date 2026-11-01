@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2433-bis",
+    "rubrica": "Acconti sui dividendi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2433-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La distribuzione di acconti sui dividendi e' consentita solo alle societa' il cui bilancio e' assoggettato per legge a revisione legale dei conti, secondo il regime previsto dalle leggi speciali per gli enti di interesse pubblico. La distribuzione di acconti sui dividendi deve essere prevista dallo statuto ed e' deliberata dagli amministratori dopo il rilascio da parte del soggetto incaricato di effettuare la revisione legale dei conti di un giudizio positivo sul bilancio dell'esercizio precedente e la sua approvazione. Non e' consentita la distribuzione di acconti sui dividendi quando dall'ultimo bilancio approvato risultino perdite relative all'esercizio o a esercizi precedenti. L'ammontare degli acconti sui dividendi non puo' superare la minor somma tra l'importo degli utili conseguiti dalla chiusura dell'esercizio precedente, diminuito delle quote che dovranno essere destinate a riserva per obbligo legale o statutario, e quello delle riserve disponibili. Gli amministratori deliberano la distribuzione di acconti sui dividendi sulla base di un prospetto contabile e di una relazione, dai quali risulti che la situazione patrimoniale, economica e finanziaria della societa' consente la distribuzione stessa. Su tali documenti deve essere acquisito il parere del soggetto incaricato della revisione legale dei conti. Il prospetto contabile, la relazione degli amministratori e il parere del soggetto incaricato della revisione legale dei conti debbono restare depositati in copia nella sede della societa' fino all'approvazione del bilancio dell'esercizio in corso. I soci possono prenderne visione. Ancorche' sia successivamente accertata l'inesistenza degli utili di periodo risultanti dal prospetto, gli acconti sui dividendi erogati in conformita' con le altre disposizioni del presente articolo non sono ripetibili se i soci li hanno riscossi in buona fede.",
+    "con_marcatori": "Art. 2433-bis. (Acconti sui dividendi). La distribuzione di acconti sui dividendi e' consentita solo alle societa' il cui bilancio e' assoggettato per legge ((a revisione legale dei conti, secondo il regime previsto dalle leggi speciali per gli enti di interesse pubblico)). La distribuzione di acconti sui dividendi deve essere prevista dallo statuto ed e' deliberata dagli amministratori dopo il rilascio da parte ((del soggetto incaricato di effettuare la revisione legale dei conti)) di un giudizio positivo sul bilancio dell'esercizio precedente e la sua approvazione. Non e' consentita la distribuzione di acconti sui dividendi quando dall'ultimo bilancio approvato risultino perdite relative all'esercizio o a esercizi precedenti. L'ammontare degli acconti sui dividendi non puo' superare la minor somma tra l'importo degli utili conseguiti dalla chiusura dell'esercizio precedente, diminuito delle quote che dovranno essere destinate a riserva per obbligo legale o statutario, e quello delle riserve disponibili. Gli amministratori deliberano la distribuzione di acconti sui dividendi sulla base di un prospetto contabile e di una relazione, dai quali risulti che la situazione patrimoniale, economica e finanziaria della societa' consente la distribuzione stessa. Su tali documenti deve essere acquisito il parere del soggetto incaricato ((della revisione legale dei conti)). Il prospetto contabile, la relazione degli amministratori e il parere del soggetto incaricato ((della revisione legale dei conti)) debbono restare depositati in copia nella sede della societa' fino all'approvazione del bilancio dell'esercizio in corso. I soci possono prenderne visione. Ancorche' sia successivamente accertata l'inesistenza degli utili di periodo risultanti dal prospetto, gli acconti sui dividendi erogati in conformita' con le altre disposizioni del presente articolo non sono ripetibili se i soci li hanno riscossi in buona fede.",
+    "caratteri": 1878
+  },
+  "note": [],
+  "impronta": "sha256:15d4f1ff752d1b80ac14b63f24134984f795b450e8911ee1903d86e6c2011e4d"
+}

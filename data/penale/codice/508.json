@@ -1,0 +1,87 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "508",
+    "rubrica": "Arbitraria invasione e occupazione di aziende agricole o industriali. Sabotaggio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art508"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, col solo scopo d'impedire o turbare il normale svolgimento del lavoro, invade od occupa l'altrui azienda agricola o industriale, ovvero dispone di altrui macchine, scorte, apparecchi o strumenti destinati alla produzione agricola o industriale, e' punito con la reclusione fino a tre anni e con la multa non inferiore a lire mille. Soggiace alla reclusione da sei mesi a quattro anni e alla multa non inferiore a lire cinquemila, qualora il fatto non costituisca un piu' grave reato, chi danneggia gli edifici adibiti ad azienda agricola o industriale, ovvero un'altra delle cose indicate nella disposizione precedente.",
+    "con_marcatori": "Art. 508. (Arbitraria invasione e occupazione di aziende agricole o industriali. Sabotaggio) Chiunque, col solo scopo d'impedire o turbare il normale svolgimento del lavoro, invade od occupa l'altrui azienda agricola o industriale, ovvero dispone di altrui macchine, scorte, apparecchi o strumenti destinati alla produzione agricola o industriale, e' punito con la reclusione fino a tre anni e con la multa non inferiore a lire mille. Soggiace alla reclusione da sei mesi a quattro anni e alla multa non inferiore a lire cinquemila, qualora il fatto non costituisca un piu' grave reato, chi danneggia gli edifici adibiti ad azienda agricola o industriale, ovvero un'altra delle cose indicate nella disposizione precedente. ((36))",
+    "caratteri": 629
+  },
+  "note": [
+    {
+      "numero": 36,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 4 giugno 1966, n. 332",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1966-06-04;332",
+          "data": "1966-06-04",
+          "numero": "332",
+          "data_gazzetta": "1966-06-04"
+        },
+        {
+          "denominazione": "art. 510",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "635 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 giugno 1966, n. 332 ha disposto (con l'art. 2, comma 1, lettera d)) che e' concessa amnistia \"per i reati previsti negli articoli 330, primo capoverso, 337, 340, 341, 414, 415, 507, 508 - anche in relazione all'art. 510 - 610 e 635 del Codice penale e dal decreto legislativo 22 gennaio 1948, n. 66, se commessi per motivi ed in occasione di manifestazioni sindacali\". Ha inoltre disposto (con l'art. 16, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966."
+    }
+  ],
+  "impronta": "sha256:8a8c8da9b1598ddd74b1860ee38b624f834304108aedc580031c5fabd954d50a"
+}

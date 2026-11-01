@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2670",
+    "rubrica": "Spese della trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2670"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le spese della trascrizione devono essere anticipate da chi la domanda, salvo il diritto al rimborso verso l'interessato. Se piu' sono gli interessati, ciascuno di essi deve rimborsare la persona che ha eseguito la trascrizione della parte di spesa corrispondente alla quota per cui e' interessato.",
+    "con_marcatori": "Art. 2670. (Spese della trascrizione). Le spese della trascrizione devono essere anticipate da chi la domanda, salvo il diritto al rimborso verso l'interessato. Se piu' sono gli interessati, ciascuno di essi deve rimborsare la persona che ha eseguito la trascrizione della parte di spesa corrispondente alla quota per cui e' interessato.",
+    "caratteri": 298
+  },
+  "note": [],
+  "impronta": "sha256:65d8f0800be06f8cfba1ab0128d0294c1106780fdfc7a7d93c038cd4351a5999"
+}

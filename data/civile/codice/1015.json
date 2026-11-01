@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1015",
+    "rubrica": "Abusi dell'usufruttuario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1015"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'usufrutto puo' anche cessare per l'abuso che faccia l'usufruttuario del suo diritto alienando i beni o deteriorandoli o lasciandoli andare in perimento per mancanza di ordinarie riparazioni. L'autorita' giudiziaria puo', secondo le circostanze, ordinare che l'usufruttuario dia garanzia, qualora ne sia esente, o che i beni siano locati o posti sotto amministrazione a spese di lui, o anche dati in possesso al proprietario con l'obbligo di pagare annualmente all'usufruttuario, durante l'usufrutto, una somma determinata. I creditori dell'usufruttuario possono intervenire nel giudizio per conservare le loro ragioni, offrire il risarcimento dei danni e dare garanzia per l'avvenire.",
+    "con_marcatori": "Art. 1015. (Abusi dell'usufruttuario). L'usufrutto puo' anche cessare per l'abuso che faccia l'usufruttuario del suo diritto alienando i beni o deteriorandoli o lasciandoli andare in perimento per mancanza di ordinarie riparazioni. L'autorita' giudiziaria puo', secondo le circostanze, ordinare che l'usufruttuario dia garanzia, qualora ne sia esente, o che i beni siano locati o posti sotto amministrazione a spese di lui, o anche dati in possesso al proprietario con l'obbligo di pagare annualmente all'usufruttuario, durante l'usufrutto, una somma determinata. I creditori dell'usufruttuario possono intervenire nel giudizio per conservare le loro ragioni, offrire il risarcimento dei danni e dare garanzia per l'avvenire.",
+    "caratteri": 686
+  },
+  "note": [],
+  "impronta": "sha256:c19a356e49008772ac8cbc606a671ffef1f38bcf438194fe1a9b9b11568d2758"
+}

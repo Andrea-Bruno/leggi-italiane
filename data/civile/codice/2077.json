@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2077",
+    "rubrica": "Efficacia del contratto collettivo sul contratto individuale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2077"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I contratti individuali di lavoro tra gli appartenenti alle categorie alle quali si riferisce il contratto collettivo devono uniformarsi alle disposizioni di questo. Le clausole difformi dei contratti individuali, preesistenti o successivi al contratto collettivo, sono sostituite di diritto da quelle del contratto collettivo, salvo che contengano speciali condizioni piu' favorevoli ai prestatori di lavoro.",
+    "con_marcatori": "Art. 2077. (Efficacia del contratto collettivo sul contratto individuale). I contratti individuali di lavoro tra gli appartenenti alle categorie alle quali si riferisce il contratto collettivo devono uniformarsi alle disposizioni di questo. Le clausole difformi dei contratti individuali, preesistenti o successivi al contratto collettivo, sono sostituite di diritto da quelle del contratto collettivo, salvo che contengano speciali condizioni piu' favorevoli ai prestatori di lavoro.",
+    "caratteri": 409
+  },
+  "note": [],
+  "impronta": "sha256:78c726caa90107b0e6e3657e6b49b67a95deadaf71c00644fde820843fe44687"
+}

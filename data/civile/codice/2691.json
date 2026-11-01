@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2691",
+    "rubrica": "Altre domande e atti soggetti a trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2691"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Devono del pari trascriversi, quando si riferiscono ai beni menzionati nell'art. 2683, le domande e gli atti indicati dai numeri 1, 3, 4 e 5 dell'art. 2653, per gli effetti ivi disposti. Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o di clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri.",
+    "con_marcatori": "Art. 2691. (Altre domande e atti soggetti a trascrizione). Devono del pari trascriversi, quando si riferiscono ai beni menzionati nell'art. 2683, le domande e gli atti indicati dai numeri 1, 3, 4 e 5 dell'art. 2653, per gli effetti ivi disposti. ((Alla domanda giudiziale e' equiparato l'atto notificato con il quale la parte, in presenza di compromesso o di clausola compromissoria, dichiara all'altra la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri)).",
+    "caratteri": 483
+  },
+  "note": [],
+  "impronta": "sha256:f06da813b88ea51381a065005b69b86d6a7ec9d6d3ffe54c7cf2a09563ac069e"
+}

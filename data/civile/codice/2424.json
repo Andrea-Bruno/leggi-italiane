@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2424",
+    "rubrica": "Contenuto dello stato patrimoniale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2424"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Lo stato patrimoniale deve essere redatto in conformita' al seguente schema. Attivo: A) Crediti verso soci per versamenti ancora dovuti, con separata indicazione della parte gia' richiamata. B) Immobilizzazioni, con separata indicazione di quelle concesse in locazione finanziaria: I - Immobilizzazioni immateriali: 1) costi di impianto e di ampliamento; ( costi di sviluppo;)) 3) diritti di brevetto industriale e diritti di utilizzazione delle opere dell'ingegno; 4) concessioni, licenze, marchi e diritti simili; 5) avviamento; 6) immobilizzazioni in corso e acconti; 7) altre. Totale. II - Immobilizzazioni materiali: 1) terreni e fabbricati; 2) impianti e macchinario; 3) attrezzature industriali e commerciali; 4) altri beni; 5) immobilizzazioni in corso e acconti. Totale. III - Immobilizzazioni finanziarie, con separata indicazione, per ciascuna voce dei crediti, degli importi esigibili entro l'esercizio successivo: 1) partecipazioni in: a) imprese controllate; b) imprese collegate; c) imprese controllanti; d) imprese sottoposte al controllo delle controllanti; d-bis) altre imprese; ( crediti: a) verso imprese controllate; b) verso imprese collegate; c) verso controllanti; d) verso imprese sottoposte al controllo delle controllanti; d-bis) verso altri;)) 3) altri titoli; ( strumenti finanziari derivati attivi;)) Totale. Totale immobilizzazioni (B); C) Attivo circolante: I - Rimanenze: 1) materie prime, sussidiarie e di consumo; 2) prodotti in corso di lavorazione e semilavorati; 3) lavori in corso su ordinazione; 4) prodotti finiti e merci; 5) acconti. Totale II - Crediti, con separata indicazione, per ciascuna voce, degli importi esigibili oltre l'esercizio successivo: 1) verso clienti; 2) verso imprese controllate; 3) verso imprese collegate; 4) verso controllanti; ( verso imprese sottoposte al controllo delle controllanti; 5-bis) crediti tributari; 5-ter) imposte anticipate; 5-quater) verso altri;)) Totale. III - Attivita' finanziarie che non costituiscono immobilizzazioni: 1) partecipazioni in imprese controllate; 2) partecipazioni in imprese collegate; 3) partecipazioni in imprese controllanti; 3-bis) partecipazioni in imprese sottoposte al controllo delle controllanti; 4) altre partecipazioni; ( strumenti finanziari derivati attivi;)) 6) altri titoli. Totale. IV - Disponibilita' liquide: 1) depositi bancari e postali; 2) assegni; 3) danaro e valori in cassa. Totale. Totale attivo circolante (C). D) Ratei e risconti. Passivo: A) Patrimonio netto: I - Capitale. II - Riserva da soprapprezzo delle azioni. III - Riserve di rivalutazione. IV - Riserva legale. V - Riserve statutarie VI - Altre riserve, distintamente indicate. VII - Riserva per operazioni di copertura dei flussi finanziari attesi. VIII - Utili (perdite) portati a nuovo. IX - Utile (perdita) dell'esercizio. X - Riserva negativa per azioni proprie in portafoglio. Totale. B) Fondi per rischi e oneri: 1) per trattamento di quiescenza e obblighi simili; ( per imposte, anche differite; 3) strumenti finanziari derivati passivi; 4) altri.)) Totale. C) Trattamento di fine rapporto di lavoro subordinato. D) Debiti, con separata indicazione, per ciascuna voce, degli importi esigibili oltre l'esercizio successivo: 1) obbligazioni; 2) obbligazioni convertibili; 3) debiti verso soci per finanziamenti; 4) debiti verso banche; 5) debiti verso altri finanziatori; 6) acconti; 7) debiti verso fornitori; 8) debiti rappresentati da titoli di credito; 9) debiti verso imprese controllate; 10) debiti verso imprese collegate; 11) debiti verso controllanti; 11-bis) debiti verso imprese sottoposte al controllo delle controllanti; 12) debiti tributari; 13) debiti verso istituti di previdenza e di sicurezza sociale; 14) altri debiti. Totale. E) Ratei e risconti. Se un elemento dell'attivo o del passivo ricade sotto piu' voci dello schema, nella nota integrativa deve annotarsi, qualora cio' sia necessario ai fini della comprensione del bilancio, la sua appartenenza anche a voci diverse da quella nella quale e' iscritto. COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139. E' fatto salvo quanto disposto dall'articolo 2447-septies con riferimento ai beni e rapporti giuridici compresi nei patrimoni destinati ad uno specifico affare ai sensi della lettera a) del primo comma dell'articolo 2447-bis.",
+    "con_marcatori": "Art. 2424. (Contenuto dello stato patrimoniale). Lo stato patrimoniale deve essere redatto in conformita' al seguente schema. Attivo: A) Crediti verso soci per versamenti ancora dovuti, con separata indicazione della parte gia' richiamata. B) Immobilizzazioni, con separata indicazione di quelle concesse in locazione finanziaria: I - Immobilizzazioni immateriali: 1) costi di impianto e di ampliamento; ((2) costi di sviluppo;)) 3) diritti di brevetto industriale e diritti di utilizzazione delle opere dell'ingegno; 4) concessioni, licenze, marchi e diritti simili; 5) avviamento; 6) immobilizzazioni in corso e acconti; 7) altre. Totale. II - Immobilizzazioni materiali: 1) terreni e fabbricati; 2) impianti e macchinario; 3) attrezzature industriali e commerciali; 4) altri beni; 5) immobilizzazioni in corso e acconti. Totale. III - Immobilizzazioni finanziarie, con separata indicazione, per ciascuna voce dei crediti, degli importi esigibili entro l'esercizio successivo: 1) partecipazioni in: a) imprese controllate; b) imprese collegate; c) imprese controllanti; ((d) imprese sottoposte al controllo delle controllanti;)) ((d-bis) altre imprese;)) ((2) crediti: a) verso imprese controllate; b) verso imprese collegate; c) verso controllanti; d) verso imprese sottoposte al controllo delle controllanti; d-bis) verso altri;)) 3) altri titoli; ((4) strumenti finanziari derivati attivi;)) Totale. Totale immobilizzazioni (B); C) Attivo circolante: I - Rimanenze: 1) materie prime, sussidiarie e di consumo; 2) prodotti in corso di lavorazione e semilavorati; 3) lavori in corso su ordinazione; 4) prodotti finiti e merci; 5) acconti. Totale II - Crediti, con separata indicazione, per ciascuna voce, degli importi esigibili oltre l'esercizio successivo: 1) verso clienti; 2) verso imprese controllate; 3) verso imprese collegate; 4) verso controllanti; ((5) verso imprese sottoposte al controllo delle controllanti; 5-bis) crediti tributari; 5-ter) imposte anticipate; 5-quater) verso altri;)) Totale. III - Attivita' finanziarie che non costituiscono immobilizzazioni: 1) partecipazioni in imprese controllate; 2) partecipazioni in imprese collegate; 3) partecipazioni in imprese controllanti; ((3-bis) partecipazioni in imprese sottoposte al controllo delle controllanti;)) 4) altre partecipazioni; ((5) strumenti finanziari derivati attivi;)) 6) altri titoli. Totale. IV - Disponibilita' liquide: 1) depositi bancari e postali; 2) assegni; 3) danaro e valori in cassa. Totale. Totale attivo circolante (C). ((D) Ratei e risconti.)) Passivo: A) Patrimonio netto: I - Capitale. II - Riserva da soprapprezzo delle azioni. III - Riserve di rivalutazione. IV - Riserva legale. V - Riserve statutarie ((VI - Altre riserve, distintamente indicate. VII - Riserva per operazioni di copertura dei flussi finanziari attesi. VIII - Utili (perdite) portati a nuovo. IX - Utile (perdita) dell'esercizio. X - Riserva negativa per azioni proprie in portafoglio.)) Totale. B) Fondi per rischi e oneri: 1) per trattamento di quiescenza e obblighi simili; ((2) per imposte, anche differite; 3) strumenti finanziari derivati passivi; 4) altri.)) Totale. C) Trattamento di fine rapporto di lavoro subordinato. D) Debiti, con separata indicazione, per ciascuna voce, degli importi esigibili oltre l'esercizio successivo: 1) obbligazioni; 2) obbligazioni convertibili; 3) debiti verso soci per finanziamenti; 4) debiti verso banche; 5) debiti verso altri finanziatori; 6) acconti; 7) debiti verso fornitori; 8) debiti rappresentati da titoli di credito; 9) debiti verso imprese controllate; 10) debiti verso imprese collegate; 11) debiti verso controllanti; ((11-bis) debiti verso imprese sottoposte al controllo delle controllanti;)) 12) debiti tributari; 13) debiti verso istituti di previdenza e di sicurezza sociale; 14) altri debiti. Totale. ((E) Ratei e risconti.)) ((246)) Se un elemento dell'attivo o del passivo ricade sotto piu' voci dello schema, nella nota integrativa deve annotarsi, qualora cio' sia necessario ai fini della comprensione del bilancio, la sua appartenenza anche a voci diverse da quella nella quale e' iscritto. ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)). ((246)) E' fatto salvo quanto disposto dall'articolo 2447-septies con riferimento ai beni e rapporti giuridici compresi nei patrimoni destinati ad uno specifico affare ai sensi della lettera a) del primo comma dell'articolo 2447-bis.",
+    "caratteri": 4302
+  },
+  "note": [
+    {
+      "numero": 246,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 agosto 2015, n. 139",
+          "urn": "urn:nir:stato:decretoLegislativo:2015-08-18;139",
+          "data": "2015-08-18",
+          "numero": "139",
+          "data_gazzetta": "2015-09-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016."
+    }
+  ],
+  "impronta": "sha256:fac6e937b1f2dae77f50ceda4df15d198ca0e03ad60ab37c86f422d4d5b57139"
+}

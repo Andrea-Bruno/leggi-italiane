@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1785-bis",
+    "rubrica": "Responsabilita' per colpa dell'albergatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1785-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'albergatore e' responsabile, senza che egli possa invocare il limite previsto dall'ultimo comma dell'articolo 1783, quando il deterioramento, la distruzione o la sottrazione delle cose portate dal cliente in albergo sono dovuti a colpa sua, dei membri della sua famiglia o dei suoi ausiliari.",
+    "con_marcatori": "Art. 1785-bis (( (Responsabilita' per colpa dell'albergatore). )) ((L'albergatore e' responsabile, senza che egli possa invocare il limite previsto dall'ultimo comma dell'articolo 1783, quando il deterioramento, la distruzione o la sottrazione delle cose portate dal cliente in albergo sono dovuti a colpa sua, dei membri della sua famiglia o dei suoi ausiliari.))",
+    "caratteri": 294
+  },
+  "note": [],
+  "impronta": "sha256:63f7a4691736ac3e8f0c25e571e6b167fa90d64018391e2346f5dbff41fbd189"
+}

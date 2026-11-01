@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "51",
+    "rubrica": "Esercizio di un diritto o adempimento di un dovere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art51"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esercizio di un diritto o l'adempimento di un dovere imposto da una norma giuridica o da un ordine legittimo della pubblica Autorita', esclude la punibilita'. Se un fatto costituente reato e' commesso per ordine dell'Autorita', del reato risponde sempre il pubblico ufficiale che ha dato l'ordine. Risponde del reato altresi' chi ha eseguito l'ordine, salvo che, per errore di fatto, abbia ritenuto di obbedire a un ordine legittimo. Non e' punibile chi esegue l'ordine illegittimo, quando la legge non gli consente alcun sindacato sulla legittimita' dell'ordine.",
+    "con_marcatori": "Art. 51. (Esercizio di un diritto o adempimento di un dovere) L'esercizio di un diritto o l'adempimento di un dovere imposto da una norma giuridica o da un ordine legittimo della pubblica Autorita', esclude la punibilita'. Se un fatto costituente reato e' commesso per ordine dell'Autorita', del reato risponde sempre il pubblico ufficiale che ha dato l'ordine. Risponde del reato altresi' chi ha eseguito l'ordine, salvo che, per errore di fatto, abbia ritenuto di obbedire a un ordine legittimo. Non e' punibile chi esegue l'ordine illegittimo, quando la legge non gli consente alcun sindacato sulla legittimita' dell'ordine.",
+    "caratteri": 565
+  },
+  "note": [],
+  "impronta": "sha256:081d1d03c11bdb0bbc6f4c7b3fa3ac0f46cffd59613d79f92ba47123605cbdc1"
+}

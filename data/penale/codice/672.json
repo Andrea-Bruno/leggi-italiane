@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "672",
+    "rubrica": "Omessa custodia e mal governo di animali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art672"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque lascia liberi, o non custodisce con le debite cautele, animali pericolosi da lui posseduti, o ne affida la custodia a persona inesperta, e' punito con l'arresto fino a tre mesi, ovvero con l'ammenda fino a lire tremila. Alla stessa pena soggiace: 1° chi, in luoghi aperti, abbandona a se' stessi animali da tiro, da soma o da corsa, o li lascia comunque senza custodia, anche se non siano disciolti, o li attacca o conduce in modo da esporre a pericolo l'incolumita' pubblica, ovvero li affida a persona inesperta; 2° chi aizza o spaventa animali, in modo da mettere in pericolo l'incolumita' delle persone.",
+    "con_marcatori": "Art. 672. (Omessa custodia e mal governo di animali) Chiunque lascia liberi, o non custodisce con le debite cautele, animali pericolosi da lui posseduti, o ne affida la custodia a persona inesperta, e' punito con l'arresto fino a tre mesi, ovvero con l'ammenda fino a lire tremila. Alla stessa pena soggiace: 1° chi, in luoghi aperti, abbandona a se' stessi animali da tiro, da soma o da corsa, o li lascia comunque senza custodia, anche se non siano disciolti, o li attacca o conduce in modo da esporre a pericolo l'incolumita' pubblica, ovvero li affida a persona inesperta; 2° chi aizza o spaventa animali, in modo da mettere in pericolo l'incolumita' delle persone. ((90))",
+    "caratteri": 616
+  },
+  "note": [
+    {
+      "numero": 90,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 24 novembre 1981, n. 689",
+          "urn": "urn:nir:stato:legge:1981-11-24;689",
+          "data": "1981-11-24",
+          "numero": "689",
+          "data_gazzetta": "1981-11-30"
+        },
+        {
+          "denominazione": "articoli 669",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "672",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "687",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "693",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "694 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 24 novembre 1981, n. 689 ha disposto (con l'art. 33, comma 1, lettera a)) che \"Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le contravvenzioni previste: a) dagli articoli 669, 672, 687, 693 e 694 del codice penale\". Ha inoltre disposto (con l'art. 38, comma 2) che la somma dovuta come sanzione amministrativa e' da lire cinquantamila a lire cinquecentomila per la violazione prevista dal presente articolo."
+    }
+  ],
+  "impronta": "sha256:77f59f5683f195bc9ec5b4fc09a5a64bd74a6fde3f391daeb60636889a3ea17f"
+}

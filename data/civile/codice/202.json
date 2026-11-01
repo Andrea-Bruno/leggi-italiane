@@ -1,0 +1,71 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "202",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art202"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 19 MAGGIO 1975, N. 151",
+        "testo": "ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151",
+    "con_marcatori": "Art. 202. ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151 ((65))",
+    "caratteri": 49
+  },
+  "note": [
+    {
+      "numero": 65,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 202, comma primo, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1987-01-19",
+        "numero": "6"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 14 - 19 gennaio 1987, n. 6 (in G.U. 1a s.s. 28/1/1987, n. 5) ha dichiarato \"la illegittimita' costituzionale dell'art. 202, comma primo, del codice civile, nella parte in cui non prevede la separazione della dote dai beni del marito, su domanda della moglie, quando la separazione personale sia stata pronunziata senza che sia addebitabile all'uno o all'altro dei coniugi\"."
+    }
+  ],
+  "impronta": "sha256:c956b05443a78030693cb1159848559d9349539f9caedf93528ba1a0991981cb"
+}

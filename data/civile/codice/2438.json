@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2438",
+    "rubrica": "Aumento di capitale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2438"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Un aumento di capitale non puo' essere eseguito fino a che le azioni precedentemente emesse non siano interamente liberate. In caso di violazione del precedente comma, gli amministratori sono solidalmente responsabili per i danni arrecati ai soci ed ai terzi. Restano in ogni caso salvi gli obblighi assunti con la sottoscrizione delle azioni emesse in violazione del precedente comma.",
+    "con_marcatori": "Art. 2438. (( (Aumento di capitale). )) ((Un aumento di capitale non puo' essere eseguito fino a che le azioni precedentemente emesse non siano interamente liberate. In caso di violazione del precedente comma, gli amministratori sono solidalmente responsabili per i danni arrecati ai soci ed ai terzi. Restano in ogni caso salvi gli obblighi assunti con la sottoscrizione delle azioni emesse in violazione del precedente comma.))",
+    "caratteri": 385
+  },
+  "note": [],
+  "impronta": "sha256:266eb061f259c08178b77487ba66a1fe10d241096af496a3108938632c81b859"
+}

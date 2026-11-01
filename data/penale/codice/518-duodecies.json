@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-duodecies",
+    "rubrica": "Distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-duodecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque distrugge, disperde, deteriora o rende in tutto o in parte inservibili o , ove previsto, non fruibili beni culturali o paesaggistici propri o altrui e' punito con la reclusione da due a cinque anni e con la multa da euro 2.500 a euro 15.000. Chiunque, fuori dei casi di cui al primo comma, deturpa o imbratta beni culturali o paesaggistici propri o altrui, ovvero destina beni culturali a un uso incompatibile con il loro carattere storico o artistico ovvero pregiudizievole per la loro conservazione o integrita', e' punito con la reclusione da sei mesi a tre anni e con la multa da euro 1.500 a euro 10.000. La sospensione condizionale della pena e' subordinata al ripristino dello stato dei luoghi o all'eliminazione delle conseguenze dannose o pericolose del reato ovvero alla prestazione di attivita' non retribuita a favore della collettivita' per un tempo determinato, comunque non superiore alla durata della pena sospesa, secondo le modalita' indicate dal giudice nella sentenza di condanna.",
+    "con_marcatori": "Art. 518-duodecies (Distruzione, dispersione, deterioramento, deturpamento, imbrattamento e uso illecito di beni culturali o paesaggistici). Chiunque distrugge, disperde, deteriora o rende in tutto o in parte inservibili o ((, ove previsto,)) non fruibili beni culturali o paesaggistici propri o altrui e' punito con la reclusione da due a cinque anni e con la multa da euro 2.500 a euro 15.000. Chiunque, fuori dei casi di cui al primo comma, deturpa o imbratta beni culturali o paesaggistici propri o altrui, ovvero destina beni culturali a un uso incompatibile con il loro carattere storico o artistico ovvero pregiudizievole per la loro conservazione o integrita', e' punito con la reclusione da sei mesi a tre anni e con la multa da euro 1.500 a euro 10.000. La sospensione condizionale della pena e' subordinata al ripristino dello stato dei luoghi o all'eliminazione delle conseguenze dannose o pericolose del reato ovvero alla prestazione di attivita' non retribuita a favore della collettivita' per un tempo determinato, comunque non superiore alla durata della pena sospesa, secondo le modalita' indicate dal giudice nella sentenza di condanna.",
+    "caratteri": 1009
+  },
+  "note": [],
+  "impronta": "sha256:703c3a83f405f8360fdaee24f184cd7959e9ff515991619045871b7c55b8b196"
+}

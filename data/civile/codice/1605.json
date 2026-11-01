@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1605",
+    "rubrica": "Liberazione o cessione del corrispettivo della locazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1605"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La liberazione o la cessione del corrispettivo della locazione non ancora scaduto non puo' opporsi al terzo acquirente della cosa locata, se non risulta da atto scritto avente data certa anteriore al trasferimento. Si puo' in ogni caso opporre il pagamento anticipato eseguito in conformita' degli usi locali. Se la liberazione o la cessione e' stata fatta per un periodo eccedente i tre anni e non e' stata trascritta, puo' essere opposta solo entro i limiti di un triennio; se il triennio e' gia' trascorso, puo' essere opposta solo nei limiti dell'anno in corso nel giorno del trasferimento.",
+    "con_marcatori": "Art. 1605. (Liberazione o cessione del corrispettivo della locazione). La liberazione o la cessione del corrispettivo della locazione non ancora scaduto non puo' opporsi al terzo acquirente della cosa locata, se non risulta da atto scritto avente data certa anteriore al trasferimento. Si puo' in ogni caso opporre il pagamento anticipato eseguito in conformita' degli usi locali. Se la liberazione o la cessione e' stata fatta per un periodo eccedente i tre anni e non e' stata trascritta, puo' essere opposta solo entro i limiti di un triennio; se il triennio e' gia' trascorso, puo' essere opposta solo nei limiti dell'anno in corso nel giorno del trasferimento.",
+    "caratteri": 594
+  },
+  "note": [],
+  "impronta": "sha256:a9e4c1a0e1e0003bf56641a7e7b3017b962811d910f934530591dcafab50731b"
+}

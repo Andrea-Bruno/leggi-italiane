@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2280",
+    "rubrica": "Pagamento dei debiti sociali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2280"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I liquidatori non possono ripartire tra i soci, neppure parzialmente, i beni sociali, finche' non siano pagati i creditori della societa' o non siano accantonate le somme necessarie per pagarli. Se i fondi disponibili risultano insufficienti per il pagamento dei debiti sociali, i liquidatori possono chiedere ai soci i versamenti ancora dovuti sulle rispettive quote e, se occorre, le somme necessarie, nei limiti della rispettiva responsabilita' e in proporzione della parte di ciascuno nelle perdite. Nella stessa proporzione si ripartisce tra i soci il debito del socio insolvente.",
+    "con_marcatori": "Art. 2280. (Pagamento dei debiti sociali). I liquidatori non possono ripartire tra i soci, neppure parzialmente, i beni sociali, finche' non siano pagati i creditori della societa' o non siano accantonate le somme necessarie per pagarli. Se i fondi disponibili risultano insufficienti per il pagamento dei debiti sociali, i liquidatori possono chiedere ai soci i versamenti ancora dovuti sulle rispettive quote e, se occorre, le somme necessarie, nei limiti della rispettiva responsabilita' e in proporzione della parte di ciascuno nelle perdite. Nella stessa proporzione si ripartisce tra i soci il debito del socio insolvente.",
+    "caratteri": 585
+  },
+  "note": [],
+  "impronta": "sha256:29d55e0116e4d80df5c4efc1d270572d86618447a0bf9ee4f7d46838245107cf"
+}

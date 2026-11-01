@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-sexies",
+    "rubrica": "Traffico e abbandono di materiale ad alta radioattivita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da due a sei anni e con la multa da euro 10.000 a euro 50.000 chiunque abusivamente cede, acquista, riceve, trasporta, importa, esporta, procura ad altri, detiene, trasferisce, abbandona o si disfa illegittimamente di materiale ad alta radioattivita'. La pena di cui al primo comma e' aumentata sino alla meta' quando: a) dal fatto deriva pericolo per la vita o per l'incolumita' delle persone ovvero pericolo di compromissione o deterioramento: 1) delle acque o dell'aria, o di porzioni estese o significative del suolo o del sottosuolo; 2) di un ecosistema, della biodiversita', anche agraria, della flora o della fauna; b) il fatto e' commesso in siti contaminati o potenzialmente contaminati ai sensi dell'articolo 240 del decreto legislativo 3 aprile 2006, n. 152, o comunque sulle strade di accesso ai predetti siti e relative pertinenze. COMMA ABROGATO DAL D.L. 8 AGOSTO 2025, N. 116.",
+    "con_marcatori": "Art. 452-sexies. (Traffico e abbandono di materiale ad alta radioattivita'). Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da due a sei anni e con la multa da euro 10.000 a euro 50.000 chiunque abusivamente cede, acquista, riceve, trasporta, importa, esporta, procura ad altri, detiene, trasferisce, abbandona o si disfa illegittimamente di materiale ad alta radioattivita'. ((La pena di cui al primo comma e' aumentata sino alla meta' quando: a) dal fatto deriva pericolo per la vita o per l'incolumita' delle persone ovvero pericolo di compromissione o deterioramento: 1) delle acque o dell'aria, o di porzioni estese o significative del suolo o del sottosuolo; 2) di un ecosistema, della biodiversita', anche agraria, della flora o della fauna; b) il fatto e' commesso in siti contaminati o potenzialmente contaminati ai sensi dell'articolo 240 del decreto legislativo 3 aprile 2006, n. 152, o comunque sulle strade di accesso ai predetti siti e relative pertinenze)). ((COMMA ABROGATO DAL D.L. 8 AGOSTO 2025, N. 116)).",
+    "caratteri": 968
+  },
+  "note": [],
+  "impronta": "sha256:6739b5e06a21fdb07595a1d522e5b57186a1c3f30e65eac0ec06c5e5493b19fc"
+}

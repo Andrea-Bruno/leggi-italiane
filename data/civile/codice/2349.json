@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2349",
+    "rubrica": "Azioni e strumenti finanziari a favore dei prestatori di lavoro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2349"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se lo statuto lo prevede, l'assemblea straordinaria puo' deliberare l'assegnazione di utili ai prestatori di lavoro dipendenti delle societa' o di societa' controllate mediante l'emissione, per un ammontare corrispondente agli utili stessi, di speciali categorie di azioni da assegnare individualmente ai prestatori di lavoro, con norme particolari riguardo alla forma, al modo di trasferimento ed ai diritti spettanti agli azionisti. Il capitale sociale deve essere aumentato in misura corrispondente. L'assemblea straordinaria puo' altresi' deliberare l'assegnazione ai prestatori di lavoro dipendenti della societa' o di societa' controllate di strumenti finanziari, diversi dalle azioni, forniti di diritti patrimoniali o anche di diritti amministrativi, escluso il voto nell'assemblea generale degli azionisti. In tal caso possono essere previste norme particolari riguardo alle condizioni di esercizio dei diritti attribuiti, alla possibilita' di trasferimento ed alle eventuali cause di decadenza o riscatto.",
+    "con_marcatori": "Art. 2349. (Azioni e strumenti finanziari a favore dei prestatori di lavoro). Se lo statuto lo prevede, l'assemblea straordinaria puo' deliberare l'assegnazione di utili ai prestatori di lavoro dipendenti delle societa' o di societa' controllate mediante l'emissione, per un ammontare corrispondente agli utili stessi, di speciali categorie di azioni da assegnare individualmente ai prestatori di lavoro, con norme particolari riguardo alla forma, al modo di trasferimento ed ai diritti spettanti agli azionisti. Il capitale sociale deve essere aumentato in misura corrispondente. L'assemblea straordinaria puo' altresi' deliberare l'assegnazione ai ((prestatori di lavoro)) dipendenti della societa' o di societa' controllate di strumenti finanziari, diversi dalle azioni, forniti di diritti patrimoniali o ((anche di)) diritti amministrativi, escluso il voto nell'assemblea generale degli azionisti. In tal caso possono essere previste norme particolari riguardo alle condizioni di esercizio dei diritti attribuiti, alla possibilita' di trasferimento ed alle eventuali cause di decadenza o riscatto.",
+    "caratteri": 1015
+  },
+  "note": [],
+  "impronta": "sha256:6298442d0e698e25c62c55878802509cb2351f0fc8cb81afbb03ab97aa36d230"
+}

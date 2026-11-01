@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2482-ter",
+    "rubrica": "Riduzione del capitale al disotto del minimo legale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2482-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se, per la perdita di oltre un terzo del capitale, questo si riduce al disotto del minimo stabilito dal numero 4) dell'articolo 2463, gli amministratori devono senza indugio convocare l'assemblea per deliberare la riduzione del capitale ed il contemporaneo aumento del medesimo ad una cifra non inferiore al detto minimo. E' fatta salva la possibilita' di deliberare la trasformazione della societa'.",
+    "con_marcatori": "Art. 2482-ter. (( (Riduzione del capitale al disotto del minimo legale).)) ((Se, per la perdita di oltre un terzo del capitale, questo si riduce al disotto del minimo stabilito dal numero 4) dell'articolo 2463, gli amministratori devono senza indugio convocare l'assemblea per deliberare la riduzione del capitale ed il contemporaneo aumento del medesimo ad una cifra non inferiore al detto minimo. E' fatta salva la possibilita' di deliberare la trasformazione della societa'. ))",
+    "caratteri": 400
+  },
+  "note": [],
+  "impronta": "sha256:b4c488fe1ce2d1f6909dcf106c32b111705bd3a6603abc30176ca9cea9b1354b"
+}

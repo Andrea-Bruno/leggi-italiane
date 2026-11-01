@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2378",
+    "rubrica": "Procedimento d'impugnazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2378"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'impugnazione e' proposta con atto di citazione davanti al tribunale del luogo dove la societa' ha sede. Il socio o i soci opponenti devono dimostrarsi possessori al tempo dell'impugnazione del numero delle azioni previsto dal terzo comma dell'articolo 2377. Fermo restando quanto disposto dall'articolo 111 del codice di procedura civile, qualora nel corso del processo venga meno a seguito di trasferimenti per atto tra vivi il richiesto numero delle azioni, il giudice, previa se del caso revoca del provvedimento di sospensione dell'esecuzione della deliberazione, non puo' pronunciare l'annullamento e provvede sul risarcimento dell'eventuale danno, ove richiesto. Con ricorso depositato contestualmente al deposito, anche in copia, della citazione, l'impugnante puo' chiedere la sospensione dell'esecuzione della deliberazione. In caso di eccezionale e motivata urgenza, il presidente del tribunale, omessa la convocazione della societa' convenuta, provvede sull'istanza con decreto motivato, che deve altresi' contenere la designazione del giudice per la trattazione della causa di merito e la fissazione, davanti al giudice designato, entro quindici giorni, dell'udienza per la conferma, modifica o revoca dei provvedimenti emanati con il decreto, nonche' la fissazione del termine per la notificazione alla controparte del ricorso e del decreto. Il giudice designato per la trattazione della causa di merito, sentiti gli amministratori e sindaci, provvede valutando comparativamente il pregiudizio che subirebbe il ricorrente dalla esecuzione e quello che subirebbe la societa' dalla sospensione dell'esecuzione della deliberazione; puo' disporre in ogni momento che i soci opponenti prestino idonea garanzia per l'eventuale risarcimento dei danni. All'udienza, il giudice, ove lo ritenga utile, esperisce il tentativo di conciliazione eventualmente suggerendo le modificazioni da apportare alla deliberazione impugnata e, ove la soluzione appaia realizzabile, rinvia adeguatamente l'udienza. Tutte le impugnazioni relative alla medesima deliberazione, anche se separatamente proposte ed ivi comprese le domande proposte ai sensi del quarto comma dell'articolo 2377, devono essere istruite congiuntamente e decise con unica sentenza. Salvo quanto disposto dal quarto comma del presente articolo, la trattazione della causa di merito ha inizio trascorso il termine stabilito nel sesto comma dell'articolo 2377. I dispositivi del provvedimento di sospensione e della sentenza che decide sull'impugnazione devono essere iscritti, a cura degli amministratori, nel registro delle imprese.",
+    "con_marcatori": "Art. 2378. (Procedimento d'impugnazione). L'impugnazione e' proposta con atto di citazione davanti al tribunale del luogo dove la societa' ha sede. Il socio o i soci opponenti devono dimostrarsi possessori al tempo dell'impugnazione del numero delle azioni previsto dal ((terzo comma)) dell'articolo 2377. Fermo restando quanto disposto dall'articolo 111 del codice di procedura civile, qualora nel corso del processo venga meno a seguito di trasferimenti per atto tra vivi il richiesto numero delle azioni, il giudice, previa se del caso revoca del provvedimento di sospensione dell'esecuzione della deliberazione, non puo' pronunciare l'annullamento e provvede sul risarcimento dell'eventuale danno, ove richiesto. Con ricorso depositato contestualmente al deposito, anche in copia, della citazione, l'impugnante puo' chiedere la sospensione dell'esecuzione della deliberazione. In caso di eccezionale e motivata urgenza, il presidente del tribunale, omessa la convocazione della societa' convenuta, provvede sull'istanza con decreto motivato, che deve altresi' contenere la designazione del giudice per la trattazione della causa di merito e la fissazione, davanti al giudice designato, entro quindici giorni, dell'udienza per la conferma, modifica o revoca dei provvedimenti emanati con il decreto, nonche' la fissazione del termine per la notificazione alla controparte del ricorso e del decreto. Il giudice designato per la trattazione della causa di merito, sentiti gli amministratori e sindaci, provvede valutando comparativamente il pregiudizio che subirebbe il ricorrente dalla esecuzione e quello che subirebbe la societa' dalla sospensione dell'esecuzione della deliberazione; puo' disporre in ogni momento che i soci opponenti prestino idonea garanzia per l'eventuale risarcimento dei danni. All'udienza, il giudice, ove lo ritenga utile, esperisce il tentativo di conciliazione eventualmente suggerendo le modificazioni da apportare alla deliberazione impugnata e, ove la soluzione appaia realizzabile, rinvia adeguatamente l'udienza. Tutte le impugnazioni relative alla medesima deliberazione, anche se separatamente proposte ed ivi comprese le domande proposte ai sensi del ((quarto comma)) dell'articolo 2377, devono essere istruite congiuntamente e decise con unica sentenza. Salvo quanto disposto dal quarto comma del presente articolo, la trattazione della causa di merito ha inizio trascorso il termine stabilito nel ((sesto comma)) dell'articolo 2377. ((I dispositivi del provvedimento di sospensione e della sentenza che decide sull'impugnazione devono essere iscritti, a cura degli amministratori, nel registro delle imprese)).",
+    "caratteri": 2593
+  },
+  "note": [],
+  "impronta": "sha256:d1c071e473838862da95fb6f2cd2bd5ee21d84eabe7e26765b7c203c723449e4"
+}

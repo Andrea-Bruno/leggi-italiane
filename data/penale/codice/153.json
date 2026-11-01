@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "153",
+    "rubrica": "Esercizio del diritto di remissione. Incapaci",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art153"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per i minori degli anni quattordici e per gli interdetti a cagione di infermita' di mente, il diritto di remissione e' esercitato dal loro legale rappresentante. I minori, che hanno compiuto gli anni quattordici, e gli inabilitati possono esercitare il diritto di remissione, anche quando la querela e' stata proposta dal rappresentante, ma, in ogni caso , la remissione non ha effetto senza l'approvazione di questo. Il rappresentante puo' rimettere la querela proposta da lui o dal rappresentato, ma la remissione non ha effetto, se questi manifesta volonta' contraria. Le disposizioni dei capoversi precedenti si applicano anche nel caso in cui il minore raggiunge gli anni quattordici, dopo che e' stata proposta la querela.",
+    "con_marcatori": "Art. 153. (Esercizio del diritto di remissione. Incapaci) Per i minori degli anni quattordici e per gli interdetti a cagione di infermita' di mente, il diritto di remissione e' esercitato dal loro legale rappresentante. I minori, che hanno compiuto gli anni quattordici, e gli inabilitati possono esercitare il diritto di remissione, anche quando la querela e' stata proposta dal rappresentante, ma, in ogni caso , la remissione non ha effetto senza l'approvazione di questo. Il rappresentante puo' rimettere la querela proposta da lui o dal rappresentato, ma la remissione non ha effetto, se questi manifesta volonta' contraria. Le disposizioni dei capoversi precedenti si applicano anche nel caso in cui il minore raggiunge gli anni quattordici, dopo che e' stata proposta la querela.",
+    "caratteri": 728
+  },
+  "note": [],
+  "impronta": "sha256:0baf55fb2beb637e80fec981a3196bf673ea3259c13a178b15b1d50886d70120"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "192",
+    "rubrica": "Rimborsi e restituzioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art192"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascuno dei coniugi e' tenuto a rimborsare alla comunione le somme prelevate dal patrimonio comune per fini diversi dall'adempimento delle obbligazioni previste dall'articolo 186. E' tenuto altresi' a rimborsare il valore dei beni di cui all'articolo 189, a meno che, trattandosi di atto di straordinaria amministrazione da lui compiuto, dimostri che l'atto stesso sia stato vantaggioso per la comunione o abbia soddisfatto una necessita' della famiglia. Ciascuno dei coniugi puo' richiedere la restituzione delle somme prelevate dal patrimonio personale ed impiegate in spese ed investimenti del patrimonio comune. I rimborsi e le restituzioni si effettuano al momento dello scioglimento della comunione; tuttavia il giudice puo' autorizzarli in un momento anteriore se l'interesse della famiglia lo esige o lo consente. Il coniuge che risulta creditore puo' chiedere di prelevare beni comuni sino a concorrenza del proprio credito. In caso di dissenso si applica il quarto comma. I prelievi si effettuano sul denaro, quindi sui mobili e infine sugli immobili.",
+    "con_marcatori": "Art. 192. ((Rimborsi e restituzioni.)) ((Ciascuno dei coniugi e' tenuto a rimborsare alla comunione le somme prelevate dal patrimonio comune per fini diversi dall'adempimento delle obbligazioni previste dall'articolo 186. E' tenuto altresi' a rimborsare il valore dei beni di cui all'articolo 189, a meno che, trattandosi di atto di straordinaria amministrazione da lui compiuto, dimostri che l'atto stesso sia stato vantaggioso per la comunione o abbia soddisfatto una necessita' della famiglia. Ciascuno dei coniugi puo' richiedere la restituzione delle somme prelevate dal patrimonio personale ed impiegate in spese ed investimenti del patrimonio comune. I rimborsi e le restituzioni si effettuano al momento dello scioglimento della comunione; tuttavia il giudice puo' autorizzarli in un momento anteriore se l'interesse della famiglia lo esige o lo consente. Il coniuge che risulta creditore puo' chiedere di prelevare beni comuni sino a concorrenza del proprio credito. In caso di dissenso si applica il quarto comma. I prelievi si effettuano sul denaro, quindi sui mobili e infine sugli immobili)).",
+    "caratteri": 1062
+  },
+  "note": [],
+  "impronta": "sha256:0f18ccda7a2822224c1fcad0d711dcb0a6b05a10ce241672f2a24ce0e394c68e"
+}

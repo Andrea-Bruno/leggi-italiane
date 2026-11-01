@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2506.1",
+    "rubrica": "Scissione mediante scorporo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Con la scissione mediante scorporo una societa' assegna l'intero suo patrimonio o parte di esso a una o piu' societa' preesistenti o di nuova costituzione e a se' stessa le relative azioni o quote. La partecipazione alla scissione non e' consentita alle societa' in liquidazione che abbiano iniziato la distribuzione dell'attivo.",
+    "con_marcatori": "Art. 2506.1 (Scissione mediante scorporo). ((Con la scissione mediante scorporo una societa' assegna l'intero suo patrimonio o parte di esso a una o piu' societa' preesistenti o di nuova costituzione e a se' stessa le relative azioni o quote.)) La partecipazione alla scissione non e' consentita alle societa' in liquidazione che abbiano iniziato la distribuzione dell'attivo.",
+    "caratteri": 329
+  },
+  "note": [],
+  "impronta": "sha256:5a873bd3ca503e198c5e7c15919621b3da2ffed341c3a4a7bad736dcc5347707"
+}

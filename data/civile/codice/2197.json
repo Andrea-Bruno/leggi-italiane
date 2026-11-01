@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2197",
+    "rubrica": "Sedi secondarie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2197"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'imprenditore che istituisce nel territorio dello Stato sedi secondarie con una rappresentanza stabile deve, entro trenta giorni, chiederne l'iscrizione all'ufficio del registro delle imprese del luogo dove e' la sede principale dell'impresa. Nello stesso termine la richiesta deve essere fatta all'ufficio del luogo nel quale e' istituita la sede secondaria, indicando altresi' la sede principale, e il cognome e il nome del rappresentante preposto alla sede secondaria. PERIODO ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340. La disposizione del secondo comma si applica anche all'imprenditore che ha all'estero la sede principale dell'impresa. L'imprenditore che istituisce sedi secondarie con rappresentanza stabile all'estero deve, entro trenta giorni, chiederne l'iscrizione all'ufficio del registro nella cui circoscrizione si trova la sede principale.",
+    "con_marcatori": "Art. 2197. (Sedi secondarie). L'imprenditore che istituisce nel territorio dello Stato sedi secondarie con una rappresentanza stabile deve, entro trenta giorni, chiederne l'iscrizione all'ufficio del registro delle imprese del luogo dove e' la sede principale dell'impresa. Nello stesso termine la richiesta deve essere fatta all'ufficio del luogo nel quale e' istituita la sede secondaria, indicando altresi' la sede principale, e il cognome e il nome del rappresentante preposto alla sede secondaria. ((PERIODO ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340)). La disposizione del secondo comma si applica anche all'imprenditore che ha all'estero la sede principale dell'impresa. L'imprenditore che istituisce sedi secondarie con rappresentanza stabile all'estero deve, entro trenta giorni, chiederne l'iscrizione all'ufficio del registro nella cui circoscrizione si trova la sede principale.",
+    "caratteri": 856
+  },
+  "note": [],
+  "impronta": "sha256:345cfff3300d0266487432334721ccfb30c8df4e72607ac669bd8514bda5f208"
+}

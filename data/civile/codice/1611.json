@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1611",
+    "rubrica": "Incendio di casa abitata da piu' inquilini",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1611"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se si tratta di casa occupata da piu' inquilini, tutti sono responsabili verso il locatore del danno prodotto dall'incendio, proporzionatamente al valore della parte occupata. Se nella casa abita anche il locatore, si detrae dalla somma dovuta una quota corrispondente alla parte da lui occupata. La disposizione del comma precedente non si applica se si prova che l'incendio e' cominciato dall'abitazione di uno degli inquilini, ovvero se alcuno di questi prova che l'incendio non e' potuto cominciare nella sua abitazione.",
+    "con_marcatori": "Art. 1611. (Incendio di casa abitata da piu' inquilini). Se si tratta di casa occupata da piu' inquilini, tutti sono responsabili verso il locatore del danno prodotto dall'incendio, proporzionatamente al valore della parte occupata. Se nella casa abita anche il locatore, si detrae dalla somma dovuta una quota corrispondente alla parte da lui occupata. La disposizione del comma precedente non si applica se si prova che l'incendio e' cominciato dall'abitazione di uno degli inquilini, ovvero se alcuno di questi prova che l'incendio non e' potuto cominciare nella sua abitazione.",
+    "caratteri": 524
+  },
+  "note": [],
+  "impronta": "sha256:4871d0d160d272134cb793e71740ce80069230d195426cc90cbf72d3be13d0da"
+}

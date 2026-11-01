@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2370",
+    "rubrica": "Diritto d'intervento all'assemblea ed esercizio del voto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2370"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Possono intervenire all'assemblea coloro ai quali spetta il diritto di voto. Lo statuto delle societa' le cui azioni non sono ammesse alla gestione accentrata, puo' richiedere il preventivo deposito delle azioni presso la sede sociale o presso le banche indicate nell'avviso di convocazione, fissando il termine entro il quale debbono essere depositate ed eventualmente prevedendo che non possano essere ritirate prima che l'assemblea abbia avuto luogo. Qualora le azioni emesse dalle societa' indicate al primo periodo siano diffuse fra il pubblico in misura rilevante il termine non puo' essere superiore a due giorni non festivi. Se le azioni sono nominative, le societa' di cui al secondo comma provvedono all'iscrizione nel libro dei soci di coloro che hanno partecipato all'assemblea o che hanno effettuato il deposito. Lo statuto puo' consentire l'intervento all'assemblea mediante mezzi di telecomunicazione ovvero l'espressione del voto per corrispondenza o in via elettronica. Chi esprime il voto per corrispondenza o in via elettronica si considera intervenuto all'assemblea. Resta fermo quanto previsto dalle leggi speciali in materia di legittimazione all'intervento e all'esercizio del diritto di voto nell'assemblea nonche' in materia di aggiornamento del libro soci nelle societa' con azioni ammesse alla gestione accentrata.",
+    "con_marcatori": "Art. 2370. (( (Diritto d'intervento all'assemblea ed esercizio del voto) )) ((Possono intervenire all'assemblea coloro ai quali spetta il diritto di voto. Lo statuto delle societa' le cui azioni non sono ammesse alla gestione accentrata, puo' richiedere il preventivo deposito delle azioni presso la sede sociale o presso le banche indicate nell'avviso di convocazione, fissando il termine entro il quale debbono essere depositate ed eventualmente prevedendo che non possano essere ritirate prima che l'assemblea abbia avuto luogo. Qualora le azioni emesse dalle societa' indicate al primo periodo siano diffuse fra il pubblico in misura rilevante il termine non puo' essere superiore a due giorni non festivi. Se le azioni sono nominative, le societa' di cui al secondo comma provvedono all'iscrizione nel libro dei soci di coloro che hanno partecipato all'assemblea o che hanno effettuato il deposito. Lo statuto puo' consentire l'intervento all'assemblea mediante mezzi di telecomunicazione ovvero l'espressione del voto per corrispondenza o in via elettronica. Chi esprime il voto per corrispondenza o in via elettronica si considera intervenuto all'assemblea. Resta fermo quanto previsto dalle leggi speciali in materia di legittimazione all'intervento e all'esercizio del diritto di voto nell'assemblea nonche' in materia di aggiornamento del libro soci nelle societa' con azioni ammesse alla gestione accentrata.))",
+    "caratteri": 1341
+  },
+  "note": [],
+  "impronta": "sha256:ecb083d30ad362b190f8012121f04865852158e622651ce735c755603c24df65"
+}

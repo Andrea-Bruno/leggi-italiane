@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2584",
+    "rubrica": "Diritto di esclusivita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2584"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi ha ottenuto un brevetto per un'invenzione industriale ha il diritto esclusivo di attuare l'invenzione e di disporne entro i limiti e alle condizioni stabilite dalla legge. Il diritto si estende anche al commercio del prodotto a cui l'invenzione si riferisce.",
+    "con_marcatori": "Art. 2584. (Diritto di esclusivita'). Chi ha ottenuto un brevetto per un'invenzione industriale ha il diritto esclusivo di attuare l'invenzione e di disporne entro i limiti e alle condizioni stabilite dalla legge. Il diritto si estende anche al commercio del prodotto a cui l'invenzione si riferisce.",
+    "caratteri": 262
+  },
+  "note": [],
+  "impronta": "sha256:5986ad0ea755ca136032babfda10aae3ea4e3d0b7f7cc5c629328ce79fe7c14b"
+}

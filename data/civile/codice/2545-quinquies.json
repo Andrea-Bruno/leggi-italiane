@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2545-quinquies",
+    "rubrica": "Diritto agli utili e alle riserve dei soci cooperatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2545-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo indica le modalita' e la percentuale massima di ripartizione dei dividendi tra i soci cooperatori. Possono essere distribuiti dividendi, acquistate proprie quote o azioni ovvero assegnate ai soci le riserve divisibili se il rapporto tra il patrimonio netto e il complessivo indebitamento della societa' e' superiore ad un quarto. La condizione non si applica nei confronti dei possessori di strumenti finanziari. L'atto costitutivo puo' autorizzare l'assemblea ad assegnare ai soci le riserve divisibili attraverso: a) l'emissione degli strumenti finanziari di cui all'articolo 2526; b) mediante aumento proporzionale delle quote sottoscritte e versate, o mediante l'emissione di nuove azioni, anche in deroga a quanto previsto dall'articolo 2525, nella misura massima complessiva del venti per cento del valore originario. Le riserve divisibili, spettanti al socio in caso di scioglimento del rapporto, possono essere assegnate, se lo statuto non prevede diversamente, attraverso l'emissione di strumenti finanziari liberamente trasferibili e devono esserlo ove il rapporto tra il patrimonio netto e il complessivo indebitamento della societa' sia inferiore ad un quarto. Le disposizioni dei commi secondo e terzo non si applicano alle cooperative con azioni quotate in mercati regolamentati.",
+    "con_marcatori": "Art. 2545-quinquies. (Diritto agli utili e alle riserve dei soci cooperatori). L'atto costitutivo indica le modalita' e la percentuale massima di ripartizione dei dividendi tra i soci cooperatori. Possono essere distribuiti dividendi, acquistate proprie quote o azioni ovvero assegnate ai soci le riserve divisibili se il rapporto tra il patrimonio netto e il complessivo indebitamento della societa' e' superiore ad un quarto. ((La condizione)) non si applica nei confronti dei possessori di strumenti finanziari. L'atto costitutivo puo' autorizzare l'assemblea ad assegnare ai soci le riserve divisibili attraverso: a) l'emissione degli strumenti finanziari di cui all'articolo 2526; b) mediante aumento proporzionale delle quote sottoscritte e versate, o mediante l'emissione di nuove azioni, anche in deroga a quanto previsto dall'articolo 2525, nella misura massima complessiva del venti per cento del valore originario. Le riserve divisibili, spettanti al socio in caso di scioglimento del rapporto, possono essere assegnate, se lo statuto non prevede diversamente, attraverso l'emissione di strumenti finanziari liberamente trasferibili e devono esserlo ove il rapporto tra il patrimonio netto e il complessivo indebitamento della societa' sia inferiore ad un quarto. ((Le disposizioni dei commi secondo e terzo non si applicano alle cooperative con azioni quotate in mercati regolamentati.))",
+    "caratteri": 1312
+  },
+  "note": [],
+  "impronta": "sha256:9af880eacbc29212e83b7c85bfdfba4a19c65fbbebab43088779bbebf8b21799"
+}

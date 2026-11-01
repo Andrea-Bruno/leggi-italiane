@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "68",
+    "rubrica": "Limiti al concorso di circostanze",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art68"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo quanto e' disposto nell'articolo 15, quando una circostanza aggravante comprende in se' un'altra circostanza aggravante, ovvero una circostanza attenuante comprende in se' un'altra circostanza attenuante, e' valutata a carico o a favore del colpevole soltanto la circostanza aggravante o la circostanza attenuante, la quale importa, rispettivamente, il maggiore aumento o la maggiore diminuzione di pena. Se le circostanze aggravanti o attenuanti importano lo stesso aumento o la stessa diminuzione di pena, si applica un solo aumento o una sola diminuzione di pena.",
+    "con_marcatori": "Art. 68. (Limiti al concorso di circostanze) Salvo quanto e' disposto nell'articolo 15, quando una circostanza aggravante comprende in se' un'altra circostanza aggravante, ovvero una circostanza attenuante comprende in se' un'altra circostanza attenuante, e' valutata a carico o a favore del colpevole soltanto la circostanza aggravante o la circostanza attenuante, la quale importa, rispettivamente, il maggiore aumento o la maggiore diminuzione di pena. Se le circostanze aggravanti o attenuanti importano lo stesso aumento o la stessa diminuzione di pena, si applica un solo aumento o una sola diminuzione di pena.",
+    "caratteri": 572
+  },
+  "note": [],
+  "impronta": "sha256:7438327dffe229bcd0ea2048cc6b9418ba063d790c9356fbc64c1a19d12cd54e"
+}

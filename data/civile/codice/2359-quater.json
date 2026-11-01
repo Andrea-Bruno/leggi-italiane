@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2359-quater",
+    "rubrica": "Casi speciali di acquisto o di possesso di azioni o quote della societa' controllante",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le limitazioni dell'articolo 2359-bis non si applicano quando l'acquisto avvenga ai sensi dei numeri 2, 3 e 4 del primo comma dell'articolo 2357-bis. Le azioni o quote cosi' acquistate, che superino il limite stabilito dal terzo comma dell'articolo 2359-bis, devono tuttavia essere alienate, secondo modalita' da determinarsi dall'assemblea, entro tre anni dall'acquisto. Si applica il secondo comma dell'articolo 2359-ter. Se il limite indicato dal terzo comma dell'articolo 2359-bis e' superato per effetto di circostanze sopravvenute, la societa' controllante, entro tre anni dal momento in cui si e' verificata la circostanza che ha determinato il superamento del limite, deve procedere all'annullamento delle azioni o quote in misura proporzionale a quelle possedute da ciascuna societa', con conseguente riduzione del capitale e con rimborso alle societa' controllate secondo i criteri indicati dagli articoli 2437-ter e 2437-quater. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma.",
+    "con_marcatori": "Art. 2359-quater (( (Casi speciali di acquisto o di possesso di azioni o quote della societa' controllante). )) ((Le limitazioni dell'articolo 2359-bis non si applicano quando l'acquisto avvenga ai sensi dei numeri 2, 3 e 4 del primo comma dell'articolo 2357-bis. Le azioni o quote cosi' acquistate, che superino il limite stabilito dal terzo comma dell'articolo 2359-bis, devono tuttavia essere alienate, secondo modalita' da determinarsi dall'assemblea, entro tre anni dall'acquisto. Si applica il secondo comma dell'articolo 2359-ter. Se il limite indicato dal terzo comma dell'articolo 2359-bis e' superato per effetto di circostanze sopravvenute, la societa' controllante, entro tre anni dal momento in cui si e' verificata la circostanza che ha determinato il superamento del limite, deve procedere all'annullamento delle azioni o quote in misura proporzionale a quelle possedute da ciascuna societa', con conseguente riduzione del capitale e con rimborso alle societa' controllate secondo i criteri indicati dagli articoli 2437-ter e 2437-quater. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma.))",
+    "caratteri": 1132
+  },
+  "note": [
+    {
+      "numero": 97,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 2 maggio 1994, n. 315",
+          "urn": "urn:nir:stato:decretoLegislativo:1994-05-02;315",
+          "data": "1994-05-02",
+          "numero": "315",
+          "data_gazzetta": "1994-05-26"
+        },
+        {
+          "denominazione": "terzo comma dell'art. 2359-bis del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 2 maggio 1994, n. 315 ha disposto (con l'art. 11, comma 1) che \"Il terzo comma dell'art. 2359-quater si applica anche nel caso in cui le azioni o quote possedute dalle societa' controllate, alla data di entrata in vigore del presente decreto, eccedano i limiti indicati dal terzo comma dell'art. 2359-bis del codice civile. Il termine di tre anni decorre dalla suddetta data\"."
+    }
+  ],
+  "impronta": "sha256:35dcf07d1b4790ad925bd5e236e32b6f2b7d71a2b9e804bb66d402f092814e5f"
+}

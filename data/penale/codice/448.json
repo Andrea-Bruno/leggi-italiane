@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "448",
+    "rubrica": "Pene accessorie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art448"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La condanna per taluno dei delitti preveduti da questo capo importa la pubblicazione della sentenza. La condanna per taluno dei delitti preveduti dagli articoli 439, 440, 441 e 442 importa l'interdizione da cinque a dieci anni dalla professione, arte, industria, commercio o mestiere nonche' l'interdizione dagli uffici direttivi delle persone giuridiche e delle imprese per lo stesso periodo. La condanna comporta altresi' la pubblicazione della sentenza su almeno due quotidiani a diffusione nazionale.",
+    "con_marcatori": "Art. 448. (Pene accessorie) La condanna per taluno dei delitti preveduti da questo capo importa la pubblicazione della sentenza. ((La condanna per taluno dei delitti preveduti dagli articoli 439, 440, 441 e 442 importa l'interdizione da cinque a dieci anni dalla professione, arte, industria, commercio o mestiere nonche' l'interdizione dagli uffici direttivi delle persone giuridiche e delle imprese per lo stesso periodo. La condanna comporta altresi' la pubblicazione della sentenza su almeno due quotidiani a diffusione nazionale)).",
+    "caratteri": 504
+  },
+  "note": [],
+  "impronta": "sha256:153f1eeb4819cd3df33d729984ae3ab2c58e98153828da39e0a56a4e18ef4448"
+}

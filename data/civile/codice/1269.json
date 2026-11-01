@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1269",
+    "rubrica": "Delegazione di pagamento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1269"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il debitore per eseguire il pagamento ha delegato un terzo, questi puo' obbligarsi verso il creditore, salvo che il debitore l'abbia vietato. Il terzo delegato per eseguire il pagamento non e' tenuto ad accettare l'incarico, ancorche' sia debitore del delegante. Sono salvi gli usi diversi.",
+    "con_marcatori": "Art. 1269. (Delegazione di pagamento). Se il debitore per eseguire il pagamento ha delegato un terzo, questi puo' obbligarsi verso il creditore, salvo che il debitore l'abbia vietato. Il terzo delegato per eseguire il pagamento non e' tenuto ad accettare l'incarico, ancorche' sia debitore del delegante. Sono salvi gli usi diversi.",
+    "caratteri": 293
+  },
+  "note": [],
+  "impronta": "sha256:167564842545e7043d20798b1e9af3f3e171d0d6d2302da9a573acf962e79cbd"
+}

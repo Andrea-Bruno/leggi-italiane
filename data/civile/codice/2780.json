@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2780",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2780"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ordine dei privilegi sugli immobili. Quando sul prezzo dello stesso immobile concorrono piu' crediti privilegiati, la prelazione ha luogo secondo l'ordine seguente: 1) i crediti per le imposte sui redditi immobiliari, indicati dall'articolo 2771; 2) i crediti per i contributi, indicati dall'articolo 2775; 3) i crediti dello Stato per le concessioni di acque, indicati dall'articolo 2774; 4) i crediti per i tributi indiretti, indicati dall'articolo 2772; 5) i crediti per l'imposta comunale sull'incremento di valore degli immobili. 5-bis) i crediti del promissario acquirente per mancata esecuzione dei contratti preliminari, indicati all'articolo 2775-bis.",
+    "con_marcatori": "Art. 2780. Ordine dei privilegi sugli immobili. Quando sul prezzo dello stesso immobile concorrono piu' crediti privilegiati, la prelazione ha luogo secondo l'ordine seguente: 1) i crediti per le imposte sui redditi immobiliari, indicati dall'articolo 2771; 2) i crediti per i contributi, indicati dall'articolo 2775; 3) i crediti dello Stato per le concessioni di acque, indicati dall'articolo 2774; 4) i crediti per i tributi indiretti, indicati dall'articolo 2772; 5) i crediti per l'imposta comunale sull'incremento di valore degli immobili. ((5-bis) i crediti del promissario acquirente per mancata esecuzione dei contratti preliminari, indicati all'articolo 2775-bis.))",
+    "caratteri": 660
+  },
+  "note": [],
+  "impronta": "sha256:00bd6a46e0adf8c285e35daf740e44475e17121ca38bd146395587bad0383d7f"
+}

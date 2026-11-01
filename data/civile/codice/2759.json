@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2759",
+    "rubrica": "Crediti per le imposte sul reddito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2759"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti dello Stato per l'imposta sul reddito delle persone fisiche, sul reddito delle persone giuridiche e per l'imposta locale sui redditi, dovuta per i due anni anteriori a quello in cui si procede, hanno privilegio, limitatamente all'imposta o alla quota d'imposta imputabile al reddito d'impresa, sopra i mobili che servono all'esercizio di imprese commerciali e sopra le merci che si trovano nel locale adibito all'esercizio stesso o nell'abitazione dell'imprenditore. Il privilegio si applica sui beni indicati nel comma precedente ancorche' appartenenti a persona diversa dall'imprenditore, salvo che si tratti di beni rubati o smarriti, di merci affidate all'imprenditore per la lavorazione o di merci non ancora nazionalizzate munite di regolare bolletta doganale. Qualora l'accertamento del reddito iscritto a ruolo sia stato determinato sinteticamente ai fini dell'imposta sul reddito delle persone fisiche, la ripartizione proporzionale dell'imposta, prevista dal primo comma, viene effettuata sulla base dei redditi iscritti o iscrivibili ai fini dell'imposta locale sui redditi.",
+    "con_marcatori": "Art. 2759. ((Crediti per le imposte sul reddito.)) ((I crediti dello Stato per l'imposta sul reddito delle persone fisiche, sul reddito delle persone giuridiche e per l'imposta locale sui redditi, dovuta per i due anni anteriori a quello in cui si procede, hanno privilegio, limitatamente all'imposta o alla quota d'imposta imputabile al reddito d'impresa, sopra i mobili che servono all'esercizio di imprese commerciali e sopra le merci che si trovano nel locale adibito all'esercizio stesso o nell'abitazione dell'imprenditore. Il privilegio si applica sui beni indicati nel comma precedente ancorche' appartenenti a persona diversa dall'imprenditore, salvo che si tratti di beni rubati o smarriti, di merci affidate all'imprenditore per la lavorazione o di merci non ancora nazionalizzate munite di regolare bolletta doganale. Qualora l'accertamento del reddito iscritto a ruolo sia stato determinato sinteticamente ai fini dell'imposta sul reddito delle persone fisiche, la ripartizione proporzionale dell'imposta, prevista dal primo comma, viene effettuata sulla base dei redditi iscritti o iscrivibili ai fini dell'imposta locale sui redditi)).",
+    "caratteri": 1095
+  },
+  "note": [],
+  "impronta": "sha256:a67f27c3bed47131eb897c18345182c01769e5b23291a87e555948d2719c3105"
+}

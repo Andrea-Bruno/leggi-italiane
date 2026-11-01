@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2923",
+    "rubrica": "Locazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2923"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le locazioni consentite da chi ha subito l'espropriazione sono opponibili all'acquirente se hanno data certa anteriore al pignoramento, salvo che, trattandosi di beni mobili, l'acquirente ne abbia conseguito il possesso in buona fede. Le locazioni immobiliari eccedenti i nove anni che non sono state trascritte anteriormente al pignoramento non sono opponibili all'acquirente, se non nei limiti di un novennio dall'inizio della locazione. In ogni caso l'acquirente non e' tenuto a rispettare la locazione qualora il prezzo convenuto sia inferiore di un terzo al giusto prezzo o a quello risultante da precedenti locazioni. Se la locazione non ha data certa, ma la detenzione del conduttore e' anteriore al pignoramento della cosa locata, l'acquirente non e' tenuto a rispettare la locazione che per la durata corrispondente a quella stabilita per le locazioni a tempo indeterminato. Se nel contratto di locazione e' convenuto che esso possa risolversi in caso di alienazione, l'acquirente puo' intimare licenza al conduttore secondo le disposizioni dell'art. 1603.",
+    "con_marcatori": "Art. 2923. (Locazioni). Le locazioni consentite da chi ha subito l'espropriazione sono opponibili all'acquirente se hanno data certa anteriore al pignoramento, salvo che, trattandosi di beni mobili, l'acquirente ne abbia conseguito il possesso in buona fede. Le locazioni immobiliari eccedenti i nove anni che non sono state trascritte anteriormente al pignoramento non sono opponibili all'acquirente, se non nei limiti di un novennio dall'inizio della locazione. In ogni caso l'acquirente non e' tenuto a rispettare la locazione qualora il prezzo convenuto sia inferiore di un terzo al giusto prezzo o a quello risultante da precedenti locazioni. Se la locazione non ha data certa, ma la detenzione del conduttore e' anteriore al pignoramento della cosa locata, l'acquirente non e' tenuto a rispettare la locazione che per la durata corrispondente a quella stabilita per le locazioni a tempo indeterminato. Se nel contratto di locazione e' convenuto che esso possa risolversi in caso di alienazione, l'acquirente puo' intimare licenza al conduttore secondo le disposizioni dell'art. 1603.",
+    "caratteri": 1065
+  },
+  "note": [],
+  "impronta": "sha256:67be31d1ca653773a20cba52d41f13a6a68cd0139cda910a3b8c51b074bc7692"
+}

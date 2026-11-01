@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "314",
+    "rubrica": "Pubblicita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art314"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La sentenza definitiva che pronuncia l'adozione e' trascritta a cura del cancelliere del tribunale competente, entro il decimo giorno successivo a quello della relativa comunicazione, da effettuarsi non oltre cinque giorni dal deposito, da parte del cancelliere del giudice dell'impugnazione, su apposito registro e comunicata all'ufficiale di stato civile per l'annotazione a margine dell'atto di nascita dell'adottato. Con la procedura di cui al primo comma deve essere altresi' trascritta ed annotata la sentenza di revoca della adozione, passata in giudicato. L'autorita' giudiziaria puo' inoltre ordinare la pubblicazione della sentenza che pronuncia l'adozione o della sentenza di revoca nei modi che ritiene opportuni.",
+    "con_marcatori": "Art. 314. (( (Pubblicita') )) ((La sentenza definitiva che pronuncia l'adozione e' trascritta a cura del cancelliere del tribunale competente, entro il decimo giorno successivo a quello della relativa comunicazione, da effettuarsi non oltre cinque giorni dal deposito, da parte del cancelliere del giudice dell'impugnazione, su apposito registro e comunicata all'ufficiale di stato civile per l'annotazione a margine dell'atto di nascita dell'adottato. Con la procedura di cui al primo comma deve essere altresi' trascritta ed annotata la sentenza di revoca della adozione, passata in giudicato. L'autorita' giudiziaria puo' inoltre ordinare la pubblicazione della sentenza che pronuncia l'adozione o della sentenza di revoca nei modi che ritiene opportuni)).",
+    "caratteri": 725
+  },
+  "note": [
+    {
+      "numero": 14,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 5 giugno 1967, n. 431",
+          "urn": "urn:nir:stato:legge:1967-06-05;431",
+          "data": "1967-06-05",
+          "numero": "431",
+          "data_gazzetta": "1967-06-22"
+        },
+        {
+          "denominazione": "Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 5 giugno 1967, n. 431, ha disposto(con l'art. 3, comma 1)che \"Nelle ipotesi di cui al capo II del titolo VIII del libro I del Codice civile, alla competenza della Corte d'appello e' sostituita quella del tribunale nel cui circondario l'adottante ha la residenza. Per l'adozione di minorenni e' competente il tribunale per i minorenni\"."
+    }
+  ],
+  "impronta": "sha256:4a257aac74390452365002862816533199f6110fd29438ca54cee6ffa15ee948"
+}

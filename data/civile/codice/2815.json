@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2815",
+    "rubrica": "Ipoteca sul diritto del concedente e sul diritto dell'enfiteuta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2815"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di affrancazione, le ipoteche gravanti sul diritto del concedente si risolvono sul prezzo dovuto per l'affrancazione; le ipoteche gravanti sul diritto dell'enfiteuta si estendono alla piena proprieta'. Nel caso di devoluzione o di cessazione dell'enfiteusi per decorso del termine, le ipoteche gravanti sul diritto dell'enfiteuta si risolvono sul prezzo dovuto per i miglioramenti, senza deduzione di quanto e' dovuto al concedente per i canoni non soddisfatti. Il prezzo dei miglioramenti, se da atto scritto non risulta concordato con i creditori ipotecari, deve determinarsi giudizialmente, anche in contraddittorio dei medesimi. Le ipoteche gravanti sul diritto del concedente si estendono alla piena proprieta'. Quando l'enfiteusi si estingue per prescrizione, si estinguono le ipoteche che gravano sul diritto dell'enfiteuta. Se per causa diversa da quelle sopra indicate vengono a riunirsi in una medesima persona il diritto del concedente e il diritto dell'enfiteuta, le ipoteche gravanti sull'uno e sull'altro continuano a gravarli separatamente; ma se l'ipoteca grava soltanto sull'uno o sull'altro diritto, essa si estende alla piena proprieta'.",
+    "con_marcatori": "Art. 2815. (Ipoteca sul diritto del concedente e sul diritto dell'enfiteuta). Nel caso di affrancazione, le ipoteche gravanti sul diritto del concedente si risolvono sul prezzo dovuto per l'affrancazione; le ipoteche gravanti sul diritto dell'enfiteuta si estendono alla piena proprieta'. Nel caso di devoluzione o di cessazione dell'enfiteusi per decorso del termine, le ipoteche gravanti sul diritto dell'enfiteuta si risolvono sul prezzo dovuto per i miglioramenti, senza deduzione di quanto e' dovuto al concedente per i canoni non soddisfatti. Il prezzo dei miglioramenti, se da atto scritto non risulta concordato con i creditori ipotecari, deve determinarsi giudizialmente, anche in contraddittorio dei medesimi. Le ipoteche gravanti sul diritto del concedente si estendono alla piena proprieta'. Quando l'enfiteusi si estingue per prescrizione, si estinguono le ipoteche che gravano sul diritto dell'enfiteuta. Se per causa diversa da quelle sopra indicate vengono a riunirsi in una medesima persona il diritto del concedente e il diritto dell'enfiteuta, le ipoteche gravanti sull'uno e sull'altro continuano a gravarli separatamente; ma se l'ipoteca grava soltanto sull'uno o sull'altro diritto, essa si estende alla piena proprieta'.",
+    "caratteri": 1165
+  },
+  "note": [],
+  "impronta": "sha256:a72359acfd9b0fb3caada555e66b59fd74fdae0d95a1d154116cd6a8535ae27a"
+}

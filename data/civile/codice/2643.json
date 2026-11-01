@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2643",
+    "rubrica": "Atti soggetti a trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2643"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si devono rendere pubblici col mezzo della trascrizione: 1) i contratti che trasferiscono la proprieta' di beni immobili; 2) i contratti che costituiscono, trasferiscono o modificano il diritto di usufrutto su beni immobili, il diritto di superficie, i diritti del concedente e dell'enfiteuta; 2-bis) i contratti che trasferiscono, costituiscono o modificano i diritti edificatori comunque denominati, previsti da normative statali o regionali, ovvero da strumenti di pianificazione territoriale; 3) i contratti che costituiscono la comunione dei diritti menzionati nei numeri precedenti; 4) i contratti che costituiscono o modificano servitu' prediali, il diritto di uso sopra beni immobili, il diritto di abitazione; 5) gli atti tra vivi di rinunzia ai diritti menzionati nei numeri precedenti; 6) i provvedimenti con i quali nell'esecuzione forzata si trasferiscono la proprieta' di beni immobili o altri diritti reali immobiliari, eccettuato il caso di vendita seguita nel processo di liberazione degli immobili dalle ipoteche a favore del terzo acquirente; 7) gli atti e le sentenze di affrancazione del fondo enfiteutico; 8) i contratti di locazione di beni immobili che hanno durata superiore a nove anni; 9) gli atti e le sentenze da cui risulta liberazione o cessione di pigioni o di fitti non ancora scaduti, per un termine maggiore di tre anni; 10) i contratti di societa' e di associazione con i quali si conferisce il godimento di beni immobili o di altri diritti reali immobiliari, quando la durata della societa' o dell'associazione eccede i nove anni o e' indeterminata; 11) gli atti di costituzione dei consorzi che hanno l'effetto indicato dal numero precedente; 12) i contratti di anticresi; 12-bis) gli accordi di mediazione che accertano l'usucapione con la sottoscrizione del processo verbale autenticata da un pubblico ufficiale a cio' autorizzato. 13) le transazioni che hanno per oggetto controversie sui diritti menzionati nei numeri precedenti; 14) le sentenze che operano la costituzione, il trasferimento o la modificazione di uno dei diritti menzionati nei numeri precedenti.",
+    "con_marcatori": "Art. 2643. (Atti soggetti a trascrizione). Si devono rendere pubblici col mezzo della trascrizione: 1) i contratti che trasferiscono la proprieta' di beni immobili; 2) i contratti che costituiscono, trasferiscono o modificano il diritto di usufrutto su beni immobili, il diritto di superficie, i diritti del concedente e dell'enfiteuta; 2-bis) i contratti che trasferiscono, costituiscono o modificano i diritti edificatori comunque denominati, previsti da normative statali o regionali, ovvero da strumenti di pianificazione territoriale; 3) i contratti che costituiscono la comunione dei diritti menzionati nei numeri precedenti; 4) i contratti che costituiscono o modificano servitu' prediali, il diritto di uso sopra beni immobili, il diritto di abitazione; 5) gli atti tra vivi di rinunzia ai diritti menzionati nei numeri precedenti; 6) i provvedimenti con i quali nell'esecuzione forzata si trasferiscono la proprieta' di beni immobili o altri diritti reali immobiliari, eccettuato il caso di vendita seguita nel processo di liberazione degli immobili dalle ipoteche a favore del terzo acquirente; 7) gli atti e le sentenze di affrancazione del fondo enfiteutico; 8) i contratti di locazione di beni immobili che hanno durata superiore a nove anni; 9) gli atti e le sentenze da cui risulta liberazione o cessione di pigioni o di fitti non ancora scaduti, per un termine maggiore di tre anni; 10) i contratti di societa' e di associazione con i quali si conferisce il godimento di beni immobili o di altri diritti reali immobiliari, quando la durata della societa' o dell'associazione eccede i nove anni o e' indeterminata; 11) gli atti di costituzione dei consorzi che hanno l'effetto indicato dal numero precedente; 12) i contratti di anticresi; ((12-bis) gli accordi di mediazione che accertano l'usucapione con la sottoscrizione del processo verbale autenticata da un pubblico ufficiale a cio' autorizzato)). 13) le transazioni che hanno per oggetto controversie sui diritti menzionati nei numeri precedenti; 14) le sentenze che operano la costituzione, il trasferimento o la modificazione di uno dei diritti menzionati nei numeri precedenti.",
+    "caratteri": 2105
+  },
+  "note": [],
+  "impronta": "sha256:a216ea226900c2e209bc4d2d838d26bf2d20dc575dde377d4fd2b5b22a88c032"
+}

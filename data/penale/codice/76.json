@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "76",
+    "rubrica": "Pene concorrenti considerate come pena unica ovvero come pene distinte",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art76"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che la legge stabilisca altrimenti, le pene della stessa specie concorrenti a norma dell'articolo 73 si considerano come pena unica per ogni effetto giuridico. Le pene di specie diversa concorrenti a norma degli articoli 74 e 75 si considerano egualmente, per ogni effetto giuridico, come pena unica della specie piu' grave. Nondimeno si considerano come pene distinte, agli effetti della loro esecuzione, dell'applicazione delle misure di sicurezza e in ogni altro caso stabilito dalla legge. Se una pena pecuniaria concorre con un'altra pena di specie diversa, le pene si considerano distinte per qualsiasi effetto giuridico.",
+    "con_marcatori": "Art. 76. (Pene concorrenti considerate come pena unica ovvero come pene distinte) Salvo che la legge stabilisca altrimenti, le pene della stessa specie concorrenti a norma dell'articolo 73 si considerano come pena unica per ogni effetto giuridico. Le pene di specie diversa concorrenti a norma degli articoli 74 e 75 si considerano egualmente, per ogni effetto giuridico, come pena unica della specie piu' grave. Nondimeno si considerano come pene distinte, agli effetti della loro esecuzione, dell'applicazione delle misure di sicurezza e in ogni altro caso stabilito dalla legge. Se una pena pecuniaria concorre con un'altra pena di specie diversa, le pene si considerano distinte per qualsiasi effetto giuridico.",
+    "caratteri": 633
+  },
+  "note": [],
+  "impronta": "sha256:112ed7e8bad8fd94d7f5d21690ad78e37a0cab2270e7fc2bc4342d1acb75fcb1"
+}

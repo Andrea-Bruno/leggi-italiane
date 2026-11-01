@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2162",
+    "rubrica": "Efficacia probatoria del libretto colonico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2162"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le annotazioni eseguite sui due esemplari del libretto colonico fanno prova a favore e contro ciascuno dei contraenti, se il mezzadro non ha reclamato entro novanta giorni dalla consegna del libretto fattagli dal concedente. Se una delle parti non presenta il proprio libretto, fa fede quello presentato. In ogni caso le annotazioni delle partite fanno prova contro chi le ha scritte. Con la sottoscrizione delle parti alla chiusura annuale del conto colonico, questo s'intende approvato. Le risultanze del conto possono essere impugnate soltanto per errori materiali, omissioni, falsita' e duplicazioni di partite entro novanta giorni dalla consegna del libretto al mezzadro.",
+    "con_marcatori": "Art. 2162. (Efficacia probatoria del libretto colonico). Le annotazioni eseguite sui due esemplari del libretto colonico fanno prova a favore e contro ciascuno dei contraenti, se il mezzadro non ha reclamato entro novanta giorni dalla consegna del libretto fattagli dal concedente. Se una delle parti non presenta il proprio libretto, fa fede quello presentato. In ogni caso le annotazioni delle partite fanno prova contro chi le ha scritte. Con la sottoscrizione delle parti alla chiusura annuale del conto colonico, questo s'intende approvato. Le risultanze del conto possono essere impugnate soltanto per errori materiali, omissioni, falsita' e duplicazioni di partite entro novanta giorni dalla consegna del libretto al mezzadro.",
+    "caratteri": 676
+  },
+  "note": [],
+  "impronta": "sha256:0079b7aaec8aaccf9cc939131d7a3a1945dfb6f353b1308b990e04de1c1feefb"
+}

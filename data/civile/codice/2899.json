@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2899",
+    "rubrica": "Divieto di rinunzia a un'ipoteca a danno di altro creditore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2899"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore, che ha ipoteca su vari immobili, dopo che gli e' stata fatta la notificazione indicata dall'articolo 2890, se si tratta del processo di liberazione dalle ipoteche, o dopo la notificazione del provvedimento che dispone la vendita, in caso di espropriazione, non puo' rinunziare alla sua ipoteca sopra uno di quegli immobili ne' astenersi dall'intervenire nel giudizio di espropriazione, qualora sia con cio' favorito un creditore a danno di altro creditore anteriormente iscritto; se egli rinunzia o si astiene, e' responsabile dei danni, a meno che vi siano giusti motivi. La stessa disposizione si applica nel caso in cui la rinunzia o l'astensione favorisca un terzo acquirente a danno di un creditore con ipoteca anteriore o di un altro terzo acquirente che abbia un titolo anteriormente trascritto.",
+    "con_marcatori": "Art. 2899. (Divieto di rinunzia a un'ipoteca a danno di altro creditore). Il creditore, che ha ipoteca su vari immobili, dopo che gli e' stata fatta la notificazione indicata dall'articolo 2890, se si tratta del processo di liberazione dalle ipoteche, o dopo la notificazione del provvedimento che dispone la vendita, in caso di espropriazione, non puo' rinunziare alla sua ipoteca sopra uno di quegli immobili ne' astenersi dall'intervenire nel giudizio di espropriazione, qualora sia con cio' favorito un creditore a danno di altro creditore anteriormente iscritto; se egli rinunzia o si astiene, e' responsabile dei danni, a meno che vi siano giusti motivi. La stessa disposizione si applica nel caso in cui la rinunzia o l'astensione favorisca un terzo acquirente a danno di un creditore con ipoteca anteriore o di un altro terzo acquirente che abbia un titolo anteriormente trascritto.",
+    "caratteri": 816
+  },
+  "note": [],
+  "impronta": "sha256:86ea120334494d52df45560c84ab4df8cd78187e7bfebf4578ca4634cfbab998"
+}

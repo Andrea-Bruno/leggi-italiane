@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1166",
+    "rubrica": "Inefficacia delle cause d'impedimento e di sospensione rispetto al terzo possessore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1166"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nell'usucapione ventennale non hanno luogo, riguardo al terzo possessore di un immobile o di un diritto reale sopra un immobile, ne' l'impedimento derivante da condizione o da termine, ne' le cause di sospensione indicate dall'art. 2942. L'impedimento derivante da condizione o da termine e le cause di sospensione menzionate nel detto articolo non sono nemmeno opponibili al terzo possessore nella prescrizione per non uso dei diritti reali sui beni da lui posseduti.",
+    "con_marcatori": "Art. 1166. (Inefficacia delle cause d'impedimento e di sospensione rispetto al terzo possessore). Nell'usucapione ventennale non hanno luogo, riguardo al terzo possessore di un immobile o di un diritto reale sopra un immobile, ne' l'impedimento derivante da condizione o da termine, ne' le cause di sospensione indicate dall'art. 2942. L'impedimento derivante da condizione o da termine e le cause di sospensione menzionate nel detto articolo non sono nemmeno opponibili al terzo possessore nella prescrizione per non uso dei diritti reali sui beni da lui posseduti.",
+    "caratteri": 468
+  },
+  "note": [],
+  "impronta": "sha256:01c7eda5cf431726eabc2257781611d554aa710703a8e81ee6fb70f5be3be19b"
+}

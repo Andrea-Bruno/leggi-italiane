@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "793",
+    "rubrica": "Donazione modale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art793"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La donazione puo' essere gravata da un onere. Il donatario e' tenuto all'adempimento dell'onere entro i limiti del valore della cosa donata. Per l'adempimento dell'onere puo' agire, oltre il donante, qualsiasi interessato, anche durante la vita del donante stesso. La risoluzione per inadempimento dell'onere, se preveduta nell'atto di donazione, puo' essere domandata dal donante o dai suoi eredi.",
+    "con_marcatori": "Art. 793. (Donazione modale). La donazione puo' essere gravata da un onere. Il donatario e' tenuto all'adempimento dell'onere entro i limiti del valore della cosa donata. Per l'adempimento dell'onere puo' agire, oltre il donante, qualsiasi interessato, anche durante la vita del donante stesso. La risoluzione per inadempimento dell'onere, se preveduta nell'atto di donazione, puo' essere domandata dal donante o dai suoi eredi.",
+    "caratteri": 398
+  },
+  "note": [],
+  "impronta": "sha256:d17117f65ec1f716cf88450b0e32c5ac4503b3ea7d95a04adbed2a065bba0807"
+}

@@ -1,0 +1,101 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "583-quinquies",
+    "rubrica": "Deformazione dell'aspetto della persona mediante lesioni permanenti al viso",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art583-quinquies"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 372,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque cagiona ad alcuno lesione personale dalla quale derivano la deformazione o lo sfregio permanente del viso e' punito con la reclusione da otto a quattordici anni. La condanna ovvero l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per il reato di cui al presente articolo comporta l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno.",
+    "con_marcatori": "Art. 583-quinquies. (Deformazione dell'aspetto della persona mediante lesioni permanenti al viso). Chiunque cagiona ad alcuno lesione personale dalla quale derivano la deformazione o lo sfregio permanente del viso e' punito con la reclusione da otto a quattordici anni. ((372)) La condanna ovvero l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per il reato di cui al presente articolo comporta l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno. ((372))",
+    "caratteri": 464
+  },
+  "note": [
+    {
+      "numero": 372,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 583-quinquies, primo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 12, comma 1, della legge 19 luglio 2019, n. 69",
+          "urn": "urn:nir:stato:legge:2019-07-19;69",
+          "data": "2019-07-19",
+          "numero": "69",
+          "data_gazzetta": "2019-07-25"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice di procedura penale",
+          "urn": "urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447",
+          "data": "1988-09-22",
+          "numero": "447",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 583-quinquies, secondo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-06-20",
+        "numero": "83"
+      },
+      "testo": "La Corte costituzionale con sentenza 20 maggio - 20 giugno 2025, n. 83 (in G.U. 1ª s.s. 25/06/2025, n. 26) ha dichiarato \"l'illegittimita' costituzionale dell'art. 583-quinquies, primo comma, del codice penale, inserito dall'art. 12, comma 1, della legge 19 luglio 2019, n. 69 (Modifiche al codice penale, al codice di procedura penale e altre disposizioni in materia di tutela delle vittime di violenza domestica e di genere), nella parte in cui non prevede che la pena da esso comminata e' diminuita in misura non eccedente un terzo quando per la natura, la specie, i mezzi, le modalita' o circostanze dell'azione, ovvero per la particolare tenuita' del danno o del pericolo, il fatto risulti di lieve entita'\". Ha inoltre dichiarato \" l'illegittimita' costituzionale dell'art. 583-quinquies, secondo comma, cod. pen., nella parte in cui dispone «comporta l'interdizione perpetua», anziche' «puo' comportare l'interdizione»\"."
+    }
+  ],
+  "impronta": "sha256:65db5d85f116650c28bee3ddc91f0845d3e832451546188849a89f1e8bc426a9"
+}

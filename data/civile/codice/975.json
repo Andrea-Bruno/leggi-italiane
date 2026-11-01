@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "975",
+    "rubrica": "Miglioramenti e addizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art975"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando cessa l'enfiteusi, all'enfiteuta spetta il rimborso dei miglioramenti nella misura dell'aumento di valore conseguito dal fondo per effetto dei miglioramenti stessi, quali sono accertati al tempo della riconsegna. Se in giudizio e' stata fornita qualche prova della sussistenza in genere dei miglioramenti, all'enfiteuta compete la ritenzione del fondo fino a quando non e' soddisfatto il suo credito. Per le addizioni fatte dall'enfiteuta, quando possono essere tolte senza nocumento del fondo, il concedente, se vuole ritenerle, deve pagarne il valore al tempo della riconsegna. Se le addizioni non sono separabili senza nocumento e costituiscono miglioramento, si applica la disposizione del primo comma di questo articolo.",
+    "con_marcatori": "Art. 975. (Miglioramenti e addizioni). Quando cessa l'enfiteusi, all'enfiteuta spetta il rimborso dei miglioramenti nella misura dell'aumento di valore conseguito dal fondo per effetto dei miglioramenti stessi, quali sono accertati al tempo della riconsegna. Se in giudizio e' stata fornita qualche prova della sussistenza in genere dei miglioramenti, all'enfiteuta compete la ritenzione del fondo fino a quando non e' soddisfatto il suo credito. Per le addizioni fatte dall'enfiteuta, quando possono essere tolte senza nocumento del fondo, il concedente, se vuole ritenerle, deve pagarne il valore al tempo della riconsegna. Se le addizioni non sono separabili senza nocumento e costituiscono miglioramento, si applica la disposizione del primo comma di questo articolo.",
+    "caratteri": 732
+  },
+  "note": [],
+  "impronta": "sha256:2c1be9f9f77c8b3187fc999b238174610fd1cc285eba7543dd0d60c755f3e5b5"
+}

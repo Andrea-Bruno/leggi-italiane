@@ -1,0 +1,98 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "274",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art274"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 163,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Ammissibilita' dell'azione. L'azione per la dichiarazione giudiziale di paternita' o di maternita' naturale e' ammessa solo quando occorrono specifiche circostanze tali da farla apparire giustificata. Sull'ammissibilita' il tribunale decide in camera di consiglio con decreto motivato, su ricorso di chi intende promuovere l'azione, sentiti il pubblico ministero e le parti e assunte le informazioni del caso. Contro il decreto si puo' proporre reclamo con ricorso alla Corte d'appello, che pronuncia anche essa in camera di consiglio. L'inchiesta sommaria compiuta dal tribunale ha luogo senza alcuna pubblicita' e deve essere mantenuta segreta. Al termine della inchiesta gli atti e i documenti della stessa sono depositati in cancelleria ed il cancelliere deve darne avviso alle parti le quali, entro quindici giorni dalla comunicazione di detto avviso, hanno facolta' di esaminarli e di depositare memorie illustrative. Il tribunale, anche prima di ammettere l'azione, puo', se trattasi di minore o d'altra persona incapace, nominare un curatore speciale che la rappresenti in giudizio.",
+    "con_marcatori": "Art. 274. Ammissibilita' dell'azione. L'azione per la dichiarazione giudiziale di paternita' o di maternita' naturale e' ammessa solo quando occorrono specifiche circostanze tali da farla apparire giustificata. Sull'ammissibilita' il tribunale decide in camera di consiglio con decreto motivato, su ricorso di chi intende promuovere l'azione, sentiti il pubblico ministero e le parti e assunte le informazioni del caso. Contro il decreto si puo' proporre reclamo con ricorso alla Corte d'appello, che pronuncia anche essa in camera di consiglio. L'inchiesta sommaria compiuta dal tribunale ha luogo senza alcuna pubblicita' e deve essere mantenuta segreta. Al termine della inchiesta gli atti e i documenti della stessa sono depositati in cancelleria ed il cancelliere deve darne avviso alle parti le quali, entro quindici giorni dalla comunicazione di detto avviso, hanno facolta' di esaminarli e di depositare memorie illustrative. Il tribunale, anche prima di ammettere l'azione, puo', se trattasi di minore o d'altra persona incapace, nominare un curatore speciale che la rappresenti in giudizio. ((163))",
+    "caratteri": 1090
+  },
+  "note": [
+    {
+      "numero": 7,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "secondo comma dell'art. 274 del Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 24, secondo comma, della Costituzione",
+          "urn": "urn:nir:stato:costituzione:1947-12-27;const",
+          "data": "1947-12-27",
+          "numero": "const",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "terzo comma dell'art. 274 del Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1965-07-12",
+        "numero": "70"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 23 giugno-12 luglio 1965, n. 70 (in G.U. 1a s.s. 17/07/1965, n. 178), ha dichiarato \"l'illegittimita' costituzionale del secondo comma dell'art. 274 del Codice civile per la parte in cui dispone che la decisione abbia luogo con decreto non motivato e non soggetto a reclamo, nonche' per la parte in cui esclude la necessita' che la decisione abbia luogo in contraddittorio e con assistenza dei difensori, in riferimento all'art. 24, secondo comma, della Costituzione\" e, \"sempre in riferimento all'art. 24, secondo comma, della Costituzione, l'illegittimita' costituzionale del terzo comma dell'art. 274 del Codice civile, per la parte in cui dispone la segretezza dell'inchiesta anche nei confronti delle parti\"."
+    },
+    {
+      "numero": 163,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2006-02-10",
+        "numero": "50"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 6-10 febbraio 2006, n. 50 (in G.U. 1a s.s. 15/2/2006, n. 7), ha dichiarato l'illegittimita' costituzionale del presente articolo."
+    }
+  ],
+  "impronta": "sha256:7d341845ca02ecebe3dfac2c992038cfeb1cc495c91e5416e1ba8f24aff4d83e"
+}

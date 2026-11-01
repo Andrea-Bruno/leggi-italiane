@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1035",
+    "rubrica": "Attraversamento di acquedotti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1035"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi vuol condurre l'acqua per il fondo altrui puo' attraversare al disopra o al disotto gli acquedotti preesistenti, appartengano essi al proprietario del fondo o ad altri, purche' esegua le opere necessarie a impedire ogni danno o alterazione degli acquedotti stessi.",
+    "con_marcatori": "Art. 1035. (Attraversamento di acquedotti). Chi vuol condurre l'acqua per il fondo altrui puo' attraversare al disopra o al disotto gli acquedotti preesistenti, appartengano essi al proprietario del fondo o ad altri, purche' esegua le opere necessarie a impedire ogni danno o alterazione degli acquedotti stessi.",
+    "caratteri": 268
+  },
+  "note": [],
+  "impronta": "sha256:3067799476c8c99fde562920331f9a3c0ddcae3cec7bf2b0a6599328b437e99b"
+}

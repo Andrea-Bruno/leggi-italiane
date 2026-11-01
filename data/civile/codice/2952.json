@@ -1,0 +1,101 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2952",
+    "rubrica": "Prescrizione in materia di assicurazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2952"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 330,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il diritto al pagamento delle rate di premio si prescrive in un anno dalle singole scadenze. Gli altri diritti derivanti dal contratto di assicurazione e dal contratto di riassicurazione si prescrivono in due anni dal giorno in cui si e' verificato il fatto su cui il diritto si fonda, ad esclusione del contratto di assicurazione sulla vita i cui diritti si prescrivono in dieci anni. Nell'assicurazione della responsabilita' civile, il termine decorre dal giorno in cui il terzo ha richiesto il risarcimento all'assicurato o ha promosso contro di questo l'azione. La comunicazione all'assicuratore della richiesta del terzo danneggiato o dell'azione da questo proposta sospende il corso della prescrizione finche' il credito del danneggiato non sia divenuto liquido ed esigibile oppure il diritto del terzo danneggiato non sia prescritto. La disposizione del comma precedente si applica all'azione del riassicurato verso il riassicuratore per il pagamento dell'indennita'.",
+    "con_marcatori": "Art. 2952. (Prescrizione in materia di assicurazione). Il diritto al pagamento delle rate di premio si prescrive in un anno dalle singole scadenze. Gli altri diritti derivanti dal contratto di assicurazione e dal contratto di riassicurazione si prescrivono in due anni dal giorno in cui si e' verificato il fatto su cui il diritto si fonda, ad esclusione del contratto di assicurazione sulla vita i cui diritti si prescrivono in dieci anni. ((330)) Nell'assicurazione della responsabilita' civile, il termine decorre dal giorno in cui il terzo ha richiesto il risarcimento all'assicurato o ha promosso contro di questo l'azione. La comunicazione all'assicuratore della richiesta del terzo danneggiato o dell'azione da questo proposta sospende il corso della prescrizione finche' il credito del danneggiato non sia divenuto liquido ed esigibile oppure il diritto del terzo danneggiato non sia prescritto. La disposizione del comma precedente si applica all'azione del riassicurato verso il riassicuratore per il pagamento dell'indennita'.",
+    "caratteri": 974
+  },
+  "note": [
+    {
+      "numero": 330,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2952, secondo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3, comma 2-ter, del decreto-legge 28 agosto 2008, n. 134",
+          "urn": "urn:nir:stato:decretoLegge:2008-08-28;134",
+          "data": "2008-08-28",
+          "numero": "134",
+          "data_gazzetta": "2008-08-28"
+        },
+        {
+          "denominazione": "legge 27 ottobre 2008, n. 166",
+          "urn": "urn:nir:stato:legge:2008-10-27;166",
+          "data": "2008-10-27",
+          "numero": "166",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 22, comma 14, del decreto-legge 18 ottobre 2012, n. 179",
+          "urn": "urn:nir:stato:decretoLegge:2012-10-18;179",
+          "data": "2012-10-18",
+          "numero": "179",
+          "data_gazzetta": "2012-10-19"
+        },
+        {
+          "denominazione": "legge 17 dicembre 2012, n. 221",
+          "urn": "urn:nir:stato:legge:2012-12-17;221",
+          "data": "2012-12-17",
+          "numero": "221",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2024-02-09",
+        "numero": "32"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 7 - 9 febbraio 2024 n. 32 (in G.U. 1ª s.s. 06/03/2024 n. 10), ha dichiarato \"l'illegittimita' costituzionale dell'art. 2952, secondo comma, del codice civile, nel testo introdotto dall'art. 3, comma 2-ter, del decreto-legge 28 agosto 2008, n. 134 (Disposizioni urgenti in materia di ristrutturazione di grandi imprese in crisi), convertito, con modificazioni, nella legge 27 ottobre 2008, n. 166, e antecedente a quello sostituito con l'art. 22, comma 14, del decreto-legge 18 ottobre 2012, n. 179 (Ulteriori misure urgenti per la crescita del Paese), convertito, con modificazioni, nella legge 17 dicembre 2012, n. 221, nella parte in cui non prevede l'esclusione, dal termine di prescrizione biennale, dei diritti che derivano dai contratti di assicurazione sulla vita, per i quali opera la prescrizione decennale\"."
+    }
+  ],
+  "impronta": "sha256:fd5a35e11450f039c7ba71043205715a6d62dc1f5ad8204a8fa6197dd5a2166d"
+}

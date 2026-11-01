@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "687",
+    "rubrica": "Consumo di bevande alcooliche in tempo di vendita non consentita",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art687"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque acquista o consuma, in un esercizio pubblico, bevande alcooliche fuori del tempo in cui ne e' permessa la vendita, e' punito con l'ammenda fino a lire cinquecento.",
+    "con_marcatori": "Art. 687. (Consumo di bevande alcooliche in tempo di vendita non consentita) Chiunque acquista o consuma, in un esercizio pubblico, bevande alcooliche fuori del tempo in cui ne e' permessa la vendita, e' punito con l'ammenda fino a lire cinquecento. ((90))",
+    "caratteri": 172
+  },
+  "note": [
+    {
+      "numero": 90,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 24 novembre 1981, n. 689",
+          "urn": "urn:nir:stato:legge:1981-11-24;689",
+          "data": "1981-11-24",
+          "numero": "689",
+          "data_gazzetta": "1981-11-30"
+        },
+        {
+          "denominazione": "articoli 669",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "672",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "687",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "693",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "694 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 24 novembre 1981, n. 689 ha disposto (con l'art. 33, comma 1, lettera a)) che \"Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le contravvenzioni previste: a) dagli articoli 669, 672, 687, 693 e 694 del codice penale\"."
+    }
+  ],
+  "impronta": "sha256:8a6275098d86d3a5efcd7337c0959e7f972c073e800703b5e5cccf7db0623b77"
+}

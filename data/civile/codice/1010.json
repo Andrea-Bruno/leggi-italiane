@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1010",
+    "rubrica": "Passivita' gravanti su eredita' in usufrutto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1010"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'usufruttuario di un'eredita' o di una quota di eredita' e' obbligato a pagare per intero, o in proporzione della quota, le annualita' e gli interessi dei debiti o dei legati da cui l'eredita' stessa sia gravata. Per il pagamento del capitale dei debiti o dei legati, che si renda necessario durante l'usufrutto, e' in facolta' dell'usufruttuario di fornire la somma occorrente, che gli deve essere rimborsata senza interesse alla fine dell'usufrutto. Se l'usufruttuario non puo' o non vuole fare questa anticipazione, il proprietario puo' pagare tale somma, sulla quale l'usufruttuario deve corrispondergli l'interesse durante l'usufrutto, o puo' vendere una porzione dei beni soggetti all'usufrutto fino alla concorrenza della somma dovuta. Se per il pagamento dei debiti si rende necessaria la vendita dei beni, questa e' fatta d'accordo tra proprietario e usufruttuario, salvo ricorso all'autorita' giudiziaria in caso di dissenso. L'espropriazione forzata deve seguire contro ambedue.",
+    "con_marcatori": "Art. 1010. (Passivita' gravanti su eredita' in usufrutto). L'usufruttuario di un'eredita' o di una quota di eredita' e' obbligato a pagare per intero, o in proporzione della quota, le annualita' e gli interessi dei debiti o dei legati da cui l'eredita' stessa sia gravata. Per il pagamento del capitale dei debiti o dei legati, che si renda necessario durante l'usufrutto, e' in facolta' dell'usufruttuario di fornire la somma occorrente, che gli deve essere rimborsata senza interesse alla fine dell'usufrutto. Se l'usufruttuario non puo' o non vuole fare questa anticipazione, il proprietario puo' pagare tale somma, sulla quale l'usufruttuario deve corrispondergli l'interesse durante l'usufrutto, o puo' vendere una porzione dei beni soggetti all'usufrutto fino alla concorrenza della somma dovuta. Se per il pagamento dei debiti si rende necessaria la vendita dei beni, questa e' fatta d'accordo tra proprietario e usufruttuario, salvo ricorso all'autorita' giudiziaria in caso di dissenso. L'espropriazione forzata deve seguire contro ambedue.",
+    "caratteri": 990
+  },
+  "note": [],
+  "impronta": "sha256:261e2cd41a103f22d841c3742da3783c8209fa20681ac50bc972bc015927a574"
+}

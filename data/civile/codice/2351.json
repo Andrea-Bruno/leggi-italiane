@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2351",
+    "rubrica": "Diritto di voto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2351"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni azione attribuisce il diritto di voto. Salvo quanto previsto dalle leggi speciali, lo statuto puo' prevedere la creazione di azioni senza diritto di voto, con diritto di voto limitato a particolari argomenti, con diritto di voto subordinato al verificarsi di particolari condizioni non meramente potestative. Il valore di tali azioni non puo' complessivamente superare la meta' del capitale sociale. Lo statuto puo' altresi' prevedere che, in relazione alla quantita' delle azioni possedute da uno stesso soggetto, il diritto di voto sia limitato a una misura massima o disporne scaglionamenti. Salvo quanto previsto dalle leggi speciali, lo statuto puo' prevedere la creazione di azioni con diritto di voto plurimo anche per particolari argomenti o subordinato al verificarsi di particolari condizioni non meramente potestative. Ciascuna azione a voto plurimo puo' avere fino a un massimo di dieci voti. Gli strumenti finanziari di cui agli articoli 2346, sesto comma, e 2349, secondo comma, possono essere dotati del diritto di voto su argomenti specificamente indicati e in particolare puo' essere ad essi riservata, secondo modalita' stabilite dallo statuto, la nomina di un componente indipendente del consiglio di amministrazione o del consiglio di sorveglianza o di un sindaco. Alle persone cosi' nominate si applicano le medesime norme previste per gli altri componenti dell'organo cui partecipano.",
+    "con_marcatori": "Art. 2351. (Diritto di voto). Ogni azione attribuisce il diritto di voto. Salvo quanto previsto dalle leggi speciali, lo statuto puo' prevedere la creazione di azioni senza diritto di voto, con diritto di voto limitato a particolari argomenti, con diritto di voto subordinato al verificarsi di particolari condizioni non meramente potestative. Il valore di tali azioni non puo' complessivamente superare la meta' del capitale sociale. Lo statuto puo' altresi' prevedere che, in relazione alla quantita' delle azioni possedute da uno stesso soggetto, il diritto di voto sia limitato a una misura massima o disporne scaglionamenti. Salvo quanto previsto dalle leggi speciali, lo statuto puo' prevedere la creazione di azioni con diritto di voto plurimo anche per particolari argomenti o subordinato al verificarsi di particolari condizioni non meramente potestative. Ciascuna azione a voto plurimo puo' avere fino a un massimo di ((dieci)) voti. (224) Gli strumenti finanziari di cui agli articoli 2346, sesto comma, e 2349, secondo comma, possono essere dotati del diritto di voto su argomenti specificamente indicati e in particolare puo' essere ad essi riservata, secondo modalita' stabilite dallo statuto, la nomina di un componente indipendente del consiglio di amministrazione o del consiglio di sorveglianza o di un sindaco. Alle persone cosi' nominate si applicano le medesime norme previste per gli altri componenti dell'organo cui partecipano.",
+    "caratteri": 1411
+  },
+  "note": [
+    {
+      "numero": 224,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 febbraio 1998, n. 58",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-24;58",
+          "data": "1998-02-24",
+          "numero": "58",
+          "data_gazzetta": "1998-03-26"
+        },
+        {
+          "denominazione": "D.L. 24 giugno 2014, n. 91",
+          "urn": "urn:nir:stato:decretoLegge:2014-06-24;91",
+          "data": "2014-06-24",
+          "numero": "91",
+          "data_gazzetta": "2014-06-24"
+        },
+        {
+          "denominazione": "L. 11 agosto 2014, n. 116",
+          "urn": "urn:nir:stato:legge:2014-08-11;116",
+          "data": "2014-08-11",
+          "numero": "116",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2351, quarto comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 febbraio 1998, n. 58 come modificato dal D.L. 24 giugno 2014, n. 91 convertito con modificazioni dalla L. 11 agosto 2014, n. 116 ha disposto (con l'art. 127-sexies, comma 1) che \"In deroga all'articolo 2351, quarto comma, del codice civile, gli statuti non possono prevedere l'emissione di azioni a voto plurimo\"."
+    }
+  ],
+  "impronta": "sha256:7a311ddbf78a65b4af509d283e1ac38d560607f6a073a086704707d3cbef3540"
+}

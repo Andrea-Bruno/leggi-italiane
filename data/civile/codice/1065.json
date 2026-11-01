@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1065",
+    "rubrica": "Esercizio conforme al titolo o al possesso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1065"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Colui che ha un diritto di servitu' non puo' usarne se non a norma del suo titolo o del suo possesso. Nel dubbio circa l'estensione e le modalita' di esercizio, la servitu' deve ritenersi costituita in guisa da soddisfare il bisogno del fondo dominante col minor aggravio del fondo servente.",
+    "con_marcatori": "Art. 1065. (Esercizio conforme al titolo o al possesso). Colui che ha un diritto di servitu' non puo' usarne se non a norma del suo titolo o del suo possesso. Nel dubbio circa l'estensione e le modalita' di esercizio, la servitu' deve ritenersi costituita in guisa da soddisfare il bisogno del fondo dominante col minor aggravio del fondo servente.",
+    "caratteri": 291
+  },
+  "note": [],
+  "impronta": "sha256:0e4076bf6b48c92bc4cad97d0f8fafb1a83d2993876309e37fc2cd79b388acbe"
+}

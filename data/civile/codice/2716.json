@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2716",
+    "rubrica": "Mancanza dell'atto originale o di copia depositata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2716"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In mancanza dell'originale dell'atto pubblico o di una copia di esso presso un pubblico depositario, le copie spedite in conformita' dell'art. 2714 fanno piena prova; ma se tali copie, o anche la copia esistente presso un pubblico depositario quando manca l'originale, presentano cancellature, abrasioni, intercalazioni o altri difetti esteriori, e' rimesso al giudice di apprezzarne l'efficacia probatoria. In mancanza dell'originale scrittura privata, le copie di essa spedite in conformita' dell'art. 2715 fanno egualmente prova; ma se presentano cancellature, abrasioni, intercalazioni o altri difetti esteriori, e' rimesso parimenti al giudice di apprezzarne l'efficacia probatoria. Resta in ogni caso salva la questione circa l'autenticita' dell'originale mancante.",
+    "con_marcatori": "Art. 2716. (Mancanza dell'atto originale o di copia depositata). In mancanza dell'originale dell'atto pubblico o di una copia di esso presso un pubblico depositario, le copie spedite in conformita' dell'art. 2714 fanno piena prova; ma se tali copie, o anche la copia esistente presso un pubblico depositario quando manca l'originale, presentano cancellature, abrasioni, intercalazioni o altri difetti esteriori, e' rimesso al giudice di apprezzarne l'efficacia probatoria. In mancanza dell'originale scrittura privata, le copie di essa spedite in conformita' dell'art. 2715 fanno egualmente prova; ma se presentano cancellature, abrasioni, intercalazioni o altri difetti esteriori, e' rimesso parimenti al giudice di apprezzarne l'efficacia probatoria. Resta in ogni caso salva la questione circa l'autenticita' dell'originale mancante.",
+    "caratteri": 771
+  },
+  "note": [],
+  "impronta": "sha256:a29e52a814870910089168d6236c811b82cd1253de0ccb512a1598c601514a48"
+}

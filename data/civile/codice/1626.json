@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1626",
+    "rubrica": "Incapacita' o insolvenza dell'affittuario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1626"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'affitto si scioglie per l'interdizione, l'inabilitazione o l'insolvenza dell'affittuario, salvo che al locatore sia prestata idonea garanzia per l'esatto adempimento degli obblighi dell'affittuario.",
+    "con_marcatori": "Art. 1626. (Incapacita' o insolvenza dell'affittuario). L'affitto si scioglie per l'interdizione, l'inabilitazione o l'insolvenza dell'affittuario, salvo che al locatore sia prestata idonea garanzia per l'esatto adempimento degli obblighi dell'affittuario.",
+    "caratteri": 200
+  },
+  "note": [],
+  "impronta": "sha256:b9e51759bce5a3fd0fb4cb286a7c21a65ca1cb93e889e54d5fd394031602776f"
+}

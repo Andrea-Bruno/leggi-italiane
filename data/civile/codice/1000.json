@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1000",
+    "rubrica": "Riscossione di capitali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1000"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per la riscossione di somme che rappresentano un capitale gravato d'usufrutto, e' necessario il concorso del titolare del credito e dell'usufruttuario. Il pagamento fatto a uno solo di essi non e' opponibile all'altro, salve in ogni caso le norme relative alla cessione dei crediti. Il capitale riscosso dev'essere investito in modo fruttifero e su di esso si trasferisce l'usufrutto. Se le parti non sono d'accordo sul modo d'investimento, provvede l'autorita' giudiziaria.",
+    "con_marcatori": "Art. 1000. (Riscossione di capitali). Per la riscossione di somme che rappresentano un capitale gravato d'usufrutto, e' necessario il concorso del titolare del credito e dell'usufruttuario. Il pagamento fatto a uno solo di essi non e' opponibile all'altro, salve in ogni caso le norme relative alla cessione dei crediti. Il capitale riscosso dev'essere investito in modo fruttifero e su di esso si trasferisce l'usufrutto. Se le parti non sono d'accordo sul modo d'investimento, provvede l'autorita' giudiziaria.",
+    "caratteri": 474
+  },
+  "note": [],
+  "impronta": "sha256:785db553db752b0007eee25118401d46db3540748c375019c3415ddd9a43c9a4"
+}

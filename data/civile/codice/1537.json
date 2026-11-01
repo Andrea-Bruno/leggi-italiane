@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1537",
+    "rubrica": "Vendita a misura",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1537"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando un determinato immobile e' venduto con l'indicazione della sua misura e per un prezzo stabilito in ragione di un tanto per ogni unita' di misura, il compratore ha diritto a una riduzione, se la misura effettiva dell'immobile e' inferiore a quella indicata nel contratto. Se la misura risulta superiore a quella indicata nel contratto, il compratore deve corrispondere il supplemento del prezzo, ma ha facolta' di recedere dal contratto qualora l'eccedenza oltrepassi la ventesima parte della misura dichiarata.",
+    "con_marcatori": "Art. 1537. (Vendita a misura). Quando un determinato immobile e' venduto con l'indicazione della sua misura e per un prezzo stabilito in ragione di un tanto per ogni unita' di misura, il compratore ha diritto a una riduzione, se la misura effettiva dell'immobile e' inferiore a quella indicata nel contratto. Se la misura risulta superiore a quella indicata nel contratto, il compratore deve corrispondere il supplemento del prezzo, ma ha facolta' di recedere dal contratto qualora l'eccedenza oltrepassi la ventesima parte della misura dichiarata.",
+    "caratteri": 517
+  },
+  "note": [],
+  "impronta": "sha256:9f80927547e9f19c1a80c7f43e50e62f51901fe4cc375eda1abc37a524160287"
+}

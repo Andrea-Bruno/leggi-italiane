@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "133",
+    "rubrica": "Prova della celebrazione risultante da sentenza penale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art133"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la prova della celebrazione del matrimonio risulta da sentenza penale, l'iscrizione della sentenza nel registro dello stato civile assicura al matrimonio, dal giorno della sua celebrazione, tutti gli effetti riguardo tanto ai coniugi quanto ai figli.",
+    "con_marcatori": "Art. 133. (Prova della celebrazione risultante da sentenza penale). Se la prova della celebrazione del matrimonio risulta da sentenza penale, l'iscrizione della sentenza nel registro dello stato civile assicura al matrimonio, dal giorno della sua celebrazione, tutti gli effetti riguardo tanto ai coniugi quanto ai figli.",
+    "caratteri": 253
+  },
+  "note": [],
+  "impronta": "sha256:188db60ead99389015002d300b98900c3d54064dffaab8b9b6f4e27ef568e4c7"
+}

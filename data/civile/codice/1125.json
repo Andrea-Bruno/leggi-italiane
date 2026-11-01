@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1125",
+    "rubrica": "Manutenzione e ricostruzione dei soffitti, delle volte e dei solai",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1125"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le spese per la manutenzione e ricostruzione dei soffitti, delle volte e dei solai sono sostenute in parti eguali dai proprietari dei due piani l'uno all'altro sovrastanti, restando a carico del proprietario del piano superiore la copertura del pavimento e a carico del proprietario del piano inferiore l'intonaco, la tinta e la decorazione del soffitto.",
+    "con_marcatori": "Art. 1125. (Manutenzione e ricostruzione dei soffitti, delle volte e dei solai). Le spese per la manutenzione e ricostruzione dei soffitti, delle volte e dei solai sono sostenute in parti eguali dai proprietari dei due piani l'uno all'altro sovrastanti, restando a carico del proprietario del piano superiore la copertura del pavimento e a carico del proprietario del piano inferiore l'intonaco, la tinta e la decorazione del soffitto.",
+    "caratteri": 354
+  },
+  "note": [],
+  "impronta": "sha256:6fdc2a3ee2fc032fc1b2d7a2d80cab70b6a887fe20ed11aa9cdd922a27aaf35a"
+}

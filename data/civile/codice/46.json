@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "46",
+    "rubrica": "Sede delle persone giuridiche",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art46"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando la legge fa dipendere determinati effetti dalla residenza o dal domicilio, per le persone giuridiche si ha riguardo al luogo in cui e' stabilita la loro sede. Nei casi in cui la sede stabilita ai sensi dell'art. 16 o la sede risultante dal registro e' diversa da quella effettiva, i terzi possono considerare come sede della persona giuridica anche quest'ultima.",
+    "con_marcatori": "Art. 46. (Sede delle persone giuridiche). Quando la legge fa dipendere determinati effetti dalla residenza o dal domicilio, per le persone giuridiche si ha riguardo al luogo in cui e' stabilita la loro sede. Nei casi in cui la sede stabilita ai sensi dell'art. 16 o la sede risultante dal registro e' diversa da quella effettiva, i terzi possono considerare come sede della persona giuridica anche quest'ultima.",
+    "caratteri": 369
+  },
+  "note": [],
+  "impronta": "sha256:9ff7e81d29ddb0ea5fed23a87a9475d4506950426283d520da6fe7478358e13b"
+}

@@ -1,0 +1,65 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2330-bis",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2330-bis"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 24 NOVEMBRE 2000, N. 340",
+        "testo": "ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340",
+    "con_marcatori": "Art. 2330-bis. ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340 ((141))",
+    "caratteri": 51
+  },
+  "note": [
+    {
+      "numero": 141,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 17 gennaio 2003, n. 6",
+          "urn": "urn:nir:stato:decretoLegislativo:2003-01-17;6",
+          "data": "2003-01-17",
+          "numero": "6",
+          "data_gazzetta": "2003-01-22"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'art. 1, comma 1) la sostituzione del Libro V, Titolo V, Capo V, non ha piu' previsto il presente articolo."
+    }
+  ],
+  "impronta": "sha256:0c10faddacc4c9db3e15dd25736386bbeb3bfd0facf8522bae62ff407f13698b"
+}

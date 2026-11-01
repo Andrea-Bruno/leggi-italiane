@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "427",
+    "rubrica": "Danneggiamento seguito da inondazione, frana o valanga",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art427"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque rompe, deteriora o rende in tutto o in parte inservibili chiuse, sbarramenti, argini, dighe o altre opere destinate alla difesa contro acque, valanghe o frane, ovvero alla raccolta o alla condotta delle acque, al solo scopo di danneggiamento, e' punito, se dal fatto deriva il pericolo di un'inondazione o di una frana, ovvero della caduta di una valanga, con la reclusione da uno a cinque anni. Se il disastro si verifica, la pena e' della reclusione da tre a dieci anni.",
+    "con_marcatori": "Art. 427. (Danneggiamento seguito da inondazione, frana o valanga) Chiunque rompe, deteriora o rende in tutto o in parte inservibili chiuse, sbarramenti, argini, dighe o altre opere destinate alla difesa contro acque, valanghe o frane, ovvero alla raccolta o alla condotta delle acque, al solo scopo di danneggiamento, e' punito, se dal fatto deriva il pericolo di un'inondazione o di una frana, ovvero della caduta di una valanga, con la reclusione da uno a cinque anni. Se il disastro si verifica, la pena e' della reclusione da tre a dieci anni. ((7))",
+    "caratteri": 481
+  },
+  "note": [
+    {
+      "numero": 7,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 maggio 1945, n. 234",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;234",
+          "data": "1945-05-10",
+          "numero": "234",
+          "data_gazzetta": "1945-05-24"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 maggio 1945, n. 234 ha disposto (con l'art. 4, comma 1) che \"Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del Codice penale, sono aumentate da un terzo alla meta'\". Ha inoltre disposto (con l'art. 7, comma 1) che la presente modifica ha efficacia fino ad un anno dopo la cessazione dello stato di guerra."
+    }
+  ],
+  "impronta": "sha256:4f770fe516f53fcc45bbc36ecc385e843c083731d48b4107c90d67335a39bf04"
+}

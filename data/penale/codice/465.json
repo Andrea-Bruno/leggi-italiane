@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "465",
+    "rubrica": "Uso di biglietti falsificati di pubbliche imprese di trasporto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art465"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, non essendo concorso nella contraffazione o nell'alterazione, fa uso di biglietti di strade ferrate o di altre pubbliche imprese di trasporto, contraffatti o alterati, e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila. Se i biglietti sono stati ricevuti in buona fede, si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.",
+    "con_marcatori": "Art. 465. (Uso di biglietti falsificati di pubbliche imprese di trasporto) Chiunque, non essendo concorso nella contraffazione o nell'alterazione, fa uso di biglietti di strade ferrate o di altre pubbliche imprese di trasporto, contraffatti o alterati, ((e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila)). Se i biglietti sono stati ricevuti in buona fede, si applica ((la sanzione amministrativa pecuniaria da lire centomila a seicentomila)).",
+    "caratteri": 410
+  },
+  "note": [],
+  "impronta": "sha256:41330043827eb837b9b102f63f57d44676ff5ad0755c5a7b3e0f9d4f49ee196e"
+}

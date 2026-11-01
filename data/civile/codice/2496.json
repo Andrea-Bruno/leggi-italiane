@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2496",
+    "rubrica": "Deposito dei libri sociali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2496"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Compiuta la liquidazione, la distribuzione dell'attivo o il deposito indicato nell'articolo 2494, i libri della societa' devono essere depositati e conservati per dieci anni presso l'ufficio del registro delle imprese; chiunque puo' esaminarli, anticipando le spese.",
+    "con_marcatori": "Art. 2496. (( (Deposito dei libri sociali). )) ((Compiuta la liquidazione, la distribuzione dell'attivo o il deposito indicato nell'articolo 2494, i libri della societa' devono essere depositati e conservati per dieci anni presso l'ufficio del registro delle imprese; chiunque puo' esaminarli, anticipando le spese.))",
+    "caratteri": 266
+  },
+  "note": [],
+  "impronta": "sha256:dea0101c0a1325e0db97004193ac0e81b43a89c418a862a71b8fe18c7cd2eda9"
+}

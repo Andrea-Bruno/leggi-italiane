@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "419",
+    "rubrica": "Mezzi istruttori e provvedimenti provvisori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art419"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non si puo' pronunziare l'interdizione o l'inabilitazione senza che si sia proceduto all'esame dell'interdicendo o dell'inabilitando. Il giudice puo' in questo esame farsi assistere da un consulente tecnico. Puo' anche d'ufficio disporre i mezzi istruttori utili ai fini del giudizio, interrogare i parenti prossimi dell'interdicendo o inabilitando e assumere le necessarie informazioni. Dopo l'esame, qualora sia ritenuto opportuno, puo' essere nominato un tutore provvisorio all'interdicendo o un curatore provvisorio all'inabilitando.",
+    "con_marcatori": "Art. 419. (Mezzi istruttori e provvedimenti provvisori). Non si puo' pronunziare l'interdizione o l'inabilitazione senza che si sia proceduto all'esame dell'interdicendo o dell'inabilitando. Il giudice puo' in questo esame farsi assistere da un consulente tecnico. Puo' anche d'ufficio disporre i mezzi istruttori utili ai fini del giudizio, interrogare i parenti prossimi dell'interdicendo o inabilitando e assumere le necessarie informazioni. Dopo l'esame, qualora sia ritenuto opportuno, puo' essere nominato un tutore provvisorio all'interdicendo o un curatore provvisorio all'inabilitando.((146))",
+    "caratteri": 537
+  },
+  "note": [
+    {
+      "numero": 146,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 9 gennaio 2004, n. 6",
+          "urn": "urn:nir:stato:legge:2004-01-09;6",
+          "data": "2004-01-09",
+          "numero": "6",
+          "data_gazzetta": "2004-01-19"
+        },
+        {
+          "denominazione": "codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 9 gennaio 2004, n. 6 ha disposto (con l'art. 4, comma 1) che \"Nel titolo XII del libro primo del codice civile, prima dell'articolo 414 sono inserite le seguenti parole: \"Capo II. - Della interdizione, della inabilitazione e della incapacita' naturale\".\""
+    }
+  ],
+  "impronta": "sha256:80628d1bf48b253dd63aa6b311c62ae276fea79b59171224e2c34eae9a343f38"
+}

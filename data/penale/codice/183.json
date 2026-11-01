@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "183",
+    "rubrica": "Concorso di cause estintive",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art183"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le cause di estinzione del reato o della pena operano nel momento in cui esse intervengono. Nel concorso di una causa che estingue il reato con una causa che estingue la pena, prevale la causa che estingue il reato, anche se e' intervenuta successivamente. Quando intervengono in tempi diversi piu' cause di estinzione del reato o della pena, la causa antecedente estingue il reato o la pena, e quelle successive fanno cessare gli effetti che non siano ancora estinti in conseguenza della causa antecedente. Se piu' cause intervengono contemporaneamente, la causa piu' favorevole opera l'estinzione del reato o della pena; ma anche in tal caso, per gli effetti che non siano estinti in conseguenza della causa piu' favorevole, si applica il capoverso precedente.",
+    "con_marcatori": "Art. 183. (Concorso di cause estintive) Le cause di estinzione del reato o della pena operano nel momento in cui esse intervengono. Nel concorso di una causa che estingue il reato con una causa che estingue la pena, prevale la causa che estingue il reato, anche se e' intervenuta successivamente. Quando intervengono in tempi diversi piu' cause di estinzione del reato o della pena, la causa antecedente estingue il reato o la pena, e quelle successive fanno cessare gli effetti che non siano ancora estinti in conseguenza della causa antecedente. Se piu' cause intervengono contemporaneamente, la causa piu' favorevole opera l'estinzione del reato o della pena; ma anche in tal caso, per gli effetti che non siano estinti in conseguenza della causa piu' favorevole, si applica il capoverso precedente.",
+    "caratteri": 762
+  },
+  "note": [],
+  "impronta": "sha256:d2ffa5e557e650f73ca7c575bd334a8104099af4a3416b130b68ff666e3d6d40"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2209",
+    "rubrica": "Procuratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2209"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni degli articoli 2206 e 2207 si applicano anche ai procuratori, i quali, in base a un rapporto continuativo, abbiano il potere di compiere per l'imprenditore gli atti pertinenti all'esercizio dell'impresa, pur non essendo preposti ad esso.",
+    "con_marcatori": "Art. 2209. (Procuratori). Le disposizioni degli articoli 2206 e 2207 si applicano anche ai procuratori, i quali, in base a un rapporto continuativo, abbiano il potere di compiere per l'imprenditore gli atti pertinenti all'esercizio dell'impresa, pur non essendo preposti ad esso.",
+    "caratteri": 253
+  },
+  "note": [],
+  "impronta": "sha256:a0190a9b24ccb51713b9f855da42bf98f6ed26f47357dbdd4c22e766f86138b7"
+}

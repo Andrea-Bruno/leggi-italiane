@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "428",
+    "rubrica": "Atti compiuti da persona incapace d'intendere o di volere",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art428"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti compiuti da persona che, sebbene non interdetta, si provi essere stata per qualsiasi causa, anche transitoria, incapace d'intendere o di volere al momento in cui gli atti sono stati compiuti, possono essere annullati su istanza della persona medesima o dei suoi eredi o aventi causa, se ne risulta un grave pregiudizio all'autore. L'annullamento dei contratti non puo' essere pronunziato se non quando, per il pregiudizio che sia derivato o possa derivare alla persona incapace d'intendere o di volere o per la qualita' del contratto o altrimenti, risulta la malafede dell'altro contraente. L'azione si prescrive nel termine di cinque anni dal giorno in cui l'atto o il contratto e' stato compiuto. Resta salva ogni diversa disposizione di legge.",
+    "con_marcatori": "Art. 428. (Atti compiuti da persona incapace d'intendere o di volere). Gli atti compiuti da persona che, sebbene non interdetta, si provi essere stata per qualsiasi causa, anche transitoria, incapace d'intendere o di volere al momento in cui gli atti sono stati compiuti, possono essere annullati su istanza della persona medesima o dei suoi eredi o aventi causa, se ne risulta un grave pregiudizio all'autore. L'annullamento dei contratti non puo' essere pronunziato se non quando, per il pregiudizio che sia derivato o possa derivare alla persona incapace d'intendere o di volere o per la qualita' del contratto o altrimenti, risulta la malafede dell'altro contraente. L'azione si prescrive nel termine di cinque anni dal giorno in cui l'atto o il contratto e' stato compiuto. Resta salva ogni diversa disposizione di legge.((146))",
+    "caratteri": 755
+  },
+  "note": [
+    {
+      "numero": 146,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 9 gennaio 2004, n. 6",
+          "urn": "urn:nir:stato:legge:2004-01-09;6",
+          "data": "2004-01-09",
+          "numero": "6",
+          "data_gazzetta": "2004-01-19"
+        },
+        {
+          "denominazione": "codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 9 gennaio 2004, n. 6 ha disposto (con l'art. 4, comma 1) che \"Nel titolo XII del libro primo del codice civile, prima dell'articolo 414 sono inserite le seguenti parole: \"Capo II. - Della interdizione, della inabilitazione e della incapacita' naturale\".\""
+    }
+  ],
+  "impronta": "sha256:bc1eb27a5e7fb8768c195e5df2946ee751634a570e153b3e960287bb96906a3c"
+}

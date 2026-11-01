@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "650",
+    "rubrica": "Inosservanza dei provvedimenti dell'Autorita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art650"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque non osserva un provvedimento legalmente dato dall'Autorita' per ragione di giustizia o di sicurezza pubblica, o d'ordine pubblico o d'igiene, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi o con l'ammenda fino a lire duemila.",
+    "con_marcatori": "Art. 650. (Inosservanza dei provvedimenti dell'Autorita') Chiunque non osserva un provvedimento legalmente dato dall'Autorita' per ragione di giustizia o di sicurezza pubblica, o d'ordine pubblico o d'igiene, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi o con l'ammenda fino a lire duemila.",
+    "caratteri": 277
+  },
+  "note": [],
+  "impronta": "sha256:f3c753669a2e9013d57b7ad34f3254e0d090b97529ec478299404791df4fee74"
+}

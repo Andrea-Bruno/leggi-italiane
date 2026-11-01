@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1265",
+    "rubrica": "Efficacia della cessione riguardo ai terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1265"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il medesimo credito ha formato oggetto di piu' cessioni a persone diverse, prevale la cessione notificata per prima al debitore, o quella che e' stata prima accettata dal debitore con atto di data certa, ancorche' essa sia di data posteriore. La stessa norma si osserva quando il credito ha formato oggetto di costituzione di usufrutto o di pegno.",
+    "con_marcatori": "Art. 1265. (Efficacia della cessione riguardo ai terzi). Se il medesimo credito ha formato oggetto di piu' cessioni a persone diverse, prevale la cessione notificata per prima al debitore, o quella che e' stata prima accettata dal debitore con atto di data certa, ancorche' essa sia di data posteriore. La stessa norma si osserva quando il credito ha formato oggetto di costituzione di usufrutto o di pegno.",
+    "caratteri": 350
+  },
+  "note": [],
+  "impronta": "sha256:56840a2aa88eacfa0732d2b0143c19d7a29d6e087abb0dbe0f3ac32f09107a6f"
+}

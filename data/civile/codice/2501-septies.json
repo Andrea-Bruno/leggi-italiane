@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2501-septies",
+    "rubrica": "Deposito di atti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2501-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Devono restare depositati in copia nella sede delle societa' partecipanti alla fusione, ovvero pubblicati sul sito Internet delle stesse, durante i trenta giorni che precedono la decisione in ordine alla fusione, salvo che i soci rinuncino al termine con consenso unanime, e finche' la fusione sia decisa: 1) il progetto di fusione con le relazioni, ove redatte, indicate negli articoli 2501-quinquies e 2501-sexies; 2) i bilanci degli ultimi tre esercizi delle societa' partecipanti alla fusione, con le relazioni dei soggetti cui compete l'amministrazione e la revisione legale; ( le situazioni patrimoniali della societa' partecipanti alla fusione ove redatte a norma dell'articolo 2501-quater, primo comma, ovvero, nel caso previsto dall'articolo 2501-quater, secondo comma, la relazione finanziaria semestrale)). I soci hanno diritto di prendere visione di questi documenti e di ottenerne gratuitamente copia.Su richiesta del socio le copie gli sono trasmesse telematicamente. La societa' non e' tenuta a fornire copia dei documenti, qualora gli stessi siano stati pubblicati sul sito Internet della societa' dal quale sia possibile effettuarne liberamente copia o stampa.",
+    "con_marcatori": "Art. 2501-septies. (Deposito di atti). Devono restare depositati in copia nella sede delle societa' partecipanti alla fusione, ((ovvero pubblicati sul sito Internet delle stesse,)) durante i trenta giorni che precedono la decisione in ordine alla fusione, salvo che i soci rinuncino al termine con consenso unanime, e finche' la fusione sia decisa: 1) il progetto di fusione ((con le relazioni, ove redatte,)) indicate negli articoli 2501-quinquies e 2501-sexies; 2) i bilanci degli ultimi tre esercizi delle societa' partecipanti alla fusione, con le relazioni dei soggetti cui compete l'amministrazione e la revisione legale; ((3) le situazioni patrimoniali della societa' partecipanti alla fusione ove redatte a norma dell'articolo 2501-quater, primo comma, ovvero, nel caso previsto dall'articolo 2501-quater, secondo comma, la relazione finanziaria semestrale)). I soci hanno diritto di prendere visione di questi documenti e di ottenerne gratuitamente copia.((Su richiesta del socio le copie gli sono trasmesse telematicamente. La societa' non e' tenuta a fornire copia dei documenti, qualora gli stessi siano stati pubblicati sul sito Internet della societa' dal quale sia possibile effettuarne liberamente copia o stampa.))",
+    "caratteri": 1177
+  },
+  "note": [],
+  "impronta": "sha256:88b7a632cd992ea35a2f007074455d381924f76fe1e742830ee46cc216c45b38"
+}

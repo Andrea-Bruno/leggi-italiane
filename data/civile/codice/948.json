@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "948",
+    "rubrica": "Azione di rivendicazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art948"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario puo' rivendicare la cosa da chiunque la possiede o detiene e puo' proseguire l'esercizio dell'azione anche se costui, dopo la domanda, ha cessato, per fatto proprio, di possedere o detenere la cosa. In tal caso il convenuto e' obbligato a ricuperarla per l'attore a proprie spese, o, in mancanza, a corrispondergliene il valore, oltre a risarcirgli il danno. Il proprietario, se consegue direttamente dal nuovo possessore o detentore la restituzione della cosa, e' tenuto a restituire al precedente possessore o detentore la somma ricevuta in luogo di essa. L'azione di rivendicazione non si prescrive, salvi gli effetti dell'acquisto della proprieta' da parte di altri per usucapione.",
+    "con_marcatori": "Art. 948. (Azione di rivendicazione). Il proprietario puo' rivendicare la cosa da chiunque la possiede o detiene e puo' proseguire l'esercizio dell'azione anche se costui, dopo la domanda, ha cessato, per fatto proprio, di possedere o detenere la cosa. In tal caso il convenuto e' obbligato a ricuperarla per l'attore a proprie spese, o, in mancanza, a corrispondergliene il valore, oltre a risarcirgli il danno. Il proprietario, se consegue direttamente dal nuovo possessore o detentore la restituzione della cosa, e' tenuto a restituire al precedente possessore o detentore la somma ricevuta in luogo di essa. L'azione di rivendicazione non si prescrive, salvi gli effetti dell'acquisto della proprieta' da parte di altri per usucapione.",
+    "caratteri": 701
+  },
+  "note": [],
+  "impronta": "sha256:8dde6b898c692c9dd009bf1dbe2a0a09e0b84104355d2ec8ffa7302a1ce3e785"
+}

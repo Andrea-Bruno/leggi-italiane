@@ -1,0 +1,65 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "188",
+    "rubrica": "Spese per il mantenimento del condannato. Obbligo di rimborso",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art188"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 159,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il condannato e' obbligato a rimborsare all'erario dello Stato le spese per il suo mantenimento negli stabilimenti di pena, e risponde di tale obbligazione con tutti i suoi beni mobili e immobili, presenti e futuri, a norma delle leggi civili. L'obbligazione non si estende alla persona civilmente responsabile, e non si trasmette agli eredi del condannato.",
+    "con_marcatori": "Art. 188. (Spese per il mantenimento del condannato. Obbligo di rimborso) Il condannato e' obbligato a rimborsare all'erario dello Stato le spese per il suo mantenimento negli stabilimenti di pena, e risponde di tale obbligazione con tutti i suoi beni mobili e immobili, presenti e futuri, a norma delle leggi civili. L'obbligazione non si estende alla persona civilmente responsabile, e non si trasmette agli eredi del condannato.((159))",
+    "caratteri": 357
+  },
+  "note": [
+    {
+      "numero": 159,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1998-04-06",
+        "numero": "98"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 26 marzo - 6 aprile 1998, n. 98 (in G.U. 1ª s.s. 15/04/1998, n. 15) come modificata dall'Errata Corrige in G.U. 1ª s.s. 13/05/1998, n. 19, ha dichiarato l'illegittimita' costituzionale del secondo comma del presente articolo nella parte in cui non prevede la non trasmissibilita' agli eredi dell'obbligo di rimborsare le spese del processo penale."
+    }
+  ],
+  "impronta": "sha256:d054137b272b3ab92d9e18a86aa2cfc09c4a1ddaa31ef8d3feeae6cb827ec736"
+}

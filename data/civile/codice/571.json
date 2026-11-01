@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "571",
+    "rubrica": "Concorso di genitori o ascendenti con fratelli e sorelle",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art571"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se coi genitori o con uno soltanto di essi concorrono fratelli e sorelle germani del defunto, tutti sono ammessi alla successione del medesimo per capi, purche' in nessun caso la quota, in cui succedono i genitori o uno di essi, sia minore della meta'. Se vi sono fratelli e sorelle unilaterali, ciascuno di essi consegue la meta' della quota che consegue ciascuno dei germani o dei genitori, salva in ogni caso la quota della meta' in favore di questi ultimi. Se entrambi i genitori non possono o non vogliono venire alla successione e vi sono ulteriori ascendenti, a questi ultimi si devolve, nel modo determinato dall'articolo 569, la quota che sarebbe spettata a uno dei genitori in mancanza dell'altro.",
+    "con_marcatori": "Art. 571. ((Concorso di genitori o ascendenti con fratelli e sorelle.)) ((Se coi genitori o con uno soltanto di essi concorrono fratelli e sorelle germani del defunto, tutti sono ammessi alla successione del medesimo per capi, purche' in nessun caso la quota, in cui succedono i genitori o uno di essi, sia minore della meta'. Se vi sono fratelli e sorelle unilaterali, ciascuno di essi consegue la meta' della quota che consegue ciascuno dei germani o dei genitori, salva in ogni caso la quota della meta' in favore di questi ultimi. Se entrambi i genitori non possono o non vogliono venire alla successione e vi sono ulteriori ascendenti, a questi ultimi si devolve, nel modo determinato dall'articolo 569, la quota che sarebbe spettata a uno dei genitori in mancanza dell'altro)).",
+    "caratteri": 707
+  },
+  "note": [],
+  "impronta": "sha256:aa1eca10122d1d9116818f886838abead70bf03d32a0d43a3efbc6c49fbe5b94"
+}

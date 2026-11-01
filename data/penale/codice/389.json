@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "389",
+    "rubrica": "Inosservanza di pene accessorie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art389"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, avendo riportato una condanna da cui consegue una pena accessoria, trasgredisce agli obblighi o ai divieti inerenti a tale pena, e' punito con la reclusione da due a sei mesi. La stessa pena si applica a chi trasgredisce agli obblighi o ai divieti inerenti ad una pena accessoria provvisoriamente applicata.",
+    "con_marcatori": "Art. 389. (( (Inosservanza di pene accessorie). )) ((Chiunque, avendo riportato una condanna da cui consegue una pena accessoria, trasgredisce agli obblighi o ai divieti inerenti a tale pena, e' punito con la reclusione da due a sei mesi. La stessa pena si applica a chi trasgredisce agli obblighi o ai divieti inerenti ad una pena accessoria provvisoriamente applicata)).",
+    "caratteri": 317
+  },
+  "note": [],
+  "impronta": "sha256:4c3824aec0e71fadd4adc3af077d858c703934cd3eb52f2292d50863d095a733"
+}

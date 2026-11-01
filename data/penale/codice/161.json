@@ -1,0 +1,106 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "161",
+    "rubrica": "Effetti della sospensione e della interruzione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art161"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 199,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "L'interruzione della prescrizione ha effetto per tutti coloro che hanno commesso il reato. La sospensione della prescrizione ha effetto limitatamente agli imputati nei cui confronti si sta procedendo. Salvo che si proceda per i reati di cui all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, in nessun caso l'interruzione della prescrizione puo' comportare l'aumento di piu' di un quarto del tempo necessario a prescrivere, della meta' per i reati di cui agli articoli 318, 319, 319-ter, 319-quater, 320, 321, 322-bis, limitatamente ai delitti richiamati dal presente comma, e 640-bis, nonche' nei casi di cui all'articolo 99, secondo comma, di due terzi nel caso di cui all'articolo 99, quarto comma, e del doppio nei casi di cui agli articoli 102, 103 e 105. (208a)",
+    "con_marcatori": "Art. 161. (Effetti della sospensione e della interruzione) ((L'interruzione della prescrizione ha effetto per tutti coloro che hanno commesso il reato. La sospensione della prescrizione ha effetto limitatamente agli imputati nei cui confronti si sta procedendo)). ((277)) Salvo che si proceda per i reati di cui all'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, in nessun caso l'interruzione della prescrizione puo' comportare l'aumento di piu' di un quarto del tempo necessario a prescrivere, della meta' ((per i reati di cui agli articoli 318, 319, 319-ter, 319-quater, 320, 321, 322-bis, limitatamente ai delitti richiamati dal presente comma, e 640-bis, nonche')) nei casi di cui all'articolo 99, secondo comma, di due terzi nel caso di cui all'articolo 99, quarto comma, e del doppio nei casi di cui agli articoli 102, 103 e 105.(199) (208a) ((277))",
+    "caratteri": 789
+  },
+  "note": [
+    {
+      "numero": 199,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "L. 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "articolo 2 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 10, comma 3 della L. 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2006-11-23",
+        "numero": "393"
+      },
+      "testo": "La L. 5 dicembre 2005, n. 251, ha disposto (con l'art. 10, commmi 2 e 3) che \"Ferme restando le disposizioni dell'articolo 2 del codice penale quanto alle altre norme della presente legge, le disposizioni dell'articolo 6 non si applicano ai procedimenti e ai processi in corso se i nuovi termini di prescrizione risultano piu' lunghi di quelli previgenti. Se, per effetto delle nuove disposizioni, i termini di prescrizione risultano piu' brevi, le stesse si applicano ai procedimenti e ai processi pendenti alla data di entrata in vigore della presente legge, ad esclusione dei processi gia' pendenti in primo grado ove vi sia stata la dichiarazione di apertura del dibattimento, nonche' dei processi gia' pendenti in grado di appello o avanti alla Corte di cassazione\". ------------- AGGIORNAMENTO (208a) Successivamente la Corte Costituzionale con sentenza 23 ottobre - 23 novembre 2006, n. 393 (in G.U. 1ª s.s. 29/11/2006, n. 47), ha dichiarato l'illegittimita' costituzionale dell'art. 10, comma 3 della L. 5 dicembre 2005, n. 251 (che ha modificato l'ultimo comma del presente articolo) \"limitatamente alle parole \"dei processi gia' pendenti in primo grado ove vi sia stata la dichiarazione di apertura del dibattimento, nonche'\"."
+    },
+    {
+      "numero": 277,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 23 giugno 2017, n. 103",
+          "urn": "urn:nir:stato:legge:2017-06-23;103",
+          "data": "2017-06-23",
+          "numero": "103",
+          "data_gazzetta": "2017-07-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 23 giugno 2017, n. 103, ha disposto (con l'art. 1, comma 15) che \"Le disposizioni di cui ai commi da 10 a 14 si applicano ai fatti commessi dopo la data di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:0ec4aa22753b2305f3b5835fe343c2c8dbe4a62bb35069e382b02cb9276f0a29"
+}

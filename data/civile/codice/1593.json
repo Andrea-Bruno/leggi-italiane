@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1593",
+    "rubrica": "Addizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1593"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il conduttore che ha eseguito addizioni sulla cosa locata ha diritto di toglierle alla fine della locazione qualora cio' possa avvenire senza nocumento della cosa, salvo che il proprietario preferisca ritenere le addizioni stesse. In tal caso questi deve pagare al conduttore un'indennita' pari alla minor somma tra l'importo della spesa e il valore delle addizioni al tempo della riconsegna. Se le addizioni non sono separabili senza nocumento della cosa e ne costituiscono un miglioramento, si osservano le norme dell'articolo precedente.",
+    "con_marcatori": "Art. 1593. (Addizioni). Il conduttore che ha eseguito addizioni sulla cosa locata ha diritto di toglierle alla fine della locazione qualora cio' possa avvenire senza nocumento della cosa, salvo che il proprietario preferisca ritenere le addizioni stesse. In tal caso questi deve pagare al conduttore un'indennita' pari alla minor somma tra l'importo della spesa e il valore delle addizioni al tempo della riconsegna. Se le addizioni non sono separabili senza nocumento della cosa e ne costituiscono un miglioramento, si osservano le norme dell'articolo precedente.",
+    "caratteri": 540
+  },
+  "note": [],
+  "impronta": "sha256:2320a819fb5559926860efb3b22dc3e7e417597fc0474d94784c57bce3bfe9f4"
+}

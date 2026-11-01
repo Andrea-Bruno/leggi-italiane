@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "35",
+    "rubrica": "Sospensione dall'esercizio di una professione o di un'arte",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art35"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La sospensione dall'esercizio di una professione o di un'arte priva il condannato della capacita' di esercitare, durante la sospensione, una professione, arte, industria, o un commercio o mestiere, per i quali e' richiesto uno speciale permesso o una speciale abilitazione, autorizzazione o licenza dell'Autorita'. La sospensione dall'esercizio di una professione o di un'arte non puo' avere una durata inferiore a tre mesi, ne' superiore a tre anni. Essa consegue a ogni condanna per contravvenzione, che sia commessa con abuso della professione, arte, industria, o del commercio o mestiere, ovvero con violazione dei doveri ad essi inerenti, quando la pena inflitta non e' inferiore a un anno d'arresto.",
+    "con_marcatori": "Art. 35. (Sospensione dall'esercizio di una professione o di un'arte) La sospensione dall'esercizio di una professione o di un'arte priva il condannato della capacita' di esercitare, durante la sospensione, una professione, arte, industria, o un commercio o mestiere, per i quali e' richiesto uno speciale permesso o una speciale abilitazione, autorizzazione o licenza dell'Autorita'. La sospensione dall'esercizio di una professione o di un'arte non puo' avere una durata inferiore a ((tre mesi)), ne' superiore a ((tre anni)). Essa consegue a ogni condanna per contravvenzione, che sia commessa con abuso della professione, arte, industria, o del commercio o mestiere, ovvero con violazione dei doveri ad essi inerenti, quando la pena inflitta non e' inferiore a un anno d'arresto.",
+    "caratteri": 705
+  },
+  "note": [],
+  "impronta": "sha256:9a713719e7d01f6c084dad5aa05b09701a01f7eaa0edfaa365119b5c570036c0"
+}

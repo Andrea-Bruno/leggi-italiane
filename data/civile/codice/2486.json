@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2486",
+    "rubrica": "Poteri degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2486"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Al verificarsi di una causa di scioglimento e fino al momento della consegna di cui all'articolo 2487-bis, gli amministratori conservano il potere di gestire la societa', ai soli fini della conservazione dell'integrita' e del valore del patrimonio sociale. Gli amministratori sono personalmente e solidalmente responsabili dei danni arrecati alla societa', ai soci, ai creditori sociali ed ai terzi, per atti od omissioni compiuti in violazione del precedente comma. Quando e' accertata la responsabilita' degli amministratori a norma del presente articolo, e salva la prova di un diverso ammontare, il danno risarcibile si presume pari alla differenza tra il patrimonio netto alla data in cui l'amministratore e' cessato dalla carica o, in caso di apertura di una procedura concorsuale, alla data di apertura di tale procedura e il patrimonio netto determinato alla data in cui si e' verificata una causa di scioglimento di cui all'articolo 2484, detratti i costi sostenuti e da sostenere, secondo un criterio di normalita', dopo il verificarsi della causa di scioglimento e fino al compimento della liquidazione. Se e' stata aperta una procedura concorsuale e mancano le scritture contabili o se a causa dell'irregolarita' delle stesse o per altre ragioni i netti patrimoniali non possono essere determinati, il danno e' liquidato in misura pari alla differenza tra attivo e passivo accertati nella procedura.",
+    "con_marcatori": "Art. 2486. (Poteri degli amministratori). Al verificarsi di una causa di scioglimento e fino al momento della consegna di cui all'articolo 2487-bis, gli amministratori conservano il potere di gestire la societa', ai soli fini della conservazione dell'integrita' e del valore del patrimonio sociale. Gli amministratori sono personalmente e solidalmente responsabili dei danni arrecati alla societa', ai soci, ai creditori sociali ed ai terzi, per atti od omissioni compiuti in violazione del precedente comma. ((Quando e' accertata la responsabilita' degli amministratori a norma del presente articolo, e salva la prova di un diverso ammontare, il danno risarcibile si presume pari alla differenza tra il patrimonio netto alla data in cui l'amministratore e' cessato dalla carica o, in caso di apertura di una procedura concorsuale, alla data di apertura di tale procedura e il patrimonio netto determinato alla data in cui si e' verificata una causa di scioglimento di cui all'articolo 2484, detratti i costi sostenuti e da sostenere, secondo un criterio di normalita', dopo il verificarsi della causa di scioglimento e fino al compimento della liquidazione. Se e' stata aperta una procedura concorsuale e mancano le scritture contabili o se a causa dell'irregolarita' delle stesse o per altre ragioni i netti patrimoniali non possono essere determinati, il danno e' liquidato in misura pari alla differenza tra attivo e passivo accertati nella procedura)).",
+    "caratteri": 1411
+  },
+  "note": [],
+  "impronta": "sha256:daf9cf7f4c6d8c0e1ba4a0305af8718296026d86338b3c58705d3990d818d04d"
+}

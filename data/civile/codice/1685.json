@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1685",
+    "rubrica": "Diritti del mittente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1685"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mittente puo' sospendere il trasporto e chiedere la restituzione delle cose, ovvero ordinarne la consegna a un destinatario diverso da quello originariamente indicato o anche disporre diversamente, salvo l'obbligo di rimborsare le spese e di risarcire i danni derivanti dal contrordine. Qualora dal vettore sia stato rilasciato al mittente un duplicato della lettera di vettura o una ricevuta di carico, il mittente non puo' disporre delle cose consegnate per il trasporto, se non esibisce al vettore il duplicato o la ricevuta per farvi annotare le nuove indicazioni. Queste devono essere sottoscritte dal vettore. Il mittente non puo' disporre delle cose trasportate dal momento in cui esse sono passate a disposizione del destinatario.",
+    "con_marcatori": "Art. 1685. (Diritti del mittente). Il mittente puo' sospendere il trasporto e chiedere la restituzione delle cose, ovvero ordinarne la consegna a un destinatario diverso da quello originariamente indicato o anche disporre diversamente, salvo l'obbligo di rimborsare le spese e di risarcire i danni derivanti dal contrordine. Qualora dal vettore sia stato rilasciato al mittente un duplicato della lettera di vettura o una ricevuta di carico, il mittente non puo' disporre delle cose consegnate per il trasporto, se non esibisce al vettore il duplicato o la ricevuta per farvi annotare le nuove indicazioni. Queste devono essere sottoscritte dal vettore. Il mittente non puo' disporre delle cose trasportate dal momento in cui esse sono passate a disposizione del destinatario.",
+    "caratteri": 741
+  },
+  "note": [],
+  "impronta": "sha256:872e515761712cd90453ed3e99cb32e8bdb83ee23f15a5edb64d80e37eece038"
+}

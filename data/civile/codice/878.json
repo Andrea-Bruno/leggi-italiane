@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "878",
+    "rubrica": "Muro di cinta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art878"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il muro di cinta e ogni altro muro isolato che non abbia un'altezza superiore ai tre metri non e' considerato per il computo della distanza indicata dall'articolo 873. Esso, quando e' posto sul confine, puo' essere reso comune anche a scopo d'appoggio, purche' non preesista al di la' un edificio a distanza inferiore ai tre metri.",
+    "con_marcatori": "Art. 878. (Muro di cinta). Il muro di cinta e ogni altro muro isolato che non abbia un'altezza superiore ai tre metri non e' considerato per il computo della distanza indicata dall'articolo 873. Esso, quando e' posto sul confine, puo' essere reso comune anche a scopo d'appoggio, purche' non preesista al di la' un edificio a distanza inferiore ai tre metri.",
+    "caratteri": 331
+  },
+  "note": [],
+  "impronta": "sha256:2cbba29a1d8d006ef4adf50353885311bd7c4af3be85568ac43fa3d5dc7be0d5"
+}

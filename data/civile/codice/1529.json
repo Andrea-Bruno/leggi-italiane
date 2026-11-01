@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1529",
+    "rubrica": "Rischi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1529"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la vendita ha per oggetto cose in viaggio, e tra i documenti consegnati al compratore e' compresa la polizza di assicurazione per i rischi del trasporto, sono a carico del compratore i rischi a cui si trova esposta la merce dal momento della consegna al vettore. Questa disposizione non si applica se il venditore al tempo del contratto era a conoscenza della perdita o dell'avaria della merce, e le ha in mala fede taciute al compratore.",
+    "con_marcatori": "Art. 1529. (Rischi). Se la vendita ha per oggetto cose in viaggio, e tra i documenti consegnati al compratore e' compresa la polizza di assicurazione per i rischi del trasporto, sono a carico del compratore i rischi a cui si trova esposta la merce dal momento della consegna al vettore. Questa disposizione non si applica se il venditore al tempo del contratto era a conoscenza della perdita o dell'avaria della merce, e le ha in mala fede taciute al compratore.",
+    "caratteri": 441
+  },
+  "note": [],
+  "impronta": "sha256:50463a71e1214d6c0f5a1a126570686ba24a39de289cd91971e5a55b99dfb1d4"
+}

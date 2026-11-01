@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "108",
+    "rubrica": "Tendenza a delinquere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art108"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' dichiarato delinquente per tendenza chi, sebbene non recidivo o delinquente abituale o professionale, commette un delitto non colposo, contro la vita o l'incolumita' individuale, anche non preveduto dal capo primo del titolo dodicesimo del libro secondo di questo codice, il quale, per se' e unitamente alle circostanze indicate nel capoverso dell'articolo 133, riveli una speciale inclinazione al delitto, che trovi sua causa nell'indole particolarmente malvagia del colpevole. La disposizione di questo articolo non si applica se la inclinazione al delitto e' originata dall'infermita' preveduta dagli articoli 88 e 89.",
+    "con_marcatori": "Art. 108. (Tendenza a delinquere) E' dichiarato delinquente per tendenza chi, sebbene non recidivo o delinquente abituale o professionale, commette un delitto non colposo, contro la vita o l'incolumita' individuale, anche non preveduto dal capo primo del titolo dodicesimo del libro secondo di questo codice, il quale, per se' e unitamente alle circostanze indicate nel capoverso dell'articolo 133, riveli una speciale inclinazione al delitto, che trovi sua causa nell'indole particolarmente malvagia del colpevole. La disposizione di questo articolo non si applica se la inclinazione al delitto e' originata dall'infermita' preveduta dagli articoli 88 e 89.",
+    "caratteri": 624
+  },
+  "note": [],
+  "impronta": "sha256:76da1d86c6fe3f2182707e26bb55e52d188b159e07309b7403e64ea91901878e"
+}

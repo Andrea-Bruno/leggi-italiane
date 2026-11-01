@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "31",
+    "rubrica": "Devoluzione dei beni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art31"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I beni della persona giuridica, che restano dopo esaurita la liquidazione, sono devoluti in conformita' dell'atto costitutivo o dello statuto. Qualora questi non dispongano, se trattasi di fondazione, provvede l'autorita' governativa, attribuendo i beni ad altri enti che hanno fini analoghi; se trattasi di associazione, si osservano le deliberazioni dell'assemblea che ha stabilito lo scioglimento e, quando anche queste mancano, provvede nello stesso modo l'autorita' governativa. I creditori che durante la liquidazione non hanno fatto valere il loro credito possono chiedere il pagamento a coloro ai quali i beni sono stati devoluti, entro l'anno dalla chiusura della liquidazione, in proporzione e nei limiti di cio' che hanno ricevuto.",
+    "con_marcatori": "Art. 31. (Devoluzione dei beni). I beni della persona giuridica, che restano dopo esaurita la liquidazione, sono devoluti in conformita' dell'atto costitutivo o dello statuto. Qualora questi non dispongano, se trattasi di fondazione, provvede l'autorita' governativa, attribuendo i beni ad altri enti che hanno fini analoghi; se trattasi di associazione, si osservano le deliberazioni dell'assemblea che ha stabilito lo scioglimento e, quando anche queste mancano, provvede nello stesso modo l'autorita' governativa. I creditori che durante la liquidazione non hanno fatto valere il loro credito possono chiedere il pagamento a coloro ai quali i beni sono stati devoluti, entro l'anno dalla chiusura della liquidazione, in proporzione e nei limiti di cio' che hanno ricevuto.",
+    "caratteri": 742
+  },
+  "note": [],
+  "impronta": "sha256:a394064a212eb85012ca16c8842a9835b39bb055a75a6c83a1cfa933b1f1e1d9"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "522",
+    "rubrica": "Devoluzione nelle successioni legittime",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art522"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle successioni legittime la parte di colui che rinunzia si accresce a coloro che avrebbero concorso col rinunziante, salvo il diritto di rappresentazione e salvo il disposto dell'ultimo comma dell'art. 571. Se il rinunziante e' solo, l'eredita' si devolve a coloro ai quali spetterebbe nel caso che egli mancasse.",
+    "con_marcatori": "Art. 522. (Devoluzione nelle successioni legittime). Nelle successioni legittime la parte di colui che rinunzia si accresce a coloro che avrebbero concorso col rinunziante, salvo il diritto di rappresentazione e salvo il disposto dell'ultimo comma dell'art. 571. Se il rinunziante e' solo, l'eredita' si devolve a coloro ai quali spetterebbe nel caso che egli mancasse.",
+    "caratteri": 316
+  },
+  "note": [],
+  "impronta": "sha256:a684fa919413a5e66fde4b543a45e7c7a24d3e1053f8ed2b90b60267441bc5c1"
+}

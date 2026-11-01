@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1736",
+    "rubrica": "Star del credere",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1736"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il commissionario che, in virtu' di patto o di uso, e' tenuto allo «star del credere» risponde nei confronti del committente per l'esecuzione dell'affare. In tal caso ha diritto, oltre che alla provvigione, a un compenso o a una maggiore provvigione, la quale, in mancanza di patto, si determina secondo gli usi del luogo in cui e' compiuto l'affare. In mancanza di usi, provvede il giudice secondo equita'.",
+    "con_marcatori": "Art. 1736. (Star del credere). Il commissionario che, in virtu' di patto o di uso, e' tenuto allo «star del credere» risponde nei confronti del committente per l'esecuzione dell'affare. In tal caso ha diritto, oltre che alla provvigione, a un compenso o a una maggiore provvigione, la quale, in mancanza di patto, si determina secondo gli usi del luogo in cui e' compiuto l'affare. In mancanza di usi, provvede il giudice secondo equita'.",
+    "caratteri": 407
+  },
+  "note": [],
+  "impronta": "sha256:420f3f6e7a3eee984b3a1efec861dabad3021bd829ca8542f1023d60d2ac0421"
+}

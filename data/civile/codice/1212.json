@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1212",
+    "rubrica": "Requisiti del deposito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1212"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per la validita' del deposito e' necessario: 1) che sia stato preceduto da un'intimazione notificata al creditore e contenente l'indicazione del giorno, dell'ora e del luogo in cui la cosa offerta sara' depositata; 2) che il debitore abbia consegnato la cosa, con gli interessi e i frutti dovuti fino al giorno dell'offerta, nel luogo indicato dalla legge o, in mancanza, dal giudice; 3) che sia redatto dal pubblico ufficiale un processo verbale da cui risulti la natura delle cose offerte, il rifiuto di riceverle da parte del creditore o la sua mancata comparizione, e infine il fatto del deposito; 4) che, in caso di non comparizione del creditore, il processo verbale di deposito gli sia notificato con l'invito a ritirare la cosa depositata. Il deposito che ha per oggetto somme di danaro puo' eseguirsi anche presso un istituto di credito.",
+    "con_marcatori": "Art. 1212. (Requisiti del deposito). Per la validita' del deposito e' necessario: 1) che sia stato preceduto da un'intimazione notificata al creditore e contenente l'indicazione del giorno, dell'ora e del luogo in cui la cosa offerta sara' depositata; 2) che il debitore abbia consegnato la cosa, con gli interessi e i frutti dovuti fino al giorno dell'offerta, nel luogo indicato dalla legge o, in mancanza, dal giudice; 3) che sia redatto dal pubblico ufficiale un processo verbale da cui risulti la natura delle cose offerte, il rifiuto di riceverle da parte del creditore o la sua mancata comparizione, e infine il fatto del deposito; 4) che, in caso di non comparizione del creditore, il processo verbale di deposito gli sia notificato con l'invito a ritirare la cosa depositata. Il deposito che ha per oggetto somme di danaro puo' eseguirsi anche presso un istituto di credito.",
+    "caratteri": 846
+  },
+  "note": [],
+  "impronta": "sha256:28d859c7f4f93337bf73c303be1cef6f7412856f658b479f61381c255d715a33"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "181",
+    "rubrica": "Riabilitazione nel caso di condanna all'estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art181"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni relative alla riabilitazione si applicano anche nel caso di sentenze straniere di condanna, riconosciute a norma dell'articolo 12.",
+    "con_marcatori": "Art. 181. (Riabilitazione nel caso di condanna all'estero) Le disposizioni relative alla riabilitazione si applicano anche nel caso di sentenze straniere di condanna, riconosciute a norma dell'articolo 12.",
+    "caratteri": 146
+  },
+  "note": [],
+  "impronta": "sha256:e5ae8d39db372cb2a9a60ff670234ce547565089f97cc4893150104bf8283002"
+}

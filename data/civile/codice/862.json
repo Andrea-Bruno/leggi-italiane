@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "862",
+    "rubrica": "Consorzi di bonifica",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art862"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "All'esecuzione, alla manutenzione e all'esercizio delle opere di bonifica puo' provvedersi a mezzo di consorzi tra i proprietari interessati. A tali consorzi possono essere anche affidati l'esecuzione, la manutenzione e l'esercizio delle altre opere d'interesse comune a piu' fondi o d'interesse particolare a uno di essi. I consorzi sono costituiti per decreto reale e, in mancanza dell'iniziativa privata, possono essere formati anche d'ufficio. Essi sono persone giuridiche pubbliche e svolgono la loro attivita' secondo le norme dettate dalla legge speciale.",
+    "con_marcatori": "Art. 862. (Consorzi di bonifica). All'esecuzione, alla manutenzione e all'esercizio delle opere di bonifica puo' provvedersi a mezzo di consorzi tra i proprietari interessati. A tali consorzi possono essere anche affidati l'esecuzione, la manutenzione e l'esercizio delle altre opere d'interesse comune a piu' fondi o d'interesse particolare a uno di essi. I consorzi sono costituiti per decreto reale e, in mancanza dell'iniziativa privata, possono essere formati anche d'ufficio. Essi sono persone giuridiche pubbliche e svolgono la loro attivita' secondo le norme dettate dalla legge speciale.",
+    "caratteri": 562
+  },
+  "note": [],
+  "impronta": "sha256:a4fcaace9a82baa593cb30000d5a6ff33ca1fe2ac498da40efff6be821ab87df"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2101",
+    "rubrica": "Tariffe di cottimo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2101"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le norme corporative possono stabilire che le tariffe di cottimo non divengano definitive se non dopo un periodo di esperimento. Le tariffe possono essere sostituite o modificate soltanto se intervengono mutamenti nelle condizioni di esecuzione del lavoro, e in ragione degli stessi. In questo caso la sostituzione o la variazione della tariffa non diviene definitiva se non dopo il periodo di esperimento stabilito dalle norme corporative. L'imprenditore deve comunicare preventivamente ai prestatori di lavoro i dati riguardanti gli elementi costitutivi della tariffa di cottimo, le lavorazioni da eseguirsi e il relativo compenso unitario. Deve altresi' comunicare i dati relativi alla quantita' di lavoro eseguita e al tempo impiegato.",
+    "con_marcatori": "Art. 2101. (Tariffe di cottimo). Le norme corporative possono stabilire che le tariffe di cottimo non divengano definitive se non dopo un periodo di esperimento. Le tariffe possono essere sostituite o modificate soltanto se intervengono mutamenti nelle condizioni di esecuzione del lavoro, e in ragione degli stessi. In questo caso la sostituzione o la variazione della tariffa non diviene definitiva se non dopo il periodo di esperimento stabilito dalle norme corporative. L'imprenditore deve comunicare preventivamente ai prestatori di lavoro i dati riguardanti gli elementi costitutivi della tariffa di cottimo, le lavorazioni da eseguirsi e il relativo compenso unitario. Deve altresi' comunicare i dati relativi alla quantita' di lavoro eseguita e al tempo impiegato.",
+    "caratteri": 739
+  },
+  "note": [],
+  "impronta": "sha256:e1be404d0512e446f5015ec9b15780c87bed741481f21c3254b0be6e24a0b8f8"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "301",
+    "rubrica": "Concorso di reati",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art301"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando l'offesa alla vita, alla incolumita', alla liberta' o all'onore, indicata negli articoli 276, 277, 278, 280, 281, 282, 295, 296, 297 e 298, e' considerata dalla legge come reato anche in base a disposizioni diverse da quelle contenute nei capi precedenti, si applicano le disposizioni che stabiliscono la pena piu' grave. Nondimeno, nei casi in cui debbono essere applicate disposizioni diverse da quelle contenute nei capi precedenti, le pene sono aumentate da un terzo alla meta'. Quando l'offesa alla vita, alla incolumita', alla liberta' o all'onore e' considerata dalla legge come elemento costitutivo o circostanza aggravante di un altro reato, questo cessa dal costituire un reato complesso, e il colpevole soggiace a pene distinte, secondo le norme sul concorso dei reati, applicandosi, per le dette offese, le disposizioni contenute nei capi precedenti.",
+    "con_marcatori": "Art. 301. (Concorso di reati) Quando l'offesa alla vita, alla incolumita', alla liberta' o all'onore, indicata negli articoli 276, 277, 278, 280, 281, 282, 295, 296, 297 e 298, e' considerata dalla legge come reato anche in base a disposizioni diverse da quelle contenute nei capi precedenti, si applicano le disposizioni che stabiliscono la pena piu' grave. Nondimeno, nei casi in cui debbono essere applicate disposizioni diverse da quelle contenute nei capi precedenti, le pene sono aumentate da un terzo alla meta'. Quando l'offesa alla vita, alla incolumita', alla liberta' o all'onore e' considerata dalla legge come elemento costitutivo o circostanza aggravante di un altro reato, questo cessa dal costituire un reato complesso, e il colpevole soggiace a pene distinte, secondo le norme sul concorso dei reati, applicandosi, per le dette offese, le disposizioni contenute nei capi precedenti.",
+    "caratteri": 869
+  },
+  "note": [],
+  "impronta": "sha256:80ed3c84f4dc074c4d40b052e7ca1a86af2fd3a78bd2e2a999b117a2eaf56e8d"
+}

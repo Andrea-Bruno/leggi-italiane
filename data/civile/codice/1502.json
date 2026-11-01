@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1502",
+    "rubrica": "Obblighi del riscattante",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1502"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il venditore che esercita il diritto di riscatto e' tenuto a rimborsare al compratore il prezzo, le spese e ogni altro pagamento legittimamente fatto per la vendita, le spese per le riparazioni necessarie e, nei limiti dell'aumento, quelle che hanno aumentato il valore della cosa. Fino al rimborso delle spese necessarie e utili, il compratore ha diritto di ritenere la cosa. Il giudice tuttavia, per il rimborso delle spese utili, puo' accordare una dilazione disponendo, se occorrono, le opportune cautele.",
+    "con_marcatori": "Art. 1502. (Obblighi del riscattante). Il venditore che esercita il diritto di riscatto e' tenuto a rimborsare al compratore il prezzo, le spese e ogni altro pagamento legittimamente fatto per la vendita, le spese per le riparazioni necessarie e, nei limiti dell'aumento, quelle che hanno aumentato il valore della cosa. Fino al rimborso delle spese necessarie e utili, il compratore ha diritto di ritenere la cosa. Il giudice tuttavia, per il rimborso delle spese utili, puo' accordare una dilazione disponendo, se occorrono, le opportune cautele.",
+    "caratteri": 509
+  },
+  "note": [],
+  "impronta": "sha256:2d7ce3e54658caedd6c4a113570df17609bad83eab1b6f368c6c32933319ad50"
+}

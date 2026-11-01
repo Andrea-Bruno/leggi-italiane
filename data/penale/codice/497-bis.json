@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "497-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art497-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Possesso e fabbricazione di documenti di identificazione falsi. Chiunque e' trovato in possesso di un documento falso valido per l'espatrio e' punito con la reclusione da due a cinque anni. La pena di cui al primo comma e' aumentata da un terzo alla meta' per chi fabbrica o comunque forma il documento falso, ovvero lo detiene fuori dei casi di uso personale.",
+    "con_marcatori": "Art. 497-bis. Possesso e fabbricazione di documenti di identificazione falsi. Chiunque e' trovato in possesso di un documento falso valido per l'espatrio ((e' punito con la reclusione da due a cinque anni)). La pena di cui al primo comma e' aumentata da un terzo alla meta' per chi fabbrica o comunque forma il documento falso, ovvero lo detiene fuori dei casi di uso personale.",
+    "caratteri": 360
+  },
+  "note": [],
+  "impronta": "sha256:a62c86a9e87b92678d7dd28e92ad83ba277728b137a7e2d644b99b169ac27e3f"
+}

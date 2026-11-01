@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2650",
+    "rubrica": "Continuita' delle trascrizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2650"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi in cui, per le disposizioni precedenti, un atto di acquisto e' soggetto a trascrizione, le successive trascrizioni o iscrizioni a carico dell'acquirente non producono effetto, se non e' stato trascritto l'atto anteriore di acquisto. Quando l'atto anteriore di acquisto e' stato trascritto, le successive trascrizioni o iscrizioni producono effetto secondo il loro ordine rispettivo, salvo il disposto dell'art. 2644. L'ipoteca legale a favore dell'alienante e quella a favore del condividente, iscritte contemporaneamente alla trascrizione del titolo di acquisto o della divisione, prevalgono sulle trascrizioni o iscrizioni eseguite anteriormente contro l'acquirente o il condividente tenuto al conguaglio.",
+    "con_marcatori": "Art. 2650. (Continuita' delle trascrizioni). Nei casi in cui, per le disposizioni precedenti, un atto di acquisto e' soggetto a trascrizione, le successive trascrizioni o iscrizioni a carico dell'acquirente non producono effetto, se non e' stato trascritto l'atto anteriore di acquisto. Quando l'atto anteriore di acquisto e' stato trascritto, le successive trascrizioni o iscrizioni producono effetto secondo il loro ordine rispettivo, salvo il disposto dell'art. 2644. L'ipoteca legale a favore dell'alienante e quella a favore del condividente, iscritte contemporaneamente alla trascrizione del titolo di acquisto o della divisione, prevalgono sulle trascrizioni o iscrizioni eseguite anteriormente contro l'acquirente o il condividente tenuto al conguaglio.",
+    "caratteri": 716
+  },
+  "note": [],
+  "impronta": "sha256:a91afecdd06db1271691737501c5276131c65c9fdf454b9d0b471228dd1bf308"
+}

@@ -1,0 +1,1159 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "69",
+    "rubrica": "Concorso di circostanze aggravanti e attenuanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art69"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2, comma 3, comma 4, comma 7). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2",
+      "comma 3",
+      "comma 4",
+      "comma 7"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 139,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 250,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 251,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 265,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 280,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 301,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 310,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 311,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 333,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 338,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 344,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 347,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 369,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 375,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 382,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 396,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Quando concorrono insieme circostanze aggravanti e circostanze attenuanti, e le prime sono dal giudice ritenute prevalenti, non si tien conto delle diminuzioni di pena stabilite per le circostanze attenuanti, e si fa luogo soltanto agli aumenti di pena stabiliti per le circostanze aggravanti. Se le circostanze attenuanti sono ritenute prevalenti sulle circostanze aggravanti, non si tien conto degli aumenti di pena stabiliti per queste ultime, e si fa luogo soltanto alle diminuzioni di pena stabilite per le circostanze attenuanti. Se fra le circostanze aggravanti e quelle attenuanti il giudice ritiene che vi sia equivalenza, si applica la pena che sarebbe inflitta se non concorresse alcuna di dette circostanze. Le disposizioni del presente articolo si applicano anche alle circostanze inerenti alla persona del colpevole, esclusi i casi previsti dall'articolo 99, quarto comma, nonche' dagli articoli 111 e 112, primo comma, numero 4), per cui vi e' divieto di prevalenza delle circostanze attenuanti sulle ritenute circostanze aggravanti, ed a qualsiasi altra circostanza per la quale la legge stabilisca una pena di specie diversa o determini la misura della pena in modo indipendente da quella ordinaria del reato. (242a) COMMA ABROGATO DAL D.L. 11 APRILE 1974, N. 99, CONVERTITO CON MODIFICAZIONI DALLA l. 7 GIUGNO 1974, N. 220.",
+    "con_marcatori": "Art. 69. (Concorso di circostanze aggravanti e attenuanti) Quando concorrono insieme circostanze aggravanti e circostanze attenuanti, e le prime sono dal giudice ritenute prevalenti, non si tien conto delle diminuzioni di pena stabilite per le circostanze attenuanti, e si fa luogo soltanto agli aumenti di pena stabiliti per le circostanze aggravanti. Se le circostanze attenuanti sono ritenute prevalenti sulle circostanze aggravanti, non si tien conto degli aumenti di pena stabiliti per queste ultime, e si fa luogo soltanto alle diminuzioni di pena stabilite per le circostanze attenuanti. Se fra le circostanze aggravanti e quelle attenuanti il giudice ritiene che vi sia equivalenza, si applica la pena che sarebbe inflitta se non concorresse alcuna di dette circostanze. Le disposizioni del presente articolo si applicano anche alle circostanze inerenti alla persona del colpevole, esclusi i casi previsti dall'articolo 99, quarto comma, nonche' dagli articoli 111 e 112, primo comma, numero 4), per cui vi e' divieto di prevalenza delle circostanze attenuanti sulle ritenute circostanze aggravanti, ed a qualsiasi altra circostanza per la quale la legge stabilisca una pena di specie diversa o determini la misura della pena in modo indipendente da quella ordinaria del reato. (242a) (250) (251) (265) (280) (301) (310) (311) (333) (338) (344) (347) (369) (375) (382) ((396)) COMMA ABROGATO DAL D.L. 11 APRILE 1974, N. 99, CONVERTITO CON MODIFICAZIONI DALLA l. 7 GIUGNO 1974, N. 220.",
+    "caratteri": 1341
+  },
+  "note": [
+    {
+      "numero": 139,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 98 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 73, comma 5, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-10-09;309",
+          "data": "1990-10-09",
+          "numero": "309",
+          "data_gazzetta": "1990-10-31"
+        },
+        {
+          "denominazione": "art. 99, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1994-04-28",
+        "numero": "168"
+      },
+      "testo": "La Corte Costituzionale con sentenza 27-28 aprile 1994, n. 168 (in G.U. 1ª s.s. 04/05/1994, n. 19) ha dichiarato \"in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87: a) l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede che nei confronti del minore imputabile sia applicabile la disposizione del primo comma dello stesso articolo 69 in caso di concorso tra la circostanza attenuante di cui all'art. 98 del codice penale e una o piu' circostanze aggravanti che comportano la pena dell'ergastolo, nonche' nella parte in cui prevede che nei confronti del minore stesso siano applicabili le disposizioni del primo e del terzo comma del citato art. 69, in caso di concorso tra la circostanza attenuante di cui all'art. 98 del codice penale e una o piu' circostanze aggravanti che accedono ad un reato per il quale e' prevista la pena base dell'ergastolo\". ------------- AGGIORNAMENTO (242a) La Corte Costituzionale con sentenza 5 - 15 novembre 2012, n. 251 (in G.U. 1ª s.s. 21/11/2012, n. 46) ha dichiarato \"l'illegittimita' costituzionale dell'articolo 69, quarto comma, del codice penale, come sostituito dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 73, comma 5, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309 (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza) sulla recidiva di cui all'art. 99, quarto comma, del codice penale\"."
+    },
+    {
+      "numero": 250,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 648, secondo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2014-04-18",
+        "numero": "105"
+      },
+      "testo": "La Corte Costituzionale con sentenza 14-18 aprile 2014, n. 105 (in G.U. 1ª s.s. 23/04/2014, n. 18) ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, come sostituito dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 648, secondo comma, cod. pen., sulla recidiva di cui all'art. 99, quarto comma, cod. pen\"."
+    },
+    {
+      "numero": 251,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 609-bis, terzo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2014-04-18",
+        "numero": "106"
+      },
+      "testo": "La Corte Costituzionale con sentenza 14-18 aprile 2014, n. 106 (in G.U. 1ª s.s. 23/04/2014, n. 18) ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, come sostituito dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 609-bis, terzo comma, cod. pen., sulla recidiva di cui all'art. 99, quarto comma, cod. pen\"."
+    },
+    {
+      "numero": 265,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 73, comma 7, del d.P.R. 9 ottobre 1990, n. 309",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-10-09;309",
+          "data": "1990-10-09",
+          "numero": "309",
+          "data_gazzetta": "1990-10-31"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2016-04-07",
+        "numero": "74"
+      },
+      "testo": "La Corte Costituzionale con sentenza 24 febbraio-7 aprile 2016, n. 74 (in G.U. 1ª s.s. 13/04/2016, n. 15) ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, come sostituito dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 73, comma 7, del d.P.R. 9 ottobre 1990, n. 309 (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza) sulla recidiva reiterata prevista dall'art. 99, quarto comma, cod. pen\"."
+    },
+    {
+      "numero": 280,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 219, terzo comma, del regio decreto 16 marzo 1942, n. 267",
+          "urn": "urn:nir:stato:regio.decreto:1942-03-16;267",
+          "data": "1942-03-16",
+          "numero": "267",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2017-07-17",
+        "numero": "205"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 21 giugno - 17 luglio 2017, n. 205, (in G.U. 1ª s.s. 19/07/2017, n. 29), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, come sostituito dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 219, terzo comma, del regio decreto 16 marzo 1942, n. 267 (Disciplina del fallimento, del concordato preventivo, dell'amministrazione controllata e della liquidazione coatta amministrativa) sulla recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 301,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 89 cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2020-04-24",
+        "numero": "73"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 7 - 24 aprile 2020, n. 73 (in G.U. 1ª s.s. 29/04/2020, n. 18), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 89 cod. pen. sulla circostanza aggravante della recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 310,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 116, secondo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2021-03-31",
+        "numero": "55"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 25 febbraio - 31 marzo 2021, n. 55 (in G.U. 1ª s.s. 07/04/2021, n. 14), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, come sostituito dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 116, secondo comma, cod. pen., sulla recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 311,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 630 cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2021-07-08",
+        "numero": "143"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 26 maggio - 8 luglio 2021, n. 143 (in G.U. 1ª s.s. 14/07/2021, n. 28), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, come sostituito dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui prevede il divieto di prevalenza della circostanza attenuante del fatto di lieve entita' - introdotta con sentenza n. 68 del 2012 di questa Corte, in relazione al reato di sequestro di persona a scopo di estorsione, di cui all'art. 630 cod. pen.- sulla circostanza aggravante della recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 333,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3 della legge 5 dicembre 2005, n. 251",
+          "urn": "urn:nir:stato:legge:2005-12-05;251",
+          "data": "2005-12-05",
+          "numero": "251",
+          "data_gazzetta": "2005-12-07"
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 26 luglio 1975, n. 354",
+          "urn": "urn:nir:stato:legge:1975-07-26;354",
+          "data": "1975-07-26",
+          "numero": "354",
+          "data_gazzetta": "1975-08-09"
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2023-05-12",
+        "numero": "94"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 18 aprile - 12 maggio 2023, n. 94 (in G.U. 1ª s.s. 17/05/2023, n. 20), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, come modificato dall'art. 3 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui, relativamente ai delitti puniti con la pena edittale dell'ergastolo, prevede il divieto di prevalenza delle circostanze attenuanti sulla recidiva reiterata di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 338,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 62, numero 4), cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2023-07-11",
+        "numero": "141"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 21 giugno - 11 luglio 2023, n. 141 (in G.U. 1ª s.s. 12/07/2023, n. 28), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 62, numero 4), cod. pen. sulla recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 344,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2",
+        "comma 3",
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "1, secondo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 3, comma 3, della legge 15 dicembre 2014, n. 186",
+          "urn": "urn:nir:stato:legge:2014-12-15;186",
+          "data": "2014-12-15",
+          "numero": "186",
+          "data_gazzetta": "2014-12-17"
+        },
+        {
+          "denominazione": "art. 1, comma 1, lettera f), numero 3), del decreto legislativo 8 novembre 2021, n. 195",
+          "urn": "urn:nir:stato:decretoLegislativo:2021-11-08;195",
+          "data": "2021-11-08",
+          "numero": "195",
+          "data_gazzetta": "2021-11-30"
+        },
+        {
+          "denominazione": "direttiva (UE) 2018/1673 del Parlamento europeo e del Consiglio, del 23 ottobre 2018",
+          "urn": null,
+          "data": null,
+          "numero": null,
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2023-10-12",
+        "numero": "188"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 27 settembre - 12 ottobre 2023, n. 188 (in G.U. 1ª s.s. 18/10/2023, n. 42), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 648-ter.1, secondo comma, cod. pen. - nella versione introdotta dall'art. 3, comma 3, della legge 15 dicembre 2014, n. 186 (Disposizioni in materia di emersione e rientro di capitali detenuti all'estero nonche' per il potenziamento della lotta all'evasione fiscale. Disposizioni in materia di autoriciclaggio), e vigente fino alla sua sostituzione a opera dell'art. 1, comma 1, lettera f), numero 3), del decreto legislativo 8 novembre 2021, n. 195, recante «Attuazione della direttiva (UE) 2018/1673 del Parlamento europeo e del Consiglio, del 23 ottobre 2018, sulla lotta al riciclaggio mediante diritto penale» - sulla recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 347,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4",
+        "comma 7"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 74, comma 7, del d.P.R. 9 ottobre 1990, n. 309",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-10-09;309",
+          "data": "1990-10-09",
+          "numero": "309",
+          "data_gazzetta": "1990-10-31"
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2023-11-09",
+        "numero": "201"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 25 ottobre - 9 novembre 2023, n. 201 (in G.U. 1ª s.s. 15/11/2023, n. 46), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede il divieto di prevalenza della circostanza attenuante di cui all'art. 74, comma 7, del d.P.R. 9 ottobre 1990, n. 309 (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza), sulla recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 369,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 625-bis cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-04-22",
+        "numero": "56"
+      },
+      "testo": "La Corte Costituzionale con sentenza 24 marzo - 22 aprile 2025, n. 56 (in G.U. 1ª s.s. 23/4/2025, n. 17) ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui stabilisce il divieto di prevalenza della circostanza attenuante di cui all'art. 625-bis cod. pen. sulla recidiva reiterata prevista dall'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 375,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-07-21",
+        "numero": "117"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 23 giugno - 21 luglio 2025, n. 117 (in G.U. 1ª s.s. 23/7/2025, n. 30), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede il divieto di prevalenza della circostanza attenuante del fatto di lieve entita', introdotta con sentenza n. 86 del 2024 di questa Corte in relazione al delitto di rapina, sulla circostanza aggravante della recidiva reiterata di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 382,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 630 cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 62-bis cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-10-16",
+        "numero": "151"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 22 settembre - 16 ottobre 2025, n. 151 (in G.U. 1ª s.s. 22/10/2025, n. 43), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede, relativamente al reato di sequestro di persona a scopo di estorsione, di cui all'art. 630 cod. pen., il divieto di prevalenza delle circostanze attenuanti generiche, di cui all'art. 62-bis cod. pen., sulla circostanza aggravante della recidiva reiterata di cui all'art. 99, quarto comma, cod. pen.\"."
+    },
+    {
+      "numero": 396,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 69, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2026-05-12",
+        "numero": "72"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 24 febbraio - 12 maggio 2026, n. 72 (in G.U. 1ª s.s. 13/05/2026, n. 19), ha dichiarato \"l'illegittimita' costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui prevede il divieto di prevalenza della circostanza attenuante della riparazione integrale del danno di cui all'art. 62, numero 6), prima parte, cod. pen. sulla recidiva di cui all'art. 99, quarto comma, cod. pen.\"."
+    }
+  ],
+  "impronta": "sha256:c826a165facd8038921a55a363ad8075ad3dc78ed43a871d2ee35d11401f7b1d"
+}

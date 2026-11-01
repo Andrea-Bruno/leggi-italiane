@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2418",
+    "rubrica": "Obblighi e poteri del rappresentante comune",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2418"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il rappresentante comune deve provvedere all'esecuzione delle deliberazioni dell'assemblea degli obbligazionisti, tutelare gli interessi comuni di questi nei rapporti con la societa' e assistere alle operazioni di sorteggio delle obbligazioni. Egli ha diritto di assistere all'assemblea dei soci. Per la tutela degli interessi comuni ha la rappresentanza processuale degli obbligazionisti anche nell'amministrazione controllata, nel concordato preventivo, nel fallimento, nella liquidazione coatta amministrativa e nell'amministrazione straordinaria della societa' debitrice.",
+    "con_marcatori": "Art. 2418. (( (Obblighi e poteri del rappresentante comune).)) ((Il rappresentante comune deve provvedere all'esecuzione delle deliberazioni dell'assemblea degli obbligazionisti, tutelare gli interessi comuni di questi nei rapporti con la societa' e assistere alle operazioni di sorteggio delle obbligazioni. Egli ha diritto di assistere all'assemblea dei soci. Per la tutela degli interessi comuni ha la rappresentanza processuale degli obbligazionisti anche nell'amministrazione controllata, nel concordato preventivo, nel fallimento, nella liquidazione coatta amministrativa e nell'amministrazione straordinaria della societa' debitrice.))",
+    "caratteri": 575
+  },
+  "note": [],
+  "impronta": "sha256:fae96735923c531ec7125dd914999b3281bf136102a208faadcb3571c0eb5364"
+}

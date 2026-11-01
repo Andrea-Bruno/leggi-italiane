@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2407",
+    "rubrica": "Responsabilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2407"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". I sindaci devono adempiere i loro doveri con la professionalita' e la diligenza richieste dalla natura dell'incarico; sono responsabili della verita' delle loro attestazioni e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza per ragione del loro ufficio. Al di fuori delle ipotesi in cui hanno agito con dolo, anche nei casi in cui la revisione legale e' esercitata dal collegio sindacale a norma dell'articolo 2409-bis, secondo comma, i sindaci che violano i propri doveri sono responsabili per i danni cagionati alla societa' che ha conferito l'incarico, ai suoi soci, ai creditori e ai terzi nei limiti di un multiplo del compenso annuo percepito, secondo i seguenti scaglioni: per i compensi fino a 10.000 euro, quindici volte il compenso; per i compensi da 10.000 a 50.000 euro, dodici volte il compenso; per i compensi maggiori di 50.000 euro, dieci volte il compenso. All'azione di responsabilita' contro i sindaci si applicano, in quanto compatibili, le disposizioni degli articoli 2393, 2393-bis, 2394, 2394-bis e 2395. L'azione di responsabilita' verso i sindaci si prescrive nel termine di cinque anni dal deposito della relazione di cui all'articolo 2429 concernente l'esercizio in cui si e' verificato il danno.",
+    "con_marcatori": "Art. 2407. (( (Responsabilita').)). ((I sindaci devono adempiere i loro doveri con la professionalita' e la diligenza richieste dalla natura dell'incarico; sono responsabili della verita' delle loro attestazioni e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza per ragione del loro ufficio. Al di fuori delle ipotesi in cui hanno agito con dolo, anche nei casi in cui la revisione legale e' esercitata dal collegio sindacale a norma dell'articolo 2409-bis, secondo comma, i sindaci che violano i propri doveri sono responsabili per i danni cagionati alla societa' che ha conferito l'incarico, ai suoi soci, ai creditori e ai terzi nei limiti di un multiplo del compenso annuo percepito, secondo i seguenti scaglioni: per i compensi fino a 10.000 euro, quindici volte il compenso; per i compensi da 10.000 a 50.000 euro, dodici volte il compenso; per i compensi maggiori di 50.000 euro, dieci volte il compenso. All'azione di responsabilita' contro i sindaci si applicano, in quanto compatibili, le disposizioni degli articoli 2393, 2393-bis, 2394, 2394-bis e 2395. L'azione di responsabilita' verso i sindaci si prescrive nel termine di cinque anni dal deposito della relazione di cui all'articolo 2429 concernente l'esercizio in cui si e' verificato il danno)).",
+    "caratteri": 1256
+  },
+  "note": [],
+  "impronta": "sha256:99b9be1a76c814e4dc66c320a01f8d43b44d11987ca84789e06b5864df73b2d4"
+}

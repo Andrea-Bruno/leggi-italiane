@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "149",
+    "rubrica": "Scioglimento del matrimonio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art149"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il matrimonio si scioglie con la morte di uno dei coniugi e negli altri casi previsti dalla legge. Gli effetti civili del matrimonio celebrato con rito religioso, ai sensi dell'articolo 82 o dell'articolo 83, e regolarmente trascritto, cessano alla morte di uno dei coniugi e negli altri casi previsti dalla legge.",
+    "con_marcatori": "Art. 149. ((Scioglimento del matrimonio.)) ((Il matrimonio si scioglie con la morte di uno dei coniugi e negli altri casi previsti dalla legge. Gli effetti civili del matrimonio celebrato con rito religioso, ai sensi dell'articolo 82 o dell'articolo 83, e regolarmente trascritto, cessano alla morte di uno dei coniugi e negli altri casi previsti dalla legge)).",
+    "caratteri": 314
+  },
+  "note": [],
+  "impronta": "sha256:20cc2ab2e0250ded41692d6cf00e5ed302356a6f373a34e38b653883b968527f"
+}

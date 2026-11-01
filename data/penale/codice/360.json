@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "360",
+    "rubrica": "Cessazione della qualita' di pubblico ufficiale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art360"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando la legge considera la qualita' di pubblico ufficiale, o di incaricato di un pubblico servizio, o di esercente un servizio di pubblica necessita', come elemento costitutivo o come circostanza aggravante di un reato, la cessazione di tale qualita', nel momento in cui il reato e' commesso, non esclude la esistenza di questo ne' la circostanza aggravante, se il fatto si riferisce all'ufficio o al servizio esercitato.",
+    "con_marcatori": "Art. 360. (Cessazione della qualita' di pubblico ufficiale) Quando la legge considera la qualita' di pubblico ufficiale, o di incaricato di un pubblico servizio, o di esercente un servizio di pubblica necessita', come elemento costitutivo o come circostanza aggravante di un reato, la cessazione di tale qualita', nel momento in cui il reato e' commesso, non esclude la esistenza di questo ne' la circostanza aggravante, se il fatto si riferisce all'ufficio o al servizio esercitato.",
+    "caratteri": 423
+  },
+  "note": [],
+  "impronta": "sha256:8c7db6e014f5125c3eb25c0860f141c2486d4ea75ae4fa5ea81f6c052557868c"
+}

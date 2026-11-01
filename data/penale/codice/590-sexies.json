@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "590-sexies",
+    "rubrica": "Responsabilita' colposa per morte o lesioni personali in ambito sanitario",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art590-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se i fatti di cui agli articoli 589 e 590 sono commessi nell'esercizio della professione sanitaria, si applicano le pene ivi previste salvo quanto disposto dal secondo comma. Qualora l'evento si sia verificato a causa di imperizia, la punibilita' e' esclusa quando sono rispettate le raccomandazioni previste dalle linee guida come definite e pubblicate ai sensi di legge ovvero, in mancanza di queste, le buone pratiche clinico-assistenziali, sempre che le raccomandazioni previste dalle predette linee guida risultino adeguate alle specificita' del caso concreto.",
+    "con_marcatori": "Art. 590-sexies. (( (Responsabilita' colposa per morte o lesioni personali in ambito sanitario).)) ((Se i fatti di cui agli articoli 589 e 590 sono commessi nell'esercizio della professione sanitaria, si applicano le pene ivi previste salvo quanto disposto dal secondo comma. Qualora l'evento si sia verificato a causa di imperizia, la punibilita' e' esclusa quando sono rispettate le raccomandazioni previste dalle linee guida come definite e pubblicate ai sensi di legge ovvero, in mancanza di queste, le buone pratiche clinico-assistenziali, sempre che le raccomandazioni previste dalle predette linee guida risultino adeguate alle specificita' del caso concreto)).",
+    "caratteri": 565
+  },
+  "note": [],
+  "impronta": "sha256:1024fe050910b56dadc5b08d6aabb3e0b2b0b8f3753feb1977d7f1c876dce238"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "999",
+    "rubrica": "Locazioni concluse dall'usufruttuario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art999"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le locazioni concluse dall'usufruttuario, in corso al tempo della cessazione dell'usufrutto, purche' constino da atto pubblico o da scrittura privata di data certa anteriore, continuano per la durata stabilita, ma non oltre il quinquennio dalla cessazione dell'usufrutto. Se la cessazione dell'usufrutto avviene per la scadenza del termine stabilito, le locazioni non durano in ogni caso se non per l'anno, e, trattandosi di fondi rustici dei quali il principale raccolto e' biennale o triennale, se non per il biennio o triennio che si trova in corso al tempo in cui cessa l'usufrutto.",
+    "con_marcatori": "Art. 999. (Locazioni concluse dall'usufruttuario). Le locazioni concluse dall'usufruttuario, in corso al tempo della cessazione dell'usufrutto, purche' constino da atto pubblico o da scrittura privata di data certa anteriore, continuano per la durata stabilita, ma non oltre il quinquennio dalla cessazione dell'usufrutto. Se la cessazione dell'usufrutto avviene per la scadenza del termine stabilito, le locazioni non durano in ogni caso se non per l'anno, e, trattandosi di fondi rustici dei quali il principale raccolto e' biennale o triennale, se non per il biennio o triennio che si trova in corso al tempo in cui cessa l'usufrutto.",
+    "caratteri": 586
+  },
+  "note": [],
+  "impronta": "sha256:3807f204105feea5a375c1d01034224a225f39afa899048c5b53e656c071fa3e"
+}

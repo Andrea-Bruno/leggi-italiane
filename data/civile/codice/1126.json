@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1126",
+    "rubrica": "Lastrici solari di uso esclusivo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1126"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando l'uso dei lastrici solari o di una parte di essi non e' comune a tutti i condomini, quelli che ne hanno l'uso esclusivo sono tenuti a contribuire per un terzo nella spesa delle riparazioni o ricostruzioni del lastrico: gli altri due terzi sono a carico di tutti i condomini dell'edificio o della parte di questo a cui il lastrico solare serve, in proporzione del valore del piano o della porzione di piano di ciascuno.",
+    "con_marcatori": "Art. 1126. (Lastrici solari di uso esclusivo). Quando l'uso dei lastrici solari o di una parte di essi non e' comune a tutti i condomini, quelli che ne hanno l'uso esclusivo sono tenuti a contribuire per un terzo nella spesa delle riparazioni o ricostruzioni del lastrico: gli altri due terzi sono a carico di tutti i condomini dell'edificio o della parte di questo a cui il lastrico solare serve, in proporzione del valore del piano o della porzione di piano di ciascuno.",
+    "caratteri": 425
+  },
+  "note": [],
+  "impronta": "sha256:61db6b85d795f4abbc82d9542abbc01dc8a2ef235d2a550146f1a7e15159813d"
+}

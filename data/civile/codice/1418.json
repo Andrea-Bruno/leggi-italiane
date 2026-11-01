@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1418",
+    "rubrica": "Cause di nullita' del contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1418"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto e' nullo quando e' contrario a norme imperative, salvo che la legge disponga diversamente. Producono nullita' del contratto la mancanza di uno dei requisiti indicati dall'art. 1325, l'illiceita' della causa, l'illiceita' dei motivi nel caso indicato dall'art. 1345 e la mancanza nell'oggetto dei requisiti stabiliti dall'art. 1346. Il contratto e' altresi' nullo negli altri casi stabiliti dalla legge.",
+    "con_marcatori": "Art. 1418. (Cause di nullita' del contratto). Il contratto e' nullo quando e' contrario a norme imperative, salvo che la legge disponga diversamente. Producono nullita' del contratto la mancanza di uno dei requisiti indicati dall'art. 1325, l'illiceita' della causa, l'illiceita' dei motivi nel caso indicato dall'art. 1345 e la mancanza nell'oggetto dei requisiti stabiliti dall'art. 1346. Il contratto e' altresi' nullo negli altri casi stabiliti dalla legge.",
+    "caratteri": 415
+  },
+  "note": [],
+  "impronta": "sha256:8635a55e15bfcd7a55e27044405506407040b72f1f7301695e4f128d7f3aa2d5"
+}

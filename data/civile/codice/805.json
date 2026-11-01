@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "805",
+    "rubrica": "Donazioni irrevocabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art805"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non possono revocarsi per causa d'ingratitudine, ne' per sopravvenienza di figli, le donazioni rimuneratorie e quelle fatte in riguardo di un determinato matrimonio.",
+    "con_marcatori": "Art. 805. (Donazioni irrevocabili). Non possono revocarsi per causa d'ingratitudine, ne' per sopravvenienza di figli, le donazioni rimuneratorie e quelle fatte in riguardo di un determinato matrimonio.",
+    "caratteri": 165
+  },
+  "note": [],
+  "impronta": "sha256:bfcd437ae2c75aa8e8663fb5cf31188fe21f0f9456122d55bb494e43ab73c3b3"
+}

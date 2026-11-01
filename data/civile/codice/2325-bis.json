@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2325-bis",
+    "rubrica": "Societa' che fanno ricorso al mercato del capitale di rischio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2325-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ai fini dell'applicazione del presente titolo, sono societa' che fanno ricorso al mercato del capitale di rischio le societa' con azioni quotate in mercati regolamentati o diffuse fra il pubblico in misura rilevante. Le norme di questo titolo si applicano alle societa' con azioni quotate in mercati regolamentati in quanto non sia diversamente disposto da altre norme di questo codice o di leggi speciali.",
+    "con_marcatori": "Art. 2325-bis (Societa' che fanno ricorso al mercato del capitale di rischio). Ai fini dell'applicazione del presente ((titolo)), sono societa' che fanno ricorso al mercato del capitale di rischio le societa' con azioni quotate in mercati regolamentati o diffuse fra il pubblico in misura rilevante. ((Le norme di questo titolo si applicano alle societa' con azioni)) quotate in mercati regolamentati in quanto non sia diversamente disposto da altre norme di questo codice o di leggi speciali.",
+    "caratteri": 406
+  },
+  "note": [],
+  "impronta": "sha256:c967855ffadc77c321ae939aa16a41d04e87da2dbe1d8c1b917a2e601c04f7a5"
+}

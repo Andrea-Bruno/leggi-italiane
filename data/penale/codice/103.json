@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "103",
+    "rubrica": "Abitualita' ritenuta dal giudice",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art103"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori del caso indicato nell'articolo precedente, la dichiarazione di abitualita' nel delitto e' pronunciata anche contro chi, dopo essere stato condannato per due delitti non colposi, riporta un'altra condanna per delitto non colposo, se il giudice, tenuto conto della specie e gravita' dei reati, del tempo entro il quale sono stati commessi, della condotta e del genere di vita del colpevole e delle altre circostanze indicate nel capoverso dell'articolo 133, ritiene che il colpevole sia dedito al delitto.",
+    "con_marcatori": "Art. 103. (Abitualita' ritenuta dal giudice) Fuori del caso indicato nell'articolo precedente, la dichiarazione di abitualita' nel delitto e' pronunciata anche contro chi, dopo essere stato condannato per due delitti non colposi, riporta un'altra condanna per delitto non colposo, se il giudice, tenuto conto della specie e gravita' dei reati, del tempo entro il quale sono stati commessi, della condotta e del genere di vita del colpevole e delle altre circostanze indicate nel capoverso dell'articolo 133, ritiene che il colpevole sia dedito al delitto.",
+    "caratteri": 510
+  },
+  "note": [],
+  "impronta": "sha256:698460ab570c154511233bf12a23447b780ad178432057f6649719dd0a003643"
+}

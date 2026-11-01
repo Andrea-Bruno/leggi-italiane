@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1326",
+    "rubrica": "Conclusione del contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1326"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto e' concluso nel momento in cui chi ha fatto la proposta ha conoscenza dell'accettazione dell'altra parte. L'accettazione deve giungere al proponente nel termine da lui stabilito o in quello ordinariamente necessario secondo la natura dell'affare o secondo gli usi. Il proponente puo' ritenere efficace l'accettazione tardiva, purche' ne dia immediatamente avviso all'altra parte. Qualora il proponente richieda per l'accettazione una forma determinata, l'accettazione non ha effetto se e' data in forma diversa. Un'accettazione non conforme alla proposta equivale a nuova proposta.",
+    "con_marcatori": "Art. 1326. (Conclusione del contratto). Il contratto e' concluso nel momento in cui chi ha fatto la proposta ha conoscenza dell'accettazione dell'altra parte. L'accettazione deve giungere al proponente nel termine da lui stabilito o in quello ordinariamente necessario secondo la natura dell'affare o secondo gli usi. Il proponente puo' ritenere efficace l'accettazione tardiva, purche' ne dia immediatamente avviso all'altra parte. Qualora il proponente richieda per l'accettazione una forma determinata, l'accettazione non ha effetto se e' data in forma diversa. Un'accettazione non conforme alla proposta equivale a nuova proposta.",
+    "caratteri": 594
+  },
+  "note": [],
+  "impronta": "sha256:5ac8bfe89e0d73e318065c9bb25a1c6b7f9f305254f17f5f195adc7b8d84deb6"
+}

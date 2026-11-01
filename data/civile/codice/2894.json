@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2894",
+    "rubrica": "Effetti del mancato deposito del prezzo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2894"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il terzo acquirente non deposita il prezzo entro il termine stabilito dall'art. 792 del codice di procedura civile, la richiesta di liberazione del bene dalle ipoteche rimane senza effetto, salva la responsabilita' del richiedente per i danni verso i creditori iscritti.",
+    "con_marcatori": "Art. 2894. (Effetti del mancato deposito del prezzo). Se il terzo acquirente non deposita il prezzo entro il termine stabilito dall'art. 792 del codice di procedura civile, la richiesta di liberazione del bene dalle ipoteche rimane senza effetto, salva la responsabilita' del richiedente per i danni verso i creditori iscritti.",
+    "caratteri": 273
+  },
+  "note": [],
+  "impronta": "sha256:9407eb80b3d1ad5f50a3d5080bd9b166a8b3ccf521e9af5347683c45ee1c272e"
+}

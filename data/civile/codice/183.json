@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "183",
+    "rubrica": "Esclusione dall'amministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art183"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se uno dei coniugi e' minore o non puo' amministrare ovvero se ha male amministrato, l'altro coniuge puo' chiedere al giudice di escluderlo dall'amministrazione. Il coniuge privato dell'amministrazione puo' chiedere al giudice di esservi reintegrato, se sono venuti meno i motivi che hanno determinato l'esclusione. La esclusione opera di diritto riguardo al coniuge interdetto e permane sino a quando non sia cessato lo stato di interdizione.",
+    "con_marcatori": "Art. 183. ((Esclusione dall'amministrazione.)) ((Se uno dei coniugi e' minore o non puo' amministrare ovvero se ha male amministrato, l'altro coniuge puo' chiedere al giudice di escluderlo dall'amministrazione. Il coniuge privato dell'amministrazione puo' chiedere al giudice di esservi reintegrato, se sono venuti meno i motivi che hanno determinato l'esclusione. La esclusione opera di diritto riguardo al coniuge interdetto e permane sino a quando non sia cessato lo stato di interdizione)).",
+    "caratteri": 443
+  },
+  "note": [],
+  "impronta": "sha256:fa6a5087b82deb8a0d7e333626c8b2a4e67cf59fa43d4c971e3fe04112a9d070"
+}

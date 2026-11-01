@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2939",
+    "rubrica": "Opponibilita' della prescrizione da parte dei terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2939"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La prescrizione puo' essere opposta dai creditori e da chiunque vi ha interesse, qualora la parte non la faccia valere. Puo' essere opposta anche se la parte vi ha rinunziato.",
+    "con_marcatori": "Art. 2939. (Opponibilita' della prescrizione da parte dei terzi). La prescrizione puo' essere opposta dai creditori e da chiunque vi ha interesse, qualora la parte non la faccia valere. Puo' essere opposta anche se la parte vi ha rinunziato.",
+    "caratteri": 175
+  },
+  "note": [],
+  "impronta": "sha256:70d610f825834f0c1d5e1d07fb5bec58ee91b543fefa2b7a7481c9522592d95f"
+}

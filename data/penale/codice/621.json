@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "621",
+    "rubrica": "Rivelazione del contenuto di documenti segreti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art621"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, essendo venuto abusivamente a cognizione del contenuto, che debba rimanere segreto, di altrui atti o documenti, pubblici o privati, non costituenti corrispondenza, lo rivela, senza giusta causa, ovvero lo impiega a proprio o altrui profitto, e' punito, se dal fatto deriva nocumento, con la reclusione fino a tre anni o con la multa da lire mille a diecimila. Agli effetti della disposizione di cui al primo comma e' considerato documento anche qualunque supporto informatico contenente dati, informazioni o programmi. Il delitto e' punibile a querela della persona offesa.",
+    "con_marcatori": "Art. 621. (Rivelazione del contenuto di documenti segreti) Chiunque, essendo venuto abusivamente a cognizione del contenuto, che debba rimanere segreto, di altrui atti o documenti, pubblici o privati, non costituenti corrispondenza, lo rivela, senza giusta causa, ovvero lo impiega a proprio o altrui profitto, e' punito, se dal fatto deriva nocumento, con la reclusione fino a tre anni o con la multa da lire mille a diecimila. ((Agli effetti della disposizione di cui al primo comma e' considerato documento anche qualunque supporto informatico contenente dati, informazioni o programmi)). Il delitto e' punibile a querela della persona offesa.",
+    "caratteri": 583
+  },
+  "note": [],
+  "impronta": "sha256:adedee84854bb50fd9b1d2f4ea813fcb9dd32ca16abad41a74204ebf671dfa86"
+}

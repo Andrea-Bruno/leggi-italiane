@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1299",
+    "rubrica": "Regresso tra condebitori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1299"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il debitore in solido che ha pagato l'intero debito puo' ripetere dai condebitori soltanto la parte di ciascuno di essi. Se uno di questi e' insolvente, la perdita si ripartisce per contributo tra gli altri condebitori, compreso quello che ha fatto il pagamento. La stessa norma si applica qualora sia insolvente il condebitore nel cui esclusivo interesse l'obbligazione era stata assunta.",
+    "con_marcatori": "Art. 1299. (Regresso tra condebitori). Il debitore in solido che ha pagato l'intero debito puo' ripetere dai condebitori soltanto la parte di ciascuno di essi. Se uno di questi e' insolvente, la perdita si ripartisce per contributo tra gli altri condebitori, compreso quello che ha fatto il pagamento. La stessa norma si applica qualora sia insolvente il condebitore nel cui esclusivo interesse l'obbligazione era stata assunta.",
+    "caratteri": 389
+  },
+  "note": [],
+  "impronta": "sha256:757d789708a180562b487b383370fa5434553f82f435edb2badf34c671aa252c"
+}

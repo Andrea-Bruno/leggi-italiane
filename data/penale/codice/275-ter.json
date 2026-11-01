@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "275-ter",
+    "rubrica": "Violazione di obblighi informativi imposti da una misura restrittiva dell'Unione europea",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art275-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". E' punito con la reclusione da sei mesi a due anni e con la multa da euro 15.000 a euro 50.000 la persona designata o il legale rappresentante dell'entita' od organismo designati, che, in violazione di uno specifico obbligo imposto da una misura restrittiva dell'Unione europea o da una disposizione di legge nazionale che attua una misura restrittiva dell'Unione europea, omette di segnalare alle autorita' amministrative competenti i fondi o le risorse economiche su cui, nel territorio dello Stato, esercita il diritto di proprieta' o il controllo o di cui ha, nel territorio dello Stato, il possesso o la detenzione.. La stessa pena di cui al primo comma si applica a chiunque, in violazione dell'obbligo imposto da una misura restrittiva dell'Unione europea o da una disposizione di legge nazionale che attua una misura restrittiva dell'Unione europea, omette di fornire alle autorita' amministrative competenti informazioni, di cui e' a conoscenza per ragione del proprio ufficio o della propria professione, riguardanti fondi o risorse economiche presenti nel territorio dello Stato che appartengono a persone, entita' o organismi o gruppi designati o sono da questi possedute o detenute o controllate.. Quando i fondi o le risorse economiche hanno, al momento del fatto, un valore inferiore a 10.000 euro, si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da euro 5.000 a euro 45.000.. Ai fini della determinazione del valore indicato al terzo comma, si tiene conto delle operazioni di minore importo quando esecutive del medesimo disegno economico.",
+    "con_marcatori": "Art. 275-ter. (( (Violazione di obblighi informativi imposti da una misura restrittiva dell'Unione europea). )). ((E' punito con la reclusione da sei mesi a due anni e con la multa da euro 15.000 a euro 50.000 la persona designata o il legale rappresentante dell'entita' od organismo designati, che, in violazione di uno specifico obbligo imposto da una misura restrittiva dell'Unione europea o da una disposizione di legge nazionale che attua una misura restrittiva dell'Unione europea, omette di segnalare alle autorita' amministrative competenti i fondi o le risorse economiche su cui, nel territorio dello Stato, esercita il diritto di proprieta' o il controllo o di cui ha, nel territorio dello Stato, il possesso o la detenzione.)). ((La stessa pena di cui al primo comma si applica a chiunque, in violazione dell'obbligo imposto da una misura restrittiva dell'Unione europea o da una disposizione di legge nazionale che attua una misura restrittiva dell'Unione europea, omette di fornire alle autorita' amministrative competenti informazioni, di cui e' a conoscenza per ragione del proprio ufficio o della propria professione, riguardanti fondi o risorse economiche presenti nel territorio dello Stato che appartengono a persone, entita' o organismi o gruppi designati o sono da questi possedute o detenute o controllate.)). ((Quando i fondi o le risorse economiche hanno, al momento del fatto, un valore inferiore a 10.000 euro, si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da euro 5.000 a euro 45.000.)). ((Ai fini della determinazione del valore indicato al terzo comma, si tiene conto delle operazioni di minore importo quando esecutive del medesimo disegno economico.))",
+    "caratteri": 1593
+  },
+  "note": [],
+  "impronta": "sha256:5fa81e3a91c6a01ba37a45df647bd6f27c454451d9d789b86673c61f3eee5d91"
+}

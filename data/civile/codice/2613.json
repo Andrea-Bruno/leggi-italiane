@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2613",
+    "rubrica": "Rappresentanza in giudizio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2613"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I consorzi possono essere convenuti in giudizio in persona di coloro ai quali il contratto attribuisce la presidenza o la direzione, anche se la rappresentanza e' attribuita ad altre persone.",
+    "con_marcatori": "Art. 2613. (Rappresentanza in giudizio). I consorzi possono essere convenuti in giudizio in persona di coloro ai quali il contratto attribuisce la presidenza o la direzione, anche se la rappresentanza e' attribuita ad altre persone.",
+    "caratteri": 191
+  },
+  "note": [],
+  "impronta": "sha256:ce3045c6bbe465fc7f68050fef8373b0a021702e27497df262991b91d24edcf7"
+}

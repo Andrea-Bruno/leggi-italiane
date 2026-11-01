@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1687",
+    "rubrica": "Riconsegna delle merci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1687"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il vettore deve mettere le cose trasportate a disposizione del destinatario nel luogo, nel termine e con le modalita' indicati dal contratto o, in mancanza, dagli usi. Se la riconsegna non deve eseguirsi presso il destinatario, il vettore deve dargli prontamente avviso dell'arrivo delle cose trasportate. Se dal mittente e' stata rilasciata una lettera di vettura, il vettore deve esibirla al destinatario.",
+    "con_marcatori": "Art. 1687. (Riconsegna delle merci). Il vettore deve mettere le cose trasportate a disposizione del destinatario nel luogo, nel termine e con le modalita' indicati dal contratto o, in mancanza, dagli usi. Se la riconsegna non deve eseguirsi presso il destinatario, il vettore deve dargli prontamente avviso dell'arrivo delle cose trasportate. Se dal mittente e' stata rilasciata una lettera di vettura, il vettore deve esibirla al destinatario.",
+    "caratteri": 407
+  },
+  "note": [],
+  "impronta": "sha256:4b1ea10586e110e8d9de84e05da767bd94cc9f7712a09a404989a7888de7b675"
+}

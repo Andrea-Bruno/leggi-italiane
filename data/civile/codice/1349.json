@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1349",
+    "rubrica": "Determinazione dell'oggetto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1349"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la determinazione della prestazione dedotta in contratto e' deferita a un terzo e non risulta che le parti vollero rimettersi al suo mero arbitrio, il terzo deve procedere con equo apprezzamento. Se manca la determinazione del terzo o se questa e' manifestamente iniqua o erronea, la determinazione e' fatta dal giudice. La determinazione rimessa al mero arbitrio del terzo non si puo' impugnare se non provando la sua mala fede. Se manca la determinazione del terzo e le parti non si accordano per sostituirlo, il contratto e' nullo. Nel determinare la prestazione il terzo deve tener conto anche delle condizioni generali della produzione a cui il contratto eventualmente abbia riferimento.",
+    "con_marcatori": "Art. 1349. (Determinazione dell'oggetto). Se la determinazione della prestazione dedotta in contratto e' deferita a un terzo e non risulta che le parti vollero rimettersi al suo mero arbitrio, il terzo deve procedere con equo apprezzamento. Se manca la determinazione del terzo o se questa e' manifestamente iniqua o erronea, la determinazione e' fatta dal giudice. La determinazione rimessa al mero arbitrio del terzo non si puo' impugnare se non provando la sua mala fede. Se manca la determinazione del terzo e le parti non si accordano per sostituirlo, il contratto e' nullo. Nel determinare la prestazione il terzo deve tener conto anche delle condizioni generali della produzione a cui il contratto eventualmente abbia riferimento.",
+    "caratteri": 695
+  },
+  "note": [],
+  "impronta": "sha256:3f9f94dd6bda3e839ea1890a3a499d4970dc74f4d6c2d81f99a278cd57cbe6bc"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2343-bis",
+    "rubrica": "Acquisto della societa' da promotori, fondatori, soci e amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2343-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'acquisto da parte della societa', per un corrispettivo pari o superiore al decimo del capitale sociale, di beni o di crediti dei promotori, dei fondatori, dei soci o degli amministratori, nei due anni dalla iscrizione della societa' nel registro delle imprese, deve essere autorizzato dall'assemblea ordinaria. L'alienante deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa' ovvero la documentazione di cui all'articolo 2343-ter primo e secondo comma contenente la descrizione dei beni o dei crediti, il valore a ciascuno di essi attribuito, i criteri di valutazione seguiti, nonche' l'attestazione che tale valore non e' inferiore al corrispettivo, che deve comunque essere indicato. La relazione deve essere depositata nella sede della societa' durante i quindici giorni che precedono l'assemblea. I soci possono prenderne visione. Entro trenta giorni dall'autorizzazione il verbale dell'assemblea, corredato dalla relazione dell'esperto designato dal tribunale ovvero dalla documentazione di cui all'articolo 2343-ter, deve essere depositato a cura degli amministratori presso l'ufficio del registro delle imprese. Le disposizioni del presente articolo non si applicano agli acquisti che siano effettuati a condizioni normali nell'ambito delle operazioni correnti della societa' ne' a quelli che avvengono nei mercati regolamentati o sotto il controllo dell'autorita' giudiziaria o amministrativa. In caso di violazione delle disposizioni del presente articolo gli amministratori e l'alienante sono solidalmente responsabili per i danni causati alla societa', ai soci ed ai terzi.",
+    "con_marcatori": "Art. 2343-bis. (Acquisto della societa' da promotori, fondatori, soci e amministratori). L'acquisto da parte della societa', per un corrispettivo pari o superiore al decimo del capitale sociale, di beni o di crediti dei promotori, dei fondatori, dei soci o degli amministratori, nei due anni dalla iscrizione della societa' nel registro delle imprese, deve essere autorizzato dall'assemblea ordinaria. L'alienante deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa' ((ovvero la documentazione di cui all'articolo 2343-ter primo e secondo comma)) contenente la descrizione dei beni o dei crediti, il valore a ciascuno di essi attribuito, i criteri di valutazione seguiti, nonche' l'attestazione che tale valore non e' inferiore al corrispettivo, che deve comunque essere indicato. La relazione deve essere depositata nella sede della societa' durante i quindici giorni che precedono l'assemblea. I soci possono prenderne visione. Entro trenta giorni dall'autorizzazione il verbale dell'assemblea, corredato dalla relazione dell'esperto designato dal tribunale ((ovvero dalla documentazione di cui all'articolo 2343-ter)), deve essere depositato a cura degli amministratori presso l'ufficio del registro delle imprese. Le disposizioni del presente articolo non si applicano agli acquisti che siano effettuati a condizioni normali nell'ambito delle operazioni correnti della societa' ne' a quelli che avvengono nei mercati regolamentati o sotto il controllo dell'autorita' giudiziaria o amministrativa. In caso di violazione delle disposizioni del presente articolo gli amministratori e l'alienante sono solidalmente responsabili per i danni causati alla societa', ai soci ed ai terzi.",
+    "caratteri": 1648
+  },
+  "note": [],
+  "impronta": "sha256:ff40c18d5a17b8442e527fa911983791a98f3b4902b387fdbd7589fe8887df69"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1921",
+    "rubrica": "Revoca del beneficio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1921"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La designazione del beneficiario e' revocabile con le forme con le quali puo' essere fatta a norma dell'articolo precedente. La revoca non puo' tuttavia farsi dagli eredi dopo la morte del contraente, ne' dopo che, verificatosi l'evento, il beneficiario ha dichiarato di voler profittare del beneficio. Se il contraente ha rinunziato per iscritto al potere di revoca, questa non ha effetto dopo che il beneficiario ha dichiarato al contraente di voler profittare del beneficio. La rinuncia del contraente e la dichiarazione del beneficiario devono essere comunicate per iscritto all'assicuratore.",
+    "con_marcatori": "Art. 1921. (Revoca del beneficio). La designazione del beneficiario e' revocabile con le forme con le quali puo' essere fatta a norma dell'articolo precedente. La revoca non puo' tuttavia farsi dagli eredi dopo la morte del contraente, ne' dopo che, verificatosi l'evento, il beneficiario ha dichiarato di voler profittare del beneficio. Se il contraente ha rinunziato per iscritto al potere di revoca, questa non ha effetto dopo che il beneficiario ha dichiarato al contraente di voler profittare del beneficio. La rinuncia del contraente e la dichiarazione del beneficiario devono essere comunicate per iscritto all'assicuratore.",
+    "caratteri": 596
+  },
+  "note": [],
+  "impronta": "sha256:4a309ea688d1fd18e1a5910f9d09362e0c5ad5d1d6816162f2ac918bd3bd67c3"
+}

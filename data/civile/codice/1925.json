@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1925",
+    "rubrica": "Riscatto e riduzione della polizza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1925"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le polizze di assicurazione devono regolare i diritti di riscatto e di riduzione della somma assicurata, in modo tale che l'assicurato sia in grado, in ogni momento, di conoscere quale sarebbe il valore di riscatto o di riduzione dell'assicurazione.",
+    "con_marcatori": "Art. 1925. (Riscatto e riduzione della polizza). Le polizze di assicurazione devono regolare i diritti di riscatto e di riduzione della somma assicurata, in modo tale che l'assicurato sia in grado, in ogni momento, di conoscere quale sarebbe il valore di riscatto o di riduzione dell'assicurazione.",
+    "caratteri": 249
+  },
+  "note": [],
+  "impronta": "sha256:343d2be07c7596dfe6df7a65fadf28be9a3f13395ead01f1b931bbdbd1c77400"
+}

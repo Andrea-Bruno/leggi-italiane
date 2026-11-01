@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "166",
+    "rubrica": "Capacita' dell'inabilitato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art166"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per la validita' delle stipulazioni e delle donazioni, fatte nel contratto di matrimonio dall'inabilitato o da colui contro il quale e' stato promosso giudizio di inabilitazione, e' necessaria l'assistenza del curatore gia' nominato. Se questi non e' stato ancora nominato, si provvede alla nomina di un curatore speciale.",
+    "con_marcatori": "Art. 166. (Capacita' dell'inabilitato). Per la validita' delle stipulazioni e delle donazioni, fatte nel contratto di matrimonio dall'inabilitato o da colui contro il quale e' stato promosso giudizio di inabilitazione, e' necessaria l'assistenza del curatore gia' nominato. Se questi non e' stato ancora nominato, si provvede alla nomina di un curatore speciale.",
+    "caratteri": 322
+  },
+  "note": [],
+  "impronta": "sha256:7c6f3e00f80af3af9f67a99da87b65879a7fa785ce2ac3cb22ef104f2c2bb5f1"
+}

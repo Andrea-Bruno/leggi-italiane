@@ -1,0 +1,101 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "162",
+    "rubrica": "Oblazione nelle contravvenzioni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art162"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle contravvenzioni, per le quali la legge stabilisce la sola pena dell'ammenda, il contravventore e' ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla terza parte del massimo della pena stabilita dalla legge per la contravvenzione commessa, oltre le spese del procedimento. Il pagamento estingue il reato.",
+    "con_marcatori": "Art. 162. (Oblazione nelle contravvenzioni) Nelle contravvenzioni, per le quali la legge stabilisce la sola pena dell'ammenda, il contravventore e' ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla terza parte del massimo della pena stabilita dalla legge per la contravvenzione commessa, oltre le spese del procedimento. ((25)) Il pagamento estingue il reato.",
+    "caratteri": 382
+  },
+  "note": [
+    {
+      "numero": 25,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 24 giugno 1961, n. 510",
+          "urn": "urn:nir:stato:decretoLegge:1961-06-24;510",
+          "data": "1961-06-24",
+          "numero": "510",
+          "data_gazzetta": "1961-06-28"
+        },
+        {
+          "denominazione": "L. 28 luglio 1961, n. 769",
+          "urn": "urn:nir:stato:legge:1961-07-28;769",
+          "data": "1961-07-28",
+          "numero": "769",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articoli 162 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 7 gennaio 1929, n. 4",
+          "urn": "urn:nir:stato:legge:1929-01-07;4",
+          "data": "1929-01-07",
+          "numero": "4",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto-legge 30 ottobre 1952, n. 1323",
+          "urn": "urn:nir:stato:decretoLegge:1952-10-30;1323",
+          "data": "1952-10-30",
+          "numero": "1323",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 20 dicembre 1952, n. 2385",
+          "urn": "urn:nir:stato:legge:1952-12-20;2385",
+          "data": "1952-12-20",
+          "numero": "2385",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto del Presidente della Repubblica 11 luglio 1953, n. 495",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1953-07-11;495",
+          "data": "1953-07-11",
+          "numero": "495",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 24 giugno 1961, n. 510, convertito con modificazioni dalla L. 28 luglio 1961, n. 769, ha disposto (con l'art. 22, comma 1) che \"In deroga agli articoli 162 del Codice penale e 21 della legge 7 gennaio 1929, n. 4, per le violazioni delle norme del decreto-legge 30 ottobre 1952, n. 1323, convertito, con modificazioni, nella legge 20 dicembre 1952, n. 2385, del decreto del Presidente della Repubblica 11 luglio 1953, n. 495, nonche' del presente decreto, costituenti delitti punibili con la sola multa, l'Intendente di finanza, su apposita istanza, puo' consentire che il trasgressore effettui il pagamento, oltre che del tributo dovuto, di una somma non inferiore al doppio e non superiore al decuplo del tributo stesso\"."
+    }
+  ],
+  "impronta": "sha256:f1900d63da8309b98c88fd04118d18955dce6f58dfca760be6f1f50e98dedd3d"
+}

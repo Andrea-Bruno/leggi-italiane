@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2861",
+    "rubrica": "Termine ed esecuzione del rilascio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2861"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il rilascio dei beni ipotecati si esegue con dichiarazione alla cancelleria del tribunale competente per l'espropriazione. La dichiarazione deve essere fatta non oltre i dieci giorni dalla data del pignoramento. Il certificato della cancelleria attestante la dichiarazione deve, a cura del terzo, essere annotato in margine alla trascrizione dell'atto di pignoramento e deve essere notificato, entro cinque giorni dalla sua data, al creditore procedente. Sull'istanza di questo o di qualunque altro interessato, il tribunale provvede alla nomina di un amministratore, in confronto del quale prosegue il processo di espropriazione. Il terzo rimane responsabile della custodia dell'immobile fino alla consegna all'amministratore.",
+    "con_marcatori": "Art. 2861. (Termine ed esecuzione del rilascio). Il rilascio dei beni ipotecati si esegue con dichiarazione alla cancelleria del tribunale competente per l'espropriazione. La dichiarazione deve essere fatta non oltre i dieci giorni dalla data del pignoramento. Il certificato della cancelleria attestante la dichiarazione deve, a cura del terzo, essere annotato in margine alla trascrizione dell'atto di pignoramento e deve essere notificato, entro cinque giorni dalla sua data, al creditore procedente. Sull'istanza di questo o di qualunque altro interessato, il tribunale provvede alla nomina di un amministratore, in confronto del quale prosegue il processo di espropriazione. Il terzo rimane responsabile della custodia dell'immobile fino alla consegna all'amministratore.",
+    "caratteri": 727
+  },
+  "note": [],
+  "impronta": "sha256:b01cc2464b511694690162d56b4b9e346b50565a7f48bc5ed61269d7b1bba662"
+}

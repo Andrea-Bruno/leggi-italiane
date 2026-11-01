@@ -1,0 +1,139 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1159-bis",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1159-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Usucapione speciale per la piccola proprieta' rurale. La proprieta' dei fondi rustici con annessi fabbricati situati in comuni classificati montani dalla legge si acquista in virtu' del possesso continuato per quindici anni. Colui che acquista in buona fede da chi non e' proprietario, in forza di un titolo che sia idoneo a trasferire la proprieta' e che sia debitamente trascritto, un fondo rustico con annessi fabbricati, situati in comuni classificati montani dalla legge, ne compie l'usucapione in suo favore col decorso di cinque anni dalla data di trascrizione. La legge speciale stabilisce la procedura, le modalita' e le agevolazioni per la regolarizzazione del titolo di proprieta'. Le disposizioni di cui ai commi precedenti si applicano anche ai fondi rustici con annessi fabbricati, situati in comuni non classificati montani dalla legge, aventi un reddito non superiore ai limiti fissati dalla legge speciale.",
+    "con_marcatori": "Art. 1159. Usucapione speciale per la piccola proprieta' rurale. La proprieta' dei fondi rustici con annessi fabbricati situati in comuni classificati montani dalla legge si acquista in virtu' del possesso continuato per quindici anni. Colui che acquista in buona fede da chi non e' proprietario, in forza di un titolo che sia idoneo a trasferire la proprieta' e che sia debitamente trascritto, un fondo rustico con annessi fabbricati, situati in comuni classificati montani dalla legge, ne compie l'usucapione in suo favore col decorso di cinque anni dalla data di trascrizione. La legge speciale stabilisce la procedura, le modalita' e le agevolazioni per la regolarizzazione del titolo di proprieta'. Le disposizioni di cui ai commi precedenti si applicano anche ai fondi rustici con annessi fabbricati, situati in comuni non classificati montani dalla legge, aventi un reddito non superiore ai limiti fissati dalla legge speciale.(43)((96))",
+    "caratteri": 923
+  },
+  "note": [
+    {
+      "numero": 43,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 10 maggio 1976, n. 346",
+          "urn": "urn:nir:stato:legge:1976-05-10;346",
+          "data": "1976-05-10",
+          "numero": "346",
+          "data_gazzetta": "1976-06-03"
+        },
+        {
+          "denominazione": "articolo 1159-bis del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 3 dicembre 1971, n. 1102",
+          "urn": "urn:nir:stato:legge:1971-12-03;1102",
+          "data": "1971-12-03",
+          "numero": "1102",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "regio decreto-legge 4 aprile 1939, n. 589",
+          "urn": "urn:nir:stato:regio.decreto.legge:1939-04-04;589",
+          "data": "1939-04-04",
+          "numero": "589",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 29 giugno 1939, n. 976",
+          "urn": "urn:nir:stato:legge:1939-06-29;976",
+          "data": "1939-06-29",
+          "numero": "976",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 10 maggio 1976, n. 346 ha disposto (con l'art. 2, comma 1) che \"Le disposizioni dell'articolo 1159-bis del codice civile si applicano ai fondi rustici con annessi fabbricati situati in comuni classificati montani ai sensi della legge 3 dicembre 1971, n. 1102, qualunque siano la loro estensione ed il loro reddito, nonche' ai fondi rustici con annessi fabbricati situati in comuni non classificati montani, quando il loro reddito dominicale iscritto in catasto ai sensi del regio decreto-legge 4 aprile 1939, n. 589, convertito nella legge 29 giugno 1939, n. 976, non supera complessivamente le lire cinquemila.\""
+    },
+    {
+      "numero": 96,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 10 maggio 1976, n. 346",
+          "urn": "urn:nir:stato:legge:1976-05-10;346",
+          "data": "1976-05-10",
+          "numero": "346",
+          "data_gazzetta": "1976-06-03"
+        },
+        {
+          "denominazione": "articolo 1159-bis del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 3 dicembre 1971, n. 1102",
+          "urn": "urn:nir:stato:legge:1971-12-03;1102",
+          "data": "1971-12-03",
+          "numero": "1102",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "regio decreto-legge 4 aprile 1939, n. 589",
+          "urn": "urn:nir:stato:regio.decreto.legge:1939-04-04;589",
+          "data": "1939-04-04",
+          "numero": "589",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "legge 29 giugno 1939, n. 976",
+          "urn": "urn:nir:stato:legge:1939-06-29;976",
+          "data": "1939-06-29",
+          "numero": "976",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "L. 31 gennaio 1994, n. 97",
+          "urn": "urn:nir:stato:legge:1994-01-31;97",
+          "data": "1994-01-31",
+          "numero": "97",
+          "data_gazzetta": "1994-02-09"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 10 maggio 1976, n. 346, come modificata dalla L. 31 gennaio 1994, n. 97 ha disposto (con l'art. 2, comma 1) che \"Le disposizioni dell'articolo 1159-bis del codice civile si applicano ai fondi rustici con annessi fabbricati situati in comuni classificati montani ai sensi della legge 3 dicembre 1971, n. 1102, qualunque siano la loro estensione ed il loro reddito, nonche' ai fondi rustici con annessi fabbricati situati in comuni non classificati montani, quando il loro reddito dominicale iscritto in catasto ai sensi del regio decreto-legge 4 aprile 1939, n. 589, convertito nella legge 29 giugno 1939, n. 976, non supera complessivamente le lire 350.000\"."
+    }
+  ],
+  "impronta": "sha256:a80427d2042927b2015a481c2bed3b45b4f899455236b2f71faba1532e7d4056"
+}

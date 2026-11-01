@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1216",
+    "rubrica": "Intimazione di ricevere la consegna di un immobile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1216"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se deve essere consegnato un immobile, l'offerta consiste nell'intimazione al creditore di prenderne possesso. L'intimazione deve essere fatta nella forma prescritta dal secondo comma dell'art. 1209. Il debitore, dopo l'intimazione al creditore, puo' ottenere dal giudice la nomina di un sequestratario. In questo caso egli e' liberato dal momento in cui ha consegnato al sequestratario la cosa dovuta.",
+    "con_marcatori": "Art. 1216. (Intimazione di ricevere la consegna di un immobile). Se deve essere consegnato un immobile, l'offerta consiste nell'intimazione al creditore di prenderne possesso. L'intimazione deve essere fatta nella forma prescritta dal secondo comma dell'art. 1209. Il debitore, dopo l'intimazione al creditore, puo' ottenere dal giudice la nomina di un sequestratario. In questo caso egli e' liberato dal momento in cui ha consegnato al sequestratario la cosa dovuta.",
+    "caratteri": 402
+  },
+  "note": [],
+  "impronta": "sha256:c9137f1c20396d1e9989ba6b0e4fbcf64a7607a1e2a8e09b3d87405d51b46820"
+}

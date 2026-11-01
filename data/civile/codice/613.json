@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "613",
+    "rubrica": "Consegna",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art613"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la nave approda a un porto estero in cui vi sia un'autorita' consolare, il comandante e' tenuto a consegnare all'autorita' medesima uno degli originali del testamento e una copia dell'annotazione fatta sul giornale di bordo ovvero sul giornale nautico e sul ruolo d'equipaggio. Al ritorno della nave nel Regno, i due originali del testamento, o quello non depositato durante il viaggio, devono essere consegnati all'autorita' marittima locale insieme con la copia della predetta annotazione. Della consegna si rilascia dichiarazione, di cui si fa cenno in margine all'annotazione sopraindicata.",
+    "con_marcatori": "Art. 613. (Consegna). Se la nave approda a un porto estero in cui vi sia un'autorita' consolare, il comandante e' tenuto a consegnare all'autorita' medesima uno degli originali del testamento e una copia dell'annotazione fatta sul giornale di bordo ovvero sul giornale nautico e sul ruolo d'equipaggio. Al ritorno della nave nel Regno, i due originali del testamento, o quello non depositato durante il viaggio, devono essere consegnati all'autorita' marittima locale insieme con la copia della predetta annotazione. Della consegna si rilascia dichiarazione, di cui si fa cenno in margine all'annotazione sopraindicata.",
+    "caratteri": 597
+  },
+  "note": [],
+  "impronta": "sha256:07814b86153e226c180f7f73c0d3d77c00a843b9ad663c173df0125eb50c4877"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2914",
+    "rubrica": "Alienazioni anteriori al pignoramento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2914"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non hanno effetto in pregiudizio del creditore pignorante e dei creditori che intervengono nell'esecuzione, sebbene anteriori al pignoramento: 1) le alienazioni di beni immobili o di beni mobili iscritti in pubblici registri, che siano state trascritte successivamente al pignoramento; 2) le cessioni di crediti che siano state notificate al debitore ceduto o accettate dal medesimo successivamente al pignoramento; 3) le alienazioni di universalita' di mobili che non abbiano data certa; 4) le alienazioni di beni mobili di cui non sia stato trasmesso il possesso anteriormente al pignoramento, salvo che risultino da atto avente data certa.",
+    "con_marcatori": "Art. 2914. (Alienazioni anteriori al pignoramento). Non hanno effetto in pregiudizio del creditore pignorante e dei creditori che intervengono nell'esecuzione, sebbene anteriori al pignoramento: 1) le alienazioni di beni immobili o di beni mobili iscritti in pubblici registri, che siano state trascritte successivamente al pignoramento; 2) le cessioni di crediti che siano state notificate al debitore ceduto o accettate dal medesimo successivamente al pignoramento; 3) le alienazioni di universalita' di mobili che non abbiano data certa; 4) le alienazioni di beni mobili di cui non sia stato trasmesso il possesso anteriormente al pignoramento, salvo che risultino da atto avente data certa.",
+    "caratteri": 642
+  },
+  "note": [],
+  "impronta": "sha256:ae5beb0b05dd309550d4287c1d22066073135c32ad019c2a74917cdb1c76b475"
+}

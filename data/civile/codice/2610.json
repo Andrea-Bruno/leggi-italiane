@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2610",
+    "rubrica": "Trasferimento dell'azienda",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2610"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo patto contrario, in caso di trasferimento a qualunque titolo dell'azienda l'acquirente subentra nel contratto di consorzio. Tuttavia, se sussiste una giusta causa, in caso di trasferimento dell'azienda per atto fra vivi, gli altri consorziati possono deliberare, entro un mese dalla notizia dell'avvenuto trasferimento, l'esclusione dell'acquirente dal consorzio.",
+    "con_marcatori": "Art. 2610. (Trasferimento dell'azienda). Salvo patto contrario, in caso di trasferimento a qualunque titolo dell'azienda l'acquirente subentra nel contratto di consorzio. Tuttavia, se sussiste una giusta causa, in caso di trasferimento dell'azienda per atto fra vivi, gli altri consorziati possono deliberare, entro un mese dalla notizia dell'avvenuto trasferimento, l'esclusione dell'acquirente dal consorzio.",
+    "caratteri": 369
+  },
+  "note": [],
+  "impronta": "sha256:4767bf95e16f3e571e3eeca7ae29e5b9bf6ba63adba06f6359de365f80473c44"
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "692",
+    "rubrica": "Sostituzione fedecommissaria",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art692"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascuno dei genitori o degli altri ascendenti in linea retta o il coniuge dell'interdetto possono istituire rispettivamente il figlio, il discendente, o il coniuge con l'obbligo di conservare e restituire alla sua morte i beni anche costituenti la legittima, a favore della persona o degli enti che, sotto la vigilanza del tutore, hanno avuto cura dell'interdetto medesimo. La stessa disposizione si applica nel caso del minore di eta', se trovasi nelle condizioni di abituale infermita' di mente tali da far presumere che nel termine indicato dall'articolo 416 interverra' la pronuncia di interdizione. Nel caso di pluralita' di persone o enti di cui al primo comma i beni sono attribuiti proporzionalmente al tempo durante il quale gli stessi hanno avuto cura dell'interdetto. La sostituzione e' priva di effetto nel caso in cui l'interdizione sia negata o il relativo procedimento non sia iniziato entro due anni dal raggiungimento della maggiore eta' del minore abitualmente infermo di mente. E' anche priva di effetto nel caso di revoca dell'interdizione o rispetto alle persone o agli enti che abbiano violato gli obblighi di assistenza. In ogni altro caso la sostituzione e' nulla.",
+    "con_marcatori": "Art. 692. (( Sostituzione fedecommissaria. )) ((Ciascuno dei genitori o degli altri ascendenti in linea retta o il coniuge dell'interdetto possono istituire rispettivamente il figlio, il discendente, o il coniuge con l'obbligo di conservare e restituire alla sua morte i beni anche costituenti la legittima, a favore della persona o degli enti che, sotto la vigilanza del tutore, hanno avuto cura dell'interdetto medesimo. La stessa disposizione si applica nel caso del minore di eta', se trovasi nelle condizioni di abituale infermita' di mente tali da far presumere che nel termine indicato dall'articolo 416 interverra' la pronuncia di interdizione. Nel caso di pluralita' di persone o enti di cui al primo comma i beni sono attribuiti proporzionalmente al tempo durante il quale gli stessi hanno avuto cura dell'interdetto. La sostituzione e' priva di effetto nel caso in cui l'interdizione sia negata o il relativo procedimento non sia iniziato entro due anni dal raggiungimento della maggiore eta' del minore abitualmente infermo di mente. E' anche priva di effetto nel caso di revoca dell'interdizione o rispetto alle persone o agli enti che abbiano violato gli obblighi di assistenza. In ogni altro caso la sostituzione e' nulla)).((40))",
+    "caratteri": 1189
+  },
+  "note": [
+    {
+      "numero": 40,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        },
+        {
+          "denominazione": "articolo 692 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 19 maggio 1975, n. 151 ha disposto (con l'art. 238, comma 1) che \"La disposizione dell'articolo 692 del codice civile si applica anche alle successioni apertesi prima dell'entrata in vigore della presente legge a meno che la nullita' della sostituzione non sia stata gia' pronunziata con sentenza passata in giudicato.\""
+    }
+  ],
+  "impronta": "sha256:0fa20b8574c229eccbf2f8a64b10221e8241b667ebc46460c90002a3b2063c84"
+}

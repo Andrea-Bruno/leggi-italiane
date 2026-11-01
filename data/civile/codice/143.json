@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "143",
+    "rubrica": "Diritti e doveri reciproci dei coniugi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art143"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Con il matrimonio il marito e la moglie acquistano gli stessi diritti e assumono i medesimi doveri. Dal matrimonio deriva l'obbligo reciproco alla fedelta', all'assistenza morale e materiale, alla collaborazione nell'interesse della famiglia e alla coabitazione. Entrambi i coniugi sono tenuti, ciascuno in relazione alle proprie sostanze e alla propria capacita' di lavoro professionale o casalingo, a contribuire ai bisogni della famiglia.",
+    "con_marcatori": "Art. 143. ((Diritti e doveri reciproci dei coniugi.)) ((Con il matrimonio il marito e la moglie acquistano gli stessi diritti e assumono i medesimi doveri. Dal matrimonio deriva l'obbligo reciproco alla fedelta', all'assistenza morale e materiale, alla collaborazione nell'interesse della famiglia e alla coabitazione. Entrambi i coniugi sono tenuti, ciascuno in relazione alle proprie sostanze e alla propria capacita' di lavoro professionale o casalingo, a contribuire ai bisogni della famiglia)).",
+    "caratteri": 441
+  },
+  "note": [],
+  "impronta": "sha256:a195741a719b2473192dc94d09fbfdd83293e0fbb79d97b6bb771a1942a34e5a"
+}

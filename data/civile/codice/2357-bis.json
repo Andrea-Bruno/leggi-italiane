@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2357-bis",
+    "rubrica": "Casi speciali di acquisto delle proprie azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2357-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le limitazioni contenute nell'articolo 2357 non si applicano quando l'acquisto di azioni proprie avvenga: 1) in esecuzione di una deliberazione dell'assemblea di riduzione del capitale, da attuarsi mediante riscatto e annullamento di azioni; 2) a titolo gratuito, sempre che si tratti di azioni interamente liberate; 3) per effetto di successione universale o di fusione o scissione; 4) in occasione di esecuzione forzata per il soddisfacimento di un credito della societa', sempre che si tratti di azioni interamente liberate. Se il valore nominale delle azioni proprie supera il limite della quinta parte del capitale per effetto di acquisti avvenuti a norma dei numeri 2), 3) e 4) del primo comma del presente articolo, si applica per l'eccedenza il penultimo comma dell'articolo 2357, ma il termine entro il quale deve avvenire l'alienazione e' di tre anni.",
+    "con_marcatori": "Art. 2357-bis. (Casi speciali di acquisto delle proprie azioni). Le limitazioni contenute nell'articolo 2357 non si applicano quando l'acquisto di azioni proprie avvenga: 1) in esecuzione di una deliberazione dell'assemblea di riduzione del capitale, da attuarsi mediante riscatto e annullamento di azioni; 2) a titolo gratuito, sempre che si tratti di azioni interamente liberate; 3) per effetto di successione universale o di fusione o scissione; 4) in occasione di esecuzione forzata per il soddisfacimento di un credito della societa', sempre che si tratti di azioni interamente liberate. ((Se il valore nominale delle azioni proprie supera il limite della quinta parte del capitale per effetto di acquisti avvenuti a norma dei numeri 2), 3) e 4) del primo comma del presente articolo, si applica per l'eccedenza il penultimo comma dell'articolo 2357, ma il termine entro il quale deve avvenire l'alienazione e' di tre anni)).",
+    "caratteri": 861
+  },
+  "note": [],
+  "impronta": "sha256:f3a39fa1fb9cf577bb9833b8919f1d8f1f9051278ed5a1748cabd1effdca0334"
+}

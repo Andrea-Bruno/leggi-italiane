@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2540",
+    "rubrica": "Assemblee separate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2540"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo delle societa' cooperative puo' prevedere lo svolgimento di assemblee separate, anche rispetto a specifiche materie ovvero in presenza di particolari categorie di soci. Lo svolgimento di assemblee separate deve essere previsto quando la societa' cooperativa ha piu' di tremila soci e svolge la propria attivita' in piu' province ovvero se ha piu' di cinquecento soci e si realizzano piu' gestioni mutualistiche. L'atto costitutivo stabilisce il luogo, i criteri e le modalita' di convocazione e di partecipazione all'assemblea generale dei soci delegati e assicura in ogni caso la proporzionale rappresentanza delle minoranze espresse dalle assemblee separate. I delegati debbono essere soci. Alla assemblea generale possono assistere anche i soci che hanno preso parte alle assemblee separate. Le deliberazioni della assemblea generale possono essere impugnate ai sensi dell'articolo 2377 anche dai soci assenti e dissenzienti nelle assemblee separate quando, senza i voti espressi dai delegati delle assemblee separate irregolarmente tenute, verrebbe meno la maggioranza richiesta per la validita' della deliberazione. Le deliberazioni delle assemblee separate non possono essere autonomamente impugnate. Le disposizioni del presente articolo non si applicano alle societa' cooperative con azioni ammesse alla quotazione in mercati regolamentati.",
+    "con_marcatori": "Art. 2540. (( (Assemblee separate).)) ((L'atto costitutivo delle societa' cooperative puo' prevedere lo svolgimento di assemblee separate, anche rispetto a specifiche materie ovvero in presenza di particolari categorie di soci. Lo svolgimento di assemblee separate deve essere previsto quando la societa' cooperativa ha piu' di tremila soci e svolge la propria attivita' in piu' province ovvero se ha piu' di cinquecento soci e si realizzano piu' gestioni mutualistiche. L'atto costitutivo stabilisce il luogo, i criteri e le modalita' di convocazione e di partecipazione all'assemblea generale dei soci delegati e assicura in ogni caso la proporzionale rappresentanza delle minoranze espresse dalle assemblee separate. I delegati debbono essere soci. Alla assemblea generale possono assistere anche i soci che hanno preso parte alle assemblee separate. Le deliberazioni della assemblea generale possono essere impugnate ai sensi dell'articolo 2377 anche dai soci assenti e dissenzienti nelle assemblee separate quando, senza i voti espressi dai delegati delle assemblee separate irregolarmente tenute, verrebbe meno la maggioranza richiesta per la validita' della deliberazione. Le deliberazioni delle assemblee separate non possono essere autonomamente impugnate. Le disposizioni del presente articolo non si applicano alle societa' cooperative con azioni ammesse alla quotazione in mercati regolamentati.))",
+    "caratteri": 1367
+  },
+  "note": [],
+  "impronta": "sha256:6abc668cf6c533f158f69ecd6576cb568166fcd7762f2b2127d6eaaec9a1d9ff"
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2847",
+    "rubrica": "Durata dell'efficacia dell'iscrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2847"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'iscrizione conserva il suo effetto per venti anni dalla sua data. L'effetto cessa se l'iscrizione non e' rinnovata prima che scada detto termine.",
+    "con_marcatori": "Art. 2847. (Durata dell'efficacia dell'iscrizione). L'iscrizione conserva il suo effetto per venti anni dalla sua data. L'effetto cessa se l'iscrizione non e' rinnovata prima che scada detto termine. ((172))",
+    "caratteri": 147
+  },
+  "note": [
+    {
+      "numero": 172,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 31 gennaio 2007, n. 7",
+          "urn": "urn:nir:stato:decretoLegge:2007-01-31;7",
+          "data": "2007-01-31",
+          "numero": "7",
+          "data_gazzetta": "2007-02-01"
+        },
+        {
+          "denominazione": "L. 2 aprile 2007, n. 40",
+          "urn": "urn:nir:stato:legge:2007-04-02;40",
+          "data": "2007-04-02",
+          "numero": "40",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2878 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2847 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 31 gennaio 2007, n. 7, convertito con modificazioni dalla L. 2 aprile 2007, n. 40, ha disposto (con l'art. 13, comma 8-sexies) che \"Ai fini di cui all'articolo 2878 del codice civile, e in deroga all'articolo 2847 del codice civile, se il creditore e' soggetto esercente attivita' bancaria o finanziaria, l'ipoteca iscritta a garanzia di obbligazioni derivanti da contratto di mutuo si estingue automaticamente alla data di avvenuta estinzione dell'obbligazione garantita\"."
+    }
+  ],
+  "impronta": "sha256:1ec6c843d33dfd33e4340a4cec43508c6a211f0cfa87f57a9c6e958c87234fa9"
+}

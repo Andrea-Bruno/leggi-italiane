@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2145",
+    "rubrica": "Diritti ed obblighi del concedente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2145"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il concedente conferisce il godimento del podere, dotato di quanto occorre per l'esercizio dell'impresa e di un'adeguata casa per la famiglia colonica. La direzione dell'impresa spetta al concedente, il quale deve osservare le norme della buona tecnica agraria.",
+    "con_marcatori": "Art. 2145. (Diritti ed obblighi del concedente). Il concedente conferisce il godimento del podere, dotato di quanto occorre per l'esercizio dell'impresa e di un'adeguata casa per la famiglia colonica. La direzione dell'impresa spetta al concedente, il quale deve osservare le norme della buona tecnica agraria.",
+    "caratteri": 261
+  },
+  "note": [],
+  "impronta": "sha256:5d2f64f1436fa12266b9244e7c68437c30007866baeb2f8f5e60fc4014a4116b"
+}

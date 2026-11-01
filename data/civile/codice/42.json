@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "42",
+    "rubrica": "Diversa destinazione dei fondi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art42"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora i fondi raccolti siano insufficienti allo scopo, o questo non sia piu' attuabile, o, raggiunto lo scopo, si abbia un residuo di fondi, l'autorita' governativa stabilisce la devoluzione dei beni, se questa non e' stata disciplinata al momento della costituzione.",
+    "con_marcatori": "Art. 42. (Diversa destinazione dei fondi). Qualora i fondi raccolti siano insufficienti allo scopo, o questo non sia piu' attuabile, o, raggiunto lo scopo, si abbia un residuo di fondi, l'autorita' governativa stabilisce la devoluzione dei beni, se questa non e' stata disciplinata al momento della costituzione.",
+    "caratteri": 269
+  },
+  "note": [],
+  "impronta": "sha256:845cb50b2e7b9cf4dddb944eca038bb94b30bc8fe70d15a434bd19f393080d7f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2761",
+    "rubrica": "Crediti del vettore, dello spedizioniere, del mandatario, del depositario e del sequestratario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2761"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti dipendenti dal contratto di trasporto e di spedizione e quelli per le spese d'imposta anticipate dal vettore o dallo spedizioniere hanno privilegio sulle cose trasportate o spedite finche' queste rimangono presso di lui. Tale privilegio puo' essere esercitato anche su beni oggetto di un trasporto o di una spedizione diversi da quelli per cui e' sorto il credito purche' tali trasporti o spedizioni costituiscano esecuzione di un unico contratto per prestazioni periodiche o continuative. I crediti derivanti dall'esecuzione del mandato hanno privilegio sulle cose del mandante che il mandatario detiene per l'esecuzione del mandato. Qualora il mandatario abbia provveduto a pagare i diritti doganali per conto del mandante, il suo credito ha il privilegio di cui all'articolo 2752. I crediti derivanti dal deposito o dal sequestro convenzionale a favore del depositario e del sequestratario hanno parimenti privilegio sulle cose che questi detengono per effetto del deposito o del sequestro. Si applicano a questi privilegi le disposizioni del secondo e del terzo comma dell'articolo 2756.",
+    "con_marcatori": "Art. 2761. (( (Crediti del vettore, dello spedizioniere, del mandatario, del depositario e del sequestratario). )) ((I crediti dipendenti dal contratto di trasporto e di spedizione e quelli per le spese d'imposta anticipate dal vettore o dallo spedizioniere hanno privilegio sulle cose trasportate o spedite finche' queste rimangono presso di lui. Tale privilegio puo' essere esercitato anche su beni oggetto di un trasporto o di una spedizione diversi da quelli per cui e' sorto il credito purche' tali trasporti o spedizioni costituiscano esecuzione di un unico contratto per prestazioni periodiche o continuative. I crediti derivanti dall'esecuzione del mandato hanno privilegio sulle cose del mandante che il mandatario detiene per l'esecuzione del mandato. Qualora il mandatario abbia provveduto a pagare i diritti doganali per conto del mandante, il suo credito ha il privilegio di cui all'articolo 2752. I crediti derivanti dal deposito o dal sequestro convenzionale a favore del depositario e del sequestratario hanno parimenti privilegio sulle cose che questi detengono per effetto del deposito o del sequestro. Si applicano a questi privilegi le disposizioni del secondo e del terzo comma dell'articolo 2756)).",
+    "caratteri": 1101
+  },
+  "note": [],
+  "impronta": "sha256:2a427d3f36f0e602cc16900a215d5c4f9a528f90044871f0573039f90dd0f3cb"
+}

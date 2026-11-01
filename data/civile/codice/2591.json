@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2591",
+    "rubrica": "Rinvio alle leggi speciali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2591"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le condizioni e le modalita' per la concessione del brevetto, l'esercizio dei diritti che ne derivano e la loro durata sono regolati dalle leggi speciali.",
+    "con_marcatori": "Art. 2591. (Rinvio alle leggi speciali). Le condizioni e le modalita' per la concessione del brevetto, l'esercizio dei diritti che ne derivano e la loro durata sono regolati dalle leggi speciali.",
+    "caratteri": 154
+  },
+  "note": [],
+  "impronta": "sha256:4273d0d9b4bdc9b02b9abb8e3aa6bdfd01bdf22888ca375459ea096b606358bd"
+}

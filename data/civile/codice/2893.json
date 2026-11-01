@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2893",
+    "rubrica": "Mancata richiesta dell'incanto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2893"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'incanto non e' domandato nel tempo e nel modo prescritti dall'art. 2891, il valore del bene rimane definitivamente stabilito nel prezzo che l'acquirente ha posto a disposizione dei creditori a norma dell'art. 2890, n. 3. La liberazione del bene dalle ipoteche avviene dopo che e' stato depositato il prezzo e si e' provveduto nei modi indicati dal codice di procedura civile.",
+    "con_marcatori": "Art. 2893. (Mancata richiesta dell'incanto). Se l'incanto non e' domandato nel tempo e nel modo prescritti dall'art. 2891, il valore del bene rimane definitivamente stabilito nel prezzo che l'acquirente ha posto a disposizione dei creditori a norma dell'art. 2890, n. 3. La liberazione del bene dalle ipoteche avviene dopo che e' stato depositato il prezzo e si e' provveduto nei modi indicati dal codice di procedura civile.",
+    "caratteri": 380
+  },
+  "note": [],
+  "impronta": "sha256:a8413daaad804dfeb364766d015b3192fdcfbb906855a543a66e5d72b746b0ed"
+}

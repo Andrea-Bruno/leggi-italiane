@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "687",
+    "rubrica": "Revocazione per sopravvenienza di figli",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art687"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni a titolo universale o particolare, fatte da chi al tempo del testamento non aveva o ignorava di aver figli o discendenti, sono revocate di diritto per l'esistenza o la sopravvenienza di un figlio o discendente ... del testatore, benche' postumo, anche adottivo, ovvero per il riconoscimento di un figlio nato fuori del matrimonio. La revocazione ha luogo anche se il figlio e' stato concepito al tempo del testamento. La revocazione non ha invece luogo qualora il testatore abbia provveduto al caso che esistessero o sopravvenissero figli o discendenti da essi. Se i figli o discendenti non vengono alla successione e non si fa luogo a rappresentazione, la disposizione ha il suo effetto.",
+    "con_marcatori": "Art. 687. (Revocazione per sopravvenienza di figli). Le disposizioni a titolo universale o particolare, fatte da chi al tempo del testamento non aveva o ignorava di aver figli o discendenti, sono revocate di diritto per l'esistenza o la sopravvenienza di un figlio o discendente ((...)) del testatore, benche' postumo, ((anche)) adottivo, ovvero per il riconoscimento di un figlio ((nato fuori del matrimonio)). ((La revocazione ha luogo anche se il figlio e' stato concepito al tempo del testamento.)) La revocazione non ha invece luogo qualora il testatore abbia provveduto al caso che esistessero o sopravvenissero figli o discendenti da essi. Se i figli o discendenti non vengono alla successione e non si fa luogo a rappresentazione, la disposizione ha il suo effetto.",
+    "caratteri": 704
+  },
+  "note": [],
+  "impronta": "sha256:fcaaa1700921e814c838bb1fa9dde941f89bd428ebe1a8c01994281050b06011"
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "290",
+    "rubrica": "Vilipendio della Repubblica, delle Istituzioni costituzionali e delle Forze armate",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art290"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque pubblicamente vilipende la Repubblica, le Assemblee legislative o una di queste, ovvero il Governo o la Corte Costituzionale o l'Ordine giudiziario, e' punito con la multa da euro 1.000 a euro 5.000. La stessa pena si applica a chi pubblicamente vilipende le Forze armate dello Stato o quelle della liberazione.",
+    "con_marcatori": "Art. 290. (Vilipendio della Repubblica, delle Istituzioni costituzionali e delle Forze armate). Chiunque pubblicamente vilipende la Repubblica, le Assemblee legislative o una di queste, ovvero il Governo o la Corte Costituzionale o l'Ordine giudiziario, e' punito ((con la multa da euro 1.000 a euro 5.000)). La stessa pena si applica a chi pubblicamente vilipende le Forze armate dello Stato o quelle della liberazione.",
+    "caratteri": 320
+  },
+  "note": [
+    {
+      "numero": 6,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 288",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;288",
+          "data": "1944-09-14",
+          "numero": "288",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288, ha disposto (con l'art. 1, comma 1) che la presente modifica e' apportata fino a quando non sia pubblicato il nuovo Codice penale."
+    }
+  ],
+  "impronta": "sha256:9ae8fae4bbabd8897e3bc48d95d59b663955d9ce3af54df6addb3f80c47cce61"
+}

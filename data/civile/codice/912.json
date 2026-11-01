@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "912",
+    "rubrica": "Conciliazione di opposti interessi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art912"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se sorge controversia tra i proprietari a cui un'acqua non pubblica puo' essere utile, l'autorita' giudiziaria deve valutare l'interesse dei singoli proprietari nei loro rapporti e rispetto ai vantaggi che possono derivare all'agricoltura o all'industria dall'uso a cui l'acqua e' destinata o si vuol destinare. L'autorita' giudiziaria puo' assegnare un'indennita' ai proprietari che sopportino diminuzione del proprio diritto. In tutti i casi devono osservarsi le disposizioni delle leggi sulle acque e sulle opere idrauliche.",
+    "con_marcatori": "Art. 912. (Conciliazione di opposti interessi). Se sorge controversia tra i proprietari a cui un'acqua non pubblica puo' essere utile, l'autorita' giudiziaria deve valutare l'interesse dei singoli proprietari nei loro rapporti e rispetto ai vantaggi che possono derivare all'agricoltura o all'industria dall'uso a cui l'acqua e' destinata o si vuol destinare. L'autorita' giudiziaria puo' assegnare un'indennita' ai proprietari che sopportino diminuzione del proprio diritto. In tutti i casi devono osservarsi le disposizioni delle leggi sulle acque e sulle opere idrauliche.",
+    "caratteri": 527
+  },
+  "note": [],
+  "impronta": "sha256:b2e94fefd4659e6936d6dfc066f8a6f701376829f734c61b1243489372b055ee"
+}

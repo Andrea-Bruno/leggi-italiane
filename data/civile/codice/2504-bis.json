@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2504-bis",
+    "rubrica": "Effetti della fusione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2504-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' che risulta dalla fusione o quella incorporante assumono i diritti e gli obblighi delle societa' partecipanti alla fusione, proseguendo in tutti i loro rapporti, anche processuali, anteriori alla fusione. La fusione ha effetto quando e' stata eseguita l'ultima delle iscrizioni prescritte dall'articolo 2504. Nella fusione mediante incorporazione puo' tuttavia essere stabilita una data successiva. Per gli effetti ai quali si riferisce il primo comma dell'articolo 2501-ter, numeri 5) e 6), possono essere stabilite date anche anteriori. Nel primo bilancio successivo alla fusione le attivita' e le passivita' sono iscritte ai valori risultanti dalle scritture contabili alla data di efficacia della fusione medesima; se dalla fusione emerge un disavanzo, esso deve essere imputato, ove possibile, agli elementi dell'attivo e del passivo delle societa' partecipanti alla fusione e, per la differenza e nel rispetto delle condizioni previste dal numero 6 dell'articolo 2426, ad avviamento. Quando si tratta di societa' che fa ricorso al mercato del capitale di rischio, devono altresi' essere allegati alla nota integrativa prospetti contabili indicanti i valori attribuiti alle attivita' e passivita' delle societa' che hanno partecipato alla fusione e la relazione di cui all'articolo 2501-sexies.Se dalla fusione emerge un avanzo, esso e' iscritto ad apposita voce del patrimonio netto, ovvero, quando sia dovuto a previsione di risultati economici sfavorevoli, in una voce dei fondi per rischi ed oneri. La fusione attuata mediante costituzione di una nuova societa' di capitali ovvero mediante incorporazione in una societa' di capitali non libera i soci a responsabilita' illimitata dalla responsabilita' per le obbligazioni delle rispettive societa' partecipanti alla fusione anteriori all'ultima delle iscrizioni prescritte dall'articolo 2504, se non risulta che i creditori hanno dato il loro consenso.",
+    "con_marcatori": "Art. 2504-bis. (Effetti della fusione). La societa' che risulta dalla fusione o quella incorporante assumono i diritti e gli obblighi delle societa' partecipanti alla fusione, proseguendo in tutti i loro rapporti, anche processuali, anteriori alla fusione. La fusione ha effetto quando e' stata eseguita l'ultima delle iscrizioni prescritte dall'articolo 2504. Nella fusione mediante incorporazione puo' tuttavia essere stabilita una data successiva. Per gli effetti ai quali si riferisce il primo comma dell'articolo 2501-ter, numeri 5) e 6), possono essere stabilite date anche anteriori. Nel primo bilancio successivo alla fusione le attivita' e le passivita' sono iscritte ai valori risultanti dalle scritture contabili alla data di efficacia della fusione medesima; se dalla fusione emerge un disavanzo, esso deve essere imputato, ove possibile, agli elementi dell'attivo e del passivo delle societa' partecipanti alla fusione e, per la differenza e nel rispetto delle condizioni previste dal numero 6 dell'articolo 2426, ad avviamento. Quando si tratta di societa' che fa ricorso al mercato del capitale di rischio, devono altresi' essere allegati alla nota integrativa prospetti contabili indicanti i valori attribuiti alle attivita' e passivita' delle societa' che hanno partecipato alla fusione e la relazione di cui all'articolo 2501-sexies.((Se dalla fusione emerge un avanzo, esso e' iscritto ad apposita voce del patrimonio netto, ovvero, quando sia dovuto a previsione di risultati economici sfavorevoli, in una voce dei fondi per rischi ed oneri.)) La fusione attuata mediante costituzione di una nuova societa' di capitali ovvero mediante incorporazione in una societa' di capitali non libera i soci a responsabilita' illimitata dalla responsabilita' per le obbligazioni delle rispettive societa' partecipanti alla fusione anteriori all'ultima delle iscrizioni prescritte dall'articolo 2504, se non risulta che i creditori hanno dato il loro consenso.",
+    "caratteri": 1923
+  },
+  "note": [],
+  "impronta": "sha256:e25b44f722eb03b68561fab57cf0e084a62cff14ffe7b22f9ac92f65f9835f98"
+}

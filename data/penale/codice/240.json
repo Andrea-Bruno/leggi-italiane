@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "240",
+    "rubrica": "Confisca",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art240"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di condanna, il giudice puo' ordinare la confisca delle cose che servirono o furono destinate a commettere il reato, e delle cose che ne sono il prodotto o il profitto. E' sempre ordinata la confisca: 1° delle cose che costituiscono il prezzo del reato; 1-bis. dei beni e degli strumenti informatici o telematici che risultino essere stati in tutto o in parte utilizzati per la commissione dei reati di cui agli articoli 615-ter, 615-quater, 615-quinquies, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quinquies, 640, secondo comma, numero 2-ter), 640-ter e 640-quinquies nonche' dei beni che ne costituiscono il profitto o il prodotto ovvero di somme di denaro, beni o altre utilita' di cui il colpevole ha la disponibilita' per un valore corrispondente a tale profitto o prodotto, se non e' possibile eseguire la confisca del profitto o del prodotto diretti; 2° delle cose, la fabbricazione, l'uso, il porto, la detenzione o l'alienazione delle quali costituisce reato, anche se non e' stata pronunciata condanna. Le disposizioni della prima parte e dei numeri 1 e 1-bis del capoverso precedente non si applicano se la cosa o il bene o lo strumento informatico o telematico appartiene a persona estranea al reato. La disposizione del numero 1-bis del capoverso precedente si applica anche nel caso di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale. La disposizione del numero 2° non si applica se la cosa appartiene a persona estranea al reato e la fabbricazione, l'uso, il porto, la detenzione o l'alienazione possono essere consentiti mediante autorizzazione amministrativa.",
+    "con_marcatori": "Art. 240. (Confisca) Nel caso di condanna, il giudice puo' ordinare la confisca delle cose che servirono o furono destinate a commettere il reato, e delle cose che ne sono il prodotto o il profitto. E' sempre ordinata la confisca: 1° delle cose che costituiscono il prezzo del reato; 1-bis. dei beni e degli strumenti informatici o telematici che risultino essere stati in tutto o in parte utilizzati per la commissione dei reati di cui agli articoli 615-ter, 615-quater, 615-quinquies, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quinquies, ((640, secondo comma, numero 2-ter),)) 640-ter e 640-quinquies nonche' dei beni che ne costituiscono il profitto o il prodotto ovvero di somme di denaro, beni o altre utilita' di cui il colpevole ha la disponibilita' per un valore corrispondente a tale profitto o prodotto, se non e' possibile eseguire la confisca del profitto o del prodotto diretti; 2° delle cose, la fabbricazione, l'uso, il porto, la detenzione o l'alienazione delle quali costituisce reato, anche se non e' stata pronunciata condanna. Le disposizioni della prima parte e dei numeri 1 e 1-bis del capoverso precedente non si applicano se la cosa o il bene o lo strumento informatico o telematico appartiene a persona estranea al reato. La disposizione del numero 1-bis del capoverso precedente si applica anche nel caso di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale. La disposizione del numero 2° non si applica se la cosa appartiene a persona estranea al reato e la fabbricazione, l'uso, il porto, la detenzione o l'alienazione possono essere consentiti mediante autorizzazione amministrativa.",
+    "caratteri": 1692
+  },
+  "note": [],
+  "impronta": "sha256:f3f131921c96eb6abda355e20645187fae64912193e8e4ebacc2ad1c1723c3c7"
+}

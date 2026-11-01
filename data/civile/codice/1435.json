@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1435",
+    "rubrica": "Caratteri della violenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1435"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La violenza deve essere di tal natura da fare impressione sopra una persona sensata e da farle temere di esporre se' o i suoi beni a un male ingiusto e notevole. Si ha riguardo, in questa materia, all'eta', al sesso e alla condizione delle persone.",
+    "con_marcatori": "Art. 1435. (Caratteri della violenza). La violenza deve essere di tal natura da fare impressione sopra una persona sensata e da farle temere di esporre se' o i suoi beni a un male ingiusto e notevole. Si ha riguardo, in questa materia, all'eta', al sesso e alla condizione delle persone.",
+    "caratteri": 248
+  },
+  "note": [],
+  "impronta": "sha256:fbcac005ef1f7b3acf32929baf0e9e5ab917007c9b3b0b8697aadd6f7182db58"
+}

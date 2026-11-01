@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2117",
+    "rubrica": "Fondi speciali per la previdenza e l'assistenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2117"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I fondi speciali per la previdenza e l'assistenza che l'imprenditore abbia costituiti, anche senza contribuzione dei prestatori di lavoro, non possono essere distratti dal fine al quale sono destinati e non possono formare oggetto di esecuzione da parte dei creditori dell'imprenditore o del prestatore di lavoro.",
+    "con_marcatori": "Art. 2117. (Fondi speciali per la previdenza e l'assistenza). I fondi speciali per la previdenza e l'assistenza che l'imprenditore abbia costituiti, anche senza contribuzione dei prestatori di lavoro, non possono essere distratti dal fine al quale sono destinati e non possono formare oggetto di esecuzione da parte dei creditori dell'imprenditore o del prestatore di lavoro.",
+    "caratteri": 313
+  },
+  "note": [],
+  "impronta": "sha256:946913302a03ac55015bebb130c2e9e91915e84a3d1f60bf663e7028d8d377d0"
+}

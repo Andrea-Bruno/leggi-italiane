@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2311",
+    "rubrica": "Bilancio finale di liquidazione e piano di riparto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2311"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Compiuta la liquidazione, i liquidatori devono redigere il bilancio finale e proporre ai soci il piano di riparto. Il bilancio, sottoscritto dai liquidatori, e il piano di riparto devono essere comunicati mediante raccomandata ai soci, e s'intendono approvati se non sono stati impugnati nel termine di due mesi dalla comunicazione. In caso d'impugnazione del bilancio e del piano di riparto, il liquidatore puo' chiedere che le questioni relative alla liquidazione siano esaminate separatamente da quelle relative alla divisione, alle quali il liquidatore puo' restare estraneo. Con l'approvazione del bilancio i liquidatori sono liberati di fronte ai soci.",
+    "con_marcatori": "Art. 2311. (Bilancio finale di liquidazione e piano di riparto). Compiuta la liquidazione, i liquidatori devono redigere il bilancio finale e proporre ai soci il piano di riparto. Il bilancio, sottoscritto dai liquidatori, e il piano di riparto devono essere comunicati mediante raccomandata ai soci, e s'intendono approvati se non sono stati impugnati nel termine di due mesi dalla comunicazione. In caso d'impugnazione del bilancio e del piano di riparto, il liquidatore puo' chiedere che le questioni relative alla liquidazione siano esaminate separatamente da quelle relative alla divisione, alle quali il liquidatore puo' restare estraneo. Con l'approvazione del bilancio i liquidatori sono liberati di fronte ai soci.",
+    "caratteri": 658
+  },
+  "note": [],
+  "impronta": "sha256:accbfeeed0b0c47405e23c5d3a1e58dd42a67a86073c113b15e0d7c31b2f5632"
+}

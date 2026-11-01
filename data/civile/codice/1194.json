@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1194",
+    "rubrica": "Imputazione del pagamento agli interessi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1194"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il debitore non puo' imputare il pagamento al capitale, piuttosto che agli interessi e alle spese, senza il consenso del creditore. Il pagamento fatto in conto di capitale e d'interessi deve essere imputato prima agli interessi.",
+    "con_marcatori": "Art. 1194. (Imputazione del pagamento agli interessi). Il debitore non puo' imputare il pagamento al capitale, piuttosto che agli interessi e alle spese, senza il consenso del creditore. Il pagamento fatto in conto di capitale e d'interessi deve essere imputato prima agli interessi.",
+    "caratteri": 228
+  },
+  "note": [],
+  "impronta": "sha256:70817c5d55726ac938d19c38304756e64029fdac232c0da4bb010a6b1fcb548c"
+}

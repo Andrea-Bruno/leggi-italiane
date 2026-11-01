@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2245",
+    "rubrica": "Indennita' di anzianita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2245"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di cessazione del contratto e' dovuta al prestatore di lavoro un'indennita' proporzionale agli anni di servizio, salvo il caso di licenziamento per colpa di lui o di dimissioni volontarie. L'ammontare dell'indennita' e' determinata sulla base dell'ultima retribuzione in danaro, nella misura di otto giorni per ogni anno di servizio. Se gli usi lo stabiliscono, l'indennita' e' dovuta anche nel caso di dimissioni volontarie.",
+    "con_marcatori": "Art. 2245. (Indennita' di anzianita'). In caso di cessazione del contratto e' dovuta al prestatore di lavoro un'indennita' proporzionale agli anni di servizio, salvo il caso di licenziamento per colpa di lui o di dimissioni volontarie. L'ammontare dell'indennita' e' determinata sulla base dell'ultima retribuzione in danaro, nella misura di otto giorni per ogni anno di servizio. Se gli usi lo stabiliscono, l'indennita' e' dovuta anche nel caso di dimissioni volontarie.",
+    "caratteri": 433
+  },
+  "note": [],
+  "impronta": "sha256:6dd962a8a2f502bf46d19ffada4e1442b308a10b841c7f30b97f4ed673e9f193"
+}

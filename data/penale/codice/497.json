@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "497",
+    "rubrica": "Frode nel farsi rilasciare certificati del casellario giudiziale e uso indebito di tali certificati",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art497"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque si procura con frode un certificato del casellario giudiziale o un altro certificato penale relativo ad altra persona, ovvero ne fa uso per uno scopo diverso da quello per cui esso e' domandato, e' punito con la reclusione fino a sei mesi o con la multa fino a lire cinquemila.",
+    "con_marcatori": "Art. 497. (Frode nel farsi rilasciare certificati del casellario giudiziale e uso indebito di tali certificati) Chiunque si procura con frode un certificato del casellario giudiziale o un altro certificato penale relativo ad altra persona, ovvero ne fa uso per uno scopo diverso da quello per cui esso e' domandato, e' punito con la reclusione fino a sei mesi o con la multa fino a lire cinquemila.",
+    "caratteri": 286
+  },
+  "note": [],
+  "impronta": "sha256:38efaa57c0ff8e3ef6639e308fe575208a080a13a43e0bf4f39cad84caaf6b1f"
+}

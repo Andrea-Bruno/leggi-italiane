@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2770",
+    "rubrica": "Crediti per atti conservativi o di espropriazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2770"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti per le spese di giustizia fatte per atti conservativi o per l'espropriazione di beni immobili nell'interesse comune dei creditori sono privilegiati sul prezzo degli immobili stessi. Del pari ha privilegio il credito dell'acquirente di un immobile per le spese fatte per la dichiarazione di liberazione dell'immobile dalle ipoteche.",
+    "con_marcatori": "Art. 2770. (Crediti per atti conservativi o di espropriazione). I crediti per le spese di giustizia fatte per atti conservativi o per l'espropriazione di beni immobili nell'interesse comune dei creditori sono privilegiati sul prezzo degli immobili stessi. Del pari ha privilegio il credito dell'acquirente di un immobile per le spese fatte per la dichiarazione di liberazione dell'immobile dalle ipoteche.",
+    "caratteri": 341
+  },
+  "note": [],
+  "impronta": "sha256:42fa98c430651f99a54df5942b9bc9275f80c220812d184d7d1330a5737d1323"
+}

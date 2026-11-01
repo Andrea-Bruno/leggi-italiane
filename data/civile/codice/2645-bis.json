@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2645-bis",
+    "rubrica": "Trascrizione di contratti preliminari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2645-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "1. I contratti preliminari aventi ad oggetto la conclusione di taluno dei contratti di cui ai numeri 1), 2), 3) e 4) dell'articolo 2643, anche se sottoposti a condizione o relativi a edifici da costruire o in corso di costruzione, devono essere trascritti se risultano da atto pubblico o da scrittura privata con sottoscrizione autentica o accertata giudizialmente. 2. La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti preliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere l'esecuzione in forma specifica dei contratti preliminari predetti, prevale sulle trascrizioni ed iscrizioni eseguite contro il promittente alienante dopo la trascrizione del contratto preliminare. 3. Gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se entro un anno dalla data convenuta tra le parti per la conclusione del contratto definitivo, e in ogni caso entro tre anni dalla trascrizione predetta, non sia eseguita la trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione del contratto preliminare o della domanda giudiziale di cui all'articolo 2652, primo comma, numero 2). 4. I contratti preliminari aventi ad oggetto porzioni di edifici da costruire o in corso di costruzione devono indicare, per essere trascritti, la superficie utile della porzione di edificio e la quota del diritto spettante al promissario acquirente relativa all'intero costruendo edificio espressa in millesimi. 5. Nel caso previsto nel comma 4 la trascrizione e' eseguita con riferimento al bene immobile per la quota determinata secondo le modalita' di cui al comma stesso. Non appena l'edificio viene ad esistenza gli effetti della trascrizione si producono rispetto alle porzioni materiali corrispondenti alle quote di proprieta' predeterminate nonche' alle relative parti comuni. L'eventuale differenza di superficie o di quota contenuta nei limiti di un ventesimo rispetto a quelle indicate nel contratto preliminare non produce effetti. 6. Ai fini delle disposizioni di cui al comma 5, si intende esistente l'edificio nel quale sia stato eseguito il rustico, comprensivo delle mura perimetrali delle singole unita', e sia stata completata la copertura.",
+    "con_marcatori": "Art. 2645-bis. (( (Trascrizione di contratti preliminari ).)) ((1. I contratti preliminari aventi ad oggetto la conclusione di taluno dei contratti di cui ai numeri 1), 2), 3) e 4) dell'articolo 2643, anche se sottoposti a condizione o relativi a edifici da costruire o in corso di costruzione, devono essere trascritti se risultano da atto pubblico o da scrittura privata con sottoscrizione autentica o accertata giudizialmente. 2. La trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione dei contratti preliminari di cui al comma 1, ovvero della sentenza che accoglie la domanda diretta ad ottenere l'esecuzione in forma specifica dei contratti preliminari predetti, prevale sulle trascrizioni ed iscrizioni eseguite contro il promittente alienante dopo la trascrizione del contratto preliminare. 3. Gli effetti della trascrizione del contratto preliminare cessano e si considerano come mai prodotti se entro un anno dalla data convenuta tra le parti per la conclusione del contratto definitivo, e in ogni caso entro tre anni dalla trascrizione predetta, non sia eseguita la trascrizione del contratto definitivo o di altro atto che costituisca comunque esecuzione del contratto preliminare o della domanda giudiziale di cui all'articolo 2652, primo comma, numero 2). 4. I contratti preliminari aventi ad oggetto porzioni di edifici da costruire o in corso di costruzione devono indicare, per essere trascritti, la superficie utile della porzione di edificio e la quota del diritto spettante al promissario acquirente relativa all'intero costruendo edificio espressa in millesimi. 5. Nel caso previsto nel comma 4 la trascrizione e' eseguita con riferimento al bene immobile per la quota determinata secondo le modalita' di cui al comma stesso. Non appena l'edificio viene ad esistenza gli effetti della trascrizione si producono rispetto alle porzioni materiali corrispondenti alle quote di proprieta' predeterminate nonche' alle relative parti comuni. L'eventuale differenza di superficie o di quota contenuta nei limiti di un ventesimo rispetto a quelle indicate nel contratto preliminare non produce effetti. 6. Ai fini delle disposizioni di cui al comma 5, si intende esistente l'edificio nel quale sia stato eseguito il rustico, comprensivo delle mura perimetrali delle singole unita', e sia stata completata la copertura.))",
+    "caratteri": 2302
+  },
+  "note": [],
+  "impronta": "sha256:b41662dee85ae4e25886de7adb70f90c0f4c8796cfcc1c737071651787ebddad"
+}

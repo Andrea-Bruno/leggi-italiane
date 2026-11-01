@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2355",
+    "rubrica": "Circolazione delle azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2355"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di mancata emissione dei titoli azionari il trasferimento delle azioni ha effetto nei confronti della societa' dal momento dell'iscrizione nel libro dei soci. Le azioni al portatore si trasferiscono con la consegna del titolo. Il trasferimento delle azioni nominative si opera mediante girata autenticata da un notaio o da altro soggetto secondo quanto previsto dalle leggi speciali. Il giratario che si dimostra possessore in base a una serie continua di girate ha diritto di ottenere l'annotazione del trasferimento nel libro dei soci, ed e' comunque legittimato ad esercitare i diritti sociali; resta salvo l'obbligo della societa', previsto dalle leggi speciali, di aggiornare il libro dei soci. Il trasferimento delle azioni nominative con mezzo diverso dalla girata si opera a norma dell'articolo 2022. Nei casi previsti ai commi sesto e settimo dell'articolo 2354, il trasferimento si opera mediante scritturazione sui conti destinati a registrare i movimenti degli strumenti finanziari; in tal caso, se le azioni sono nominative, si applica il terzo comma e la scritturazione sul conto equivale alla girata.",
+    "con_marcatori": "Art. 2355. (( (Circolazione delle azioni). )) ((Nel caso di mancata emissione dei titoli azionari il trasferimento delle azioni ha effetto nei confronti della societa' dal momento dell'iscrizione nel libro dei soci. Le azioni al portatore si trasferiscono con la consegna del titolo. Il trasferimento delle azioni nominative si opera mediante girata autenticata da un notaio o da altro soggetto secondo quanto previsto dalle leggi speciali. Il giratario che si dimostra possessore in base a una serie continua di girate ha diritto di ottenere l'annotazione del trasferimento nel libro dei soci, ed e' comunque legittimato ad esercitare i diritti sociali; resta salvo l'obbligo della societa', previsto dalle leggi speciali, di aggiornare il libro dei soci. Il trasferimento delle azioni nominative con mezzo diverso dalla girata si opera a norma dell'articolo 2022. Nei casi previsti ai commi sesto e settimo dell'articolo 2354, il trasferimento si opera mediante scritturazione sui conti destinati a registrare i movimenti degli strumenti finanziari; in tal caso, se le azioni sono nominative, si applica il terzo comma e la scritturazione sul conto equivale alla girata.))",
+    "caratteri": 1124
+  },
+  "note": [],
+  "impronta": "sha256:678fd1c7e7c8ddcbb83ee0e79a5284b98a7e186d25b864a16d3580a5c16c03c2"
+}

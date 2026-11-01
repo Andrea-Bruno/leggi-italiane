@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "360",
+    "rubrica": "Funzioni del protutore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art360"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il protutore rappresenta il minore nei casi in cui l'interesse di questo e' in opposizione con l'interesse del tutore. Se anche il protutore si trova in opposizione d'interessi col minore, il giudice tutelare nomina un curatore speciale. Il protutore e' tenuto a promuovere la nomina di un nuovo tutore nel caso in cui il tutore e' venuto a mancare o ha abbandonato l'ufficio. Frattanto egli ha cura della persona del minore, lo rappresenta e puo' fare tutti gli atti conservativi e gli atti urgenti di amministrazione.",
+    "con_marcatori": "Art. 360. (Funzioni del protutore). Il protutore rappresenta il minore nei casi in cui l'interesse di questo e' in opposizione con l'interesse del tutore. Se anche il protutore si trova in opposizione d'interessi col minore, il giudice tutelare nomina un curatore speciale. Il protutore e' tenuto a promuovere la nomina di un nuovo tutore nel caso in cui il tutore e' venuto a mancare o ha abbandonato l'ufficio. Frattanto egli ha cura della persona del minore, lo rappresenta e puo' fare tutti gli atti conservativi e gli atti urgenti di amministrazione.",
+    "caratteri": 519
+  },
+  "note": [],
+  "impronta": "sha256:092a459ada82062fefcabeb3af79bf44a6168dd7b871b2ca14c51c7eb9b0244f"
+}

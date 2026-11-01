@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "723",
+    "rubrica": "Resa dei conti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art723"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Dopo la vendita, se ha avuto luogo, dei mobili e degli immobili si procede ai conti che i condividenti si devono rendere, alla formazione dello stato attivo e passivo dell'eredita' e alla determinazione delle porzioni ereditarie e dei conguagli o rimborsi che si devono tra loro i condividenti.",
+    "con_marcatori": "Art. 723. (Resa dei conti). Dopo la vendita, se ha avuto luogo, dei mobili e degli immobili si procede ai conti che i condividenti si devono rendere, alla formazione dello stato attivo e passivo dell'eredita' e alla determinazione delle porzioni ereditarie e dei conguagli o rimborsi che si devono tra loro i condividenti.",
+    "caratteri": 294
+  },
+  "note": [],
+  "impronta": "sha256:f1c1442aae9fa9313d3b0101833739e1dc59ea5023cd44f5a0a1ad3f2174d5ad"
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "112",
+    "rubrica": "Circostanze aggravanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art112"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La pena da infliggere per il reato commesso e' aumentata: 1° se il numero delle persone, che sono concorse nel reato, e' di cinque o piu', salvo che la legge disponga altrimenti; 2° per chi, anche fuori dei casi preveduti dai due numeri seguenti, ha promosso od organizzato la cooperazione nel reato, ovvero diretto l'attivita' delle persone che sono concorse nel reato medesimo; 3° per chi, nell'esercizio della sua autorita', direzione o vigilanza, ha determinato a commettere il reato persone ad esso soggette; 4) per chi, fuori del caso preveduto dall'articolo 111, ha determinato a commettere il reato un minore di anni 18 o una persona in stato di infermita' o di deficienza psichica, ovvero si e' comunque avvalso degli stessi o con gli stessi ha partecipato nella commissione di un delitto per il quale e' previsto l'arresto in flagranza. La pena e' aumentata fino alla meta' per chi si e' avvalso di persona non imputabile o non punibile, a cagione di una condizione o qualita' personale, o con la stessa ha partecipato nella commissione di un delitto per il quale e' previsto l'arresto in flagranza. Se chi ha determinato altri a commettere il reato o si e' avvalso di altri o con questi ha partecipato nella commissione del delitto ne e' il genitore esercente la responsabilita' genitoriale, nel caso previsto dal numero 4 del primo comma la pena e' aumentata fino alla meta' e in quello previsto dal secondo comma la pena e' aumentata fino a due terzi. Gli aggravamenti di pena stabiliti nei numeri 1°, 2° e 3° di questo articolo si applicano anche se taluno dei partecipi al fatto non e' imputabile o non e' punibile.",
+    "con_marcatori": "Art. 112. (Circostanze aggravanti) La pena da infliggere per il reato commesso e' aumentata: 1° se il numero delle persone, che sono concorse nel reato, e' di cinque o piu', salvo che la legge disponga altrimenti; 2° per chi, anche fuori dei casi preveduti dai due numeri seguenti, ha promosso od organizzato la cooperazione nel reato, ovvero diretto l'attivita' delle persone che sono concorse nel reato medesimo; 3° per chi, nell'esercizio della sua autorita', direzione o vigilanza, ha determinato a commettere il reato persone ad esso soggette; 4) per chi, fuori del caso preveduto dall'articolo 111, ha determinato a commettere il reato un minore di anni 18 o una persona in stato di infermita' o di deficienza psichica, ovvero si e' comunque avvalso degli stessi o con gli stessi ha partecipato nella commissione di un delitto per il quale e' previsto l'arresto in flagranza. La pena e' aumentata fino alla meta' per chi si e' avvalso di persona non imputabile o non punibile, a cagione di una condizione o qualita' personale, o con la stessa ha partecipato nella commissione di un delitto per il quale e' previsto l'arresto in flagranza. Se chi ha determinato altri a commettere il reato o si e' avvalso di altri o con questi ha partecipato nella commissione del delitto ne e' il genitore esercente la ((responsabilita' genitoriale)), nel caso previsto dal numero 4 del primo comma la pena e' aumentata fino alla meta' e in quello previsto dal secondo comma la pena e' aumentata fino a due terzi. (128) Gli aggravamenti di pena stabiliti nei numeri 1°, 2° e 3° di questo articolo si applicano anche se taluno dei partecipi al fatto non e' imputabile o non e' punibile.",
+    "caratteri": 1630
+  },
+  "note": [
+    {
+      "numero": 128,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 31 dicembre 1991, n. 419",
+          "urn": "urn:nir:stato:decretoLegge:1991-12-31;419",
+          "data": "1991-12-31",
+          "numero": "419",
+          "data_gazzetta": "1992-01-02"
+        },
+        {
+          "denominazione": "L. 18 febbraio 1992, n. 172",
+          "urn": "urn:nir:stato:legge:1992-02-18;172",
+          "data": "1992-02-18",
+          "numero": "172",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 31 dicembre 1991, n. 419 convertito con modificazioni dalla L. 18 febbraio 1992, n. 172 ha disposto (con l'art. 16, comma 1) che la presente modifica ha effetto dal 31 dicembre 1991."
+    }
+  ],
+  "impronta": "sha256:9c5c1ac17826fa02084b8796026fc0e6ba9a7c38c5d53fbbb19c6a63d9a054aa"
+}

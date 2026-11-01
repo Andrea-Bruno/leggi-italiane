@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "901",
+    "rubrica": "Luci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art901"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le luci che si aprono sul fondo del vicino devono: 1) essere munite di un'inferriata idonea a garantire la sicurezza del vicino e di una grata fissa in metallo le cui maglie non siano maggiori di tre centimetri quadrati; 2) avere il lato inferiore a un'altezza non minore di due metri e mezzo dal pavimento o dal suolo del luogo al quale si vuole dare luce e aria, se esse sono al piano terreno, e non minore di due metri, se sono ai piani superiori; 3) avere il lato inferiore a un'altezza non minore di due metri e mezzo dal suolo del fondo vicino, a meno che si tratti di locale che sia in tutto o in parte a livello inferiore al suolo del vicino e la condizione dei luoghi non consenta di osservare l'altezza stessa.",
+    "con_marcatori": "Art. 901. (Luci). Le luci che si aprono sul fondo del vicino devono: 1) essere munite di un'inferriata idonea a garantire la sicurezza del vicino e di una grata fissa in metallo le cui maglie non siano maggiori di tre centimetri quadrati; 2) avere il lato inferiore a un'altezza non minore di due metri e mezzo dal pavimento o dal suolo del luogo al quale si vuole dare luce e aria, se esse sono al piano terreno, e non minore di due metri, se sono ai piani superiori; 3) avere il lato inferiore a un'altezza non minore di due metri e mezzo dal suolo del fondo vicino, a meno che si tratti di locale che sia in tutto o in parte a livello inferiore al suolo del vicino e la condizione dei luoghi non consenta di osservare l'altezza stessa.",
+    "caratteri": 720
+  },
+  "note": [],
+  "impronta": "sha256:fb4e1033b8931c29c5967c76b9b9cad3346a997ade2329548a58cc4e1dc244b7"
+}

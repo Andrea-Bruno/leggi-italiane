@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "352",
+    "rubrica": "Dispensa su domanda",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art352"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Hanno diritto di essere dispensati su loro domanda dall'assumere o dal continuare l'esercizio della tutela: 1) i grandi ufficiali dello Stato non compresi nell'articolo precedente; 2) gli arcivescovi, i vescovi e i ministri del culto aventi cura d'anime; 3) NUMERO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151; 4) i militari in attivita' di servizio; 5) chi ha compiuto gli anni sessantacinque; 6) chi ha piu' di tre figli minori; 7) chi esercita altra tutela; 8) chi e' impedito di esercitare la tutela da infermita' permanente; 9) chi ha missione dal Governo fuori del Regno o risiede per ragioni di pubblico servizio fuori della circoscrizione del tribunale dove e' costituita la tutela.",
+    "con_marcatori": "Art. 352. (Dispensa su domanda). Hanno diritto di essere dispensati su loro domanda dall'assumere o dal continuare l'esercizio della tutela: 1) i grandi ufficiali dello Stato non compresi nell'articolo precedente; 2) gli arcivescovi, i vescovi e i ministri del culto aventi cura d'anime; 3) ((NUMERO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151)); 4) i militari in attivita' di servizio; 5) chi ha compiuto gli anni sessantacinque; 6) chi ha piu' di tre figli minori; 7) chi esercita altra tutela; 8) chi e' impedito di esercitare la tutela da infermita' permanente; 9) chi ha missione dal Governo fuori del Regno o risiede per ragioni di pubblico servizio fuori della circoscrizione del tribunale dove e' costituita la tutela.",
+    "caratteri": 686
+  },
+  "note": [],
+  "impronta": "sha256:cabf9b17de27a821bafa7f20fa5c1e8432f899cf0bccd2d2b9999723d33b60f1"
+}

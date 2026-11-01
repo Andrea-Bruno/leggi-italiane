@@ -1,0 +1,87 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "414",
+    "rubrica": "Istigazione a delinquere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art414"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque pubblicamente istiga a commettere uno o piu' reati e' punito, per il solo fatto dell'istigazione: 1° con la reclusione da uno a cinque anni, se trattasi di istigazione a commettere delitti; 2° con la reclusione fino a un anno, ovvero con la multa fino a lire duemila, se trattasi di istigazione a commettere contravvenzioni. Se si tratta di istigazione a commettere uno o piu' delitti e una o piu' contravvenzioni, si applica la pena stabilita nel numero 1°. Alla pena stabilita nel numero 1° soggiace anche chi pubblicamente fa l'apologia di uno o piu' delitti. La pena prevista dal presente comma nonche' dal primo e dal secondo comma e' aumentata se il fatto e' commesso attraverso strumenti informatici o telematici. Fuori dei casi di cui all'articolo 302, se l'istigazione o l'apologia di cui ai commi precedenti riguarda delitti di terrorismo o crimini contro l'umanita' la pena e' aumentata della meta'. La pena e' aumentata fino a due terzi se il fatto e' commesso attraverso strumenti informatici o telematici.",
+    "con_marcatori": "Art. 414. (Istigazione a delinquere) Chiunque pubblicamente istiga a commettere uno o piu' reati e' punito, per il solo fatto dell'istigazione: 1° con la reclusione da uno a cinque anni, se trattasi di istigazione a commettere delitti; 2° con la reclusione fino a un anno, ovvero con la multa fino a lire duemila, se trattasi di istigazione a commettere contravvenzioni. Se si tratta di istigazione a commettere uno o piu' delitti e una o piu' contravvenzioni, si applica la pena stabilita nel numero 1°. Alla pena stabilita nel numero 1° soggiace anche chi pubblicamente fa l'apologia di uno o piu' delitti. ((La pena prevista dal presente comma nonche' dal primo e dal secondo comma e' aumentata se il fatto e' commesso attraverso strumenti informatici o telematici.)) Fuori dei casi di cui all'articolo 302, se l'istigazione o l'apologia di cui ai commi precedenti riguarda delitti di terrorismo o crimini contro l'umanita' la pena e' aumentata della meta'. ((La pena e' aumentata fino a due terzi se il fatto e' commesso attraverso strumenti informatici o telematici.)) (36)",
+    "caratteri": 1028
+  },
+  "note": [
+    {
+      "numero": 36,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 4 giugno 1966, n. 332",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1966-06-04;332",
+          "data": "1966-06-04",
+          "numero": "332",
+          "data_gazzetta": "1966-06-04"
+        },
+        {
+          "denominazione": "art. 510",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "635 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 giugno 1966, n. 332 ha disposto (con l'art. 2, comma 1, lettera d)) che e' concessa amnistia \"per i reati previsti negli articoli 330, primo capoverso, 337, 340, 341, 414, 415, 507, 508 - anche in relazione all'art. 510 - 610 e 635 del Codice penale e dal decreto legislativo 22 gennaio 1948, n. 66, se commessi per motivi ed in occasione di manifestazioni sindacali\". Ha inoltre disposto (con l'art. 16, comma 1) che le presenti modifiche hanno efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966."
+    }
+  ],
+  "impronta": "sha256:d19e308ef53ed1ba12ec70d771ff49bbd24259183f857cf470c52f21ac274ec5"
+}

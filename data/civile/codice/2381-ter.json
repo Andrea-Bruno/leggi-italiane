@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2381-ter",
+    "rubrica": "Informazione consiliare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2381-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Gli amministratori sono tenuti ad agire in modo informato. Il presidente provvede affinche' adeguate informazioni sulle materie iscritte all'ordine del giorno vengano fornite a tutti i consiglieri. Ciascun amministratore puo' chiedere agli organi delegati che in consiglio siano fornite informazioni relative alla gestione della societa'. Nell'assumere le proprie determinazioni, gli amministratori cui il consiglio non abbia delegato proprie attribuzioni fanno ragionevole affidamento, anche in relazione alle loro specifiche competenze, sulle informazioni ricevute in conformita' alle previsioni della legge e dello statuto. Resta fermo quanto previsto dalle leggi speciali.",
+    "con_marcatori": "Art. 2381-ter. (( (Informazione consiliare).)). ((Gli amministratori sono tenuti ad agire in modo informato. Il presidente provvede affinche' adeguate informazioni sulle materie iscritte all'ordine del giorno vengano fornite a tutti i consiglieri. Ciascun amministratore puo' chiedere agli organi delegati che in consiglio siano fornite informazioni relative alla gestione della societa'. Nell'assumere le proprie determinazioni, gli amministratori cui il consiglio non abbia delegato proprie attribuzioni fanno ragionevole affidamento, anche in relazione alle loro specifiche competenze, sulle informazioni ricevute in conformita' alle previsioni della legge e dello statuto. Resta fermo quanto previsto dalle leggi speciali.))",
+    "caratteri": 678
+  },
+  "note": [],
+  "impronta": "sha256:a09a2fb10ae6bb4386ec77121e2dacc24948b0cc47d32295f2e26c4beae54d57"
+}

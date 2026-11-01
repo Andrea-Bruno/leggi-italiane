@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "152",
+    "rubrica": "Remissione della querela",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art152"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei reati punibili a querela della persona offesa, la remissione estingue il reato. La remissione e' processuale o estraprocessuale. La remissione estraprocessuale e' espressa o tacita. Vi e' remissione tacita, quando il querelante ha compiuto fatti incompatibili con la volonta' di persistere nella querela. Vi e' altresi' remissione tacita: 1) quando il querelante, senza giustificato motivo, non compare all'udienza alla quale e' stato citato in qualita' di testimone; 2) quando il querelante ha partecipato a un programma di giustizia riparativa concluso con un esito riparativo; nondimeno, quando l'esito riparativo comporta l'assunzione da parte dell'imputato di impegni comportamentali, la querela si intende rimessa solo quando gli impegni sono stati rispettati. La disposizione di cui al terzo comma, numero 1), non si applica quando il querelante e' persona incapace per ragioni, anche sopravvenute, di eta' o di infermita', ovvero persona in condizione di particolare vulnerabilita' ai sensi dell'articolo 90-quater del codice di procedura penale. La stessa disposizione non si applica altresi' quando la persona che ha proposto querela ha agito nella qualita' di esercente la responsabilita' genitoriale su un minore, ovvero di rappresentante legale di una persona minore o incapace, ovvero di persona munita di poteri per proporre querela nell'interesse della persona offesa priva in tutto o in parte di autonomia, ovvero di curatore speciale nominato ai sensi dell'articolo 121. La remissione puo' intervenire solo prima della condanna, salvi i casi per i quali la legge disponga altrimenti. La remissione non puo' essere sottoposta a termini o a condizioni. Nell'atto di remissione puo' essere fatta rinuncia al diritto alle restituzioni e al risarcimento del danno.",
+    "con_marcatori": "Art. 152. (Remissione della querela) Nei ((reati)) punibili a querela della persona offesa, la remissione estingue il reato. La remissione e' processuale o estraprocessuale. La remissione estraprocessuale e' espressa o tacita. Vi e' remissione tacita, quando il querelante ha compiuto fatti incompatibili con la volonta' di persistere nella querela. ((Vi e' altresi' remissione tacita: 1) quando il querelante, senza giustificato motivo, non compare all'udienza alla quale e' stato citato in qualita' di testimone; 2) quando il querelante ha partecipato a un programma di giustizia riparativa concluso con un esito riparativo; nondimeno, quando l'esito riparativo comporta l'assunzione da parte dell'imputato di impegni comportamentali, la querela si intende rimessa solo quando gli impegni sono stati rispettati. La disposizione di cui al terzo comma, numero 1), non si applica quando il querelante e' persona incapace per ragioni, anche sopravvenute, di eta' o di infermita', ovvero persona in condizione di particolare vulnerabilita' ai sensi dell'articolo 90-quater del codice di procedura penale. La stessa disposizione non si applica altresi' quando la persona che ha proposto querela ha agito nella qualita' di esercente la responsabilita' genitoriale su un minore, ovvero di rappresentante legale di una persona minore o incapace, ovvero di persona munita di poteri per proporre querela nell'interesse della persona offesa priva in tutto o in parte di autonomia, ovvero di curatore speciale nominato ai sensi dell'articolo 121.)) La remissione puo' intervenire solo prima della condanna, salvi i casi per i quali la legge disponga altrimenti. La remissione non puo' essere sottoposta a termini o a condizioni. Nell'atto di remissione puo' essere fatta rinuncia al diritto alle restituzioni e al risarcimento del danno.",
+    "caratteri": 1781
+  },
+  "note": [],
+  "impronta": "sha256:9eab30e3d05737ff72bbe70602aef52226ee543b22422da516751326ea74471a"
+}

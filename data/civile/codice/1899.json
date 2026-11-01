@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1899",
+    "rubrica": "Durata dell'assicurazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1899"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assicurazione ha effetto dalle ore ventiquattro del giorno della conclusione del contratto alle ore ventiquattro dell'ultimo giorno della durata stabilita nel contratto stesso. L'assicuratore, in alternativa ad una copertura di durata annuale, puo' proporre una copertura di durata poliennale a fronte di una riduzione del premio rispetto a quello previsto per la stessa copertura dal contratto annuale. In questo caso, se il contratto supera i cinque anni, l'assicurato, trascorso il quinquennio, ha facolta' di recedere dal contratto con preavviso di sessanta giorni e con effetto dalla fine dell'annualita' nel corso della quale la facolta' di recesso e' stata esercitata. Il contratto puo' essere tacitamente prorogato una o piu' volte, ma ciascuna proroga tacita non puo' avere una durata superiore a due anni. Le norme del presente articolo non si applicano alle assicurazioni sulla vita.",
+    "con_marcatori": "Art. 1899. (Durata dell'assicurazione). L'assicurazione ha effetto dalle ore ventiquattro del giorno della conclusione del contratto alle ore ventiquattro dell'ultimo giorno della durata stabilita nel contratto stesso. ((L'assicuratore, in alternativa ad una copertura di durata annuale, puo' proporre una copertura di durata poliennale a fronte di una riduzione del premio rispetto a quello previsto per la stessa copertura dal contratto annuale. In questo caso, se il contratto supera i cinque anni, l'assicurato, trascorso il quinquennio, ha facolta' di recedere dal contratto con preavviso di sessanta giorni e con effetto dalla fine dell'annualita' nel corso della quale la facolta' di recesso e' stata esercitata)). ((189)) Il contratto puo' essere tacitamente prorogato una o piu' volte, ma ciascuna proroga tacita non puo' avere una durata superiore a due anni. Le norme del presente articolo non si applicano alle assicurazioni sulla vita.",
+    "caratteri": 896
+  },
+  "note": [
+    {
+      "numero": 172,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 31 gennaio 2007, n. 7",
+          "urn": "urn:nir:stato:decretoLegge:2007-01-31;7",
+          "data": "2007-01-31",
+          "numero": "7",
+          "data_gazzetta": "2007-02-01"
+        },
+        {
+          "denominazione": "L. 2 aprile 2007, n. 40",
+          "urn": "urn:nir:stato:legge:2007-04-02;40",
+          "data": "2007-04-02",
+          "numero": "40",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 31 gennaio 2007, n. 7, convertito con modificazioni dalla L. 2 aprile 2007, n. 40, ha disposto (con l'art. 5, comma 4) che \"Tali disposizioni entrano in vigore per i contratti stipulati dalla data di entrata in vigore della legge di conversione del presente decreto. Per i contratti stipulati antecedentemente alla data di entrata in vigore della legge di conversione del presente decreto, la facolta' di cui al primo periodo puo' essere esercitata a condizione che il contratto di assicurazione sia stato in vita per almeno tre anni\"."
+    },
+    {
+      "numero": 189,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 23 luglio 2009, n. 99",
+          "urn": "urn:nir:stato:legge:2009-07-23;99",
+          "data": "2009-07-23",
+          "numero": "99",
+          "data_gazzetta": "2009-07-31"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 23 luglio 2009, n. 99 ha disposto (con l'art. 21, comma 4) che \"Le disposizioni di cui al comma 3 si applicano ai contratti stipulati successivamente alla data di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:7148168ef0749c632a491e28d5b73cc5c38134b80273a82bc105e87d3015867a"
+}

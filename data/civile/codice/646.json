@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "646",
+    "rubrica": "Retroattivita' della condizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art646"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'adempimento della condizione ha effetto retroattivo; ma l'erede o il legatario, nel caso di condizione risolutiva, non e' tenuto a restituire i frutti se non dal giorno in cui la condizione si e' verificata. L'azione per la restituzione dei frutti si prescrive in cinque anni.",
+    "con_marcatori": "Art. 646. (Retroattivita' della condizione). L'adempimento della condizione ha effetto retroattivo; ma l'erede o il legatario, nel caso di condizione risolutiva, non e' tenuto a restituire i frutti se non dal giorno in cui la condizione si e' verificata. L'azione per la restituzione dei frutti si prescrive in cinque anni.",
+    "caratteri": 278
+  },
+  "note": [],
+  "impronta": "sha256:236848b3e8abe2d3cc0c613d4fe49572c9515f85241b0b39337139ab5d2ae0dd"
+}

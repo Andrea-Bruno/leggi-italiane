@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "109",
+    "rubrica": "Effetti della dichiarazione di abitualita', professionalita' o tendenza a delinquere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art109"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Oltre gli aumenti di pena stabiliti per la recidiva e i particolari effetti indicati da altre disposizioni di legge, la dichiarazione di abitualita' o di professionalita' nel reato o di tendenza a delinquere importa l'applicazione di misure di sicurezza. La dichiarazione di abitualita' o di professionalita' nel reato puo' essere pronunciata in ogni tempo, anche dopo la esecuzione della pena; ma se e' pronunciata dopo la sentenza di condanna, non si tien conto della successiva condotta del colpevole e rimane ferma la pena inflitta. La dichiarazione di tendenza a delinquere non puo' essere pronunciata che con la sentenza di condanna. La dichiarazione di abitualita' e professionalita' nel reato e quella di tendenza a delinquere si estinguono per effetto della riabilitazione.",
+    "con_marcatori": "Art. 109. (Effetti della dichiarazione di abitualita', professionalita' o tendenza a delinquere) Oltre gli aumenti di pena stabiliti per la recidiva e i particolari effetti indicati da altre disposizioni di legge, la dichiarazione di abitualita' o di professionalita' nel reato o di tendenza a delinquere importa l'applicazione di misure di sicurezza. La dichiarazione di abitualita' o di professionalita' nel reato puo' essere pronunciata in ogni tempo, anche dopo la esecuzione della pena; ma se e' pronunciata dopo la sentenza di condanna, non si tien conto della successiva condotta del colpevole e rimane ferma la pena inflitta. La dichiarazione di tendenza a delinquere non puo' essere pronunciata che con la sentenza di condanna. La dichiarazione di abitualita' e professionalita' nel reato e quella di tendenza a delinquere si estinguono per effetto della riabilitazione.",
+    "caratteri": 782
+  },
+  "note": [],
+  "impronta": "sha256:c8dc8e639a8d2aee1b7df65d2134ff057b51c74e6f55759ed6a4f273db312f69"
+}

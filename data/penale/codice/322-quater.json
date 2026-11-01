@@ -1,0 +1,101 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "322-quater",
+    "rubrica": "Riparazione pecuniaria",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art322-quater"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 399,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Con la sentenza di condanna per i reati previsti dagli articoli 314, 317, 318, 319, 319-ter, 319-quater, 320, 321 e 322-bis, e' sempre ordinato il pagamento di una somma equivalente al prezzo o al profitto del reato a titolo di riparazione pecuniaria in favore dell'amministrazione lesa dalla condotta del pubblico ufficiale o dell'incaricato di un pubblico servizio, restando impregiudicato il diritto al risarcimento del danno.",
+    "con_marcatori": "Art. 322-quater (Riparazione pecuniaria). Con la sentenza di condanna per i reati previsti dagli articoli 314, 317, 318, 319, 319-ter, 319-quater, 320, 321 e 322-bis, e' sempre ordinato il pagamento di una somma equivalente al prezzo o al profitto del reato a titolo di riparazione pecuniaria in favore dell'amministrazione lesa dalla condotta del pubblico ufficiale o dell'incaricato di un pubblico servizio, restando impregiudicato il diritto al risarcimento del danno. ((399))",
+    "caratteri": 429
+  },
+  "note": [
+    {
+      "numero": 399,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 322-quater del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 4, comma 1, della legge 27 maggio 2015, n. 69",
+          "urn": "urn:nir:stato:legge:2015-05-27;69",
+          "data": "2015-05-27",
+          "numero": "69",
+          "data_gazzetta": "2015-05-30"
+        },
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 322-quater cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1, comma 1, lettera q), della legge 9 gennaio 2019, n. 3",
+          "urn": "urn:nir:stato:legge:2019-01-09;3",
+          "data": "2019-01-09",
+          "numero": "3",
+          "data_gazzetta": "2019-01-16"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2026-06-18",
+        "numero": "108"
+      },
+      "testo": "La Corte Costituzionale con sentenza 4 maggio - 18 giugno 2026, n. 108 (in G.U. 1a s.s. 24/6/2026, n. 25) ha dichiarato \"l'illegittimita' costituzionale dell'art. 322-quater del codice penale, nel testo introdotto dall'art. 4, comma 1, della legge 27 maggio 2015, n. 69 (Disposizioni in materia di delitti contro la pubblica amministrazione, di associazioni di tipo mafioso e di falso in bilancio)\". Inoltre, ha dichiarato \"in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 322-quater cod. pen., nel testo modificato dall'art. 1, comma 1, lettera q), della legge 9 gennaio 2019, n. 3 (Misure per il contrasto dei reati contro la pubblica amministrazione, nonche' in materia di prescrizione del reato e in materia di trasparenza dei partiti e movimenti politici)\"."
+    }
+  ],
+  "impronta": "sha256:dfcf00105c6ce50eb3ed021f0e5085d81bb1f34299a522baebc5de1ce362f223"
+}

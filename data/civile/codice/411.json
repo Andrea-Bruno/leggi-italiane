@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "411",
+    "rubrica": "Norme applicabili all'amministrazione di sostegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art411"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si applicano all'amministratore di sostegno, in quanto compatibili, le disposizioni di cui agli articoli da 349 a 353 e da 374 a 388. PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 149. All'amministratore di sostegno si applicano altresi', in quanto compatibili, le disposizioni degli articoli 596, 599 e 779. Sono in ogni caso valide le disposizioni testamentarie e le convenzioni in favore dell'amministratore di sostegno che sia parente entro il quarto grado del beneficiario, ovvero che sia coniuge o persona che sia stata chiamata alla funzione in quanto con lui stabilmente convivente. Il giudice tutelare, nel provvedimento con il quale nomina l'amministratore di sostegno, o successivamente, puo' disporre che determinati effetti, limitazioni o decadenze, previsti da disposizioni di legge per l'interdetto o l'inabilitato, si estendano al beneficiario dell'amministrazione di sostegno, avuto riguardo all'interesse del medesimo ed a quello tutelato dalle predette disposizioni. Il provvedimento e' assunto con decreto motivato a seguito di ricorso che puo' essere presentato anche dal beneficiario direttamente.",
+    "con_marcatori": "Art. 411. (Norme applicabili all'amministrazione di sostegno). Si applicano all'amministratore di sostegno, in quanto compatibili, le disposizioni di cui agli articoli da 349 a 353 e da 374 a 388. ((PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 149)). All'amministratore di sostegno si applicano altresi', in quanto compatibili, le disposizioni degli articoli 596, 599 e 779. Sono in ogni caso valide le disposizioni testamentarie e le convenzioni in favore dell'amministratore di sostegno che sia parente entro il quarto grado del beneficiario, ovvero che sia coniuge o persona che sia stata chiamata alla funzione in quanto con lui stabilmente convivente. Il giudice tutelare, nel provvedimento con il quale nomina l'amministratore di sostegno, o successivamente, puo' disporre che determinati effetti, limitazioni o decadenze, previsti da disposizioni di legge per l'interdetto o l'inabilitato, si estendano al beneficiario dell'amministrazione di sostegno, avuto riguardo all'interesse del medesimo ed a quello tutelato dalle predette disposizioni. Il provvedimento e' assunto con decreto motivato a seguito di ricorso che puo' essere presentato anche dal beneficiario direttamente.",
+    "caratteri": 1122
+  },
+  "note": [],
+  "impronta": "sha256:3bf9ce66a25abd2a4ba79e231cfaae651acaedbf63c7a3598016955fbccaaa68"
+}

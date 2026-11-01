@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2320",
+    "rubrica": "Soci accomandanti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2320"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I soci accomandanti non possono compiere atti di amministrazione, ne' trattare o concludere affari in nome della societa', se non in forza di procura speciale per singoli affari. Il socio accomandante che contravviene a tale divieto assume responsabilita' illimitata e solidale verso i terzi per tutte le obbligazioni sociali e puo' essere escluso a norma dell'art. 2286. I soci accomandanti possono tuttavia prestare la loro opera sotto la direzione degli amministratori e, se l'atto costitutivo lo consente, dare autorizzazioni e pareri per determinate operazioni e compiere atti di ispezione e di sorveglianza. In ogni caso essi hanno diritto di avere comunicazione annuale del bilancio e del conto dei profitti e delle perdite, e di controllarne l'esattezza, consultando i libri e gli altri documenti della societa'.",
+    "con_marcatori": "Art. 2320. (Soci accomandanti). I soci accomandanti non possono compiere atti di amministrazione, ne' trattare o concludere affari in nome della societa', se non in forza di procura speciale per singoli affari. Il socio accomandante che contravviene a tale divieto assume responsabilita' illimitata e solidale verso i terzi per tutte le obbligazioni sociali e puo' essere escluso a norma dell'art. 2286. I soci accomandanti possono tuttavia prestare la loro opera sotto la direzione degli amministratori e, se l'atto costitutivo lo consente, dare autorizzazioni e pareri per determinate operazioni e compiere atti di ispezione e di sorveglianza. In ogni caso essi hanno diritto di avere comunicazione annuale del bilancio e del conto dei profitti e delle perdite, e di controllarne l'esattezza, consultando i libri e gli altri documenti della societa'.",
+    "caratteri": 820
+  },
+  "note": [],
+  "impronta": "sha256:d819e05b49b2173cd12410a9d994d31776803e95271e261d7e07d5e390443f25"
+}

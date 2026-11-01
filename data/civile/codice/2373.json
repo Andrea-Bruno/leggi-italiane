@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2373",
+    "rubrica": "Conflitto d'interessi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2373"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La deliberazione approvata con il voto determinante di coloro che abbiano, per conto proprio o di terzi, un interesse in conflitto con quello della societa' e' impugnabile a norma dell'articolo 2377 qualora possa recarle danno. Gli amministratori non possono votare nelle deliberazioni riguardanti la loro responsabilita'. I componenti del consiglio di gestione non possono votare nelle deliberazioni riguardanti la nomina, la revoca o la responsabilita' dei consiglieri di sorveglianza.",
+    "con_marcatori": "Art. 2373. (Conflitto d'interessi). La deliberazione approvata con il voto determinante ((di coloro)) che abbiano, per conto proprio o di terzi, un interesse in conflitto con quello della societa' e' impugnabile a norma dell'articolo 2377 qualora possa recarle danno. Gli amministratori non possono votare nelle deliberazioni riguardanti la loro responsabilita'. I componenti del consiglio di gestione non possono votare nelle deliberazioni riguardanti la nomina, la revoca o la responsabilita' dei consiglieri di sorveglianza.",
+    "caratteri": 487
+  },
+  "note": [],
+  "impronta": "sha256:e883b7043be7d692e6cf74620eef72a5ef79c59d7fa21b5fa94945b2ad1b0c42"
+}

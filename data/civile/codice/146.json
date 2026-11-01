@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "146",
+    "rubrica": "Allontanamento dalla residenza familiare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art146"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il diritto all'assistenza morale e materiale previsto dall'articolo 143 e' sospeso nei confronti del coniuge che, allontanatosi senza giusta causa dalla residenza familiare, rifiuta di tornarvi. La proposizione della domanda di separazione o di annullamento o di scioglimento o di cessazione degli effetti civili del matrimonio costituisce giusta causa di allontanamento dalla residenza familiare. Il giudice puo', secondo le circostanze, ordinare il sequestro dei beni del coniuge allontanatosi, nella misura atta a garantire l'adempimento degli obblighi previsti dagli articoli 143, terzo comma, e 147.",
+    "con_marcatori": "Art. 146. ((Allontanamento dalla residenza familiare. )) ((Il diritto all'assistenza morale e materiale previsto dall'articolo 143 e' sospeso nei confronti del coniuge che, allontanatosi senza giusta causa dalla residenza familiare, rifiuta di tornarvi. La proposizione della domanda di separazione o di annullamento o di scioglimento o di cessazione degli effetti civili del matrimonio costituisce giusta causa di allontanamento dalla residenza familiare. Il giudice puo', secondo le circostanze, ordinare il sequestro dei beni del coniuge allontanatosi, nella misura atta a garantire l'adempimento degli obblighi previsti dagli articoli 143, terzo comma, e 147)).",
+    "caratteri": 604
+  },
+  "note": [],
+  "impronta": "sha256:f53016332d3538cf1f473d30b3ba3a094aefd01cd0cc3ebbff9d579c78e17dfb"
+}

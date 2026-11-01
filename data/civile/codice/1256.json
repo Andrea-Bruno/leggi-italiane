@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1256",
+    "rubrica": "Impossibilita' definitiva e impossibilita' temporanea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1256"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'obbligazione si estingue quando, per una causa non imputabile al debitore, la prestazione diventa impossibile. Se l'impossibilita' e' solo temporanea, il debitore, finche' essa perdura, non e' responsabile del ritardo nell'adempimento. Tuttavia l'obbligazione si estingue se l'impossibilita' perdura fino a quando, in relazione al titolo dell'obbligazione o alla natura dell'oggetto, il debitore non puo' piu' essere ritenuto obbligato a eseguire la prestazione ovvero il creditore non ha piu' interesse a conseguirla.",
+    "con_marcatori": "Art. 1256. (Impossibilita' definitiva e impossibilita' temporanea). L'obbligazione si estingue quando, per una causa non imputabile al debitore, la prestazione diventa impossibile. Se l'impossibilita' e' solo temporanea, il debitore, finche' essa perdura, non e' responsabile del ritardo nell'adempimento. Tuttavia l'obbligazione si estingue se l'impossibilita' perdura fino a quando, in relazione al titolo dell'obbligazione o alla natura dell'oggetto, il debitore non puo' piu' essere ritenuto obbligato a eseguire la prestazione ovvero il creditore non ha piu' interesse a conseguirla.",
+    "caratteri": 520
+  },
+  "note": [],
+  "impronta": "sha256:08ff8af7e224199e4e710735e26fdc68f693eaee5eb29dd3936ece25f586f6ec"
+}

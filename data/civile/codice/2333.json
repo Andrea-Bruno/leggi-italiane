@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2333",
+    "rubrica": "Programma e sottoscrizione delle azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2333"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' puo' essere costituita anche per mezzo di pubblica sottoscrizione sulla base di un programma che ne indichi l'oggetto e il capitale, le principali disposizioni dell'atto costitutivo e dello statuto, l'eventuale partecipazione che i promotori si riservano agli utili e il termine entro il quale deve essere stipulato l'atto costitutivo. Il programma con le firme autenticate dei promotori, prima di essere reso pubblico, deve essere depositato presso un notaio. Le sottoscrizioni delle azioni devono risultare da atto pubblico o da scrittura privata autenticata. L'atto deve indicare il cognome e il nome o la denominazione, il domicilio o la sede del sottoscrittore, il numero delle azioni sottoscritte e la data della sottoscrizione.",
+    "con_marcatori": "Art. 2333. (( (Programma e sottoscrizione delle azioni). )) ((La societa' puo' essere costituita anche per mezzo di pubblica sottoscrizione sulla base di un programma che ne indichi l'oggetto e il capitale, le principali disposizioni dell'atto costitutivo e dello statuto, l'eventuale partecipazione che i promotori si riservano agli utili e il termine entro il quale deve essere stipulato l'atto costitutivo. Il programma con le firme autenticate dei promotori, prima di essere reso pubblico, deve essere depositato presso un notaio. Le sottoscrizioni delle azioni devono risultare da atto pubblico o da scrittura privata autenticata. L'atto deve indicare il cognome e il nome o la denominazione, il domicilio o la sede del sottoscrittore, il numero delle azioni sottoscritte e la data della sottoscrizione.))",
+    "caratteri": 746
+  },
+  "note": [],
+  "impronta": "sha256:4b24e15d40336d4fc43b3219a2f94b7dd10932369321876ec837f1309f66efca"
+}

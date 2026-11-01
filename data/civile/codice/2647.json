@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2647",
+    "rubrica": "Costituzione del fondo patrimoniale e separazione di beni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2647"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Devono essere trascritti, se hanno per oggetto beni immobili, la costituzione del fondo patrimoniale, le convenzioni matrimoniali che escludono i beni medesimi dalla comunione tra i coniugi, gli atti e i provvedimenti di scioglimento della comunione, gli atti di acquisto di beni personali a norma delle lettere c), d), e) ed f) dell'articolo 179, a carico, rispettivamente, dei coniugi titolari del fondo patrimoniale o del coniuge titolare del bene escluso o che cessa di far parte della comunione. Le trascrizioni previste dal precedente comma devono essere eseguite anche relativamente ai beni immobili che successivamente entrano a far parte del patrimonio familiare o risultano esclusi dalla comunione tra i coniugi. La trascrizione del vincolo derivante dal fondo patrimoniale costituito per testamento deve essere eseguita d'ufficio dal conservatore contemporaneamente alla trascrizione dell'acquisto a causa di morte.",
+    "con_marcatori": "Art. 2647. ((Costituzione del fondo patrimoniale e separazione di beni.)) ((Devono essere trascritti, se hanno per oggetto beni immobili, la costituzione del fondo patrimoniale, le convenzioni matrimoniali che escludono i beni medesimi dalla comunione tra i coniugi, gli atti e i provvedimenti di scioglimento della comunione, gli atti di acquisto di beni personali a norma delle lettere c), d), e) ed f) dell'articolo 179, a carico, rispettivamente, dei coniugi titolari del fondo patrimoniale o del coniuge titolare del bene escluso o che cessa di far parte della comunione. Le trascrizioni previste dal precedente comma devono essere eseguite anche relativamente ai beni immobili che successivamente entrano a far parte del patrimonio familiare o risultano esclusi dalla comunione tra i coniugi. La trascrizione del vincolo derivante dal fondo patrimoniale costituito per testamento deve essere eseguita d'ufficio dal conservatore contemporaneamente alla trascrizione dell'acquisto a causa di morte)).",
+    "caratteri": 926
+  },
+  "note": [],
+  "impronta": "sha256:b8601162767a5c18710bd713a63e3a8b02d7c04e3501222f17dbd897dc934e59"
+}

@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "320",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art320"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Rappresentanza e amministrazione. I genitori congiuntamente, o quello di essi che esercita in via esclusiva la responsabilita' genitoriale, rappresentano i figli nati e nascituri, fino alla maggiore eta' o all'emancipazione, in tutti gli atti civili e ne amministrano i beni. Gli atti di ordinaria amministrazione, esclusi i contratti con i quali si concedono o si acquistano diritti personali di godimento, possono essere compiuti disgiuntamente da ciascun genitore. Si applicano, in caso di disaccordo o di esercizio difforme dalle decisioni concordate, le disposizioni dello articolo 316. I genitori non possono alienare, ipotecare o dare in pegno i beni pervenuti al figlio a qualsiasi titolo, anche a causa di morte, accettare o rinunziare ad eredita' o legati, accettare donazioni, procedere allo scioglimento di comunioni, contrarre mutui o locazioni ultranovennali o compiere altri atti eccedenti la ordinaria amministrazione ne' promuovere, transigere o compromettere in arbitri giudizi relativi a tali atti, se non per necessita' o utilita' evidente del figlio dopo autorizzazione del giudice tutelare. I capitali non possono essere riscossi senza autorizzazione del giudice tutelare, il quale ne determina l'impiego. L'esercizio di una impresa commerciale non puo' essere continuato se non con l'autorizzazione del giudice tutelare. Se sorge conflitto di interessi patrimoniali tra i figli soggetti alla stessa responsabilita' genitoriale, o tra essi e i genitori o quello di essi che esercita in via esclusiva la responsabilita' genitoriale, il giudice tutelare nomina ai figli un curatore speciale. Se il conflitto sorge tra i figli e uno solo dei genitori esercenti la responsabilita' genitoriale, la rappresentanza dei figli spetta esclusivamente all'altro genitore.",
+    "con_marcatori": "Art. 320. Rappresentanza e amministrazione. I genitori congiuntamente, o quello di essi che esercita in via esclusiva la responsabilita' genitoriale, rappresentano i figli nati e nascituri, fino alla maggiore eta' o all'emancipazione, in tutti gli atti civili e ne amministrano i beni. Gli atti di ordinaria amministrazione, esclusi i contratti con i quali si concedono o si acquistano diritti personali di godimento, possono essere compiuti disgiuntamente da ciascun genitore. Si applicano, in caso di disaccordo o di esercizio difforme dalle decisioni concordate, le disposizioni dello articolo 316. I genitori non possono alienare, ipotecare o dare in pegno i beni pervenuti al figlio a qualsiasi titolo, anche a causa di morte, accettare o rinunziare ad eredita' o legati, accettare donazioni, procedere allo scioglimento di comunioni, contrarre mutui o locazioni ultranovennali o compiere altri atti eccedenti la ordinaria amministrazione ne' promuovere, transigere o compromettere in arbitri giudizi relativi a tali atti, se non per necessita' o utilita' evidente del figlio dopo autorizzazione del giudice tutelare. I capitali non possono essere riscossi senza autorizzazione del giudice tutelare, il quale ne determina l'impiego. L'esercizio di una impresa commerciale non puo' essere continuato se non con l'autorizzazione del giudice tutelare. (321)((322)) Se sorge conflitto di interessi patrimoniali tra i figli soggetti alla stessa responsabilita' genitoriale, o tra essi e i genitori o quello di essi che esercita in via esclusiva la responsabilita' genitoriale, il giudice tutelare nomina ai figli un curatore speciale. Se il conflitto sorge tra i figli e uno solo dei genitori esercenti la responsabilita' genitoriale, la rappresentanza dei figli spetta esclusivamente all'altro genitore.",
+    "caratteri": 1781
+  },
+  "note": [
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:3c08a50f9452d1d95dfe27697f098606a2ce716e673628c050365d8c91738ec7"
+}

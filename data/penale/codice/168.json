@@ -1,0 +1,61 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "168",
+    "rubrica": "Revoca della sospensione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art168"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 49,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Salva la disposizione dell'ultimo comma dell'art. 164, la sospensione condizionale della pena e' revocata di diritto qualora, nei termini stabiliti, il condannato: 1) commetta un delitto ovvero una contravvenzione della stessa indole, per cui venga inflitta una pena detentiva, o non adempia agli obblighi impostigli; 2) riporti un'altra condanna per un delitto anteriormente commesso a pena che, cumulata a quella precedentemente sospesa, supera i limiti stabiliti dall'art. 163. Qualora il condannato riporti un'altra condanna per un delitto anteriormente commesso, a pena che, cumulata a quella precedentemente sospesa, non supera i limiti stabiliti dall'art. 163, il giudice, tenuto conto dell'indole e della gravita' del reato, puo' revocare l'ordine di sospensione condizionale della pena. La sospensione condizionale della pena e' altresi' revocata quando e' stata concessa in violazione dell'articolo 164, quarto comma, in presenza di cause ostative. La revoca e' disposta anche se la sospensione e' stata concessa ai sensi del comma 3 dell'articolo 444 del codice di procedura penale.",
+    "con_marcatori": "Art. 168. (Revoca della sospensione). Salva la disposizione dell'ultimo comma dell'art. 164, la sospensione condizionale della pena e' revocata di diritto qualora, nei termini stabiliti, il condannato: 1) commetta un delitto ovvero una contravvenzione della stessa indole, per cui venga inflitta una pena detentiva, o non adempia agli obblighi impostigli; 2) riporti un'altra condanna per un delitto anteriormente commesso a pena che, cumulata a quella precedentemente sospesa, supera i limiti stabiliti dall'art. 163. Qualora il condannato riporti un'altra condanna per un delitto anteriormente commesso, a pena che, cumulata a quella precedentemente sospesa, non supera i limiti stabiliti dall'art. 163, il giudice, tenuto conto dell'indole e della gravita' del reato, puo' revocare l'ordine di sospensione condizionale della pena. ((La sospensione condizionale della pena e' altresi' revocata quando e' stata concessa in violazione dell'articolo 164, quarto comma, in presenza di cause ostative. La revoca e' disposta anche se la sospensione e' stata concessa ai sensi del comma 3 dell'articolo 444 del codice di procedura penale)).",
+    "caratteri": 1093
+  },
+  "note": [
+    {
+      "numero": 49,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1970-06-10",
+        "numero": "86"
+      },
+      "testo": "La Corte Costituzionale con sentenza 3-10 giugno 1970, n. 86 (in G.U. 1ª s.s. 17/06/1970, n. 150) ha dichiarato la illegittimita' costituzionale del presente articolo: - nella parte in cui dispone che il giudice non possa esercitare il potere di concedere o negare, per la pena da comminare, il beneficio della sospensione condizionale o debba revocare di diritto la sospensione gia' concessa quando il secondo reato si lega con il vincolo della continuita' a quello punito con pena sospesa; - nella parte in cui per l'ipotesi di successiva irrogazione di pena pecuniaria, non conferisce al giudice il potere di subordinare la revoca della sospensione della pena detentiva al mancato pagamento della pena pecuniaria."
+    }
+  ],
+  "impronta": "sha256:f4514d7054d0eed08c8f96a67bf5df89429bb05e07f1fd66d3d3e215f72191b9"
+}

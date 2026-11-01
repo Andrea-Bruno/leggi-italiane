@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "957",
+    "rubrica": "Disposizioni inderogabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art957"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'enfiteusi, salvo che il titolo disponga altrimenti, e' regolata dalle norme contenute negli articoli seguenti. Il titolo non puo' tuttavia derogare alle norme contenute negli articoli 958, secondo comma, 961, secondo comma, 962, 965, 968, 971 e 973.",
+    "con_marcatori": "Art. 957. (Disposizioni inderogabili). L'enfiteusi, salvo che il titolo disponga altrimenti, e' regolata dalle norme contenute negli articoli seguenti. Il titolo non puo' tuttavia derogare alle norme contenute negli articoli 958, secondo comma, 961, secondo comma, 962, 965, 968, 971 e 973.",
+    "caratteri": 251
+  },
+  "note": [],
+  "impronta": "sha256:d98c2d0e96af89a38d4f6acda497fe1fb5682ff70bec6c559115d5b6b15b09c3"
+}

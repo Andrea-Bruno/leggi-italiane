@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "506",
+    "rubrica": "Serrata di esercenti di piccole industrie o commerci",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art506"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 69,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Gli esercenti di aziende industriali o commerciali, i quali, non avendo lavoratori alla loro dipendenza, in numero di tre o piu' sospendono collettivamente il lavoro per uno degli scopi indicati nei tre articoli precedenti, soggiacciono alle pene ivi rispettivamente stabilite per i datori di lavoro, ridotte alla meta'.",
+    "con_marcatori": "Art. 506. (Serrata di esercenti di piccole industrie o commerci) Gli esercenti di aziende industriali o commerciali, i quali, non avendo lavoratori alla loro dipendenza, in numero di tre o piu' sospendono collettivamente il lavoro per uno degli scopi indicati nei tre articoli precedenti, soggiacciono alle pene ivi rispettivamente stabilite per i datori di lavoro, ridotte alla meta'. ((69))",
+    "caratteri": 320
+  },
+  "note": [
+    {
+      "numero": 69,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 505, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1975-07-17",
+        "numero": "222"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 8 - 17 luglio 1975, n. 222 (in G.U. 1ª s.s. 23/07/1975, n. 195), ha dichiarato l'illegittimita' costituzionale del presente articolo \"in relazione all'art. 505, del codice penale, nella parte in cui punisce la sospensione del lavoro effettuata per protesta dagli esercenti di piccole aziende industriali o commerciali che non hanno lavoratori alla loro dipendenza\"."
+    }
+  ],
+  "impronta": "sha256:d5058bd9a686f1c842c172694589b433ff1d96da0cade5aa58110209b1bda3a6"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "724",
+    "rubrica": "Collazione e imputazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art724"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I coeredi tenuti a collazione, a norma del capo II di questo titolo, conferiscono tutto cio' che e' stato loro donato. Ciascun erede deve imputare alla sua quota le somme di cui era debitore verso il defunto e quelle di cui e' debitore verso i coeredi in dipendenza dei rapporti di comunione.",
+    "con_marcatori": "Art. 724. (Collazione e imputazione). I coeredi tenuti a collazione, a norma del capo II di questo titolo, conferiscono tutto cio' che e' stato loro donato. Ciascun erede deve imputare alla sua quota le somme di cui era debitore verso il defunto e quelle di cui e' debitore verso i coeredi in dipendenza dei rapporti di comunione.",
+    "caratteri": 292
+  },
+  "note": [],
+  "impronta": "sha256:10d0be57ec12ab1ccd3ef4570b99c64c44af01ab38e835461ef4ee85ab75e794"
+}

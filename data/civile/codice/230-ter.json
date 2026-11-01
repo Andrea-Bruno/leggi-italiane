@@ -1,0 +1,76 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "230-ter",
+    "rubrica": "Diritti del convivente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art230-ter"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 334,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Al convivente di fatto che presti stabilmente la propria opera all'interno dell'impresa dell'altro convivente spetta una partecipazione agli utili dell'impresa familiare ed ai beni acquistati con essi nonche' agli incrementi dell'azienda, anche in ordine all'avviamento, commisurata al lavoro prestato. Il diritto di partecipazione non spetta qualora tra i conviventi esista un rapporto di societa' o di lavoro subordinato.",
+    "con_marcatori": "Art. 230-ter. (Diritti del convivente). Al convivente di fatto che presti stabilmente la propria opera all'interno dell'impresa dell'altro convivente spetta una partecipazione agli utili dell'impresa familiare ed ai beni acquistati con essi nonche' agli incrementi dell'azienda, anche in ordine all'avviamento, commisurata al lavoro prestato. Il diritto di partecipazione non spetta qualora tra i conviventi esista un rapporto di societa' o di lavoro subordinato. ((334))",
+    "caratteri": 423
+  },
+  "note": [
+    {
+      "numero": 334,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 230-ter cod. civ",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2024-07-25",
+        "numero": "148"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 4 - 25 luglio 2024, n. 148 (in G.U. 1ª s.s. 31/07/2024, n. 31), ha dichiarato \"in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 230-ter cod. civ\"."
+    }
+  ],
+  "impronta": "sha256:152741e4efa8008fe70316614670c36e159eabdef34b80201370049ab4edc221"
+}

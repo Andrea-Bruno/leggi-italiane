@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "557",
+    "rubrica": "Soggetti che possono chiedere la riduzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art557"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La riduzione delle donazioni e delle disposizioni lesive della porzione di legittima non puo' essere domandata che dai legittimari e dai loro eredi o aventi causa. Essi non possono rinunziare a questo diritto, finche' vive il donante, ne' con dichiarazione espressa, ne' prestando il loro assenso alla donazione. I donatari e i legatari non possono chiedere la riduzione, ne' approfittarne. Non possono chiederla ne' approfittarne nemmeno i creditori del defunto, se il legittimario avente diritto alla riduzione ha accettato con il beneficio d'inventario.",
+    "con_marcatori": "Art. 557. (Soggetti che possono chiedere la riduzione). La riduzione delle donazioni e delle disposizioni lesive della porzione di legittima non puo' essere domandata che dai legittimari e dai loro eredi o aventi causa. Essi non possono rinunziare a questo diritto, finche' vive il donante, ne' con dichiarazione espressa, ne' prestando il loro assenso alla donazione. I donatari e i legatari non possono chiedere la riduzione, ne' approfittarne. Non possono chiederla ne' approfittarne nemmeno i creditori del defunto, se il legittimario avente diritto alla riduzione ha accettato con il beneficio d'inventario.",
+    "caratteri": 556
+  },
+  "note": [],
+  "impronta": "sha256:2c892bf9794ea4413ca61039d0bb5e594ca2923e5b63768c5054c2a20410c614"
+}

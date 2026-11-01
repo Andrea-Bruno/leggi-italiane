@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2513",
+    "rubrica": "Criteri per la definizione della prevalenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2513"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori e i sindaci documentano la condizione di prevalenza di cui al precedente articolo nella nota integrativa al bilancio, evidenziando contabilmente i seguenti parametri: a) i ricavi dalle vendite dei beni e dalle prestazioni di servizi verso i soci sono superiori al cinquanta per cento del totale dei ricavi delle vendite e delle prestazioni ai sensi dell'articolo 2425, primo comma, punto A1; b) il costo del lavoro dei soci e' superiore al cinquanta per cento del totale del costo del lavoro di cui all'articolo 2425, primo comma, punto B9 computate le altre forme di lavoro inerenti lo scopo mutualistico; c) il costo della produzione per servizi ricevuti dai soci ovvero per beni conferiti dai soci e' rispettivamente superiore al cinquanta per cento del totale dei costi dei servizi di cui all'articolo 2425, primo comma, punto B7, ovvero al costo delle merci o materie prime acquistate o conferite, di cui all'articolo 2425, primo comma, punto B6. Quando si realizzano contestualmente piu' tipi di scambio mutualistico, la condizione di prevalenza e' documentata facendo riferimento alla media ponderata delle percentuali delle lettere precedenti. Nelle cooperative agricole la condizione di prevalenza sussiste quando la quantita' o il valore dei prodotti conferiti dai soci e' superiore al cinquanta per cento della quantita' o del valore totale dei prodotti.",
+    "con_marcatori": "Art. 2513. (Criteri per la definizione della prevalenza). Gli amministratori e i sindaci documentano la condizione di prevalenza di cui al precedente articolo nella nota integrativa al bilancio, evidenziando contabilmente i seguenti parametri: a) i ricavi dalle vendite dei beni e dalle prestazioni di servizi verso i soci sono superiori al cinquanta per cento del totale dei ricavi delle vendite e delle prestazioni ai sensi dell'articolo 2425, primo comma, punto A1; b) il costo del lavoro dei soci e' superiore al cinquanta per cento del totale del costo del lavoro di cui all'articolo 2425, primo comma, punto B9 ((computate le altre forme di lavoro inerenti lo scopo mutualistico)); c) il costo della produzione per servizi ricevuti dai soci ovvero per beni conferiti dai soci e' rispettivamente superiore al cinquanta per cento del totale dei costi dei servizi di cui all'articolo 2425, primo comma, punto B7, ovvero al costo delle merci o materie prime acquistate o conferite, di cui all'articolo 2425, primo comma, punto B6. Quando si realizzano contestualmente piu' tipi di scambio mutualistico, la condizione di prevalenza e' documentata facendo riferimento alla media ponderata delle percentuali delle lettere precedenti. Nelle cooperative agricole la condizione di prevalenza sussiste quando la quantita' o il valore dei prodotti conferiti dai soci e' superiore al cinquanta per cento della quantita' o del valore totale dei prodotti.",
+    "caratteri": 1384
+  },
+  "note": [],
+  "impronta": "sha256:7573b3cd0ba3c61a68f7a69291d55b4c87c1248a8d927bb8e04e68f8710217dc"
+}

@@ -1,0 +1,120 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "640",
+    "rubrica": "Truffa",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art640"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 154,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, con artifizi o raggiri, inducendo taluno in errore, procura a se' o ad altri un ingiusto profitto con altrui danno, e' punito con la reclusione da sei mesi a tre anni e con la multa da lire cinquecento a diecimila. La pena e' della reclusione da uno a cinque anni e della multa da lire tremila a quindicimila: 1° se il fatto e' commesso a danno dello Stato o di un altro ente pubblico o dell'Unione europea o col pretesto di far esonerare taluno dal servizio militare; 2° se il fatto e' commesso ingenerando nella persona offesa il timore di un pericolo immaginario o l'erroneo convincimento di dovere eseguire un ordine dell'Autorita'; 2-bis) NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48. 2-ter) se il fatto e' commesso a distanza attraverso strumenti informatici o telematici idonei a ostacolare la propria o altrui identificazione. Quando ricorre la circostanza di cui all'articolo 61, numero 5), la pena e' della reclusione da due a sei anni e della multa da euro 700 a euro 3.000. Il delitto e' punibile a querela della persona offesa, salvo che ricorra taluna delle circostanze previste dal secondo comma, a eccezione di quella di cui al numero 2-ter) , e dal terzo comma.",
+    "con_marcatori": "Art. 640. (Truffa) Chiunque, con artifizi o raggiri, inducendo taluno in errore, procura a se' o ad altri un ingiusto profitto con altrui danno, e' punito con la reclusione da sei mesi a tre anni e con la multa da lire cinquecento a diecimila. La pena e' della reclusione da uno a cinque anni e della multa da lire tremila a quindicimila: 1° se il fatto e' commesso a danno dello Stato o di un altro ente pubblico o dell'Unione europea o col pretesto di far esonerare taluno dal servizio militare; 2° se il fatto e' commesso ingenerando nella persona offesa il timore di un pericolo immaginario o l'erroneo convincimento di dovere eseguire un ordine dell'Autorita'; (119) (154) 2-bis) ((NUMERO ABROGATO DAL D.L. 11 APRILE 2025, N. 48)). 2-ter) se il fatto e' commesso a distanza attraverso strumenti informatici o telematici idonei a ostacolare la propria o altrui identificazione. ((Quando ricorre la circostanza di cui all'articolo 61, numero 5), la pena e' della reclusione da due a sei anni e della multa da euro 700 a euro 3.000.)) Il delitto e' punibile a querela della persona offesa, salvo che ricorra taluna delle circostanze previste dal secondo comma, a eccezione di quella di cui al numero 2-ter) ((, e dal terzo comma)).",
+    "caratteri": 1190
+  },
+  "note": [
+    {
+      "numero": 119,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 12 aprile 1990, n. 75",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-04-12;75",
+          "data": "1990-04-12",
+          "numero": "75",
+          "data_gazzetta": "1990-04-12"
+        },
+        {
+          "denominazione": "articolo 61, n. 7, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 12 aprile 1990, n. 75 ha disposto (con l'art. 1, comma 1, lettera c)) che e' concessa amnistia per il delitto previsto dal comma secondo del presente articolo, sempre che non ricorra la circostanza aggravante prevista dall'articolo 61, n. 7, del codice penale. Ha inoltre disposto (con l'articolo 6, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 24 ottobre 1989."
+    },
+    {
+      "numero": 154,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 12 aprile 1990, n. 75",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-04-12;75",
+          "data": "1990-04-12",
+          "numero": "75",
+          "data_gazzetta": "1990-04-12"
+        },
+        {
+          "denominazione": "art. 1, comma 1, lettera c), n. 4 del D.P.R. 12 aprile 1990, n. 75",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-04-12;75",
+          "data": "1990-04-12",
+          "numero": "75",
+          "data_gazzetta": "1990-04-12"
+        },
+        {
+          "denominazione": "art. 234, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 61, n. 7, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1997-07-25",
+        "numero": "272"
+      },
+      "testo": "Successivamente la Corte Costituzionale, con sentenza 18-25 luglio 1997, n. 272 (in G.U. 1ª s.s. 30/7/1997, n. 31), ha dichiarato l'illegittimita' costituzionale dell'art. 1, comma 1, lettera c), n. 4 del D.P.R. 12 aprile 1990, n. 75 (che ha modificato il secondo comma del presente articolo) \"nella parte in cui non prevede l'applicazione dell'amnistia per il delitto di truffa militare aggravata, previsto e punito dall'art. 234, secondo comma, del codice penale militare di pace, sempre che non ricorra la circostanza aggravante prevista dall'art. 61, n. 7, del codice penale\"."
+    }
+  ],
+  "impronta": "sha256:d088404ffd8dc60dc741b75f4ff3dde602b79f6776daf6eff6244c15b490042b"
+}

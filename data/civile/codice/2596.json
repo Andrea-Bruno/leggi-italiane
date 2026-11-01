@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2596",
+    "rubrica": "Limiti contrattuali della concorrenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2596"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patto che limita la concorrenza deve essere provato per iscritto. Esso e' valido se circoscritto ad una determinata zona o ad una determinata attivita', e non puo' eccedere la durata di cinque anni. Se la durata del patto non e' determinata o e' stabilita per un periodo superiore a cinque anni, il patto e' valido per la durata di un quinquennio.",
+    "con_marcatori": "Art. 2596. (Limiti contrattuali della concorrenza). Il patto che limita la concorrenza deve essere provato per iscritto. Esso e' valido se circoscritto ad una determinata zona o ad una determinata attivita', e non puo' eccedere la durata di cinque anni. Se la durata del patto non e' determinata o e' stabilita per un periodo superiore a cinque anni, il patto e' valido per la durata di un quinquennio.",
+    "caratteri": 350
+  },
+  "note": [],
+  "impronta": "sha256:496c927e653f4f0c14167224ad53718e14b692ff36e90a6f5d863d89ca4fc120"
+}

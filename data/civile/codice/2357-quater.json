@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2357-quater",
+    "rubrica": "Divieto di sottoscrizione delle proprie azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2357-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo quanto previsto dall'articolo 2357-ter, secondo comma, la societa' non puo' sottoscrivere azioni proprie. Le azioni sottoscritte in violazione del divieto stabilito nel precedente comma si intendono sottoscritte e devono essere liberate dai promotori e dai soci fondatori o, in caso di aumento del capitale sociale, dagli amministratori. La presente disposizione non si applica a chi dimostri di essere esente da colpa. Chiunque abbia sottoscritto in nome proprio, ma per conto della societa', azioni di quest'ultima e' considerato a tutti gli effetti sottoscrittore per conto proprio. Della liberazione delle azioni rispondono solidalmente, a meno che dimostrino di essere esenti da colpa, i promotori, i soci fondatori e, nel caso di aumento del capitale sociale, gli amministratori.",
+    "con_marcatori": "Art. 2357-quater. (Divieto di sottoscrizione delle proprie azioni). Salvo quanto previsto dall'articolo 2357-ter, ((secondo comma)), la societa' non puo' sottoscrivere azioni proprie. Le azioni sottoscritte in violazione del divieto stabilito nel precedente comma si intendono sottoscritte e devono essere liberate dai promotori e dai soci fondatori o, in caso di aumento del capitale sociale, dagli amministratori. La presente disposizione non si applica a chi dimostri di essere esente da colpa. Chiunque abbia sottoscritto in nome proprio, ma per conto della societa', azioni di quest'ultima e' considerato a tutti gli effetti sottoscrittore per conto proprio. Della liberazione delle azioni rispondono solidalmente, a meno che dimostrino di essere esenti da colpa, i promotori, i soci fondatori e, nel caso di aumento del capitale sociale, gli amministratori.",
+    "caratteri": 791
+  },
+  "note": [],
+  "impronta": "sha256:4abad231b010943779a2e18406750ff3d171fa67eb5b2b31c33e1d0d8c2c6b49"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "615",
+    "rubrica": "Violazione di domicilio commessa da un pubblico ufficiale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art615"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale, che, abusando dei poteri inerenti alle sue funzioni, s'introduce o si trattiene nei luoghi indicati nell'articolo precedente, e' punito con la reclusione da uno a cinque anni. Se l'abuso consiste nell'introdursi nei detti luoghi senza l'osservanza delle formalita' prescritte dalla legge, la pena e' della reclusione fino a un anno. Nel caso previsto dal secondo comma il delitto e' punibile a querela della persona offesa.",
+    "con_marcatori": "Art. 615. (Violazione di domicilio commessa da un pubblico ufficiale) Il pubblico ufficiale, che, abusando dei poteri inerenti alle sue funzioni, s'introduce o si trattiene nei luoghi indicati nell'articolo precedente, e' punito con la reclusione da uno a cinque anni. Se l'abuso consiste nell'introdursi nei detti luoghi senza l'osservanza delle formalita' prescritte dalla legge, la pena e' della reclusione fino a un anno. ((Nel caso previsto dal secondo comma il delitto e' punibile a querela della persona offesa.))",
+    "caratteri": 446
+  },
+  "note": [],
+  "impronta": "sha256:381cadeec007656260223a57957e240106ca2ee2c268e2e8082001daec659f9f"
+}

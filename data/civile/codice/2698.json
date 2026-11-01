@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2698",
+    "rubrica": "Patti relativi all'onere della prova",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2698"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono nulli i patti con i quali e' invertito ovvero e' modificato l'onere della prova, quando si tratta di diritti di cui le parti non possono disporre o quando l'inversione o la modificazione ha per effetto di rendere a una delle parti eccessivamente difficile l'esercizio del diritto.",
+    "con_marcatori": "Art. 2698. (Patti relativi all'onere della prova). Sono nulli i patti con i quali e' invertito ovvero e' modificato l'onere della prova, quando si tratta di diritti di cui le parti non possono disporre o quando l'inversione o la modificazione ha per effetto di rendere a una delle parti eccessivamente difficile l'esercizio del diritto.",
+    "caratteri": 285
+  },
+  "note": [],
+  "impronta": "sha256:a2c5c32da7b3922255b9c92e458cd3c6ecd4ca2ef9c7e370505f7a26f52e908d"
+}

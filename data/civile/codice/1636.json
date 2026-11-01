@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1636",
+    "rubrica": "Perdita fortuita dei frutti negli affitti annuali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1636"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'affitto ha la durata di un solo anno, e si e' verificata la perdita per caso fortuito di almeno la meta' dei frutti, l'affittuario puo' essere esonerato dal pagamento di una parte del fitto, in misura non superiore alla meta'. 5a ------------- AGGIORNAMENTO (5a) La L. 12 giugno 1962, n. 567, ha disposto (con l'art. 12, comma 1) che \"La riduzione del canone di cui agli articoli 1635, comma primo, secondo e terzo, e 1636 del Codice civile, e' ammessa in relazione a ciascuna annata agraria a favore dell'affittuario, qualora per caso fortuito si verifichi perimento di frutti non ancora separati o mancata produzione di essi, in misura non inferiore al terzo della normale produzione\".",
+    "con_marcatori": "Art. 1636. (Perdita fortuita dei frutti negli affitti annuali). Se l'affitto ha la durata di un solo anno, e si e' verificata la perdita per caso fortuito di almeno la meta' dei frutti, l'affittuario puo' essere esonerato dal pagamento di una parte del fitto, in misura non superiore alla meta'. ((5a)) ------------- AGGIORNAMENTO (5a) La L. 12 giugno 1962, n. 567, ha disposto (con l'art. 12, comma 1) che \"La riduzione del canone di cui agli articoli 1635, comma primo, secondo e terzo, e 1636 del Codice civile, e' ammessa in relazione a ciascuna annata agraria a favore dell'affittuario, qualora per caso fortuito si verifichi perimento di frutti non ancora separati o mancata produzione di essi, in misura non inferiore al terzo della normale produzione\".",
+    "caratteri": 692
+  },
+  "note": [],
+  "impronta": "sha256:445d821c60c6708c66b93fccb6a04e34dc5eb99f5c33318b07c17509332f487f"
+}

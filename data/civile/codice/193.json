@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "193",
+    "rubrica": "Separazione giudiziale dei beni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art193"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La separazione giudiziale dei beni puo' essere pronunziata in caso di interdizione o di inabilitazione di uno dei coniugi o di cattiva amministrazione della comunione. Puo' altresi' essere pronunziata quando il disordine degli affari di uno dei coniugi o la condotta da questi tenuta nell'amministrazione dei beni mette in pericolo gli interessi dell'altro o della comunione o della famiglia, oppure quando uno dei coniugi non contribuisce ai bisogni di questa in misura proporzionale alle proprie sostanze e capacita' di lavoro. La separazione puo' essere chiesta da uno dei coniugi o dal suo legale rappresentante. La sentenza che pronunzia la separazione retroagisce al giorno in cui e' stata proposta la domanda ed ha lo effetto di instaurare il regime di separazione dei beni regolato nella sezione V del presente capo, salvi i diritti dei terzi. La sentenza e' annotata a margine dell'atto di matrimonio e sull'originale delle convenzioni matrimoniali.",
+    "con_marcatori": "Art. 193. ((Separazione giudiziale dei beni.)) ((La separazione giudiziale dei beni puo' essere pronunziata in caso di interdizione o di inabilitazione di uno dei coniugi o di cattiva amministrazione della comunione. Puo' altresi' essere pronunziata quando il disordine degli affari di uno dei coniugi o la condotta da questi tenuta nell'amministrazione dei beni mette in pericolo gli interessi dell'altro o della comunione o della famiglia, oppure quando uno dei coniugi non contribuisce ai bisogni di questa in misura proporzionale alle proprie sostanze e capacita' di lavoro. La separazione puo' essere chiesta da uno dei coniugi o dal suo legale rappresentante. La sentenza che pronunzia la separazione retroagisce al giorno in cui e' stata proposta la domanda ed ha lo effetto di instaurare il regime di separazione dei beni regolato nella sezione V del presente capo, salvi i diritti dei terzi. La sentenza e' annotata a margine dell'atto di matrimonio e sull'originale delle convenzioni matrimoniali)).",
+    "caratteri": 958
+  },
+  "note": [],
+  "impronta": "sha256:5f434d9781779682f40fbf3ac7a5b72e7adf9662ef8ad2691030e595cb443cfb"
+}

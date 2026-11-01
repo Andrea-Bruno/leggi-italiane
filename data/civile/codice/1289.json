@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1289",
+    "rubrica": "Impossibilita' colposa di una delle prestazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1289"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando la scelta spetta al debitore, l'obbligazione alternativa diviene semplice, se una delle due prestazioni diventa impossibile anche per causa a lui imputabile. Se una delle due prestazioni diviene impossibile per colpa del creditore, il debitore e' liberato dall'obbligazione, qualora non preferisca eseguire l'altra prestazione e chiedere il risarcimento dei danni. Quando la scelta spetta al creditore, il debitore e' liberato dall'obbligazione, se una delle due prestazioni diviene impossibile per colpa del creditore, salvo che questi preferisca esigere l'altra prestazione e risarcire il danno. Se dell'impossibilita' deve rispondere il debitore, il creditore puo' scegliere l'altra prestazione o esigere il risarcimento del danno.",
+    "con_marcatori": "Art. 1289. (Impossibilita' colposa di una delle prestazioni). Quando la scelta spetta al debitore, l'obbligazione alternativa diviene semplice, se una delle due prestazioni diventa impossibile anche per causa a lui imputabile. Se una delle due prestazioni diviene impossibile per colpa del creditore, il debitore e' liberato dall'obbligazione, qualora non preferisca eseguire l'altra prestazione e chiedere il risarcimento dei danni. Quando la scelta spetta al creditore, il debitore e' liberato dall'obbligazione, se una delle due prestazioni diviene impossibile per colpa del creditore, salvo che questi preferisca esigere l'altra prestazione e risarcire il danno. Se dell'impossibilita' deve rispondere il debitore, il creditore puo' scegliere l'altra prestazione o esigere il risarcimento del danno.",
+    "caratteri": 741
+  },
+  "note": [],
+  "impronta": "sha256:5eae7fe94f565304b8031655d72ad9986faa721b453a5164fc924f16b17ba748"
+}

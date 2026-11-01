@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "297",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art297"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Assenso del coniuge o dei genitori. Per l'adozione e' necessario l'assenso dei genitori dello adottando e l'assenso del coniuge dell'adottante e dello adottando, se coniugati e non legalmente separati. Quando e' negato l'assenso previsto dal primo comma, il tribunale, sentiti gli interessati, su istanza dello adottante, puo', ove ritenga il rifiuto ingiustificato o contrario all'interesse dell'adottando, pronunziare ugualmente l'adozione, salvo che si tratti dell'assenso dei genitori esercenti la responsabilita' genitoriale o del coniuge, se convivente, dell'adottante o dell'adottando. Parimenti il tribunale puo' pronunziare l'adozione quando e' impossibile ottenere l'assenso per incapacita' o irreperibilita' delle persone chiamate ad esprimerlo.",
+    "con_marcatori": "Art. 297. Assenso del coniuge o dei genitori. Per l'adozione e' necessario l'assenso dei genitori dello adottando e l'assenso del coniuge dell'adottante e dello adottando, se coniugati e non legalmente separati. Quando e' negato l'assenso previsto dal primo comma, il tribunale, sentiti gli interessati, su istanza dello adottante, puo', ove ritenga il rifiuto ingiustificato o contrario all'interesse dell'adottando, pronunziare ugualmente l'adozione, salvo che si tratti dell'assenso dei genitori esercenti la ((responsabilita' genitoriale)) o del coniuge, se convivente, dell'adottante o dell'adottando. Parimenti il tribunale puo' pronunziare l'adozione quando e' impossibile ottenere l'assenso per incapacita' o irreperibilita' delle persone chiamate ad esprimerlo.",
+    "caratteri": 756
+  },
+  "note": [],
+  "impronta": "sha256:9559bc756171297120a44469ccf2988e1b1d564a0df35dff6dc4900b0336a4a3"
+}

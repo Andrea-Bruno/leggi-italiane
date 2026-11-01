@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "482",
+    "rubrica": "Impugnazione per violenza o dolo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art482"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'accettazione dell'eredita' si puo' impugnare quando e' effetto di violenza o di dolo. L'azione si prescrive in cinque anni dal giorno in cui e' cessata la violenza o e' stato scoperto il dolo.",
+    "con_marcatori": "Art. 482. (Impugnazione per violenza o dolo). L'accettazione dell'eredita' si puo' impugnare quando e' effetto di violenza o di dolo. L'azione si prescrive in cinque anni dal giorno in cui e' cessata la violenza o e' stato scoperto il dolo.",
+    "caratteri": 194
+  },
+  "note": [],
+  "impronta": "sha256:3aa678ae2b16a3d69e1494d2d5ee0ff7ba7d72e505aca4da474d1ec0a32c43ef"
+}

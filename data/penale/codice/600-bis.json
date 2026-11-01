@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "600-bis",
+    "rubrica": "Prostituzione minorile",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art600-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' punito con la reclusione da sei a dodici anni e con la multa da euro 15.000 a euro 150.000 chiunque: 1) recluta o induce alla prostituzione una persona di eta' inferiore agli anni diciotto; 2) favorisce, sfrutta, gestisce, organizza o controlla la prostituzione di una persona di eta' inferiore agli anni diciotto, ovvero altrimenti ne trae profitto. Salvo che il fatto costituisca piu' grave reato, chiunque compie atti sessuali con un minore di eta' compresa tra i quattordici e i diciotto anni, in cambio di un corrispettivo in denaro o altra utilita', anche solo promessi, e' punito con la reclusione da uno a sei anni e con la multa da euro 1.500 a euro 6.000.",
+    "con_marcatori": "Art. 600-bis. (( (Prostituzione minorile).)) ((E' punito con la reclusione da sei a dodici anni e con la multa da euro 15.000 a euro 150.000 chiunque: 1) recluta o induce alla prostituzione una persona di eta' inferiore agli anni diciotto; 2) favorisce, sfrutta, gestisce, organizza o controlla la prostituzione di una persona di eta' inferiore agli anni diciotto, ovvero altrimenti ne trae profitto. Salvo che il fatto costituisca piu' grave reato, chiunque compie atti sessuali con un minore di eta' compresa tra i quattordici e i diciotto anni, in cambio di un corrispettivo in denaro o altra utilita', anche solo promessi, e' punito con la reclusione da uno a sei anni e con la multa da euro 1.500 a euro 6.000)).",
+    "caratteri": 668
+  },
+  "note": [],
+  "impronta": "sha256:3609bd3b57c9d5928f3637347ca12291c43af251c35e1f70cc2c99e8857adf21"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2409-terdecies",
+    "rubrica": "Competenza del consiglio di sorveglianza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2409-terdecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fermo restando quanto previsto dall'articolo 2396-quinquies, il consiglio di sorveglianza: a) nomina e revoca i componenti del consiglio di gestione; ne determina il compenso, salvo che la relativa competenza sia attribuita dallo statuto all'assemblea; b) approva il bilancio di esercizio e, ove redatto, il bilancio consolidato; c) LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47; d) promuove l'esercizio dell'azione di responsabilita' nei confronti dei componenti del consiglio di gestione; e) LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47; f) LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47 f-bis) se previsto dallo statuto, delibera in ordine alle operazioni strategiche e ai piani, industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti. Lo statuto puo' prevedere che in caso di mancata approvazione del bilancio o qualora lo richieda almeno un terzo dei componenti del consiglio di gestione o del consiglio di sorveglianza la competenza per l'approvazione del bilancio di esercizio sia attribuita all'assemblea. I componenti del consiglio di sorveglianza devono adempiere i loro doveri con la diligenza richiesta dalla natura dell'incarico. Sono responsabili solidalmente con i componenti del consiglio di gestione per i fatti o le omissioni di questi quando il danno non si sarebbe prodotto se avessero vigilato in conformita' degli obblighi della loro carica. I componenti del consiglio di sorveglianza possono assistere alle adunanze del consiglio di gestione e devono partecipare alle assemblee. In caso di omissione o di ingiustificato ritardo da parte consiglio di gestione, il consiglio di sorveglianza deve convocare l'assemblea ed eseguire le pubblicazioni prescritte dalla legge.",
+    "con_marcatori": "Art. 2409-terdecies. (Competenza del consiglio di sorveglianza). ((Fermo restando quanto previsto dall'articolo 2396-quinquies, il consiglio di sorveglianza:)) a) nomina e revoca i componenti del consiglio di gestione; ne determina il compenso, salvo che la relativa competenza sia attribuita dallo statuto all'assemblea; b) approva il bilancio di esercizio e, ove redatto, il bilancio consolidato; c) ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)); d) promuove l'esercizio dell'azione di responsabilita' nei confronti dei componenti del consiglio di gestione; e) ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)); f) ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)) f-bis) se previsto dallo statuto, delibera in ordine alle operazioni strategiche e ai piani, industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti. Lo statuto puo' prevedere che in caso di mancata approvazione del bilancio o qualora lo richieda almeno un terzo dei componenti del consiglio di gestione o del consiglio di sorveglianza la competenza per l'approvazione del bilancio di esercizio sia attribuita all'assemblea. I componenti del consiglio di sorveglianza devono adempiere i loro doveri con la diligenza richiesta dalla natura dell'incarico. Sono responsabili solidalmente con i componenti del consiglio di gestione per i fatti o le omissioni di questi quando il danno non si sarebbe prodotto se avessero vigilato in conformita' degli obblighi della loro carica. I componenti del consiglio di sorveglianza possono assistere alle adunanze del consiglio di gestione e devono partecipare alle assemblee. ((In caso di omissione o di ingiustificato ritardo da parte consiglio di gestione, il consiglio di sorveglianza deve convocare l'assemblea ed eseguire le pubblicazioni prescritte dalla legge.))",
+    "caratteri": 1794
+  },
+  "note": [],
+  "impronta": "sha256:e6f6f3586363a92d982473184b9ba871ad6d84e17c9579b4c501c58589eef1f2"
+}

@@ -1,0 +1,65 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "688",
+    "rubrica": "Ubriachezza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art688"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 186,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, in un luogo pubblico o aperto al pubblico, e' colto in stato di manifesta ubriachezza e' punito con la sanzione amministrativa pecuniaria da lire centomila a lire seicentomila. La pena e' dell'arresto da tre a sei mesi se il fatto e' commesso da chi ha gia' riportato una condanna per delitto non colposo contro la vita o la incolumita' individuale. La pena e' aumentata se la ubriachezza e' abituale.",
+    "con_marcatori": "Art. 688. (Ubriachezza) Chiunque, in un luogo pubblico o aperto al pubblico, e' colto in stato di manifesta ubriachezza e' punito con la sanzione amministrativa pecuniaria da lire centomila a lire seicentomila. La pena e' dell'arresto da tre a sei mesi se il fatto e' commesso da chi ha gia' riportato una condanna per delitto non colposo contro la vita o la incolumita' individuale. ((186)) La pena e' aumentata se la ubriachezza e' abituale.",
+    "caratteri": 411
+  },
+  "note": [
+    {
+      "numero": 186,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2002-07-17",
+        "numero": "354"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 10 - 17 luglio 2002, n. 354 (in G.U. 1ª s.s. 24/07/2002, n. 29), ha dichiarato l'illegittimita' costituzionale del secondo comma del presente articolo."
+    }
+  ],
+  "impronta": "sha256:5d0d1b8cc1514dfe84be88520ec2a3927cd5c3c74521637719536b3e5dbb85e3"
+}

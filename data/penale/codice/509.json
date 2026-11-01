@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "509",
+    "rubrica": "Inosservanza delle norme disciplinanti i rapporti di lavoro",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art509"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il datore di lavoro o il lavoratore, il quale non adempie gli obblighi che gli derivano da un contratto collettivo o dalle norme emanate dagli organi corporativi, e' punito con la sanzione amministrativa da lire duecentomila a lire un milione. COMMA ABROGATO DAL D.LGS. 19 DICEMBRE 1994, N. 758",
+    "con_marcatori": "Art. 509. ((Inosservanza delle norme disciplinanti i rapporti di lavoro)) Il datore di lavoro o il lavoratore, il quale non adempie gli obblighi che gli derivano da un contratto collettivo o dalle norme emanate dagli organi corporativi, ((e' punito con la sanzione amministrativa da lire duecentomila a lire un milione)). ((142)) ((COMMA ABROGATO DAL D.LGS. 19 DICEMBRE 1994, N. 758)) ((142))",
+    "caratteri": 294
+  },
+  "note": [
+    {
+      "numero": 142,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 19 dicembre 1994, n. 758",
+          "urn": "urn:nir:stato:decretoLegislativo:1994-12-19;758",
+          "data": "1994-12-19",
+          "numero": "758",
+          "data_gazzetta": "1995-01-26"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 19 dicembre 1994, n. 758 ha disposto (con l'art. 18, comma 1) che le presenti modifiche \"si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore del presente decreto, quando il procedimento penale non sia stato definito con sentenza o con decreto divenuti irrevocabili\"."
+    }
+  ],
+  "impronta": "sha256:8f8f4b5b64649fdec81ff04500e98cd29486063464b839598142d3f0b675a385"
+}

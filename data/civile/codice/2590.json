@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2590",
+    "rubrica": "Invenzione del prestatore di lavoro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2590"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il prestatore di lavoro ha diritto di essere riconosciuto autore dell'invenzione fatta nello svolgimento del rapporto di lavoro. I diritti e gli obblighi delle parti relativi all'invenzione sono regolati dalle leggi speciali.",
+    "con_marcatori": "Art. 2590. (Invenzione del prestatore di lavoro). Il prestatore di lavoro ha diritto di essere riconosciuto autore dell'invenzione fatta nello svolgimento del rapporto di lavoro. I diritti e gli obblighi delle parti relativi all'invenzione sono regolati dalle leggi speciali.",
+    "caratteri": 225
+  },
+  "note": [],
+  "impronta": "sha256:b85300e986df4e481edf94ee3ee4a64289655cb056bb5f6fc338be4307ec77a5"
+}

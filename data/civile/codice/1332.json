@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1332",
+    "rubrica": "Adesione di altre parti al contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1332"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se ad un contratto possono aderire altre parti e non sono determinate le modalita' dell'adesione, questa deve essere diretta all'organo che sia stato costituito per l'attuazione del contratto o, in mancanza di esso, a tutti i contraenti originari.",
+    "con_marcatori": "Art. 1332. (Adesione di altre parti al contratto). Se ad un contratto possono aderire altre parti e non sono determinate le modalita' dell'adesione, questa deve essere diretta all'organo che sia stato costituito per l'attuazione del contratto o, in mancanza di esso, a tutti i contraenti originari.",
+    "caratteri": 247
+  },
+  "note": [],
+  "impronta": "sha256:2956d0e664b6d6ff8ab65099a4f3e813a6d9c1aaea563302edb0a4ba35477f90"
+}

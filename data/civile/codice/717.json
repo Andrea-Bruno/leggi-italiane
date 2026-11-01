@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "717",
+    "rubrica": "Sospensione della divisione per ordine del giudice",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art717"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'autorita' giudiziaria, su istanza di uno dei coeredi, puo' sospendere, per un periodo di tempo non eccedente i cinque anni, la divisione dell'eredita' o di alcuni beni, qualora l'immediata sua esecuzione possa recare notevole pregiudizio al patrimonio ereditario.",
+    "con_marcatori": "Art. 717. (Sospensione della divisione per ordine del giudice). L'autorita' giudiziaria, su istanza di uno dei coeredi, puo' sospendere, per un periodo di tempo non eccedente i cinque anni, la divisione dell'eredita' o di alcuni beni, qualora l'immediata sua esecuzione possa recare notevole pregiudizio al patrimonio ereditario.",
+    "caratteri": 265
+  },
+  "note": [],
+  "impronta": "sha256:cf987fd4f90818b7027f2652f8d9a30deed1655b547c1fa5314740f19c23b319"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "325",
+    "rubrica": "Utilizzazione d'invenzioni o scoperte conosciute per ragione di ufficio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art325"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale o l'incaricato di un pubblico servizio, che impiega, a proprio o altrui profitto, invenzioni o scoperte scientifiche, o nuove applicazioni industriali, che egli conosca per ragione dell'ufficio o servizio, e che debbano rimanere segrete, e' punito con la reclusione da uno a cinque anni e con la multa non inferiore a lire cinquemila.",
+    "con_marcatori": "Art. 325. (Utilizzazione d'invenzioni o scoperte conosciute per ragione di ufficio) Il pubblico ufficiale o l'incaricato di un pubblico servizio, che impiega, a proprio o altrui profitto, invenzioni o scoperte scientifiche, o nuove applicazioni industriali, che egli conosca per ragione dell'ufficio o servizio, e che debbano rimanere segrete, e' punito con la reclusione da uno a cinque anni e con la multa non inferiore a lire cinquemila.",
+    "caratteri": 356
+  },
+  "note": [],
+  "impronta": "sha256:bc39d5c14ecde460f0aaf1a2c9fdee7cfb5598f989864dfe6433cb8641b1cdbb"
+}

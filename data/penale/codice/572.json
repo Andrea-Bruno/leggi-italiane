@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "572",
+    "rubrica": "Maltrattamenti contro familiari e conviventi",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art572"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi indicati nell'articolo precedente, maltratta una persona della famiglia o comunque convivente ovvero non piu' convivente nel caso in cui l'agente e la vittima siano legati da vincoli nascenti dalla filiazione, o una persona sottoposta alla sua autorita' o a lui affidata per ragioni di educazione, istruzione, cura, vigilanza o custodia, o per l'esercizio di una professione o di un'arte, e' punito con la reclusione da tre a sette anni. La pena e' aumentata fino alla meta' se il fatto e' commesso in presenza o in danno di persona minore, di donna in stato di gravidanza o di persona con disabilita' come definita ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104, ovvero se il fatto e' commesso con armi. COMMA ABROGATO DAL D.L. 14 AGOSTO 2013, N. 93, CONVERTITO CON MODIFICAZIONI DALLA L. 15 OTTOBRE 2013, N. 119. Se dal fatto deriva una lesione personale grave, si applica la reclusione da quattro a nove anni; se ne deriva una lesione gravissima, la reclusione da sette a quindici anni; se ne deriva la morte, la reclusione da dodici a ventiquattro anni. Il minore di anni diciotto che assiste ai maltrattamenti di cui al presente articolo si considera persona offesa dal reato. La pena e' aumentata da un terzo alla meta' quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali.",
+    "con_marcatori": "Art. 572. (Maltrattamenti contro familiari e conviventi). Chiunque, fuori dei casi indicati nell'articolo precedente, maltratta una persona della famiglia o comunque convivente ((ovvero non piu' convivente nel caso in cui l'agente e la vittima siano legati da vincoli nascenti dalla filiazione)), o una persona sottoposta alla sua autorita' o a lui affidata per ragioni di educazione, istruzione, cura, vigilanza o custodia, o per l'esercizio di una professione o di un'arte, e' punito con la reclusione da tre a sette anni. La pena e' aumentata fino alla meta' se il fatto e' commesso in presenza o in danno di persona minore, di donna in stato di gravidanza o di persona con disabilita' come definita ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104, ovvero se il fatto e' commesso con armi. COMMA ABROGATO DAL D.L. 14 AGOSTO 2013, N. 93, CONVERTITO CON MODIFICAZIONI DALLA L. 15 OTTOBRE 2013, N. 119. Se dal fatto deriva una lesione personale grave, si applica la reclusione da quattro a nove anni; se ne deriva una lesione gravissima, la reclusione da sette a quindici anni; se ne deriva la morte, la reclusione da dodici a ventiquattro anni. Il minore di anni diciotto che assiste ai maltrattamenti di cui al presente articolo si considera persona offesa dal reato. ((La pena e' aumentata da un terzo alla meta' quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali)).",
+    "caratteri": 1559
+  },
+  "note": [],
+  "impronta": "sha256:ae14c9e96cba253b3ef71fc26cc3096f0d15c3f9f420061a867abf60b4b802a8"
+}

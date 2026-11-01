@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "481",
+    "rubrica": "Falsita' ideologica in certificati commessa da persone esercenti un servizio di pubblica necessita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art481"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, nell'esercizio di una professione sanitaria o forense, o di un altro servizio di pubblica necessita', attesta falsamente, in un certificato, fatti dei quali l'atto e' destinato a provare la verita', e' punito con la reclusione fino a un anno o con la multa da lire cinquecento a cinquemila. Tali pene si applicano congiuntamente se il fatto e' commesso a scopo di lucro.",
+    "con_marcatori": "Art. 481. (Falsita' ideologica in certificati commessa da persone esercenti un servizio di pubblica necessita') Chiunque, nell'esercizio di una professione sanitaria o forense, o di un altro servizio di pubblica necessita', attesta falsamente, in un certificato, fatti dei quali l'atto e' destinato a provare la verita', e' punito con la reclusione fino a un anno o con la multa da lire cinquecento a cinquemila. Tali pene si applicano congiuntamente se il fatto e' commesso a scopo di lucro. ((86))",
+    "caratteri": 380
+  },
+  "note": [
+    {
+      "numero": 86,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 26 novembre 1980, n. 776",
+          "urn": "urn:nir:stato:decretoLegge:1980-11-26;776",
+          "data": "1980-11-26",
+          "numero": "776",
+          "data_gazzetta": "1980-11-27"
+        },
+        {
+          "denominazione": "L. 22 dicembre 1980, n. 874",
+          "urn": "urn:nir:stato:legge:1980-12-22;874",
+          "data": "1980-12-22",
+          "numero": "874",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articoli 479",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "480",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "481",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "483 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 26 novembre 1980, n. 776, convertito con modificazioni dalla L. 22 dicembre 1980, n. 874, ha disposto (con l'art. 15-quater, comma 1) che \"Le pene per i reati previsti dagli articoli 479, 480, 481 e 483 del codice penale, commessi per conseguire benefici disposti a favore delle popolazioni colpite dagli eventi sismici del novembre 1980, sono aumentate fino alla meta'\"."
+    }
+  ],
+  "impronta": "sha256:e3c46b15d7e88e3be6ea067326d9385a28c2c73ac7a129071fcee813421322d2"
+}

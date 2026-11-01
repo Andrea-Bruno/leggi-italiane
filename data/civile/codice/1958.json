@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1958",
+    "rubrica": "Effetti del mandato di credito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1958"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se una persona si obbliga verso un'altra, che le ha conferito l'incarico, a fare credito a un terzo, in nome e per conto proprio, quella che ha dato l'incarico risponde come fideiussore di un debito futuro. Colui che ha accettato l'incarico non puo' rinunziarvi, ma chi l'ha conferito puo' revocarlo, salvo l'obbligo di risarcire il danno all'altra parte.",
+    "con_marcatori": "Art. 1958. (Effetti del mandato di credito). Se una persona si obbliga verso un'altra, che le ha conferito l'incarico, a fare credito a un terzo, in nome e per conto proprio, quella che ha dato l'incarico risponde come fideiussore di un debito futuro. Colui che ha accettato l'incarico non puo' rinunziarvi, ma chi l'ha conferito puo' revocarlo, salvo l'obbligo di risarcire il danno all'altra parte.",
+    "caratteri": 355
+  },
+  "note": [],
+  "impronta": "sha256:47a472f886711892e0184c359933c00ccd1ca65c5b0b8ddc583054368df32569"
+}

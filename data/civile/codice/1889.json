@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1889",
+    "rubrica": "Polizze all'ordine e al portatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1889"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la polizza di assicurazione e' all'ordine o al portatore, il suo trasferimento importa trasferimento del credito verso l'assicuratore, con gli effetti della cessione. Tuttavia l'assicuratore e' liberato se senza dolo o colpa grave adempie la prestazione nei confronti del giratario o del portatore della polizza, anche se questi non e' l'assicurato. In caso di smarrimento, furto o distruzione della polizza all'ordine, si applicano le disposizioni relative all'ammortamento dei titoli all'ordine.",
+    "con_marcatori": "Art. 1889. (Polizze all'ordine e al portatore). Se la polizza di assicurazione e' all'ordine o al portatore, il suo trasferimento importa trasferimento del credito verso l'assicuratore, con gli effetti della cessione. Tuttavia l'assicuratore e' liberato se senza dolo o colpa grave adempie la prestazione nei confronti del giratario o del portatore della polizza, anche se questi non e' l'assicurato. In caso di smarrimento, furto o distruzione della polizza all'ordine, si applicano le disposizioni relative all'ammortamento dei titoli all'ordine.",
+    "caratteri": 500
+  },
+  "note": [],
+  "impronta": "sha256:882d6e6692287c45f01093a25f573fae01615f5dfa8a182d4dca142a0c3edef8"
+}

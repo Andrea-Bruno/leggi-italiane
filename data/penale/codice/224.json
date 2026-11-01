@@ -1,0 +1,89 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "224",
+    "rubrica": "Minore non imputabile",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art224"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 51,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Qualora il fatto commesso da un minore degli anni quattordici sia preveduto dalla legge come delitto, ed egli sia pericoloso, il giudice, tenuto specialmente conto della gravita' del fatto e delle condizioni morali della famiglia in cui il minore e' vissuto, ordina che questi sia ricoverato nel riformatorio giudiziario o posto in liberta' vigilata. Se, per il delitto, la legge stabilisce la pena di morte o l'ergastolo, o la reclusione non inferiore nel minimo a tre anni, e non si tratta di delitto colposo, e' sempre ordinato il ricovero del minore nel riformatorio per un tempo non inferiore a tre anni. Le disposizioni precedenti si applicano anche al minore che, nel momento in cui ha commesso il fatto preveduto dalla legge come delitto, aveva compiuto gli anni quattordici, ma non ancora i diciotto, se egli sia riconosciuto non imputabile, a norma dell'articolo 98.",
+    "con_marcatori": "Art. 224. (Minore non imputabile) Qualora il fatto commesso da un minore degli anni quattordici sia preveduto dalla legge come delitto, ed egli sia pericoloso, il giudice, tenuto specialmente conto della gravita' del fatto e delle condizioni morali della famiglia in cui il minore e' vissuto, ordina che questi sia ricoverato nel riformatorio giudiziario o posto in liberta' vigilata. Se, per il delitto, la legge stabilisce la pena di morte o l'ergastolo, o la reclusione non inferiore nel minimo a tre anni, e non si tratta di delitto colposo, e' sempre ordinato il ricovero del minore nel riformatorio per un tempo non inferiore a tre anni. (5)((51)) Le disposizioni precedenti si applicano anche al minore che, nel momento in cui ha commesso il fatto preveduto dalla legge come delitto, aveva compiuto gli anni quattordici, ma non ancora i diciotto, se egli sia riconosciuto non imputabile, a norma dell'articolo 98.",
+    "caratteri": 876
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 51,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1971-01-20",
+        "numero": "1"
+      },
+      "testo": "La Corte Costituzionale con sentenza 12-20 gennaio 1971, n. 1 (in G.U. 1ª s.s. 27/01/1971, n. 22) ha dichiarato l'illegittimita' costituzionale del secondo comma del presente articolo nella parte in cui rende obbligatorio ed automatico, per i minori degli anni quattordici, il ricovero, per almeno tre anni, in riformatorio giudiziario."
+    }
+  ],
+  "impronta": "sha256:eac50dff5e05964910d87d38d7317f7f491b7de2ff5cb7b5ff34957624be6b6c"
+}

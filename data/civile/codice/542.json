@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "542",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art542"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Concorso di coniuge e figli. Se chi muore lascia, oltre al coniuge, un solo figlio, ... a quest'ultimo e' riservato un terzo del patrimonio ed un altro terzo spetta al coniuge. Quando i figli ..., sono piu' di uno, ad essi e' complessivamente riservata la meta' del patrimonio e al coniuge spetta un quarto del patrimonio del defunto. La divisione tra tutti i figli, legittimi e naturali, e' effettuata in parti uguali. COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154.",
+    "con_marcatori": "Art. 542. Concorso di coniuge e figli. Se chi muore lascia, oltre al coniuge, un solo figlio, ((...)) a quest'ultimo e' riservato un terzo del patrimonio ed un altro terzo spetta al coniuge. Quando i figli ((...)), sono piu' di uno, ad essi e' complessivamente riservata la meta' del patrimonio e al coniuge spetta un quarto del patrimonio del defunto. La divisione tra tutti i figli, legittimi e naturali, e' effettuata in parti uguali.((223)) ((COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154)).",
+    "caratteri": 471
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "articolo 542 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 73, comma 1, lettera b)) che \"All'articolo 542 del codice civile sono apportate le seguenti modificazioni: [...] b) al secondo comma le parole: \", legittimi o naturali\" ovunque presenti sono soppresse\"."
+    }
+  ],
+  "impronta": "sha256:931dbb5eb37bcf8c6357d1954cf4dfe11995a781c079d58a0f3e3f95832fed72"
+}

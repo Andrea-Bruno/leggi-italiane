@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2712",
+    "rubrica": "Riproduzioni meccaniche",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2712"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le riproduzioni fotografiche, informatiche o cinematografiche, le registrazioni fonografiche e, in genere, ogni altra rappresentazione meccanica di fatti e di cose formano piena prova dei fatti e delle cose rappresentate, se colui contro il quale sono prodotte non ne disconosce la conformita' ai fatti o alle cose medesime. 196a ------------- AGGIORNAMENTO (196a) Il D.Lgs. 7 marzo 2005, n. 82, come modificato dal D.Lgs. 30 dicembre 2010, n. 235, ha disposto (con l'art. 23-quater, comma 1) che \"All'articolo 2712 del codice civile dopo le parole: \"riproduzioni fotografiche\" e' inserita la seguente: \", informatiche\".\"",
+    "con_marcatori": "Art. 2712. (Riproduzioni meccaniche). Le riproduzioni fotografiche, informatiche o cinematografiche, le registrazioni fonografiche e, in genere, ogni altra rappresentazione meccanica di fatti e di cose formano piena prova dei fatti e delle cose rappresentate, se colui contro il quale sono prodotte non ne disconosce la conformita' ai fatti o alle cose medesime. ((196a)) ------------- AGGIORNAMENTO (196a) Il D.Lgs. 7 marzo 2005, n. 82, come modificato dal D.Lgs. 30 dicembre 2010, n. 235, ha disposto (con l'art. 23-quater, comma 1) che \"All'articolo 2712 del codice civile dopo le parole: \"riproduzioni fotografiche\" e' inserita la seguente: \", informatiche\".\"",
+    "caratteri": 621
+  },
+  "note": [],
+  "impronta": "sha256:97bf47c10e134fd280531d2799ab0fac62338b7e16969d14eda7f3f9684133d0"
+}

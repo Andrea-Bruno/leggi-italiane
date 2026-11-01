@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "355",
+    "rubrica": "Inadempimento di contratti di pubbliche forniture",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art355"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, non adempiendo gli obblighi che gli derivano da un contratto di fornitura concluso con lo Stato, o con un altro ente pubblico, ovvero con un'impresa esercente servizi pubblici o di pubblica necessita', fa mancare, in tutto o in parte, cose od opere, che siano necessarie a uno stabilimento pubblico o ad un pubblico servizio, e' punito con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire mille. La pena e' aumentata se la fornitura concerne: 1° sostanze alimentari o medicinali, ovvero cose od opere destinate alle comunicazioni per terra, per acqua o per aria, o alle comunicazioni telegrafiche o telefoniche; 2° cose od opere destinate all'armamento o all'equipaggiamento delle forze armate dello Stato; 3° cose od opere destinate ad ovviare a un comune pericolo o ad un pubblico infortunio. Se il fatto e' commesso per colpa, si applica la reclusione fino a un anno, ovvero la multa da lire cinquecento a ventimila. Le stesse disposizioni si applicano ai subfornitori, ai mediatori e ai rappresentanti dei fornitori, quando essi, violando i loro obblighi contrattuali, hanno fatto mancare la fornitura.",
+    "con_marcatori": "Art. 355. (Inadempimento di contratti di pubbliche forniture) Chiunque, non adempiendo gli obblighi che gli derivano da un contratto di fornitura concluso con lo Stato, o con un altro ente pubblico, ovvero con un'impresa esercente servizi pubblici o di pubblica necessita', fa mancare, in tutto o in parte, cose od opere, che siano necessarie a uno stabilimento pubblico o ad un pubblico servizio, e' punito con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire mille. La pena e' aumentata se la fornitura concerne: 1° sostanze alimentari o medicinali, ovvero cose od opere destinate alle comunicazioni per terra, per acqua o per aria, o alle comunicazioni telegrafiche o telefoniche; 2° cose od opere destinate all'armamento o all'equipaggiamento delle forze armate dello Stato; 3° cose od opere destinate ad ovviare a un comune pericolo o ad un pubblico infortunio. Se il fatto e' commesso per colpa, si applica la reclusione fino a un anno, ovvero la multa da lire cinquecento a ventimila. Le stesse disposizioni si applicano ai subfornitori, ai mediatori e ai rappresentanti dei fornitori, quando essi, violando i loro obblighi contrattuali, hanno fatto mancare la fornitura.",
+    "caratteri": 1140
+  },
+  "note": [],
+  "impronta": "sha256:2c0ccb3933663f64377e4d7901f7632f4f00986510152d980b4bb76718390d65"
+}

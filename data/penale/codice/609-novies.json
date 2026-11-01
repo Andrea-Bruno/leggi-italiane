@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "609-novies",
+    "rubrica": "Pene accessorie ed altri effetti penali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art609-novies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La condanna o l'applicazione della pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies e 609-undecies comporta: 1) la perdita della responsabilita' genitoriale, quando la qualita' di genitore e' elemento costitutivo o circostanza aggravante del reato; 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno; 3) la perdita del diritto agli alimenti e l'esclusione dalla successione della persona offesa; 4) l'interdizione temporanea dai pubblici uffici; l'interdizione dai pubblici uffici per la durata di anni cinque in seguito alla condanna alla reclusione da tre a cinque anni, ferma restando, comunque, l'applicazione dell'articolo 29, primo comma, quanto all'interdizione perpetua; 5) la sospensione dall'esercizio di una professione o di un'arte. La condanna o l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-octies e 609-undecies, se commessi nei confronti di persona che non ha compiuto gli anni diciotto, 609-quater e 609-quinquies, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado nonche' da ogni ufficio o servizio in istituzioni o in altre strutture pubbliche o private frequentate prevalentemente da minori. La condanna per i delitti previsti dall'articolo 600-bis, secondo comma, dall'articolo 609-bis, nelle ipotesi aggravate di cui all'articolo 609-ter, dagli articoli 609-quater, 609-quinquies e 609-octies, nelle ipotesi aggravate di cui al terzo comma del medesimo articolo, comporta, dopo l'esecuzione della pena e per una durata minima di un anno, l'applicazione delle seguenti misure di sicurezza personali: 1) l'eventuale imposizione di restrizione dei movimenti e della libera circolazione, nonche' il divieto di avvicinarsi a luoghi frequentati abitualmente da minori; 2) il divieto di svolgere lavori che prevedano un contatto abituale con minori; 3) l'obbligo di tenere informati gli organi di polizia sulla propria residenza e sugli eventuali spostamenti. Chiunque viola le disposizioni previste dal terzo comma e' soggetto alla pena della reclusione fino a tre anni.",
+    "con_marcatori": "Art. 609-nonies. (Pene accessorie ed altri effetti penali). La condanna o l'applicazione della pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies e 609-undecies comporta: 1) la perdita della ((responsabilita' genitoriale)), quando la qualita' di genitore e' elemento costitutivo o circostanza aggravante del reato; 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno; 3) la perdita del diritto agli alimenti e l'esclusione dalla successione della persona offesa; 4) l'interdizione temporanea dai pubblici uffici; l'interdizione dai pubblici uffici per la durata di anni cinque in seguito alla condanna alla reclusione da tre a cinque anni, ferma restando, comunque, l'applicazione dell'articolo 29, primo comma, quanto all'interdizione perpetua; 5) la sospensione dall'esercizio di una professione o di un'arte. La condanna o l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-octies e 609-undecies, se commessi nei confronti di persona che non ha compiuto gli anni diciotto, 609-quater e 609-quinquies, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado nonche' da ogni ufficio o servizio in istituzioni o in altre strutture pubbliche o private frequentate prevalentemente da minori. La condanna per i delitti previsti dall'articolo 600-bis, secondo comma, dall'articolo 609-bis, nelle ipotesi aggravate di cui all'articolo 609-ter, dagli articoli 609-quater, 609-quinquies e 609-octies, nelle ipotesi aggravate di cui al terzo comma del medesimo articolo, comporta, dopo l'esecuzione della pena e per una durata minima di un anno, l'applicazione delle seguenti misure di sicurezza personali: 1) l'eventuale imposizione di restrizione dei movimenti e della libera circolazione, nonche' il divieto di avvicinarsi a luoghi frequentati abitualmente da minori; 2) il divieto di svolgere lavori che prevedano un contatto abituale con minori; 3) l'obbligo di tenere informati gli organi di polizia sulla propria residenza e sugli eventuali spostamenti. Chiunque viola le disposizioni previste dal terzo comma e' soggetto alla pena della reclusione fino a tre anni.",
+    "caratteri": 2382
+  },
+  "note": [],
+  "impronta": "sha256:ab3bcd9f7b663d0d8f993085ad7773ead837cf940b156cb67a2f74699e621eb4"
+}

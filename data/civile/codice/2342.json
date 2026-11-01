@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2342",
+    "rubrica": "Conferimenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2342"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se nell'atto costitutivo non e' stabilito diversamente, il conferimento deve farsi in danaro. Alla sottoscrizione dell'atto costitutivo deve essere versato presso una banca almeno il venticinque per cento dei conferimenti in danaro o, nel caso di costituzione con atto unilaterale, il loro intero ammontare. Per i conferimenti di beni in natura e di crediti si osservano le disposizioni degli articoli 2254 e 2255. Le azioni corrispondenti a tali conferimenti devono essere integralmente liberate al momento della sottoscrizione. Se viene meno la pluralita' dei soci, i versamenti ancora dovuti devono essere effettuati entro novanta giorni. Non possono formare oggetto di conferimento le prestazioni di opera o di servizi.",
+    "con_marcatori": "Art. 2342. (( (Conferimenti). )) ((Se nell'atto costitutivo non e' stabilito diversamente, il conferimento deve farsi in danaro. Alla sottoscrizione dell'atto costitutivo deve essere versato presso una banca almeno il venticinque per cento dei conferimenti in danaro o, nel caso di costituzione con atto unilaterale, il loro intero ammontare. Per i conferimenti di beni in natura e di crediti si osservano le disposizioni degli articoli 2254 e 2255. Le azioni corrispondenti a tali conferimenti devono essere integralmente liberate al momento della sottoscrizione. Se viene meno la pluralita' dei soci, i versamenti ancora dovuti devono essere effettuati entro novanta giorni. Non possono formare oggetto di conferimento le prestazioni di opera o di servizi.))",
+    "caratteri": 723
+  },
+  "note": [],
+  "impronta": "sha256:a596cce0186f22ef1ac946c1ece50d358bf807acf06b959c0e6ecb072bb69827"
+}

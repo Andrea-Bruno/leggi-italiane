@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "18",
+    "rubrica": "Denominazione e classificazione delle pene principali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art18"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sotto la denominazione di pene detentive o restrittive della liberta' personale la legge comprende: l'ergastolo, la reclusione e l'arresto. Sotto la denominazione di pene pecuniarie la legge comprende: la multa e l'ammenda.",
+    "con_marcatori": "Art. 18. (Denominazione e classificazione delle pene principali) Sotto la denominazione di pene detentive o restrittive della liberta' personale la legge comprende: l'ergastolo, la reclusione e l'arresto. Sotto la denominazione di pene pecuniarie la legge comprende: la multa e l'ammenda.",
+    "caratteri": 223
+  },
+  "note": [],
+  "impronta": "sha256:a9d7db52b1f2fba015b404936276e09fb1b42a4c3974c39419bd5e6d3e6fad45"
+}

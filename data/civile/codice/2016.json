@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2016",
+    "rubrica": "Procedura d'ammortamento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2016"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di smarrimento, sottrazione o distruzione del titolo, il possessore puo' farne denunzia al debitore e chiedere l'ammortamento del titolo con ricorso al presidente del tribunale del luogo in cui il titolo e' pagabile. Il ricorso deve indicare i requisiti essenziali del titolo e, se si tratta di titolo in bianco, quelli sufficienti a identificarlo. Il presidente del tribunale, premessi gli opportuni accertamenti sulla verita' dei fatti e sul diritto del possessore, pronunzia con decreto l'ammortamento e autorizza il pagamento del titolo dopo trenta giorni dalla data di pubblicazione del decreto nella Gazzetta Ufficiale del Regno, purche' nel frattempo non sia fatta opposizione dal detentore. Se alla data della pubblicazione il titolo non e' ancora scaduto, il termine per il pagamento decorre dalla data della scadenza. Il decreto deve essere notificato al debitore e pubblicato nella Gazzetta Ufficiale del Regno a cura del ricorrente. Nonostante la denunzia, il pagamento fatto al detentore prima della notificazione del decreto libera il debitore.",
+    "con_marcatori": "Art. 2016. (Procedura d'ammortamento). In caso di smarrimento, sottrazione o distruzione del titolo, il possessore puo' farne denunzia al debitore e chiedere l'ammortamento del titolo con ricorso al presidente del tribunale del luogo in cui il titolo e' pagabile. Il ricorso deve indicare i requisiti essenziali del titolo e, se si tratta di titolo in bianco, quelli sufficienti a identificarlo. Il presidente del tribunale, premessi gli opportuni accertamenti sulla verita' dei fatti e sul diritto del possessore, pronunzia con decreto l'ammortamento e autorizza il pagamento del titolo dopo trenta giorni dalla data di pubblicazione del decreto nella Gazzetta Ufficiale del Regno, purche' nel frattempo non sia fatta opposizione dal detentore. Se alla data della pubblicazione il titolo non e' ancora scaduto, il termine per il pagamento decorre dalla data della scadenza. Il decreto deve essere notificato al debitore e pubblicato nella Gazzetta Ufficiale del Regno a cura del ricorrente. Nonostante la denunzia, il pagamento fatto al detentore prima della notificazione del decreto libera il debitore.",
+    "caratteri": 1066
+  },
+  "note": [],
+  "impronta": "sha256:4e9091a70003ae58dc7e77c3eefbeda86d5d03caf59f61a0d0f141771f28e21b"
+}

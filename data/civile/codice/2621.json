@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2621",
+    "rubrica": "False comunicazioni sociali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2621"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori dai casi previsti dall'art. 2622, gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori, i quali, al fine di conseguire per se' o per altri un ingiusto profitto, nei bilanci, nelle relazioni o nelle altre comunicazioni sociali dirette ai soci o al pubblico, previste dalla legge, consapevolmente espongono fatti materiali rilevanti non rispondenti al vero ovvero omettono fatti materiali rilevanti la cui comunicazione e' imposta dalla legge sulla situazione economica, patrimoniale o finanziaria della societa' o del gruppo al quale la stessa appartiene, in modo concretamente idoneo ad indurre altri in errore, sono puniti con la pena della reclusione da uno a cinque anni. La stessa pena si applica anche se le falsita' o le omissioni riguardano beni posseduti o amministrati dalla societa' per conto di terzi. ------------- AGGIORNAMENTO (83a) Il D.P.R. 20 gennaio 1992, n. 23, ha disposto (con l'art. 1, comma 5) che e' concessa amnistia, alle condizioni sopra indicate, per i reati, commessi fino al 30 settembre 1991, previsti dal presente articolo, quando tali reati siano stati commessi per eseguire od occultare quelli indicati nel comma 1 del presente articolo ovvero per conseguirne il profitto e siano riferiti alla stessa pendenza o situazione tributaria.",
+    "con_marcatori": "Art. 2621 (( (False comunicazioni sociali). )) ((Fuori dai casi previsti dall'art. 2622, gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori, i quali, al fine di conseguire per se' o per altri un ingiusto profitto, nei bilanci, nelle relazioni o nelle altre comunicazioni sociali dirette ai soci o al pubblico, previste dalla legge, consapevolmente espongono fatti materiali rilevanti non rispondenti al vero ovvero omettono fatti materiali rilevanti la cui comunicazione e' imposta dalla legge sulla situazione economica, patrimoniale o finanziaria della societa' o del gruppo al quale la stessa appartiene, in modo concretamente idoneo ad indurre altri in errore, sono puniti con la pena della reclusione da uno a cinque anni. La stessa pena si applica anche se le falsita' o le omissioni riguardano beni posseduti o amministrati dalla societa' per conto di terzi)). ------------- AGGIORNAMENTO (83a) Il D.P.R. 20 gennaio 1992, n. 23, ha disposto (con l'art. 1, comma 5) che e' concessa amnistia, alle condizioni sopra indicate, per i reati, commessi fino al 30 settembre 1991, previsti dal presente articolo, quando tali reati siano stati commessi per eseguire od occultare quelli indicati nel comma 1 del presente articolo ovvero per conseguirne il profitto e siano riferiti alla stessa pendenza o situazione tributaria.",
+    "caratteri": 1360
+  },
+  "note": [],
+  "impronta": "sha256:b86afc0817bbefc1423870240a9e211011aa2eaae2e5ec25c2bae6d021833a92"
+}

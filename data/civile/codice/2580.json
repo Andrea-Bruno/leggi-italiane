@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2580",
+    "rubrica": "Soggetti del diritto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2580"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il diritto di autore spetta all'autore ed ai suoi aventi causa nei limiti e per gli effetti fissati dalle leggi speciali. COMMA ABROGATO DALLA L. 8 MARZO 1975, N. 39.",
+    "con_marcatori": "Art. 2580 (Soggetti del diritto). Il diritto di autore spetta all'autore ed ai suoi aventi causa nei limiti e per gli effetti fissati dalle leggi speciali. ((COMMA ABROGATO DALLA L. 8 MARZO 1975, N. 39)).",
+    "caratteri": 166
+  },
+  "note": [],
+  "impronta": "sha256:a54c3fa4b7274c8337b2f97b2f9e9608fde0adbd096c9917584a7ec70382ab48"
+}

@@ -1,0 +1,14 @@
+# Art. 609-novies — Pene accessorie ed altri effetti penali
+
+**Codice penale** · [testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art609-novies)
+
+> **In vigore** — certezza alta
+> Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.
+
+## Testo vigente
+
+La condanna o l'applicazione della pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies e 609-undecies comporta: 1) la perdita della responsabilita' genitoriale, quando la qualita' di genitore e' elemento costitutivo o circostanza aggravante del reato; 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno; 3) la perdita del diritto agli alimenti e l'esclusione dalla successione della persona offesa; 4) l'interdizione temporanea dai pubblici uffici; l'interdizione dai pubblici uffici per la durata di anni cinque in seguito alla condanna alla reclusione da tre a cinque anni, ferma restando, comunque, l'applicazione dell'articolo 29, primo comma, quanto all'interdizione perpetua; 5) la sospensione dall'esercizio di una professione o di un'arte. La condanna o l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-octies e 609-undecies, se commessi nei confronti di persona che non ha compiuto gli anni diciotto, 609-quater e 609-quinquies, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado nonche' da ogni ufficio o servizio in istituzioni o in altre strutture pubbliche o private frequentate prevalentemente da minori. La condanna per i delitti previsti dall'articolo 600-bis, secondo comma, dall'articolo 609-bis, nelle ipotesi aggravate di cui all'articolo 609-ter, dagli articoli 609-quater, 609-quinquies e 609-octies, nelle ipotesi aggravate di cui al terzo comma del medesimo articolo, comporta, dopo l'esecuzione della pena e per una durata minima di un anno, l'applicazione delle seguenti misure di sicurezza personali: 1) l'eventuale imposizione di restrizione dei movimenti e della libera circolazione, nonche' il divieto di avvicinarsi a luoghi frequentati abitualmente da minori; 2) il divieto di svolgere lavori che prevedano un contatto abituale con minori; 3) l'obbligo di tenere informati gli organi di polizia sulla propria residenza e sugli eventuali spostamenti. Chiunque viola le disposizioni previste dal terzo comma e' soggetto alla pena della reclusione fino a tre anni.
+
+---
+
+Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale.

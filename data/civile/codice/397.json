@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "397",
+    "rubrica": "Emancipato autorizzato all'esercizio di un'impresa commerciale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art397"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il minore emancipato puo' esercitare un'impresa commerciale senza l'assistenza del curatore se e' autorizzato dal giudice tutelare, sentito il curatore. L'autorizzazione puo' essere revocata dal giudice tutelare su istanza del curatore o d'ufficio sentito il minore emancipato. Il minore emancipato, che e' autorizzato all'esercizio di un'impresa commerciale, puo' compiere da solo gli atti che eccedono l'ordinaria amministrazione, anche se estranei all'esercizio dell'impresa.",
+    "con_marcatori": "Art. 397. (Emancipato autorizzato all'esercizio di un'impresa commerciale). Il minore emancipato puo' esercitare un'impresa commerciale senza l'assistenza del curatore se e' autorizzato dal giudice tutelare, sentito il curatore. (321)((322)) L'autorizzazione puo' essere revocata dal giudice tutelare su istanza del curatore o d'ufficio sentito il minore emancipato. (321)((322)) Il minore emancipato, che e' autorizzato all'esercizio di un'impresa commerciale, puo' compiere da solo gli atti che eccedono l'ordinaria amministrazione, anche se estranei all'esercizio dell'impresa.",
+    "caratteri": 478
+  },
+  "note": [
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:7c15a7da052792328e05205c4a7ed1fe79c0e1f7d330761b92ccc264520b9ec5"
+}

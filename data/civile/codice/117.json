@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "117",
+    "rubrica": "Matrimonio contratto con violazione degli articoli 84, 86, 87 e 88",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art117"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il matrimonio contratto con violazione degli articoli 86, 87 e 88 puo' essere impugnato dai coniugi, dagli ascendenti prossimi, dal pubblico ministero e da tutti coloro che abbiano per impugnarlo un interesse legittimo e attuale. Il matrimonio contratto con violazione dell'articolo 84 puo' essere impugnato dai coniugi, da ciascuno dei genitori e dal pubblico ministero. La relativa azione di annullamento puo' essere proposta personalmente dal minore non oltre un anno dal raggiungimento della maggiore eta'. La domanda, proposta dal genitore o dal pubblico ministero, deve essere respinta ove, anche in pendenza del giudizio, il minore abbia raggiunto la maggiore eta' ovvero vi sia stato concepimento o procreazione e in ogni caso sia accertata la volonta' del minore di mantenere in vita il vincolo matrimoniale. Il matrimonio contratto dal coniuge dell'assente non puo' essere impugnato finche' dura l'assenza. Nei casi in cui si sarebbe potuta accordare l'autorizzazione ai sensi del quarto comma dell'articolo 87, il matrimonio non puo' essere impugnato dopo un anno dalla celebrazione. La disposizione del primo comma del presente articolo si applica anche nel caso di nullita' del matrimonio previsto dall'articolo 68.",
+    "con_marcatori": "Art. 117. ((Matrimonio contratto con violazione degli articoli 84, 86, 87 e 88.)) ((Il matrimonio contratto con violazione degli articoli 86, 87 e 88 puo' essere impugnato dai coniugi, dagli ascendenti prossimi, dal pubblico ministero e da tutti coloro che abbiano per impugnarlo un interesse legittimo e attuale. Il matrimonio contratto con violazione dell'articolo 84 puo' essere impugnato dai coniugi, da ciascuno dei genitori e dal pubblico ministero. La relativa azione di annullamento puo' essere proposta personalmente dal minore non oltre un anno dal raggiungimento della maggiore eta'. La domanda, proposta dal genitore o dal pubblico ministero, deve essere respinta ove, anche in pendenza del giudizio, il minore abbia raggiunto la maggiore eta' ovvero vi sia stato concepimento o procreazione e in ogni caso sia accertata la volonta' del minore di mantenere in vita il vincolo matrimoniale. Il matrimonio contratto dal coniuge dell'assente non puo' essere impugnato finche' dura l'assenza. Nei casi in cui si sarebbe potuta accordare l'autorizzazione ai sensi del quarto comma dell'articolo 87, il matrimonio non puo' essere impugnato dopo un anno dalla celebrazione. La disposizione del primo comma del presente articolo si applica anche nel caso di nullita' del matrimonio previsto dall'articolo 68)).",
+    "caratteri": 1228
+  },
+  "note": [],
+  "impronta": "sha256:abc57788afb26e4406fb0611c4486b0a5218c228b6b9f9c6978d393faec9e506"
+}

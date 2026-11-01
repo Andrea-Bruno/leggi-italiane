@@ -1,0 +1,108 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "237",
+    "rubrica": "Fatti costitutivi del possesso di stato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art237"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 263,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il possesso di stato risulta da una serie di fatti che nel loro complesso valgano a dimostrare le relazioni di filiazione e di parentela fra una persona e la famiglia a cui essa pretende di appartenere. In ogni caso devono concorrere i seguenti fatti: che il genitore abbia trattato la persona come figlio ed abbia provveduto in questa qualita' al mantenimento, all'educazione e al collocamento di essa. che la persona sia stata costantemente considerata come tale nei rapporti sociali. che sia stata riconosciuta in detta qualita' dalla famiglia.",
+    "con_marcatori": "Art. 237. (Fatti costitutivi del possesso di stato). Il possesso di stato risulta da una serie di fatti che nel loro complesso valgano a dimostrare le relazioni di filiazione e di parentela fra una persona e la famiglia a cui essa pretende di appartenere. In ogni caso devono concorrere i seguenti fatti: che il genitore abbia trattato la persona come figlio ed abbia provveduto in questa qualita' al mantenimento, all'educazione e al collocamento di essa. che la persona sia stata costantemente considerata come tale nei rapporti sociali. che sia stata riconosciuta in detta qualita' dalla famiglia. ((263))",
+    "caratteri": 547
+  },
+  "note": [
+    {
+      "numero": 263,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "artt. 237",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "262",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "299 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "72, primo comma, del regio decreto 9 luglio 1939, n. 1238",
+          "urn": "urn:nir:stato:regio.decreto:1939-07-09;1238",
+          "data": "1939-07-09",
+          "numero": "1238",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "d.P.R. 3 novembre 2000, n. 396",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:2000-11-03;396",
+          "data": "2000-11-03",
+          "numero": "396",
+          "data_gazzetta": "2000-12-30"
+        },
+        {
+          "denominazione": "articolo 2, comma 12, della L. 15 maggio 1997, n. 127",
+          "urn": "urn:nir:stato:legge:1997-05-15;127",
+          "data": "1997-05-15",
+          "numero": "127",
+          "data_gazzetta": "1997-05-17"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2016-12-21",
+        "numero": "286"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 8 novembre - 21 dicembre 2016, n. 286 (in G.U. 1ª s.s. 28/12/2016, n. 52), ha dichiarato \"l'illegittimita' costituzionale della norma desumibile dagli artt. 237, 262 e 299 del codice civile; 72, primo comma, del regio decreto 9 luglio 1939, n. 1238 (Ordinamento dello stato civile); e 33 e 34 del d.P.R. 3 novembre 2000, n. 396 (Regolamento per la revisione e la semplificazione dell'ordinamento dello stato civile, a norma dell'articolo 2, comma 12, della L. 15 maggio 1997, n. 127), nella parte in cui non consente ai coniugi, di comune accordo, di trasmettere ai figli, al momento della nascita, anche il cognome materno\"."
+    }
+  ],
+  "impronta": "sha256:4dba26f213e4d31ed0b14a906adac449a930ab987da625336cfe1914e6dce8d4"
+}

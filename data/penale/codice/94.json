@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "94",
+    "rubrica": "Ubriachezza abituale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art94"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando il reato e' commesso in stato di ubriachezza, e questa e' abituale, la pena e' aumentata. Agli effetti della legge penale, e' considerato ubriaco abituale chi e' dedito all'uso di bevande alcooliche e in stato frequente di ubriachezza. L'aggravamento di pena stabilito nella prima parte di questo articolo si applica anche quando il reato e' commesso sotto l'azione di sostanze stupefacenti da chi e' dedito all'uso di tali sostanze.",
+    "con_marcatori": "Art. 94. (Ubriachezza abituale) Quando il reato e' commesso in stato di ubriachezza, e questa e' abituale, la pena e' aumentata. Agli effetti della legge penale, e' considerato ubriaco abituale chi e' dedito all'uso di bevande alcooliche e in stato frequente di ubriachezza. L'aggravamento di pena stabilito nella prima parte di questo articolo si applica anche quando il reato e' commesso sotto l'azione di sostanze stupefacenti da chi e' dedito all'uso di tali sostanze.",
+    "caratteri": 440
+  },
+  "note": [],
+  "impronta": "sha256:6f0cb086ca427284e493ceaf72440f4af3d441e8a8430815a17b51a150a4ebe8"
+}

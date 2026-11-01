@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2505-quater",
+    "rubrica": "Fusioni cui non partecipano societa' con capitale rappresentato da azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2505-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se alla fusione non partecipano societa' regolate dai capi V e VI del presente titolo, ne' societa' cooperative per azioni, non si applicano le disposizioni degli articoli 2501, secondo comma, e 2501-ter, secondo comma; . . .; i termini di cui agli articoli 2501-ter, quarto comma, 2501-septies, primo comma, e 2503, primo comma, sono ridotti alla meta'.",
+    "con_marcatori": "Art. 2505-quater. (Fusioni cui non partecipano societa' con capitale rappresentato da azioni). Se alla fusione non partecipano societa' regolate dai capi V e VI del presente titolo, ne' societa' cooperative per azioni, non si applicano le disposizioni degli articoli 2501, secondo comma, e 2501-ter, secondo comma; ((. . .)); i termini di cui agli articoli 2501-ter, quarto comma, 2501-septies, primo comma, e 2503, primo comma, sono ridotti alla meta'.",
+    "caratteri": 354
+  },
+  "note": [],
+  "impronta": "sha256:713ec4595477fa0be8e0877efd73653dadbc5f401c90c98521dcda26a9434cf6"
+}

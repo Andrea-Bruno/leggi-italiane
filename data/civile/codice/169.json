@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "169",
+    "rubrica": "Alienazione dei beni del fondo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art169"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non e' stato espressamente consentito nell'atto di costituzione, non si possono alienare, ipotecare, dare in pegno o comunque vincolare beni del fondo patrimoniale se non con il consenso di entrambi i coniugi e, se vi sono figli minori, con l'autorizzazione concessa dal giudice, con provvedimento emesso in camera di consiglio, nei soli casi di necessita' od utilita' evidente.",
+    "con_marcatori": "Art. 169. ((Alienazione dei beni del fondo.)) ((Se non e' stato espressamente consentito nell'atto di costituzione, non si possono alienare, ipotecare, dare in pegno o comunque vincolare beni del fondo patrimoniale se non con il consenso di entrambi i coniugi e, se vi sono figli minori, con l'autorizzazione concessa dal giudice, con provvedimento emesso in camera di consiglio, nei soli casi di necessita' od utilita' evidente)).",
+    "caratteri": 381
+  },
+  "note": [],
+  "impronta": "sha256:029050488cbdeb77c6a4514d944909ba0f0bb8372317ed21dbae9ca71630be75"
+}

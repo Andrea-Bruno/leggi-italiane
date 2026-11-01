@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1903",
+    "rubrica": "Agenti di assicurazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1903"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli agenti autorizzati a concludere contratti di assicurazione possono compiere gli atti concernenti le modificazioni e la risoluzione dei contratti medesimi, salvi i limiti contenuti nella procura che sia pubblicata nelle forme richieste dalla legge. Possono inoltre promuovere azioni ed essere convenuti in giudizio in nome dell'assicuratore, per le obbligazioni dipendenti dagli atti compiuti nell'esecuzione del loro mandato, davanti l'autorita' giudiziaria del luogo in cui ha sede l'agenzia presso la quale e' stato concluso il contratto.",
+    "con_marcatori": "Art. 1903. (Agenti di assicurazione). Gli agenti autorizzati a concludere contratti di assicurazione possono compiere gli atti concernenti le modificazioni e la risoluzione dei contratti medesimi, salvi i limiti contenuti nella procura che sia pubblicata nelle forme richieste dalla legge. Possono inoltre promuovere azioni ed essere convenuti in giudizio in nome dell'assicuratore, per le obbligazioni dipendenti dagli atti compiuti nell'esecuzione del loro mandato, davanti l'autorita' giudiziaria del luogo in cui ha sede l'agenzia presso la quale e' stato concluso il contratto.",
+    "caratteri": 544
+  },
+  "note": [],
+  "impronta": "sha256:2e5d35880a643374a12b5418bdf2f40425726c914c973aa247d6d9134bb35eeb"
+}

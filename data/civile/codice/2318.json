@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2318",
+    "rubrica": "Soci accomandatari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2318"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I soci accomandatari hanno i diritti e gli obblighi dei soci della societa' in nome collettivo. L'amministrazione della societa' puo' essere conferita soltanto a soci accomandatari.",
+    "con_marcatori": "Art. 2318. (Soci accomandatari). I soci accomandatari hanno i diritti e gli obblighi dei soci della societa' in nome collettivo. L'amministrazione della societa' puo' essere conferita soltanto a soci accomandatari.",
+    "caratteri": 181
+  },
+  "note": [],
+  "impronta": "sha256:b618f18881246b205fe1722f37f6ffad17f89ad0ced30377338fccd405d8ea93"
+}

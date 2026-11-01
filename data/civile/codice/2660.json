@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2660",
+    "rubrica": "Trascrizione degli acquisti a causa di morte",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2660"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi domanda la trascrizione di un acquisto a causa di morte deve presentare, oltre l'atto indicato dall'articolo 2648, il certificato di morte dell'autore della successione e una copia o un estratto autentico del testamento, se l'acquisto segue in base a esso. Deve anche presentare una nota in doppio originale con le seguenti indicazioni: ( il cognome e il nome, il luogo e la data di nascita dell'erede o legatario e del defunto)). 2) la data di morte; 3) se la successione e' devoluta per legge, il vincolo che univa all'autore il chiamato e la quota a questa spettante; 4) se la successione e' devoluta per testamento, la forma e la data del medesimo, il nome del pubblico ufficiale che l'ha ricevuto o che l'ha in deposito; 5) la natura e la situazione dei beni con le indicazioni richieste dall'art. 2826; 6) la condizione o il termine, qualora siano apposti alla disposizione testamentaria, salvo il caso contemplato dal secondo comma del precedente articolo, nonche' la sostituzione fidecommissaria, qualora sia stata disposta a norma dell'art. 692.",
+    "con_marcatori": "Art. 2660. (Trascrizione degli acquisti a causa di morte). Chi domanda la trascrizione di un acquisto a causa di morte deve presentare, oltre l'atto indicato dall'articolo 2648, il certificato di morte dell'autore della successione e una copia o un estratto autentico del testamento, se l'acquisto segue in base a esso. Deve anche presentare una nota in doppio originale con le seguenti indicazioni: ((1) il cognome e il nome, il luogo e la data di nascita dell'erede o legatario e del defunto)). 2) la data di morte; 3) se la successione e' devoluta per legge, il vincolo che univa all'autore il chiamato e la quota a questa spettante; 4) se la successione e' devoluta per testamento, la forma e la data del medesimo, il nome del pubblico ufficiale che l'ha ricevuto o che l'ha in deposito; 5) la natura e la situazione dei beni con le indicazioni richieste dall'art. 2826; 6) la condizione o il termine, qualora siano apposti alla disposizione testamentaria, salvo il caso contemplato dal secondo comma del precedente articolo, nonche' la sostituzione fidecommissaria, qualora sia stata disposta a norma dell'art. 692.",
+    "caratteri": 1058
+  },
+  "note": [],
+  "impronta": "sha256:b8ab7f435bb35b13b43f4a150247830e3324ecc58ed21a492166d0f381459e72"
+}

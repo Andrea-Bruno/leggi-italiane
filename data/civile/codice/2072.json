@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2072",
+    "rubrica": "Deposito e pubblicazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2072"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il deposito e la pubblicazione del contratto collettivo sono regolati dalle leggi speciali. Prima della pubblicazione l'autorita' governativa deve accertare che ricorrano le condizioni richieste per la validita' del contratto collettivo. La pubblicazione puo' essere rifiutata, se il contratto collettivo non contiene le disposizioni e le indicazioni richieste dall'art. 2071, salvo che le parti si siano obbligate a integrarlo con successivi patti da stipularsi entro un termine stabilito. Se i patti integrativi non sono stipulati nel termine, puo' essere adita la magistratura del lavoro per la formazione delle disposizioni integrative. Contro il rifiuto di pubblicazione e' ammesso ricorso alla magistratura del lavoro a norma delle leggi speciali.",
+    "con_marcatori": "Art. 2072. (Deposito e pubblicazione). Il deposito e la pubblicazione del contratto collettivo sono regolati dalle leggi speciali. Prima della pubblicazione l'autorita' governativa deve accertare che ricorrano le condizioni richieste per la validita' del contratto collettivo. La pubblicazione puo' essere rifiutata, se il contratto collettivo non contiene le disposizioni e le indicazioni richieste dall'art. 2071, salvo che le parti si siano obbligate a integrarlo con successivi patti da stipularsi entro un termine stabilito. Se i patti integrativi non sono stipulati nel termine, puo' essere adita la magistratura del lavoro per la formazione delle disposizioni integrative. Contro il rifiuto di pubblicazione e' ammesso ricorso alla magistratura del lavoro a norma delle leggi speciali.",
+    "caratteri": 753
+  },
+  "note": [],
+  "impronta": "sha256:8223798b38a2153c6dc5cd2ef9045aaa1b905279944660f90e5d8b84a5c90a3a"
+}

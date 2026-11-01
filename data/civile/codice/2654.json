@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2654",
+    "rubrica": "Annotazione di domande o atti soggetti a trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2654"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La trascrizione degli atti e delle domande indicati dai due articoli precedenti dev'essere anche annotata in margine alla trascrizione o iscrizione, quando si riferisce a un atto trascritto o iscritto.",
+    "con_marcatori": "Art. 2654. (Annotazione di domande o atti soggetti a trascrizione). La trascrizione degli atti e delle domande indicati dai due articoli precedenti dev'essere anche annotata in margine alla trascrizione o iscrizione, quando si riferisce a un atto trascritto o iscritto.((74))",
+    "caratteri": 201
+  },
+  "note": [
+    {
+      "numero": 74,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 31 ottobre 1990, n. 347",
+          "urn": "urn:nir:stato:decretoLegislativo:1990-10-31;347",
+          "data": "1990-10-31",
+          "numero": "347",
+          "data_gazzetta": "1990-11-27"
+        },
+        {
+          "denominazione": "articoli 2654",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "2655",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "2896 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 31 ottobre 1990, n. 347, ha disposto (con l'art. 7, comma 1) che \"Le annotazioni previste dagli articoli 2654, 2655 e 2896 del codice civile devono essere richieste, a cura delle parti o dei loro procuratori o dei notai o altri pubblici ufficiali che hanno ricevuto o autenticato l'atto, entro il termine di trenta giorni dalla data dell'atto o della pubblicazione della sentenza o della pronunzia del decreto. \""
+    }
+  ],
+  "impronta": "sha256:188cb58d1cd8301bfd8fe855bb4584d412eac4228b470a0e90ed2b5b2d05d5f2"
+}

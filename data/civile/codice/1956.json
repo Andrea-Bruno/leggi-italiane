@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1956",
+    "rubrica": "Liberazione del fideiussore per obbligazione futura",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1956"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il fideiussore per un'obbligazione futura e' liberato se il creditore, senza speciale autorizzazione del fideiussore, ha fatto credito al terzo, pur conoscendo che le condizioni patrimoniali di questo erano divenute tali da rendere notevolmente piu' difficile il soddisfacimento del credito. Non e' valida la preventiva rinuncia del fideiussore ad avvalersi della liberazione.",
+    "con_marcatori": "Art. 1956. (Liberazione del fideiussore per obbligazione futura). Il fideiussore per un'obbligazione futura e' liberato se il creditore, senza speciale autorizzazione del fideiussore, ha fatto credito al terzo, pur conoscendo che le condizioni patrimoniali di questo erano divenute tali da rendere notevolmente piu' difficile il soddisfacimento del credito. ((Non e' valida la preventiva rinuncia del fideiussore ad avvalersi della liberazione)). ((86))",
+    "caratteri": 376
+  },
+  "note": [
+    {
+      "numero": 86,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 17 febbraio 1992, n. 154",
+          "urn": "urn:nir:stato:legge:1992-02-17;154",
+          "data": "1992-02-17",
+          "numero": "154",
+          "data_gazzetta": "1992-02-24"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 17 febbraio 1992, n. 154 ha disposto (con l'art. 11, comma 4) che \"Le disposizioni di cui all'articolo 2, commi 1, 2, 4 e 6, all'articolo 3, commi 1 e 2, agli articoli 4, 5 e 6, commi 1, 2, 4 e 5, all'articolo 8, comma 1, e all'articolo 10 acquistano efficacia trascorsi centoventi giorni dalla data di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:e6cec4c943a151d2c934e4d2b09005a12faea6523aa556d537dbe7f1856629ef"
+}

@@ -1,0 +1,92 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "136",
+    "rubrica": "Conversione delle pene pecuniarie non eseguite",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art136"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 84,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Le pene principali della multa e dell'ammenda, non eseguite entro il termine di cui all'articolo 660 del codice di procedura penale indicato nell'ordine di esecuzione, si convertono a norma degli articoli 102 e 103 della legge 24 novembre 1981, n. 689. La pena pecuniaria sostitutiva della reclusione o dell'arresto, non eseguita entro lo stesso termine, si converte a norma dell'articolo 71 della legge 24 novembre 1981, n. 689..",
+    "con_marcatori": "Art. 136. (( (Conversione delle pene pecuniarie non eseguite). )) ((Le pene principali della multa e dell'ammenda, non eseguite entro il termine di cui all'articolo 660 del codice di procedura penale indicato nell'ordine di esecuzione, si convertono a norma degli articoli 102 e 103 della legge 24 novembre 1981, n. 689. La pena pecuniaria sostitutiva della reclusione o dell'arresto, non eseguita entro lo stesso termine, si converte a norma dell'articolo 71 della legge 24 novembre 1981, n. 689.)).",
+    "caratteri": 430
+  },
+  "note": [
+    {
+      "numero": 55,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 136, primo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1971-06-30",
+        "numero": "149"
+      },
+      "testo": "La Corte Costituzionale con sentenza 18-30 giugno 1971, n. 149 (in G.U. 1ª s.s. 07/07/1971, n. 170) ha dichiarato \"l'illegittimita' costituzionale dell'art. 136, primo comma, del codice penale, nella parte in cui ammette, per i reati commessi dal fallito in epoca anteriore alla dichiarazione di fallimento, la conversione della pena pecuniaria in pena detentiva, prima della chiusura della procedura fallimentare\"."
+    },
+    {
+      "numero": 84,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 136 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1979-11-21",
+        "numero": "131"
+      },
+      "testo": "La Corte Costituzionale con sentenza 16-21 novembre 1979, n. 131 (in G.U. 1ª s.s. 28/11/1979, n. 325) ha dichiarato \"l'illegittimita' costituzionale dell'art. 136 del codice penale\"."
+    }
+  ],
+  "impronta": "sha256:d13226b6384c75074afa2bdde6c14099c2957ec03d68704297625617ad65a6f1"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1697",
+    "rubrica": "Accertamento della perdita e dell'avaria",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1697"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il destinatario ha diritto di fare accertare a sue spese, prima della riconsegna, l'identita' e lo stato delle cose trasportate. Se la perdita o l'avaria esiste, il vettore deve rimborsargli le spese. Salvo diverse disposizioni della legge, la perdita e l'avaria si accertano nei modi stabiliti dall'art. 696 del codice di procedura civile.",
+    "con_marcatori": "Art. 1697. (Accertamento della perdita e dell'avaria). Il destinatario ha diritto di fare accertare a sue spese, prima della riconsegna, l'identita' e lo stato delle cose trasportate. Se la perdita o l'avaria esiste, il vettore deve rimborsargli le spese. Salvo diverse disposizioni della legge, la perdita e l'avaria si accertano nei modi stabiliti dall'art. 696 del codice di procedura civile.",
+    "caratteri": 340
+  },
+  "note": [],
+  "impronta": "sha256:c107d4c147de052968ee1cc16db8a7742a2b6bdb40370d3b1e0e81bd0e52ef53"
+}

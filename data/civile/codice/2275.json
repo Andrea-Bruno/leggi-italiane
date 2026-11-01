@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2275",
+    "rubrica": "Liquidatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2275"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contratto non prevede il modo di liquidare il patrimonio sociale e i soci non sono d'accordo nel determinarlo, la liquidazione e' fatta da uno o piu' liquidatori, nominati con il consenso di tutti i soci o, in caso di disaccordo, dal presidente del tribunale. I liquidatori possono essere revocati per volonta' di tutti i soci e in ogni caso dal tribunale per giusta causa su domanda di uno o piu' soci.",
+    "con_marcatori": "Art. 2275. (Liquidatori). Se il contratto non prevede il modo di liquidare il patrimonio sociale e i soci non sono d'accordo nel determinarlo, la liquidazione e' fatta da uno o piu' liquidatori, nominati con il consenso di tutti i soci o, in caso di disaccordo, dal presidente del tribunale. I liquidatori possono essere revocati per volonta' di tutti i soci e in ogni caso dal tribunale per giusta causa su domanda di uno o piu' soci.",
+    "caratteri": 409
+  },
+  "note": [],
+  "impronta": "sha256:95066b0045c398ca7e3d4d61a96f84cc6421ac85634df335bf2168deab9c362a"
+}

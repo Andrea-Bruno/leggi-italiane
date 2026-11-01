@@ -1,0 +1,258 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "299",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art299"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 133,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 263,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 317,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 325,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Cognome dell'adottato. L'adottato assume il cognome dell'adottante e lo antepone al proprio. Nel caso in cui la filiazione sia stata accertata o riconosciuta successivamente all'adozione si applica il primo comma. Se l'adozione e' compiuta da coniugi, l'adottato assume il cognome del marito. Se l'adozione e' compiuta da una donna maritata, l'adottato, che non sia figlio del marito, assume il cognome della famiglia di lei.",
+    "con_marcatori": "Art. 299. Cognome dell'adottato. L'adottato assume il cognome dell'adottante e lo antepone al proprio. ((325)) Nel caso in cui la filiazione sia stata accertata o riconosciuta successivamente all'adozione si applica il primo comma. Se l'adozione e' compiuta da coniugi, l'adottato assume il cognome del marito. (263) (317) Se l'adozione e' compiuta da una donna maritata, l'adottato, che non sia figlio del marito, assume il cognome della famiglia di lei. (263)",
+    "caratteri": 425
+  },
+  "note": [
+    {
+      "numero": 133,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 299, secondo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2001-05-11",
+        "numero": "120"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 7-11 maggio 2001, n. 120 (in G.U. 1a s.s. 16/5/2001, n. 19) ha dichiarato \"l'illegittimita' costituzionale dell'art. 299, secondo comma, del codice civile, nella parte in cui nonprevede che, qualora sia figlio naturale non riconosciuto dai propri genitori, l'adottato possa aggiungere al cognome dell'adottante anche quello originariamente attribuitogli\"."
+    },
+    {
+      "numero": 263,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "artt. 237",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "262",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "299 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "72, primo comma, del regio decreto 9 luglio 1939, n. 1238",
+          "urn": "urn:nir:stato:regio.decreto:1939-07-09;1238",
+          "data": "1939-07-09",
+          "numero": "1238",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "d.P.R. 3 novembre 2000, n. 396",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:2000-11-03;396",
+          "data": "2000-11-03",
+          "numero": "396",
+          "data_gazzetta": "2000-12-30"
+        },
+        {
+          "denominazione": "articolo 2, comma 12, della L. 15 maggio 1997, n. 127",
+          "urn": "urn:nir:stato:legge:1997-05-15;127",
+          "data": "1997-05-15",
+          "numero": "127",
+          "data_gazzetta": "1997-05-17"
+        },
+        {
+          "denominazione": "art. 27 della legge n. 87 del 1953",
+          "urn": null,
+          "data": null,
+          "numero": null,
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2016-12-21",
+        "numero": "286"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 8 novembre - 21 dicembre 2016, n. 286 (in G.U. 1ª s.s. 28/12/2016, n. 52), ha dichiarato l'illegittimita' costituzionale \"della norma desumibile dagli artt. 237, 262 e 299 del codice civile; 72, primo comma, del regio decreto 9 luglio 1939, n. 1238 (Ordinamento dello stato civile); e 33 e 34 del d.P.R. 3 novembre 2000, n. 396 (Regolamento per la revisione e la semplificazione dell'ordinamento dello stato civile, a norma dell'articolo 2, comma 12, della L. 15 maggio 1997, n. 127), nella parte in cui non consente ai coniugi, di comune accordo, di trasmettere ai figli, al momento della nascita, anche il cognome materno\", e, in via consequenziale, ai sensi dell'art. 27 della legge n. 87 del 1953, l'illegittimita' costituzionale del terzo comma del presente articolo, nella parte in cui non consente ai coniugi, in caso di adozione compiuta da entrambi, di attribuire, di comune accordo, anche il cognome materno al momento dell'adozione."
+    },
+    {
+      "numero": 317,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "262",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "d.P.R. 3 novembre 2000, n. 396",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:2000-11-03;396",
+          "data": "2000-11-03",
+          "numero": "396",
+          "data_gazzetta": "2000-12-30"
+        },
+        {
+          "denominazione": "art. 27 della legge n. 87 del 1953",
+          "urn": null,
+          "data": null,
+          "numero": null,
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "artt. 262, primo comma",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "299, terzo comma, cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "27, comma 1, della legge 4 maggio 1983, n. 184",
+          "urn": "urn:nir:stato:legge:1983-05-04;184",
+          "data": "1983-05-04",
+          "numero": "184",
+          "data_gazzetta": "1983-05-17"
+        },
+        {
+          "denominazione": "articolo 2, comma 12, della legge 15 maggio 1997, n. 127",
+          "urn": "urn:nir:stato:legge:1997-05-15;127",
+          "data": "1997-05-15",
+          "numero": "127",
+          "data_gazzetta": "1997-05-17"
+        },
+        {
+          "denominazione": "art. 299, terzo comma, cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2022-05-31",
+        "numero": "131"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 27 aprile - 31 maggio 2022, n. 131 (in G.U. 1ª s.s. 01/06/2022, n. 22), ha dichiarato \"in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale della norma desumibile dagli artt. 262, primo comma, e 299, terzo comma, cod. civ., 27, comma 1, della legge 4 maggio 1983, n. 184 (Diritto del minore ad una famiglia) e 34 del d.P.R. 3 novembre 2000, n. 396 (Regolamento per la revisione e la semplificazione dell'ordinamento dello stato civile, a norma dell'articolo 2, comma 12, della legge 15 maggio 1997, n. 127), nella parte in cui prevede che il figlio nato nel matrimonio assume il cognome del padre, anziche' prevedere che il figlio assume i cognomi dei genitori, nell'ordine dai medesimi concordato, fatto salvo l'accordo, alla nascita, per attribuire il cognome di uno di loro soltanto\" e \"in via consequenziale, ai sensi dell'art. 27 della legge n. 87 del 1953, l'illegittimita' costituzionale dell'art. 299, terzo comma, cod. civ., nella parte in cui prevede che «l'adottato assume il cognome del marito», anziche' prevedere che l'adottato assume i cognomi degli adottanti, nell'ordine dai medesimi concordato, fatto salvo l'accordo, raggiunto nel procedimento di adozione, per attribuire il cognome di uno di loro soltanto\"."
+    },
+    {
+      "numero": 325,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 299, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2023-07-04",
+        "numero": "135"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 10 maggio - 4 luglio 2023, n. 135 (in G.U. 1ª s.s. 05/07/2023, n. 27), ha dichiarato \"l'illegittimita' costituzionale dell'art. 299, primo comma, del codice civile, nella parte in cui non consente, con la sentenza di adozione, di aggiungere, anziche' di anteporre, il cognome dell'adottante a quello dell'adottato maggiore d'eta', se entrambi nel manifestare il consenso all'adozione si sono espressi a favore di tale effetto\"."
+    }
+  ],
+  "impronta": "sha256:993feb46d7a2c654633700723f40eec4ee9b74f83c864aeb163c31ac63f16c82"
+}

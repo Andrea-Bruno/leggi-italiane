@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2054",
+    "rubrica": "Circolazione di veicoli",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2054"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 29,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il conducente di un veicolo senza guida di rotaie e' obbligato a risarcire il danno prodotto a persone o a cose dalla circolazione del veicolo, se non prova di aver fatto tutto il possibile per evitare il danno. Nel caso di scontro tra veicoli si presume, fino a prova contraria, che ciascuno dei conducenti abbia concorso ugualmente a produrre il danno subito dai singoli veicoli. Il proprietario del veicolo, o, in sua vece, l'usufruttuario o l'acquirente con patto di riservato dominio, e' responsabile in solido col conducente, se non prova che la circolazione del veicolo e' avvenuta contro la sua volonta'. In ogni caso le persone indicate dai commi precedenti sono responsabili dei danni derivati da vizi di costruzione o da difetto di manutenzione del veicolo.",
+    "con_marcatori": "Art. 2054. (Circolazione di veicoli). Il conducente di un veicolo senza guida di rotaie e' obbligato a risarcire il danno prodotto a persone o a cose dalla circolazione del veicolo, se non prova di aver fatto tutto il possibile per evitare il danno. Nel caso di scontro tra veicoli si presume, fino a prova contraria, che ciascuno dei conducenti abbia concorso ugualmente a produrre il danno subito dai singoli veicoli. ((29)) Il proprietario del veicolo, o, in sua vece, l'usufruttuario o l'acquirente con patto di riservato dominio, e' responsabile in solido col conducente, se non prova che la circolazione del veicolo e' avvenuta contro la sua volonta'. In ogni caso le persone indicate dai commi precedenti sono responsabili dei danni derivati da vizi di costruzione o da difetto di manutenzione del veicolo.",
+    "caratteri": 768
+  },
+  "note": [
+    {
+      "numero": 29,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2054, secondo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1972-12-29",
+        "numero": "205"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 14 - 29 dicembre 1972, n. 205 (in G.U. 1a s.s. 03/03/1973, n. 3), ha dichiarato \"l'illegittimita' costituzionale dell'art. 2054, secondo comma, del codice civile, limitatamente alla parte in cui nel caso di scontro fra veicoli esclude che la presunzione di egual concorso dei conducenti operi anche se uno dei veicoli non abbia riportato danni\"."
+    }
+  ],
+  "impronta": "sha256:fc7cc68f8681a386ba6011e315c832b7d89429a5c45d52a147123970bf237f14"
+}

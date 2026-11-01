@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "270-septies",
+    "rubrica": "Confisca",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art270-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di condanna o di applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per taluno dei delitti commessi con finalita' di terrorismo di cui all'articolo 270-sexies e' sempre disposta la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne costituiscono il prezzo, il prodotto o il profitto, salvo che appartengano a persona estranea al reato, ovvero, quando essa non e' possibile, la confisca di beni, di cui il reo ha la disponibilita', per un valore corrispondente a tale prezzo, prodotto o profitto.",
+    "con_marcatori": "Art. 270-septies. (( (Confisca).)) ((Nel caso di condanna o di applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per taluno dei delitti commessi con finalita' di terrorismo di cui all'articolo 270-sexies e' sempre disposta la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne costituiscono il prezzo, il prodotto o il profitto, salvo che appartengano a persona estranea al reato, ovvero, quando essa non e' possibile, la confisca di beni, di cui il reo ha la disponibilita', per un valore corrispondente a tale prezzo, prodotto o profitto)).",
+    "caratteri": 579
+  },
+  "note": [],
+  "impronta": "sha256:323c09a2bb8e1323df9c480f380d7f4760b8b3bbd6cf189a8d2beb123bbeba57"
+}

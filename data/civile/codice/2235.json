@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2235",
+    "rubrica": "Divieto di ritenzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2235"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il prestatore d'opera non puo' ritenere le cose e i documenti ricevuti, se non per il periodo strettamente necessario alla tutela dei propri diritti secondo le leggi professionali.",
+    "con_marcatori": "Art. 2235. (Divieto di ritenzione). Il prestatore d'opera non puo' ritenere le cose e i documenti ricevuti, se non per il periodo strettamente necessario alla tutela dei propri diritti secondo le leggi professionali.",
+    "caratteri": 180
+  },
+  "note": [],
+  "impronta": "sha256:9a34c49232a879f06e1140362aa5b7e04d2bbe671ee9b27f1d6cae3ff8fba214"
+}

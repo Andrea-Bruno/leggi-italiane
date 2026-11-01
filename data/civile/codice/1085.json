@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1085",
+    "rubrica": "Tempo d'esercizio della servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1085"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il diritto alla presa d'acqua si esercita, per l'acqua estiva, dall'equinozio di primavera a quello d'autunno; per l'acqua iemale, dall'equinozio d'autunno a quello di primavera. La distribuzione d'acqua per giorni e per notti si riferisce al giorno e alla notte naturali. L'uso delle acque nei giorni festivi e' regolato dalle feste di precetto vigenti al tempo in cui l'uso fu convenuto o in cui si e' incominciato a possedere.",
+    "con_marcatori": "Art. 1085. (Tempo d'esercizio della servitu'). Il diritto alla presa d'acqua si esercita, per l'acqua estiva, dall'equinozio di primavera a quello d'autunno; per l'acqua iemale, dall'equinozio d'autunno a quello di primavera. La distribuzione d'acqua per giorni e per notti si riferisce al giorno e alla notte naturali. L'uso delle acque nei giorni festivi e' regolato dalle feste di precetto vigenti al tempo in cui l'uso fu convenuto o in cui si e' incominciato a possedere.",
+    "caratteri": 429
+  },
+  "note": [],
+  "impronta": "sha256:b75e8b01bae9cba7cc516db24670d73161175454994448183772315a34355b4b"
+}

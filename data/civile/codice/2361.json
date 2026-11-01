@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2361",
+    "rubrica": "Partecipazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2361"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assunzione di partecipazioni in altre imprese, anche se prevista genericamente nello statuto, non e' consentita, se per la misura e per l'oggetto della partecipazione ne risulta sostanzialmente modificato l'oggetto sociale determinato dallo statuto. L'assunzione di partecipazioni in altre imprese comportante una responsabilita' illimitata per le obbligazioni delle medesime deve essere deliberata dall'assemblea; di tali partecipazioni gli amministratori danno specifica informazione nella nota integrativa del bilancio , indicando la denominazione, la sede legale e la forma giuridica di ciascun soggetto partecipato.",
+    "con_marcatori": "Art. 2361. (Partecipazioni). L'assunzione di partecipazioni in altre imprese, anche se prevista genericamente nello statuto, non e' consentita, se per la misura e per l'oggetto della partecipazione ne risulta sostanzialmente modificato l'oggetto sociale determinato dallo statuto. L'assunzione di partecipazioni in altre imprese comportante una responsabilita' illimitata per le obbligazioni delle medesime deve essere deliberata dall'assemblea; di tali partecipazioni gli amministratori danno specifica informazione nella nota integrativa del bilancio ((, indicando la denominazione, la sede legale e la forma giuridica di ciascun soggetto partecipato)). ((315))",
+    "caratteri": 622
+  },
+  "note": [
+    {
+      "numero": 315,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 23 dicembre 2021, n. 238",
+          "urn": "urn:nir:stato:legge:2021-12-23;238",
+          "data": "2021-12-23",
+          "numero": "238",
+          "data_gazzetta": "2022-01-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 23 dicembre 2021, n. 238 ha disposto (con l'art. 24, comma 4) che la presente modifica si applica \"per la prima volta al bilancio dell'impresa e al bilancio consolidato relativi al primo esercizio successivo a quello chiuso o in corso al 31 dicembre 2019\"."
+    }
+  ],
+  "impronta": "sha256:f89f7264113a3560bd4919856d73b507663a885f3162917af8fa5bd06437ad66"
+}

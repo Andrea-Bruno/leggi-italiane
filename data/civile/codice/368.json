@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "368",
+    "rubrica": "Omissione della dichiarazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art368"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il tutore, conoscendo il suo credito o le sue ragioni, espressamente interpellato non li ha dichiarati, decade da ogni suo diritto. Qualora, sapendo di essere debitore, non abbia dichiarato fedelmente il proprio debito, puo' essere rimosso dalla tutela.",
+    "con_marcatori": "Art. 368. (Omissione della dichiarazione). Se il tutore, conoscendo il suo credito o le sue ragioni, espressamente interpellato non li ha dichiarati, decade da ogni suo diritto. Qualora, sapendo di essere debitore, non abbia dichiarato fedelmente il proprio debito, puo' essere rimosso dalla tutela.",
+    "caratteri": 256
+  },
+  "note": [],
+  "impronta": "sha256:0c067b7c1329481879d49e28127c46b35db6be3e2fd9e8dde6ee3155d9059739"
+}

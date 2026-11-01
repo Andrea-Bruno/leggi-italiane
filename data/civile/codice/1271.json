@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1271",
+    "rubrica": "Eccezioni opponibili dal delegato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1271"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il delegato puo' opporre al delegatario le eccezioni relative ai suoi rapporti con questo. Se le parti non hanno diversamente pattuito, il delegato non puo' opporre al delegatario, benche' questi ne fosse stato a conoscenza, le eccezioni che avrebbe potuto opporre al delegante, salvo che sia nullo il rapporto tra delegante e delegatario. Il delegato non puo' neppure opporre le eccezioni relative al rapporto tra il delegante e il delegatario, se ad esso le parti non hanno fatto espresso riferimento.",
+    "con_marcatori": "Art. 1271. (Eccezioni opponibili dal delegato). Il delegato puo' opporre al delegatario le eccezioni relative ai suoi rapporti con questo. Se le parti non hanno diversamente pattuito, il delegato non puo' opporre al delegatario, benche' questi ne fosse stato a conoscenza, le eccezioni che avrebbe potuto opporre al delegante, salvo che sia nullo il rapporto tra delegante e delegatario. Il delegato non puo' neppure opporre le eccezioni relative al rapporto tra il delegante e il delegatario, se ad esso le parti non hanno fatto espresso riferimento.",
+    "caratteri": 503
+  },
+  "note": [],
+  "impronta": "sha256:91f8af9163a123ad6ff78c33e87dd584253e3314e3ebe605515223df6a2a5108"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "60",
+    "rubrica": "Errore sulla persona dell'offeso",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art60"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di errore sulla persona offesa da un reato, non sono poste a carico dell'agente le circostanze aggravanti, che riguardano le condizioni o qualita' della persona offesa, o i rapporti tra offeso e colpevole. Sono invece valutate a suo favore le circostanze attenuanti, erroneamente supposte, che concernono le condizioni, le qualita' o i rapporti predetti. Le disposizioni di questo articolo non si applicano, se si tratta di circostanze che riguardano l'eta' o altre condizioni o qualita', fisiche o psichiche, della persona offesa.",
+    "con_marcatori": "Art. 60. (Errore sulla persona dell'offeso) Nel caso di errore sulla persona offesa da un reato, non sono poste a carico dell'agente le circostanze aggravanti, che riguardano le condizioni o qualita' della persona offesa, o i rapporti tra offeso e colpevole. Sono invece valutate a suo favore le circostanze attenuanti, erroneamente supposte, che concernono le condizioni, le qualita' o i rapporti predetti. Le disposizioni di questo articolo non si applicano, se si tratta di circostanze che riguardano l'eta' o altre condizioni o qualita', fisiche o psichiche, della persona offesa.",
+    "caratteri": 540
+  },
+  "note": [],
+  "impronta": "sha256:06d3b163c210e60e3b57becca52e280aa1c56536060c508fad5f701e4dbb5bb3"
+}

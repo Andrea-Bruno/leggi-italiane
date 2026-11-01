@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1147",
+    "rubrica": "Possesso di buona fede",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1147"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' possessore di buona fede chi possiede ignorando di ledere l'altrui diritto. La buona fede non giova se l'ignoranza dipende da colpa grave. La buona fede e' presunta e basta che vi sia stata al tempo dell'acquisto.",
+    "con_marcatori": "Art. 1147. (Possesso di buona fede). E' possessore di buona fede chi possiede ignorando di ledere l'altrui diritto. La buona fede non giova se l'ignoranza dipende da colpa grave. La buona fede e' presunta e basta che vi sia stata al tempo dell'acquisto.",
+    "caratteri": 216
+  },
+  "note": [],
+  "impronta": "sha256:153606fd4895f86c22d5c743cf9e5e1e7e9ac0569d9701aae4af6764910db3ce"
+}

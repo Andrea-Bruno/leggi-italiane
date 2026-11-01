@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "570-ter",
+    "rubrica": "Inosservanza dell'obbligo dell'istruzione dei minori",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art570-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il responsabile dell'adempimento dell'obbligo di istruzione che, ammonito ai sensi dell'articolo 114, comma 1 del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297, non prova di procurare altrimenti l'istruzione del minore o non giustifica con motivi di salute, o con altri impedimenti gravi, la mancata iscrizione del minore presso una scuola del sistema nazionale di istruzione, o non ve lo presenta entro una settimana dall'ammonizione, e' punito con la reclusione fino a due anni. Il responsabile dell'adempimento dell'obbligo di istruzione che, ammonito ai sensi dell'articolo 114, comma 4, del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297 per assenze ingiustificate del minore durante il corso dell'anno scolastico tali da costituire elusione dell'obbligo di istruzione, non prova di procurare altrimenti l'istruzione del minore o non giustifica con motivi di salute, o con altri impedimenti gravi, l'assenza del minore dalla scuola, o non ve lo presenta entro una settimana dall'ammonizione, e' punito con la reclusione fino a un anno.",
+    "con_marcatori": "Art. 570-ter. (Inosservanza dell'obbligo dell'istruzione dei minori). Il responsabile dell'adempimento dell'((obbligo di istruzione)) che, ammonito ai sensi dell'articolo 114, ((comma 1 del testo unico di cui al decreto legislativo)) 16 aprile 1994, n. 297, non prova di procurare altrimenti l'istruzione del minore o non giustifica con motivi di salute, o con altri impedimenti gravi, ((la mancata iscrizione del minore presso una scuola del sistema nazionale di istruzione,)) o non ve lo presenta entro una settimana dall'ammonizione, e' punito con la reclusione fino a due anni. Il responsabile dell'adempimento dell'((obbligo di istruzione)) che, ammonito ai sensi dell'articolo 114, ((comma 4, del testo unico di cui al decreto legislativo)) 16 aprile 1994, n. 297 per assenze ingiustificate del minore durante il corso dell'anno scolastico tali da costituire elusione dell'((obbligo di istruzione)), non prova di procurare altrimenti l'istruzione del minore o non giustifica con motivi di salute, o con altri impedimenti gravi, l'assenza del minore dalla scuola, o non ve lo presenta entro una settimana dall'ammonizione, e' punito con la reclusione fino a un anno.",
+    "caratteri": 1077
+  },
+  "note": [],
+  "impronta": "sha256:abc4a8f8fa63d27285acf336f061f61425a297dc526d33c5f965512dc58463a4"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "753",
+    "rubrica": "Immobili gravati da rendita redimibile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art753"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni coerede, quando i beni immobili dell'eredita' sono gravati con ipoteca da una prestazione di rendita redimibile, puo' chiedere che gli immobili ne siano affrancati e resi liberi prima che si proceda alla formazione delle quote ereditarie. Se uno dei coeredi si oppone, decide l'autorita' giudiziaria. Se i coeredi dividono l'eredita' nello stato in cui si trova, l'immobile gravato deve stimarsi con gli stessi criteri con cui si stimano gli altri beni immobili, detratto dal valore di esso il capitale corrispondente alla prestazione, secondo le norme relative al riscatto della rendita, salvo che esista un patto speciale intorno al capitale da corrispondersi per l'affrancazione. Alla prestazione della rendita e' tenuto solo l'erede, nella cui quota cade detto immobile, con l'obbligo di garantire i coeredi.",
+    "con_marcatori": "Art. 753. (Immobili gravati da rendita redimibile). Ogni coerede, quando i beni immobili dell'eredita' sono gravati con ipoteca da una prestazione di rendita redimibile, puo' chiedere che gli immobili ne siano affrancati e resi liberi prima che si proceda alla formazione delle quote ereditarie. Se uno dei coeredi si oppone, decide l'autorita' giudiziaria. Se i coeredi dividono l'eredita' nello stato in cui si trova, l'immobile gravato deve stimarsi con gli stessi criteri con cui si stimano gli altri beni immobili, detratto dal valore di esso il capitale corrispondente alla prestazione, secondo le norme relative al riscatto della rendita, salvo che esista un patto speciale intorno al capitale da corrispondersi per l'affrancazione. Alla prestazione della rendita e' tenuto solo l'erede, nella cui quota cade detto immobile, con l'obbligo di garantire i coeredi.",
+    "caratteri": 817
+  },
+  "note": [],
+  "impronta": "sha256:a6a9da3e2c1140d2c00502605d1c54818b900d0f9231b33946e656bb48bc0ec3"
+}

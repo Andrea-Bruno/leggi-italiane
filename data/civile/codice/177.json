@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "177",
+    "rubrica": "Oggetto della comunione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art177"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Costituiscono oggetto della comunione: a) gli acquisti compiuti dai due coniugi insieme o separatamente durante il matrimonio, ad esclusione di quelli relativi ai beni personali; b) i frutti dei beni propri di ciascuno dei coniugi, percepiti e non consumati allo scioglimento della comunione; c) i proventi dell'attivita' separata di ciascuno dei coniugi se, allo scioglimento della comunione, non siano stati consumati; d) le aziende gestite da entrambi i coniugi e costituite dopo il matrimonio. Qualora si tratti di aziende appartenenti ad uno dei coniugi anteriormente al matrimonio ma gestite da entrambi, la comunione concerne solo gli utili e gli incrementi.",
+    "con_marcatori": "Art. 177. ((Oggetto della comunione.)) ((Costituiscono oggetto della comunione: a) gli acquisti compiuti dai due coniugi insieme o separatamente durante il matrimonio, ad esclusione di quelli relativi ai beni personali; b) i frutti dei beni propri di ciascuno dei coniugi, percepiti e non consumati allo scioglimento della comunione; c) i proventi dell'attivita' separata di ciascuno dei coniugi se, allo scioglimento della comunione, non siano stati consumati; d) le aziende gestite da entrambi i coniugi e costituite dopo il matrimonio. Qualora si tratti di aziende appartenenti ad uno dei coniugi anteriormente al matrimonio ma gestite da entrambi, la comunione concerne solo gli utili e gli incrementi)).",
+    "caratteri": 665
+  },
+  "note": [],
+  "impronta": "sha256:a02811c30bf9b12ca0f70575410e173af53af34f01c1dae32538e4ad1a5b5b02"
+}

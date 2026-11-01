@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2786",
+    "rubrica": "Costituzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2786"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pegno si costituisce con la consegna al creditore della cosa o del documento che conferisce l'esclusiva disponibilita' della cosa. La cosa o il documento possono essere anche consegnati a un terzo designato dalle parti o possono essere posti in custodia di entrambe, in modo che il costituente sia nell'impossibilita' di disporne senza la cooperazione del creditore.",
+    "con_marcatori": "Art. 2786. (Costituzione). Il pegno si costituisce con la consegna al creditore della cosa o del documento che conferisce l'esclusiva disponibilita' della cosa. La cosa o il documento possono essere anche consegnati a un terzo designato dalle parti o possono essere posti in custodia di entrambe, in modo che il costituente sia nell'impossibilita' di disporne senza la cooperazione del creditore.",
+    "caratteri": 369
+  },
+  "note": [],
+  "impronta": "sha256:76beed29ea96f3761c3c3b9e3f81fe41c1502ebd2535f0546d504383a40c6397"
+}

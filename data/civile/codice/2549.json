@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2549",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2549"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Con il contratto di associazione in partecipazione l'associante attribuisce all'associato una partecipazione agli utili della sua impresa o di uno o piu' affari verso il corrispettivo di un determinato apporto. Nel caso in cui l'associato sia una persona fisica l'apporto di cui al primo comma non puo' consistere, nemmeno in parte, in una prestazione di lavoro. COMMA ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81.",
+    "con_marcatori": "Art. 2549. (Nozione). Con il contratto di associazione in partecipazione l'associante attribuisce all'associato una partecipazione agli utili della sua impresa o di uno o piu' affari verso il corrispettivo di un determinato apporto. ((Nel caso in cui l'associato sia una persona fisica l'apporto di cui al primo comma non puo' consistere, nemmeno in parte, in una prestazione di lavoro.)) ((COMMA ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81)).",
+    "caratteri": 411
+  },
+  "note": [],
+  "impronta": "sha256:fcebc5d42a8024a8ae012a6c0411c097dfd2b6df86e055109f3395a5ec2143f4"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2635",
+    "rubrica": "Corruzione tra privati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2635"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori, di societa' o enti privati che, anche per interposta persona, sollecitano o ricevono, per se' o per altri, denaro o altra utilita' non dovuti, o ne accettano la promessa, per compiere o per omettere un atto in violazione degli obblighi inerenti al loro ufficio o degli obblighi di fedelta', sono puniti con la reclusione da uno a tre anni. Si applica la stessa pena se il fatto e' commesso da chi nell'ambito organizzativo della societa' o dell'ente privato esercita funzioni direttive diverse da quelle proprie dei soggetti di cui al precedente periodo. Si applica la pena della reclusione fino a un anno e sei mesi se il fatto e' commesso da chi e' sottoposto alla direzione o alla vigilanza di uno dei soggetti indicati al primo comma. Chi, anche per interposta persona, offre, promette o da' denaro o altra utilita' non dovuti alle persone indicate nel primo e nel secondo comma, e' punito con le pene ivi previste. Le pene stabilite nei commi precedenti sono raddoppiate se si tratta di societa' con titoli quotati in mercati regolamentati italiani o di altri Stati dell'Unione europea o diffusi tra il pubblico in misura rilevante ai sensi dell'articolo 116 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni. COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3. Fermo quanto previsto dall'articolo 2641, la misura della confisca per valore equivalente non puo' essere inferiore al valore delle utilita' date, promesse o offerte.",
+    "con_marcatori": "Art. 2635. (Corruzione tra privati). Salvo che il fatto costituisca piu' grave reato, gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori, di societa' o enti privati che, anche per interposta persona, sollecitano o ricevono, per se' o per altri, denaro o altra utilita' non dovuti, o ne accettano la promessa, per compiere o per omettere un atto in violazione degli obblighi inerenti al loro ufficio o degli obblighi di fedelta', sono puniti con la reclusione da uno a tre anni. Si applica la stessa pena se il fatto e' commesso da chi nell'ambito organizzativo della societa' o dell'ente privato esercita funzioni direttive diverse da quelle proprie dei soggetti di cui al precedente periodo. Si applica la pena della reclusione fino a un anno e sei mesi se il fatto e' commesso da chi e' sottoposto alla direzione o alla vigilanza di uno dei soggetti indicati al primo comma. Chi, anche per interposta persona, offre, promette o da' denaro o altra utilita' non dovuti alle persone indicate nel primo e nel secondo comma, e' punito con le pene ivi previste. Le pene stabilite nei commi precedenti sono raddoppiate se si tratta di societa' con titoli quotati in mercati regolamentati italiani o di altri Stati dell'Unione europea o diffusi tra il pubblico in misura rilevante ai sensi dell'articolo 116 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni. ((COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3)). Fermo quanto previsto dall'articolo 2641, la misura della confisca per valore equivalente non puo' essere inferiore al valore delle utilita' date, promesse o offerte.",
+    "caratteri": 1726
+  },
+  "note": [],
+  "impronta": "sha256:199617ac494838d9c3fa9b2f5019430ba1553136e08f2aae2854f4974472f759"
+}

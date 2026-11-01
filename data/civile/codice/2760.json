@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2760",
+    "rubrica": "Crediti dell'albergatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2760"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti dell'albergatore per mercedi e somministrazioni verso le persone albergate hanno privilegio sulle cose da queste portate nell'albergo e nelle dipendenze e che continuano a trovarvisi. Il privilegio ha effetto anche in pregiudizio dei terzi che hanno diritti sulle cose stesse, a meno che l'albergatore fosse a conoscenza di tali diritti al tempo in cui le cose sono state portate nell'albergo.",
+    "con_marcatori": "Art. 2760. (Crediti dell'albergatore). I crediti dell'albergatore per mercedi e somministrazioni verso le persone albergate hanno privilegio sulle cose da queste portate nell'albergo e nelle dipendenze e che continuano a trovarvisi. Il privilegio ha effetto anche in pregiudizio dei terzi che hanno diritti sulle cose stesse, a meno che l'albergatore fosse a conoscenza di tali diritti al tempo in cui le cose sono state portate nell'albergo.",
+    "caratteri": 403
+  },
+  "note": [],
+  "impronta": "sha256:a357906d82447b16f99c87b5a76b86cb60ea1b4378b960ac779df858ae750b14"
+}

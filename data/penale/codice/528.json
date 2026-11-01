@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "528",
+    "rubrica": "Pubblicazioni e spettacoli osceni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art528"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, allo scopo di farne commercio o distribuzione ovvero di esporli pubblicamente, fabbrica, introduce nel territorio dello Stato, acquista, detiene, esporta, ovvero mette in circolazione scritti, disegni, immagini od altri oggetti osceni di qualsiasi specie, e' soggetto alla sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000. Alla stessa sanzione soggiace chi fa commercio, anche se clandestino, degli oggetti indicati nella disposizione precedente, ovvero li distribuisce o espone pubblicamente. Si applicano la reclusione da tre mesi a tre anni e la multa non inferiore a euro 103 a chi: 1° adopera qualsiasi mezzo di pubblicita' atto a favorire la circolazione o il commercio degli oggetti indicati nella prima parte di questo articolo; 2° da' pubblici spettacoli teatrali o cinematografici, ovvero audizioni o recitazioni pubbliche, che abbiano carattere di oscenita'. Nel caso preveduto dal numero 2°, la pena e' aumentata se il fatto e' commesso nonostante il divieto dell'Autorita'.",
+    "con_marcatori": "Art. 528. (Pubblicazioni e spettacoli osceni) Chiunque, allo scopo di farne commercio o distribuzione ovvero di esporli pubblicamente, fabbrica, introduce nel territorio dello Stato, acquista, detiene, esporta, ovvero mette in circolazione scritti, disegni, immagini od altri oggetti osceni di qualsiasi specie, ((e' soggetto alla sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000)). ((Alla stessa sanzione)) soggiace chi fa commercio, anche se clandestino, degli oggetti indicati nella disposizione precedente, ovvero li distribuisce o espone pubblicamente. ((Si applicano la reclusione da tre mesi a tre anni e la multa non inferiore a euro 103)) a chi: 1° adopera qualsiasi mezzo di pubblicita' atto a favorire la circolazione o il commercio degli oggetti indicati nella prima parte di questo articolo; 2° da' pubblici spettacoli teatrali o cinematografici, ovvero audizioni o recitazioni pubbliche, che abbiano carattere di oscenita'. Nel caso preveduto dal numero 2°, la pena e' aumentata se il fatto e' commesso nonostante il divieto dell'Autorita'.",
+    "caratteri": 1011
+  },
+  "note": [],
+  "impronta": "sha256:5e4f5d4535d8c252a6988bb21b7f122ab4775232652cda45d6fe4705f62e0cb3"
+}

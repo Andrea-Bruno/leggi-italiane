@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2409-quaterdecies",
+    "rubrica": "Delibera di approvazione del bilancio di esercizio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2409-quaterdecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Alla deliberazione del consiglio di sorveglianza con cui viene approvato il bilancio di esercizio si applica l'articolo 2434-bis ed essa puo' venire impugnata anche dai soci ai sensi degli articoli 2377 e 2379.",
+    "con_marcatori": "Art. 2409-quaterdecies. (( (Delibera di approvazione del bilancio di esercizio).)). ((Alla deliberazione del consiglio di sorveglianza con cui viene approvato il bilancio di esercizio si applica l'articolo 2434-bis ed essa puo' venire impugnata anche dai soci ai sensi degli articoli 2377 e 2379.))",
+    "caratteri": 212
+  },
+  "note": [],
+  "impronta": "sha256:00930d5cc36c7c2cc5e5751918189a91f19d4de8cd37b5cce249b3d7943f7a5e"
+}

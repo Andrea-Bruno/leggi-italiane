@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1128",
+    "rubrica": "Perimento totale o parziale dell'edificio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1128"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'edificio perisce interamente o per una parte che rappresenti i tre quarti del suo valore, ciascuno dei condomini puo' richiedere la vendita all'asta del suolo e dei materiali, salvo che sia stato diversamente convenuto. Nel caso di perimento di una parte minore, l'assemblea dei condomini delibera circa la ricostruzione delle parti comuni dell'edificio, e ciascuno e' tenuto a concorrervi in proporzione dei suoi diritti sulle parti stesse. L'indennita' corrisposta per l'assicurazione relativa alle parti comuni e' destinata alla ricostruzione di queste. Il condomino che non intende partecipare alla ricostruzione dell'edificio e' tenuto a cedere agli altri condomini i suoi diritti, anche sulle parti di sua esclusiva proprieta', secondo la stima che ne sara' fatta, salvo che non preferisca cedere i diritti stessi ad alcuni soltanto dei condomini.",
+    "con_marcatori": "Art. 1128. (Perimento totale o parziale dell'edificio). Se l'edificio perisce interamente o per una parte che rappresenti i tre quarti del suo valore, ciascuno dei condomini puo' richiedere la vendita all'asta del suolo e dei materiali, salvo che sia stato diversamente convenuto. Nel caso di perimento di una parte minore, l'assemblea dei condomini delibera circa la ricostruzione delle parti comuni dell'edificio, e ciascuno e' tenuto a concorrervi in proporzione dei suoi diritti sulle parti stesse. L'indennita' corrisposta per l'assicurazione relativa alle parti comuni e' destinata alla ricostruzione di queste. Il condomino che non intende partecipare alla ricostruzione dell'edificio e' tenuto a cedere agli altri condomini i suoi diritti, anche sulle parti di sua esclusiva proprieta', secondo la stima che ne sara' fatta, salvo che non preferisca cedere i diritti stessi ad alcuni soltanto dei condomini.",
+    "caratteri": 858
+  },
+  "note": [],
+  "impronta": "sha256:b1752634ca23fb3552fe29cf227017ba33a2fe079a427e59d89eec196f3029dc"
+}

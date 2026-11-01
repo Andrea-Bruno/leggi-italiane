@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1503",
+    "rubrica": "Esercizio del riscatto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1503"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il venditore decade dal diritto di riscatto, se entro il termine fissato non comunica al compratore la dichiarazione di riscatto e non gli corrisponde le somme liquide dovute per il rimborso del prezzo, delle spese e di ogni altro pagamento legittimamente fatto per la vendita. Se il compratore rifiuta di ricevere il pagamento di tali rimborsi, il venditore decade dal diritto di riscatto, qualora non ne faccia offerta reale entro otto giorni dalla scadenza del termine. Nella vendita di beni immobili la dichiarazione di riscatto deve essere fatta per iscritto, sotto pena di nullita'.",
+    "con_marcatori": "Art. 1503. (Esercizio del riscatto). Il venditore decade dal diritto di riscatto, se entro il termine fissato non comunica al compratore la dichiarazione di riscatto e non gli corrisponde le somme liquide dovute per il rimborso del prezzo, delle spese e di ogni altro pagamento legittimamente fatto per la vendita. Se il compratore rifiuta di ricevere il pagamento di tali rimborsi, il venditore decade dal diritto di riscatto, qualora non ne faccia offerta reale entro otto giorni dalla scadenza del termine. Nella vendita di beni immobili la dichiarazione di riscatto deve essere fatta per iscritto, sotto pena di nullita'.",
+    "caratteri": 588
+  },
+  "note": [],
+  "impronta": "sha256:37b35d94c6c11eb5b24cb3fcb552c6271509daf66696595a6b8421d95d77b659"
+}

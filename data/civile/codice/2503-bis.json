@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2503-bis",
+    "rubrica": "Obbligazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2503-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I possessori di obbligazioni delle societa' partecipanti alla fusione possono fare opposizione a norma dell'articolo 2503, salvo che la fusione sia approvata dall'assemblea degli obbligazionisti. Ai possessori di obbligazioni convertibili deve essere data facolta', mediante avviso da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana almeno novanta giorni prima della iscrizione del progetto di fusione, di esercitare il diritto di conversione nel termine di trenta giorni dalla pubblicazione dell'avviso. Ai possessori di obbligazioni convertibili che non abbiano esercitato la facolta' di conversione devono essere assicurati diritti equivalenti a quelli loro spettanti prima della fusione, salvo che la modificazione dei loro diritti sia stata approvata dall'assemblea prevista dall'articolo 2415.",
+    "con_marcatori": "Art. 2503-bis. (( (Obbligazioni).)) ((I possessori di obbligazioni delle societa' partecipanti alla fusione possono fare opposizione a norma dell'articolo 2503, salvo che la fusione sia approvata dall'assemblea degli obbligazionisti. Ai possessori di obbligazioni convertibili deve essere data facolta', mediante avviso da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana almeno novanta giorni prima della iscrizione del progetto di fusione, di esercitare il diritto di conversione nel termine di trenta giorni dalla pubblicazione dell'avviso. Ai possessori di obbligazioni convertibili che non abbiano esercitato la facolta' di conversione devono essere assicurati diritti equivalenti a quelli loro spettanti prima della fusione, salvo che la modificazione dei loro diritti sia stata approvata dall'assemblea prevista dall'articolo 2415.))",
+    "caratteri": 814
+  },
+  "note": [],
+  "impronta": "sha256:7a3333c1d6516903f90b43e91fc4aa0c09397e24b7eaf3bfce5e49670f2445c4"
+}

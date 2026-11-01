@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "52",
+    "rubrica": "Effetti della immissione nel possesso temporaneo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art52"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'immissione nel possesso temporaneo dei beni deve essere preceduta dalla formazione dell'inventario dei beni. Essa attribuisce a coloro che l'ottengono e ai loro successori l'amministrazione dei beni dell'assente, la rappresentanza di lui in giudizio e il godimento delle rendite dei beni nei limiti stabiliti nell'articolo seguente.",
+    "con_marcatori": "Art. 52. (Effetti della immissione nel possesso temporaneo). L'immissione nel possesso temporaneo dei beni deve essere preceduta dalla formazione dell'inventario dei beni. Essa attribuisce a coloro che l'ottengono e ai loro successori l'amministrazione dei beni dell'assente, la rappresentanza di lui in giudizio e il godimento delle rendite dei beni nei limiti stabiliti nell'articolo seguente.",
+    "caratteri": 334
+  },
+  "note": [],
+  "impronta": "sha256:ff02364956359bed9d1994b5758b103abd4a45124906f0a14c4a92ba26d53309"
+}

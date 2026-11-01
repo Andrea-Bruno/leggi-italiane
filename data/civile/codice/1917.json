@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1917",
+    "rubrica": "Assicurazione della responsabilita' civile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1917"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nell'assicurazione della responsabilita' civile l'assicuratore e' obbligato a tenere indenne l'assicurato di quanto questi, in conseguenza del fatto accaduto durante il tempo dell'assicurazione, deve pagare a un terzo, in dipendenza della responsabilita' dedotta nel contratto. Sono esclusi i danni derivanti da fatti dolosi. L'assicuratore ha facolta', previa comunicazione all'assicurato, di pagare direttamente al terzo danneggiato l'indennita' dovuta, ed e' obbligato al pagamento diretto se l'assicurato lo richiede. Le spese sostenute per resistere all'azione del danneggiato contro l'assicurato sono a carico dell'assicuratore nei limiti del quarto della somma assicurata. Tuttavia, nel caso che sia dovuta al danneggiato una somma superiore al capitale assicurato, le spese giudiziali si ripartiscono tra assicuratore e assicurato in proporzione del rispettivo interesse. L'assicurato, convenuto dal danneggiato, puo' chiamare in causa l'assicuratore.",
+    "con_marcatori": "Art. 1917. (Assicurazione della responsabilita' civile). Nell'assicurazione della responsabilita' civile l'assicuratore e' obbligato a tenere indenne l'assicurato di quanto questi, in conseguenza del fatto accaduto durante il tempo dell'assicurazione, deve pagare a un terzo, in dipendenza della responsabilita' dedotta nel contratto. Sono esclusi i danni derivanti da fatti dolosi. L'assicuratore ha facolta', previa comunicazione all'assicurato, di pagare direttamente al terzo danneggiato l'indennita' dovuta, ed e' obbligato al pagamento diretto se l'assicurato lo richiede. Le spese sostenute per resistere all'azione del danneggiato contro l'assicurato sono a carico dell'assicuratore nei limiti del quarto della somma assicurata. Tuttavia, nel caso che sia dovuta al danneggiato una somma superiore al capitale assicurato, le spese giudiziali si ripartiscono tra assicuratore e assicurato in proporzione del rispettivo interesse. L'assicurato, convenuto dal danneggiato, puo' chiamare in causa l'assicuratore.",
+    "caratteri": 959
+  },
+  "note": [],
+  "impronta": "sha256:2bede1e25dc1431456754ac9237ac672b2ee5ee04c791c463b2294e21ea6c123"
+}

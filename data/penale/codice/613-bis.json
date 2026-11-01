@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "613-bis",
+    "rubrica": "Tortura",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art613-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, con violenze o minacce gravi, ovvero agendo con crudelta', cagiona acute sofferenze fisiche o un verificabile trauma psichico a una persona privata della liberta' personale o affidata alla sua custodia, potesta', vigilanza, controllo, cura o assistenza, ovvero che si trovi in condizioni di minorata difesa, e' punito con la pena della reclusione da quattro a dieci anni se il fatto e' commesso mediante piu' condotte ovvero se comporta un trattamento inumano e degradante per la dignita' della persona. Se i fatti di cui al primo comma sono commessi da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o in violazione dei doveri inerenti alla funzione o al servizio, la pena e' della reclusione da cinque a dodici anni. Il comma precedente non si applica nel caso di sofferenze risultanti unicamente dall'esecuzione di legittime misure privative o limitative di diritti. Se dai fatti di cui al primo comma deriva una lesione personale le pene di cui ai commi precedenti sono aumentate; se ne deriva una lesione personale grave sono aumentate di un terzo e se ne deriva una lesione personale gravissima sono aumentate della meta'. Se dai fatti di cui al primo comma deriva la morte quale conseguenza non voluta, la pena e' della reclusione di anni trenta. Se il colpevole cagiona volontariamente la morte, la pena e' dell'ergastolo.",
+    "con_marcatori": "Art. 613-bis. (( (Tortura).)) ((Chiunque, con violenze o minacce gravi, ovvero agendo con crudelta', cagiona acute sofferenze fisiche o un verificabile trauma psichico a una persona privata della liberta' personale o affidata alla sua custodia, potesta', vigilanza, controllo, cura o assistenza, ovvero che si trovi in condizioni di minorata difesa, e' punito con la pena della reclusione da quattro a dieci anni se il fatto e' commesso mediante piu' condotte ovvero se comporta un trattamento inumano e degradante per la dignita' della persona. Se i fatti di cui al primo comma sono commessi da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o in violazione dei doveri inerenti alla funzione o al servizio, la pena e' della reclusione da cinque a dodici anni. Il comma precedente non si applica nel caso di sofferenze risultanti unicamente dall'esecuzione di legittime misure privative o limitative di diritti. Se dai fatti di cui al primo comma deriva una lesione personale le pene di cui ai commi precedenti sono aumentate; se ne deriva una lesione personale grave sono aumentate di un terzo e se ne deriva una lesione personale gravissima sono aumentate della meta'. Se dai fatti di cui al primo comma deriva la morte quale conseguenza non voluta, la pena e' della reclusione di anni trenta. Se il colpevole cagiona volontariamente la morte, la pena e' dell'ergastolo.))",
+    "caratteri": 1380
+  },
+  "note": [],
+  "impronta": "sha256:4d955c54bcc57a7d30e526b0eb53808f9b939f8b0f3c3bfac6e01b8f9cf9ce1a"
+}

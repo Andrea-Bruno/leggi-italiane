@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "256",
+    "rubrica": "Procacciamento di notizie concernenti la sicurezza dello Stato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art256"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque si procura notizie che, nell'interesse della sicurezza dello Stato o, comunque, nell'interesse politico, interno o internazionale, dello Stato, debbono rimanere segrete e' punito con la reclusione da tre a dieci anni. Agli effetti delle disposizioni di questo titolo, fra le notizie che debbono rimanere segrete nell'interesse politico dello Stato sono comprese quelle contenute in atti del Governo, da esso non pubblicati per ragioni d'ordine politico, interno o internazionale. Se si tratta di notizie di cui l'Autorita' competente ha vietato la divulgazione, la pena e' della reclusione da due a otto anni. Si applica la pena di morte se il fatto ha compromesso la preparazione o la efficienza bellica dello Stato, ovvero le operazioni militari.",
+    "con_marcatori": "Art. 256. (Procacciamento di notizie concernenti la sicurezza dello Stato) Chiunque si procura notizie che, nell'interesse della sicurezza dello Stato o, comunque, nell'interesse politico, interno o internazionale, dello Stato, debbono rimanere segrete e' punito con la reclusione da tre a dieci anni. Agli effetti delle disposizioni di questo titolo, fra le notizie che debbono rimanere segrete nell'interesse politico dello Stato sono comprese quelle contenute in atti del Governo, da esso non pubblicati per ragioni d'ordine politico, interno o internazionale. Se si tratta di notizie di cui l'Autorita' competente ha vietato la divulgazione, la pena e' della reclusione da due a otto anni. Si applica la pena di morte se il fatto ha compromesso la preparazione o la efficienza bellica dello Stato, ovvero le operazioni militari. ((5))",
+    "caratteri": 757
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:6a604442f272359b337bcd5a15a9d2cc1190938261a3724771c700333b16a5f7"
+}

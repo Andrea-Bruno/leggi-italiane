@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-ter",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "( Morte o lesioni come conseguenza del delitto di inquinamento ambientale e di commercio di prodotti inquinanti ). Se da uno dei fatti di cui agli articoli 452-bis e 452-bis.1 deriva, quale conseguenza non voluta dal reo, una lesione personale, ad eccezione delle ipotesi in cui la malattia ha una durata non superiore ai venti giorni, si applica la pena della reclusione da due anni e sei mesi a sette anni; se ne deriva una lesione grave, la pena della reclusione da tre a otto anni; se ne deriva una lesione gravissima, la pena della reclusione da quattro a undici anni; se ne deriva la morte, la pena della reclusione da cinque a dodici anni. Nel caso di morte di piu' persone, di lesioni di piu' persone, ovvero di morte di una o piu' persone e lesioni di una o piu' persone, si applica la pena che dovrebbe infliggersi per l'ipotesi piu' grave, aumentata fino al triplo, ma la pena della reclusione non puo' superare gli anni venti.",
+    "con_marcatori": "Art. 452-ter. ( Morte o lesioni come conseguenza del delitto di inquinamento ambientale ((e di commercio di prodotti inquinanti)) ). Se da uno dei fatti di cui ((agli articoli 452-bis e 452-bis.1)) deriva, quale conseguenza non voluta dal reo, una lesione personale, ad eccezione delle ipotesi in cui la malattia ha una durata non superiore ai venti giorni, si applica la pena della reclusione da due anni e sei mesi a sette anni; se ne deriva una lesione grave, la pena della reclusione da tre a otto anni; se ne deriva una lesione gravissima, la pena della reclusione da quattro a ((undici)) anni; se ne deriva la morte, la pena della reclusione da cinque a ((dodici)) anni. Nel caso di morte di piu' persone, di lesioni di piu' persone, ovvero di morte di una o piu' persone e lesioni di una o piu' persone, si applica la pena che dovrebbe infliggersi per l'ipotesi piu' grave, aumentata fino al triplo, ma la pena della reclusione non puo' superare gli anni venti.",
+    "caratteri": 938
+  },
+  "note": [],
+  "impronta": "sha256:ca584642dea5fc617fbfb6559356665faca0a878eedce1ef47fc6918499adee0"
+}

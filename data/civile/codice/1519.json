@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1519",
+    "rubrica": "Restituzione di cose non pagate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1519"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la vendita e' stata fatta senza dilazione per il pagamento del prezzo, il venditore, in mancanza di pagamento, puo' riprendere il possesso delle cose vendute, finche' queste si trovano presso il compratore, purche' la domanda sia proposta entro quindici giorni dalla consegna e le cose si trovino nello stato in cui erano al tempo della consegna stessa. Il diritto di riprendere il possesso delle cose non si puo' esercitare in pregiudizio dei privilegi previsti dagli articoli 2764 e 2765, salvo che si provi che il creditore, al tempo della introduzione di esse nella casa o nel fondo locato ovvero nel fondo concesso a mezzadria o a colonia, conosceva che il prezzo era ancora dovuto. La disposizione del comma precedente si applica anche a favore dei creditori del compratore che abbiano sequestrato o pignorato le cose, a meno che si provi che essi, al momento del sequestro o del pignoramento, conoscevano che il prezzo era ancora dovuto.",
+    "con_marcatori": "Art. 1519. (Restituzione di cose non pagate). Se la vendita e' stata fatta senza dilazione per il pagamento del prezzo, il venditore, in mancanza di pagamento, puo' riprendere il possesso delle cose vendute, finche' queste si trovano presso il compratore, purche' la domanda sia proposta entro quindici giorni dalla consegna e le cose si trovino nello stato in cui erano al tempo della consegna stessa. Il diritto di riprendere il possesso delle cose non si puo' esercitare in pregiudizio dei privilegi previsti dagli articoli 2764 e 2765, salvo che si provi che il creditore, al tempo della introduzione di esse nella casa o nel fondo locato ovvero nel fondo concesso a mezzadria o a colonia, conosceva che il prezzo era ancora dovuto. La disposizione del comma precedente si applica anche a favore dei creditori del compratore che abbiano sequestrato o pignorato le cose, a meno che si provi che essi, al momento del sequestro o del pignoramento, conoscevano che il prezzo era ancora dovuto.",
+    "caratteri": 947
+  },
+  "note": [],
+  "impronta": "sha256:37b3767ba72ee32cef3ce7aae658a074e7d3305d3a0c83251580214674689b36"
+}

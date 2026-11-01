@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2340",
+    "rubrica": "Limiti dei benefici riservati ai promotori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2340"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I promotori possono riservarsi nell'atto costitutivo, indipendentemente dalla loro qualita' di soci, una partecipazione non superiore complessivamente a un decimo degli utili netti risultanti dal bilancio e per un periodo massimo di cinque anni. Essi non possono stipulare a proprio vantaggio altro beneficio.",
+    "con_marcatori": "Art. 2340. (( (Limiti dei benefici riservati ai promotori). )) ((I promotori possono riservarsi nell'atto costitutivo, indipendentemente dalla loro qualita' di soci, una partecipazione non superiore complessivamente a un decimo degli utili netti risultanti dal bilancio e per un periodo massimo di cinque anni. Essi non possono stipulare a proprio vantaggio altro beneficio.))",
+    "caratteri": 309
+  },
+  "note": [],
+  "impronta": "sha256:06c704ff86ec9608661424fc6d7c8f3cdbcdd569ea3f8f8b2275083c90b060e8"
+}

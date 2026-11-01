@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2089",
+    "rubrica": "Inosservanza degli obblighi dell'imprenditore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2089"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'imprenditore non osserva gli obblighi imposti dall'ordinamento corporativo nell'interesse della produzione, in modo da determinare grave danno all'economia nazionale, gli organi corporativi, dopo aver compiuto le opportune indagini e richiesto all'imprenditore i chiarimenti necessari, possono disporre la trasmissione degli atti al pubblico ministero presso la corte d'appello di cui fa parte la magistratura del lavoro competente per territorio, perche' promuova eventualmente i provvedimenti indicati nell'art. 2091.",
+    "con_marcatori": "Art. 2089. (Inosservanza degli obblighi dell'imprenditore). Se l'imprenditore non osserva gli obblighi imposti dall'ordinamento corporativo nell'interesse della produzione, in modo da determinare grave danno all'economia nazionale, gli organi corporativi, dopo aver compiuto le opportune indagini e richiesto all'imprenditore i chiarimenti necessari, possono disporre la trasmissione degli atti al pubblico ministero presso la corte d'appello di cui fa parte la magistratura del lavoro competente per territorio, perche' promuova eventualmente i provvedimenti indicati nell'art. 2091.",
+    "caratteri": 524
+  },
+  "note": [],
+  "impronta": "sha256:0770c6e09d84cab23a5c6dca055f8cd7a925337b1faa69e21fec57ec7d369feb"
+}

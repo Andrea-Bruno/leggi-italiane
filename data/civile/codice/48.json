@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "48",
+    "rubrica": "Curatore dello scomparso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art48"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando una persona non e' piu' comparsa nel luogo del suo ultimo domicilio o dell'ultima sua residenza e non se ne hanno piu' notizie, il tribunale dell'ultimo domicilio o dell'ultima residenza, su istanza, degli interessati o dei presunti successori legittimi o del pubblico ministero, puo' nominare un curatore che rappresenti la persona in giudizio o nella formazione degli inventari e dei conti e nelle liquidazioni o divisioni in cui sia interessata, e puo' dare gli altri provvedimenti necessari alla conservazione del patrimonio dello scomparso. Se vi e' un legale rappresentante, non si fa luogo alla nomina del curatore. Se vi e' un procuratore, il tribunale provvede soltanto per gli atti che il medesimo non puo' fare.",
+    "con_marcatori": "Art. 48. (Curatore dello scomparso). Quando una persona non e' piu' comparsa nel luogo del suo ultimo domicilio o dell'ultima sua residenza e non se ne hanno piu' notizie, il tribunale dell'ultimo domicilio o dell'ultima residenza, su istanza, degli interessati o dei presunti successori legittimi o del pubblico ministero, puo' nominare un curatore che rappresenti la persona in giudizio o nella formazione degli inventari e dei conti e nelle liquidazioni o divisioni in cui sia interessata, e puo' dare gli altri provvedimenti necessari alla conservazione del patrimonio dello scomparso. Se vi e' un legale rappresentante, non si fa luogo alla nomina del curatore. Se vi e' un procuratore, il tribunale provvede soltanto per gli atti che il medesimo non puo' fare.",
+    "caratteri": 729
+  },
+  "note": [],
+  "impronta": "sha256:a6b8b7879732ab9a5fcb2d029d19ab3b33c6dcb25a29f6da3f7bb5d3472d5c50"
+}

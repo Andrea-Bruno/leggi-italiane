@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1040",
+    "rubrica": "Uso dell'acquedotto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1040"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi possiede un acquedotto nel fondo altrui non puo' immettervi maggiore quantita' d'acqua, se l'acquedotto non ne e' capace o ne puo' venir danno al fondo servente. Se l'introduzione di una maggior quantita' d'acqua esige nuove opere, queste non possono farsi, se prima non se ne determinano la natura e la qualita' e non si paga la somma dovuta per il suolo da occupare e per i danni nel modo stabilito dall'art. 1038. La stessa disposizioni si applica anche quando per il passaggio attraverso un acquedotto occorre sostituire una tomba a un ponte-canale o viceversa.",
+    "con_marcatori": "Art. 1040. (Uso dell'acquedotto). Chi possiede un acquedotto nel fondo altrui non puo' immettervi maggiore quantita' d'acqua, se l'acquedotto non ne e' capace o ne puo' venir danno al fondo servente. Se l'introduzione di una maggior quantita' d'acqua esige nuove opere, queste non possono farsi, se prima non se ne determinano la natura e la qualita' e non si paga la somma dovuta per il suolo da occupare e per i danni nel modo stabilito dall'art. 1038. La stessa disposizioni si applica anche quando per il passaggio attraverso un acquedotto occorre sostituire una tomba a un ponte-canale o viceversa.",
+    "caratteri": 569
+  },
+  "note": [],
+  "impronta": "sha256:ed0ccb0aedff0c021fbfd807db0b9344c820073a25e1e8ffe1e15882dc2e7dd9"
+}

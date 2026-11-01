@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1931",
+    "rubrica": "Compensazione dei crediti e debiti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1931"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di liquidazione coatta amministrativa dell'impresa del riassicuratore o del riassicurato, i debiti e i crediti che, alla fine della liquidazione, risultano dalla chiusura dei conti relativi a piu' contratti di riassicurazione, si compensano di diritto.",
+    "con_marcatori": "Art. 1931. (Compensazione dei crediti e debiti). In caso di liquidazione coatta amministrativa dell'impresa del riassicuratore o del riassicurato, i debiti e i crediti che, alla fine della liquidazione, risultano dalla chiusura dei conti relativi a piu' contratti di riassicurazione, si compensano di diritto.",
+    "caratteri": 260
+  },
+  "note": [],
+  "impronta": "sha256:8bab613b8a3abd27450a7b63e7669eecbc53355b98fbf75d4a42275078a22b4a"
+}

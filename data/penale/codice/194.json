@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "194",
+    "rubrica": "Atti a titolo oneroso o gratuito compiuti dal colpevole prima del reato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art194"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti a titolo gratuito, compiuti dal colpevole prima del reato, non sono efficaci rispetto ai crediti indicati nell'articolo 189, qualora si provi che furono da lui compiuti in frode. La stessa disposizione si applica agli atti a titolo oneroso eccedenti la semplice amministrazione ovvero la gestione dell'ordinario commercio; nondimeno, per la revoca dell'atto a titolo oneroso, e' necessaria la prova anche della mala fede dell'altro contraente. Le disposizioni di questo articolo non si applicano per gli atti anteriori di un anno al commesso reato.",
+    "con_marcatori": "Art. 194. (Atti a titolo oneroso o gratuito compiuti dal colpevole prima del reato) Gli atti a titolo gratuito, compiuti dal colpevole prima del reato, non sono efficaci rispetto ai crediti indicati nell'articolo 189, qualora si provi che furono da lui compiuti in frode. La stessa disposizione si applica agli atti a titolo oneroso eccedenti la semplice amministrazione ovvero la gestione dell'ordinario commercio; nondimeno, per la revoca dell'atto a titolo oneroso, e' necessaria la prova anche della mala fede dell'altro contraente. Le disposizioni di questo articolo non si applicano per gli atti anteriori di un anno al commesso reato.",
+    "caratteri": 557
+  },
+  "note": [],
+  "impronta": "sha256:873f2110f7f104c61877c3ba4b9b85a3f77744d3b594d87dfa207893bc770576"
+}

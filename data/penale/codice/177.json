@@ -1,0 +1,105 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "177",
+    "rubrica": "Revoca della liberazione condizionale o estinzione della pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art177"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 115,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 153,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 162,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nei confronti del condannato ammesso alla liberazione condizionale resta sospesa la esecuzione della misura di sicurezza detentiva cui il condannato stesso sia stato sottoposto con la sentenza di condanna o con un provvedimento successivo. La liberazione condizionale e' revocata, se la persona liberata commette un delitto o una contravvenzione della stessa indole, ovvero trasgredisce agli obblighi inerenti alla liberta' vigilata, disposta a termini dell'articolo 230, n. 2. In tal caso, il tempo trascorso in liberta' condizionale non e' computato nella durata della pena e il condannato non puo' essere riammesso alla liberazione condizionale. Decorso tutto il tempo della pena inflitta, ovvero cinque anni dalla data del provvedimento di liberazione condizionale, se trattasi di condannato all'ergastolo, senza che sia intervenuta alcuna causa di revoca, la pena rimane estinta e sono revocate le misure di sicurezza personali, ordinate dal giudice con la sentenza di condanna o con provvedimento successivo.",
+    "con_marcatori": "Art. 177. (Revoca della liberazione condizionale o estinzione della pena). Nei confronti del condannato ammesso alla liberazione condizionale resta sospesa la esecuzione della misura di sicurezza detentiva cui il condannato stesso sia stato sottoposto con la sentenza di condanna o con un provvedimento successivo. La liberazione condizionale e' revocata, se la persona liberata commette un delitto o una contravvenzione della stessa indole, ovvero trasgredisce agli obblighi inerenti alla liberta' vigilata, disposta a termini dell'articolo 230, n. 2. In tal caso, il tempo trascorso in liberta' condizionale non e' computato nella durata della pena e il condannato non puo' essere riammesso alla liberazione condizionale. (115) (153) ((162)) Decorso tutto il tempo della pena inflitta, ovvero cinque anni dalla data del provvedimento di liberazione condizionale, se trattasi di condannato all'ergastolo, senza che sia intervenuta alcuna causa di revoca, la pena rimane estinta e sono revocate le misure di sicurezza personali, ordinate dal giudice con la sentenza di condanna o con provvedimento successivo.",
+    "caratteri": 1014
+  },
+  "note": [
+    {
+      "numero": 115,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1989-05-25",
+        "numero": "282"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 17 - 25 maggio 1989, n. 282, (in G.U. 1ª s.s. 31/05/1989, n. 22) come modificata dall'Errata Corrige in G.U. 1ª s.s. 14/06/1989, n. 24, ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo nella parte in cui, nel caso di revoca della liberazione condizionale, non consente al Tribunale di sorveglianza di determinare la pena detentiva ancora da espiare, tenendo conto del tempo trascorso in liberta' condizionale nonche' delle restrizioni di liberta' subite dal condannato e del suo comportamento durante tale periodo."
+    },
+    {
+      "numero": 153,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1997-06-04",
+        "numero": "161"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2 - 4 giugno 1997, n. 161, (in G.U. 1ª s.s. 11/06/1997, n. 24) ha dichiarato l'illegittimita' costituzionale dell'ultimo periodo del primo comma del presente articolo nella parte in cui non prevede che il condannato alla pena dell'ergastolo, cui sia stata revocata la liberazione condizionale, possa essere nuovamente ammesso a fruire del beneficio ove ne sussistano i relativi presupposti."
+    },
+    {
+      "numero": 162,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1998-06-23",
+        "numero": "418"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 14 - 23 giugno 1998, n. 418, (in G.U. 1ª s.s. 30/12/1998, n. 52) ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo nella parte in cui prevede la revoca della liberazione condizionale nel caso di condanna per qualsiasi delitto o contravvenzione della stessa indole, anziche' stabilire che la liberazione condizionale e' revocata se la condotta del soggetto, in relazione alla condanna subita, appare incompatibile con il mantenimento del beneficio."
+    }
+  ],
+  "impronta": "sha256:232bdea072c9aec45e6e50a0cd6f4a30af71d40763389186bc01378c7e08bf70"
+}

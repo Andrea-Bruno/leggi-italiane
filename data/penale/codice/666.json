@@ -1,0 +1,76 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "666",
+    "rubrica": "Spettacoli o trattenimenti pubblici senza licenza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art666"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 47,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, senza la licenza dell'Autorita', in un luogo pubblico o aperto o esposto al pubblico, da' spettacoli o trattenimenti di qualsiasi natura, o apre circoli o sale da ballo o di audizione, e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni. Se la licenza e' stata negata, revocata o sospesa, si applica la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila. E' sempre disposta la cessazione dell'attivita' svolta in difetto di licenza. Se l'attivita' e' svolta in locale per il quale e' stata rilasciata autorizzazione o altro titolo abilitativo all'esercizio di diversa attivita', nel caso di reiterazione delle violazioni di cui al primo comma e nell'ipotesi prevista dal secondo comma e' disposta altresi' la chiusura del locale per un periodo non superiore a sette giorni. Per le violazioni previste dal presente articolo non e' ammesso il pagamento in misura ridotta a norma dell'articolo 16 della legge 24 novembre 1981, n. 689.",
+    "con_marcatori": "Art. 666. (Spettacoli o trattenimenti pubblici senza licenza) Chiunque, senza la licenza dell'Autorita', in un luogo pubblico o aperto o esposto al pubblico, da' spettacoli o trattenimenti di qualsiasi natura, o apre circoli o sale da ballo o di audizione, ((e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni)). Se la licenza e' stata negata, revocata o sospesa, ((si applica la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila)). ((E' sempre disposta la cessazione dell'attivita' svolta in difetto di licenza. Se l'attivita' e' svolta in locale per il quale e' stata rilasciata autorizzazione o altro titolo abilitativo all'esercizio di diversa attivita', nel caso di reiterazione delle violazioni di cui al primo comma e nell'ipotesi prevista dal secondo comma e' disposta altresi' la chiusura del locale per un periodo non superiore a sette giorni. Per le violazioni previste dal presente articolo non e' ammesso il pagamento in misura ridotta a norma dell'articolo 16 della legge 24 novembre 1981, n. 689.)) (47)",
+    "caratteri": 1017
+  },
+  "note": [
+    {
+      "numero": 47,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "artt. 68 del R.D. 18 giugno 1931, n. 773",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1970-04-15",
+        "numero": "56"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 9-15 aprile 1970, n. 56 (in G.U. 1ª s.s. 22/4/1970, n. 102), ha dichiarato \"l'illegittimita' costituzionale degli artt. 68 del R.D. 18 giugno 1931, n. 773, e 666 del codice penale, nella parte in cui prescrivono che per i trattenimenti da tenersi in luoghi aperti al pubblico, e non indetti nell'esercizio di attivita' imprenditoriali, occorre la licenza del Questore\"."
+    }
+  ],
+  "impronta": "sha256:04f7b61e2b2bc760cef6a375ba27fbc0624db782b0d3484bf444233e6370d206"
+}

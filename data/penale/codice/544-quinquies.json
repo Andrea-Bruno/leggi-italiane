@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "544-quinquies",
+    "rubrica": "Divieto di combattimenti tra animali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art544-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque promuove, organizza o dirige combattimenti o competizioni non autorizzate tra animali che possono metterne in pericolo l'integrita' fisica e' punito con la reclusione da due a quattro anni e con la multa da 50.000 a 160.000 euro. La pena e' aumentata da un terzo alla meta': 1) se le predette attivita' sono compiute in concorso con minorenni o da persone armate; 2) se le predette attivita' sono promosse utilizzando videoriproduzioni o materiale di qualsiasi tipo contenente scene o immagini dei combattimenti o delle competizioni; 3) se il colpevole cura la ripresa o la registrazione in qualsiasi forma dei combattimenti o delle competizioni. Chiunque, fuori dei casi di concorso nel reato, allevando o addestrando animali li destina sotto qualsiasi forma e anche per il tramite di terzi alla loro partecipazione ai combattimenti di cui al primo comma e' punito con la reclusione da tre mesi a due anni e con la multa da 5.000 a 30.000 euro. La stessa pena si applica anche ai proprietari o ai detentori degli animali impiegati nei combattimenti e nelle competizioni di cui al primo comma, se consenzienti , e a chiunque partecipa a qualsiasi titolo ai combattimenti o alle competizioni di cui al primo comma. Chiunque, anche se non presente sul luogo del reato, fuori dei casi di concorso nel medesimo, organizza o effettua scommesse sui combattimenti e sulle competizioni di cui al primo comma e' punito con la reclusione da tre mesi a due anni e con la multa da 5.000 a 30.000 euro.",
+    "con_marcatori": "Art. 544-quinquies. (Divieto di combattimenti tra animali). Chiunque promuove, organizza o dirige combattimenti o competizioni non autorizzate tra animali che possono metterne in pericolo l'integrita' fisica e' punito con la reclusione ((da due a quattro anni)) e con la multa da 50.000 a 160.000 euro. La pena e' aumentata da un terzo alla meta': 1) se le predette attivita' sono compiute in concorso con minorenni o da persone armate; 2) se le predette attivita' sono promosse utilizzando videoriproduzioni o materiale di qualsiasi tipo contenente scene o immagini dei combattimenti o delle competizioni; 3) se il colpevole cura la ripresa o la registrazione in qualsiasi forma dei combattimenti o delle competizioni. Chiunque, fuori dei casi di concorso nel reato, allevando o addestrando animali li destina sotto qualsiasi forma e anche per il tramite di terzi alla loro partecipazione ai combattimenti di cui al primo comma e' punito con la reclusione da tre mesi a due anni e con la multa da 5.000 a 30.000 euro. La stessa pena si applica anche ai proprietari o ai detentori degli animali impiegati nei combattimenti e nelle competizioni di cui al primo comma, se consenzienti ((, e a chiunque partecipa a qualsiasi titolo ai combattimenti o alle competizioni di cui al primo comma)). Chiunque, anche se non presente sul luogo del reato, fuori dei casi di concorso nel medesimo, organizza o effettua scommesse sui combattimenti e sulle competizioni di cui al primo comma e' punito con la reclusione da tre mesi a due anni e con la multa da 5.000 a 30.000 euro.",
+    "caratteri": 1498
+  },
+  "note": [],
+  "impronta": "sha256:3c0ffd68e044bf5938c2d8e25075247b61184d1d9aa960d5a111448eb0478ef0"
+}

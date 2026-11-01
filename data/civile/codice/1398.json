@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1398",
+    "rubrica": "Rappresentanza senza potere",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Colui che ha contrattato come rappresentante senza averne i poteri o eccedendo i limiti delle facolta' conferitegli, e' responsabile del danno che il terzo contraente ha sofferto per avere confidato senza sua colpa nella validita' del contratto.",
+    "con_marcatori": "Art. 1398. (Rappresentanza senza potere). Colui che ha contrattato come rappresentante senza averne i poteri o eccedendo i limiti delle facolta' conferitegli, e' responsabile del danno che il terzo contraente ha sofferto per avere confidato senza sua colpa nella validita' del contratto.",
+    "caratteri": 245
+  },
+  "note": [],
+  "impronta": "sha256:9d00c59a7a1f4b070871dfe3007d1425787302f4f58ab09527a2315b2c9cbf54"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "649",
+    "rubrica": "Acquisto del legato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art649"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il legato si acquista senza bisogno di accettazione, salva la facolta' di rinunziare. Quando oggetto del legato e' la proprieta' di una cosa determinata o altro diritto appartenente al testatore, la proprieta' o il diritto si trasmette dal testatore al legatario al momento della morte del testatore. Il legatario pero' deve domandare all'onerato il possesso della cosa legata, anche quando ne e' stato espressamente dispensato dal testatore.",
+    "con_marcatori": "Art. 649. (Acquisto del legato). Il legato si acquista senza bisogno di accettazione, salva la facolta' di rinunziare. Quando oggetto del legato e' la proprieta' di una cosa determinata o altro diritto appartenente al testatore, la proprieta' o il diritto si trasmette dal testatore al legatario al momento della morte del testatore. Il legatario pero' deve domandare all'onerato il possesso della cosa legata, anche quando ne e' stato espressamente dispensato dal testatore.",
+    "caratteri": 442
+  },
+  "note": [],
+  "impronta": "sha256:a8b0fcd12f935bed35c2ad277f905d287525f0a7e680893b6996c99accbdbee6"
+}

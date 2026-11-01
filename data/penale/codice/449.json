@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "449",
+    "rubrica": "Delitti colposi di danno",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art449"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, al di fuori delle ipotesi previste nel secondo comma dell'articolo 423-bis, cagiona per colpa un incendio, o un altro disastro preveduto dal capo primo di questo titolo, e' punito con la reclusione da uno a cinque anni. La pena e' raddoppiata se si tratta di disastro ferroviario o di naufragio o di sommersione di una nave adibita a trasporto di persone o di caduta di un aeromobile adibito a trasporto di persone.",
+    "con_marcatori": "Art. 449. (Delitti colposi di danno) Chiunque, al di fuori delle ipotesi previste nel secondo comma dell'articolo 423-bis, cagiona per colpa un incendio, o un altro disastro preveduto dal capo primo di questo titolo, e' punito con la reclusione da uno a cinque anni. ((172)) La pena e' raddoppiata se si tratta di disastro ferroviario o di naufragio o di sommersione di una nave adibita a trasporto di persone o di caduta di un aeromobile adibito a trasporto di persone.",
+    "caratteri": 425
+  },
+  "note": [
+    {
+      "numero": 172,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 21 novembre 2000, n. 353",
+          "urn": "urn:nir:stato:legge:2000-11-21;353",
+          "data": "2000-11-21",
+          "numero": "353",
+          "data_gazzetta": "2000-11-30"
+        },
+        {
+          "denominazione": "articolo 449, primo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1, comma 7, del D.L. 4 agosto 2000, n. 220",
+          "urn": "urn:nir:stato:decretoLegge:2000-08-04;220",
+          "data": "2000-08-04",
+          "numero": "220",
+          "data_gazzetta": "2000-08-07"
+        },
+        {
+          "denominazione": "L. 6 ottobre 2000, n. 275",
+          "urn": "urn:nir:stato:legge:2000-10-06;275",
+          "data": "2000-10-06",
+          "numero": "275",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 21 novembre 2000, n. 353 ha disposto (con l'art. 11, comma 7) che \"All'articolo 449, primo comma, del codice penale, dopo la parola: \"Chiunque\" sono inserite le seguenti: \", al di fuori delle ipotesi previste nel secondo comma dell'articolo 423-bis,\".\" La medesima modifica era stata precedentemente disposta dall'art. 1, comma 7, del D.L. 4 agosto 2000, n. 220, convertito, con modificazioni, dalla L. 6 ottobre 2000, n. 275."
+    }
+  ],
+  "impronta": "sha256:cdd92a7d1f349b2e7c08033fa7dc9039f06d3ace129ce13eb61aa54ab44b68a5"
+}

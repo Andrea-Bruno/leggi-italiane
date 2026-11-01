@@ -1,0 +1,113 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "175",
+    "rubrica": "Non menzione della condanna nel certificato del casellario giudiziale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art175"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 70,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 100,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 108,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Se, con una prima condanna, e' inflitta una pena detentiva non superiore a due anni, ovvero una pena pecuniaria non superiore a un milione, il giudice, avuto riguardo alle circostanze indicate nell'articolo 133, puo' ordinare in sentenza che non sia fatta menzione della condanna nel certificato del casellario giudiziale, spedito a richiesta di privati, non per ragione di diritto elettorale. La non menzione della condanna puo' essere altresi' concessa quando e' inflitta congiuntamente una pena detentiva non superiore a due anni ed una pena pecuniaria che, ragguagliata a norma dell'articolo 135 e cumulata alla pena detentiva, priverebbe complessivamente il condannato della liberta' personale per un tempo non superiore a trenta mesi. La non menzione della condanna puo' essere concessa anche in caso di condanna a pena sostitutiva di una pena detentiva, entro i limiti di pena di cui al primo e al secondo comma. Se il condannato commette successivamente un delitto, l'ordine di non fare menzione della condanna precedente e' revocato. COMMA ABROGATO DALLA L. 7 FEBBRAIO 1990, N. 19.",
+    "con_marcatori": "Art. 175. (Non menzione della condanna nel certificato del casellario giudiziale). Se, con una prima condanna, e' inflitta una pena detentiva non superiore a due anni, ovvero una pena pecuniaria non superiore a un milione, il giudice, avuto riguardo alle circostanze indicate nell'articolo 133, puo' ordinare in sentenza che non sia fatta menzione della condanna nel certificato del casellario giudiziale, spedito a richiesta di privati, non per ragione di diritto elettorale. (100) (108) La non menzione della condanna puo' essere altresi' concessa quando e' inflitta congiuntamente una pena detentiva non superiore a due anni ed una pena pecuniaria che, ragguagliata a norma dell'articolo 135 e cumulata alla pena detentiva, priverebbe complessivamente il condannato della liberta' personale per un tempo non superiore a trenta mesi. ((La non menzione della condanna puo' essere concessa anche in caso di condanna a pena sostitutiva di una pena detentiva, entro i limiti di pena di cui al primo e al secondo comma.)) Se il condannato commette successivamente un delitto, l'ordine di non fare menzione della condanna precedente e' revocato. COMMA ABROGATO DALLA L. 7 FEBBRAIO 1990, N. 19.",
+    "caratteri": 1090
+  },
+  "note": [
+    {
+      "numero": 70,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1975-07-17",
+        "numero": "225"
+      },
+      "testo": "La Corte Costituzionale con sentenza 8-17 luglio 1975, n. 225 (in G.U. 1ª s.s. 23/07/1975, n. 195), ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo nella parte che esclude possano concedersi ulteriori non menzioni di condanne nel certificato del casellario giudiziale spedito a richiesta di privati, nel caso di condanne per reati anteriormente commessi a pene che, cumulate con quelle gia' irrogate, non superino i limiti di applicabilita' del beneficio."
+    },
+    {
+      "numero": 100,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1984-06-07",
+        "numero": "155"
+      },
+      "testo": "La Corte Costituzionale con sentenza 5-7 giugno 1984, n. 155 (in G.U. 1ª s.s. 13/06/1984, n. 162) ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo nella parte in cui esclude che possano concedersi ulteriori non menzioni di condanne nel certificato del casellario giudiziale spedito a richiesta di privati, nel caso di condanne, per reati anteriormente commessi, a pene che, cumulate con quelle gia' irrogate, non superino i limiti di applicabilita' del beneficio."
+    },
+    {
+      "numero": 108,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 135 cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1988-03-17",
+        "numero": "304"
+      },
+      "testo": "La Corte Costituzionale con sentenza 10-17 marzo 1988, n. 304 (in G.U. 1ª s.s. 23/03/1988, n. 12) ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo nella parte in cui prevede che la non menzione nel certificato del casellario giudiziale di condanna a sola pena pecuniaria possa essere ordinata dal giudice quando non sia superiore a un milione, anziche' a somma pari a quella risultante dal ragguaglio della pena detentiva di anni due, a norma dell'art. 135 cod. pen.."
+    }
+  ],
+  "impronta": "sha256:35dbc3d98468ec3cabda691005adeaa3659990c4587b0dcd12e82df2993f0c1d"
+}

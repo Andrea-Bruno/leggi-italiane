@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1431",
+    "rubrica": "Errore riconoscibile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1431"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'errore si considera riconoscibile quando, in relazione al contenuto, alle circostanze del contratto ovvero alla qualita' dei contraenti, una persona di normale diligenza avrebbe potuto rilevarlo.",
+    "con_marcatori": "Art. 1431. (Errore riconoscibile). L'errore si considera riconoscibile quando, in relazione al contenuto, alle circostanze del contratto ovvero alla qualita' dei contraenti, una persona di normale diligenza avrebbe potuto rilevarlo.",
+    "caratteri": 197
+  },
+  "note": [],
+  "impronta": "sha256:cbf74c05cdfad679bf5f495b0ac1e2ea10f7d76821ec37387c47c78b549f5ea2"
+}

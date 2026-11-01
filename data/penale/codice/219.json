@@ -1,0 +1,118 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "219",
+    "rubrica": "Assegnazione a una casa di cura e di custodia",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art219"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 99,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 112,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il condannato, per delitto non colposo, a una pena diminuita per cagione di infermita' psichica o di cronica intossicazione da alcool o da sostanze stupefacenti, ovvero per cagione di sordomutismo, e' ricoverato in una casa di cura e di custodia per un tempo non inferiore a un anno, quando la pena stabilita dalla legge non e' inferiore nel minimo a cinque anni di reclusione. Se per il delitto commesso e' stabilita dalla legge la pena di morte o la pena dell'ergastolo, ovvero la reclusione non inferiore nel minimo a dieci anni, la misura di sicurezza e' ordinata per un tempo non inferiore a tre anni. Se si tratta di un altro reato, per il quale la legge stabilisce la pena detentiva, e risulta che il condannato e' persona socialmente pericolosa, il ricovero in una casa di cura e di custodia e' ordinato per un tempo non inferiore a sei mesi; tuttavia il giudice puo' sostituire alla misura del ricovero quella della liberta' vigilata. Tale sostituzione non ha luogo, qualora si tratti di condannati a pena diminuita per intossicazione cronica da alcool o da sostanze stupefacenti. Quando deve essere ordinato il ricovero in una casa di cura e di custodia, non si applica altra misura di sicurezza detentiva.",
+    "con_marcatori": "Art. 219. (Assegnazione a una casa di cura e di custodia) Il condannato, per delitto non colposo, a una pena diminuita per cagione di infermita' psichica o di cronica intossicazione da alcool o da sostanze stupefacenti, ovvero per cagione di sordomutismo, e' ricoverato in una casa di cura e di custodia per un tempo non inferiore a un anno, quando la pena stabilita dalla legge non e' inferiore nel minimo a cinque anni di reclusione.(99) Se per il delitto commesso e' stabilita dalla legge la pena di morte o la pena dell'ergastolo, ovvero la reclusione non inferiore nel minimo a dieci anni, la misura di sicurezza e' ordinata per un tempo non inferiore a tre anni. (5)(99) Se si tratta di un altro reato, per il quale la legge stabilisce la pena detentiva, e risulta che il condannato e' persona socialmente pericolosa, il ricovero in una casa di cura e di custodia e' ordinato per un tempo non inferiore a sei mesi; tuttavia il giudice puo' sostituire alla misura del ricovero quella della liberta' vigilata. Tale sostituzione non ha luogo, qualora si tratti di condannati a pena diminuita per intossicazione cronica da alcool o da sostanze stupefacenti. ((112)) Quando deve essere ordinato il ricovero in una casa di cura e di custodia, non si applica altra misura di sicurezza detentiva.",
+    "caratteri": 1216
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 99,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1983-07-28",
+        "numero": "249"
+      },
+      "testo": "La Corte Costituzionale con sentenza 15-28 luglio 1983, n. 249 (in G.U. 1ª s.s. 3/8/1983, n. 212) ha dichiarato: - l'illegittimita' costituzionale del primo comma del presente articolo nella parte in cui non subordina il provvedimento di ricovero in una casa di cura e di custodia dell'imputato condannato per delitto non colposo ad una pena diminuita per cagione di infermita' psichica al previo accertamento da parte del giudice della persistente pericolosita' sociale derivante dalla infermita' medesima, al tempo dell'applicazione della misura di sicurezza; - ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale del secondo comma del presente articolo nella parte in cui non subordina il provvedimento di ricovero in una casa di cura e di custodia dell'imputato condannato ad una pena diminuita per cagione di infermita' psichica per un delitto per il quale e' stabilita dalla legge la pena dell'ergastolo o della reclusione non inferiore nel minimo a dieci anni, al previo accertamento da parte del giudice della persistente pericolosita' sociale derivante dalla infermita' medesima, al tempo della applicazione della misura di sicurezza."
+    },
+    {
+      "numero": 112,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 3"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1988-12-13",
+        "numero": "1102"
+      },
+      "testo": "La Corte Costituzionale con sentenza 30 novembre - 13 dicembre 1988, n. 1102 (in G.U. 1ª s.s. 21/12/1988, n. 51) ha dichiarato l'illegittimita' costituzionale del terzo comma del presente articolo nella parte in cui, per i casi ivi previsti, subordina il provvedimento di ricovero in una casa di cura e di custodia al previo accertamento della pericolosita' sociale, derivante dalla seminfermita' di mente, soltanto nel momento in cui la misura di sicurezza viene disposta e non anche nel momento della sua esecuzione."
+    }
+  ],
+  "impronta": "sha256:406723e0b6f76bed3c58340d9d034c2b391771a8adc3e533bcd3ee01e10bac8d"
+}

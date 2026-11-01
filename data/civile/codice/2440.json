@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2440",
+    "rubrica": "Conferimenti di beni in natura e di crediti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2440"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Se l'aumento di capitale avviene mediante conferimento di beni in natura o di crediti si applicano le disposizioni degli articoli 2342, terzo e quinto comma, e 2343. L'aumento di capitale mediante conferimento di beni in natura o di crediti puo' essere sottoposto, su decisione degli amministratori, alla disciplina di cui agli articolo 2343-ter e 2343-quater. Ai fini dell'applicazione dell'articolo 2343-ter, primo comma, rileva il periodo di negoziazione di sei mesi precedenti la data alla quale si riferisce la relazione degli amministratori redatta ai sensi dell'articolo 2441, sesto comma. Il conferimento e' eseguito entro sessanta giorni da tale data, ovvero entro novanta giorni qualora l'aumento sia deliberato da una societa' che fa ricorso al mercato del capitale di rischio. Qualora trovi applicazione l'articolo 2343-ter, secondo comma, il conferimento e' eseguito, nel caso di cui alla lettera a), entro il termine dell'esercizio successivo a quello cui si riferisce il bilancio, ovvero, nel caso di cui alla lettera b), entro sei mesi dalla data cui si riferisce la valutazione. La verifica prevista dall'articolo 2343-quater, primo comma, e' eseguita dagli amministratori nel termine di trenta giorni dall'esecuzione del conferimento ovvero, se successiva, dalla data di iscrizione nel registro delle imprese della deliberazione di aumento del capitale. La dichiarazione di cui all'articolo 2343-quater, terzo comma, e' allegata all'attestazione prevista dall'articolo 2444. Qualora siano conferiti beni in natura o crediti valutati ai sensi dell'articolo 2343-ter, secondo comma, nel termine indicato al quinto comma uno o piu' soci che rappresentino, e che rappresentavano alla data della delibera di aumento del capitale, almeno il ventesimo del capitale sociale, nell'ammontare precedente l'aumento medesimo, possono richiedere che si proceda, su iniziativa degli amministratori, ad una nuova valutazione ai sensi e per gli effetti dell'articolo 2343; la domanda dei soci non ha effetto qualora gli amministratori all'esito della verifica prevista dal quinto comma procedano ai sensi dell'articolo 2343-quater, secondo comma.",
+    "con_marcatori": "Art. 2440. ((Conferimenti di beni in natura e di crediti)). ((Se l'aumento di capitale avviene mediante conferimento di beni in natura o di crediti si applicano le disposizioni degli articoli 2342, terzo e quinto comma, e 2343. L'aumento di capitale mediante conferimento di beni in natura o di crediti puo' essere sottoposto, su decisione degli amministratori, alla disciplina di cui agli articolo 2343-ter e 2343-quater. Ai fini dell'applicazione dell'articolo 2343-ter, primo comma, rileva il periodo di negoziazione di sei mesi precedenti la data alla quale si riferisce la relazione degli amministratori redatta ai sensi dell'articolo 2441, sesto comma. Il conferimento e' eseguito entro sessanta giorni da tale data, ovvero entro novanta giorni qualora l'aumento sia deliberato da una societa' che fa ricorso al mercato del capitale di rischio. Qualora trovi applicazione l'articolo 2343-ter, secondo comma, il conferimento e' eseguito, nel caso di cui alla lettera a), entro il termine dell'esercizio successivo a quello cui si riferisce il bilancio, ovvero, nel caso di cui alla lettera b), entro sei mesi dalla data cui si riferisce la valutazione. La verifica prevista dall'articolo 2343-quater, primo comma, e' eseguita dagli amministratori nel termine di trenta giorni dall'esecuzione del conferimento ovvero, se successiva, dalla data di iscrizione nel registro delle imprese della deliberazione di aumento del capitale. La dichiarazione di cui all'articolo 2343-quater, terzo comma, e' allegata all'attestazione prevista dall'articolo 2444. Qualora siano conferiti beni in natura o crediti valutati ai sensi dell'articolo 2343-ter, secondo comma, nel termine indicato al quinto comma uno o piu' soci che rappresentino, e che rappresentavano alla data della delibera di aumento del capitale, almeno il ventesimo del capitale sociale, nell'ammontare precedente l'aumento medesimo, possono richiedere che si proceda, su iniziativa degli amministratori, ad una nuova valutazione ai sensi e per gli effetti dell'articolo 2343; la domanda dei soci non ha effetto qualora gli amministratori all'esito della verifica prevista dal quinto comma procedano ai sensi dell'articolo 2343-quater, secondo comma.))",
+    "caratteri": 2149
+  },
+  "note": [],
+  "impronta": "sha256:5d8000e037d865441ecbfa4bc44a8b40878b465afbc18d059492cca772ffd172"
+}

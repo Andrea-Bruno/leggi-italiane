@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "639",
+    "rubrica": "Deturpamento e imbrattamento di cose altrui",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art639"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi preveduti dall'articolo 635, deturpa o imbratta cose mobili altrui e' punito, a querela della persona offesa, con la multa fino a lire mille. Se il fatto e' commesso su beni immobili o su mezzi di trasporto pubblici o privati, si applica la pena della reclusione da uno a sei mesi o della multa da 300 a 1.000 euro. PERIODO ABROGATO DALLA L. 9 MARZO 2022, N. 22. Se il fatto e' commesso su teche, custodie e altre strutture adibite all'esposizione, protezione e conservazione di beni culturali esposti in musei, pinacoteche, gallerie e altri luoghi espositivi dello Stato, delle regioni, degli altri enti pubblici territoriali, nonche' di ogni altro ente e istituto pubblico, si applica la pena della reclusione da uno a sei mesi o della multa da 300 a 1.000 euro. Se il fatto e' commesso su beni mobili o immobili adibiti all'esercizio di funzioni pubbliche, con la finalita' di ledere l'onore, il prestigio o il decoro dell'istituzione cui il bene appartiene, si applicano la reclusione da sei mesi a un anno e sei mesi e la multa da 1.000 a 3.000 euro. Nei casi di recidiva per le ipotesi di cui al secondo comma , primo e secondo periodo, si applica la pena della reclusione da tre mesi a due anni e della multa fino a 10.000 euro. Nei casi di recidiva per l'ipotesi di cui al secondo comma, terzo periodo, si applicano la reclusione da sei mesi a tre anni e la multa fino a 12.000 euro. Chiunque, fuori dei casi preveduti dall'articolo 635, deturpa o imbratta cose mobili o immobili altrui in occasione di manifestazioni che si svolgono in luogo pubblico o aperto al pubblico e' punito con le pene di cui ai commi precedenti, raddoppiate. Nei casi previsti dal secondo comma si procede d'ufficio. Con la sentenza di condanna per i reati di cui al secondo e terzo comma il giudice, ai fini di cui all'articolo 165, primo comma, puo' disporre l'obbligo di ripristino e di ripulitura dei luoghi ovvero, qualora cio' non sia possibile, l'obbligo di sostenerne le spese o di rimborsare quelle a tal fine sostenute, ovvero, se il condannato non si oppone, la prestazione di attivita' non retribuita a favore della collettivita' per un tempo determinato comunque non superiore alla durata della pena sospesa, secondo le modalita' indicate nella sentenza di condanna.",
+    "con_marcatori": "Art. 639. (Deturpamento e imbrattamento di cose altrui) Chiunque, fuori dei casi preveduti dall'articolo 635, deturpa o imbratta cose mobili altrui e' punito, a querela della persona offesa, con la multa fino a lire mille. (351) Se il fatto e' commesso su beni immobili o su mezzi di trasporto pubblici o privati, si applica la pena della reclusione da uno a sei mesi o della multa da 300 a 1.000 euro. PERIODO ABROGATO DALLA L. 9 MARZO 2022, N. 22. Se il fatto e' commesso su teche, custodie e altre strutture adibite all'esposizione, protezione e conservazione di beni culturali esposti in musei, pinacoteche, gallerie e altri luoghi espositivi dello Stato, delle regioni, degli altri enti pubblici territoriali, nonche' di ogni altro ente e istituto pubblico, si applica la pena della reclusione da uno a sei mesi o della multa da 300 a 1.000 euro. ((Se il fatto e' commesso su beni mobili o immobili adibiti all'esercizio di funzioni pubbliche, con la finalita' di ledere l'onore, il prestigio o il decoro dell'istituzione cui il bene appartiene, si applicano la reclusione da sei mesi a un anno e sei mesi e la multa da 1.000 a 3.000 euro)). Nei casi di recidiva per le ipotesi di cui al secondo comma ((, primo e secondo periodo,)) si applica la pena della reclusione da tre mesi a due anni e della multa fino a 10.000 euro. ((Nei casi di recidiva per l'ipotesi di cui al secondo comma, terzo periodo, si applicano la reclusione da sei mesi a tre anni e la multa fino a 12.000 euro)). Chiunque, fuori dei casi preveduti dall'articolo 635, deturpa o imbratta cose mobili o immobili altrui in occasione di manifestazioni che si svolgono in luogo pubblico o aperto al pubblico e' punito con le pene di cui ai commi precedenti, raddoppiate. Nei casi previsti dal secondo comma si procede d'ufficio. Con la sentenza di condanna per i reati di cui al secondo e terzo comma il giudice, ai fini di cui all'articolo 165, primo comma, puo' disporre l'obbligo di ripristino e di ripulitura dei luoghi ovvero, qualora cio' non sia possibile, l'obbligo di sostenerne le spese o di rimborsare quelle a tal fine sostenute, ovvero, se il condannato non si oppone, la prestazione di attivita' non retribuita a favore della collettivita' per un tempo determinato comunque non superiore alla durata della pena sospesa, secondo le modalita' indicate nella sentenza di condanna. (7)",
+    "caratteri": 2289
+  },
+  "note": [
+    {
+      "numero": 7,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 maggio 1945, n. 234",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;234",
+          "data": "1945-05-10",
+          "numero": "234",
+          "data_gazzetta": "1945-05-24"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 maggio 1945, n. 234 ha disposto (con l'art. 4, comma 1) che \"Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del Codice penale, sono aumentate da un terzo alla meta'\". Ha inoltre disposto (con l'art. 7, comma 1) che la presente modifica ha efficacia fino ad un anno dopo la cessazione dello stato di guerra."
+    },
+    {
+      "numero": 351,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 22 gennaio 2024, n. 6",
+          "urn": "urn:nir:stato:legge:2024-01-22;6",
+          "data": "2024-01-22",
+          "numero": "6",
+          "data_gazzetta": "2024-01-24"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 22 gennaio 2024, n. 6 ha disposto (con l'art. 4, comma 1, lettera a)) che \"al primo comma, le parole: «multa fino a euro 103» sono sostituite dalle seguenti: «multa fino a euro 309»\"."
+    }
+  ],
+  "impronta": "sha256:d7fb9683fccf74bf466163b44bed2c3f78717786f3b5c35bf2e7b27041bc612c"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2214",
+    "rubrica": "Libri obbligatori e altre scritture contabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2214"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'imprenditore che esercita un'attivita' commerciale deve tenere il libro giornale e il libro degli inventari. Deve altresi' tenere le altre scritture contabili che siano richieste dalla natura e dalle dimensioni dell'impresa e conservare ordinatamente per ciascun affare gli originali delle lettere, dei telegrammi e delle fatture ricevute, nonche' le copie delle lettere, dei telegrammi e delle fatture spedite. Le disposizioni di questo paragrafo non si applicano ai piccoli imprenditori.",
+    "con_marcatori": "Art. 2214. (Libri obbligatori e altre scritture contabili). L'imprenditore che esercita un'attivita' commerciale deve tenere il libro giornale e il libro degli inventari. Deve altresi' tenere le altre scritture contabili che siano richieste dalla natura e dalle dimensioni dell'impresa e conservare ordinatamente per ciascun affare gli originali delle lettere, dei telegrammi e delle fatture ricevute, nonche' le copie delle lettere, dei telegrammi e delle fatture spedite. Le disposizioni di questo paragrafo non si applicano ai piccoli imprenditori.",
+    "caratteri": 491
+  },
+  "note": [],
+  "impronta": "sha256:396d2242e77e6866e2cbdf10d070470d7b1449c4f55aa35427d2f5172c91bfd7"
+}

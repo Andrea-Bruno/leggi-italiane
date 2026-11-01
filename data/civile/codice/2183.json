@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2183",
+    "rubrica": "Reintegrazione del bestiame conferito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2183"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella soccida stipulata per un tempo non inferiore a tre anni, qualora durante la prima meta' del periodo contrattuale perisca per causa non imputabile al soccidario la maggior parte del bestiame inizialmente conferito, e i contraenti non si accordino per la reintegrazione, ciascuno di essi ha diritto di recedere dal contratto. Salvo diverso accordo delle parti, il recesso ha effetto con la fine dell'anno in corso. Il bestiame rimasto e' diviso fra le parti nella proporzione indicata nell'art. 2184. Se e' convenuto che nella divisione del bestiame da farsi alla scadenza del contratto sia attribuita ad uno dei contraenti una quota maggiore di quella corrispondente al suo conferimento, tale quota deve essere ridotta in rapporto alla minor durata della soccida.",
+    "con_marcatori": "Art. 2183. (Reintegrazione del bestiame conferito). Nella soccida stipulata per un tempo non inferiore a tre anni, qualora durante la prima meta' del periodo contrattuale perisca per causa non imputabile al soccidario la maggior parte del bestiame inizialmente conferito, e i contraenti non si accordino per la reintegrazione, ciascuno di essi ha diritto di recedere dal contratto. Salvo diverso accordo delle parti, il recesso ha effetto con la fine dell'anno in corso. Il bestiame rimasto e' diviso fra le parti nella proporzione indicata nell'art. 2184. Se e' convenuto che nella divisione del bestiame da farsi alla scadenza del contratto sia attribuita ad uno dei contraenti una quota maggiore di quella corrispondente al suo conferimento, tale quota deve essere ridotta in rapporto alla minor durata della soccida.",
+    "caratteri": 768
+  },
+  "note": [],
+  "impronta": "sha256:ec79a5a588c6f50e63d5253162fd7d1e1b9d758a1cdcc37fac06991378381c51"
+}

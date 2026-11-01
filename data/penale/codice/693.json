@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "693",
+    "rubrica": "Rifiuto di monete aventi corso legale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art693"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque rifiuta di ricevere, per il loro valore, monete aventi corso legale nello Stato, e' punito con l'ammenda fino a lire trecento.",
+    "con_marcatori": "Art. 693. (Rifiuto di monete aventi corso legale) Chiunque rifiuta di ricevere, per il loro valore, monete aventi corso legale nello Stato, e' punito con l'ammenda fino a lire trecento. ((90))",
+    "caratteri": 135
+  },
+  "note": [
+    {
+      "numero": 90,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 24 novembre 1981, n. 689",
+          "urn": "urn:nir:stato:legge:1981-11-24;689",
+          "data": "1981-11-24",
+          "numero": "689",
+          "data_gazzetta": "1981-11-30"
+        },
+        {
+          "denominazione": "articoli 669",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "672",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "687",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "693",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "694 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 24 novembre 1981, n. 689 ha disposto (con l'art. 33, comma 1, lettera a)) che \"Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le contravvenzioni previste: a) dagli articoli 669, 672, 687, 693 e 694 del codice penale\"."
+    }
+  ],
+  "impronta": "sha256:e0fb7105701a9478a8a0f367435a4e6d4f80fe1e0a4aeebad1b63971cea90b14"
+}

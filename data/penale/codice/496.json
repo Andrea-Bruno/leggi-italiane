@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "496",
+    "rubrica": "False dichiarazioni sulla identita' o su qualita' personali proprie o di altri",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art496"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi indicati negli articoli precedenti, interrogato sulla identita', sullo stato o su altre qualita' della propria o dell'altrui persona, fa mendaci dichiarazioni a un pubblico ufficiale o a persona incaricata di un pubblico servizio, nell'esercizio delle funzioni o del servizio, e' punito con la reclusione da uno a cinque anni.",
+    "con_marcatori": "Art. 496. (( (False dichiarazioni sulla identita' o su qualita' personali proprie o di altri). )) ((Chiunque, fuori dei casi indicati negli articoli precedenti, interrogato sulla identita', sullo stato o su altre qualita' della propria o dell'altrui persona, fa mendaci dichiarazioni a un pubblico ufficiale o a persona incaricata di un pubblico servizio, nell'esercizio delle funzioni o del servizio, e' punito con la reclusione da uno a cinque anni)).",
+    "caratteri": 351
+  },
+  "note": [],
+  "impronta": "sha256:8a847b85f65aef1812b78439c5277d7a2f02d9083090969621c6308ee6c66071"
+}

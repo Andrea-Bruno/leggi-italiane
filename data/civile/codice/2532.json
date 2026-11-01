@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2532",
+    "rubrica": "Recesso del socio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2532"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il socio cooperatore puo' recedere dalla societa' nei casi previsti dalla legge e dall'atto costitutivo. Il recesso non puo' essere parziale. La dichiarazione di recesso deve essere comunicata con raccomandata alla societa'. Gli amministratori devono esaminarla entro sessanta giorni dalla ricezione. Se non sussistono i presupposti del recesso, gli amministratori devono darne immediata comunicazione al socio, che entro sessanta giorni dal ricevimento della comunicazione, puo' proporre opposizione innanzi il tribunale. Il recesso ha effetto per quanto riguarda il rapporto sociale dalla comunicazione del provvedimento di accoglimento della domanda. Ove la legge o l'atto costitutivo non preveda diversamente, per i rapporti mutualistici tra socio e societa' il recesso ha effetto con la chiusura dell'esercizio in corso, se comunicato tre mesi prima, e, in caso contrario, con la chiusura dell'esercizio successivo.",
+    "con_marcatori": "Art. 2532. (( (Recesso del socio).)) ((Il socio cooperatore puo' recedere dalla societa' nei casi previsti dalla legge e dall'atto costitutivo. Il recesso non puo' essere parziale. La dichiarazione di recesso deve essere comunicata con raccomandata alla societa'. Gli amministratori devono esaminarla entro sessanta giorni dalla ricezione. Se non sussistono i presupposti del recesso, gli amministratori devono darne immediata comunicazione al socio, che entro sessanta giorni dal ricevimento della comunicazione, puo' proporre opposizione innanzi il tribunale. Il recesso ha effetto per quanto riguarda il rapporto sociale dalla comunicazione del provvedimento di accoglimento della domanda. Ove la legge o l'atto costitutivo non preveda diversamente, per i rapporti mutualistici tra socio e societa' il recesso ha effetto con la chiusura dell'esercizio in corso, se comunicato tre mesi prima, e, in caso contrario, con la chiusura dell'esercizio successivo.))",
+    "caratteri": 920
+  },
+  "note": [],
+  "impronta": "sha256:e39fb3b00be6679d9caf009a5e5385b897a1e6c6226c70bafa471356aec2c9c3"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "544-sexies",
+    "rubrica": "Confisca e pene accessorie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art544-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di condanna, o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per i delitti previsti dagli articoli 544-ter, 544-quater e 544-quinquies, e' sempre ordinata la confisca dell'animale, salvo che appartenga a persona estranea al reato. E' altresi' disposta la sospensione da tre mesi a tre anni dell'attivita' di trasporto, di commercio o di allevamento degli animali se la sentenza di condanna o di applicazione della pena su richiesta e' pronunciata nei confronti di chi svolge le predette attivita'. In caso di recidiva e' disposta l'interdizione dall'esercizio delle attivita' medesime. Fatto salvo quanto disposto dall'autorita' giudiziaria ai sensi dell'articolo 260-bis del codice di procedura penale, quando si procede per i delitti di cui agli articoli 544-bis, 544-ter, 544-quater, 544-quinquies e 638 del presente codice e di cui all'articolo 4 della legge 4 novembre 2010, n. 201, consumati o tentati, all'indagato, imputato o proprietario e' vietato abbattere o alienare a terzi gli animali, anche qualora sugli stessi non sussista il vincolo cautelare del sequestro, fino alla sentenza definitiva.",
+    "con_marcatori": "Art. 544-sexies. (Confisca e pene accessorie). Nel caso di condanna, o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per i delitti previsti dagli articoli 544-ter, 544-quater e 544-quinquies, e' sempre ordinata la confisca dell'animale, salvo che appartenga a persona estranea al reato. E' altresi' disposta la sospensione da tre mesi a tre anni dell'attivita' di trasporto, di commercio o di allevamento degli animali se la sentenza di condanna o di applicazione della pena su richiesta e' pronunciata nei confronti di chi svolge le predette attivita'. In caso di recidiva e' disposta l'interdizione dall'esercizio delle attivita' medesime. ((Fatto salvo quanto disposto dall'autorita' giudiziaria ai sensi dell'articolo 260-bis del codice di procedura penale, quando si procede per i delitti di cui agli articoli 544-bis, 544-ter, 544-quater, 544-quinquies e 638 del presente codice e di cui all'articolo 4 della legge 4 novembre 2010, n. 201, consumati o tentati, all'indagato, imputato o proprietario e' vietato abbattere o alienare a terzi gli animali, anche qualora sugli stessi non sussista il vincolo cautelare del sequestro, fino alla sentenza definitiva)).",
+    "caratteri": 1179
+  },
+  "note": [],
+  "impronta": "sha256:18a728d893972a8efc88c0ee17e652602eb8aff8962d52e76f963dc12bcbcd68"
+}

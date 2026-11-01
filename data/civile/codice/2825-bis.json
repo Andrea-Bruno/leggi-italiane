@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2825-bis",
+    "rubrica": "Ipoteca sul bene oggetto di contratto preliminare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2825-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ipoteca iscritta su edificio o complesso condominiale, anche da costruire o in corso di costruzione, a garanzia di finanziamento dell'intervento edilizio ai sensi degli articoli 38 e seguenti del decreto legislativo 1 settembre 1993, n. 385, prevale sulla trascrizione anteriore dei contratti preliminari di cui all'articolo 2645-bis, limitatamente alla quota di debito derivante dal suddetto finanziamento che il promissario acquirente si sia accollata con il contratto preliminare o con altro atto successivo eventualmente adeguata ai sensi dell'articolo 39, comma 3, del citato decreto legislativo n. 385 del 1993. Se l'accollo risulta da atto successivo, questo e' annotato in margine alla trascrizione del contratto preliminare.",
+    "con_marcatori": "Art. 2825-bis. (( (Ipoteca sul bene oggetto di contratto preliminare). )) ((L'ipoteca iscritta su edificio o complesso condominiale, anche da costruire o in corso di costruzione, a garanzia di finanziamento dell'intervento edilizio ai sensi degli articoli 38 e seguenti del decreto legislativo 1 settembre 1993, n. 385, prevale sulla trascrizione anteriore dei contratti preliminari di cui all'articolo 2645-bis, limitatamente alla quota di debito derivante dal suddetto finanziamento che il promissario acquirente si sia accollata con il contratto preliminare o con altro atto successivo eventualmente adeguata ai sensi dell'articolo 39, comma 3, del citato decreto legislativo n. 385 del 1993. Se l'accollo risulta da atto successivo, questo e' annotato in margine alla trascrizione del contratto preliminare)).",
+    "caratteri": 735
+  },
+  "note": [],
+  "impronta": "sha256:b59c20a7be1b27d6fe1960659c5f12360dc290680805cfeeb7a7133312c25efa"
+}

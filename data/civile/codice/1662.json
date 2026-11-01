@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1662",
+    "rubrica": "Verifica nel corso di esecuzione dell'opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1662"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il committente ha diritto di controllare lo svolgimento dei lavori e di verificarne a proprie spese lo stato. Quando, nel corso dell'opera, si accerta che la sua esecuzione non procede secondo le condizioni stabilite dal contratto e a regola d'arte, il committente puo' fissare un congruo termine entro il quale l'appaltatore si deve conformare a tali condizioni; trascorso inutilmente il termine stabilito, il contratto e' risoluto, salvo il diritto del committente al risarcimento del danno.",
+    "con_marcatori": "Art. 1662. (Verifica nel corso di esecuzione dell'opera). Il committente ha diritto di controllare lo svolgimento dei lavori e di verificarne a proprie spese lo stato. Quando, nel corso dell'opera, si accerta che la sua esecuzione non procede secondo le condizioni stabilite dal contratto e a regola d'arte, il committente puo' fissare un congruo termine entro il quale l'appaltatore si deve conformare a tali condizioni; trascorso inutilmente il termine stabilito, il contratto e' risoluto, salvo il diritto del committente al risarcimento del danno.",
+    "caratteri": 493
+  },
+  "note": [],
+  "impronta": "sha256:1b53a7e8c560acbd5ed442712588a73412d49da49111eef0d84009dfa0c00f20"
+}

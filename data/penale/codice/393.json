@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "393",
+    "rubrica": "Esercizio arbitrario delle proprie ragioni con violenza alle persone",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art393"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, al fine indicato nell'articolo precedente, e potendo ricorrere al giudice, si fa arbitrariamente ragione da se' medesimo usando violenza o minaccia alle persone, e' punito, a querela dell'offeso, con la reclusione fino a un anno. Se il fatto e' commesso anche con violenza sulle cose, alla pena della reclusione e' aggiunta la multa fino a lire duemila. La pena e' aumentata se la violenza o la minaccia alle persone e' commessa con armi.",
+    "con_marcatori": "Art. 393. (Esercizio arbitrario delle proprie ragioni con violenza alle persone) Chiunque, al fine indicato nell'articolo precedente, e potendo ricorrere al giudice, si fa arbitrariamente ragione da se' medesimo usando violenza o minaccia alle persone, e' punito, a querela dell'offeso, con la reclusione fino a un anno. Se il fatto e' commesso anche con violenza sulle cose, alla pena della reclusione e' aggiunta la multa fino a lire duemila. La pena e' aumentata se la violenza o la minaccia alle persone e' commessa con armi.",
+    "caratteri": 448
+  },
+  "note": [],
+  "impronta": "sha256:18616b89aaf6792fba860c77ff740a72b1a6a81d65b51e2eb415cc0fb100681e"
+}

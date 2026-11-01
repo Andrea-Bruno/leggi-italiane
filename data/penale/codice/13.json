@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "13",
+    "rubrica": "Estradizione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art13"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'estradizione e' regolata dalla legge penale italiana, dalle convenzioni e dagli usi internazionali. L'estradizione non e' ammessa, se il fatto che forma oggetto della domanda di estradizione, non e' preveduto come reato dalla legge italiana e dalla legge straniera. L'estradizione puo' essere conceduta od offerta, anche per reati non preveduti nelle convenzioni internazionali, purche' queste non ne facciano espresso divieto. Non e' ammessa l'estradizione del cittadino, salvo che sia espressamente consentita nelle convenzioni internazionali.",
+    "con_marcatori": "Art. 13. (Estradizione) L'estradizione e' regolata dalla legge penale italiana, dalle convenzioni e dagli usi internazionali. L'estradizione non e' ammessa, se il fatto che forma oggetto della domanda di estradizione, non e' preveduto come reato dalla legge italiana e dalla legge straniera. L'estradizione puo' essere conceduta od offerta, anche per reati non preveduti nelle convenzioni internazionali, purche' queste non ne facciano espresso divieto. Non e' ammessa l'estradizione del cittadino, salvo che sia espressamente consentita nelle convenzioni internazionali.",
+    "caratteri": 547
+  },
+  "note": [],
+  "impronta": "sha256:58b4e35553632cbbcac72923a30d21a8df2197888ab45ddb22c9d880b8b03c52"
+}

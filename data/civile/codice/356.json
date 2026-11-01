@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "356",
+    "rubrica": "Donazione o disposizione testamentaria a favore del minore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art356"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi fa una donazione o dispone con testamento a favore di un minore, anche se questi e' soggetto alla patria potesta', puo' nominargli un curatore speciale per l'amministrazione dei beni donati o lasciati. Se il donante o il testatore non ha disposto altrimenti, il curatore speciale deve osservare le forme stabilite dagli articoli 374 e 375 per il compimento di atti eccedenti l'ordinaria amministrazione. Si applica in ogni caso al curatore speciale l'art. 384.",
+    "con_marcatori": "Art. 356. (Donazione o disposizione testamentaria a favore del minore). Chi fa una donazione o dispone con testamento a favore di un minore, anche se questi e' soggetto alla patria potesta', puo' nominargli un curatore speciale per l'amministrazione dei beni donati o lasciati.((223)) Se il donante o il testatore non ha disposto altrimenti, il curatore speciale deve osservare le forme stabilite dagli articoli 374 e 375 per il compimento di atti eccedenti l'ordinaria amministrazione. Si applica in ogni caso al curatore speciale l'art. 384.",
+    "caratteri": 464
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "primo comma dell'articolo 356 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 59, comma 1) che \"Al primo comma dell'articolo 356 del codice civile le parole: \"potesta' dei genitori\" sono sostituite dalle seguenti: \"responsabilita' genitoriale\".\"."
+    }
+  ],
+  "impronta": "sha256:a044c0d112b9e3a580e24032da88787efbef698cb41f2d4c7f507d161d676ca9"
+}

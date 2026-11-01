@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2263",
+    "rubrica": "Ripartizione dei guadagni e delle perdite",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2263"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le parti spettanti ai soci nei guadagni e nelle perdite si presumono proporzionali ai conferimenti. Se il valore dei conferimenti non e' determinato dal contratto, esse si presumono eguali. La parte spettante al socio che ha conferito la propria opera, se non e' determinata dal contratto, e' fissata dal giudice secondo equita'. Se il contratto determina soltanto la parte di ciascun socio nei guadagni, nella stessa misura si presume che debba determinarsi la partecipazione alle perdite.",
+    "con_marcatori": "Art. 2263. (Ripartizione dei guadagni e delle perdite). Le parti spettanti ai soci nei guadagni e nelle perdite si presumono proporzionali ai conferimenti. Se il valore dei conferimenti non e' determinato dal contratto, esse si presumono eguali. La parte spettante al socio che ha conferito la propria opera, se non e' determinata dal contratto, e' fissata dal giudice secondo equita'. Se il contratto determina soltanto la parte di ciascun socio nei guadagni, nella stessa misura si presume che debba determinarsi la partecipazione alle perdite.",
+    "caratteri": 490
+  },
+  "note": [],
+  "impronta": "sha256:d9151388ee3acc91e16b9669b46de620bc01af84a994c36c5095f18a70ebd532"
+}

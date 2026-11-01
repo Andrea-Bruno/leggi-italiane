@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "742",
+    "rubrica": "Spese non soggette a collazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art742"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non sono soggette a collazione le spese di mantenimento e di educazione e quelle sostenute per malattia, ne' quelle ordinarie fatte per abbigliamento o per nozze. Le spese per il corredo nuziale e quelle per l'istruzione artistica o professionale sono soggette a collazione solo per quanto eccedono notevolmente la misura ordinaria, tenuto conto delle condizioni economiche del defunto. Non sono soggette a collazione le liberalita' previste dal secondo comma dell'art. 770.",
+    "con_marcatori": "Art. 742. (Spese non soggette a collazione). Non sono soggette a collazione le spese di mantenimento e di educazione e quelle sostenute per malattia, ne' quelle ordinarie fatte per abbigliamento o per nozze. Le spese per il corredo nuziale e quelle per l'istruzione artistica o professionale sono soggette a collazione solo per quanto eccedono notevolmente la misura ordinaria, tenuto conto delle condizioni economiche del defunto. Non sono soggette a collazione le liberalita' previste dal secondo comma dell'art. 770.",
+    "caratteri": 474
+  },
+  "note": [],
+  "impronta": "sha256:11056c7b154d421d20b44eecc6622037ec53c563c7af96e6fafa0b18c1db0cc8"
+}

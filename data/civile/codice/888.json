@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "888",
+    "rubrica": "Esonero dal contributo nelle spese",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art888"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il vicino si puo' esimere dal contribuire nelle spese di costruzione del muro di cinta o divisorio, cedendo, senza diritto a compenso, la meta' del terreno su cui il muro di separazione deve essere costruito. In tal caso il muro e' di proprieta' di colui che l'ha costruito, salva la facolta' del vicino di renderlo comune ai sensi dell'art. 874, senza obbligo pero' di pagare la meta' del valore del suolo su cui il muro e' stato costruito.",
+    "con_marcatori": "Art. 888. (Esonero dal contributo nelle spese). Il vicino si puo' esimere dal contribuire nelle spese di costruzione del muro di cinta o divisorio, cedendo, senza diritto a compenso, la meta' del terreno su cui il muro di separazione deve essere costruito. In tal caso il muro e' di proprieta' di colui che l'ha costruito, salva la facolta' del vicino di renderlo comune ai sensi dell'art. 874, senza obbligo pero' di pagare la meta' del valore del suolo su cui il muro e' stato costruito.",
+    "caratteri": 441
+  },
+  "note": [],
+  "impronta": "sha256:98753d204a33addad67924a8d85e78aadfe055d1a5d8ba445e684b552748859a"
+}

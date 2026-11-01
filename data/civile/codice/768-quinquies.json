@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "768-quinquies",
+    "rubrica": "Vizi del consenso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art768-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patto puo' essere impugnato dai partecipanti ai sensi degli articoli 1427 e seguenti. L'azione si prescrive nel termine di un anno.",
+    "con_marcatori": "Art. 768-quinquies. (( (Vizi del consenso). )) ((Il patto puo' essere impugnato dai partecipanti ai sensi degli articoli 1427 e seguenti. L'azione si prescrive nel termine di un anno.))",
+    "caratteri": 134
+  },
+  "note": [],
+  "impronta": "sha256:a1e7aece9faa933877b6b77dc6512ee78f963654e959ff5c7919c1b90825bdaf"
+}

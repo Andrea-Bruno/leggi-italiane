@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2044",
+    "rubrica": "Legittima difesa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2044"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non e' responsabile chi cagiona il danno per legittima difesa di se' o di altri. Nei casi di cui all'articolo 52, commi secondo, terzo e quarto, del codice penale, la responsabilita' di chi ha compiuto il fatto e' esclusa. Nel caso di cui all'articolo 55, secondo comma, del codice penale, al danneggiato e' dovuta una indennita' la cui misura e' rimessa all'equo apprezzamento del giudice, tenuto altresi' conto della gravita', delle modalita' realizzative e del contributo causale della condotta posta in essere dal danneggiato.",
+    "con_marcatori": "Art. 2044. (Legittima difesa). Non e' responsabile chi cagiona il danno per legittima difesa di se' o di altri. ((Nei casi di cui all'articolo 52, commi secondo, terzo e quarto, del codice penale, la responsabilita' di chi ha compiuto il fatto e' esclusa. Nel caso di cui all'articolo 55, secondo comma, del codice penale, al danneggiato e' dovuta una indennita' la cui misura e' rimessa all'equo apprezzamento del giudice, tenuto altresi' conto della gravita', delle modalita' realizzative e del contributo causale della condotta posta in essere dal danneggiato)).",
+    "caratteri": 530
+  },
+  "note": [],
+  "impronta": "sha256:865990b7cec31469c2a22a14b1946658f7a9a72c6dafc52c3ad1ee28dd001fb2"
+}

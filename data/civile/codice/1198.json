@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1198",
+    "rubrica": "Cessione di un credito in luogo dell'adempimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1198"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando in luogo dell'adempimento e' ceduto un credito, l'obbligazione si estingue con la riscossione del credito, se non risulta una diversa volonta' delle parti. E' salvo quanto e' disposto dal secondo comma dell'art. 1267.",
+    "con_marcatori": "Art. 1198. (Cessione di un credito in luogo dell'adempimento). Quando in luogo dell'adempimento e' ceduto un credito, l'obbligazione si estingue con la riscossione del credito, se non risulta una diversa volonta' delle parti. E' salvo quanto e' disposto dal secondo comma dell'art. 1267.",
+    "caratteri": 224
+  },
+  "note": [],
+  "impronta": "sha256:bba9dbce5677bac0fe84c27946080539a241f24f114078a3fc8f5aea21c78449"
+}

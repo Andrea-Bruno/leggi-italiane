@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1932",
+    "rubrica": "Norme inderogabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1932"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni degli articoli 1887, 1892, 1893, 1894, 1897, 1898, 1899, secondo comma, 1901, 1903, secondo comma, 1914, secondo comma, 1915, secondo comma, 1917, terzo e quarto comma e 1926 non possono essere derogate se non in senso piu' favorevole all'assicurato. Le clausole che derogano in senso meno favorevole all'assicurato sono sostituite di diritto dalle corrispondenti disposizioni di legge.",
+    "con_marcatori": "Art. 1932. (Norme inderogabili). Le disposizioni degli articoli 1887, 1892, 1893, 1894, 1897, 1898, 1899, secondo comma, 1901, 1903, secondo comma, 1914, secondo comma, 1915, secondo comma, 1917, terzo e quarto comma e 1926 non possono essere derogate se non in senso piu' favorevole all'assicurato. Le clausole che derogano in senso meno favorevole all'assicurato sono sostituite di diritto dalle corrispondenti disposizioni di legge.",
+    "caratteri": 402
+  },
+  "note": [],
+  "impronta": "sha256:77ecd39142f9777ce2ff5b62990250a4b6f18efee0ce1bcd459522c451639163"
+}

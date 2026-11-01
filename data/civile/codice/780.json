@@ -1,0 +1,72 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "780",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art780"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 19 MAGGIO 1975, N. 151",
+        "testo": "ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151",
+    "con_marcatori": "Art. 780. ((ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151))((40))",
+    "caratteri": 49
+  },
+  "note": [
+    {
+      "numero": 40,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        },
+        {
+          "denominazione": "articolo 780 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 19 maggio 1975, n. 151 ha disposto (con l'art. 239, comma 1) che \"Dall'entrata in vigore della presente legge non puo' essere piu' pronunziata la nullita' prevista dall'abrogato articolo 780 del codice civile rispetto agli atti anteriori.\""
+    }
+  ],
+  "impronta": "sha256:e9403fe2b95dbbc0f19fcddd4e217a2f16940147fe3a123cfa0c82667c27595a"
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "172",
+    "rubrica": "Estinzione delle pene della reclusione e della multa per decorso del tempo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art172"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La pena della reclusione si estingue col decorso di un tempo pari al doppio della pena inflitta e, in ogni caso, non superiore a trenta e non inferiore a dieci anni. La pena della multa si estingue nel termine di dieci anni. Quando, congiuntamente alla pena della reclusione, e' inflitta la pena della multa, per l'estinzione dell'una e dell'altra pena si ha riguardo soltanto al decorso del tempo stabilito per la reclusione. Il termine decorre dal giorno in cui la condanna e' divenuta irrevocabile, ovvero dal giorno in cui il condannato si e' sottratto volontariamente alla esecuzione gia' iniziata della pena. Se l'esecuzione della pena e' subordinata alla scadenza di un termine o al verificarsi di una condizione, il tempo necessario per la estinzione della pena decorre dal giorno in cui il termine e' scaduto o la condizione si e' verificata. Nel caso di concorso di reati si ha riguardo, per l'estinzione della pena, a ciascuno di essi, anche se le pene sono state inflitte con la medesima sentenza. L'estinzione delle pene non ha luogo, se si tratta di recidivi, nei casi preveduti dai capoversi dell'articolo 99, o di delinquenti abituali, professionali o per tendenza; ovvero se il condannato, durante il tempo necessario per l'estinzione della pena, riporta una condanna alla reclusione per un delitto della stessa indole.",
+    "con_marcatori": "Art. 172. (Estinzione delle pene della reclusione e della multa per decorso del tempo) La pena della reclusione si estingue col decorso di un tempo pari al doppio della pena inflitta e, in ogni caso, non superiore a trenta e non inferiore a dieci anni. La pena della multa si estingue nel termine di dieci anni. Quando, congiuntamente alla pena della reclusione, e' inflitta la pena della multa, per l'estinzione dell'una e dell'altra pena si ha riguardo soltanto al decorso del tempo stabilito per la reclusione. Il termine decorre dal giorno in cui la condanna e' divenuta irrevocabile, ovvero dal giorno in cui il condannato si e' sottratto volontariamente alla esecuzione gia' iniziata della pena. Se l'esecuzione della pena e' subordinata alla scadenza di un termine o al verificarsi di una condizione, il tempo necessario per la estinzione della pena decorre dal giorno in cui il termine e' scaduto o la condizione si e' verificata. Nel caso di concorso di reati si ha riguardo, per l'estinzione della pena, a ciascuno di essi, anche se le pene sono state inflitte con la medesima sentenza. L'estinzione delle pene non ha luogo, se si tratta di recidivi, nei casi preveduti dai capoversi dell'articolo 99, o di delinquenti abituali, professionali o per tendenza; ovvero se il condannato, durante il tempo necessario per l'estinzione della pena, riporta una condanna alla reclusione per un delitto della stessa indole. ((90))",
+    "caratteri": 1336
+  },
+  "note": [
+    {
+      "numero": 90,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 24 novembre 1981, n. 689",
+          "urn": "urn:nir:stato:legge:1981-11-24;689",
+          "data": "1981-11-24",
+          "numero": "689",
+          "data_gazzetta": "1981-11-30"
+        },
+        {
+          "denominazione": "articolo 172 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 24 novembre 1981, n. 689, ha disposto (con l'art. 11, comma 2) che \"In deroga a quanto disposto dall'articolo 172 del codice penale, la pena della multa inflitta, anche congiuntamente a quella della reclusione, per reati commessi prima della entrata in vigore della presente legge, si estingue col decorso del termine di dieci anni dalla data di entrata in vigore della presente legge; tuttavia, se la sentenza di condanna e divenuta irrevocabile successivamente alla data di entrata in vigore della presente legge, la pena della multa si estingue col decorso di dieci anni dal passaggio in giudicato della sentenza\"."
+    }
+  ],
+  "impronta": "sha256:17feb08d65e66c25e7ea834fabe2e18a9d50c23d726e9ba2bf7ab486b66ea2ca"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "578",
+    "rubrica": "Infanticidio in condizioni di abbandono materiale e morale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art578"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La madre che cagiona la morte del proprio neonato immediatamente dopo il parto, o del feto durante il parto, quando il fatto e' determinato da condizioni di abbandono materiale e morale connesse al parto, e' punita con la reclusione da quattro a dodici anni. A coloro che concorrono nel fatto di cui al primo comma si applica la reclusione non inferiore ad anni ventuno. Tuttavia, se essi hanno agito al solo scopo di favorire la madre, la pena puo' essere diminuita da un terzo a due terzi. Non si applicano le aggravanti stabilite dall'articolo 61 del codice penale.",
+    "con_marcatori": "Art. 578. (( (Infanticidio in condizioni di abbandono materiale e morale). )) ((La madre che cagiona la morte del proprio neonato immediatamente dopo il parto, o del feto durante il parto, quando il fatto e' determinato da condizioni di abbandono materiale e morale connesse al parto, e' punita con la reclusione da quattro a dodici anni. A coloro che concorrono nel fatto di cui al primo comma si applica la reclusione non inferiore ad anni ventuno. Tuttavia, se essi hanno agito al solo scopo di favorire la madre, la pena puo' essere diminuita da un terzo a due terzi. Non si applicano le aggravanti stabilite dall'articolo 61 del codice penale)).",
+    "caratteri": 568
+  },
+  "note": [],
+  "impronta": "sha256:b7e0df721342618b2e9d96bb9043ed87713c5a598eea215899c4da25637e79b2"
+}

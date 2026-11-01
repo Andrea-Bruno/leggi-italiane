@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "33",
+    "rubrica": "Condanna per delitto colposo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art33"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni dell'articolo 29 e del secondo capoverso dell'articolo 32 non si applicano nel caso di condanna per delitto colposo. Le disposizioni dell'articolo 31 non si applicano nel caso di condanna per delitto colposo, se la pena inflitta e' inferiore a tre anni di reclusione, o se e' inflitta soltanto una pena pecuniaria.",
+    "con_marcatori": "Art. 33. (Condanna per delitto colposo) ((Le disposizioni dell'articolo 29 e del secondo capoverso dell'articolo 32 non si applicano nel caso di condanna per delitto colposo)). Le disposizioni dell'articolo 31 non si applicano nel caso di condanna per delitto colposo, se la pena inflitta e' inferiore a tre anni di reclusione, o se e' inflitta soltanto una pena pecuniaria.",
+    "caratteri": 330
+  },
+  "note": [],
+  "impronta": "sha256:86f09c133b4d8be22cd01a2a24ca72522eb4d96fd0d25962322e1153057e8717"
+}

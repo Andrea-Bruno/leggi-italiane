@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2224",
+    "rubrica": "Esecuzione dell'opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2224"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il prestatore d'opera non procede all'esecuzione dell'opera secondo le condizioni stabilite dal contratto e a regola d'arte, il committente puo' fissare un congruo termine, entro il quale il prestatore d'opera deve conformarsi a tali condizioni. Trascorso inutilmente il termine fissato, il committente puo' recedere dal contratto, salvo il diritto al risarcimento dei danni.",
+    "con_marcatori": "Art. 2224. (Esecuzione dell'opera). Se il prestatore d'opera non procede all'esecuzione dell'opera secondo le condizioni stabilite dal contratto e a regola d'arte, il committente puo' fissare un congruo termine, entro il quale il prestatore d'opera deve conformarsi a tali condizioni. Trascorso inutilmente il termine fissato, il committente puo' recedere dal contratto, salvo il diritto al risarcimento dei danni.",
+    "caratteri": 378
+  },
+  "note": [],
+  "impronta": "sha256:cb39aabe37cacd8f4e49f7686e6157de0fbcad676eca7570a1a07409897f1549"
+}

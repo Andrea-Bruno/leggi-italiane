@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2181",
+    "rubrica": "Prelevamento e divisione al termine del contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2181"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Al termine del contratto le parti procedono a nuova stima del bestiame. Il soccidante preleva, d'accordo con il soccidario, un complesso di capi che, avuto riguardo al numero, alla razza, al sesso, al peso, alla qualita' e all'eta', sia corrispondente alla consistenza del bestiame apportato all'inizio della soccida. Il di piu' si divide a norma dell'art. 2178. Se non vi sono capi sufficienti ad eguagliare la stima iniziale, il soccidante prende quelli che rimangono.",
+    "con_marcatori": "Art. 2181. (Prelevamento e divisione al termine del contratto). Al termine del contratto le parti procedono a nuova stima del bestiame. Il soccidante preleva, d'accordo con il soccidario, un complesso di capi che, avuto riguardo al numero, alla razza, al sesso, al peso, alla qualita' e all'eta', sia corrispondente alla consistenza del bestiame apportato all'inizio della soccida. Il di piu' si divide a norma dell'art. 2178. Se non vi sono capi sufficienti ad eguagliare la stima iniziale, il soccidante prende quelli che rimangono.",
+    "caratteri": 470
+  },
+  "note": [],
+  "impronta": "sha256:8c241e881dbba9dccafba4e00309a07f9affb27e56a74d65658dcc8fdda05d7b"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2504-ter",
+    "rubrica": "Divieto di assegnazione di azioni o quote",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2504-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' che risulta dalla fusione non puo' assegnare azioni o quote in sostituzione di quelle delle societa' partecipanti alla fusione possedute, anche per il tramite di societa' fiduciarie o di interposta persona, dalle societa' medesime. La societa' incorporante non puo' assegnare azioni o quote in sostituzione di quelle delle societa' incorporate possedute, anche per il tramite di societa' fiduciaria o di interposta persona, dalle incorporate medesime o dalla societa' incorporante.",
+    "con_marcatori": "Art. 2504-ter. (( (Divieto di assegnazione di azioni o quote). )) ((La societa' che risulta dalla fusione non puo' assegnare azioni o quote in sostituzione di quelle delle societa' partecipanti alla fusione possedute, anche per il tramite di societa' fiduciarie o di interposta persona, dalle societa' medesime. La societa' incorporante non puo' assegnare azioni o quote in sostituzione di quelle delle societa' incorporate possedute, anche per il tramite di societa' fiduciaria o di interposta persona, dalle incorporate medesime o dalla societa' incorporante.))",
+    "caratteri": 493
+  },
+  "note": [],
+  "impronta": "sha256:831bf5457106a513fc19a684508d86416712992d8d77773ad602f6d138e88faa"
+}

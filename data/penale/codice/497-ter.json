@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "497-ter",
+    "rubrica": "Possesso di segni distintivi contraffatti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art497-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le pene di cui all'articolo 497-bis, si applicano anche, rispettivamente: 1) a chiunque illecitamente detiene segni distintivi, contrassegni o documenti di identificazione in uso ai Corpi di polizia, ovvero oggetti o documenti che ne simulano la funzione; 2) a chiunque illecitamente fabbrica o comunque forma gli oggetti e i documenti indicati nel numero precedente, ovvero illecitamente ne fa uso.",
+    "con_marcatori": "Art. 497-ter. (( (Possesso di segni distintivi contraffatti). )) ((Le pene di cui all'articolo 497-bis, si applicano anche, rispettivamente: 1) a chiunque illecitamente detiene segni distintivi, contrassegni o documenti di identificazione in uso ai Corpi di polizia, ovvero oggetti o documenti che ne simulano la funzione; 2) a chiunque illecitamente fabbrica o comunque forma gli oggetti e i documenti indicati nel numero precedente, ovvero illecitamente ne fa uso.))",
+    "caratteri": 399
+  },
+  "note": [],
+  "impronta": "sha256:e6d51981ec37aac9cecb67b0edca093577fd02c3df873a557886fd41f9306da1"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2825",
+    "rubrica": "Ipoteca su beni indivisi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2825"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ipoteca costituita sulla propria quota da uno dei partecipanti alla comunione produce effetto rispetto a quei beni o a quella porzione di beni che a lui verranno assegnati nella divisione. Se nella divisione sono assegnati a un partecipante beni diversi da quello da lui ipotecato, l'ipoteca si trasferisce su questi altri beni, col grado derivante dall'originaria iscrizione e nei limiti del valore del bene in precedenza ipotecato, quale risulta dalla divisione, purche' l'ipoteca sia nuovamente iscritta con l'indicazione di detto valore entro novanta giorni dalla trascrizione della divisione medesima. Il trasferimento pero' non pregiudica le ipoteche iscritte contro tutti i partecipanti, ne' l'ipoteca legale spettante ai condividenti per i conguagli. I creditori ipotecari e i cessionari di un partecipante, al quale siano stati assegnati beni diversi da quelli ipotecati o ceduti, possono far valere le loro ragioni anche sulle somme a lui dovute per conguagli o, qualora sia stata attribuita una somma di danaro in luogo di beni in natura, possono far valere le loro ragioni su tale somma, con prelazione determinata dalla data di iscrizione o di trascrizione dei titoli rispettivi, nel limite pero' del valore dei beni precedentemente ipotecati o ceduti. I debitori delle somme sono tuttavia liberati quando le abbiano pagate al condividente dopo trenta giorni da che la divisione e' stata notificata ai creditori ipotecari o ai cessionari senza che da costoro sia stata fatta opposizione.",
+    "con_marcatori": "Art. 2825. (Ipoteca su beni indivisi). L'ipoteca costituita sulla propria quota da uno dei partecipanti alla comunione produce effetto rispetto a quei beni o a quella porzione di beni che a lui verranno assegnati nella divisione. Se nella divisione sono assegnati a un partecipante beni diversi da quello da lui ipotecato, l'ipoteca si trasferisce su questi altri beni, col grado derivante dall'originaria iscrizione e nei limiti del valore del bene in precedenza ipotecato, quale risulta dalla divisione, purche' l'ipoteca sia nuovamente iscritta con l'indicazione di detto valore entro novanta giorni dalla trascrizione della divisione medesima. Il trasferimento pero' non pregiudica le ipoteche iscritte contro tutti i partecipanti, ne' l'ipoteca legale spettante ai condividenti per i conguagli. I creditori ipotecari e i cessionari di un partecipante, al quale siano stati assegnati beni diversi da quelli ipotecati o ceduti, possono far valere le loro ragioni anche sulle somme a lui dovute per conguagli o, qualora sia stata attribuita una somma di danaro in luogo di beni in natura, possono far valere le loro ragioni su tale somma, con prelazione determinata dalla data di iscrizione o di trascrizione dei titoli rispettivi, nel limite pero' del valore dei beni precedentemente ipotecati o ceduti. I debitori delle somme sono tuttavia liberati quando le abbiano pagate al condividente dopo trenta giorni da che la divisione e' stata notificata ai creditori ipotecari o ai cessionari senza che da costoro sia stata fatta opposizione.",
+    "caratteri": 1502
+  },
+  "note": [],
+  "impronta": "sha256:08f07257889b34fe54eb97db3ef3c56fdce859aa40f3b5a667720b33145a1036"
+}

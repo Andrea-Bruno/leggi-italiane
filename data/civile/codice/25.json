@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "25",
+    "rubrica": "Controllo sull'amministrazione delle fondazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art25"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'autorita' governativa esercita il controllo e la vigilanza sull'amministrazione delle fondazioni; provvede alla nomina e alla sostituzione degli amministratori o dei rappresentanti, quando le disposizioni contenute nell'atto di fondazione non possono attuarsi; annulla, sentiti gli amministratori, con provvedimento definitivo, le deliberazioni contrarie a norme imperative, all'atto di fondazione, all'ordine pubblico o al buon costume; puo' sciogliere l'amministrazione e nominare un commissario straordinario, qualora gli amministratori non agiscano in conformita' dello statuto o dello scopo della fondazione o della legge. L'annullamento della deliberazione non pregiudica i diritti acquistati dai terzi di buona fede in base ad atti compiuti in esecuzione della deliberazione medesima. Le azioni contro gli amministratori per fatti riguardanti la loro responsabilita' devono essere autorizzate dall'autorita' governativa e sono esercitate dal commissario straordinario, dai liquidatori o dai nuovi amministratori.",
+    "con_marcatori": "Art. 25. (Controllo sull'amministrazione delle fondazioni). L'autorita' governativa esercita il controllo e la vigilanza sull'amministrazione delle fondazioni; provvede alla nomina e alla sostituzione degli amministratori o dei rappresentanti, quando le disposizioni contenute nell'atto di fondazione non possono attuarsi; annulla, sentiti gli amministratori, con provvedimento definitivo, le deliberazioni contrarie a norme imperative, all'atto di fondazione, all'ordine pubblico o al buon costume; puo' sciogliere l'amministrazione e nominare un commissario straordinario, qualora gli amministratori non agiscano in conformita' dello statuto o dello scopo della fondazione o della legge. L'annullamento della deliberazione non pregiudica i diritti acquistati dai terzi di buona fede in base ad atti compiuti in esecuzione della deliberazione medesima. Le azioni contro gli amministratori per fatti riguardanti la loro responsabilita' devono essere autorizzate dall'autorita' governativa e sono esercitate dal commissario straordinario, dai liquidatori o dai nuovi amministratori.",
+    "caratteri": 1021
+  },
+  "note": [],
+  "impronta": "sha256:4e8c519488bc16065c12fa107ee4590518f7faae2de88f8fa863b1cf3244e220"
+}

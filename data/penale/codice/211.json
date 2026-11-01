@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "211",
+    "rubrica": "Esecuzione delle misure di sicurezza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art211"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le misure di sicurezza aggiunte a una pena detentiva sono eseguite dopo che la pena e' stata scontata o e' altrimenti estinta. Le misure di sicurezza, aggiunte a pena non detentiva, sono eseguite dopo che la sentenza di condanna e' divenuta irrevocabile. L'esecuzione delle misure di sicurezza temporanee non detentive, aggiunte a misure di sicurezza detentive, ha luogo dopo la esecuzione di queste ultime.",
+    "con_marcatori": "Art. 211. (Esecuzione delle misure di sicurezza) Le misure di sicurezza aggiunte a una pena detentiva sono eseguite dopo che la pena e' stata scontata o e' altrimenti estinta. Le misure di sicurezza, aggiunte a pena non detentiva, sono eseguite dopo che la sentenza di condanna e' divenuta irrevocabile. L'esecuzione delle misure di sicurezza temporanee non detentive, aggiunte a misure di sicurezza detentive, ha luogo dopo la esecuzione di queste ultime.",
+    "caratteri": 407
+  },
+  "note": [],
+  "impronta": "sha256:13141b6703f1f56d31b9cf23e0cf767503e95d3ac4ec278c495ff430898a3f98"
+}

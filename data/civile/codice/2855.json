@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2855",
+    "rubrica": "Estensione degli effetti dell'iscrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2855"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'iscrizione del credito fa collocare nello stesso grado le spese dell'atto di costituzione d'ipoteca, quelle dell'iscrizione e rinnovazione e quelle ordinarie occorrenti per l'intervento nel processo di esecuzione. Per il credito di maggiori spese giudiziali le parti possono estendere l'ipoteca con patto espresso, purche' sia presa la corrispondente iscrizione. Qualunque sia la specie d'ipoteca, l'iscrizione di un capitale che produce interessi fa collocare nello stesso grado gli interessi dovuti, purche' ne sia enunciata la misura nell'iscrizione. La collocazione degli interessi e' limitata alle due annate anteriori e a quella in corso al giorno del pignoramento, ancorche' sia stata pattuita l'estensione a un maggior numero di annualita'; le iscrizioni particolari prese per altri arretrati hanno effetto dalla loro data. L'iscrizione del capitale fa pure collocare nello stesso grado gli interessi maturati dopo il compimento dell'annata in corso alla data del pignoramento, pero' soltanto nella misura legale e fino alla data della vendita.",
+    "con_marcatori": "Art. 2855. (Estensione degli effetti dell'iscrizione). L'iscrizione del credito fa collocare nello stesso grado le spese dell'atto di costituzione d'ipoteca, quelle dell'iscrizione e rinnovazione e quelle ordinarie occorrenti per l'intervento nel processo di esecuzione. Per il credito di maggiori spese giudiziali le parti possono estendere l'ipoteca con patto espresso, purche' sia presa la corrispondente iscrizione. Qualunque sia la specie d'ipoteca, l'iscrizione di un capitale che produce interessi fa collocare nello stesso grado gli interessi dovuti, purche' ne sia enunciata la misura nell'iscrizione. La collocazione degli interessi e' limitata alle due annate anteriori e a quella in corso al giorno del pignoramento, ancorche' sia stata pattuita l'estensione a un maggior numero di annualita'; le iscrizioni particolari prese per altri arretrati hanno effetto dalla loro data. L'iscrizione del capitale fa pure collocare nello stesso grado gli interessi maturati dopo il compimento dell'annata in corso alla data del pignoramento, pero' soltanto nella misura legale e fino alla data della vendita.",
+    "caratteri": 1054
+  },
+  "note": [],
+  "impronta": "sha256:62ae68be308d24fa044f545ba74251c178aeb6d93e444eb8b73fc92a1ea6a5a1"
+}

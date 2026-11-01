@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "374",
+    "rubrica": "Autorizzazione del giudice tutelare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art374"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il tutore non puo' senza l'autorizzazione del giudice tutelare: 1) acquistare beni, eccettuati i mobili necessari per l'uso del minore, per l'economia domestica e per l'amministrazione del patrimonio; 2) alienare beni, eccettuati i frutti e i mobili soggetti a facile deterioramento; 3) riscuotere capitali; 4) costituire pegni o ipoteche, ovvero consentire alla cancellazione di ipoteche o allo svincolo di pegni; 5) assumere obbligazioni, salvo che queste riguardino le spese necessarie per il mantenimento del minore e per l'ordinaria amministrazione del suo patrimonio; 6) accettare eredita' o rinunciarvi, accettare donazioni o legati soggetti a pesi o a condizioni, procedere a divisioni; 7) fare compromessi e transazioni o accettare concordati; 8) fare contratti di locazione di immobili oltre il novennio o che in ogni caso si prolunghino oltre un anno dopo il raggiungimento della maggiore eta'; 9) promuovere giudizi, salvo che si tratti di denunzie di nuova opera o di danno temuto, di azioni possessorie o di sfratto e di azioni per riscuotere frutti o per ottenere provvedimenti conservativi.",
+    "con_marcatori": "Art. 374. (Autorizzazione del giudice tutelare). Il tutore non puo' senza l'autorizzazione del giudice tutelare: 1) acquistare beni, eccettuati i mobili necessari per l'uso del minore, per l'economia domestica e per l'amministrazione del patrimonio; 2) alienare beni, eccettuati i frutti e i mobili soggetti a facile deterioramento; 3) riscuotere capitali; 4) costituire pegni o ipoteche, ovvero consentire alla cancellazione di ipoteche o allo svincolo di pegni; 5) assumere obbligazioni, salvo che queste riguardino le spese necessarie per il mantenimento del minore e per l'ordinaria amministrazione del suo patrimonio; 6) accettare eredita' o rinunciarvi, accettare donazioni o legati soggetti a pesi o a condizioni, procedere a divisioni; 7) fare compromessi e transazioni o accettare concordati; 8) fare contratti di locazione di immobili oltre il novennio o che in ogni caso si prolunghino oltre un anno dopo il raggiungimento della maggiore eta'; 9) promuovere giudizi, salvo che si tratti di denunzie di nuova opera o di danno temuto, di azioni possessorie o di sfratto e di azioni per riscuotere frutti o per ottenere provvedimenti conservativi. (321)((322))",
+    "caratteri": 1106
+  },
+  "note": [
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:721d235dc2c74633bc546e12e0feb6593701c9590748a16548681fedac01589a"
+}

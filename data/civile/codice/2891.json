@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2891",
+    "rubrica": "Diritto dei creditori di far vendere i beni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2891"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Entro il termine di quaranta giorni dalla notificazione indicata dall'articolo precedente, qualunque dei creditori iscritti o dei relativi fideiussori ha diritto di richiedere l'espropriazione dei beni con ricorso al presidente del tribunale competente a norma del codice di procedura civile, purche' adempia le condizioni che seguono: 1) che la richiesta sia notificata al terzo acquirente nel domicilio da lui eletto a norma dell'articolo precedente e al proprietario anteriore; 2) che contenga la dichiarazione del richiedente di aumentare di un decimo il prezzo stipulato o il valore dichiarato; 3) che contenga l'offerta di una cauzione per una somma eguale al quinto del prezzo aumentato come sopra; 4) che l'originale e le copie della richiesta siano sottoscritti dal richiedente o da un suo procuratore munito di mandato speciale. L'omissione di alcuna di queste condizioni produce nullita' della richiesta.",
+    "con_marcatori": "Art. 2891. (Diritto dei creditori di far vendere i beni). Entro il termine di quaranta giorni dalla notificazione indicata dall'articolo precedente, qualunque dei creditori iscritti o dei relativi fideiussori ha diritto di richiedere l'espropriazione dei beni con ricorso al presidente del tribunale competente a norma del codice di procedura civile, purche' adempia le condizioni che seguono: 1) che la richiesta sia notificata al terzo acquirente nel domicilio da lui eletto a norma dell'articolo precedente e al proprietario anteriore; 2) che contenga la dichiarazione del richiedente di aumentare di un decimo il prezzo stipulato o il valore dichiarato; 3) che contenga l'offerta di una cauzione per una somma eguale al quinto del prezzo aumentato come sopra; 4) che l'originale e le copie della richiesta siano sottoscritti dal richiedente o da un suo procuratore munito di mandato speciale. L'omissione di alcuna di queste condizioni produce nullita' della richiesta.",
+    "caratteri": 915
+  },
+  "note": [],
+  "impronta": "sha256:1d2b5e15269bb84a57fcccad781ba21de9a94d94470f0ca3f9a0d23394028135"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2053",
+    "rubrica": "Rovina di edificio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2053"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario di un edificio o di altra costruzione e' responsabile dei danni cagionati dalla loro rovina, salvo che provi che questa non e' dovuta a difetto di manutenzione o a vizio di costruzione.",
+    "con_marcatori": "Art. 2053. (Rovina di edificio). Il proprietario di un edificio o di altra costruzione e' responsabile dei danni cagionati dalla loro rovina, salvo che provi che questa non e' dovuta a difetto di manutenzione o a vizio di costruzione.",
+    "caratteri": 201
+  },
+  "note": [],
+  "impronta": "sha256:f6e27f810a3a88a85b61c7d07b28a7e1d1598c772eaa1c20699160f54fb16dcf"
+}

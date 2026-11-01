@@ -1,0 +1,96 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "338",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art338"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 19 MAGGIO 1975, N. 151",
+        "testo": "ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151",
+    "con_marcatori": "Art. 338. ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151 (40) ((223))",
+    "caratteri": 49
+  },
+  "note": [
+    {
+      "numero": 40,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        },
+        {
+          "denominazione": "articolo 338 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 19 maggio 1975, n. 151 ha disposto (con l'art. 235, comma 1) che \"Dall'entrata in vigore della presente legge cessano di avere efficacia le condizioni stabilite dal padre ai sensi dell'abrogato articolo 338 del codice civile per l'educazione dei figli e per l'amministrazione dei beni e non possono essere iniziate o proseguite azioni per l'inosservanza delle suddette condizioni\"."
+    },
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "articolo 337 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 7, comma 12) che \"Dopo l'articolo 337 del codice civile e' inserito il seguente: \" Capo II. \"Esercizio della responsabilita' genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio\"\"."
+    }
+  ],
+  "impronta": "sha256:7ec5a7233af09fbe9aa827b9d2ce84548fb6574124e23dde8065b21c42379643"
+}

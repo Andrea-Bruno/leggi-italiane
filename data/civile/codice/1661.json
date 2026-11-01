@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1661",
+    "rubrica": "Variazioni ordinate dal committente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1661"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il committente puo' apportare variazioni al progetto, purche' il loro ammontare non superi il sesto del prezzo complessivo convenuto. L'appaltatore ha diritto al compenso per i maggiori lavori eseguiti, anche se il prezzo dell'opera era stato determinato globalmente. La disposizione del comma precedente non si applica quando le variazioni, pur essendo contenute nei limiti suddetti, importano notevoli modificazioni della natura dell'opera o dei quantitativi nelle singole categorie di lavori previste nel contratto per l'esecuzione dell'opera medesima.",
+    "con_marcatori": "Art. 1661. (Variazioni ordinate dal committente). Il committente puo' apportare variazioni al progetto, purche' il loro ammontare non superi il sesto del prezzo complessivo convenuto. L'appaltatore ha diritto al compenso per i maggiori lavori eseguiti, anche se il prezzo dell'opera era stato determinato globalmente. La disposizione del comma precedente non si applica quando le variazioni, pur essendo contenute nei limiti suddetti, importano notevoli modificazioni della natura dell'opera o dei quantitativi nelle singole categorie di lavori previste nel contratto per l'esecuzione dell'opera medesima.",
+    "caratteri": 555
+  },
+  "note": [],
+  "impronta": "sha256:c8117a303f07d1de00140b3ef631c014010ccd3d4685e317eada6490e22c36da"
+}

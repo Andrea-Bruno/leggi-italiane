@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2728",
+    "rubrica": "Prova contro le presunzioni legali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2728"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le presunzioni legali dispensano da qualunque prova coloro a favore dei quali esse sono stabilite. Contro le presunzioni sul fondamento delle quali la legge dichiara nulli certi atti o non ammette l'azione in giudizio non puo' essere data prova contraria, salvo che questa sia consentita dalla legge stessa.",
+    "con_marcatori": "Art. 2728. (Prova contro le presunzioni legali). Le presunzioni legali dispensano da qualunque prova coloro a favore dei quali esse sono stabilite. Contro le presunzioni sul fondamento delle quali la legge dichiara nulli certi atti o non ammette l'azione in giudizio non puo' essere data prova contraria, salvo che questa sia consentita dalla legge stessa.",
+    "caratteri": 307
+  },
+  "note": [],
+  "impronta": "sha256:e72b7736df412abfabc8af81e4b2a0348130ea02a3280d180a609c0fa6230db7"
+}

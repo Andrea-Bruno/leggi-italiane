@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "248",
+    "rubrica": "Somministrazione al nemico di provvigioni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art248"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in tempo di guerra, somministra, anche indirettamente, allo Stato nemico provvigioni, ovvero altre cose, le quali possano essere usate a danno dello Stato italiano, e' punito con la reclusione non inferiore a cinque anni. Tale disposizione non si applica allo straniero che commette il fatto all'estero.",
+    "con_marcatori": "Art. 248. (Somministrazione al nemico di provvigioni) Chiunque, in tempo di guerra, somministra, anche indirettamente, allo Stato nemico provvigioni, ovvero altre cose, le quali possano essere usate a danno dello Stato italiano, e' punito con la reclusione non inferiore a cinque anni. Tale disposizione non si applica allo straniero che commette il fatto all'estero.",
+    "caratteri": 313
+  },
+  "note": [],
+  "impronta": "sha256:9191bfb05f7d998790315122a2c357245b53ddddd354c0aa2889b229612d17fa"
+}

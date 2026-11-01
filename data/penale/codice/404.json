@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "404",
+    "rubrica": "(Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose) ",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art404"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 156,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, in luogo destinato al culto, o in luogo pubblico o aperto al pubblico, offendendo una confessione religiosa, vilipende con espressioni ingiuriose cose che formino oggetto di culto, o siano consacrate al culto, o siano destinate necessariamente all'esercizio del culto, ovvero commette il fatto in occasione di funzioni religiose, compiute in luogo privato da un ministro del culto, e' punito con la multa da euro 1.000 a euro 5.000. Chiunque pubblicamente e intenzionalmente distrugge, disperde, deteriora, rende inservibili o imbratta cose che formino oggetto di culto o siano consacrate al culto o siano destinate necessariamente all'esercizio del culto e' punito con la reclusione fino a due anni.",
+    "con_marcatori": "Art. 404. (( (Offese a una confessione religiosa mediante vilipendio o danneggiamento di cose) .)) ((Chiunque, in luogo destinato al culto, o in luogo pubblico o aperto al pubblico, offendendo una confessione religiosa, vilipende con espressioni ingiuriose cose che formino oggetto di culto, o siano consacrate al culto, o siano destinate necessariamente all'esercizio del culto, ovvero commette il fatto in occasione di funzioni religiose, compiute in luogo privato da un ministro del culto, e' punito con la multa da euro 1.000 a euro 5.000. Chiunque pubblicamente e intenzionalmente distrugge, disperde, deteriora, rende inservibili o imbratta cose che formino oggetto di culto o siano consacrate al culto o siano destinate necessariamente all'esercizio del culto e' punito con la reclusione fino a due anni)).",
+    "caratteri": 710
+  },
+  "note": [
+    {
+      "numero": 156,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 404, primo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 406 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1997-11-14",
+        "numero": "329"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 10 - 14 novembre 1997, n. 329 (in G.U. 1ª s.s. 19/11/1997, n. 47), ha dichiarato \"l'illegittimita' costituzionale dell'art. 404, primo comma, del codice penale, nella parte in cui prevede la pena della reclusione da uno a tre anni, anziche' la pena diminuita prevista dall'art. 406 del codice penale\"."
+    }
+  ],
+  "impronta": "sha256:8f51980f84746909bace6aa04626ecd7d70f4710fe1ad6138e679a475ee313be"
+}

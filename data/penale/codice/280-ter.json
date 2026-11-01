@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "280-ter",
+    "rubrica": "Atti di terrorismo nucleare",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art280-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' punito con la reclusione non inferiore ad anni quindici chiunque, con le finalita' di terrorismo di cui all'articolo 270-sexies: 1) procura a se' o ad altri materia radioattiva; 2) crea un ordigno nucleare o ne viene altrimenti in possesso. E' punito con la reclusione non inferiore ad anni venti chiunque, con le finalita' di terrorismo di cui all'articolo 270-sexies: 1) utilizza materia radioattiva o un ordigno nucleare; 2) utilizza o danneggia un impianto nucleare in modo tale da rilasciare o con il concreto pericolo che rilasci materia radioattiva. Le pene di cui al primo e al secondo comma si applicano altresi' quando la condotta ivi descritta abbia ad oggetto materiali o aggressivi chimici o batteriologici.",
+    "con_marcatori": "Art. 280-ter. (( (Atti di terrorismo nucleare).)) ((E' punito con la reclusione non inferiore ad anni quindici chiunque, con le finalita' di terrorismo di cui all'articolo 270-sexies: 1) procura a se' o ad altri materia radioattiva; 2) crea un ordigno nucleare o ne viene altrimenti in possesso. E' punito con la reclusione non inferiore ad anni venti chiunque, con le finalita' di terrorismo di cui all'articolo 270-sexies: 1) utilizza materia radioattiva o un ordigno nucleare; 2) utilizza o danneggia un impianto nucleare in modo tale da rilasciare o con il concreto pericolo che rilasci materia radioattiva. Le pene di cui al primo e al secondo comma si applicano altresi' quando la condotta ivi descritta abbia ad oggetto materiali o aggressivi chimici o batteriologici)).",
+    "caratteri": 723
+  },
+  "note": [],
+  "impronta": "sha256:60cf0e4bf6c26816862e099e4f50ed36bbc0c18e9b1a756ce0e97622056d523f"
+}

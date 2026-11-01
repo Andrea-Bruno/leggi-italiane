@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2878",
+    "rubrica": "Cause di estinzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2878"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ipoteca si estingue: 1) con la cancellazione dell'iscrizione; 2) con la mancata rinnovazione dell'iscrizione entro il termine indicato dall'art. 2847; 3) con l'estinguersi dell'obbligazione; 4) col perimento del bene ipotecato, salvo quanto e' stabilito dall'art. 2742; 5) con la rinunzia del creditore; 6) con lo spirare del termine a cui l'ipoteca e' stata limitata o col verificarsi della condizione risolutiva; 7) con la pronunzia del provvedimento che trasferisce all'acquirente il diritto espropriato e ordina la cancellazione delle ipoteche.",
+    "con_marcatori": "Art. 2878. (Cause di estinzione). L'ipoteca si estingue: 1) con la cancellazione dell'iscrizione; 2) con la mancata rinnovazione dell'iscrizione entro il termine indicato dall'art. 2847; 3) con l'estinguersi dell'obbligazione; 4) col perimento del bene ipotecato, salvo quanto e' stabilito dall'art. 2742; 5) con la rinunzia del creditore; 6) con lo spirare del termine a cui l'ipoteca e' stata limitata o col verificarsi della condizione risolutiva; 7) con la pronunzia del provvedimento che trasferisce all'acquirente il diritto espropriato e ordina la cancellazione delle ipoteche.",
+    "caratteri": 550
+  },
+  "note": [],
+  "impronta": "sha256:c2505098c8769af3a161df9d9ab9ee4f4dee786504434117b92d0984a1ac5048"
+}

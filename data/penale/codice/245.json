@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "245",
+    "rubrica": "Intelligenze con lo straniero per impegnare lo Stato italiano alla neutralita' o alla guerra",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art245"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque tiene intelligenze con lo straniero per impegnare o per compiere atti diretti a impegnare lo Stato italiano alla dichiarazione o al mantenimento della neutralita', ovvero alla dichiarazione di guerra, e' punito con la reclusione da cinque a quindici anni. La pena e' aumentata se le intelligenze hanno per oggetto una propaganda col mezzo della stampa.",
+    "con_marcatori": "Art. 245. (Intelligenze con lo straniero per impegnare lo Stato italiano alla neutralita' o alla guerra) Chiunque tiene intelligenze con lo straniero per impegnare o per compiere atti diretti a impegnare lo Stato italiano alla dichiarazione o al mantenimento della neutralita', ovvero alla dichiarazione di guerra, e' punito con la reclusione da cinque a quindici anni. La pena e' aumentata se le intelligenze hanno per oggetto una propaganda col mezzo della stampa.",
+    "caratteri": 361
+  },
+  "note": [],
+  "impronta": "sha256:c22bac400e18a6813fa6b1afbf3d286f35c1a27e2203095efcb55ce138efbd32"
+}

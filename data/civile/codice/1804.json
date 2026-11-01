@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1804",
+    "rubrica": "Obbligazioni del comodatario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1804"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il comodatario e' tenuto a custodire e a conservare la cosa con la diligenza del buon padre di famiglia. Egli non puo' servirsene che per l'uso determinato dal contratto o dalla natura della cosa. Non puo' concedere a un terzo il godimento della cosa senza il consenso del comodante. Se il comodatario non adempie gli obblighi suddetti, il comodante puo' chiedere l'immediata restituzione della cosa, oltre al risarcimento del danno.",
+    "con_marcatori": "Art. 1804. (Obbligazioni del comodatario). Il comodatario e' tenuto a custodire e a conservare la cosa con la diligenza del buon padre di famiglia. Egli non puo' servirsene che per l'uso determinato dal contratto o dalla natura della cosa. Non puo' concedere a un terzo il godimento della cosa senza il consenso del comodante. Se il comodatario non adempie gli obblighi suddetti, il comodante puo' chiedere l'immediata restituzione della cosa, oltre al risarcimento del danno.",
+    "caratteri": 433
+  },
+  "note": [],
+  "impronta": "sha256:5c44ab8d95aa6fa6eadeb7a31b4719cbea99dc82bb24a1c716834fb326016b22"
+}

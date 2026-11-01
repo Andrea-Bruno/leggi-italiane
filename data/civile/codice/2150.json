@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2150",
+    "rubrica": "Rappresentanza della famiglia colonica",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2150"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei rapporti relativi alla mezzadria il mezzadro rappresenta, nei confronti del concedente, i componenti della famiglia colonica. Le obbligazioni contratte dal mezzadro nell'esercizio della mezzadria sono garantite dai suoi beni e da quelli comuni della famiglia colonica. I componenti della famiglia colonica non rispondono con i loro beni, se non hanno prestato espressa garanzia.",
+    "con_marcatori": "Art. 2150. (Rappresentanza della famiglia colonica). Nei rapporti relativi alla mezzadria il mezzadro rappresenta, nei confronti del concedente, i componenti della famiglia colonica. Le obbligazioni contratte dal mezzadro nell'esercizio della mezzadria sono garantite dai suoi beni e da quelli comuni della famiglia colonica. I componenti della famiglia colonica non rispondono con i loro beni, se non hanno prestato espressa garanzia.",
+    "caratteri": 382
+  },
+  "note": [],
+  "impronta": "sha256:53938c318df12c0b28e470283f469ed606ff5d263fa260a911d3d30a7c0c5af2"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "225",
+    "rubrica": "Minore imputabile",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art225"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando il minore che ha compiuto gli anni quattordici, ma non ancora i diciotto, sia riconosciuto imputabile, il giudice puo' ordinare che, dopo l'esecuzione della pena, egli sia ricoverato in un riformatorio giudiziario o posto in liberta' vigilata, tenuto conto delle circostanze indicate nella prima parte dell'articolo precedente. E' sempre applicata una delle predette misure di sicurezza al minore che sia condannato per delitto durante la esecuzione di una misura di sicurezza, a lui precedentemente applicata per difetto d'imputabilita'.",
+    "con_marcatori": "Art. 225. (Minore imputabile) Quando il minore che ha compiuto gli anni quattordici, ma non ancora i diciotto, sia riconosciuto imputabile, il giudice puo' ordinare che, dopo l'esecuzione della pena, egli sia ricoverato in un riformatorio giudiziario o posto in liberta' vigilata, tenuto conto delle circostanze indicate nella prima parte dell'articolo precedente. E' sempre applicata una delle predette misure di sicurezza al minore che sia condannato per delitto durante la esecuzione di una misura di sicurezza, a lui precedentemente applicata per difetto d'imputabilita'.",
+    "caratteri": 545
+  },
+  "note": [],
+  "impronta": "sha256:c8f34040a6bd61c3499c77fcb459a4fe63e5562c5b37e8d25d888bd063667b7c"
+}

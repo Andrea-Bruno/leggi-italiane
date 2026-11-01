@@ -1,0 +1,61 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "402",
+    "rubrica": "Vilipendio della religione dello Stato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art402"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 171,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque pubblicamente vilipende la religione dello Stato e' punito con la reclusione fino a un anno.",
+    "con_marcatori": "Art. 402. (Vilipendio della religione dello Stato) Chiunque pubblicamente vilipende la religione dello Stato e' punito con la reclusione fino a un anno. ((171))",
+    "caratteri": 101
+  },
+  "note": [
+    {
+      "numero": 171,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2000-11-20",
+        "numero": "508"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 13 - 20 novembre 2000, n. 508 (in G.U. 1ª s.s. 29/11/2000, n. 49), ha dichiarato l'illegittimita' costituzionale del presente articolo."
+    }
+  ],
+  "impronta": "sha256:a5ffc3904e273372fdf38c09a3d3aeff8449097762469502e6d85d0ecc44012b"
+}

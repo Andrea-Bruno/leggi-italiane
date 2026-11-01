@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "590",
+    "rubrica": "Lesioni personali colpose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art590"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque cagiona ad altri per colpa una lesione personale e' punito con la reclusione fino a tre mesi o con la multa fino a lire duecentomila. Se la lesione e' grave la pena e' della reclusione da uno a sei mesi o della multa da lire ottantamila a quattrocentomila; se e' gravissima, della reclusione da tre mesi a due anni o della multa da lire duecentomila a ottocentomila. Se i fatti di cui al secondo comma sono commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro la pena per le lesioni gravi e' della reclusione da tre mesi a un anno o della multa da euro 500 a euro 2.000 e la pena per le lesioni gravissime e' della reclusione da uno a tre anni. PERIODO SOPPRESSO DALLA L. 23 MARZO 2016, N. 41. Se i fatti di cui al secondo comma sono commessi nell'esercizio abusivo di una professione per la quale e' richiesta una speciale abilitazione dello Stato o di un'arte sanitaria, la pena per lesioni gravi e' della reclusione da sei mesi a due anni e la pena per lesioni gravissime e' della reclusione da un anno e sei mesi a quattro anni. Nel caso di lesioni di piu' persone si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse, aumentata fino al triplo; ma la pena della reclusione non puo' superare gli anni cinque. Il delitto e' punibile a querela della persona offesa, salvo nei casi previsti nel primo e secondo capoverso, limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro o che abbiano determinato una malattia professionale.",
+    "con_marcatori": "Art. 590. (Lesioni personali colpose) Chiunque cagiona ad altri per colpa una lesione personale e' punito con la reclusione fino a tre mesi o con la multa fino a lire duecentomila. Se la lesione e' grave la pena e' della reclusione da uno a sei mesi o della multa da lire ottantamila a quattrocentomila; se e' gravissima, della reclusione da tre mesi a due anni o della multa da lire duecentomila a ottocentomila. Se i fatti di cui al secondo comma sono commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro la pena per le lesioni gravi e' della reclusione da tre mesi a un anno o della multa da euro 500 a euro 2.000 e la pena per le lesioni gravissime e' della reclusione da uno a tre anni. PERIODO SOPPRESSO DALLA L. 23 MARZO 2016, N. 41. ((Se i fatti di cui al secondo comma sono commessi nell'esercizio abusivo di una professione per la quale e' richiesta una speciale abilitazione dello Stato o di un'arte sanitaria, la pena per lesioni gravi e' della reclusione da sei mesi a due anni e la pena per lesioni gravissime e' della reclusione da un anno e sei mesi a quattro anni)). Nel caso di lesioni di piu' persone si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse, aumentata fino al triplo; ma la pena della reclusione non puo' superare gli anni cinque. Il delitto e' punibile a querela della persona offesa, salvo nei casi previsti nel primo e secondo capoverso, limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro o che abbiano determinato una malattia professionale.",
+    "caratteri": 1586
+  },
+  "note": [],
+  "impronta": "sha256:3a0a865726d9250182a18ea5e606428164e59079755a05984bcd2e981d6012ea"
+}

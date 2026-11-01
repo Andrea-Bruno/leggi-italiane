@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1274",
+    "rubrica": "Insolvenza del nuovo debitore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1274"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore che, in seguito a delegazione, ha liberato il debitore originario, non ha azione contro di lui se il delegato diviene insolvente, salvo che ne abbia fatto espressa riserva. Tuttavia, se il delegato era insolvente al tempo in cui assunse il debito in confronto del creditore, il debitore originario non e' liberato. Le medesime disposizioni si osservano quando il creditore ha aderito all'accollo stipulato a suo favore e la liberazione del debitore originario era condizione espressa della stipulazione.",
+    "con_marcatori": "Art. 1274. (Insolvenza del nuovo debitore). Il creditore che, in seguito a delegazione, ha liberato il debitore originario, non ha azione contro di lui se il delegato diviene insolvente, salvo che ne abbia fatto espressa riserva. Tuttavia, se il delegato era insolvente al tempo in cui assunse il debito in confronto del creditore, il debitore originario non e' liberato. Le medesime disposizioni si osservano quando il creditore ha aderito all'accollo stipulato a suo favore e la liberazione del debitore originario era condizione espressa della stipulazione.",
+    "caratteri": 516
+  },
+  "note": [],
+  "impronta": "sha256:72defa81d2a8c42850d5f3ebe7adb91f9cc01157a538402ad2066d0423e838a8"
+}

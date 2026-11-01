@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2743",
+    "rubrica": "Diminuzione della garanzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2743"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora la cosa data in pegno o sottoposta a ipoteca perisca o si deteriori, anche per caso fortuito, in modo da essere insufficiente alla sicurezza del creditore, questi puo' chiedere che gli sia prestata idonea garanzia su altri beni e, in mancanza, puo' chiedere l'immediato pagamento del suo credito.",
+    "con_marcatori": "Art. 2743. (Diminuzione della garanzia). Qualora la cosa data in pegno o sottoposta a ipoteca perisca o si deteriori, anche per caso fortuito, in modo da essere insufficiente alla sicurezza del creditore, questi puo' chiedere che gli sia prestata idonea garanzia su altri beni e, in mancanza, puo' chiedere l'immediato pagamento del suo credito.",
+    "caratteri": 304
+  },
+  "note": [],
+  "impronta": "sha256:5c50b0e1e632a3eccc37b342768fe041f9ba67a99492b623d46f317862a98f38"
+}

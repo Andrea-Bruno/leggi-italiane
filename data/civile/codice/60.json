@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "60",
+    "rubrica": "Altri casi di dichiarazione di morte presunta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art60"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Oltre che nel caso indicato nell'art. 58, puo' essere dichiarata la morte presunta nei casi seguenti: 1) quando alcuno e' scomparso in operazioni belliche alle quali ha preso parte, sia nei corpi armati, sia al seguito di essi, o alle quali si e' comunque trovato presente, senza che si abbiano piu' notizie di lui, e sono trascorsi due anni dall'entrata in vigore del trattato di pace o, in mancanza di questo, tre anni dalla fine dell'anno in cui sono cessate le ostilita'; 2) quando alcuno e' stato fatto prigioniero dal nemico, o da questo internato o comunque trasportato in paese straniero, e sono trascorsi due anni dall'entrata in vigore del trattato di pace, o, in mancanza di questo, tre anni dalla fine dell'anno in cui sono cessate le ostilita', senza che si siano avute notizie di lui dopo l'entrata in vigore del trattato di pace ovvero dopo la cessazione delle ostilita'; 3) quando alcuno e' scomparso per un infortunio e non si hanno piu' notizie di lui, dopo due anni dal giorno dell'infortunio o, se il giorno non e' conosciuto, dopo due anni dalla fine del mese o, se neppure il mese e' conosciuto, dalla fine dell'anno in cui l'infortunio e' avvenuto.",
+    "con_marcatori": "Art. 60. (Altri casi di dichiarazione di morte presunta). Oltre che nel caso indicato nell'art. 58, puo' essere dichiarata la morte presunta nei casi seguenti: 1) quando alcuno e' scomparso in operazioni belliche alle quali ha preso parte, sia nei corpi armati, sia al seguito di essi, o alle quali si e' comunque trovato presente, senza che si abbiano piu' notizie di lui, e sono trascorsi due anni dall'entrata in vigore del trattato di pace o, in mancanza di questo, tre anni dalla fine dell'anno in cui sono cessate le ostilita'; 2) quando alcuno e' stato fatto prigioniero dal nemico, o da questo internato o comunque trasportato in paese straniero, e sono trascorsi due anni dall'entrata in vigore del trattato di pace, o, in mancanza di questo, tre anni dalla fine dell'anno in cui sono cessate le ostilita', senza che si siano avute notizie di lui dopo l'entrata in vigore del trattato di pace ovvero dopo la cessazione delle ostilita'; 3) quando alcuno e' scomparso per un infortunio e non si hanno piu' notizie di lui, dopo due anni dal giorno dell'infortunio o, se il giorno non e' conosciuto, dopo due anni dalla fine del mese o, se neppure il mese e' conosciuto, dalla fine dell'anno in cui l'infortunio e' avvenuto.",
+    "caratteri": 1171
+  },
+  "note": [],
+  "impronta": "sha256:68cced3adb11d1d68517643dfc90f83201c6265e85af2ef09ee6aa78bba05835"
+}

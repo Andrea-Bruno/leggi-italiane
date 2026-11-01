@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "677",
+    "rubrica": "Omissione di lavori in edifici o costruzioni che minacciano rovina",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art677"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario di un edificio o di una costruzione che minacci rovina ovvero chi e' per lui obbligato alla conservazione o alla vigilanza dell'edificio o della costruzione, il quale omette di provvedere ai lavori necessari per rimuovere il pericolo, e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila. La stessa sanzione si applica a chi, avendone l'obbligo, omette di rimuovere il pericolo cagionato dall'avvenuta rovina di un edificio o di una costruzione. Se dai fatti preveduti dalle disposizioni precedenti deriva pericolo per le persone, la pena e' dell'arresto fino a sei mesi o dell'ammenda non inferiore a lire tremila.",
+    "con_marcatori": "Art. 677. (Omissione di lavori in edifici o costruzioni che minacciano rovina) Il proprietario di un edificio o di una costruzione che minacci rovina ovvero chi e' per lui obbligato alla conservazione o alla vigilanza dell'edificio o della costruzione, il quale omette di provvedere ai lavori necessari per rimuovere il pericolo, ((e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila)). ((La stessa sanzione si applica a chi)), avendone l'obbligo, omette di rimuovere il pericolo cagionato dall'avvenuta rovina di un edificio o di una costruzione. Se dai fatti preveduti dalle disposizioni precedenti deriva pericolo per le persone, la pena e' dell'arresto fino a sei mesi o dell'ammenda non inferiore a lire tremila.",
+    "caratteri": 678
+  },
+  "note": [],
+  "impronta": "sha256:50910ab5028e8faf0fd72cfa42bba59641b951cbc9882eda35a27a28d501c538"
+}

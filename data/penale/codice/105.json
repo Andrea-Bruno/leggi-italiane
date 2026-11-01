@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "105",
+    "rubrica": "Professionalita' nel reato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art105"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi, trovandosi nelle condizioni richieste per la dichiarazione di abitualita', riporta condanna per un altro reato, e' dichiarato delinquente o contravventore professionale, qualora, avuto riguardo alla natura dei reati, alla condotta e al genere di vita del colpevole e alle altre circostanze indicate nel capoverso dell'articolo 133, debba ritenersi che egli viva abitualmente, anche in parte soltanto, dei proventi del reato.",
+    "con_marcatori": "Art. 105. (Professionalita' nel reato) Chi, trovandosi nelle condizioni richieste per la dichiarazione di abitualita', riporta condanna per un altro reato, e' dichiarato delinquente o contravventore professionale, qualora, avuto riguardo alla natura dei reati, alla condotta e al genere di vita del colpevole e alle altre circostanze indicate nel capoverso dell'articolo 133, debba ritenersi che egli viva abitualmente, anche in parte soltanto, dei proventi del reato.",
+    "caratteri": 429
+  },
+  "note": [],
+  "impronta": "sha256:612088df1b00bfbc6c53a4e5a2320d20fbab71819dab57bdc65b65f0080b6164"
+}

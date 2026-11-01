@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1095",
+    "rubrica": "Usucapione della servitu' attiva degli scoli",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1095"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella servitu' attiva degli scoli il termine per l'usucapione comincia a decorrere dal giorno in cui il proprietario del fondo dominante ha fatto sul fondo servente opere visibili e permanenti destinate a raccogliere e condurre i detti scoli a vantaggio del proprio fondo. Quando sul fondo servente e' aperto un cavo destinato a raccogliere e condurre gli scoli, il regolare spurgo e la manutenzione delle sponde fanno presumere che il cavo sia opera del proprietario del fondo dominante, purche' non vi sia titolo, segno o prova in contrario. Si reputa segno contrario l'esistenza sul cavo di opere costruite o mantenute dal proprietario del fondo in cui il cavo e' aperto.",
+    "con_marcatori": "Art. 1095. (Usucapione della servitu' attiva degli scoli). Nella servitu' attiva degli scoli il termine per l'usucapione comincia a decorrere dal giorno in cui il proprietario del fondo dominante ha fatto sul fondo servente opere visibili e permanenti destinate a raccogliere e condurre i detti scoli a vantaggio del proprio fondo. Quando sul fondo servente e' aperto un cavo destinato a raccogliere e condurre gli scoli, il regolare spurgo e la manutenzione delle sponde fanno presumere che il cavo sia opera del proprietario del fondo dominante, purche' non vi sia titolo, segno o prova in contrario. Si reputa segno contrario l'esistenza sul cavo di opere costruite o mantenute dal proprietario del fondo in cui il cavo e' aperto.",
+    "caratteri": 674
+  },
+  "note": [],
+  "impronta": "sha256:eb6fee030333bb9391cc0fc97a3a5131eafe82060df3e96011bd374c592596a0"
+}

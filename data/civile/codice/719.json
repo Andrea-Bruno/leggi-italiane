@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "719",
+    "rubrica": "Vendita dei beni per il pagamento dei debiti ereditari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art719"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se i coeredi aventi diritto a piu' della meta' dell'asse concordano nella necessita' della vendita per il pagamento dei debiti e pesi ereditari, si procede alla vendita all'incanto dei beni mobili e, se occorre, di quei beni immobili la cui alienazione rechi minor pregiudizio agli interessi dei condividenti. Quando concorre il consenso di tutte le parti, la vendita puo' seguire tra i soli condividenti e senza pubblicita', salvo che vi sia opposizione dei legatari o dei creditori.",
+    "con_marcatori": "Art. 719. (Vendita dei beni per il pagamento dei debiti ereditari). Se i coeredi aventi diritto a piu' della meta' dell'asse concordano nella necessita' della vendita per il pagamento dei debiti e pesi ereditari, si procede alla vendita all'incanto dei beni mobili e, se occorre, di quei beni immobili la cui alienazione rechi minor pregiudizio agli interessi dei condividenti. Quando concorre il consenso di tutte le parti, la vendita puo' seguire tra i soli condividenti e senza pubblicita', salvo che vi sia opposizione dei legatari o dei creditori.",
+    "caratteri": 484
+  },
+  "note": [],
+  "impronta": "sha256:693172bb96b2161dd87428632fa09c84262b5b22ce501f070bea60aa21413f97"
+}

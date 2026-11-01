@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "232",
+    "rubrica": "Minori o infermi di mente in stato di liberta' vigilata",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art232"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La persona di eta' minore o in stato d'infermita' psichica non puo' essere posta in liberta' vigilata, se non quando sia possibile affidarla ai genitori, o a coloro che abbiano obbligo di provvedere alla sua educazione o assistenza, ovvero a istituti di assistenza sociale. Qualora tale affidamento non sia possibile o non sia ritenuto opportuno, e' ordinato, o mantenuto, secondo i casi, il ricovero nel riformatorio, o nella casa di cura e di custodia. Se, durante la liberta' vigilata, il minore non da' prova di ravvedimento o la persona in stato d'infermita' psichica si rivela di nuovo pericolosa, alla liberta' vigilata e' sostituito, rispettivamente, il ricovero in un riformatorio o il ricovero in una casa di cura e di custodia.",
+    "con_marcatori": "Art. 232. (Minori o infermi di mente in stato di liberta' vigilata) La persona di eta' minore o in stato d'infermita' psichica non puo' essere posta in liberta' vigilata, se non quando sia possibile affidarla ai genitori, o a coloro che abbiano obbligo di provvedere alla sua educazione o assistenza, ovvero a istituti di assistenza sociale. Qualora tale affidamento non sia possibile o non sia ritenuto opportuno, e' ordinato, o mantenuto, secondo i casi, il ricovero nel riformatorio, o nella casa di cura e di custodia. Se, durante la liberta' vigilata, il minore non da' prova di ravvedimento o la persona in stato d'infermita' psichica si rivela di nuovo pericolosa, alla liberta' vigilata e' sostituito, rispettivamente, il ricovero in un riformatorio o il ricovero in una casa di cura e di custodia.",
+    "caratteri": 738
+  },
+  "note": [],
+  "impronta": "sha256:b8a563da432cb9e94cd8e1b006da3ed80415589e11ab4b3c0d59dd153f2c6f9a"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "451",
+    "rubrica": "Omissione colposa di cautele o difese contro disastri o infortuni sul lavoro",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art451"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, per colpa, omette di collocare, ovvero rimuove o rende inservibili apparecchi o altri mezzi destinati alla estinzione di un incendio, o al salvataggio o al soccorso contro disastri o infortuni sul lavoro, e' punito con la reclusione fino a un anno o con la multa da lire mille a cinquemila.",
+    "con_marcatori": "Art. 451. (Omissione colposa di cautele o difese contro disastri o infortuni sul lavoro) Chiunque, per colpa, omette di collocare, ovvero rimuove o rende inservibili apparecchi o altri mezzi destinati alla estinzione di un incendio, o al salvataggio o al soccorso contro disastri o infortuni sul lavoro, e' punito con la reclusione fino a un anno o con la multa da lire mille a cinquemila.",
+    "caratteri": 300
+  },
+  "note": [],
+  "impronta": "sha256:8c1d3f9a5f93b97fef3be23a46fa459944e4c769430e5c5062afab938938a61b"
+}

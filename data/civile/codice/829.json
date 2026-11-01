@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "829",
+    "rubrica": "Passaggio di beni dal demanio al patrimonio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art829"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il passaggio dei beni dal demanio pubblico al patrimonio dello Stato dev'essere dichiarato dall'autorita' amministrativa. Dell'atto deve essere dato annunzio nella Gazzetta Ufficiale del Regno. Per quanto riguarda i beni delle provincie e dei comuni, il provvedimento che dichiara il passaggio al patrimonio dev'essere pubblicato nei modi stabiliti per i regolamenti comunali e provinciali.",
+    "con_marcatori": "Art. 829. (Passaggio di beni dal demanio al patrimonio). Il passaggio dei beni dal demanio pubblico al patrimonio dello Stato dev'essere dichiarato dall'autorita' amministrativa. Dell'atto deve essere dato annunzio nella Gazzetta Ufficiale del Regno. Per quanto riguarda i beni delle provincie e dei comuni, il provvedimento che dichiara il passaggio al patrimonio dev'essere pubblicato nei modi stabiliti per i regolamenti comunali e provinciali.",
+    "caratteri": 390
+  },
+  "note": [],
+  "impronta": "sha256:7f009d9de5112ad0e9fec127eb4ddc4d774d5824f75bc4424dd892e47dce957d"
+}

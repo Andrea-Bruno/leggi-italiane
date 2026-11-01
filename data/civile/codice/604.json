@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "604",
+    "rubrica": "Testamento segreto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art604"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento segreto puo' essere scritto dal testatore o da un terzo. Se e' scritto dal testatore, deve essere sottoscritto da lui alla fine delle disposizioni; se e' scritto in tutto o in parte da altri, o se e' scritto con mezzi meccanici, deve portare la sottoscrizione del testatore anche in ciascun mezzo foglio, unito o separato. Il testatore che sa leggere ma non sa scrivere, o che non ha potuto apporre la sottoscrizione quando faceva scrivere le proprie disposizioni, deve altresi' dichiarare al notaio, che riceve il testamento, di averlo letto ed aggiungere la causa che gli ha impedito di sottoscriverlo: di cio' si fa menzione nell'atto di ricevimento. Chi non sa o non puo' leggere non puo' fare testamento segreto.",
+    "con_marcatori": "Art. 604. (Testamento segreto). Il testamento segreto puo' essere scritto dal testatore o da un terzo. Se e' scritto dal testatore, deve essere sottoscritto da lui alla fine delle disposizioni; se e' scritto in tutto o in parte da altri, o se e' scritto con mezzi meccanici, deve portare la sottoscrizione del testatore anche in ciascun mezzo foglio, unito o separato. Il testatore che sa leggere ma non sa scrivere, o che non ha potuto apporre la sottoscrizione quando faceva scrivere le proprie disposizioni, deve altresi' dichiarare al notaio, che riceve il testamento, di averlo letto ed aggiungere la causa che gli ha impedito di sottoscriverlo: di cio' si fa menzione nell'atto di ricevimento. Chi non sa o non puo' leggere non puo' fare testamento segreto.",
+    "caratteri": 731
+  },
+  "note": [],
+  "impronta": "sha256:4402ac1ccea76eed6068a9fbe931029e971731804e0fad82dec58ae2ad291fa6"
+}

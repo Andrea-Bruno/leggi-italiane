@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "237",
+    "rubrica": "Cauzione di buona condotta",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art237"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La cauzione di buona condotta e' data mediante il deposito, presso la Cassa delle ammende, di una somma non inferiore a lire duecentomila, ne' superiore a lire quattro milioni. In luogo del deposito, e' ammessa la prestazione di una garanzia mediante ipoteca o anche mediante fideiussione solidale. La durata della misura di sicurezza non puo' essere inferiore a un anno, ne' superiore a cinque, e decorre dal giorno in cui la cauzione fu prestata.",
+    "con_marcatori": "Art. 237. (( (Cauzione di buona condotta).)) ((La cauzione di buona condotta e' data mediante il deposito, presso la Cassa delle ammende, di una somma non inferiore a lire duecentomila, ne' superiore a lire quattro milioni. In luogo del deposito, e' ammessa la prestazione di una garanzia mediante ipoteca o anche mediante fideiussione solidale. La durata della misura di sicurezza non puo' essere inferiore a un anno, ne' superiore a cinque, e decorre dal giorno in cui la cauzione fu prestata)).",
+    "caratteri": 448
+  },
+  "note": [],
+  "impronta": "sha256:2d325e7d47dde294ea12597709d7020b27d2591b2c6c80f73872b90f995e101a"
+}

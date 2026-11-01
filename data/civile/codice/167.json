@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "167",
+    "rubrica": "Costituzione del fondo patrimoniale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art167"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascuno o ambedue i coniugi, per atto pubblico, o un terzo, anche per testamento, possono costituire un fondo patrimoniale, destinando determinati beni, immobili o mobili iscritti in pubblici registri, o titoli di credito, a far fronte ai bisogni della famiglia. La costituzione del fondo patrimoniale per atto tra vivi, effettuata dal terzo, si perfeziona con l'accettazione dei coniugi. L'accettazione puo' essere fatta con atto pubblico posteriore. La costituzione puo' essere fatta anche durante il matrimonio. I titoli di credito devono essere vincolati rendendoli nominativi con annotazione del vincolo o in altro modo idoneo.",
+    "con_marcatori": "Art. 167. ((Costituzione del fondo patrimoniale.)) ((Ciascuno o ambedue i coniugi, per atto pubblico, o un terzo, anche per testamento, possono costituire un fondo patrimoniale, destinando determinati beni, immobili o mobili iscritti in pubblici registri, o titoli di credito, a far fronte ai bisogni della famiglia. La costituzione del fondo patrimoniale per atto tra vivi, effettuata dal terzo, si perfeziona con l'accettazione dei coniugi. L'accettazione puo' essere fatta con atto pubblico posteriore. La costituzione puo' essere fatta anche durante il matrimonio. I titoli di credito devono essere vincolati rendendoli nominativi con annotazione del vincolo o in altro modo idoneo)).",
+    "caratteri": 633
+  },
+  "note": [],
+  "impronta": "sha256:a6a8a3a75bb3588f4a83d79c36c6520a691e1f4872616c1ae207061436a58684"
+}

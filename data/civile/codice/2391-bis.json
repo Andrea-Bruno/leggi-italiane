@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2391-bis",
+    "rubrica": "Operazioni con parti correlate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2391-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli organi di amministrazione delle societa' con azioni quotate in mercati regolamentati adottano, secondo principi generali indicati dalla Consob, regole che assicurano la trasparenza e la correttezza sostanziale e procedurale delle operazioni con parti correlate e li rendono noti nella relazione sulla gestione; a tali fini possono farsi assistere da esperti indipendenti, in ragione della natura, del valore o delle caratteristiche dell'operazione. I principi e le regole previsti dal primo comma si applicano alle operazioni realizzate direttamente o per il tramite di societa' controllate e disciplinano le operazioni stesse in termini di competenza decisionale, di motivazione e di documentazione. L'organo di controllo vigila sull'osservanza delle regole adottate ai sensi del primo comma e ne riferisce nella relazione all'assemblea. La Consob, nel definire i principi indicati nel primo comma, individua, in conformita' all'articolo 9-quater della direttiva 2007/36/CE, almeno: a) le soglie di rilevanza delle operazioni con parti correlate tenendo conto di indici quantitativi legati al controvalore dell'operazione o al suo impatto su uno o piu' parametri dimensionali della societa'. La Consob puo' individuare anche criteri di rilevanza che tengano conto della natura dell'operazione e della tipologia di parte correlata; b) regole procedurali e di trasparenza proporzionate rispetto alla rilevanza e alle caratteristiche delle operazioni, alle dimensioni della societa' ovvero alla tipologia di societa', nonche' i casi di esenzione dall'applicazione, in tutto o in parte, delle predette regole . In aggiunta agli altri casi di esenzione, la Consob prevede in ogni caso che le procedure della societa' possano escludere dall'applicazione delle regole di cui al periodo precedente le operazioni con parti correlate individuate dalla stessa Consob, in base alle soglie di rilevanza di cui alla lettera a), a condizione che per queste operazioni, realizzate nel corso dell'esercizio, siano indicati nella nota integrativa del bilancio d'esercizio e del bilancio consolidato, se redatto, almeno il numero di operazioni realizzate e l'importo complessivo e medio delle stesse per tipologia di operazione con riferimento a ciascuna delle parti correlate con cui le operazioni sono state realizzate; c) i casi in cui gli amministratori, fermo restando quanto previsto dall'articolo 2391, e gli azionisti coinvolti nell'operazione sono tenuti ad astenersi dalla votazione sulla stessa ovvero misure di salvaguardia a tutela dell'interesse della societa' che consentono ai predetti azionisti di prendere parte alla votazione sull'operazione.",
+    "con_marcatori": "Art. 2391-bis. (Operazioni con parti correlate). Gli organi di amministrazione delle societa' con azioni quotate in mercati regolamentati adottano, secondo principi generali indicati dalla Consob, regole che assicurano la trasparenza e la correttezza sostanziale e procedurale delle operazioni con parti correlate e li rendono noti nella relazione sulla gestione; a tali fini possono farsi assistere da esperti indipendenti, in ragione della natura, del valore o delle caratteristiche dell'operazione. I principi e le regole previsti dal primo comma si applicano alle operazioni realizzate direttamente o per il tramite di societa' controllate e disciplinano le operazioni stesse in termini di competenza decisionale, di motivazione e di documentazione. L'organo di controllo vigila sull'osservanza delle regole adottate ai sensi del primo comma e ne riferisce nella relazione all'assemblea. La Consob, nel definire i principi indicati nel primo comma, individua, in conformita' all'articolo 9-quater della direttiva 2007/36/CE, almeno: a) le soglie di rilevanza delle operazioni con parti correlate tenendo conto di indici quantitativi legati al controvalore dell'operazione o al suo impatto su uno o piu' parametri dimensionali della societa'. La Consob puo' individuare anche criteri di rilevanza che tengano conto della natura dell'operazione e della tipologia di parte correlata; b) regole procedurali e di trasparenza proporzionate rispetto alla rilevanza e alle caratteristiche delle operazioni, alle dimensioni della societa' ovvero alla tipologia di societa', nonche' i casi di esenzione dall'applicazione, in tutto o in parte, delle predette regole ((. In aggiunta agli altri casi di esenzione, la Consob prevede in ogni caso che le procedure della societa' possano escludere dall'applicazione delle regole di cui al periodo precedente le operazioni con parti correlate individuate dalla stessa Consob, in base alle soglie di rilevanza di cui alla lettera a), a condizione che per queste operazioni, realizzate nel corso dell'esercizio, siano indicati nella nota integrativa del bilancio d'esercizio e del bilancio consolidato, se redatto, almeno il numero di operazioni realizzate e l'importo complessivo e medio delle stesse per tipologia di operazione con riferimento a ciascuna delle parti correlate con cui le operazioni sono state realizzate)); c) i casi in cui gli amministratori, fermo restando quanto previsto dall'articolo 2391, e gli azionisti coinvolti nell'operazione sono tenuti ad astenersi dalla votazione sulla stessa ovvero misure di salvaguardia a tutela dell'interesse della societa' che consentono ai predetti azionisti di prendere parte alla votazione sull'operazione.",
+    "caratteri": 2647
+  },
+  "note": [],
+  "impronta": "sha256:6f12ead84181215cacb0e9b5f56c991480e14ab4c09118a9e5e6ec7980f09041"
+}

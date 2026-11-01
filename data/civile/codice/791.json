@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "791",
+    "rubrica": "Condizione di riversibilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art791"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il donante puo' stipulare la riversibilita' delle cose donate, sia per il caso di premorienza del solo donatario, sia per il caso di premorienza del donatario e dei suoi discendenti. Nel caso in cui la donazione e' fatta con generica indicazione della riversibilita', questa riguarda la premorienza, non solo del donatario, ma anche dei suoi discendenti. Non si fa luogo a riversibilita' che a beneficio del solo donante. Il patto a favore di altri si considera non apposto.",
+    "con_marcatori": "Art. 791. (Condizione di riversibilita'). Il donante puo' stipulare la riversibilita' delle cose donate, sia per il caso di premorienza del solo donatario, sia per il caso di premorienza del donatario e dei suoi discendenti. Nel caso in cui la donazione e' fatta con generica indicazione della riversibilita', questa riguarda la premorienza, non solo del donatario, ma anche dei suoi discendenti. Non si fa luogo a riversibilita' che a beneficio del solo donante. Il patto a favore di altri si considera non apposto.",
+    "caratteri": 474
+  },
+  "note": [],
+  "impronta": "sha256:a334f8e1dace1c48c7896bdca13909433bc0ebc5f8d262135103c6704ab6fee1"
+}

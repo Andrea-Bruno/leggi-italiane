@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "535",
+    "rubrica": "Possessore di beni ereditari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art535"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni in materia di possesso si applicano anche al possessore di beni ereditari, per quanto riguarda la restituzione dei frutti, le spese, i miglioramenti e le addizioni. Il possessore in buona fede, che ha alienato pure in buona fede una cosa dell'eredita', e' solo obbligato a restituire all'erede il prezzo o il corrispettivo ricevuto. Se il prezzo o il corrispettivo e' ancora dovuto, l'erede subentra nel diritto di conseguirlo. E' possessore in buona fede colui che ha acquistato il possesso dei beni ereditari, ritenendo per errore di essere erede. La buona fede non giova se l'errore dipende da colpa grave.",
+    "con_marcatori": "Art. 535. (Possessore di beni ereditari). Le disposizioni in materia di possesso si applicano anche al possessore di beni ereditari, per quanto riguarda la restituzione dei frutti, le spese, i miglioramenti e le addizioni. Il possessore in buona fede, che ha alienato pure in buona fede una cosa dell'eredita', e' solo obbligato a restituire all'erede il prezzo o il corrispettivo ricevuto. Se il prezzo o il corrispettivo e' ancora dovuto, l'erede subentra nel diritto di conseguirlo. E' possessore in buona fede colui che ha acquistato il possesso dei beni ereditari, ritenendo per errore di essere erede. La buona fede non giova se l'errore dipende da colpa grave.",
+    "caratteri": 625
+  },
+  "note": [],
+  "impronta": "sha256:bdbbe5620e03e5e988041d9ea881e01f4089a2b6ff8f561ad4f12543185f1568"
+}

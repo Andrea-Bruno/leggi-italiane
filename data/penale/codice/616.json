@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "616",
+    "rubrica": "Violazione, sottrazione e soppressione di corrispondenza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art616"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque prende cognizione del contenuto di una corrispondenza chiusa, a lui non diretta, ovvero sottrae o distrae, al fine di prenderne o di farne da altri prendere cognizione, una corrispondenza chiusa o aperta, a lui non diretta, ovvero, in tutto o in parte, la distrugge o sopprime, e' punito, se il fatto non e' preveduto come reato da altra disposizione di legge, con la reclusione fino a un anno o con la multa da lire trecento a cinquemila. Se il colpevole, senza giusta causa, rivela, in tutto o in parte, il contenuto della corrispondenza, e' punito, se dal fatto deriva nocumento ed il fatto medesimo non costituisce un piu' grave reato, con la reclusione fino a tre anni. Il delitto e' punibile a querela della persona offesa. Agli effetti delle disposizioni di questa sezione, per \"corrispondenza\" si intende quella epistolare, telegrafica, telefonica, informatica o telematica ovvero effettuata con ogni altra forma di comunicazione a distanza.",
+    "con_marcatori": "Art. 616. (Violazione, sottrazione e soppressione di corrispondenza) Chiunque prende cognizione del contenuto di una corrispondenza chiusa, a lui non diretta, ovvero sottrae o distrae, al fine di prenderne o di farne da altri prendere cognizione, una corrispondenza chiusa o aperta, a lui non diretta, ovvero, in tutto o in parte, la distrugge o sopprime, e' punito, se il fatto non e' preveduto come reato da altra disposizione di legge, con la reclusione fino a un anno o con la multa da lire trecento a cinquemila. Se il colpevole, senza giusta causa, rivela, in tutto o in parte, il contenuto della corrispondenza, e' punito, se dal fatto deriva nocumento ed il fatto medesimo non costituisce un piu' grave reato, con la reclusione fino a tre anni. Il delitto e' punibile a querela della persona offesa. ((Agli effetti delle disposizioni di questa sezione, per \"corrispondenza\" si intende quella epistolare, telegrafica, telefonica, informatica o telematica ovvero effettuata con ogni altra forma di comunicazione a distanza)).",
+    "caratteri": 958
+  },
+  "note": [],
+  "impronta": "sha256:fd40ed203297bf682d53a3940aecc80f27382e03074cf08178ebbacea4cb10de"
+}

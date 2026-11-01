@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1339",
+    "rubrica": "Inserzione automatica di clausole",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1339"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le clausole, i prezzi di beni o di servizi, imposti dalla legge o da norme corporative, sono di diritto inseriti nel contratto, anche in sostituzione delle clausole difformi apposte dalle parti.",
+    "con_marcatori": "Art. 1339. (Inserzione automatica di clausole). Le clausole, i prezzi di beni o di servizi, imposti dalla legge o da norme corporative, sono di diritto inseriti nel contratto, anche in sostituzione delle clausole difformi apposte dalle parti.",
+    "caratteri": 194
+  },
+  "note": [],
+  "impronta": "sha256:2c2b348f1f42e723ddf5917d589ba54754290addd775a92bd869e6e71f76f8d5"
+}

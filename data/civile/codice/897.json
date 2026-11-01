@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "897",
+    "rubrica": "Comunione di fossi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art897"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni fosso interposto tra due fondi si presume comune. Si presume che il fosso appartenga al proprietario che se ne serve per gli scoli delle sue terre, o al proprietario del fondo dalla cui parte e' il getto della terra o lo spurgo ammucchiatovi da almeno tre anni. Se uno o piu' di tali segni sono da una parte e uno o piu' dalla parte opposta, il fosso si presume comune.",
+    "con_marcatori": "Art. 897. (Comunione di fossi). Ogni fosso interposto tra due fondi si presume comune. Si presume che il fosso appartenga al proprietario che se ne serve per gli scoli delle sue terre, o al proprietario del fondo dalla cui parte e' il getto della terra o lo spurgo ammucchiatovi da almeno tre anni. Se uno o piu' di tali segni sono da una parte e uno o piu' dalla parte opposta, il fosso si presume comune.",
+    "caratteri": 374
+  },
+  "note": [],
+  "impronta": "sha256:2579be2a7888f039604c77ac13eb4cc67c1b49f74f3b53a49c5c63fb39f9d731"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1107",
+    "rubrica": "Impugnazione del regolamento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1107"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascuno dei partecipanti dissenzienti puo' impugnare davanti all'autorita' giudiziaria il regolamento della comunione entro trenta giorni dalla deliberazione che lo ha approvato. Per gli assenti il termine decorre dal giorno in cui e' stata loro comunicata la deliberazione. L'autorita' giudiziaria decide con unica sentenza sulle opposizioni proposte. Decorso il termine indicato dal comma precedente senza che il regolamento sia stato impugnato, questo ha effetto anche per gli eredi e gli aventi causa dai singoli partecipanti.",
+    "con_marcatori": "Art. 1107. (Impugnazione del regolamento). Ciascuno dei partecipanti dissenzienti puo' impugnare davanti all'autorita' giudiziaria il regolamento della comunione entro trenta giorni dalla deliberazione che lo ha approvato. Per gli assenti il termine decorre dal giorno in cui e' stata loro comunicata la deliberazione. L'autorita' giudiziaria decide con unica sentenza sulle opposizioni proposte. Decorso il termine indicato dal comma precedente senza che il regolamento sia stato impugnato, questo ha effetto anche per gli eredi e gli aventi causa dai singoli partecipanti.",
+    "caratteri": 531
+  },
+  "note": [],
+  "impronta": "sha256:0671fafe99dec703d401a9b72d7990ca2183c98967aafeab895778e5869f4aa5"
+}

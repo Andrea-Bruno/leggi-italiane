@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1233",
+    "rubrica": "Riserva delle garanzie nelle obbligazioni solidali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1233"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la novazione si effettua tra il creditore e uno dei debitori in solido con effetto liberatorio per tutti, i privilegi, il pegno e le ipoteche del credito anteriore possono essere riservati soltanto sui beni del debitore che fa la novazione.",
+    "con_marcatori": "Art. 1233. (Riserva delle garanzie nelle obbligazioni solidali). Se la novazione si effettua tra il creditore e uno dei debitori in solido con effetto liberatorio per tutti, i privilegi, il pegno e le ipoteche del credito anteriore possono essere riservati soltanto sui beni del debitore che fa la novazione.",
+    "caratteri": 243
+  },
+  "note": [],
+  "impronta": "sha256:a9b7bffdeea44c7aa229414e85105428ed6d2043e0f5d070bf1d1a9557f81994"
+}

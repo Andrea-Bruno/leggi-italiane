@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "87",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art87"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Parentela, affinita', adozione .... Non possono contrarre matrimonio fra loro: 1) gli ascendenti e i discendenti in linea retta ...; 2) i fratelli e le sorelle germani, consanguinei o uterini; 3) lo zio e la nipote, la zia e il nipote; 4) gli affini in linea retta; il divieto sussiste anche nel caso in cui l'affinita' deriva da matrimonio dichiarato nullo o sciolto o per il quale e' stata pronunziata la cessazione degli effetti civili; 5) gli affini in linea collaterale in secondo grado; 6) l'adottante, l'adottato e i suoi discendenti; 7) i figli adottivi della stessa persona; 8) l'adottato e i figli dell'adottante; 9) l'adottato e il coniuge dell'adottante, l'adottante e il coniuge dell'adottato. COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154. COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154. Il tribunale, su ricorso degli interessati, con decreto emesso in camera di consiglio, sentito il pubblico ministero, puo' autorizzare il matrimonio nei casi indicati dai numeri 3 e 5, anche se si tratti di affiliazione .... L'autorizzazione puo' essere accordata anche nel caso indicato dal numero 4, quando l'affinita' deriva da matrimonio dichiarato nullo. Il decreto e' notificato agli interessati e al pubblico ministero. Si applicano le disposizioni dei commi quarto, quinto e sesto dell'articolo 84.",
+    "con_marcatori": "Art. 87. Parentela, affinita', adozione ((...)). Non possono contrarre matrimonio fra loro: 1) gli ascendenti e i discendenti in linea retta ((...)); 2) i fratelli e le sorelle germani, consanguinei o uterini; 3) lo zio e la nipote, la zia e il nipote; 4) gli affini in linea retta; il divieto sussiste anche nel caso in cui l'affinita' deriva da matrimonio dichiarato nullo o sciolto o per il quale e' stata pronunziata la cessazione degli effetti civili; 5) gli affini in linea collaterale in secondo grado; 6) l'adottante, l'adottato e i suoi discendenti; 7) i figli adottivi della stessa persona; 8) l'adottato e i figli dell'adottante; 9) l'adottato e il coniuge dell'adottante, l'adottante e il coniuge dell'adottato. ((COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154)). ((COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154)). Il tribunale, su ricorso degli interessati, con decreto emesso in camera di consiglio, sentito il pubblico ministero, puo' autorizzare il matrimonio nei casi indicati dai numeri 3 e 5, anche se si tratti di affiliazione ((...)). L'autorizzazione puo' essere accordata anche nel caso indicato dal numero 4, quando l'affinita' deriva da matrimonio dichiarato nullo. Il decreto e' notificato agli interessati e al pubblico ministero. Si applicano le disposizioni dei commi quarto, quinto e sesto dell'articolo 84.",
+    "caratteri": 1317
+  },
+  "note": [],
+  "impronta": "sha256:0475745b1003072be20768c8b64223680f0362f711e1be31714b89c0a8f22264"
+}

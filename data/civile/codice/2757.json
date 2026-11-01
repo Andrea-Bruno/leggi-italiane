@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2757",
+    "rubrica": "Crediti per somministrazioni e lavori occorrenti per la produzione agricola",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2757"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti per le somministrazioni di sementi, di materie fertilizzanti e antiparassitarie e di acqua per irrigazione, come pure i crediti per lavori di coltivazione e di raccolta dell'annata agricola hanno privilegio sui frutti, alla cui produzione abbiano concorso. Il privilegio si puo' esercitare finche' i frutti si trovano nel fondo o nelle sue dipendenze. Si applica la disposizione del secondo comma dell'articolo 2756.",
+    "con_marcatori": "Art. 2757. (Crediti per somministrazioni e lavori occorrenti per la produzione agricola). I crediti per le somministrazioni di sementi, di materie fertilizzanti e antiparassitarie e di acqua per irrigazione, come pure i crediti per lavori di coltivazione e di raccolta dell'annata agricola hanno privilegio sui frutti, alla cui produzione abbiano concorso. Il privilegio si puo' esercitare finche' i frutti si trovano nel fondo o nelle sue dipendenze. Si applica la disposizione del secondo comma dell'articolo 2756.",
+    "caratteri": 426
+  },
+  "note": [],
+  "impronta": "sha256:3d04cef793141a0e7ce6b91887f2f7e5670f7ddc4a6c41a311c6558d22ae48c7"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2729",
+    "rubrica": "Presunzioni semplici",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2729"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le presunzioni non stabilite dalla legge sono lasciate alla prudenza del giudice, il quale non deve ammettere che presunzioni gravi, precise e concordanti. Le presunzioni non si possono ammettere nei casi in cui la legge esclude la prova per testimoni.",
+    "con_marcatori": "Art. 2729. (Presunzioni semplici). Le presunzioni non stabilite dalla legge sono lasciate alla prudenza del giudice, il quale non deve ammettere che presunzioni gravi, precise e concordanti. Le presunzioni non si possono ammettere nei casi in cui la legge esclude la prova per testimoni.",
+    "caratteri": 252
+  },
+  "note": [],
+  "impronta": "sha256:a0c64d329f754d4f00efb3f8be6c464165662173d8a93372f961bf23e12cb963"
+}

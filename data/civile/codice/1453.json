@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1453",
+    "rubrica": "Risolubilita' del contratto per inadempimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1453"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei contratti con prestazioni corrispettive, quando uno dei contraenti non adempie le sue obbligazioni, l'altro puo' a sua scelta chiedere l'adempimento o la risoluzione del contratto, salvo, in ogni caso, il risarcimento del danno. La risoluzione puo' essere domandata anche quando il giudizio e' stato promosso per ottenere l'adempimento; ma non puo' piu' chiedersi l'adempimento quando e' stata domandata la risoluzione. Dalla data della domanda di risoluzione l'inadempiente non puo' piu' adempiere la propria obbligazione.",
+    "con_marcatori": "Art. 1453. (Risolubilita' del contratto per inadempimento). Nei contratti con prestazioni corrispettive, quando uno dei contraenti non adempie le sue obbligazioni, l'altro puo' a sua scelta chiedere l'adempimento o la risoluzione del contratto, salvo, in ogni caso, il risarcimento del danno. La risoluzione puo' essere domandata anche quando il giudizio e' stato promosso per ottenere l'adempimento; ma non puo' piu' chiedersi l'adempimento quando e' stata domandata la risoluzione. Dalla data della domanda di risoluzione l'inadempiente non puo' piu' adempiere la propria obbligazione.",
+    "caratteri": 527
+  },
+  "note": [],
+  "impronta": "sha256:462decd203922ce5def40b38d3fa7e6edf85cbac997747a7baa1e81130f85f36"
+}

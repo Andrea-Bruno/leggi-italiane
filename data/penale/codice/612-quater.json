@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "612-quater",
+    "rubrica": "Illecita diffusione di contenuti generati o alterati con sistemi di intelligenza artificiale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art612-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque cagiona un danno ingiusto ad una persona, cedendo, pubblicando o altrimenti diffondendo, senza il suo consenso, immagini, video o voci falsificati o alterati mediante l'impiego di sistemi di intelligenza artificiale e idonei a indurre in inganno sulla loro genuinita', e' punito con la reclusione da uno a cinque anni. Il delitto e' punibile a querela della persona offesa. Si procede tuttavia d'ufficio se il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio ovvero se e' commesso nei confronti di persona incapace, per eta' o per infermita', o di una pubblica autorita' a causa delle funzioni esercitate.",
+    "con_marcatori": "Art. 612-quater. (( (Illecita diffusione di contenuti generati o alterati con sistemi di intelligenza artificiale). )) ((Chiunque cagiona un danno ingiusto ad una persona, cedendo, pubblicando o altrimenti diffondendo, senza il suo consenso, immagini, video o voci falsificati o alterati mediante l'impiego di sistemi di intelligenza artificiale e idonei a indurre in inganno sulla loro genuinita', e' punito con la reclusione da uno a cinque anni. Il delitto e' punibile a querela della persona offesa. Si procede tuttavia d'ufficio se il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio ovvero se e' commesso nei confronti di persona incapace, per eta' o per infermita', o di una pubblica autorita' a causa delle funzioni esercitate)).",
+    "caratteri": 642
+  },
+  "note": [],
+  "impronta": "sha256:229961353455a84fb40ba295822d207bd4d295333c53151202e39d90cefbb0ab"
+}

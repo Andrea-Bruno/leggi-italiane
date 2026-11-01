@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2901",
+    "rubrica": "Condizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2901"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore, anche se il credito e' soggetto a condizione o a termine, puo' domandare che siano dichiarati inefficaci nei suoi confronti gli atti di disposizione del patrimonio con i quali il debitore rechi pregiudizio alle sue ragioni, quando concorrono le seguenti condizioni: 1) che il debitore conoscesse il pregiudizio che l'atto arrecava alle ragioni del creditore o, trattandosi di atto anteriore al sorgere del credito, l'atto fosse dolosamente preordinato al fine di pregiudicarne il soddisfacimento; 2) che, inoltre, trattandosi di atto a titolo oneroso, il terzo fosse consapevole del pregiudizio e, nel caso di atto anteriore al sorgere del credito, fosse partecipe della dolosa preordinazione. Agli effetti della presente norma, le prestazioni di garanzia, anche per debiti altrui, sono considerate atti a titolo oneroso, quando sono contestuali al credito garantito. Non e' soggetto a revoca l'adempimento di un debito scaduto. L'inefficacia dell'atto non pregiudica i diritti acquistati a titolo oneroso dai terzi di buona fede, salvi gli effetti della trascrizione della domanda di revocazione.",
+    "con_marcatori": "Art. 2901. (Condizioni). Il creditore, anche se il credito e' soggetto a condizione o a termine, puo' domandare che siano dichiarati inefficaci nei suoi confronti gli atti di disposizione del patrimonio con i quali il debitore rechi pregiudizio alle sue ragioni, quando concorrono le seguenti condizioni: 1) che il debitore conoscesse il pregiudizio che l'atto arrecava alle ragioni del creditore o, trattandosi di atto anteriore al sorgere del credito, l'atto fosse dolosamente preordinato al fine di pregiudicarne il soddisfacimento; 2) che, inoltre, trattandosi di atto a titolo oneroso, il terzo fosse consapevole del pregiudizio e, nel caso di atto anteriore al sorgere del credito, fosse partecipe della dolosa preordinazione. Agli effetti della presente norma, le prestazioni di garanzia, anche per debiti altrui, sono considerate atti a titolo oneroso, quando sono contestuali al credito garantito. Non e' soggetto a revoca l'adempimento di un debito scaduto. L'inefficacia dell'atto non pregiudica i diritti acquistati a titolo oneroso dai terzi di buona fede, salvi gli effetti della trascrizione della domanda di revocazione.",
+    "caratteri": 1111
+  },
+  "note": [],
+  "impronta": "sha256:c70243d009710e50e1aa1250b55bbf5ca33bd7b3871e1bc3a00454eed1ff8588"
+}

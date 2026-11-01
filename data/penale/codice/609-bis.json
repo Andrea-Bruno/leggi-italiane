@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "609-bis",
+    "rubrica": "Violenza sessuale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art609-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, con violenza o minaccia o mediante abuso di autorita', costringe taluno a compiere o subire atti sessuali e' punito con la reclusione da sei a dodici anni. Alla stessa pena soggiace chi induce taluno a compiere o subire atti sessuali: 1) abusando delle condizioni di inferiorita' fisica o psichica della persona offesa al momento del fatto; 2) traendo in inganno la persona offesa per essersi il colpevole sostituito ad altra persona. Nei casi di minore gravita' la pena e' diminuita in misura non eccedente i due terzi.",
+    "con_marcatori": "Art. 609-bis. (Violenza sessuale). Chiunque, con violenza o minaccia o mediante abuso di autorita', costringe taluno a compiere o subire atti sessuali e' punito con la reclusione ((da sei a dodici anni)). Alla stessa pena soggiace chi induce taluno a compiere o subire atti sessuali: 1) abusando delle condizioni di inferiorita' fisica o psichica della persona offesa al momento del fatto; 2) traendo in inganno la persona offesa per essersi il colpevole sostituito ad altra persona. Nei casi di minore gravita' la pena e' diminuita in misura non eccedente i due terzi.",
+    "caratteri": 530
+  },
+  "note": [],
+  "impronta": "sha256:72300b831227f0016754a73d3d487c0c1d98bee95f5bd898585f64fce1969f93"
+}

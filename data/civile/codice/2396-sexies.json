@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2396-sexies",
+    "rubrica": "Poteri dell'organo di controllo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2396-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". L'organo di controllo puo' in qualsiasi momento procedere ad atti di ispezione e di controllo e, previa comunicazione al presidente del consiglio, puo' altresi' convocare l'assemblea qualora nell'espletamento del suo incarico ravvisi fatti censurabili di rilevante gravita' e vi sia urgente necessita' di provvedere. L'organo di controllo puo' chiedere agli amministratori notizie, anche con riferimento a societa' controllate, sull'andamento delle operazioni sociali o su determinati affari. Puo' altresi' scambiare informazioni con i corrispondenti organi delle societa' controllate in merito ai sistemi di amministrazione e controllo ed all'andamento generale dell'attivita' sociale. Gli accertamenti eseguiti devono risultare dal libro previsto dall'articolo 2421, primo comma, numero 5).",
+    "con_marcatori": "Art. 2396-sexies. (( (Poteri dell'organo di controllo).)). (( L'organo di controllo puo' in qualsiasi momento procedere ad atti di ispezione e di controllo e, previa comunicazione al presidente del consiglio, puo' altresi' convocare l'assemblea qualora nell'espletamento del suo incarico ravvisi fatti censurabili di rilevante gravita' e vi sia urgente necessita' di provvedere. L'organo di controllo puo' chiedere agli amministratori notizie, anche con riferimento a societa' controllate, sull'andamento delle operazioni sociali o su determinati affari. Puo' altresi' scambiare informazioni con i corrispondenti organi delle societa' controllate in merito ai sistemi di amministrazione e controllo ed all'andamento generale dell'attivita' sociale. Gli accertamenti eseguiti devono risultare dal libro previsto dall'articolo 2421, primo comma, numero 5). ))",
+    "caratteri": 794
+  },
+  "note": [],
+  "impronta": "sha256:140abef072c2d6f1ec7181afc36fd9e81d0b08ef1ed8b4be1502af0a3dca36d7"
+}

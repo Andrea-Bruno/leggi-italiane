@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "58",
+    "rubrica": "Dichiarazione di morte presunta dell'assente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art58"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando sono trascorsi cinque anni dal giorno a cui risale l'ultima notizia dell'assente, il tribunale competente secondo l'art. 48, su istanza del pubblico ministero o di taluna delle persone indicate nei capoversi dell'art. 50, puo' con sentenza dichiarare presunta la morte dell'assente nel giorno a cui risale l'ultima notizia. In nessun caso la sentenza puo' essere pronunziata se non sono trascorsi nove anni dal raggiungimento della maggiore eta' dell'assente. Puo' essere dichiarata la morte presunta anche se sia mancata la dichiarazione di assenza.",
+    "con_marcatori": "Art. 58. (Dichiarazione di morte presunta dell'assente). Quando sono trascorsi ((cinque)) anni dal giorno a cui risale l'ultima notizia dell'assente, il tribunale competente secondo l'art. 48, su istanza del pubblico ministero o di taluna delle persone indicate nei capoversi dell'art. 50, puo' con sentenza dichiarare presunta la morte dell'assente nel giorno a cui risale l'ultima notizia. In nessun caso la sentenza puo' essere pronunziata se non sono trascorsi nove anni dal raggiungimento della maggiore eta' dell'assente. Puo' essere dichiarata la morte presunta anche se sia mancata la dichiarazione di assenza.",
+    "caratteri": 557
+  },
+  "note": [],
+  "impronta": "sha256:788c568cc196000e656f8cde059f86d6ab36e1e05c489bd028c3ed0aecbfc9a8"
+}

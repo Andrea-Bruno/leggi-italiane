@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "930",
+    "rubrica": "Premio dovuto al ritrovatore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art930"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario deve pagare a titolo di premio al ritrovatore, se questi lo richiede, il decimo della somma o del prezzo della cosa ritrovata. Se tale somma o prezzo eccede le diecimila lire, il premio per il sovrappiu' e' solo del ventesimo. Se la cosa non ha valore commerciale, la misura del premio e' fissata dal giudice secondo il suo prudente apprezzamento.",
+    "con_marcatori": "Art. 930. (Premio dovuto al ritrovatore). Il proprietario deve pagare a titolo di premio al ritrovatore, se questi lo richiede, il decimo della somma o del prezzo della cosa ritrovata. Se tale somma o prezzo eccede le diecimila lire, il premio per il sovrappiu' e' solo del ventesimo. Se la cosa non ha valore commerciale, la misura del premio e' fissata dal giudice secondo il suo prudente apprezzamento.",
+    "caratteri": 363
+  },
+  "note": [],
+  "impronta": "sha256:c97eac23d8dbf7f2a25e21bad46caca958684a9a767e7d4710eb3018d3de7596"
+}

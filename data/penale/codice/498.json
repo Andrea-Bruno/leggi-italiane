@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "498",
+    "rubrica": "Usurpazione di titoli o di onori",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art498"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi previsti dall'articolo 497-ter, abusivamente porta in pubblico la divisa o i segni distintivi di un ufficio o impiego pubblico, o di un Corpo politico, amministrativo o giudiziario, ovvero di una professione per la quale e' richiesta una speciale abilitazione dello Stato, ovvero indossa abusivamente in pubblico l'abito ecclesiastico, e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila. Alla stessa sanzione soggiace chi si arroga dignita' o gradi accademici, titoli, decorazioni o altre pubbliche insegne onorifiche, ovvero qualita' inerenti ad alcuno degli uffici, impieghi o professioni, indicati nella disposizione precedente. Per le violazioni di cui al presente articolo si applica la sanzione amministrativa accessoria della pubblicazione del provvedimento che accerta la violazione con le modalita' stabilite dall'articolo 36 e non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.",
+    "con_marcatori": "Art. 498. (Usurpazione di titoli o di onori) ((Chiunque, fuori dei casi previsti dall'articolo 497-ter, abusivamente porta in pubblico la divisa o i segni distintivi)) di un ufficio o impiego pubblico, o di un Corpo politico, amministrativo o giudiziario, ovvero di una professione per la quale e' richiesta una speciale abilitazione dello Stato, ovvero indossa abusivamente in pubblico l'abito ecclesiastico, e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila. Alla stessa sanzione soggiace chi si arroga dignita' o gradi accademici, titoli, decorazioni o altre pubbliche insegne onorifiche, ovvero qualita' inerenti ad alcuno degli uffici, impieghi o professioni, indicati nella disposizione precedente. Per le violazioni di cui al presente articolo si applica la sanzione amministrativa accessoria della pubblicazione del provvedimento che accerta la violazione con le modalita' stabilite dall'articolo 36 e non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.",
+    "caratteri": 1020
+  },
+  "note": [],
+  "impronta": "sha256:45242d191e3c4508d2d71e3bc0cd2db4b97001e3ee9295045f1df516f67063cd"
+}

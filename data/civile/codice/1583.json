@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1583",
+    "rubrica": "Mancato godimento per riparazioni urgenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1583"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se nel corso della locazione la cosa abbisogna di riparazioni che non possono differirsi fino al termine del contratto, il conduttore deve tollerarle anche quando importano privazione del godimento di parte della cosa locata.",
+    "con_marcatori": "Art. 1583. (Mancato godimento per riparazioni urgenti). Se nel corso della locazione la cosa abbisogna di riparazioni che non possono differirsi fino al termine del contratto, il conduttore deve tollerarle anche quando importano privazione del godimento di parte della cosa locata.",
+    "caratteri": 225
+  },
+  "note": [],
+  "impronta": "sha256:720f2533cd65ec6bd23a3b04da6455be2435344e3659f1202303e8505d891cd1"
+}

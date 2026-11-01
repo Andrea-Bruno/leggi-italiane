@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "260",
+    "rubrica": "Introduzione clandestina in luoghi militari e possesso ingiustificato di mezzi di spionaggio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art260"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' punito con la reclusione da uno a cinque anni chiunque: 1° si introduce clandestinamente o con inganno in luoghi o zone di terra, di acqua o di aria, in cui e' vietato l'accesso nell'interesse militare dello Stato; 2° e' colto, in tali luoghi o zone, o in loro prossimita', in possesso ingiustificato di mezzi idonei a commettere alcuno dei delitti preveduti dagli articoli 256, 257 e 258; 3° e' colto in possesso ingiustificato di documenti o di qualsiasi altra cosa atta a fornire le notizie indicate nell'articolo 256. Se alcuno dei fatti preveduti dai numeri precedenti e' commesso in tempo di guerra, la pena e' della reclusione da tre a dieci anni. Le disposizioni del presente articolo si applicano, altresi', agli immobili adibiti a sedi di ufficio o di reparto o a deposito di materiali dell'Amministrazione della pubblica sicurezza, l'accesso ai quali sia vietato per ragioni di sicurezza pubblica.",
+    "con_marcatori": "Art. 260. (Introduzione clandestina in luoghi militari e possesso ingiustificato di mezzi di spionaggio) E' punito con la reclusione da uno a cinque anni chiunque: 1° si introduce clandestinamente o con inganno in luoghi o zone di terra, di acqua o di aria, in cui e' vietato l'accesso nell'interesse militare dello Stato; 2° e' colto, in tali luoghi o zone, o in loro prossimita', in possesso ingiustificato di mezzi idonei a commettere alcuno dei delitti preveduti dagli articoli 256, 257 e 258; 3° e' colto in possesso ingiustificato di documenti o di qualsiasi altra cosa atta a fornire le notizie indicate nell'articolo 256. Se alcuno dei fatti preveduti dai numeri precedenti e' commesso in tempo di guerra, la pena e' della reclusione da tre a dieci anni. ((Le disposizioni del presente articolo si applicano, altresi', agli immobili adibiti a sedi di ufficio o di reparto o a deposito di materiali dell'Amministrazione della pubblica sicurezza, l'accesso ai quali sia vietato per ragioni di sicurezza pubblica)).",
+    "caratteri": 911
+  },
+  "note": [],
+  "impronta": "sha256:ed9d3d0d9abd75cfbd602b29b927033bdb346982eef1f3f3eddd8a2605630fc3"
+}

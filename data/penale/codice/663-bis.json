@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "663-bis",
+    "rubrica": "Divulgazione di stampa clandestina",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art663-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca reato, chiunque in qualsiasi modo divulga stampe o stampati pubblicati senza l'osservanza delle prescrizioni di legge sulla pubblicazione e diffusione della stampa periodica e non periodica, e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila. Per le violazioni di cui al presente articolo non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.",
+    "con_marcatori": "Art. 663-bis. (( (Divulgazione di stampa clandestina).)) ((Salvo che il fatto costituisca reato, chiunque in qualsiasi modo divulga stampe o stampati pubblicati senza l'osservanza delle prescrizioni di legge sulla pubblicazione e diffusione della stampa periodica e non periodica, e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila. Per le violazioni di cui al presente articolo non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.))",
+    "caratteri": 477
+  },
+  "note": [],
+  "impronta": "sha256:237e65549fb4050d0e9aadc7a7405d107629698c416d96d8f9f9a6c02673cce1"
+}

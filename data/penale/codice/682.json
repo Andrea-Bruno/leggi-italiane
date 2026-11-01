@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "682",
+    "rubrica": "Ingresso arbitrario in luoghi, ove l'accesso e' vietato nell'interesse militare dello Stato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art682"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque s'introduce in luoghi, nei quali l'accesso e' vietato nell'interesse militare dello Stato, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto da tre mesi a un anno, ovvero con l'ammenda da lire cinquecento a tremila. Le disposizioni del primo comma si applicano, altresi', agli immobili adibiti a sedi di ufficio, di reparto o a deposito di materiali dell'Amministrazione della pubblica sicurezza, il cui accesso e' vietato per ragioni di sicurezza pubblica.",
+    "con_marcatori": "Art. 682. (Ingresso arbitrario in luoghi, ove l'accesso e' vietato nell'interesse militare dello Stato) Chiunque s'introduce in luoghi, nei quali l'accesso e' vietato nell'interesse militare dello Stato, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto da tre mesi a un anno, ovvero con l'ammenda da lire cinquecento a tremila. ((Le disposizioni del primo comma si applicano, altresi', agli immobili adibiti a sedi di ufficio, di reparto o a deposito di materiali dell'Amministrazione della pubblica sicurezza, il cui accesso e' vietato per ragioni di sicurezza pubblica.))",
+    "caratteri": 490
+  },
+  "note": [],
+  "impronta": "sha256:21ed9669ae4ec94f492bfec788a76d405ebae8cdf57200db7fc66676242d2e54"
+}

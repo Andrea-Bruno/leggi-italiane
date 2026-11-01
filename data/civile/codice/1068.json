@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1068",
+    "rubrica": "Trasferimento della servitu' in luogo diverso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1068"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario del fondo servente non puo' trasferire l'esercizio della servitu' in luogo diverso da quello nel quale e' stata stabilita originariamente. Tuttavia, se l'originario esercizio e' divenuto piu' gravoso per il fondo servente o se impedisce di fare lavori, riparazioni o miglioramenti, il proprietario del fondo servente puo' offrire al proprietario dell'altro fondo un luogo egualmente comodo per l'esercizio dei suoi diritti, e questi non puo' ricusarlo. Il cambiamento di luogo per l'esercizio della servitu' si puo' del pari concedere su istanza del proprietario del fondo dominante, se questi prova che il cambiamento riesce per lui di notevole vantaggio e non reca danno al fondo servente. L'autorita' giudiziaria puo' anche disporre che la servitu' sia trasferita su altro fondo del proprietario del fondo servente o di un terzo che vi acconsenta, purche' l'esercizio di essa riesca egualmente agevole al proprietario del fondo dominante.",
+    "con_marcatori": "Art. 1068. (Trasferimento della servitu' in luogo diverso). Il proprietario del fondo servente non puo' trasferire l'esercizio della servitu' in luogo diverso da quello nel quale e' stata stabilita originariamente. Tuttavia, se l'originario esercizio e' divenuto piu' gravoso per il fondo servente o se impedisce di fare lavori, riparazioni o miglioramenti, il proprietario del fondo servente puo' offrire al proprietario dell'altro fondo un luogo egualmente comodo per l'esercizio dei suoi diritti, e questi non puo' ricusarlo. Il cambiamento di luogo per l'esercizio della servitu' si puo' del pari concedere su istanza del proprietario del fondo dominante, se questi prova che il cambiamento riesce per lui di notevole vantaggio e non reca danno al fondo servente. L'autorita' giudiziaria puo' anche disporre che la servitu' sia trasferita su altro fondo del proprietario del fondo servente o di un terzo che vi acconsenta, purche' l'esercizio di essa riesca egualmente agevole al proprietario del fondo dominante.",
+    "caratteri": 957
+  },
+  "note": [],
+  "impronta": "sha256:5c887833cae0db18a6a877622d941e0188b3f09d9f3cac5e5b5b0c947539f1cc"
+}

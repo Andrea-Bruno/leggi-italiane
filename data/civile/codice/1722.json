@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1722",
+    "rubrica": "Cause di estinzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1722"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mandato si estingue: 1) per la scadenza del termine o per il compimento, da parte del mandatario, dell'affare per il quale e' stato conferito; 2) per revoca da parte del mandante; 3) per rinunzia del mandatario; 4) per la morte, l'interdizione o l'inabilitazione del mandante o del mandatario. Tuttavia il mandato che ha per oggetto il compimento di atti relativi all'esercizio di un'impresa non si estingue, se l'esercizio dell'impresa e' continuato, salvo il diritto di recesso delle parti o degli eredi.",
+    "con_marcatori": "Art. 1722. (Cause di estinzione). Il mandato si estingue: 1) per la scadenza del termine o per il compimento, da parte del mandatario, dell'affare per il quale e' stato conferito; 2) per revoca da parte del mandante; 3) per rinunzia del mandatario; 4) per la morte, l'interdizione o l'inabilitazione del mandante o del mandatario. Tuttavia il mandato che ha per oggetto il compimento di atti relativi all'esercizio di un'impresa non si estingue, se l'esercizio dell'impresa e' continuato, salvo il diritto di recesso delle parti o degli eredi.",
+    "caratteri": 509
+  },
+  "note": [],
+  "impronta": "sha256:8413f98b047d09dfeecd3d0e931c288989c1643786b4f8df912ff145d10adf7f"
+}

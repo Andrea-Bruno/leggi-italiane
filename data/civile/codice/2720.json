@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2720",
+    "rubrica": "Efficacia probatoria",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2720"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto di ricognizione o di rinnovazione fa piena prova delle dichiarazioni contenute nel documento originale, se non si dimostra, producendo quest'ultimo, che vi e' stato errore nella ricognizione o nella rinnovazione.",
+    "con_marcatori": "Art. 2720. (Efficacia probatoria). L'atto di ricognizione o di rinnovazione fa piena prova delle dichiarazioni contenute nel documento originale, se non si dimostra, producendo quest'ultimo, che vi e' stato errore nella ricognizione o nella rinnovazione.",
+    "caratteri": 219
+  },
+  "note": [],
+  "impronta": "sha256:00a371d7528999d18ca4fcc8e48012250c579d149d13ea0314fe696e6e1e59e7"
+}

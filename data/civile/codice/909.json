@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "909",
+    "rubrica": "Diritto sulle acque esistenti nel fondo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art909"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario del suolo ha il diritto di utilizzare le acque in esso esistenti, salve le disposizioni delle leggi speciali per le acque pubbliche e per le acque sotterranee. Egli puo' anche disporne a favore d'altri, qualora non osti il diritto di terzi; ma, dopo essersi servito delle acque, non puo' divertirle in danno d'altri fondi.",
+    "con_marcatori": "Art. 909. (Diritto sulle acque esistenti nel fondo). Il proprietario del suolo ha il diritto di utilizzare le acque in esso esistenti, salve le disposizioni delle leggi speciali per le acque pubbliche e per le acque sotterranee. Egli puo' anche disporne a favore d'altri, qualora non osti il diritto di terzi; ma, dopo essersi servito delle acque, non puo' divertirle in danno d'altri fondi.",
+    "caratteri": 338
+  },
+  "note": [],
+  "impronta": "sha256:edfa7ec09696b929e63eddacf4dd11799526ebf70b892fa46f026cca412622b6"
+}

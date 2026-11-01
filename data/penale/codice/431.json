@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "431",
+    "rubrica": "Pericolo di disastro ferroviario causato da danneggiamento",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art431"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, al solo scopo di danneggiare una strada ferrata ovvero macchine, veicoli, strumenti, apparecchi o altri oggetti che servono all'esercizio di essa, li distrugge in tutto o in parte, li deteriora o li rende altrimenti in tutto o in parte inservibili, e' punito, se dal fatto deriva il pericolo di un disastro ferroviario, con la reclusione da due a sei anni. Se dal fatto deriva il disastro, la pena e' della reclusione da tre a dieci anni. Per strade ferrate la legge penale intende, oltre le strade ferrate ordinarie, ogni altra strada con rotaie metalliche, sulla quale circolino veicoli mossi dal vapore, dall'elettricita' o da un altro mezzo di trazione meccanica.",
+    "con_marcatori": "Art. 431. (Pericolo di disastro ferroviario causato da danneggiamento) Chiunque, al solo scopo di danneggiare una strada ferrata ovvero macchine, veicoli, strumenti, apparecchi o altri oggetti che servono all'esercizio di essa, li distrugge in tutto o in parte, li deteriora o li rende altrimenti in tutto o in parte inservibili, e' punito, se dal fatto deriva il pericolo di un disastro ferroviario, con la reclusione da due a sei anni. Se dal fatto deriva il disastro, la pena e' della reclusione da tre a dieci anni. Per strade ferrate la legge penale intende, oltre le strade ferrate ordinarie, ogni altra strada con rotaie metalliche, sulla quale circolino veicoli mossi dal vapore, dall'elettricita' o da un altro mezzo di trazione meccanica. ((7))",
+    "caratteri": 677
+  },
+  "note": [
+    {
+      "numero": 7,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 maggio 1945, n. 234",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;234",
+          "data": "1945-05-10",
+          "numero": "234",
+          "data_gazzetta": "1945-05-24"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 maggio 1945, n. 234 ha disposto (con l'art. 4, comma 1) che \"Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del Codice penale, sono aumentate da un terzo alla meta'\". Ha inoltre disposto (con l'art. 7, comma 1) che la presente modifica ha efficacia fino ad un anno dopo la cessazione dello stato di guerra."
+    }
+  ],
+  "impronta": "sha256:f8a38add6983a3cfbad1861d8c89566ec1e7f922228ded08e6bb580106326b20"
+}

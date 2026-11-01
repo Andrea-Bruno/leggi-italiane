@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2222",
+    "rubrica": "Contratto d'opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2222"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando una persona si obbliga a compiere verso un corrispettivo un'opera o un servizio, con lavoro prevalentemente proprio e senza vincolo di subordinazione nei confronti del committente, si applicano le norme di questo capo, salvo che il rapporto abbia una disciplina particolare nel libro IV.",
+    "con_marcatori": "Art. 2222. (Contratto d'opera). Quando una persona si obbliga a compiere verso un corrispettivo un'opera o un servizio, con lavoro prevalentemente proprio e senza vincolo di subordinazione nei confronti del committente, si applicano le norme di questo capo, salvo che il rapporto abbia una disciplina particolare nel libro IV.",
+    "caratteri": 294
+  },
+  "note": [],
+  "impronta": "sha256:ee33e6d9a556f739aad83a7d7a745a626ec02eb274c9779c7f34947189b56304"
+}

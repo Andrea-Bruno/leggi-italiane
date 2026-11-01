@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "337-sexies",
+    "rubrica": "Assegnazione della casa familiare e prescrizioni in tema di residenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art337-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il godimento della casa familiare e' attribuito tenendo prioritariamente conto dell'interesse dei figli. Dell'assegnazione il giudice tiene conto nella regolazione dei rapporti economici tra i genitori, considerato l'eventuale titolo di proprieta'. Il diritto al godimento della casa familiare viene meno nel caso che l'assegnatario non abiti o cessi di abitare stabilmente nella casa familiare o conviva more uxorio o contragga nuovo matrimonio. Il provvedimento di assegnazione e quello di revoca sono trascrivibili e opponibili a terzi ai sensi dell'articolo 2643. In presenza di figli minori, ciascuno dei genitori e' obbligato a comunicare all'altro, entro il termine perentorio di trenta giorni, l'avvenuto cambiamento di residenza o di domicilio. La mancata comunicazione obbliga al risarcimento del danno eventualmente verificatosi a carico del coniuge o dei figli per la difficolta' di reperire il soggetto.",
+    "con_marcatori": "Art. 337-sexies. ((Assegnazione della casa familiare e prescrizioni in tema di residenza)) ((Il godimento della casa familiare e' attribuito tenendo prioritariamente conto dell'interesse dei figli. Dell'assegnazione il giudice tiene conto nella regolazione dei rapporti economici tra i genitori, considerato l'eventuale titolo di proprieta'. Il diritto al godimento della casa familiare viene meno nel caso che l'assegnatario non abiti o cessi di abitare stabilmente nella casa familiare o conviva more uxorio o contragga nuovo matrimonio. Il provvedimento di assegnazione e quello di revoca sono trascrivibili e opponibili a terzi ai sensi dell'articolo 2643. In presenza di figli minori, ciascuno dei genitori e' obbligato a comunicare all'altro, entro il termine perentorio di trenta giorni, l'avvenuto cambiamento di residenza o di domicilio. La mancata comunicazione obbliga al risarcimento del danno eventualmente verificatosi a carico del coniuge o dei figli per la difficolta' di reperire il soggetto.))",
+    "caratteri": 916
+  },
+  "note": [],
+  "impronta": "sha256:464a214be4104b55747b47614f8c5ed60ab6063b3256420274b61ec5fa2daa2c"
+}

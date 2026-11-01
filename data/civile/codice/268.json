@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "268",
+    "rubrica": "Provvedimenti in pendenza del giudizio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art268"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando e' impugnato il riconoscimento, il giudice puo' dare, in pendenza del giudizio, i provvedimenti che ritenga opportuni nell'interesse del figlio.",
+    "con_marcatori": "Art. 268. (Provvedimenti in pendenza del giudizio). Quando e' impugnato il riconoscimento, il giudice puo' dare, in pendenza del giudizio, i provvedimenti che ritenga opportuni nell'interesse del figlio.",
+    "caratteri": 151
+  },
+  "note": [],
+  "impronta": "sha256:3e618d78a58c7a9fc6c01fd572610c58c2b21aca9fc6ef5088fbb3948b59ff8d"
+}

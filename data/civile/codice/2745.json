@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2745",
+    "rubrica": "Fondamento del privilegio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2745"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il privilegio e' accordato dalla legge in considerazione della causa del credito. La costituzione del privilegio puo' tuttavia dalla legge essere subordinata alla convenzione delle parti; puo' anche essere subordinata a particolari forme di pubblicita'.",
+    "con_marcatori": "Art. 2745. (Fondamento del privilegio). Il privilegio e' accordato dalla legge in considerazione della causa del credito. La costituzione del privilegio puo' tuttavia dalla legge essere subordinata alla convenzione delle parti; puo' anche essere subordinata a particolari forme di pubblicita'.",
+    "caratteri": 253
+  },
+  "note": [],
+  "impronta": "sha256:c327e9ea87a2444f3a3f214aed67fe775506cfeb3a3e9f1fc1bd3bf10e4cb480"
+}

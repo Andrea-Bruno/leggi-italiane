@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "728",
+    "rubrica": "Trattamento idoneo a sopprimere la coscienza o la volonta' altrui",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art728"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque pone taluno, col suo consenso, in stato di narcosi o d'ipnotismo, o esegue su lui un trattamento che ne sopprima la coscienza o la volonta', e' punito, se dal fatto deriva pericolo per l'incolumita' della persona, con l'arresto da uno a sei mesi o con l'ammenda da lire trecento a cinquemila. Tale disposizione non si applica se il fatto e' commesso, a scopo scientifico o di cura, da chi esercita una professione sanitaria.",
+    "con_marcatori": "Art. 728. (Trattamento idoneo a sopprimere la coscienza o la volonta' altrui) Chiunque pone taluno, col suo consenso, in stato di narcosi o d'ipnotismo, o esegue su lui un trattamento che ne sopprima la coscienza o la volonta', e' punito, se dal fatto deriva pericolo per l'incolumita' della persona, con l'arresto da uno a sei mesi o con l'ammenda da lire trecento a cinquemila. Tale disposizione non si applica se il fatto e' commesso, a scopo scientifico o di cura, da chi esercita una professione sanitaria.",
+    "caratteri": 433
+  },
+  "note": [],
+  "impronta": "sha256:453542de437ea4c1674e19151c607d2504f16147b0365a93b13cc084a5fa4374"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "333",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art333"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Condotta del genitore pregiudizievole ai figli. Quando la condotta di uno o di entrambi i genitori non e' tale da dare luogo alla pronuncia di decadenza prevista dall'articolo 330, ma appare comunque pregiudizievole al figlio, il giudice, secondo le circostanze puo' adottare i provvedimenti convenienti e puo' anche disporre l'allontanamento di lui dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore. Tali provvedimenti sono revocabili in qualsiasi momento.",
+    "con_marcatori": "Art. 333. Condotta del genitore pregiudizievole ai figli. Quando la condotta di uno o di entrambi i genitori non e' tale da dare luogo alla pronuncia di decadenza prevista dall'articolo 330, ma appare comunque pregiudizievole al figlio, il giudice, secondo le circostanze puo' adottare i provvedimenti convenienti e puo' anche disporre l'allontanamento di lui dalla residenza familiare ((ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore)). Tali provvedimenti sono revocabili in qualsiasi momento.",
+    "caratteri": 516
+  },
+  "note": [],
+  "impronta": "sha256:34ca66658ebae67064cbbf8123242845ba44fbd5aa46bb3384207e9950982526"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2257",
+    "rubrica": "Amministrazione disgiuntiva",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2257"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'istituzione degli assetti di cui all'articolo 2086, secondo comma, spetta esclusivamente agli amministratori. Salvo diversa pattuizione, l'amministrazione della societa' spetta a ciascuno dei soci disgiuntamente dagli altri. Se l'amministrazione spetta disgiuntamente a piu' soci, ciascun socio amministratore ha diritto di opporsi all'operazione che un altro voglia compiere, prima che sia compiuta. La maggioranza dei soci, determinata secondo la parte attribuita a ciascun socio negli utili, decide sull'opposizione.",
+    "con_marcatori": "Art. 2257. (Amministrazione disgiuntiva). ((L'istituzione degli assetti di cui all'articolo 2086, secondo comma, spetta esclusivamente agli amministratori. Salvo diversa pattuizione, l'amministrazione della societa' spetta a ciascuno dei soci disgiuntamente dagli altri.)) Se l'amministrazione spetta disgiuntamente a piu' soci, ciascun socio amministratore ha diritto di opporsi all'operazione che un altro voglia compiere, prima che sia compiuta. La maggioranza dei soci, determinata secondo la parte attribuita a ciascun socio negli utili, decide sull'opposizione.",
+    "caratteri": 521
+  },
+  "note": [],
+  "impronta": "sha256:7f90cd07e670e3bb9a173881971156e005c02b3303c1201bb90751dfa0c3faa2"
+}

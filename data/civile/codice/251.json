@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "251",
+    "rubrica": "Autorizzazione al riconoscimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art251"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il figlio nato da persone, tra le quali esiste un vincolo di parentela in linea retta all'infinito o in linea collaterale nel secondo grado, ovvero un vincolo di affinita' in linea retta, puo' essere riconosciuto previa autorizzazione del giudice avuto riguardo all'interesse del figlio e alla necessita' di evitare allo stesso qualsiasi pregiudizio. Il riconoscimento di una persona minore di eta' e' autorizzato dal giudice.",
+    "con_marcatori": "Art. 251 (Autorizzazione al riconoscimento). Il figlio nato da persone, tra le quali esiste un vincolo di parentela in linea retta all'infinito o in linea collaterale nel secondo grado, ovvero un vincolo di affinita' in linea retta, puo' essere riconosciuto previa autorizzazione del giudice avuto riguardo all'interesse del figlio e alla necessita' di evitare allo stesso qualsiasi pregiudizio. Il riconoscimento di una persona minore di eta' e' autorizzato dal ((giudice)).",
+    "caratteri": 426
+  },
+  "note": [],
+  "impronta": "sha256:2b579da18c4ea1316e0063c88475dad1cd9bc09b41ebfd4a3bd925d7d710b738"
+}

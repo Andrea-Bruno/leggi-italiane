@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2775",
+    "rubrica": "Contributi per opere di bonifica e di miglioramento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2775"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti per i contributi indicati dall'art. 864 sono privilegiati sugli immobili che traggono beneficio dalle opere di bonifica o di miglioramento. La costituzione del privilegio per le opere di miglioramento e' subordinata all'osservanza delle leggi speciali.",
+    "con_marcatori": "Art. 2775. (Contributi per opere di bonifica e di miglioramento). I crediti per i contributi indicati dall'art. 864 sono privilegiati sugli immobili che traggono beneficio dalle opere di bonifica o di miglioramento. La costituzione del privilegio per le opere di miglioramento e' subordinata all'osservanza delle leggi speciali.",
+    "caratteri": 262
+  },
+  "note": [],
+  "impronta": "sha256:64c2309c673bc5413e654a6cb225aa3953b8c2a6d8a9444cfe8a8b9f1b85a1d3"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1087",
+    "rubrica": "Acque sorgenti o sfuggite",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1087"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei canali soggetti a distribuzioni per ruota le acque sorgenti o sfuggite, ma contenute nell'alveo del canale, non possono trattenersi o derivarsi da un utente che al tempo del suo turno.",
+    "con_marcatori": "Art. 1087. (Acque sorgenti o sfuggite). Nei canali soggetti a distribuzioni per ruota le acque sorgenti o sfuggite, ma contenute nell'alveo del canale, non possono trattenersi o derivarsi da un utente che al tempo del suo turno.",
+    "caratteri": 188
+  },
+  "note": [],
+  "impronta": "sha256:baa8aec3480f20f45869ee60f31e330721843e676f5aff1d648f46016b1e8839"
+}

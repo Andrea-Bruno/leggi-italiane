@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "365",
+    "rubrica": "Omissione di referto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art365"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, avendo nell'esercizio di una professione sanitaria prestato la propria assistenza od opera in casi che possono presentare i caratteri di un delitto pel quale si debba procedere d'ufficio, omette o ritarda di riferirne all'Autorita' indicata nell'articolo 361, e' punito con la multa fino a lire cinquemila. Questa disposizione non si applica quando il referto esporrebbe la persona assistita a procedimento penale.",
+    "con_marcatori": "Art. 365. (Omissione di referto) Chiunque, avendo nell'esercizio di una professione sanitaria prestato la propria assistenza od opera in casi che possono presentare i caratteri di un delitto pel quale si debba procedere d'ufficio, omette o ritarda di riferirne all'Autorita' indicata nell'articolo 361, e' punito con la multa fino a lire cinquemila. Questa disposizione non si applica quando il referto esporrebbe la persona assistita a procedimento penale.",
+    "caratteri": 424
+  },
+  "note": [],
+  "impronta": "sha256:d39c3ddd265eb9b608efd7c09bf5f8cd426c2c3bbded428b10e27b1113249bec"
+}

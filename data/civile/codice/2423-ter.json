@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2423-ter",
+    "rubrica": "Struttura dello stato patrimoniale e del conto economico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2423-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salve le disposizioni di leggi speciali per le societa' che esercitano particolari attivita', nello stato patrimoniale e nel conto economico devono essere iscritte separatamente, e nell'ordine indicato, le voci previste negli articoli 2424 e 2425. Le voci precedute da numeri arabi possono essere ulteriormente suddivise, senza eliminazione della voce complessiva e dell'importo corrispondente; esse possono essere raggruppate soltanto quando il raggruppamento, a causa del loro importo, e' irrilevante ai fini indicati nel secondo comma dell'articolo 2423 o quando esso favorisce la chiarezza del bilancio. In questo secondo caso la nota integrativa deve contenere distintamente le voci oggetto di raggruppamento. Devono essere aggiunte altre voci qualora il loro contenuto non sia compreso in alcuna di quelle previste dagli articoli 2424 e 2425. Le voci precedute da numeri arabi devono essere adattate quando lo esige la natura dell'attivita' esercitata. Per ogni voce dello stato patrimoniale e del conto economico deve essere indicato l'importo della voce corrispondente dell'esercizio precedente. Se le voci non sono comparabili, quelle relative all'esercizio precedente devono essere adattate; la non comparabilita' e l'adattamento o l'impossibilita' di questo devono essere segnalati e commentati nella nota integrativa. Sono vietati i compensi di partite. Nei casi in cui la compensazione e' ammessa dalla legge, sono indicati nella nota integrativa gli importi lordi oggetto di compensazione.",
+    "con_marcatori": "Art. 2423-ter. (Struttura dello stato patrimoniale e del conto economico). Salve le disposizioni di leggi speciali per le societa' che esercitano particolari attivita', nello stato patrimoniale e nel conto economico devono essere iscritte separatamente, e nell'ordine indicato, le voci previste negli articoli 2424 e 2425. Le voci precedute da numeri arabi possono essere ulteriormente suddivise, senza eliminazione della voce complessiva e dell'importo corrispondente; esse possono essere raggruppate soltanto quando il raggruppamento, a causa del loro importo, e' irrilevante ai fini indicati nel secondo comma dell'articolo 2423 o quando esso favorisce la chiarezza del bilancio. In questo secondo caso la nota integrativa deve contenere distintamente le voci oggetto di raggruppamento. Devono essere aggiunte altre voci qualora il loro contenuto non sia compreso in alcuna di quelle previste dagli articoli 2424 e 2425. Le voci precedute da numeri arabi devono essere adattate quando lo esige la natura dell'attivita' esercitata. Per ogni voce dello stato patrimoniale e del conto economico deve essere indicato l'importo della voce corrispondente dell'esercizio precedente. Se le voci non sono comparabili, quelle relative all'esercizio precedente devono essere adattate; la non comparabilita' e l'adattamento o l'impossibilita' di questo devono essere segnalati e commentati nella nota integrativa. Sono vietati i compensi di partite. ((Nei casi in cui la compensazione e' ammessa dalla legge, sono indicati nella nota integrativa gli importi lordi oggetto di compensazione)). ((315))",
+    "caratteri": 1503
+  },
+  "note": [
+    {
+      "numero": 315,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 23 dicembre 2021, n. 238",
+          "urn": "urn:nir:stato:legge:2021-12-23;238",
+          "data": "2021-12-23",
+          "numero": "238",
+          "data_gazzetta": "2022-01-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 23 dicembre 2021, n. 238 ha disposto (con l'art. 24, comma 4) che la presente modifica si applica \"per la prima volta al bilancio dell'impresa e al bilancio consolidato relativi al primo esercizio successivo a quello chiuso o in corso al 31 dicembre 2019\"."
+    }
+  ],
+  "impronta": "sha256:0af53b86a79a9b4aa23a528bc77923acc4a0ec88bb0eb9a78af2bbc88ef78a4d"
+}

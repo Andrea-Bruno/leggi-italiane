@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "28",
+    "rubrica": "Trasformazione delle fondazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art28"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando lo scopo e' esaurito o divenuto impossibile o di scarsa utilita', o il patrimonio e' divenuto insufficiente, l'autorita' governativa, anziche' dichiarare estinta la fondazione, puo' provvedere alla sua trasformazione, allontanandosi il meno possibile dalla volonta' del fondatore. La trasformazione non e' ammessa quando i fatti che vi darebbero luogo sono considerati nell'atto di fondazione come causa di estinzione della persona giuridica e di devoluzione dei beni a terze persone. Le disposizioni del primo comma di questo articolo e dell'art. 26 non si applicano alle fondazioni destinate a vantaggio soltanto di una o piu' famiglie determinate.",
+    "con_marcatori": "Art. 28. (Trasformazione delle fondazioni) Quando lo scopo e' esaurito o divenuto impossibile o di scarsa utilita', o il patrimonio e' divenuto insufficiente, l'autorita' governativa, anziche' dichiarare estinta la fondazione, puo' provvedere alla sua trasformazione, allontanandosi il meno possibile dalla volonta' del fondatore. La trasformazione non e' ammessa quando i fatti che vi darebbero luogo sono considerati nell'atto di fondazione come causa di estinzione della persona giuridica e di devoluzione dei beni a terze persone. Le disposizioni del primo comma di questo articolo e dell'art. 26 non si applicano alle fondazioni destinate a vantaggio soltanto di una o piu' famiglie determinate.",
+    "caratteri": 657
+  },
+  "note": [],
+  "impronta": "sha256:414f8098ea8669339e2d3568987a780d68fc10456fc66a62d0670c7fb301bf54"
+}

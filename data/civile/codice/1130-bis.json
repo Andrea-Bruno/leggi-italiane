@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1130-bis",
+    "rubrica": "Rendiconto condominiale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1130-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il rendiconto condominiale contiene le voci di entrata e di uscita ed ogni altro dato inerente alla situazione patrimoniale del condominio, ai fondi disponibili ed alle eventuali riserve, che devono essere espressi in modo da consentire l'immediata verifica. Si compone di un registro di contabilita', di un riepilogo finanziario, nonche' di una nota sintetica esplicativa della gestione con l'indicazione anche dei rapporti in corso e delle questioni pendenti. L'assemblea condominiale puo', in qualsiasi momento o per piu' annualita' specificamente identificate, nominare un revisore che verifichi la contabilita' del condominio. La deliberazione e' assunta con la maggioranza prevista per la nomina dell'amministratore e la relativa spesa e' ripartita fra tutti i condomini sulla base dei millesimi di proprieta'. I condomini e i titolari di diritti reali o di godimento sulle unita' immobiliari possono prendere visione dei documenti giustificativi di spesa in ogni tempo ed estrarne copia a proprie spese. Le scritture e i documenti giustificativi devono essere conservati per dieci anni dalla data della relativa registrazione. L'assemblea puo' anche nominare, oltre all'amministratore, un consiglio di condominio composto da almeno tre condomini negli edifici di almeno dodici unita' immobiliari. Il consiglio ha funzioni consultive e di controllo.",
+    "con_marcatori": "Art. 1130-bis. (( (Rendiconto condominiale). )) ((Il rendiconto condominiale contiene le voci di entrata e di uscita ed ogni altro dato inerente alla situazione patrimoniale del condominio, ai fondi disponibili ed alle eventuali riserve, che devono essere espressi in modo da consentire l'immediata verifica. Si compone di un registro di contabilita', di un riepilogo finanziario, nonche' di una nota sintetica esplicativa della gestione con l'indicazione anche dei rapporti in corso e delle questioni pendenti. L'assemblea condominiale puo', in qualsiasi momento o per piu' annualita' specificamente identificate, nominare un revisore che verifichi la contabilita' del condominio. La deliberazione e' assunta con la maggioranza prevista per la nomina dell'amministratore e la relativa spesa e' ripartita fra tutti i condomini sulla base dei millesimi di proprieta'. I condomini e i titolari di diritti reali o di godimento sulle unita' immobiliari possono prendere visione dei documenti giustificativi di spesa in ogni tempo ed estrarne copia a proprie spese. Le scritture e i documenti giustificativi devono essere conservati per dieci anni dalla data della relativa registrazione. L'assemblea puo' anche nominare, oltre all'amministratore, un consiglio di condominio composto da almeno tre condomini negli edifici di almeno dodici unita' immobiliari. Il consiglio ha funzioni consultive e di controllo)).",
+    "caratteri": 1355
+  },
+  "note": [],
+  "impronta": "sha256:473cc3611304c21b33821ffd0115afe986e72419c427595e6c6013508b31fda5"
+}

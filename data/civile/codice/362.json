@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "362",
+    "rubrica": "Inventario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art362"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il tutore, nei dieci giorni successivi a quello in cui ha avuto legalmente notizia della sua nomina, deve procedere all'inventario dei beni del minore, nonostante qualsiasi dispensa. L'inventario deve essere compiuto nel termine di trenta giorni, salva al giudice tutelare la facolta' di prorogare il termine se le circostanze lo esigono.",
+    "con_marcatori": "Art. 362. (Inventario). Il tutore, nei dieci giorni successivi a quello in cui ha avuto legalmente notizia della sua nomina, deve procedere all'inventario dei beni del minore, nonostante qualsiasi dispensa. L'inventario deve essere compiuto nel termine di trenta giorni, salva al giudice tutelare la facolta' di prorogare il termine se le circostanze lo esigono.",
+    "caratteri": 338
+  },
+  "note": [],
+  "impronta": "sha256:60948da11ef44a071566883775a7f62b626682fceffdbff7f97ba40f743f1bb7"
+}

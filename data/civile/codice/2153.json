@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2153",
+    "rubrica": "Riparazioni di piccola manutenzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2153"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo diverse disposizioni delle norme corporative, della convenzione o degli usi, sono a carico del mezzadro le riparazioni di piccola manutenzione della casa colonica e degli strumenti di lavoro, di cui egli e la famiglia colonica si servono.",
+    "con_marcatori": "Art. 2153. (Riparazioni di piccola manutenzione). Salvo diverse disposizioni delle norme corporative, della convenzione o degli usi, sono a carico del mezzadro le riparazioni di piccola manutenzione della casa colonica e degli strumenti di lavoro, di cui egli e la famiglia colonica si servono.",
+    "caratteri": 244
+  },
+  "note": [],
+  "impronta": "sha256:8cc28fc211752c22b99267227eed342090ef6676fd6ac32654e5c6da9b48baaf"
+}

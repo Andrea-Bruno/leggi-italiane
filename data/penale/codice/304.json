@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "304",
+    "rubrica": "Cospirazione politica mediante accordo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art304"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando piu' persone si accordano al fine di commettere uno dei delitti indicati nell'articolo 302, coloro che partecipano all'accordo sono puniti, se il delitto non e' commesso, con la reclusione da uno a sei anni. Per i promotori la pena e' aumentata. Tuttavia, la pena da applicare e' sempre inferiore alla meta' della pena stabilita per il delitto al quale si riferisce l'accordo.",
+    "con_marcatori": "Art. 304. (Cospirazione politica mediante accordo) Quando piu' persone si accordano al fine di commettere uno dei delitti indicati nell'articolo 302, coloro che partecipano all'accordo sono puniti, se il delitto non e' commesso, con la reclusione da uno a sei anni. Per i promotori la pena e' aumentata. Tuttavia, la pena da applicare e' sempre inferiore alla meta' della pena stabilita per il delitto al quale si riferisce l'accordo.",
+    "caratteri": 383
+  },
+  "note": [],
+  "impronta": "sha256:3871c95fa34f9bc659149a778a79f1ebdbde3ce4c55a5cbb6a438e20bc062f55"
+}

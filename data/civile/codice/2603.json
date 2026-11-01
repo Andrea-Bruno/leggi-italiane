@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2603",
+    "rubrica": "Forma e contenuto del contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2603"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto deve essere fatto per iscritto sotto pena di nullita'. Esso deve indicare: 1) l'oggetto e la durata del consorzio; 2) la sede dell'ufficio eventualmente costituito; 3) gli obblighi assunti e i contributi dovuti dai consorziati; 4) le attribuzioni e i poteri degli organi consortili anche in ordine alla rappresentanza in giudizio; 5) le condizioni di ammissione di nuovi consorziati; 6) i casi di recesso e di esclusione; 7) le sanzioni per l'inadempimento degli obblighi dei consorziati. Se il consorzio ha per oggetto il contingentamento della produzione o degli scambi, il contratto deve inoltre stabilire le quote dei singoli consorziati o i criteri per la determinazione di esse. Se l'atto costitutivo deferisce la risoluzione di questioni relative alla determinazione delle quote ad una o piu' persone, le decisioni di queste possono essere impugnate innanzi all'autorita' giudiziaria, se sono manifestamente inique od erronee, entro trenta giorni dalla notizia.",
+    "con_marcatori": "Art. 2603. (Forma e contenuto del contratto). Il contratto deve essere fatto per iscritto sotto pena di nullita'. Esso deve indicare: 1) l'oggetto e la durata del consorzio; 2) la sede dell'ufficio eventualmente costituito; 3) gli obblighi assunti e i contributi dovuti dai consorziati; 4) le attribuzioni e i poteri degli organi consortili anche in ordine alla rappresentanza in giudizio; 5) le condizioni di ammissione di nuovi consorziati; 6) i casi di recesso e di esclusione; 7) le sanzioni per l'inadempimento degli obblighi dei consorziati. Se il consorzio ha per oggetto il contingentamento della produzione o degli scambi, il contratto deve inoltre stabilire le quote dei singoli consorziati o i criteri per la determinazione di esse. Se l'atto costitutivo deferisce la risoluzione di questioni relative alla determinazione delle quote ad una o piu' persone, le decisioni di queste possono essere impugnate innanzi all'autorita' giudiziaria, se sono manifestamente inique od erronee, entro trenta giorni dalla notizia.",
+    "caratteri": 981
+  },
+  "note": [],
+  "impronta": "sha256:c65709ec44207c47e98983e993f82a235df081eb01675e450451ca22ef0f3df0"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "166",
+    "rubrica": "Effetti della sospensione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art166"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La sospensione condizionale della pena si estende alle pene accessorie.Nondimeno, nel caso di condanna per i delitti previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis e 346-bis, il giudice puo' disporre che la sospensione non estenda i suoi effetti alle pene accessorie dell'interdizione dai pubblici uffici e dell'incapacita' di contrattare con la pubblica amministrazione. La condanna a pena condizionalmente sospesa non puo' costituire in alcun caso, di per se' sola, motivo per l'applicazione di misure di prevenzione, ne' d'impedimento all'accesso a posti di lavoro pubblici o privati tranne i casi specificamente previsti dalla legge, ne' per il diniego di concessioni, di licenze o di autorizzazioni necessarie per svolgere attivita' lavorativa.",
+    "con_marcatori": "Art. 166. (Effetti della sospensione). La sospensione condizionale della pena si estende alle pene accessorie.((Nondimeno, nel caso di condanna per i delitti previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis e 346-bis, il giudice puo' disporre che la sospensione non estenda i suoi effetti alle pene accessorie dell'interdizione dai pubblici uffici e dell'incapacita' di contrattare con la pubblica amministrazione)). La condanna a pena condizionalmente sospesa non puo' costituire in alcun caso, di per se' sola, motivo per l'applicazione di misure di prevenzione, ne' d'impedimento all'accesso a posti di lavoro pubblici o privati tranne i casi specificamente previsti dalla legge, ne' per il diniego di concessioni, di licenze o di autorizzazioni necessarie per svolgere attivita' lavorativa.",
+    "caratteri": 825
+  },
+  "note": [],
+  "impronta": "sha256:7b8fe7f92aa26a20da317b09c1f974311d624a4d2d90193153ab98395edad87e"
+}

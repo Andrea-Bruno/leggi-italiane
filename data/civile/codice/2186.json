@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2186",
+    "rubrica": "Nozione e norme applicabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2186"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si ha rapporto di soccida anche quando il bestiame e' conferito dal soccidario e il soccidante conferisce il terreno per il pascolo. In tal caso il soccidario ha la direzione dell'impresa e al soccidante spetta il controllo della gestione. Si osservano inoltre le disposizioni dell'art. 2184 e, in quanto applicabili, quelle dettate per la soccida semplice.",
+    "con_marcatori": "Art. 2186. (Nozione e norme applicabili). Si ha rapporto di soccida anche quando il bestiame e' conferito dal soccidario e il soccidante conferisce il terreno per il pascolo. In tal caso il soccidario ha la direzione dell'impresa e al soccidante spetta il controllo della gestione. Si osservano inoltre le disposizioni dell'art. 2184 e, in quanto applicabili, quelle dettate per la soccida semplice.",
+    "caratteri": 357
+  },
+  "note": [],
+  "impronta": "sha256:0cd8b3ddfe4ed4bf80784994e50db42d50bb8476282a38f07dfabc5b59584894"
+}

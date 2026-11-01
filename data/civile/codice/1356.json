@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1356",
+    "rubrica": "Pendenza della condizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1356"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In pendenza della condizione sospensiva l'acquirente di un diritto puo' compiere atti conservativi. L'acquirente di un diritto sotto condizione risolutiva puo', in pendenza di questa, esercitarlo, ma l'altro contraente puo' compiere atti conservativi.",
+    "con_marcatori": "Art. 1356. (Pendenza della condizione). In pendenza della condizione sospensiva l'acquirente di un diritto puo' compiere atti conservativi. L'acquirente di un diritto sotto condizione risolutiva puo', in pendenza di questa, esercitarlo, ma l'altro contraente puo' compiere atti conservativi.",
+    "caratteri": 251
+  },
+  "note": [],
+  "impronta": "sha256:6b8542ea0c87d97bca9b92bd6b29ea188b892bf9b59e837bcd57196742883065"
+}

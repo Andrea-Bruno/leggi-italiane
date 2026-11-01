@@ -1,0 +1,225 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "262",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art262"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 105,
+        "ambito": "parte"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 263,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 317,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Cognome del figlio nato fuori del matrimonio. Il figlio assume il cognome del genitore che per primo lo ha riconosciuto. Se il riconoscimento e' stato effettuato contemporaneamente da entrambi i genitori il figlio assume il cognome del padre. Se la filiazione nei confronti del padre e' stata accertata o riconosciuta successivamente al riconoscimento da parte della madre, il figlio puo' assumere il cognome del padre aggiungendolo, anteponendolo o sostituendolo a quello della madre. Se la filiazione nei confronti del genitore e' stata accertata o riconosciuta successivamente all'attribuzione del cognome da parte dell'ufficiale dello stato civile, si applica il primo e il secondo comma del presente articolo; il figlio puo' mantenere il cognome precedentemente attribuitogli, ove tale cognome sia divenuto autonomo segno della sua identita' personale, aggiungendolo, anteponendolo o sostituendolo al cognome del genitore che per primo lo ha riconosciuto o al cognome dei genitori in caso di riconoscimento da parte di entrambi. Nel caso di minore eta' del figlio, il giudice decide circa l'assunzione del cognome del genitore, previo ascolto del figlio minore, che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento.",
+    "con_marcatori": "Art. 262. Cognome del figlio nato fuori del matrimonio. Il figlio assume il cognome del genitore che per primo lo ha riconosciuto. Se il riconoscimento e' stato effettuato contemporaneamente da entrambi i genitori il figlio assume il cognome del padre. (263) ((317)) Se la filiazione nei confronti del padre e' stata accertata o riconosciuta successivamente al riconoscimento da parte della madre, il figlio puo' assumere il cognome del padre aggiungendolo, anteponendolo o sostituendolo a quello della madre. Se la filiazione nei confronti del genitore e' stata accertata o riconosciuta successivamente all'attribuzione del cognome da parte dell'ufficiale dello stato civile, si applica il primo e il secondo comma del presente articolo; il figlio puo' mantenere il cognome precedentemente attribuitogli, ove tale cognome sia divenuto autonomo segno della sua identita' personale, aggiungendolo, anteponendolo o sostituendolo al cognome del genitore che per primo lo ha riconosciuto o al cognome dei genitori in caso di riconoscimento da parte di entrambi. Nel caso di minore eta' del figlio, il giudice decide circa l'assunzione del cognome del genitore, previo ascolto del figlio minore, che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento. (105) (263)",
+    "caratteri": 1256
+  },
+  "note": [
+    {
+      "numero": 105,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 262 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "262",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1996-07-23",
+        "numero": "297"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 18-23 luglio 1996, n. 297 (in G.U. 1a s.s. 31/7/1996, n. 31) ha dichiarato \"l'illegittimita' costituzionale dell'art. 262 del codice civile, nella parte in cui non prevede che il figlio naturale, nell'assumere il cognome del genitore che lo ha riconosciuto, possa ottenere dal giudice il riconoscimento del diritto a mantenere, anteponendolo o, a sua scelta, aggiungendolo a questo, il cognome precedentemente attribuitogli con atto formalmente legittimo, ove tale cognome sia divenuto autonomo segno distintivo della sua identita' personale\"."
+    },
+    {
+      "numero": 263,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "artt. 237",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "262",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "299 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "72, primo comma, del regio decreto 9 luglio 1939, n. 1238",
+          "urn": "urn:nir:stato:regio.decreto:1939-07-09;1238",
+          "data": "1939-07-09",
+          "numero": "1238",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "d.P.R. 3 novembre 2000, n. 396",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:2000-11-03;396",
+          "data": "2000-11-03",
+          "numero": "396",
+          "data_gazzetta": "2000-12-30"
+        },
+        {
+          "denominazione": "articolo 2, comma 12, della L. 15 maggio 1997, n. 127",
+          "urn": "urn:nir:stato:legge:1997-05-15;127",
+          "data": "1997-05-15",
+          "numero": "127",
+          "data_gazzetta": "1997-05-17"
+        },
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2016-12-21",
+        "numero": "286"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 8 novembre - 21 dicembre 2016, n. 286 (in G.U. 1ª s.s. 28/12/2016, n. 52), ha dichiarato l'illegittimita' costituzionale \"della norma desumibile dagli artt. 237, 262 e 299 del codice civile; 72, primo comma, del regio decreto 9 luglio 1939, n. 1238 (Ordinamento dello stato civile); e 33 e 34 del d.P.R. 3 novembre 2000, n. 396 (Regolamento per la revisione e la semplificazione dell'ordinamento dello stato civile, a norma dell'articolo 2, comma 12, della L. 15 maggio 1997, n. 127), nella parte in cui non consente ai coniugi, di comune accordo, di trasmettere ai figli, al momento della nascita, anche il cognome materno\", e, in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale del primo comma del presente articolo, nella parte in cui non consente ai genitori, di comune accordo, di trasmettere al figlio, al momento della nascita, anche il cognome materno."
+    },
+    {
+      "numero": 317,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "262",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "d.P.R. 3 novembre 2000, n. 396",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:2000-11-03;396",
+          "data": "2000-11-03",
+          "numero": "396",
+          "data_gazzetta": "2000-12-30"
+        },
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 262, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "artt. 262, primo comma",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "299, terzo comma, cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "27, comma 1, della legge 4 maggio 1983, n. 184",
+          "urn": "urn:nir:stato:legge:1983-05-04;184",
+          "data": "1983-05-04",
+          "numero": "184",
+          "data_gazzetta": "1983-05-17"
+        },
+        {
+          "denominazione": "articolo 2, comma 12, della legge 15 maggio 1997, n. 127",
+          "urn": "urn:nir:stato:legge:1997-05-15;127",
+          "data": "1997-05-15",
+          "numero": "127",
+          "data_gazzetta": "1997-05-17"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2022-05-31",
+        "numero": "131"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 27 aprile - 31 maggio 2022, n. 131 (in G.U. 1ª s.s. 01/06/2022, n. 22), ha dichiarato \"l'illegittimita' costituzionale dell'art. 262, primo comma, del codice civile, nella parte in cui prevede, con riguardo all'ipotesi del riconoscimento effettuato contemporaneamente da entrambi i genitori, che il figlio assume il cognome del padre, anziche' prevedere che il figlio assume i cognomi dei genitori, nell'ordine dai medesimi concordato, fatto salvo l'accordo, al momento del riconoscimento, per attribuire il cognome di uno di loro soltanto\" e \"in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale della norma desumibile dagli artt. 262, primo comma, e 299, terzo comma, cod. civ., 27, comma 1, della legge 4 maggio 1983, n. 184 (Diritto del minore ad una famiglia) e 34 del d.P.R. 3 novembre 2000, n. 396 (Regolamento per la revisione e la semplificazione dell'ordinamento dello stato civile, a norma dell'articolo 2, comma 12, della legge 15 maggio 1997, n. 127), nella parte in cui prevede che il figlio nato nel matrimonio assume il cognome del padre, anziche' prevedere che il figlio assume i cognomi dei genitori, nell'ordine dai medesimi concordato, fatto salvo l'accordo, alla nascita, per attribuire il cognome di uno di loro soltanto\"."
+    }
+  ],
+  "impronta": "sha256:9785761fb67b1ae15ae4408b985d98d4d31180e62a5138fd00126b0b272bb730"
+}

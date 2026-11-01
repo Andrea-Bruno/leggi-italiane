@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1749",
+    "rubrica": "Obblighi del preponente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1749"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il preponente, nei rapporti con l'agente, deve agire con lealta' e buona fede. Egli deve mettere a disposizione dell'agente la documentazione necessaria relativa ai beni o servizi trattati e fornire all'agente le informazioni necessarie all'esecuzione del contratto: in particolare avvertire l'agente, entro un termine ragionevole, non appena preveda che il volume delle operazioni commerciali sara' notevolmente inferiore a quello che l'agente avrebbe potuto normalmente attendersi. Il preponente deve inoltre informare l'agente, entro un termine ragionevole, dell'accettazione o del rifiuto e della mancata esecuzione di un affare procuratogli. Il preponente consegna all'agente un estratto conto delle provvigioni dovute al piu' tardi l'ultimo giorno del mese successivo al trimestre nel corso del quale esse sono maturate. L'estratto conto indica gli elementi essenziali in base ai quali e' stato effettuato il calcolo delle provvigioni. Entro il medesimo termine le provvigioni liquidate devono essere effettivamente pagate all'agente. L'agente ha diritto di esigere che gli siano fornite tutte le informazioni necessarie per verificare l'importo delle provvigioni liquidate ed in particolare un estratto dei libri contabili. E' nullo ogni patto contrario alle disposizioni del presente articolo.",
+    "con_marcatori": "Art. 1749. (( (Obblighi del preponente). )) ((Il preponente, nei rapporti con l'agente, deve agire con lealta' e buona fede. Egli deve mettere a disposizione dell'agente la documentazione necessaria relativa ai beni o servizi trattati e fornire all'agente le informazioni necessarie all'esecuzione del contratto: in particolare avvertire l'agente, entro un termine ragionevole, non appena preveda che il volume delle operazioni commerciali sara' notevolmente inferiore a quello che l'agente avrebbe potuto normalmente attendersi. Il preponente deve inoltre informare l'agente, entro un termine ragionevole, dell'accettazione o del rifiuto e della mancata esecuzione di un affare procuratogli. Il preponente consegna all'agente un estratto conto delle provvigioni dovute al piu' tardi l'ultimo giorno del mese successivo al trimestre nel corso del quale esse sono maturate. L'estratto conto indica gli elementi essenziali in base ai quali e' stato effettuato il calcolo delle provvigioni. Entro il medesimo termine le provvigioni liquidate devono essere effettivamente pagate all'agente. L'agente ha diritto di esigere che gli siano fornite tutte le informazioni necessarie per verificare l'importo delle provvigioni liquidate ed in particolare un estratto dei libri contabili. E' nullo ogni patto contrario alle disposizioni del presente articolo.))",
+    "caratteri": 1301
+  },
+  "note": [],
+  "impronta": "sha256:18ee1b5af9e945eba6f0df41a16ba15f5f070d92dc18f1700d7c4889b5cace0b"
+}

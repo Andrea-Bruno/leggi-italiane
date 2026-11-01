@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1865",
+    "rubrica": "Diritto di riscatto della rendita perpetua",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1865"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La rendita perpetua e' redimibile a volonta' del debitore, nonostante qualunque convenzione contraria. Le parti possono tuttavia convenire che il riscatto non possa eseguirsi durante la vita del beneficiario o prima di un certo termine, il quale non puo' eccedere i dieci anni nella rendita semplice e i trenta anni nella rendita fondiaria. Puo' anche stipularsi che il debitore non esegua il riscatto senza averne dato preavviso al beneficiario. Il termine di preavviso non puo' eccedere l'anno. Se sono convenuti termini piu' lunghi, essi si riducono nei limiti sopra stabiliti.",
+    "con_marcatori": "Art. 1865. (Diritto di riscatto della rendita perpetua). La rendita perpetua e' redimibile a volonta' del debitore, nonostante qualunque convenzione contraria. Le parti possono tuttavia convenire che il riscatto non possa eseguirsi durante la vita del beneficiario o prima di un certo termine, il quale non puo' eccedere i dieci anni nella rendita semplice e i trenta anni nella rendita fondiaria. Puo' anche stipularsi che il debitore non esegua il riscatto senza averne dato preavviso al beneficiario. Il termine di preavviso non puo' eccedere l'anno. Se sono convenuti termini piu' lunghi, essi si riducono nei limiti sopra stabiliti.",
+    "caratteri": 580
+  },
+  "note": [],
+  "impronta": "sha256:09160ff7a502a8d2ea0bf4d1574b717342ed61dd8528b25615c442c22de59d5f"
+}

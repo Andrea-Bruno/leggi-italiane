@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "648-ter.1",
+    "rubrica": "Autoriciclaggio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si applica la pena della reclusione da due a otto anni e della multa da euro 5.000 a euro 25.000 a chiunque, avendo commesso o concorso a commettere un delitto ..., impiega, sostituisce, trasferisce, in attivita' economiche, finanziarie, imprenditoriali o speculative, il denaro, i beni o le altre utilita' provenienti dalla commissione di tale delitto, in modo da ostacolare concretamente l'identificazione della loro provenienza delittuosa. La pena e' della reclusione da uno a quattro anni e della multa da euro 2.500 a euro 12.500 quando il fatto riguarda denaro o cose provenienti da contravvenzione punita con l'arresto superiore nel massimo a un anno o nel minimo a sei mesi. La pena e' diminuita se il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione inferiore nel massimo a cinque anni. Si applicano comunque le pene previste dal primo comma se il denaro, i beni o le altre utilita' provengono da un delitto commesso con le condizioni o le finalita' di cui all'articolo 416-bis.1. Fuori dei casi di cui ai commi precedenti, non sono punibili le condotte per cui il denaro, i beni o le altre utilita' vengono destinate alla mera utilizzazione o al godimento personale. La pena e' aumentata quando i fatti sono commessi nell'esercizio di un'attivita' bancaria o finanziaria o di altra attivita' professionale. La pena e' diminuita fino alla meta' per chi si sia efficacemente adoperato per evitare che le condotte siano portate a conseguenze ulteriori o per assicurare le prove del reato e l'individuazione dei beni, del denaro e delle altre utilita' provenienti dal delitto. Si applica l'ultimo comma dell'articolo 648.",
+    "con_marcatori": "Art. 648-ter.1. (Autoriciclaggio). Si applica la pena della reclusione da due a otto anni e della multa da euro 5.000 a euro 25.000 a chiunque, avendo commesso o concorso a commettere un delitto ((...)), impiega, sostituisce, trasferisce, in attivita' economiche, finanziarie, imprenditoriali o speculative, il denaro, i beni o le altre utilita' provenienti dalla commissione di tale delitto, in modo da ostacolare concretamente l'identificazione della loro provenienza delittuosa. ((La pena e' della reclusione da uno a quattro anni e della multa da euro 2.500 a euro 12.500 quando il fatto riguarda denaro o cose provenienti da contravvenzione punita con l'arresto superiore nel massimo a un anno o nel minimo a sei mesi.)) ((La pena e' diminuita se il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione inferiore nel massimo a cinque anni.)) Si applicano comunque le pene previste dal primo comma se il denaro, i beni o le altre utilita' provengono da un delitto commesso con le condizioni o le finalita' di cui all'articolo ((416-bis.1)). Fuori dei casi di cui ai commi precedenti, non sono punibili le condotte per cui il denaro, i beni o le altre utilita' vengono destinate alla mera utilizzazione o al godimento personale. La pena e' aumentata quando i fatti sono commessi nell'esercizio di un'attivita' bancaria o finanziaria o di altra attivita' professionale. La pena e' diminuita fino alla meta' per chi si sia efficacemente adoperato per evitare che le condotte siano portate a conseguenze ulteriori o per assicurare le prove del reato e l'individuazione dei beni, del denaro e delle altre utilita' provenienti dal delitto. Si applica l'ultimo comma dell'articolo 648.",
+    "caratteri": 1686
+  },
+  "note": [],
+  "impronta": "sha256:b8f433b0e6bcef59461040c3af27a21a64a6e2217783731865b863c455fc6e8c"
+}

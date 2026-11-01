@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2357",
+    "rubrica": "Acquisto delle proprie azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2357"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' non puo' acquistare azioni proprie se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate. L'acquisto deve essere autorizzato dall'assemblea, la quale ne fissa le modalita', indicando in particolare il numero massimo di azioni da acquistare, la durata, non superiore ai diciotto mesi, per la quale l'autorizzazione e' accordata, il corrispettivo minimo ed il corrispettivo massimo. Il valore nominale delle azioni acquistate a norma del primo e secondo comma dalle societa' che fanno ricorso al mercato del capitale di rischio non puo' eccedere la quinta parte del capitale sociale, tenendosi conto a tal fine anche delle azioni possedute da societa' controllate. Le azioni acquistate in violazione dei commi precedenti debbono essere alienate secondo modalita' da determinarsi dall'assemblea, entro un anno dal loro acquisto. In mancanza, deve procedersi senza indugio al loro annullamento e alla corrispondente riduzione del capitale. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma. Le disposizioni del presente articolo si applicano anche agli acquisti fatti per tramite di societa' fiduciaria o per interposta persona.",
+    "con_marcatori": "Art. 2357. (Acquisto delle proprie azioni). La societa' non puo' acquistare azioni proprie se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate. L'acquisto deve essere autorizzato dall'assemblea, la quale ne fissa le modalita', indicando in particolare il numero massimo di azioni da acquistare, la durata, non superiore ai diciotto mesi, per la quale l'autorizzazione e' accordata, il corrispettivo minimo ed il corrispettivo massimo. ((Il valore nominale delle azioni acquistate a norma del primo e secondo comma dalle societa' che fanno ricorso al mercato del capitale di rischio non puo' eccedere la quinta parte del capitale sociale, tenendosi conto a tal fine anche delle azioni possedute da societa' controllate.)) Le azioni acquistate in violazione dei commi precedenti debbono essere alienate secondo modalita' da determinarsi dall'assemblea, entro un anno dal loro acquisto. In mancanza, deve procedersi senza indugio al loro annullamento e alla corrispondente riduzione del capitale. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma. Le disposizioni del presente articolo si applicano anche agli acquisti fatti per tramite di societa' fiduciaria o per interposta persona.",
+    "caratteri": 1415
+  },
+  "note": [],
+  "impronta": "sha256:c80a6550faffde2885bae9a2bfa13b810faadd2508ec569d54de7e182b5683fe"
+}

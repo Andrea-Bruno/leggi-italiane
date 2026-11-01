@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2804",
+    "rubrica": "Assegnazione o vendita del credito dato in pegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2804"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore pignoratizio non soddisfatto puo' in ogni caso chiedere che gli sia assegnato in pagamento il credito ricevuto in pegno, fino a concorrenza del suo credito. Se il credito non e' ancora scaduto, egli puo' anche farlo vendere nelle forme stabilite dall'art. 2797.",
+    "con_marcatori": "Art. 2804. (Assegnazione o vendita del credito dato in pegno). Il creditore pignoratizio non soddisfatto puo' in ogni caso chiedere che gli sia assegnato in pagamento il credito ricevuto in pegno, fino a concorrenza del suo credito. Se il credito non e' ancora scaduto, egli puo' anche farlo vendere nelle forme stabilite dall'art. 2797.",
+    "caratteri": 274
+  },
+  "note": [],
+  "impronta": "sha256:d23e4d0bc0663484bd59c1d4e3eae642edb38b24ccde0ff19bbfbf5efa5a2b5f"
+}

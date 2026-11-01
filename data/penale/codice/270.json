@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "270",
+    "rubrica": "Associazioni sovversive",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art270"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque nel territorio dello Stato promuove, costituisce, organizza o dirige associazioni dirette e idonee a sovvertire violentemente gli ordinamenti economici o sociali costituiti nello Stato ovvero a sopprimere violentemente l'ordinamento politico e giuridico dello Stato, e' punito con la reclusione da cinque a dieci anni. Chiunque partecipa alle associazioni di cui al primo comma e' punito con la reclusione da uno a tre anni. Le pene sono aumentate per coloro che ricostituiscono, anche sotto falso nome o forma simulata, le associazioni di cui al primo comma, delle quali sia stato ordinato lo scioglimento.",
+    "con_marcatori": "Art. 270. (( (Associazioni sovversive).)) ((Chiunque nel territorio dello Stato promuove, costituisce, organizza o dirige associazioni dirette e idonee a sovvertire violentemente gli ordinamenti economici o sociali costituiti nello Stato ovvero a sopprimere violentemente l'ordinamento politico e giuridico dello Stato, e' punito con la reclusione da cinque a dieci anni. Chiunque partecipa alle associazioni di cui al primo comma e' punito con la reclusione da uno a tre anni. Le pene sono aumentate per coloro che ricostituiscono, anche sotto falso nome o forma simulata, le associazioni di cui al primo comma, delle quali sia stato ordinato lo scioglimento)).",
+    "caratteri": 616
+  },
+  "note": [],
+  "impronta": "sha256:d56ddb268f73c11053c38f25af21e00ee98346084b421102c3f28eeaf3ed033b"
+}

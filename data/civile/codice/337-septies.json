@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "337-septies",
+    "rubrica": "Disposizioni in favore dei figli maggiorenni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art337-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il giudice, valutate le circostanze, puo' disporre in favore dei figli maggiorenni non indipendenti economicamente il pagamento di un assegno periodico. Tale assegno, salvo diversa determinazione del giudice, e' versato direttamente all'avente diritto. Ai figli maggiorenni portatori di handicap grave si applicano integralmente le disposizioni previste in favore dei figli minori.",
+    "con_marcatori": "Art. 337-septies. ((Disposizioni in favore dei figli maggiorenni)) ((Il giudice, valutate le circostanze, puo' disporre in favore dei figli maggiorenni non indipendenti economicamente il pagamento di un assegno periodico. Tale assegno, salvo diversa determinazione del giudice, e' versato direttamente all'avente diritto. Ai figli maggiorenni portatori di handicap grave si applicano integralmente le disposizioni previste in favore dei figli minori.))",
+    "caratteri": 381
+  },
+  "note": [],
+  "impronta": "sha256:b26c612aa700f675fe60f90087e84e295696f0e24c7446575d3c6a2db13e42b6"
+}

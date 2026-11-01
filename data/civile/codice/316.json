@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "316",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art316"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Responsabilita' genitoriale. Entrambi i genitori hanno la responsabilita' genitoriale che e' esercitata di comune accordo tenendo conto delle capacita', delle inclinazioni naturali e delle aspirazioni del figlio. I genitori di comune accordo stabiliscono la residenza abituale del minore e adottano le scelte relative alla sua istruzione ed educazione. In caso di contrasto su questioni di particolare importanza, tra le quali quelle relative alla residenza abituale e all'istituto scolastico del figlio minorenne, ciascuno dei genitori puo' ricorrere senza formalita' al giudice indicando i provvedimenti che ritiene piu' idonei. Il giudice, sentiti i genitori e disposto l'ascolto del figlio minore che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento, tenta di raggiungere una soluzione concordata e, ove questa non sia possibile, adotta la soluzione che ritiene piu' adeguata all'interesse del figlio. Il genitore che ha riconosciuto il figlio esercita la responsabilita' genitoriale su di lui. Se il riconoscimento del figlio, nato fuori del matrimonio, e' fatto dai genitori, l'esercizio della responsabilita' genitoriale spetta ad entrambi. Il genitore che non esercita la responsabilita' genitoriale vigila sull'istruzione, sull'educazione e sulle condizioni di vita del figlio.",
+    "con_marcatori": "Art. 316. Responsabilita' genitoriale. Entrambi i genitori hanno la responsabilita' genitoriale che e' esercitata di comune accordo tenendo conto delle capacita', delle inclinazioni naturali e delle aspirazioni del figlio. I genitori di comune accordo stabiliscono la residenza abituale del minore e adottano le scelte relative alla sua istruzione ed educazione. (321)((322)) In caso di contrasto su questioni di particolare importanza, tra le quali quelle relative alla residenza abituale e all'istituto scolastico del figlio minorenne, ciascuno dei genitori puo' ricorrere senza formalita' al giudice indicando i provvedimenti che ritiene piu' idonei. (321)((322)) Il giudice, sentiti i genitori e disposto l'ascolto del figlio minore che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento, tenta di raggiungere una soluzione concordata e, ove questa non sia possibile, adotta la soluzione che ritiene piu' adeguata all'interesse del figlio. (321)((322)) Il genitore che ha riconosciuto il figlio esercita la responsabilita' genitoriale su di lui. Se il riconoscimento del figlio, nato fuori del matrimonio, e' fatto dai genitori, l'esercizio della responsabilita' genitoriale spetta ad entrambi. Il genitore che non esercita la responsabilita' genitoriale vigila sull'istruzione, sull'educazione e sulle condizioni di vita del figlio.",
+    "caratteri": 1322
+  },
+  "note": [
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:cd4a60dc0209c13b4470cbb259a8904905670544c37ab5941de55bae55689551"
+}

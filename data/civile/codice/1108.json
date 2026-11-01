@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1108",
+    "rubrica": "Innovazioni e altri atti eccedenti l'ordinaria amministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1108"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Con deliberazione della maggioranza dei partecipanti che rappresenti almeno due terzi del valore complessivo della cosa comune, si possono disporre tutte le innovazioni dirette al miglioramento della cosa o a renderne piu' comodo o redditizio il godimento, purche' esse non pregiudichino il godimento di alcuno dei partecipanti e non importino una spesa eccessivamente gravosa. Nello stesso modo si possono compiere gli altri atti eccedenti l'ordinaria amministrazione, sempre che non risultino pregiudizievoli all'interesse di alcuno dei partecipanti. E' necessario il consenso di tutti i partecipanti per gli atti di alienazione o di costituzione di diritti reali sul fondo comune e per le locazioni di durata superiore a nove anni. L'ipoteca puo' essere tuttavia consentita dalla maggioranza indicata dal primo comma, qualora abbia lo scopo di garantire la restituzione delle somme mutuate per la ricostruzione o per il miglioramento della cosa comune.",
+    "con_marcatori": "Art. 1108. (Innovazioni e altri atti eccedenti l'ordinaria amministrazione). Con deliberazione della maggioranza dei partecipanti che rappresenti almeno due terzi del valore complessivo della cosa comune, si possono disporre tutte le innovazioni dirette al miglioramento della cosa o a renderne piu' comodo o redditizio il godimento, purche' esse non pregiudichino il godimento di alcuno dei partecipanti e non importino una spesa eccessivamente gravosa. Nello stesso modo si possono compiere gli altri atti eccedenti l'ordinaria amministrazione, sempre che non risultino pregiudizievoli all'interesse di alcuno dei partecipanti. E' necessario il consenso di tutti i partecipanti per gli atti di alienazione o di costituzione di diritti reali sul fondo comune e per le locazioni di durata superiore a nove anni. L'ipoteca puo' essere tuttavia consentita dalla maggioranza indicata dal primo comma, qualora abbia lo scopo di garantire la restituzione delle somme mutuate per la ricostruzione o per il miglioramento della cosa comune.",
+    "caratteri": 955
+  },
+  "note": [],
+  "impronta": "sha256:7e458b55d8e65c370baa059d8a9d65481d9eb8a94fb648d7facbee9c04624682"
+}

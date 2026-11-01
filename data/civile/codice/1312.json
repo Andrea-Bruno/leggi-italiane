@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1312",
+    "rubrica": "Pagamento separato dei frutti o degli interessi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1312"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore che riceve, separatamente e senza riserva, la parte dei frutti o degli interessi che e' a carico di uno dei debitori perde contro di lui l'azione in solido per i frutti o per gli interessi scaduti, ma la conserva per quelli futuri.",
+    "con_marcatori": "Art. 1312. (Pagamento separato dei frutti o degli interessi). Il creditore che riceve, separatamente e senza riserva, la parte dei frutti o degli interessi che e' a carico di uno dei debitori perde contro di lui l'azione in solido per i frutti o per gli interessi scaduti, ma la conserva per quelli futuri.",
+    "caratteri": 244
+  },
+  "note": [],
+  "impronta": "sha256:30e3730ed2f01e361de4663f23649574e8b043a8069f874b94b4a8ffcd9a7a25"
+}

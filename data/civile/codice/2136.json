@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2136",
+    "rubrica": "Inapplicabilita' delle norme sulla registrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2136"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le norme relative all'iscrizione nel registro delle imprese non si applicano agli imprenditori agricoli, salvo quanto e' disposto dall'art. 2200.",
+    "con_marcatori": "Art. 2136. (Inapplicabilita' delle norme sulla registrazione). Le norme relative all'iscrizione nel registro delle imprese non si applicano agli imprenditori agricoli, salvo quanto e' disposto dall'art. 2200.",
+    "caratteri": 145
+  },
+  "note": [],
+  "impronta": "sha256:a0444bdc4ac6169cb36b2206ed09361a3e6571008c23d8fe82335ff6181b7d88"
+}

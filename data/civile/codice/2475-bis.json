@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2475-bis",
+    "rubrica": "Rappresentanza della societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2475-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori hanno la rappresentanza generale della societa'. Le limitazioni ai poteri degli amministratori che risultano dall'atto costitutivo o dall'atto di nomina, anche se pubblicate, non sono opponibili ai terzi, salvo che si provi che questi abbiano intenzionalmente agito a danno della societa'.",
+    "con_marcatori": "Art. 2475-bis. (( (Rappresentanza della societa'). )) ((Gli amministratori hanno la rappresentanza generale della societa'. Le limitazioni ai poteri degli amministratori che risultano dall'atto costitutivo o dall'atto di nomina, anche se pubblicate, non sono opponibili ai terzi, salvo che si provi che questi abbiano intenzionalmente agito a danno della societa'.))",
+    "caratteri": 308
+  },
+  "note": [
+    {
+      "numero": 91,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 3 marzo 1993, n. 88",
+          "urn": "urn:nir:stato:decretoLegislativo:1993-03-03;88",
+          "data": "1993-03-03",
+          "numero": "88",
+          "data_gazzetta": "1993-04-03"
+        },
+        {
+          "denominazione": "articoli 2475- bis",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "2476, terzo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 3 marzo 1993, n. 88, ha disposto (con l'art. 8, comma 1) che \"Per le societa' a responsabilita' limitata che hanno un unico socio alla data di entrata in vigore del presente decreto, i termini stabiliti dagli articoli 2475- bis 2476, terzo comma, del codice civile decorrono da tale data.\""
+    }
+  ],
+  "impronta": "sha256:ea60ccce8134ff2395a3a45ca5978969596bdf20ff28d1919b88759dc6278724"
+}

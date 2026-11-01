@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1599",
+    "rubrica": "Trasferimento a titolo particolare della cosa locata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1599"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto di locazione e' opponibile al terzo acquirente, se ha data certa anteriore all'alienazione della cosa. La disposizione del comma precedente non si applica alla locazione di beni mobili non iscritti in pubblici registri, se l'acquirente ne ha conseguito il possesso in buona fede. Le locazioni di beni immobili non trascritte non sono opponibili al terzo acquirente, se non nei limiti di un novennio dall'inizio della locazione. L'acquirente e' in ogni caso tenuto a rispettare la locazione, se ne ha assunto l'obbligo verso l'alienante.",
+    "con_marcatori": "Art. 1599. (Trasferimento a titolo particolare della cosa locata). Il contratto di locazione e' opponibile al terzo acquirente, se ha data certa anteriore all'alienazione della cosa. La disposizione del comma precedente non si applica alla locazione di beni mobili non iscritti in pubblici registri, se l'acquirente ne ha conseguito il possesso in buona fede. Le locazioni di beni immobili non trascritte non sono opponibili al terzo acquirente, se non nei limiti di un novennio dall'inizio della locazione. L'acquirente e' in ogni caso tenuto a rispettare la locazione, se ne ha assunto l'obbligo verso l'alienante.",
+    "caratteri": 549
+  },
+  "note": [],
+  "impronta": "sha256:3fc5dc6bec0d1668ae59533cda2d5c28c96c88aa8d8d8c5ea490fc6d37627529"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "119",
+    "rubrica": "Interdizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art119"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il matrimonio di chi e' stato interdetto per infermita' di mente puo' essere impugnato dal tutore, dal pubblico ministero e da tutti coloro che abbiano un interesse legittimo se, al tempo del matrimonio, vi era gia' sentenza di interdizione passata in giudicato, ovvero se la interdizione e' stata pronunziata posteriormente ma l'infermita' esisteva al tempo del matrimonio. Puo' essere impugnato, dopo revocata l'interdizione, anche dalla persona che era interdetta. L'azione non puo' essere proposta se, dopo revocata l'interdizione, vi e' stata coabitazione per un anno.",
+    "con_marcatori": "Art. 119. ((Interdizione.)) ((Il matrimonio di chi e' stato interdetto per infermita' di mente puo' essere impugnato dal tutore, dal pubblico ministero e da tutti coloro che abbiano un interesse legittimo se, al tempo del matrimonio, vi era gia' sentenza di interdizione passata in giudicato, ovvero se la interdizione e' stata pronunziata posteriormente ma l'infermita' esisteva al tempo del matrimonio. Puo' essere impugnato, dopo revocata l'interdizione, anche dalla persona che era interdetta. L'azione non puo' essere proposta se, dopo revocata l'interdizione, vi e' stata coabitazione per un anno)).",
+    "caratteri": 573
+  },
+  "note": [],
+  "impronta": "sha256:50db7478369209b54e365e359f1f7906c706238db41f743dbed696ef576b4a74"
+}

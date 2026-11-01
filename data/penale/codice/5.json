@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "5",
+    "rubrica": "Ignoranza della legge penale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art5"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 109,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nessuno puo' invocare a propria scusa l'ignoranza della legge penale.",
+    "con_marcatori": "Art. 5. (Ignoranza della legge penale) Nessuno puo' invocare a propria scusa l'ignoranza della legge penale.((109))",
+    "caratteri": 69
+  },
+  "note": [
+    {
+      "numero": 109,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 5 c.p.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1988-03-24",
+        "numero": "364"
+      },
+      "testo": "La Corte Costituzionale con sentenza 23-24 marzo 1988, n. 364 (in G.U. 1ª s.s. 30/03/1988, n. 13) ha dichiarato \"l'illegittimita' costituzionale dell'art. 5 c.p. nella parte in cui non esclude dall'inescusabilita' dell'ignoranza della legge penale l'ignoranza inevitabile\"."
+    }
+  ],
+  "impronta": "sha256:23c23a2016f7a9999a75cf017825ccac716ea0a1c7c6101ce3f3b57af1d054b0"
+}

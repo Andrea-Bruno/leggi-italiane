@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "275-bis",
+    "rubrica": "Violazione delle misure restrittive dell'Unione europea",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art275-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". E' punito con la reclusione da due a sei anni e con la multa da euro 25.000 a euro 250.000 chiunque, in violazione di un divieto, di un obbligo o di una restrizione imposti da una misura restrittiva dell'Unione europea o da disposizioni di legge nazionale che attuano una misura restrittiva dell'Unione europea: a) mette direttamente o indirettamente a disposizione di una persona, entita', organismo o gruppo designati, o stanzia a vantaggio dei medesimi fondi o risorse economiche;. b) omette di adottare misure di congelamento su fondi o risorse economiche appartenenti a una persona, a una entita', a un organismo o gruppo designati, o da questi posseduti, detenuti o controllati;. c) conclude a qualsiasi titolo operazioni economiche, commerciali o finanziarie, ivi compresi l'affidamento o la prosecuzione dell'esecuzione di contratti di appalto pubblico o di concessione, con uno Stato terzo o con suoi organismi o con entita' od organismi direttamente posseduti o controllati dal medesimo Stato terzo o dai suoi organismi;. d) importa, esporta, commercia, vende, acquista, trasferisce, fa transitare, trasporta beni, anche in forma intangibile, ovvero presta servizi di intermediazione, di assistenza tecnica o altri servizi concernenti i medesimi beni; e) presta servizi di qualsiasi natura, ivi compresi servizi finanziari, o svolge operazioni finanziarie.. La stessa pena di cui al primo comma, si applica a chiunque elude l'esecuzione di una misura restrittiva dell'Unione europea mediante: a) l'utilizzo, il trasferimento a terzi o la cessione in altro modo di fondi o di risorse economiche oggetto di congelamento direttamente o indirettamente posseduti, detenuti o controllati da una persona, entita', organismo o gruppo designati; b) la presentazione o l'utilizzo di dichiarazioni o documenti falsi o attestanti cose non vere allo scopo di ostacolare l'identificazione del titolare effettivo o beneficiario finale di fondi o di risorse economiche da sottoporre a congelamento.. Quando, nei casi indicati dal primo comma e dal secondo comma, i fondi, le risorse economiche, i beni, i servizi, le operazioni o le attivita' hanno, al momento del fatto, un valore inferiore a euro 10.000, si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da euro 15.000 a euro 90.000. La disposizione di cui al periodo che precede non si applica nell'ipotesi di cui al primo comma, lettera d) se il fatto ha ad oggetto prodotti inclusi nell'elenco comune delle attrezzature militari dell'Unione europea o prodotti a duplice uso di cui agli allegati I e IV del regolamento (UE) 2021/821 del Parlamento europeo e del Consiglio del 20 maggio 2021.. Ai fini della determinazione del valore indicato al terzo comma, si tiene conto delle operazioni di minore importo quando esecutive del medesimo disegno economico.. Le disposizioni di cui ai commi che precedono si applicano anche nei casi di operazioni compiute senza la relativa autorizzazione, o con autorizzazione ottenuta fornendo dichiarazioni o documentazione false.",
+    "con_marcatori": "Art. 275-bis. (( (Violazione delle misure restrittive dell'Unione europea).)). ((E' punito con la reclusione da due a sei anni e con la multa da euro 25.000 a euro 250.000 chiunque, in violazione di un divieto, di un obbligo o di una restrizione imposti da una misura restrittiva dell'Unione europea o da disposizioni di legge nazionale che attuano una misura restrittiva dell'Unione europea:)) a) ((mette direttamente o indirettamente a disposizione di una persona, entita', organismo o gruppo designati, o stanzia a vantaggio dei medesimi fondi o risorse economiche;)). b) ((omette di adottare misure di congelamento su fondi o risorse economiche appartenenti a una persona, a una entita', a un organismo o gruppo designati, o da questi posseduti, detenuti o controllati;)). c) ((conclude a qualsiasi titolo operazioni economiche, commerciali o finanziarie, ivi compresi l'affidamento o la prosecuzione dell'esecuzione di contratti di appalto pubblico o di concessione, con uno Stato terzo o con suoi organismi o con entita' od organismi direttamente posseduti o controllati dal medesimo Stato terzo o dai suoi organismi;)). d) ((importa, esporta, commercia, vende, acquista, trasferisce, fa transitare, trasporta beni, anche in forma intangibile, ovvero presta servizi di intermediazione, di assistenza tecnica o altri servizi concernenti i medesimi beni;)) e) ((presta servizi di qualsiasi natura, ivi compresi servizi finanziari, o svolge operazioni finanziarie.)). ((La stessa pena di cui al primo comma, si applica a chiunque elude l'esecuzione di una misura restrittiva dell'Unione europea mediante:)) a) ((l'utilizzo, il trasferimento a terzi o la cessione in altro modo di fondi o di risorse economiche oggetto di congelamento direttamente o indirettamente posseduti, detenuti o controllati da una persona, entita', organismo o gruppo designati;)) b) ((la presentazione o l'utilizzo di dichiarazioni o documenti falsi o attestanti cose non vere allo scopo di ostacolare l'identificazione del titolare effettivo o beneficiario finale di fondi o di risorse economiche da sottoporre a congelamento.)). ((Quando, nei casi indicati dal primo comma e dal secondo comma, i fondi, le risorse economiche, i beni, i servizi, le operazioni o le attivita' hanno, al momento del fatto, un valore inferiore a euro 10.000, si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da euro 15.000 a euro 90.000. La disposizione di cui al periodo che precede non si applica nell'ipotesi di cui al primo comma, lettera d) se il fatto ha ad oggetto prodotti inclusi nell'elenco comune delle attrezzature militari dell'Unione europea o prodotti a duplice uso di cui agli allegati I e IV del regolamento (UE) 2021/821 del Parlamento europeo e del Consiglio del 20 maggio 2021.)). ((Ai fini della determinazione del valore indicato al terzo comma, si tiene conto delle operazioni di minore importo quando esecutive del medesimo disegno economico.)). ((Le disposizioni di cui ai commi che precedono si applicano anche nei casi di operazioni compiute senza la relativa autorizzazione, o con autorizzazione ottenuta fornendo dichiarazioni o documentazione false.))",
+    "caratteri": 3050
+  },
+  "note": [],
+  "impronta": "sha256:8fc7e2b73c26b6315423567c50d00c3b6dd82ae4f57932f9489c76960696aa49"
+}

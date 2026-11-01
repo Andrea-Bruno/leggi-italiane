@@ -1,0 +1,104 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "313",
+    "rubrica": "Autorizzazione a procedere o richiesta di procedimento",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art313"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 43,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Per i delitti preveduti dagli articoli 244, 245, 265, 267, 269, 273, 274, 277, 278, 279, 287 e 288 non si puo' procedere senza l'autorizzazione del Ministro per la giustizia. Parimenti non si puo' procedere senza tale autorizzazione per i delitti preveduti dagli articoli 247, 248, 249, 250, 251 e 252, quando sono commessi a danno di uno Stato estero alleato o associato, a fine di guerra, allo Stato italiano. Per il delitto preveduto nell'art. 290, quando e' commesso contro l'Assemblea Costituente ovvero contro le Assemblee legislative o una di queste, non si puo' procedere senza l'autorizzazione dell'Assemblea, contro la quale il vilipendio e' diretto. Negli altri casi non si puo' procedere senza l'autorizzazione del Ministro per la giustizia. I delitti preveduti dagli articoli 296, 297, 298 in relazione agli articoli 296 e 297, e dall'art. 299, sono punibili a richiesta del Ministro per la giustizia. --------------- AGGIORNAMENTO (1a) La L. 9 febbraio 1942, n. 97 ha disposto (con l'articolo unico, comma 1) che \"Per tutta la durata della guerra e fino a sei mesi dopo la cessazione dello stato di guerra, la facolta' di concedere l'autorizzazione a procedere in ordine ai reati preveduti nell'art. 313, comma 1° e 2° del Codice penale e nell'art. 16 del Codice di procedura penale e commessi nel territorio delle Isole italiane dell'Egeo, e' esercitata dal Governatore delle isole anzidette\".",
+    "con_marcatori": "Art. 313. (Autorizzazione a procedere o richiesta di procedimento). Per i delitti preveduti dagli articoli 244, 245, 265, 267, 269, 273, 274, 277, 278, 279, 287 e 288 non si puo' procedere senza l'autorizzazione del Ministro per la giustizia. Parimenti non si puo' procedere senza tale autorizzazione per i delitti preveduti dagli articoli 247, 248, 249, 250, 251 e 252, quando sono commessi a danno di uno Stato estero alleato o associato, a fine di guerra, allo Stato italiano. Per il delitto preveduto nell'art. 290, quando e' commesso contro l'Assemblea Costituente ovvero contro le Assemblee legislative o una di queste, non si puo' procedere senza l'autorizzazione dell'Assemblea, contro la quale il vilipendio e' diretto. Negli altri casi non si puo' procedere senza l'autorizzazione del Ministro per la giustizia. ((43)) I delitti preveduti dagli articoli 296, 297, 298 in relazione agli articoli 296 e 297, e dall'art. 299, sono punibili a richiesta del Ministro per la giustizia. --------------- AGGIORNAMENTO (1a) La L. 9 febbraio 1942, n. 97 ha disposto (con l'articolo unico, comma 1) che \"Per tutta la durata della guerra e fino a sei mesi dopo la cessazione dello stato di guerra, la facolta' di concedere l'autorizzazione a procedere in ordine ai reati preveduti nell'art. 313, comma 1° e 2° del Codice penale e nell'art. 16 del Codice di procedura penale e commessi nel territorio delle Isole italiane dell'Egeo, e' esercitata dal Governatore delle isole anzidette\".",
+    "caratteri": 1408
+  },
+  "note": [
+    {
+      "numero": 6,
+      "effetto": "abrogazione",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 288",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;288",
+          "data": "1944-09-14",
+          "numero": "288",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288 ha disposto (con l'art. 3, comma 3) che nel comma 3 del presente articolo sono soppresse le parole «del gran consiglio del fascismo». Ha inoltre disposto (con l'art. 1, comma 1) che le presenti modifiche sono apportate fino a quando non sia pubblicato il nuovo Codice penale."
+    },
+    {
+      "numero": 43,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 313, terzo comma, del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1969-02-17",
+        "numero": "15"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 12 - 17 febbraio 1969, n. 15 (in G.U. 1ª s.s. 26/2/1969, n. 52), ha dichiarato \"la illegittimita' costituzionale dell'art. 313, terzo comma, del Codice penale, nei limiti in cui attribuisce il potere di dare l'autorizzazione a procedere per il delitto di vilipendio della Corte costituzionale al Ministro di grazia e giustizia anziche' alla Corte stessa\"."
+    }
+  ],
+  "impronta": "sha256:2c8ed1f42ca8f0cc95984f65e748338d5db1e789d16cd063f9fc254e2f66c907"
+}

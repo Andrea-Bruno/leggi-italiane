@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "619",
+    "rubrica": "Nullita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art619"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I testamenti previsti in questa sezione sono nulli quando manca la redazione in iscritto della dichiarazione del testatore ovvero la sottoscrizione della persona autorizzata a riceverla o del testatore. Per gli altri difetti di forma si osserva il disposto del secondo comma dell'art. 606.",
+    "con_marcatori": "Art. 619. (Nullita'). I testamenti previsti in questa sezione sono nulli quando manca la redazione in iscritto della dichiarazione del testatore ovvero la sottoscrizione della persona autorizzata a riceverla o del testatore. Per gli altri difetti di forma si osserva il disposto del secondo comma dell'art. 606.",
+    "caratteri": 289
+  },
+  "note": [],
+  "impronta": "sha256:8c9bca7a408c01654a248c778d9d0a958d9e1feefb83b8582508ff1d6584a009"
+}

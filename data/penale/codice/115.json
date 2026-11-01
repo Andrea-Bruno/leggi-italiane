@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "115",
+    "rubrica": "Accordo per commettere un reato. Istigazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art115"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che la legge disponga altrimenti, qualora due o piu' persone si accordino allo scopo di commettere un reato, e questo non sia commesso, nessuna di esse e' punibile per il solo fatto dell'accordo. Nondimeno, nel caso di accordo per commettere un delitto, il giudice puo' applicare una misura di sicurezza. Le stesse disposizioni si applicano nel caso di istigazione a commettere un reato, se la istigazione e' stata accolta, ma il reato non e' stato commesso. Qualora la istigazione non sia stata accolta, e si sia trattato d'istigazione a un delitto, l'istigatore puo' essere sottoposto a misura di sicurezza.",
+    "con_marcatori": "Art. 115. (Accordo per commettere un reato. Istigazione) Salvo che la legge disponga altrimenti, qualora due o piu' persone si accordino allo scopo di commettere un reato, e questo non sia commesso, nessuna di esse e' punibile per il solo fatto dell'accordo. Nondimeno, nel caso di accordo per commettere un delitto, il giudice puo' applicare una misura di sicurezza. Le stesse disposizioni si applicano nel caso di istigazione a commettere un reato, se la istigazione e' stata accolta, ma il reato non e' stato commesso. Qualora la istigazione non sia stata accolta, e si sia trattato d'istigazione a un delitto, l'istigatore puo' essere sottoposto a misura di sicurezza.",
+    "caratteri": 615
+  },
+  "note": [],
+  "impronta": "sha256:0506f42ca6c9dfd93cc2350e610ec2de17dbf93ffa8fe2871fada02727e1ac3d"
+}

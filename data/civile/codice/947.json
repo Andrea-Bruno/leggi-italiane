@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "947",
+    "rubrica": "Mutamenti del letto dei fiumi derivanti da regolamento del loro corso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art947"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni degli articoli 942, 945 e 946 si applicano ai terreni comunque abbandonati sia a seguito di eventi naturali che per fatti artificiali indotti dall'attivita' antropica, ivi comprendendo anche i terreni abbandonati per fenomeni di inalveamento. La disposizione dell'articolo 941 non si applica nel caso in cui le alluvioni derivano da regolamento del corso dei fiumi, da bonifiche o da altri fatti artificiali indotti dall'attivita' antropica. In ogni caso e' esclusa la sdemanializzazione tacita dei beni del demanio idrico.",
+    "con_marcatori": "Art. 947. (( (Mutamenti del letto dei fiumi derivanti da regolamento del loro corso). )) ((Le disposizioni degli articoli 942, 945 e 946 si applicano ai terreni comunque abbandonati sia a seguito di eventi naturali che per fatti artificiali indotti dall'attivita' antropica, ivi comprendendo anche i terreni abbandonati per fenomeni di inalveamento. La disposizione dell'articolo 941 non si applica nel caso in cui le alluvioni derivano da regolamento del corso dei fiumi, da bonifiche o da altri fatti artificiali indotti dall'attivita' antropica. In ogni caso e' esclusa la sdemanializzazione tacita dei beni del demanio idrico)).",
+    "caratteri": 539
+  },
+  "note": [],
+  "impronta": "sha256:964c2c72fda839b9a09db158466b0bf6146103442f7521aa2f26a21ebfde35a5"
+}

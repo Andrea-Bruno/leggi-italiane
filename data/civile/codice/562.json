@@ -1,0 +1,101 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "562",
+    "rubrica": "Insolvenza del donatario soggetto a riduzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art562"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la cosa donata e' perita per causa imputabile al donatario o ai suoi aventi causa o se ricorre uno dei casi di cui agli articoli 561, primo comma, secondo periodo, o 563, e il donatario e' in tutto o in parte insolvente, il valore della donazione che non si puo' recuperare dal donatario si detrae dalla massa ereditaria, ma restano impregiudicate le ragioni di credito del legittimario e dei donatari antecedenti contro il donatario insolvente.",
+    "con_marcatori": "Art. 562. (Insolvenza del donatario soggetto a riduzione). Se la cosa donata e' perita per causa imputabile al donatario o ai suoi aventi causa ((o se ricorre uno dei casi di cui agli articoli 561, primo comma, secondo periodo, o 563)), e il donatario e' in tutto o in parte insolvente, il valore della donazione che non si puo' recuperare dal donatario si detrae dalla massa ereditaria, ma restano impregiudicate le ragioni di credito del legittimario e dei donatari antecedenti contro il donatario insolvente. ((346))",
+    "caratteri": 448
+  },
+  "note": [
+    {
+      "numero": 346,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 2 dicembre 2025, n. 182",
+          "urn": "urn:nir:stato:legge:2025-12-02;182",
+          "data": "2025-12-02",
+          "numero": "182",
+          "data_gazzetta": "2025-12-03"
+        },
+        {
+          "denominazione": "articoli 561",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "562",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "563",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "2652",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "2690 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 563, quarto comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 2 dicembre 2025, n. 182 ha disposto (con l'art. 44, comma 2) che \"Gli articoli 561, 562, 563, 2652 e 2690 del codice civile, come modificati dal comma 1 del presente articolo, si applicano alle successioni aperte dopo la data di entrata in vigore della presente legge. Alle successioni aperte in data anteriore, i medesimi articoli continuano ad applicarsi nel testo previgente e puo' essere proposta azione di restituzione degli immobili anche nei confronti degli aventi causa dai donatari se e' gia' stata notificata e trascritta domanda di riduzione o se quest'ultima e' notificata e trascritta entro sei mesi dalla data di entrata in vigore della presente legge oppure a condizione che i legittimari, entro sei mesi dalla data di entrata in vigore della presente legge, notifichino e trascrivano nei confronti del donatario e dei suoi aventi causa un atto stragiudiziale di opposizione alla donazione. Ai fini di cui al secondo periodo, restano salvi gli effetti degli atti di opposizione gia' notificati e trascritti ai sensi dell'articolo 563, quarto comma, del codice civile nel testo previgente e fermo quanto previsto dal medesimo comma. In mancanza di notificazione e trascrizione della domanda di riduzione o dell'atto di opposizione previsto dal terzo periodo, entro sei mesi dalla data di entrata in vigore della presente legge, gli articoli 561, 562, 563, 2652 e 2690 del codice civile, come modificati dal comma 1 del presente articolo, si applicano anche alle successioni aperte in data anteriore a quella di entrata in vigore della presente legge, decorsi sei mesi dalla sua entrata in vigore\"."
+    }
+  ],
+  "impronta": "sha256:297228db6b6b532f284842c2e541421aa18547ef2fa3be9e2c54956f34b57d41"
+}

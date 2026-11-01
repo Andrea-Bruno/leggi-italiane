@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1530",
+    "rubrica": "Pagamento contro documenti a mezzo di banca",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1530"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando il pagamento del prezzo deve avvenire a mezzo di una banca, il venditore non puo' rivolgersi al compratore se non dopo il rifiuto opposto dalla banca stessa e constatato all'atto della presentazione dei documenti nelle forme stabilite dagli usi. La banca che ha confermato il credito al venditore puo' opporgli solo le eccezioni derivanti dall'incompletezza o irregolarita' dei documenti e quelle relative al rapporto di conferma del credito.",
+    "con_marcatori": "Art. 1530. (Pagamento contro documenti a mezzo di banca). Quando il pagamento del prezzo deve avvenire a mezzo di una banca, il venditore non puo' rivolgersi al compratore se non dopo il rifiuto opposto dalla banca stessa e constatato all'atto della presentazione dei documenti nelle forme stabilite dagli usi. La banca che ha confermato il credito al venditore puo' opporgli solo le eccezioni derivanti dall'incompletezza o irregolarita' dei documenti e quelle relative al rapporto di conferma del credito.",
+    "caratteri": 449
+  },
+  "note": [],
+  "impronta": "sha256:a72edc060d6f4a7a5017668141eef9d75fe4008a4de1b7d4acdfa16fee9bf044"
+}

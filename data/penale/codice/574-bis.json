@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "574-bis",
+    "rubrica": "Sottrazione e trattenimento di minore all'estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art574-bis"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 303,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque sottrae un minore al genitore esercente la responsabilita' genitoriale o al tutore, conducendolo o trattenendolo all'estero contro la volonta' del medesimo genitore o tutore, impedendo in tutto o in parte allo stesso l'esercizio della responsabilita' genitoriale, e' punito con la reclusione da uno a quattro anni. Se il fatto di cui al primo comma e' commesso nei confronti di un minore che abbia compiuto gli anni quattordici e con il suo consenso, si applica la pena della reclusione da sei mesi a tre anni. Se i fatti di cui al primo e secondo comma sono commessi da un genitore in danno del figlio minore, la condanna comporta la sospensione dall'esercizio della responsabilita' genitoriale.",
+    "con_marcatori": "Art. 574-bis. (Sottrazione e trattenimento di minore all'estero). Salvo che il fatto costituisca piu' grave reato, chiunque sottrae un minore al genitore esercente la responsabilita' genitoriale o al tutore, conducendolo o trattenendolo all'estero contro la volonta' del medesimo genitore o tutore, impedendo in tutto o in parte allo stesso l'esercizio della responsabilita' genitoriale, e' punito con la reclusione da uno a quattro anni. Se il fatto di cui al primo comma e' commesso nei confronti di un minore che abbia compiuto gli anni quattordici e con il suo consenso, si applica la pena della reclusione da sei mesi a tre anni. Se i fatti di cui al primo e secondo comma sono commessi da un genitore in danno del figlio minore, la condanna comporta la sospensione dall'esercizio della responsabilita' genitoriale. ((303))",
+    "caratteri": 754
+  },
+  "note": [
+    {
+      "numero": 303,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 574-bis, terzo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2020-05-29",
+        "numero": "102"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 6 - 29 maggio 2020, n. 102 (in G.U. 1ª s.s. 03/06/2020, n. 23), ha dichiarato \"l'illegittimita' costituzionale dell'art. 574-bis, terzo comma, del codice penale, nella parte in cui prevede che la condanna pronunciata contro il genitore per il delitto di sottrazione e mantenimento di minore all'estero ai danni del figlio minore comporta la sospensione dell'esercizio della responsabilita' genitoriale, anziche' la possibilita' per il giudice di disporre la sospensione dall'esercizio della responsabilita' genitoriale\"."
+    }
+  ],
+  "impronta": "sha256:4389c59b0a084a4168c4e259b1952407628766414f7979369c44b9f93c090327"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1161",
+    "rubrica": "Usucapione dei beni mobili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1161"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In mancanza di titolo idoneo, la proprieta' dei beni mobili e gli altri diritti reali di godimento sui beni medesimi si acquistano in virtu' del possesso continuato per dieci anni, qualora il possesso sia stato acquistato in buona fede. Se il possessore e' di mala fede, l'usucapione si compie con il decorso di venti anni.",
+    "con_marcatori": "Art. 1161. (Usucapione dei beni mobili). In mancanza di titolo idoneo, la proprieta' dei beni mobili e gli altri diritti reali di godimento sui beni medesimi si acquistano in virtu' del possesso continuato per dieci anni, qualora il possesso sia stato acquistato in buona fede. Se il possessore e' di mala fede, l'usucapione si compie con il decorso di venti anni.",
+    "caratteri": 323
+  },
+  "note": [],
+  "impronta": "sha256:74bffc8a955168701bde71d2a02d4e0934e87d34989f3ee1dc453d5a956ad270"
+}

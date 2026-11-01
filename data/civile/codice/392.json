@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "392",
+    "rubrica": "Curatore dell'emancipato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art392"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Curatore del minore sposato con persona maggiore di eta' e' il coniuge. Se entrambi i coniugi sono minori di eta', il giudice tutelare puo' nominare un unico curatore, scelto preferibilmente fra i genitori. Se interviene l'annullamento per una causa diversa dall'eta', o lo scioglimento o la cessazione degli effetti civili del matrimonio o la separazione personale, il giudice tutelare nomina curatore uno dei genitori, se idoneo all'ufficio, o, in mancanza, altra persona. Nel caso in cui il minore contrae successivamente matrimonio, il curatore lo assiste altresi' negli atti previsti nell'articolo 165.",
+    "con_marcatori": "Art. 392. (( (Curatore dell'emancipato).)) ((Curatore del minore sposato con persona maggiore di eta' e' il coniuge. Se entrambi i coniugi sono minori di eta', il giudice tutelare puo' nominare un unico curatore, scelto preferibilmente fra i genitori. Se interviene l'annullamento per una causa diversa dall'eta', o lo scioglimento o la cessazione degli effetti civili del matrimonio o la separazione personale, il giudice tutelare nomina curatore uno dei genitori, se idoneo all'ufficio, o, in mancanza, altra persona. Nel caso in cui il minore contrae successivamente matrimonio, il curatore lo assiste altresi' negli atti previsti nell'articolo 165)).",
+    "caratteri": 607
+  },
+  "note": [],
+  "impronta": "sha256:6fe3697df5a340cfe080c201ec17ae50954279614df9589ce950984a0b943fd1"
+}

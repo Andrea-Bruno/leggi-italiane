@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2639",
+    "rubrica": "Estensione delle qualifiche soggettive",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2639"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per i reati previsti dal presente titolo al soggetto formalmente investito della qualifica o titolare della funzione prevista dalla legge civile e' equiparato sia chi e' tenuto a svolgere la stessa funzione, diversamente qualificata, sia chi esercita in modo continuativo e significativo i poteri tipici inerenti alla qualifica o alla funzione. Fuori dei casi di applicazione delle norme riguardanti i delitti dei pubblici ufficiali contro la pubblica amministrazione, le disposizioni sanzionatorie relative agli amministratori si applicano anche a coloro che sono legalmente incaricati dall'autorita' giudiziaria o dall'autorita' pubblica di vigilanza di amministrare la societa' o i beni dalla stessa posseduti o gestiti per conto di terzi.",
+    "con_marcatori": "Art. 2639. (( (Estensione delle qualifiche soggettive).)) ((Per i reati previsti dal presente titolo al soggetto formalmente investito della qualifica o titolare della funzione prevista dalla legge civile e' equiparato sia chi e' tenuto a svolgere la stessa funzione, diversamente qualificata, sia chi esercita in modo continuativo e significativo i poteri tipici inerenti alla qualifica o alla funzione. Fuori dei casi di applicazione delle norme riguardanti i delitti dei pubblici ufficiali contro la pubblica amministrazione, le disposizioni sanzionatorie relative agli amministratori si applicano anche a coloro che sono legalmente incaricati dall'autorita' giudiziaria o dall'autorita' pubblica di vigilanza di amministrare la societa' o i beni dalla stessa posseduti o gestiti per conto di terzi.))",
+    "caratteri": 742
+  },
+  "note": [],
+  "impronta": "sha256:92dfebd3907327914bb1847de1c7fd08fc09e78a29ddc65ae7eef623dff445f0"
+}

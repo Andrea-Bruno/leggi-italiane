@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2473-bis",
+    "rubrica": "Esclusione del socio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2473-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo puo' prevedere specifiche ipotesi di esclusione per giusta causa del socio. In tal caso si applicano le disposizioni del precedente articolo, esclusa la possibilita' del rimborso della partecipazione mediante riduzione del capitale sociale.",
+    "con_marcatori": "Art. 2473-bis. (( (Esclusione del socio). )) (( L'atto costitutivo puo' prevedere specifiche ipotesi di esclusione per giusta causa del socio. In tal caso si applicano le disposizioni del precedente articolo, esclusa la possibilita' del rimborso della partecipazione mediante riduzione del capitale sociale. ))",
+    "caratteri": 259
+  },
+  "note": [],
+  "impronta": "sha256:b4053d97397b607449761f0f792b1dec7b078dc8617406fc3e73fa8baf437bb8"
+}

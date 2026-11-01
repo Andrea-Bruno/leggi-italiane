@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "739",
+    "rubrica": "Donazioni ai discendenti o al coniuge dell'erede. Donazioni a coniugi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art739"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'erede non e' tenuto a conferire le donazioni fatte ai suoi discendenti o al coniuge, ancorche' succedendo a costoro ne abbia conseguito il vantaggio. Se le donazioni sono state fatte congiuntamente a coniugi di cui uno e' discendente del donante, la sola porzione a questo donata e' soggetta a collazione.",
+    "con_marcatori": "Art. 739. (Donazioni ai discendenti o al coniuge dell'erede. Donazioni a coniugi). L'erede non e' tenuto a conferire le donazioni fatte ai suoi discendenti o al coniuge, ancorche' succedendo a costoro ne abbia conseguito il vantaggio. Se le donazioni sono state fatte congiuntamente a coniugi di cui uno e' discendente del donante, la sola porzione a questo donata e' soggetta a collazione.",
+    "caratteri": 307
+  },
+  "note": [],
+  "impronta": "sha256:ad314c45e8e61b81cf0b01df5bba10275e08778456cae1ba4ce8a81697d39212"
+}

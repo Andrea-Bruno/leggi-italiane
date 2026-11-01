@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2921",
+    "rubrica": "Evizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2921"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'acquirente della cosa espropriata, se ne subisce l'evizione, puo' ripetere il prezzo non ancora distribuito, dedotte le spese, e, se la distribuzione e' gia' avvenuta, puo' ripeterne da ciascun creditore la parte che ha riscossa e dal debitore l'eventuale residuo, salva la responsabilita' del creditore procedente per i danni e per le spese. Se l'evizione e' soltanto parziale, l'acquirente ha diritto di ripetere una parte proporzionale del prezzo. La ripetizione ha luogo anche se l'aggiudicatario, per evitare l'evizione, ha pagato una somma di danaro. In ogni caso l'acquirente non puo' ripetere il prezzo nei confronti dei creditori privilegiati o ipotecari ai quali la causa di evizione non era opponibile.",
+    "con_marcatori": "Art. 2921. (Evizione). L'acquirente della cosa espropriata, se ne subisce l'evizione, puo' ripetere il prezzo non ancora distribuito, dedotte le spese, e, se la distribuzione e' gia' avvenuta, puo' ripeterne da ciascun creditore la parte che ha riscossa e dal debitore l'eventuale residuo, salva la responsabilita' del creditore procedente per i danni e per le spese. Se l'evizione e' soltanto parziale, l'acquirente ha diritto di ripetere una parte proporzionale del prezzo. La ripetizione ha luogo anche se l'aggiudicatario, per evitare l'evizione, ha pagato una somma di danaro. In ogni caso l'acquirente non puo' ripetere il prezzo nei confronti dei creditori privilegiati o ipotecari ai quali la causa di evizione non era opponibile.",
+    "caratteri": 715
+  },
+  "note": [],
+  "impronta": "sha256:c5e2357f231525b56ca626518a32c33de5c90fc622ce32b9695189a2a4aeb18d"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2556",
+    "rubrica": "Imprese soggette a registrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2556"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per le imprese soggette a registrazione i contratti che hanno per oggetto il trasferimento della proprieta' o il godimento dell'azienda devono essere provati per iscritto, salva l'osservanza delle forme stabilite dalla legge per il trasferimento dei singoli beni che compongono l'azienda o per la particolare natura del contratto. I contratti di cui al primo comma, in forma pubblica o per scrittura privata autenticata, devono essere depositati per l'iscrizione nel registro delle imprese, nel termine di trenta giorni, a cura del notaio rogante o autenticante. 92a ------------------- AGGIORNAMENTO (92a) La L. 12 agosto 1993, n. 310, ha disposto (con l'art. 9, comma 1) che \"il deposito di cui al secondo comma dell'articolo 2556 del codice civile, come sostituito dall'articolo 6 della presente legge, deve essere effettuato a cura del notaio che ha rogato o autenticato l'atto, nel termine ivi previsto, presso la cancelleria del tribunale competente e iscritto nei successivi trenta giorni nel registro delle ditte della competente camera di commercio, industria, artigianato e agricoltura.\"",
+    "con_marcatori": "Art. 2556. (Imprese soggette a registrazione). Per le imprese soggette a registrazione i contratti che hanno per oggetto il trasferimento della proprieta' o il godimento dell'azienda devono essere provati per iscritto, salva l'osservanza delle forme stabilite dalla legge per il trasferimento dei singoli beni che compongono l'azienda o per la particolare natura del contratto. ((I contratti di cui al primo comma, in forma pubblica o per scrittura privata autenticata, devono essere depositati per l'iscrizione nel registro delle imprese, nel termine di trenta giorni, a cura del notaio rogante o autenticante)). ((92a)) ------------------- AGGIORNAMENTO (92a) La L. 12 agosto 1993, n. 310, ha disposto (con l'art. 9, comma 1) che \"il deposito di cui al secondo comma dell'articolo 2556 del codice civile, come sostituito dall'articolo 6 della presente legge, deve essere effettuato a cura del notaio che ha rogato o autenticato l'atto, nel termine ivi previsto, presso la cancelleria del tribunale competente e iscritto nei successivi trenta giorni nel registro delle ditte della competente camera di commercio, industria, artigianato e agricoltura.\"",
+    "caratteri": 1097
+  },
+  "note": [],
+  "impronta": "sha256:d4b3b6a627a7cdfe6ab62554b5d8ef1eeb03e2a1ea66ba97f9cd75f11fa443a1"
+}

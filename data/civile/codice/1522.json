@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1522",
+    "rubrica": "Vendita su campione e su tipo di campione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1522"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la vendita e' fatta su campione, s'intende che questo deve servire come esclusivo paragone per la qualita' della merce, e in tal caso qualsiasi difformita' attribuisce al compratore il diritto alla risoluzioni del contratto. Qualora, pero', dalla convenzione o dagli usi risulti che il campione deve servire unicamente a indicare in modo approssimativo la qualita', si puo' domandare la risoluzione soltanto se la difformita' dal campione sia notevole. In ogni caso l'azione e' soggetta alla decadenza alla prescrizione stabilite dall'art. 1495.",
+    "con_marcatori": "Art. 1522. (Vendita su campione e su tipo di campione). Se la vendita e' fatta su campione, s'intende che questo deve servire come esclusivo paragone per la qualita' della merce, e in tal caso qualsiasi difformita' attribuisce al compratore il diritto alla risoluzioni del contratto. Qualora, pero', dalla convenzione o dagli usi risulti che il campione deve servire unicamente a indicare in modo approssimativo la qualita', si puo' domandare la risoluzione soltanto se la difformita' dal campione sia notevole. In ogni caso l'azione e' soggetta alla decadenza alla prescrizione stabilite dall'art. 1495.",
+    "caratteri": 548
+  },
+  "note": [],
+  "impronta": "sha256:7e2827de5826f78d3b54fd97ed1f154da9af51901065c2c6f98d3a291025ff43"
+}

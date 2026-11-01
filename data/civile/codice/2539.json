@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2539",
+    "rubrica": "Rappresentanza nell'assemblea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2539"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle cooperative disciplinate dalle norme sulla societa' per azioni ciascun socio puo' rappresentare sino ad un massimo di dieci soci. Il socio imprenditore individuale puo' farsi rappresentare nell'assemblea anche dal coniuge, dai parenti entro il terzo grado e dagli affini entro il secondo che collaborano all'impresa.",
+    "con_marcatori": "Art. 2539. (Rappresentanza nell'assemblea). Nelle cooperative disciplinate dalle norme sulla societa' per azioni ciascun socio puo' rappresentare sino ad un massimo di dieci soci. ((228)) Il socio imprenditore individuale puo' farsi rappresentare nell'assemblea anche dal coniuge, dai parenti entro il terzo grado e dagli affini entro il secondo che collaborano all'impresa.",
+    "caratteri": 322
+  },
+  "note": [
+    {
+      "numero": 228,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 1 settembre 1993, n. 385",
+          "urn": "urn:nir:stato:decretoLegislativo:1993-09-01;385",
+          "data": "1993-09-01",
+          "numero": "385",
+          "data_gazzetta": "1993-09-30"
+        },
+        {
+          "denominazione": "D.L. 24 gennaio 2015, n. 3",
+          "urn": "urn:nir:stato:decretoLegge:2015-01-24;3",
+          "data": "2015-01-24",
+          "numero": "3",
+          "data_gazzetta": "2015-01-24"
+        },
+        {
+          "denominazione": "L. 24 marzo 2015, n. 33",
+          "urn": "urn:nir:stato:legge:2015-03-24;33",
+          "data": "2015-03-24",
+          "numero": "33",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2539, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 1 settembre 1993, n. 385, come modificato dal D.L. 24 gennaio 2015, n. 3, convertito con modificazioni dalla L. 24 marzo 2015, n. 33, ha disposto (con l'art. 150-bis, comma 2-bis) che \"In deroga a quanto previsto dall'articolo 2539, primo comma, del codice civile, gli statuti delle banche popolari determinano il numero massimo di deleghe che possono essere conferite ad un socio; in ogni caso, questo numero non e' inferiore a 10 e non e' superiore a 20\"."
+    }
+  ],
+  "impronta": "sha256:c1150c5c894f07702b03bad89a98529d6a8b866709b6365e51afba86edf7dc2d"
+}

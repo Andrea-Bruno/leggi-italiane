@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1076",
+    "rubrica": "Esercizio della servitu' non conforme al titolo o al possesso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1076"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esercizio di una servitu' in tempo diverso da quello determinato dal titolo o dal possesso non ne impedisce l'estinzione per prescrizione.",
+    "con_marcatori": "Art. 1076. (Esercizio della servitu' non conforme al titolo o al possesso). L'esercizio di una servitu' in tempo diverso da quello determinato dal titolo o dal possesso non ne impedisce l'estinzione per prescrizione.",
+    "caratteri": 140
+  },
+  "note": [],
+  "impronta": "sha256:87236bb1ef52777afe731aa9a22d315176926dedc300fc0d819183f23fe9bedd"
+}

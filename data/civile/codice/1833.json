@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1833",
+    "rubrica": "Recesso dal contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1833"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contratto e' a tempo indeterminato, ciascuna delle parti puo' recedere dal contratto a ogni chiusura del conto, dandone preavviso almeno dieci giorni prima. In caso d'interdizione, d'inabilitazione, d'insolvenza o di morte di una delle parti, ciascuna di queste o gli eredi hanno diritto di recedere dal contratto. Lo scioglimento del contratto impedisce l'inclusione nel conto di nuove partite, ma il pagamento del saldo non puo' richiedersi che alla scadenza del periodo stabilito dall'art. 1831.",
+    "con_marcatori": "Art. 1833. (Recesso dal contratto). Se il contratto e' a tempo indeterminato, ciascuna delle parti puo' recedere dal contratto a ogni chiusura del conto, dandone preavviso almeno dieci giorni prima. In caso d'interdizione, d'inabilitazione, d'insolvenza o di morte di una delle parti, ciascuna di queste o gli eredi hanno diritto di recedere dal contratto. Lo scioglimento del contratto impedisce l'inclusione nel conto di nuove partite, ma il pagamento del saldo non puo' richiedersi che alla scadenza del periodo stabilito dall'art. 1831.",
+    "caratteri": 504
+  },
+  "note": [],
+  "impronta": "sha256:c046e458a695cda3aa217ae2d610fa58c63aa415a8707d2e42250dc3dcb5a31f"
+}

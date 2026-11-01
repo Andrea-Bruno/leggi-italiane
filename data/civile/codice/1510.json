@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1510",
+    "rubrica": "Luogo della consegna",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1510"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In mancanza di patto o di uso contrario, la consegna della cosa deve avvenire nel luogo dove questa si trovava al tempo della vendita, se le parti ne erano a conoscenza, ovvero nel luogo dove il venditore aveva il suo domicilio o la sede dell'impresa. Salvo patto o uso contrario, se la cosa venduta deve essere trasportata da un luogo all'altro, il venditore si libera dall'obbligo della consegna rimettendo la cosa al vettore o allo spedizioniere; le spese del trasporto sono a carico del compratore.",
+    "con_marcatori": "Art. 1510. (Luogo della consegna). In mancanza di patto o di uso contrario, la consegna della cosa deve avvenire nel luogo dove questa si trovava al tempo della vendita, se le parti ne erano a conoscenza, ovvero nel luogo dove il venditore aveva il suo domicilio o la sede dell'impresa. Salvo patto o uso contrario, se la cosa venduta deve essere trasportata da un luogo all'altro, il venditore si libera dall'obbligo della consegna rimettendo la cosa al vettore o allo spedizioniere; le spese del trasporto sono a carico del compratore.",
+    "caratteri": 502
+  },
+  "note": [],
+  "impronta": "sha256:d43fe685e5321304b2b78cdbf0586b2a2cf4a6d5a0ed9ff3f8b28619cf68ab9b"
+}

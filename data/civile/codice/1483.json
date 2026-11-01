@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1483",
+    "rubrica": "Evizione totale della cosa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1483"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il compratore subisce l'evizione totale della cosa per effetto di diritti che un terzo ha fatti valere su di essa, il venditore e' tenuto a risarcirlo del danno a norma dell'art. 1479. Egli deve inoltre corrispondere al compratore il valore dei frutti che questi sia tenuto a restituire a colui dal quale e' evitto, le spese che egli abbia fatte per la denunzia della lite e quelle che abbia dovuto rimborsare all'attore.",
+    "con_marcatori": "Art. 1483. (Evizione totale della cosa). Se il compratore subisce l'evizione totale della cosa per effetto di diritti che un terzo ha fatti valere su di essa, il venditore e' tenuto a risarcirlo del danno a norma dell'art. 1479. Egli deve inoltre corrispondere al compratore il valore dei frutti che questi sia tenuto a restituire a colui dal quale e' evitto, le spese che egli abbia fatte per la denunzia della lite e quelle che abbia dovuto rimborsare all'attore.",
+    "caratteri": 424
+  },
+  "note": [],
+  "impronta": "sha256:91922e118ac0bb52ff123729ad1ba352f9534e6886ac135848a50976b206472a"
+}

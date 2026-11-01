@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "891",
+    "rubrica": "Distanze per canali e fossi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art891"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi vuole scavare fossi o canali presso il confine, se non dispongono in modo diverso i regolamenti locali, deve osservare una distanza eguale alla profondita' del fosso o canale. La distanza si misura dal confine al ciglio della sponda piu' vicina, la quale deve essere a scarpa naturale ovvero munita di opere di sostegno. Se il confine si trova in un fosso comune o in una via privata, la distanza si misura da ciglio a ciglio o dal ciglio al lembo esteriore della via.",
+    "con_marcatori": "Art. 891. (Distanze per canali e fossi). Chi vuole scavare fossi o canali presso il confine, se non dispongono in modo diverso i regolamenti locali, deve osservare una distanza eguale alla profondita' del fosso o canale. La distanza si misura dal confine al ciglio della sponda piu' vicina, la quale deve essere a scarpa naturale ovvero munita di opere di sostegno. Se il confine si trova in un fosso comune o in una via privata, la distanza si misura da ciglio a ciglio o dal ciglio al lembo esteriore della via.",
+    "caratteri": 472
+  },
+  "note": [],
+  "impronta": "sha256:a335129cc3eaa0b15fb3d18463003eba7782e66116831fda19068af93493e5e7"
+}

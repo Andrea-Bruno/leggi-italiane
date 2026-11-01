@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "434",
+    "rubrica": "Cessazione dell'obbligo tra affini",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art434"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'obbligazione alimentare del suocero e della suocera e quella del genero e della nuora cessano: 1) quando la persona che ha diritto agli alimenti e' passata a nuove nozze; 2) quando il coniuge, da cui deriva l'affinita', e i figli nati dalla sua unione con l'altro coniuge e i loro discendenti sono morti.",
+    "con_marcatori": "Art. 434. (Cessazione dell'obbligo tra affini). L'obbligazione alimentare del suocero e della suocera e quella del genero e della nuora cessano: 1) quando la persona che ha diritto agli alimenti e' passata a nuove nozze; 2) quando il coniuge, da cui deriva l'affinita', e i figli nati dalla sua unione con l'altro coniuge e i loro discendenti sono morti.",
+    "caratteri": 306
+  },
+  "note": [],
+  "impronta": "sha256:8e5e7bb125a38ac7f1da6b6f89f4b47493eb80d74cd5a5b8e874ee0cce66748b"
+}

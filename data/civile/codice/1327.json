@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1327",
+    "rubrica": "Esecuzione prima della risposta dell'accettante",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1327"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora, su richiesta del proponente o per la natura dell'affare o secondo gli usi, la prestazione debba eseguirsi senza una preventiva risposta, il contratto e' concluso nel tempo e nel luogo in cui ha avuto inizio l'esecuzione. L'accettante deve dare prontamente avviso all'altra parte dell'iniziata esecuzione e, in mancanza, e' tenuto al risarcimento del danno.",
+    "con_marcatori": "Art. 1327. (Esecuzione prima della risposta dell'accettante). Qualora, su richiesta del proponente o per la natura dell'affare o secondo gli usi, la prestazione debba eseguirsi senza una preventiva risposta, il contratto e' concluso nel tempo e nel luogo in cui ha avuto inizio l'esecuzione. L'accettante deve dare prontamente avviso all'altra parte dell'iniziata esecuzione e, in mancanza, e' tenuto al risarcimento del danno.",
+    "caratteri": 365
+  },
+  "note": [],
+  "impronta": "sha256:8186577704473a68e2f7c84ef175b84e22a73331ace6d7d1553ddf99853ebb91"
+}

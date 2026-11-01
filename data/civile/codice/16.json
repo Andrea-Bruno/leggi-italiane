@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "16",
+    "rubrica": "Atto costitutivo e statuto. Modificazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art16"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo e lo statuto devono contenere la denominazione dell'ente, l'indicazione dello scopo, del patrimonio e della sede, nonche' le norme sull'ordinamento e sull'amministrazione. Devono anche determinare, quando trattasi di associazioni, i diritti e gli obblighi degli associati e le condizioni della loro ammissione; e, quando trattasi di fondazioni, i criteri e le modalita' di erogazione delle rendite. L'atto costitutivo e lo statuto possono inoltre contenere le norme relative alla estinzione dell'ente e alla devoluzione del patrimonio, e, per le fondazioni, anche quelle relative alla loro trasformazione. COMMA ABROGATO DAL D.P.R. 10 FEBBRAIO 2000, N. 361.",
+    "con_marcatori": "Art. 16. (Atto costitutivo e statuto. Modificazioni). L'atto costitutivo e lo statuto devono contenere la denominazione dell'ente, l'indicazione dello scopo, del patrimonio e della sede, nonche' le norme sull'ordinamento e sull'amministrazione. Devono anche determinare, quando trattasi di associazioni, i diritti e gli obblighi degli associati e le condizioni della loro ammissione; e, quando trattasi di fondazioni, i criteri e le modalita' di erogazione delle rendite. L'atto costitutivo e lo statuto possono inoltre contenere le norme relative alla estinzione dell'ente e alla devoluzione del patrimonio, e, per le fondazioni, anche quelle relative alla loro trasformazione. ((COMMA ABROGATO DAL D.P.R. 10 FEBBRAIO 2000, N. 361)).",
+    "caratteri": 676
+  },
+  "note": [],
+  "impronta": "sha256:a1ba000fc55b5dfcdfb02ab12046f99cafbb604311651c7e28eef9479d125f72"
+}

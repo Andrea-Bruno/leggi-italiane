@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2479-ter",
+    "rubrica": "Invalidita' delle decisioni dei soci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2479-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le decisioni dei soci che non sono prese in conformita' della legge o dell'atto costitutivo possono essere impugnate dai soci che non vi hanno consentito, da ciascun amministratore e dal collegio sindacale entro novanta giorni dalla loro trascrizione nel libro delle decisioni dei soci. Il tribunale, qualora ne ravvisi l'opportunita' e ne sia fatta richiesta dalla societa' o da chi ha proposto l'impugnativa, puo' assegnare un termine non superiore a centottanta giorni per l'adozione di una nuova decisione idonea ad eliminare la causa di invalidita'. Qualora possano recare danno alla societa', sono impugnabili a norma del precedente comma le decisioni assunte con la partecipazione determinante di soci che hanno, per conto proprio o di terzi, un interesse in conflitto con quello della societa'. Le decisioni aventi oggetto illecito o impossibile e quelle prese in assenza assoluta di informazione possono essere impugnate da chiunque vi abbia interesse entro tre anni dalla trascrizione indicata nel primo periodo del primo comma. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attivita' impossibili o illecite. Si applicano, in quanto compatibili, gli articoli 2377, primo, quinto, settimo, ottavo e nono comma, 2378, 2379-bis, 2379-ter e 2434-bis.",
+    "con_marcatori": "Art. 2479-ter (Invalidita' delle decisioni dei soci). Le decisioni dei soci che non sono prese in conformita' della legge o dell'atto costitutivo possono essere impugnate dai soci che non vi hanno consentito, da ciascun amministratore e dal collegio sindacale entro novanta giorni dalla loro trascrizione nel libro delle decisioni dei soci. Il tribunale, qualora ne ravvisi l'opportunita' e ne sia fatta richiesta dalla societa' o da chi ha proposto l'impugnativa, puo' assegnare un termine non superiore a centottanta giorni per l'adozione di una nuova decisione idonea ad eliminare la causa di invalidita'. Qualora possano recare danno alla societa', sono impugnabili a norma del precedente comma le decisioni assunte con la partecipazione determinante di soci che hanno, per conto proprio o di terzi, un interesse in conflitto con quello della societa'. Le decisioni aventi oggetto illecito o impossibile e quelle prese in assenza assoluta di informazione possono essere impugnate da chiunque vi abbia interesse entro tre anni dalla trascrizione indicata nel primo periodo del ((primo)) comma. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attivita' impossibili o illecite. Si applicano, in quanto compatibili, gli articoli 2377, primo, quinto, settimo, ottavo e nono comma, 2378, 2379-bis, 2379-ter e 2434-bis.",
+    "caratteri": 1318
+  },
+  "note": [],
+  "impronta": "sha256:4c5205c8354d4de79461788207f475994186fe4adad00c798bf26d2ae5402f93"
+}

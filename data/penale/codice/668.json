@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "668",
+    "rubrica": "Rappresentazioni teatrali o cinematografiche abusive",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art668"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque recita in pubblico drammi o altre opere, ovvero da' in pubblico produzioni teatrali di qualunque genere, senza averli prima comunicati all'Autorita', e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000. Alla stessa sanzione soggiace chi fa rappresentare in pubblico opere cinematografiche, non sottoposte prima alla revisione dell'Autorita' o non sottoposte a classificazione o senza rispettare la classificazione verificata dalla Commissione per la classificazione delle opere cinematografiche. Se il fatto e' commesso contro il divieto dell'Autorita', si applica la sanzione amministrativa pecuniaria da euro 10.000 a euro 30.000. Il fatto si considera commesso in pubblico se ricorre taluna delle circostanze indicate nei numeri 2° e 3° dell'articolo 266.",
+    "con_marcatori": "Art. 668. (Rappresentazioni teatrali o cinematografiche abusive) Chiunque recita in pubblico drammi o altre opere, ovvero da' in pubblico produzioni teatrali di qualunque genere, senza averli prima comunicati all'Autorita', e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000. Alla stessa sanzione soggiace chi fa rappresentare in pubblico ((opere)) cinematografiche, non sottoposte prima alla revisione dell'Autorita' ((o non sottoposte a classificazione o senza rispettare la classificazione verificata dalla Commissione per la classificazione delle opere cinematografiche)). Se il fatto e' commesso contro il divieto dell'Autorita', si applica la sanzione amministrativa pecuniaria da euro 10.000 a euro 30.000. Il fatto si considera commesso in pubblico se ricorre taluna delle circostanze indicate nei numeri 2° e 3° dell'articolo 266.",
+    "caratteri": 795
+  },
+  "note": [],
+  "impronta": "sha256:bece8959efdf919e4667c2012bb025666d7196dc0c52ce30df7dbf112783f3d2"
+}

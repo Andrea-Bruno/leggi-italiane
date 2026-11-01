@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2242",
+    "rubrica": "Vitto, alloggio e assistenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2242"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il prestatore di lavoro ammesso alla convivenza familiare ha diritto, oltre alla retribuzione in danaro, al vitto, all'alloggio e, per le infermita' di breve durata, alla cura e all'assistenza medica. Le parti devono contribuire alle istituzioni di previdenza e di assistenza, nei casi e nei modi stabiliti dalla legge.",
+    "con_marcatori": "Art. 2242. (Vitto, alloggio e assistenza). Il prestatore di lavoro ammesso alla convivenza familiare ha diritto, oltre alla retribuzione in danaro, al vitto, all'alloggio e, per le infermita' di breve durata, alla cura e all'assistenza medica. Le parti devono contribuire alle istituzioni di previdenza e di assistenza, nei casi e nei modi stabiliti dalla legge.",
+    "caratteri": 319
+  },
+  "note": [],
+  "impronta": "sha256:0c9126d165a3188fc89931b22e37a7186ae4f57a9e8061881f109b6b1140fd26"
+}

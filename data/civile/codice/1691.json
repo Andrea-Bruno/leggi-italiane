@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1691",
+    "rubrica": "Lettera di vettura o ricevuta di carico all'ordine",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1691"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il vettore ha rilasciato al mittente un duplicato della lettera di vettura all'ordine o la ricevuta di carico all'ordine, i diritti nascenti dal contratto verso il vettore si trasferiscono mediante girata del titolo. In tal caso il vettore e' esonerato dall'obbligo di dare avviso dell'arrivo delle cose trasportate, salvo che sia stato indicato un domiciliatario nel luogo di destinazione, e l'indicazione risulti dal duplicato della lettera di vettura o dalla ricevuta di carico. Il possessore del duplicato della lettera di vettura all'ordine o della ricevuta di carico all'ordine, deve restituire il titolo al vettore all'atto della riconsegna delle cose trasportate.",
+    "con_marcatori": "Art. 1691. (Lettera di vettura o ricevuta di carico all'ordine). Se il vettore ha rilasciato al mittente un duplicato della lettera di vettura all'ordine o la ricevuta di carico all'ordine, i diritti nascenti dal contratto verso il vettore si trasferiscono mediante girata del titolo. In tal caso il vettore e' esonerato dall'obbligo di dare avviso dell'arrivo delle cose trasportate, salvo che sia stato indicato un domiciliatario nel luogo di destinazione, e l'indicazione risulti dal duplicato della lettera di vettura o dalla ricevuta di carico. Il possessore del duplicato della lettera di vettura all'ordine o della ricevuta di carico all'ordine, deve restituire il titolo al vettore all'atto della riconsegna delle cose trasportate.",
+    "caratteri": 674
+  },
+  "note": [],
+  "impronta": "sha256:388ff8508f25dae1cf1f8ebb07fb1ab2c2e90cafe45e6e35a0250234f45a3697"
+}

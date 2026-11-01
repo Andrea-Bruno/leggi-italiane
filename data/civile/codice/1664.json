@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1664",
+    "rubrica": "Onerosita' o difficolta' dell'esecuzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1664"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora per effetto di circostanze imprevedibili si siano verificati aumenti o diminuzioni nel costo dei materiali o della mano d'opera, tali da determinare un aumento o una diminuzione superiori al decimo del prezzo complessivo convenuto, l'appaltatore o il committente possono chiedere una revisione del prezzo medesimo. La revisione puo' esser accordata solo per quella differenza che eccede il decimo. Se nel corso dell'opera si manifestano difficolta' di esecuzione derivanti da cause geologiche, idriche e simili, non previste dalle parti, che rendano notevolmente piu' onerosa la prestazione dell'appaltatore, questi ha diritto a un equo compenso.",
+    "con_marcatori": "Art. 1664. (Onerosita' o difficolta' dell'esecuzione). Qualora per effetto di circostanze imprevedibili si siano verificati aumenti o diminuzioni nel costo dei materiali o della mano d'opera, tali da determinare un aumento o una diminuzione superiori al decimo del prezzo complessivo convenuto, l'appaltatore o il committente possono chiedere una revisione del prezzo medesimo. La revisione puo' esser accordata solo per quella differenza che eccede il decimo. Se nel corso dell'opera si manifestano difficolta' di esecuzione derivanti da cause geologiche, idriche e simili, non previste dalle parti, che rendano notevolmente piu' onerosa la prestazione dell'appaltatore, questi ha diritto a un equo compenso.",
+    "caratteri": 654
+  },
+  "note": [],
+  "impronta": "sha256:a068a9ba37d3e8e9c28c2cee3049e2e9c46ec8af1070172ef61e0c6fdc6ef917"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "642",
+    "rubrica": "Fraudolento danneggiamento dei beni assicurati e mutilazione fraudolenta della propria persona",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art642"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, al fine di conseguire per se' o per altri l'indennizzo di una assicurazione o comunque un vantaggio derivante da un contratto di assicurazione, distrugge, disperde, deteriora od occulta cose di sua proprieta', falsifica o altera una polizza o la documentazione richiesta per la stipulazione di un contratto di assicurazione e' punito con la reclusione da uno a cinque anni. Alla stessa pena soggiace chi al fine predetto cagiona a se stesso una lesione personale o aggrava le conseguenze della lesione personale prodotta da un infortunio o denuncia un sinistro non accaduto ovvero distrugge, falsifica, altera o precostituisce elementi di prova o documentazione relativi al sinistro. Se il colpevole consegue l'intento la pena e' aumentata. Si procede a querela di parte. Le disposizioni di cui al presente articolo si applicano anche se il fatto e' commesso all'estero, in danno di un assicuratore italiano, che eserciti la sua attivita' nel territorio dello Stato. Il delitto e' punibile a querela della persona offesa.",
+    "con_marcatori": "Art. 642. (Fraudolento danneggiamento dei beni assicurati e mutilazione fraudolenta della propria persona). Chiunque, al fine di conseguire per se' o per altri l'indennizzo di una assicurazione o comunque un vantaggio derivante da un contratto di assicurazione, distrugge, disperde, deteriora od occulta cose di sua proprieta', falsifica o altera una polizza o la documentazione richiesta per la stipulazione di un contratto di assicurazione e' punito con la reclusione ((da uno a cinque anni)). Alla stessa pena soggiace chi al fine predetto cagiona a se stesso una lesione personale o aggrava le conseguenze della lesione personale prodotta da un infortunio o denuncia un sinistro non accaduto ovvero distrugge, falsifica, altera o precostituisce elementi di prova o documentazione relativi al sinistro. Se il colpevole consegue l'intento la pena e' aumentata. Si procede a querela di parte. Le disposizioni di cui al presente articolo si applicano anche se il fatto e' commesso all'estero, in danno di un assicuratore italiano, che eserciti la sua attivita' nel territorio dello Stato. Il delitto e' punibile a querela della persona offesa.",
+    "caratteri": 1031
+  },
+  "note": [],
+  "impronta": "sha256:1af7cc0619adaba8cd152042fbb758fc1a59aed30311663561900bbea57cb891"
+}

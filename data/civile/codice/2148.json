@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2148",
+    "rubrica": "Obblighi di residenza e di custodia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2148"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mezzadro ha l'obbligo di risiedere stabilmente nel podere con la famiglia colonica. Egli deve custodire il podere e mantenerlo in normale stato di produttivita'. Egli deve altresi' custodire e conservare le altre cose affidategli dal concedente, con la diligenza del buon padre di famiglia, e non puo', senza il consenso del concedente o salvo uso contrario, svolgere attivita' a suo esclusivo profitto o compiere prestazioni a favore di terzi.",
+    "con_marcatori": "Art. 2148. (Obblighi di residenza e di custodia). Il mezzadro ha l'obbligo di risiedere stabilmente nel podere con la famiglia colonica. Egli deve custodire il podere e mantenerlo in normale stato di produttivita'. Egli deve altresi' custodire e conservare le altre cose affidategli dal concedente, con la diligenza del buon padre di famiglia, e non puo', senza il consenso del concedente o salvo uso contrario, svolgere attivita' a suo esclusivo profitto o compiere prestazioni a favore di terzi.",
+    "caratteri": 447
+  },
+  "note": [],
+  "impronta": "sha256:00191b6b9a21dcfbb2639e4cb2245b18c1ec8e0cc1dfd93edaaeb52ad5ddfd1e"
+}

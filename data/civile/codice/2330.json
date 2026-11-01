@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2330",
+    "rubrica": "Deposito dell'atto costitutivo e iscrizione della societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2330"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il notaio che ha ricevuto l'atto costitutivo deve depositarlo entro dieci giorni presso l'ufficio del registro delle imprese nella cui circoscrizione e' stabilita la sede sociale, allegando i documenti comprovanti la sussistenza delle condizioni previste dall'articolo 2329. Se il notaio o gli amministratori non provvedono al deposito nel termine indicato nel comma precedente, ciascun socio puo' provvedervi a spese della societa'. L'iscrizione della societa' nel registro delle imprese e' richiesta contestualmente al deposito dell'atto costitutivo. L'ufficio del registro delle imprese, verificata la regolarita' formale della documentazione, iscrive la societa' nel registro. Se la societa' istituisce sedi secondarie, si applica l'articolo 2299.",
+    "con_marcatori": "Art. 2330. (Deposito dell'atto costitutivo e iscrizione della societa'). Il notaio che ha ricevuto l'atto costitutivo deve depositarlo ((entro dieci giorni)) presso l'ufficio del registro delle imprese nella cui circoscrizione e' stabilita la sede sociale, allegando i documenti comprovanti la sussistenza delle condizioni previste dall'articolo 2329. ((279)) Se il notaio o gli amministratori non provvedono al deposito nel termine indicato nel comma precedente, ciascun socio puo' provvedervi a spese della societa'. L'iscrizione della societa' nel registro delle imprese e' richiesta contestualmente al deposito dell'atto costitutivo. L'ufficio del registro delle imprese, verificata la regolarita' formale della documentazione, iscrive la societa' nel registro. Se la societa' istituisce sedi secondarie, si applica l'articolo 2299.",
+    "caratteri": 751
+  },
+  "note": [
+    {
+      "numero": 279,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 14 dicembre 2018, n. 135",
+          "urn": "urn:nir:stato:decretoLegge:2018-12-14;135",
+          "data": "2018-12-14",
+          "numero": "135",
+          "data_gazzetta": "2018-12-14"
+        },
+        {
+          "denominazione": "L. 11 febbraio 2019, n. 12",
+          "urn": "urn:nir:stato:legge:2019-02-11;12",
+          "data": "2019-02-11",
+          "numero": "12",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 14 dicembre 2018, n. 135, convertito con modificazioni dalla L. 11 febbraio 2019, n. 12, ha disposto (con l'art. 3, comma 1-quinquies) che \"La disposizione di cui al presente comma ha effetto a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto\"."
+    }
+  ],
+  "impronta": "sha256:c89627800d760bbccda3750b5fb11caa01033d4fec9f620341f3d27238eb51dd"
+}

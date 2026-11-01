@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "863",
+    "rubrica": "Consorzi di miglioramento fondiario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art863"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle forme stabilite per i consorzi di bonifica possono essere costituiti anche consorzi per l'esecuzione, la manutenzione e l'esercizio di opere di miglioramento fondiario comuni a piu' fondi e indipendenti da un piano generale di bonifica. Essi sono persone giuridiche private. Possono tuttavia assumere il carattere di persone giuridiche pubbliche quando, per la loro vasta estensione territoriale o per la particolare importanza delle loro funzioni ai fini dell'incremento della produzione, sono riconosciuti d'interesse nazionale con provvedimento dell'autorita' amministrativa.",
+    "con_marcatori": "Art. 863. (Consorzi di miglioramento fondiario). Nelle forme stabilite per i consorzi di bonifica possono essere costituiti anche consorzi per l'esecuzione, la manutenzione e l'esercizio di opere di miglioramento fondiario comuni a piu' fondi e indipendenti da un piano generale di bonifica. Essi sono persone giuridiche private. Possono tuttavia assumere il carattere di persone giuridiche pubbliche quando, per la loro vasta estensione territoriale o per la particolare importanza delle loro funzioni ai fini dell'incremento della produzione, sono riconosciuti d'interesse nazionale con provvedimento dell'autorita' amministrativa.",
+    "caratteri": 584
+  },
+  "note": [],
+  "impronta": "sha256:c2d30f3c4bab5de7570b17b450ec53fe598c9f2863919b99e20b279636f0c307"
+}

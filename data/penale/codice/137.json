@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "137",
+    "rubrica": "Carcerazione preventiva",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art137"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La carcerazione sofferta prima che la sentenza sia divenuta irrevocabile si detrae dalla durata complessiva della pena temporanea detentiva o dall'ammontare della pena pecuniaria. La carcerazione preventiva e' considerata, agli effetti della detrazione, come reclusione od arresto.",
+    "con_marcatori": "Art. 137. (Carcerazione preventiva) La carcerazione sofferta prima che la sentenza sia divenuta irrevocabile si detrae dalla durata complessiva della pena temporanea detentiva o dall'ammontare della pena pecuniaria. La carcerazione preventiva e' considerata, agli effetti della detrazione, come reclusione od arresto.",
+    "caratteri": 281
+  },
+  "note": [],
+  "impronta": "sha256:9a284fdf63796d74f736903843ed3fada7356bbc9cc996a1c0e2812cd1a551b6"
+}

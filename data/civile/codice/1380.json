@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1380",
+    "rubrica": "Conflitto tra piu' diritti personali di godimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1380"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se, con successivi contratti, una persona concede a diversi contraenti un diritto personale di godimento relativo alla stessa cosa, il godimento spetta al contraente che per primo lo ha conseguito. Se nessuno dei contraenti ha conseguito il godimento, e' preferito quello che ha il titolo di data certa anteriore. Sono salve le norme relative agli effetti della trascrizione.",
+    "con_marcatori": "Art. 1380. (Conflitto tra piu' diritti personali di godimento). Se, con successivi contratti, una persona concede a diversi contraenti un diritto personale di godimento relativo alla stessa cosa, il godimento spetta al contraente che per primo lo ha conseguito. Se nessuno dei contraenti ha conseguito il godimento, e' preferito quello che ha il titolo di data certa anteriore. Sono salve le norme relative agli effetti della trascrizione.",
+    "caratteri": 375
+  },
+  "note": [],
+  "impronta": "sha256:c1320e0895dc1317c1ab86d5013bbd50785381ee79c0f406352eee7539986be2"
+}

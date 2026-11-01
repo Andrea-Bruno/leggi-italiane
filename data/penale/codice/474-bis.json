@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "474-bis",
+    "rubrica": "Confisca",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art474-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi di cui agli articoli 473 e 474 e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento del danno, la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono l'oggetto, il prodotto, il prezzo o il profitto, a chiunque appartenenti. Quando non e' possibile eseguire il provvedimento di cui al primo comma, il giudice ordina la confisca di beni di cui il reo ha la disponibilita' per un valore corrispondente al profitto. Si applica il terzo comma dell'articolo 322-ter. Si applicano le disposizioni dell'articolo 240, commi terzo e quarto, se si tratta di cose che servirono o furono destinate a commettere il reato, ovvero che ne sono l'oggetto, il prodotto, il prezzo o il profitto, appartenenti a persona estranea al reato medesimo, qualora questa dimostri di non averne potuto prevedere l'illecito impiego, anche occasionale, o l'illecita provenienza e di non essere incorsa in un difetto di vigilanza. Le disposizioni del presente articolo si osservano anche nel caso di applicazione della pena su richiesta delle parti a norma del titolo II del libro sesto del codice di procedura penale.",
+    "con_marcatori": "Art. 474-bis. (( (Confisca). )) ((Nei casi di cui agli articoli 473 e 474 e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento del danno, la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono l'oggetto, il prodotto, il prezzo o il profitto, a chiunque appartenenti. Quando non e' possibile eseguire il provvedimento di cui al primo comma, il giudice ordina la confisca di beni di cui il reo ha la disponibilita' per un valore corrispondente al profitto. Si applica il terzo comma dell'articolo 322-ter. Si applicano le disposizioni dell'articolo 240, commi terzo e quarto, se si tratta di cose che servirono o furono destinate a commettere il reato, ovvero che ne sono l'oggetto, il prodotto, il prezzo o il profitto, appartenenti a persona estranea al reato medesimo, qualora questa dimostri di non averne potuto prevedere l'illecito impiego, anche occasionale, o l'illecita provenienza e di non essere incorsa in un difetto di vigilanza. Le disposizioni del presente articolo si osservano anche nel caso di applicazione della pena su richiesta delle parti a norma del titolo II del libro sesto del codice di procedura penale.))",
+    "caratteri": 1182
+  },
+  "note": [],
+  "impronta": "sha256:a41244c8f741e0f42d970643ecb2e11f4d142d1a9258eb40e38debc711f0a788"
+}

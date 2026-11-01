@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2536",
+    "rubrica": "Responsabilita' del socio uscente e dei suoi eredi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2536"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il socio che cessa di far parte della societa' risponde verso questa per il pagamento dei conferimenti non versati, per un anno dal giorno in cui il recesso, la esclusione o la cessione della quota si e' verificata. Se entro un anno dallo scioglimento del rapporto associativo si manifesta l'insolvenza della societa', il socio uscente e' obbligato verso questa nei limiti di quanto ricevuto per la liquidazione della quota o per il rimborso delle azioni. Nello stesso modo e per lo stesso termine sono responsabili verso la societa' gli eredi del socio defunto. .",
+    "con_marcatori": "Art. 2536. (( (Responsabilita' del socio uscente e dei suoi eredi). )) ((Il socio che cessa di far parte della societa' risponde verso questa per il pagamento dei conferimenti non versati, per un anno dal giorno in cui il recesso, la esclusione o la cessione della quota si e' verificata. Se entro un anno dallo scioglimento del rapporto associativo si manifesta l'insolvenza della societa', il socio uscente e' obbligato verso questa nei limiti di quanto ricevuto per la liquidazione della quota o per il rimborso delle azioni. Nello stesso modo e per lo stesso termine sono responsabili verso la societa' gli eredi del socio defunto. )).",
+    "caratteri": 564
+  },
+  "note": [],
+  "impronta": "sha256:8764267e96b3122b36afb9f34dabf57f167aac5dd2390d7dafbb1014eed57d9a"
+}

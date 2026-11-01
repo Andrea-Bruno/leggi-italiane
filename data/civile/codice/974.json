@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "974",
+    "rubrica": "Diritti dei creditori dell'enfiteuta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art974"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I creditori dell'enfiteuta possono intervenire nel giudizio di devoluzione per conservare le loro ragioni, valendosi all'uopo anche del diritto di affrancazione che spetti all'enfiteuta; possono offrire il risarcimento dei danni e dare cauzione per l'avvenire. I creditori, che hanno iscritto ipoteca contro l'enfiteuta anteriormente alla trascrizione della domanda di devoluzione e ai quali questa non e' stata notificata in tempo utile per poter intervenire, conservano il diritto di affrancazione anche dopo avvenuta la devoluzione.",
+    "con_marcatori": "Art. 974. (Diritti dei creditori dell'enfiteuta). I creditori dell'enfiteuta possono intervenire nel giudizio di devoluzione per conservare le loro ragioni, valendosi all'uopo anche del diritto di affrancazione che spetti all'enfiteuta; possono offrire il risarcimento dei danni e dare cauzione per l'avvenire. I creditori, che hanno iscritto ipoteca contro l'enfiteuta anteriormente alla trascrizione della domanda di devoluzione e ai quali questa non e' stata notificata in tempo utile per poter intervenire, conservano il diritto di affrancazione anche dopo avvenuta la devoluzione.",
+    "caratteri": 535
+  },
+  "note": [],
+  "impronta": "sha256:9d170d87471e1cba8b5cc29e9a630dfe6dd5dafab15d23a9aa2677f9e0255778"
+}

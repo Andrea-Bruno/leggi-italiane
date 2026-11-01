@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "85",
+    "rubrica": "Capacita' d'intendere e di volere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art85"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nessuno puo' essere punito per un fatto preveduto dalla legge come reato, se, al momento in cui lo ha commesso, non era imputabile. E' imputabile chi ha la capacita' d'intendere e di volere.",
+    "con_marcatori": "Art. 85. (Capacita' d'intendere e di volere) Nessuno puo' essere punito per un fatto preveduto dalla legge come reato, se, al momento in cui lo ha commesso, non era imputabile. E' imputabile chi ha la capacita' d'intendere e di volere.",
+    "caratteri": 190
+  },
+  "note": [],
+  "impronta": "sha256:61a244a25e11b0fe5cb272dec45ef91bda49a01389dc7339fe80a8eec16de58f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2957",
+    "rubrica": "Decorrenza delle prescrizioni presuntive",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2957"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il termine della prescrizione decorre dalla scadenza della retribuzione periodica o dal compimento della prestazione. Per le competenze dovute agli avvocati, ai procuratori e ai patrocinatori legali il termine decorre dalla decisione della lite, dalla conciliazione delle parti o dalla revoca del mandato; per gli affari non terminati, la prescrizione decorre dall'ultima prestazione.",
+    "con_marcatori": "Art. 2957. (Decorrenza delle prescrizioni presuntive). Il termine della prescrizione decorre dalla scadenza della retribuzione periodica o dal compimento della prestazione. Per le competenze dovute agli avvocati, ai procuratori e ai patrocinatori legali il termine decorre dalla decisione della lite, dalla conciliazione delle parti o dalla revoca del mandato; per gli affari non terminati, la prescrizione decorre dall'ultima prestazione.",
+    "caratteri": 384
+  },
+  "note": [],
+  "impronta": "sha256:b22f14d4d54d45feae0fd50d9acb8d4427e6283f49accd52c29d400da946b854"
+}

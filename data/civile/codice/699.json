@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "699",
+    "rubrica": "Premi di nuzialita', opere di assistenza e simili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art699"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' valida la disposizione testamentaria avente per oggetto l'erogazione periodica, in perpetuo o a tempo, di somme determinate per premi di nuzialita' o di natalita', sussidi per l'avviamento a una professione o a un'arte, opere di assistenza, o per altri fini di pubblica utilita', a favore di persone da scegliersi entro una determinata categoria o tra i discendenti di determinate famiglie. Tali annualita' possono riscattarsi secondo le norme dettate in materia di rendita.",
+    "con_marcatori": "Art. 699. (Premi di nuzialita', opere di assistenza e simili). E' valida la disposizione testamentaria avente per oggetto l'erogazione periodica, in perpetuo o a tempo, di somme determinate per premi di nuzialita' o di natalita', sussidi per l'avviamento a una professione o a un'arte, opere di assistenza, o per altri fini di pubblica utilita', a favore di persone da scegliersi entro una determinata categoria o tra i discendenti di determinate famiglie. Tali annualita' possono riscattarsi secondo le norme dettate in materia di rendita.",
+    "caratteri": 477
+  },
+  "note": [],
+  "impronta": "sha256:ee46e9448c2b9976ff2fda6cd636f965445826c0b783d55f10e40dc11bdc06f2"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1006",
+    "rubrica": "Rifiuto del proprietario alle riparazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1006"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il proprietario rifiuta di eseguire le riparazioni poste a suo carico o ne ritarda l'esecuzione senza giusto motivo, e' in facolta' dell'usufruttuario di farle eseguire a proprie spese. Le spese devono essere rimborsate alla fine dell'usufrutto senza interesse. A garanzia del rimborso l'usufruttuario ha diritto di ritenere l'immobile riparato.",
+    "con_marcatori": "Art. 1006. (Rifiuto del proprietario alle riparazioni). Se il proprietario rifiuta di eseguire le riparazioni poste a suo carico o ne ritarda l'esecuzione senza giusto motivo, e' in facolta' dell'usufruttuario di farle eseguire a proprie spese. Le spese devono essere rimborsate alla fine dell'usufrutto senza interesse. A garanzia del rimborso l'usufruttuario ha diritto di ritenere l'immobile riparato.",
+    "caratteri": 348
+  },
+  "note": [],
+  "impronta": "sha256:0dc2978b835b9c7b867b85c0c1fcc8a0e1e83b9c83947d73047b7fcdf1784cda"
+}

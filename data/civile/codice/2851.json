@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2851",
+    "rubrica": "Rinnovazione rispetto a beni trasferiti agli eredi o aventi causa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2851"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se al tempo della rinnovazione gli immobili ipotecati risultano dai registri delle trascrizioni passati agli eredi del debitore o ai suoi aventi causa, la rinnovazione deve essere fatta anche nei confronti degli eredi o aventi causa e la nota deve contenere le indicazioni stabilite dall'art. 2839, se queste risultano dai registri medesimi.",
+    "con_marcatori": "Art. 2851. (Rinnovazione rispetto a beni trasferiti agli eredi o aventi causa). Se al tempo della rinnovazione gli immobili ipotecati risultano dai registri delle trascrizioni passati agli eredi del debitore o ai suoi aventi causa, la rinnovazione deve essere fatta anche nei confronti degli eredi o aventi causa e la nota deve contenere le indicazioni stabilite dall'art. 2839, se queste risultano dai registri medesimi.",
+    "caratteri": 341
+  },
+  "note": [],
+  "impronta": "sha256:b37af3d4e44a33d2b2d5ff68be935fb669a3cad7f2b4e12b6b4c64cac2f713bc"
+}

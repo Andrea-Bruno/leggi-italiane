@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "636",
+    "rubrica": "Divieto di nozze",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art636"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' illecita la condizione che impedisce le prime nozze o le ulteriori. Tuttavia il legatario di usufrutto o di uso, di abitazione o di pensione, o di altra prestazione periodica per il caso o per il tempo del celibato o della vedovanza, non puo' goderne che durante il celibato o la vedovanza.",
+    "con_marcatori": "Art. 636. (Divieto di nozze). E' illecita la condizione che impedisce le prime nozze o le ulteriori. Tuttavia il legatario di usufrutto o di uso, di abitazione o di pensione, o di altra prestazione periodica per il caso o per il tempo del celibato o della vedovanza, non puo' goderne che durante il celibato o la vedovanza.",
+    "caratteri": 293
+  },
+  "note": [],
+  "impronta": "sha256:8bdcfe5a45ab12602541434ef20d5f4602ebb324bf14445d631b7e413706889a"
+}

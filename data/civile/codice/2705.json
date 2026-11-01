@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2705",
+    "rubrica": "Telegramma",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2705"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il telegramma ha l'efficacia probatoria della scrittura privata, se l'originale consegnato all'ufficio di partenza e' sottoscritto dal mittente, ovvero se e' state consegnato o fatto consegnare dal mittente medesimo, anche senza sottoscriverlo. La sottoscrizione puo' essere autenticata da notaio. Se l'identita' della persona che ha sottoscritto l'originale del telegramma e' stata accertata nei modi stabiliti dai regolamenti, e' ammessa la prova contraria. Il mittente puo' fare indicare nel telegramma se l'originale e' stato firmato con o senza autenticazione.",
+    "con_marcatori": "Art. 2705. (Telegramma). Il telegramma ha l'efficacia probatoria della scrittura privata, se l'originale consegnato all'ufficio di partenza e' sottoscritto dal mittente, ovvero se e' state consegnato o fatto consegnare dal mittente medesimo, anche senza sottoscriverlo. La sottoscrizione puo' essere autenticata da notaio. Se l'identita' della persona che ha sottoscritto l'originale del telegramma e' stata accertata nei modi stabiliti dai regolamenti, e' ammessa la prova contraria. Il mittente puo' fare indicare nel telegramma se l'originale e' stato firmato con o senza autenticazione.",
+    "caratteri": 565
+  },
+  "note": [],
+  "impronta": "sha256:047a4c3fb8026ee0035c1ab7e34202b8a30d32a82de74584752f4ecc2012b82d"
+}

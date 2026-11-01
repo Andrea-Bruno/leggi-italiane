@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2115",
+    "rubrica": "Contribuzioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2115"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo diverse disposizioni della legge o delle norme corporative, l'imprenditore e il prestatore di lavoro contribuiscono in parti eguali alle istituzioni di previdenza e di assistenza. L'imprenditore e' responsabile del versamento del contributo, anche per la parte che e' a carico del prestatore di lavoro, salvo il diritto di rivalsa secondo le leggi speciali. E' nullo qualsiasi patto diretto ad eludere gli obblighi relativi alla previdenza o all'assistenza.",
+    "con_marcatori": "Art. 2115. (Contribuzioni). Salvo diverse disposizioni della legge o delle norme corporative, l'imprenditore e il prestatore di lavoro contribuiscono in parti eguali alle istituzioni di previdenza e di assistenza. L'imprenditore e' responsabile del versamento del contributo, anche per la parte che e' a carico del prestatore di lavoro, salvo il diritto di rivalsa secondo le leggi speciali. E' nullo qualsiasi patto diretto ad eludere gli obblighi relativi alla previdenza o all'assistenza.",
+    "caratteri": 463
+  },
+  "note": [],
+  "impronta": "sha256:ad7da66a8195e7c24ba228dfc84c5599487ceb4a1f9fae8b8341f8ec7181c08f"
+}

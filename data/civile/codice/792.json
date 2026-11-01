@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "792",
+    "rubrica": "Effetti della riversibilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art792"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patto di riversibilita' produce l'effetto di risolvere tutte le alienazioni dei beni donati e di farli ritornare al donante liberi da ogni peso o ipoteca, ad eccezione dell'ipoteca iscritta a garanzia della dote o di altre convenzioni matrimoniali, quando gli altri beni del coniuge donatario non sono sufficienti, e nel caso soltanto in cui la donazione e' stata fatta con lo stesso contratto matrimoniale da cui l'ipoteca risulta. E' valido il patto per cui la riversione non deve pregiudicare la quota di riserva spettante al coniuge superstite sul patrimonio del donatario, compresi in esso i beni donati.",
+    "con_marcatori": "Art. 792. (Effetti della riversibilita'). Il patto di riversibilita' produce l'effetto di risolvere tutte le alienazioni dei beni donati e di farli ritornare al donante liberi da ogni peso o ipoteca, ad eccezione dell'ipoteca iscritta a garanzia della dote o di altre convenzioni matrimoniali, quando gli altri beni del coniuge donatario non sono sufficienti, e nel caso soltanto in cui la donazione e' stata fatta con lo stesso contratto matrimoniale da cui l'ipoteca risulta. E' valido il patto per cui la riversione non deve pregiudicare la quota di riserva spettante al coniuge superstite sul patrimonio del donatario, compresi in esso i beni donati.",
+    "caratteri": 612
+  },
+  "note": [],
+  "impronta": "sha256:00d599b454d663f8f9fcfc82cc8a09945ebe82a3a6709f40ff3db10e2de4b4c2"
+}

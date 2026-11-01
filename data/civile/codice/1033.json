@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1033",
+    "rubrica": "Obbligo di dare passaggio alle acque",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1033"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario e' tenuto a dare passaggio per i suoi fondi alle acque di ogni specie che si vogliono condurre da parte di chi ha, anche solo temporaneamente, il diritto di utilizzarle per i bisogni della vita o per usi agrari o industriali. Sono esenti da questa servitu' le case, i cortili, i giardini e le aie ad esse attinenti.",
+    "con_marcatori": "Art. 1033. (Obbligo di dare passaggio alle acque). Il proprietario e' tenuto a dare passaggio per i suoi fondi alle acque di ogni specie che si vogliono condurre da parte di chi ha, anche solo temporaneamente, il diritto di utilizzarle per i bisogni della vita o per usi agrari o industriali. Sono esenti da questa servitu' le case, i cortili, i giardini e le aie ad esse attinenti.",
+    "caratteri": 331
+  },
+  "note": [],
+  "impronta": "sha256:9303a86fd99c7edf5426166bbe0c3d0d03d1ec174d49e8550b31692443bb2d15"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2772",
+    "rubrica": "Crediti per tributi indiretti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2772"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Hanno pure privilegio i crediti dello Stato per ogni tributo indiretto, nonche' quelli derivanti dall'applicazione dell'imposta comunale sull'incremento di valore degli immobili, sopra gli immobili ai quali il tributo si riferisce. I crediti dello Stato, derivanti dall'applicazione dell'imposta sul valore aggiunto, hanno privilegio, in caso di responsabilita' solidale del cessionario, sugli immobili che hanno formato oggetto della cessione o ai quali si riferisce il servizio prestato. Eguale privilegio hanno i crediti di rivalsa, verso il cessionario ed il committente, previsti dalle norme relative all'imposta sul valore aggiunto, sugli immobili che hanno formato oggetto della cessione o ai quali si riferisce il servizio. Il privilegio non si puo' esercitare in pregiudizio dei diritti che i terzi hanno anteriormente acquistato sugli immobili. Per le imposte suppletive il privilegio non si puo' neppure esercitare in pregiudizio dei diritti acquistati successivamente dai terzi. Lo stesso privilegio, per quanto riguarda l'imposta di successione, non ha effetto a danno dei creditori del defunto che hanno iscritto la loro ipoteca nei tre mesi dalla morte di lui, ne' ha effetto a danno dei creditori che hanno esercitato il diritto di separazione dei beni del defunto da quelli dell'erede.",
+    "con_marcatori": "Art. 2772. ((Crediti per tributi indiretti.)) ((Hanno pure privilegio i crediti dello Stato per ogni tributo indiretto, nonche' quelli derivanti dall'applicazione dell'imposta comunale sull'incremento di valore degli immobili, sopra gli immobili ai quali il tributo si riferisce. I crediti dello Stato, derivanti dall'applicazione dell'imposta sul valore aggiunto, hanno privilegio, in caso di responsabilita' solidale del cessionario, sugli immobili che hanno formato oggetto della cessione o ai quali si riferisce il servizio prestato. Eguale privilegio hanno i crediti di rivalsa, verso il cessionario ed il committente, previsti dalle norme relative all'imposta sul valore aggiunto, sugli immobili che hanno formato oggetto della cessione o ai quali si riferisce il servizio. Il privilegio non si puo' esercitare in pregiudizio dei diritti che i terzi hanno anteriormente acquistato sugli immobili. Per le imposte suppletive il privilegio non si puo' neppure esercitare in pregiudizio dei diritti acquistati successivamente dai terzi. Lo stesso privilegio, per quanto riguarda l'imposta di successione, non ha effetto a danno dei creditori del defunto che hanno iscritto la loro ipoteca nei tre mesi dalla morte di lui, ne' ha effetto a danno dei creditori che hanno esercitato il diritto di separazione dei beni del defunto da quelli dell'erede)).",
+    "caratteri": 1302
+  },
+  "note": [],
+  "impronta": "sha256:071fb70e920b2441b3b53b9e593b290954638074db454c916e8c5c1fd4bf3127"
+}

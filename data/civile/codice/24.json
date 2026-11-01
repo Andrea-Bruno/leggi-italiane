@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "24",
+    "rubrica": "Recesso ed esclusione degli associati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art24"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La qualita' di associato non e' trasmissibile, salvo che la trasmissione sia consentita dall'atto costitutivo o dallo statuto. L'associato puo' sempre recedere dall'associazione se non ha assunto l'obbligo di farne parte per un tempo determinato. La dichiarazione di recesso deve essere comunicata per iscritto agli amministratori e ha effetto con lo scadere dell'anno in corso, purche' sia fatta almeno tre mesi prima. L'esclusione d'un associato non puo' essere deliberata dall'assemblea che per gravi motivi: l'associato puo' ricorrere all'autorita' giudiziaria entro sei mesi dal giorno in cui gli e' stata notificata la deliberazione. Gli associati, che abbiano receduto o siano stati esclusi o che comunque abbiano cessato di appartenere all'associazione, non possono ripetere i contributi versati, ne' hanno alcun diritto sul patrimonio dell'associazione.",
+    "con_marcatori": "Art. 24. (Recesso ed esclusione degli associati). La qualita' di associato non e' trasmissibile, salvo che la trasmissione sia consentita dall'atto costitutivo o dallo statuto. L'associato puo' sempre recedere dall'associazione se non ha assunto l'obbligo di farne parte per un tempo determinato. La dichiarazione di recesso deve essere comunicata per iscritto agli amministratori e ha effetto con lo scadere dell'anno in corso, purche' sia fatta almeno tre mesi prima. L'esclusione d'un associato non puo' essere deliberata dall'assemblea che per gravi motivi: l'associato puo' ricorrere all'autorita' giudiziaria entro sei mesi dal giorno in cui gli e' stata notificata la deliberazione. Gli associati, che abbiano receduto o siano stati esclusi o che comunque abbiano cessato di appartenere all'associazione, non possono ripetere i contributi versati, ne' hanno alcun diritto sul patrimonio dell'associazione.",
+    "caratteri": 862
+  },
+  "note": [],
+  "impronta": "sha256:e84baf8b8d2490cb8eeb9eed5c88dc3b161b910e0b369cbabc78e6042cf909cf"
+}

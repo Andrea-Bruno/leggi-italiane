@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1465",
+    "rubrica": "Contratto con effetti traslativi o costitutivi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1465"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei contratti che trasferiscono la proprieta' di una cosa determinata ovvero costituiscono o trasferiscono diritti reali, il perimento della cosa per una causa non imputabile all'alienante non libera l'acquirente dall'obbligo di eseguire la controprestazione, ancorche' la cosa non gli sia stata consegnata. La stessa disposizione si applica nel caso in cui l'effetto traslativo o costitutivo sia differito fino allo scadere di un termine. Qualora oggetto del trasferimento sia una cosa determinata solo nel genere, l'acquirente non e' liberato dall'obbligo di eseguire la controprestazione, se l'alienante ha fatto la consegna o se la cosa e' stata individuata. L'acquirente e' in ogni caso liberato dalla sua obbligazione, se il trasferimento era sottoposto a condizione sospensiva e l'impossibilita' e' sopravvenuta prima che si verifichi la condizione.",
+    "con_marcatori": "Art. 1465. (Contratto con effetti traslativi o costitutivi). Nei contratti che trasferiscono la proprieta' di una cosa determinata ovvero costituiscono o trasferiscono diritti reali, il perimento della cosa per una causa non imputabile all'alienante non libera l'acquirente dall'obbligo di eseguire la controprestazione, ancorche' la cosa non gli sia stata consegnata. La stessa disposizione si applica nel caso in cui l'effetto traslativo o costitutivo sia differito fino allo scadere di un termine. Qualora oggetto del trasferimento sia una cosa determinata solo nel genere, l'acquirente non e' liberato dall'obbligo di eseguire la controprestazione, se l'alienante ha fatto la consegna o se la cosa e' stata individuata. L'acquirente e' in ogni caso liberato dalla sua obbligazione, se il trasferimento era sottoposto a condizione sospensiva e l'impossibilita' e' sopravvenuta prima che si verifichi la condizione.",
+    "caratteri": 856
+  },
+  "note": [],
+  "impronta": "sha256:f14c2c8c522dd0107c5b058dd623fcc1695128c0f9877a3f4cf6983dfc49f893"
+}

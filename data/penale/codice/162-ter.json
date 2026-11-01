@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "162-ter",
+    "rubrica": "Estinzione del reato per condotte riparatorie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art162-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi di procedibilita' a querela soggetta a remissione, il giudice dichiara estinto il reato, sentite le parti e la persona offesa, quando l'imputato ha riparato interamente, entro il termine massimo della dichiarazione di apertura del dibattimento di primo grado, il danno cagionato dal reato, mediante le restituzioni o il risarcimento, e ha eliminato, ove possibile, le conseguenze dannose o pericolose del reato. Il risarcimento del danno puo' essere riconosciuto anche in seguito ad offerta reale ai sensi degli articoli 1208 e seguenti del codice civile, formulata dall'imputato e non accettata dalla persona offesa, ove il giudice riconosca la congruita' della somma offerta a tale titolo. Quando dimostra di non aver potuto adempiere, per fatto a lui non addebitabile, entro il termine di cui al primo comma, l'imputato puo' chiedere al giudice la fissazione di un ulteriore termine, non superiore a sei mesi, per provvedere al pagamento, anche in forma rateale, di quanto dovuto a titolo di risarcimento; in tal caso il giudice, se accoglie la richiesta, ordina la sospensione del processo e fissa la successiva udienza alla scadenza del termine stabilito e comunque non oltre novanta giorni dalla predetta scadenza, imponendo specifiche prescrizioni. Durante la sospensione del processo, il corso della prescrizione resta sospeso. Si applica l'articolo 240, secondo comma. Il giudice dichiara l'estinzione del reato, di cui al primo comma, all'esito positivo delle condotte riparatorie. Le disposizioni del presente articolo non si applicano nei casi di cui all'articolo 612-bis.",
+    "con_marcatori": "Art. 162-ter. (Estinzione del reato per condotte riparatorie). Nei casi di procedibilita' a querela soggetta a remissione, il giudice dichiara estinto il reato, sentite le parti e la persona offesa, quando l'imputato ha riparato interamente, entro il termine massimo della dichiarazione di apertura del dibattimento di primo grado, il danno cagionato dal reato, mediante le restituzioni o il risarcimento, e ha eliminato, ove possibile, le conseguenze dannose o pericolose del reato. Il risarcimento del danno puo' essere riconosciuto anche in seguito ad offerta reale ai sensi degli articoli 1208 e seguenti del codice civile, formulata dall'imputato e non accettata dalla persona offesa, ove il giudice riconosca la congruita' della somma offerta a tale titolo. Quando dimostra di non aver potuto adempiere, per fatto a lui non addebitabile, entro il termine di cui al primo comma, l'imputato puo' chiedere al giudice la fissazione di un ulteriore termine, non superiore a sei mesi, per provvedere al pagamento, anche in forma rateale, di quanto dovuto a titolo di risarcimento; in tal caso il giudice, se accoglie la richiesta, ordina la sospensione del processo e fissa la successiva udienza alla scadenza del termine stabilito e comunque non oltre novanta giorni dalla predetta scadenza, imponendo specifiche prescrizioni. Durante la sospensione del processo, il corso della prescrizione resta sospeso. Si applica l'articolo 240, secondo comma. Il giudice dichiara l'estinzione del reato, di cui al primo comma, all'esito positivo delle condotte riparatorie. ((Le disposizioni del presente articolo non si applicano nei casi di cui all'articolo 612-bis)). (277)",
+    "caratteri": 1593
+  },
+  "note": [
+    {
+      "numero": 277,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 23 giugno 2017, n. 103",
+          "urn": "urn:nir:stato:legge:2017-06-23;103",
+          "data": "2017-06-23",
+          "numero": "103",
+          "data_gazzetta": "2017-07-04"
+        },
+        {
+          "denominazione": "articolo 162-ter del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 23 giugno 2017, n. 103, ha disposto (con l'art. 1, comma 2) che \"Le disposizioni dell'articolo 162-ter del codice penale, introdotto dal comma 1, si applicano anche ai processi in corso alla data di entrata in vigore della presente legge e il giudice dichiara l'estinzione anche quando le condotte riparatorie siano state compiute oltre il termine della dichiarazione di apertura del dibattimento di primo grado\"."
+    }
+  ],
+  "impronta": "sha256:99eea6e17d0239af1d0740ae84bd59f68d109ab15757c5e4ea3ac0271fcad75d"
+}

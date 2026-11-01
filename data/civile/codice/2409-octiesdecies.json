@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2409-octiesdecies",
+    "rubrica": "Comitato per il controllo sulla gestione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2409-octiesdecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Salvo diversa disposizione dello statuto, la determinazione del numero e la nomina dei componenti del comitato per il controllo sulla gestione spettano al consiglio di amministrazione. Nelle societa' che fanno ricorso al mercato del capitale di rischio il numero dei componenti del comitato non puo' essere inferiore a tre. Il comitato e' composto da amministratori in possesso dei requisiti di onorabilita' e professionalita' stabiliti dallo statuto e dei requisiti di indipendenza di cui all'articolo 2409-septiesdecies, che non siano membri del comitato esecutivo ed ai quali non siano attribuite deleghe o particolari cariche e comunque non svolgano, anche di mero fatto, funzioni attinenti alla gestione dell'impresa sociale o di societa' che la controllano o ne sono controllate. Almeno uno dei componenti del comitato per il controllo sulla gestione deve essere scelto fra i revisori legali iscritti nell'apposito registro. In caso di morte, rinunzia revoca o decadenza di un componente del comitato per il controllo sulla gestione, il consiglio di amministrazione provvede senza indugio a sostituirlo scegliendolo tra gli altri amministratori in possesso dei requisiti previsti dai commi precedenti; se cio' non e' possibile, provvede senza indugio a norma dell'articolo 2386 scegliendo persona provvista dei suddetti requisiti. Il comitato per il controllo sulla gestione elegge al suo interno, a maggioranza assoluta dei suoi membri, il presidente. Fermo quanto previsto dall'articolo 2396-quinquies, il comitato per il controllo sulla gestione svolge gli ulteriori compiti affidatigli dal consiglio di amministrazione con particolare riguardo ai rapporti con il soggetto incaricato di effettuare la revisione legale dei conti. I componenti del comitato per il controllo sulla gestione devono assistere alle assemblee e alle riunioni del comitato esecutivo. Qualora le irregolarita' di cui all'articolo 2396-quater attengano a materie di competenza consiliare, il comitato per il controllo sulla gestione puo' richiedere l'adozione dei provvedimenti previsti dal settimo comma del medesimo articolo solo ove la maggioranza dei componenti del comitato abbia espresso voto contrario alla determinazione consiliare.",
+    "con_marcatori": "Art. 2409-octiesdecies. (( (Comitato per il controllo sulla gestione).)). ((Salvo diversa disposizione dello statuto, la determinazione del numero e la nomina dei componenti del comitato per il controllo sulla gestione spettano al consiglio di amministrazione. Nelle societa' che fanno ricorso al mercato del capitale di rischio il numero dei componenti del comitato non puo' essere inferiore a tre. Il comitato e' composto da amministratori in possesso dei requisiti di onorabilita' e professionalita' stabiliti dallo statuto e dei requisiti di indipendenza di cui all'articolo 2409-septiesdecies, che non siano membri del comitato esecutivo ed ai quali non siano attribuite deleghe o particolari cariche e comunque non svolgano, anche di mero fatto, funzioni attinenti alla gestione dell'impresa sociale o di societa' che la controllano o ne sono controllate. Almeno uno dei componenti del comitato per il controllo sulla gestione deve essere scelto fra i revisori legali iscritti nell'apposito registro. In caso di morte, rinunzia revoca o decadenza di un componente del comitato per il controllo sulla gestione, il consiglio di amministrazione provvede senza indugio a sostituirlo scegliendolo tra gli altri amministratori in possesso dei requisiti previsti dai commi precedenti; se cio' non e' possibile, provvede senza indugio a norma dell'articolo 2386 scegliendo persona provvista dei suddetti requisiti. Il comitato per il controllo sulla gestione elegge al suo interno, a maggioranza assoluta dei suoi membri, il presidente. Fermo quanto previsto dall'articolo 2396-quinquies, il comitato per il controllo sulla gestione svolge gli ulteriori compiti affidatigli dal consiglio di amministrazione con particolare riguardo ai rapporti con il soggetto incaricato di effettuare la revisione legale dei conti. I componenti del comitato per il controllo sulla gestione devono assistere alle assemblee e alle riunioni del comitato esecutivo. Qualora le irregolarita' di cui all'articolo 2396-quater attengano a materie di competenza consiliare, il comitato per il controllo sulla gestione puo' richiedere l'adozione dei provvedimenti previsti dal settimo comma del medesimo articolo solo ove la maggioranza dei componenti del comitato abbia espresso voto contrario alla determinazione consiliare.))",
+    "caratteri": 2224
+  },
+  "note": [],
+  "impronta": "sha256:48bbcf0547765cc3a0fc32d2bd99dcfc07642c293b6d6d345501e7b575221e35"
+}

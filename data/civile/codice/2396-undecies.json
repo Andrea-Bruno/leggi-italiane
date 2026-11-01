@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2396-undecies",
+    "rubrica": "Sostituzione degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2396-undecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Se nel corso dell'esercizio vengono a mancare uno o piu' amministratori, gli altri provvedono a sostituirli con deliberazione approvata dal collegio sindacale, purche' la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori cosi' nominati restano in carica fino alla prossima assemblea. Se viene meno la maggioranza degli amministratori nominati dall'assemblea, quelli rimasti in carica devono convocare l'assemblea perche' provveda alla sostituzione dei mancanti. Salvo diversa disposizione dello statuto o dell'assemblea, gli amministratori nominati ai sensi del secondo comma scadono insieme con quelli in carica all'atto della loro nomina. Se particolari disposizioni dello statuto prevedono che a seguito della cessazione di taluni amministratori cessi l'intero consiglio, l'assemblea per la nomina del nuovo consiglio e' convocata d'urgenza dagli amministratori rimasti in carica; lo statuto puo' tuttavia prevedere l'applicazione in tal caso di quanto disposto nel successivo comma. Se vengono a cessare l'amministratore unico o tutti gli amministratori, l'assemblea per la nomina dell'amministratore o dell'intero consiglio deve essere convocata d'urgenza dal collegio sindacale, il quale puo' compiere nel frattempo gli atti di ordinaria amministrazione.",
+    "con_marcatori": "Art. 2396-undecies. (( (Sostituzione degli amministratori).)). ((Se nel corso dell'esercizio vengono a mancare uno o piu' amministratori, gli altri provvedono a sostituirli con deliberazione approvata dal collegio sindacale, purche' la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori cosi' nominati restano in carica fino alla prossima assemblea. Se viene meno la maggioranza degli amministratori nominati dall'assemblea, quelli rimasti in carica devono convocare l'assemblea perche' provveda alla sostituzione dei mancanti. Salvo diversa disposizione dello statuto o dell'assemblea, gli amministratori nominati ai sensi del secondo comma scadono insieme con quelli in carica all'atto della loro nomina. Se particolari disposizioni dello statuto prevedono che a seguito della cessazione di taluni amministratori cessi l'intero consiglio, l'assemblea per la nomina del nuovo consiglio e' convocata d'urgenza dagli amministratori rimasti in carica; lo statuto puo' tuttavia prevedere l'applicazione in tal caso di quanto disposto nel successivo comma. Se vengono a cessare l'amministratore unico o tutti gli amministratori, l'assemblea per la nomina dell'amministratore o dell'intero consiglio deve essere convocata d'urgenza dal collegio sindacale, il quale puo' compiere nel frattempo gli atti di ordinaria amministrazione.))",
+    "caratteri": 1308
+  },
+  "note": [],
+  "impronta": "sha256:b15dff8ebd0291cfaf6a838a98acad91ad87c506338aaddfa7c405578461bd49"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "732",
+    "rubrica": "Diritto di prelazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art732"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il coerede, che vuole alienare a un estraneo la sua quota o parte di essa, deve notificare la proposta di alienazione, indicandone il prezzo, agli altri coeredi, i quali hanno diritto di prelazione. Questo diritto deve essere esercitato nel termine di due mesi dall'ultima delle notificazioni. In mancanza della notificazione, i coeredi hanno diritto di riscattare la quota dall'acquirente e da ogni successivo avente causa, finche' dura lo stato di comunione ereditaria. Se i coeredi che intendono esercitare il diritto di riscatto sono piu', la quota e' assegnata a tutti in parti uguali.",
+    "con_marcatori": "Art. 732. (Diritto di prelazione). Il coerede, che vuole alienare a un estraneo la sua quota o parte di essa, deve notificare la proposta di alienazione, indicandone il prezzo, agli altri coeredi, i quali hanno diritto di prelazione. Questo diritto deve essere esercitato nel termine di due mesi dall'ultima delle notificazioni. In mancanza della notificazione, i coeredi hanno diritto di riscattare la quota dall'acquirente e da ogni successivo avente causa, finche' dura lo stato di comunione ereditaria. Se i coeredi che intendono esercitare il diritto di riscatto sono piu', la quota e' assegnata a tutti in parti uguali.",
+    "caratteri": 590
+  },
+  "note": [],
+  "impronta": "sha256:c00fc717094229766e714888c1fc07ed6dbef9ec068392f7313f6a8b66f12b21"
+}

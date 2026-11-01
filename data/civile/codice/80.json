@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "80",
+    "rubrica": "Restituzione dei doni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art80"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il promittente puo' domandare la restituzione dei doni fatti a causa della promessa di matrimonio, se questo non e' stato contratto. La domanda non e' proponibile dopo un anno dal giorno in cui s'e' avuto il rifiuto di celebrare il matrimonio o dal giorno della morte di uno dei promittenti.",
+    "con_marcatori": "Art. 80. (Restituzione dei doni). Il promittente puo' domandare la restituzione dei doni fatti a causa della promessa di matrimonio, se questo non e' stato contratto. La domanda non e' proponibile dopo un anno dal giorno in cui s'e' avuto il rifiuto di celebrare il matrimonio o dal giorno della morte di uno dei promittenti.",
+    "caratteri": 291
+  },
+  "note": [],
+  "impronta": "sha256:2bedc2fb8da4d31d184f866f24ce1899607fccde457db027162a788b75ec4370"
+}

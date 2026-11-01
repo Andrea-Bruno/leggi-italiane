@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "217",
+    "rubrica": "Amministrazione e godimento dei beni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art217"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascun coniuge ha il godimento e l'amministrazione dei beni di cui e' titolare esclusivo. Se ad uno dei coniugi e' stata conferita la procura ad amministrare i beni dell'altro con l'obbligo di rendere conto dei frutti, egli e' tenuto verso l'altro coniuge secondo le regole del mandato. Se uno dei coniugi ha amministrato i beni dell'altro con procura senza l'obbligo di rendere conto dei frutti, egli ed i suoi eredi, a richiesta dell'altro coniuge o allo scioglimento o alla cessazione degli effetti civili del matrimonio, sono tenuti a consegnare i frutti esistenti e non rispondono per quelli consumati. Se uno dei coniugi, nonostante l'opposizione dell'altro, amministra i beni di questo o comunque compie atti relativi a detti beni risponde dei danni e della mancata percezione dei frutti.",
+    "con_marcatori": "Art. 217. ((Amministrazione e godimento dei beni.)) ((Ciascun coniuge ha il godimento e l'amministrazione dei beni di cui e' titolare esclusivo. Se ad uno dei coniugi e' stata conferita la procura ad amministrare i beni dell'altro con l'obbligo di rendere conto dei frutti, egli e' tenuto verso l'altro coniuge secondo le regole del mandato. Se uno dei coniugi ha amministrato i beni dell'altro con procura senza l'obbligo di rendere conto dei frutti, egli ed i suoi eredi, a richiesta dell'altro coniuge o allo scioglimento o alla cessazione degli effetti civili del matrimonio, sono tenuti a consegnare i frutti esistenti e non rispondono per quelli consumati. Se uno dei coniugi, nonostante l'opposizione dell'altro, amministra i beni di questo o comunque compie atti relativi a detti beni risponde dei danni e della mancata percezione dei frutti)).",
+    "caratteri": 796
+  },
+  "note": [],
+  "impronta": "sha256:04ee35915b1627db936e660135a52adb7daecdc7db540e88a435c50400a32a49"
+}

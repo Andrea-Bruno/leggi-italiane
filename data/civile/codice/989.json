@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "989",
+    "rubrica": "Boschi, filari e alberi sparsi di alto fusto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art989"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se nell'usufrutto sono compresi boschi o filari cedui ovvero boschi o filari di alto fusto destinati alla produzione di legna, l'usufruttuario puo' procedere ai tagli ordinari, curando il mantenimento dell'originaria consistenza dei boschi o dei filari e provvedendo, se occorre, alla loro ricostituzione. Circa il modo, l'estensione, l'ordine e l'epoca dei tagli, l'usufruttuario e' tenuto a uniformarsi, oltre che alle leggi e ai regolamenti forestali, alla pratica costante della regione. Le stesse regole si applicano agli alberi di alto fusto sparsi per la campagna, destinati ad essere tagliati.",
+    "con_marcatori": "Art. 989. (Boschi, filari e alberi sparsi di alto fusto). Se nell'usufrutto sono compresi boschi o filari cedui ovvero boschi o filari di alto fusto destinati alla produzione di legna, l'usufruttuario puo' procedere ai tagli ordinari, curando il mantenimento dell'originaria consistenza dei boschi o dei filari e provvedendo, se occorre, alla loro ricostituzione. Circa il modo, l'estensione, l'ordine e l'epoca dei tagli, l'usufruttuario e' tenuto a uniformarsi, oltre che alle leggi e ai regolamenti forestali, alla pratica costante della regione. Le stesse regole si applicano agli alberi di alto fusto sparsi per la campagna, destinati ad essere tagliati.",
+    "caratteri": 601
+  },
+  "note": [],
+  "impronta": "sha256:6c8cbd5c6e0b6c209a4ac885cb648928221a02575bf609d9c3f46bbd62c0a999"
+}

@@ -1,0 +1,90 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2429",
+    "rubrica": "Relazione dei sindaci e deposito del bilancio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2429"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il bilancio deve essere comunicato dagli amministratori al collegio sindacale e al soggetto incaricato della revisione legale dei conti, con la relazione, almeno trenta giorni prima di quello fissato per l'assemblea che deve discuterlo. Il collegio sindacale deve riferire all'assemblea sui risultati dell'esercizio sociale e sull'attivita' svolta nell'adempimento dei propri doveri, e fare le osservazioni e le proposte in ordine al bilancio e alla sua approvazione, con particolare riferimento all'esercizio della deroga di cui all'articolo 2423, quarto comma. PERIODO SOPPRESSO DAL D.LGS. 27 GENNAIO 2010, N. 39. Il bilancio, con le copie integrali dell'ultimo bilancio delle societa' controllate e un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio delle societa' collegate, deve restare depositato in copia nella sede della societa', insieme con le relazioni degli amministratori, dei sindaci e del soggetto incaricato della revisione legale dei conti, durante i quindici giorni che precedono l'assemblea, e finche' sia approvato. I soci possono prenderne visione. Il deposito delle copie dell'ultimo bilancio delle societa' controllate prescritto dal comma precedente puo' essere sostituito, per quelle incluse nel consolidamento, dal deposito di un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio delle medesime.",
+    "con_marcatori": "Art. 2429. (Relazione dei sindaci e deposito del bilancio). Il bilancio deve essere comunicato dagli amministratori al collegio sindacale e al soggetto incaricato della revisione legale dei conti, con la relazione, almeno trenta giorni prima di quello fissato per l'assemblea che deve discuterlo.((249)) Il collegio sindacale deve riferire all'assemblea sui risultati dell'esercizio sociale e sull'attivita' svolta nell'adempimento dei propri doveri, e fare le osservazioni e le proposte in ordine al bilancio e alla sua approvazione, con particolare riferimento all'esercizio della deroga di cui all'articolo 2423, quarto comma. PERIODO SOPPRESSO DAL D.LGS. 27 GENNAIO 2010, N. 39.(174) Il bilancio, con le copie integrali dell'ultimo bilancio delle societa' controllate e un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio delle societa' collegate, deve restare depositato in copia nella sede della societa', insieme con le relazioni degli amministratori, dei sindaci e del soggetto incaricato della revisione legale dei conti, durante i quindici giorni che precedono l'assemblea, e finche' sia approvato. I soci possono prenderne visione. Il deposito delle copie dell'ultimo bilancio delle societa' controllate prescritto dal comma precedente puo' essere sostituito, per quelle incluse nel consolidamento, dal deposito di un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio delle medesime.",
+    "caratteri": 1353
+  },
+  "note": [
+    {
+      "numero": 174,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 2 febbraio 2007, n. 32",
+          "urn": "urn:nir:stato:decretoLegislativo:2007-02-02;32",
+          "data": "2007-02-02",
+          "numero": "32",
+          "data_gazzetta": "2007-03-28"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 2 febbraio 2007, n. 32, ha disposto (con l'art. 5, comma 1) che \"Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore.\""
+    },
+    {
+      "numero": 249,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 febbraio 1998, n. 58",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-24;58",
+          "data": "1998-02-24",
+          "numero": "58",
+          "data_gazzetta": "1998-03-26"
+        },
+        {
+          "denominazione": "D.Lgs. 15 febbraio 2016, n. 25",
+          "urn": "urn:nir:stato:decretoLegislativo:2016-02-15;25",
+          "data": "2016-02-15",
+          "numero": "25",
+          "data_gazzetta": "2016-03-03"
+        },
+        {
+          "denominazione": "articolo 2429, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 febbraio 1998, n. 58 come modificato dal D.Lgs. 15 febbraio 2016, n. 25 ha disposto (con l'art. 154-ter, comma 1-ter) che \"In deroga all'articolo 2429, primo comma, del codice civile il progetto di bilancio di esercizio e' comunicato dagli amministratori al collegio sindacale, al revisore legale o alla societa' di revisione legale, con la relazione sulla gestione, almeno quindici giorni prima della pubblicazione di cui al comma 1\"."
+    }
+  ],
+  "impronta": "sha256:966aad1af3eae49d46ba014a31f7f7beb7d305006ca998b56b49dcf6452b4154"
+}

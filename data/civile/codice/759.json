@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "759",
+    "rubrica": "Evizione subita da un coerede",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art759"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se alcuno dei coeredi subisce evizione, il valore del bene evitto, calcolato al momento dell'evizione, deve essere ripartito tra tutti i coeredi ai fini della garanzia stabilita dall'articolo precedente, in proporzione del valore che i beni attribuiti a ciascuno di essi hanno al tempo dell'evizione e tenuto conto dello stato in cui si trovano al tempo della divisione. Se uno dei coeredi e' insolvente, la parte per cui e' obbligato deve essere egualmente ripartita tra l'erede che ha sofferto l'evizione e tutti gli eredi solventi.",
+    "con_marcatori": "Art. 759. (Evizione subita da un coerede). Se alcuno dei coeredi subisce evizione, il valore del bene evitto, calcolato al momento dell'evizione, deve essere ripartito tra tutti i coeredi ai fini della garanzia stabilita dall'articolo precedente, in proporzione del valore che i beni attribuiti a ciascuno di essi hanno al tempo dell'evizione e tenuto conto dello stato in cui si trovano al tempo della divisione. Se uno dei coeredi e' insolvente, la parte per cui e' obbligato deve essere egualmente ripartita tra l'erede che ha sofferto l'evizione e tutti gli eredi solventi.",
+    "caratteri": 534
+  },
+  "note": [],
+  "impronta": "sha256:bb3f5b6dd3f7456349fdfded48b739f029c83954f086fd3fbdfe56d32dcddb21"
+}

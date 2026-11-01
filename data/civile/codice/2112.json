@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2112",
+    "rubrica": "Mantenimento dei diritti dei lavoratori in caso di trasferimento d'azienda",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2112"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di trasferimento d'azienda, il rapporto di lavoro continua con il cessionario ed il lavoratore conserva tutti i diritti che ne derivano. Il cedente ed il cessionario sono obbligati, in solido, per tutti i crediti che il lavoratore aveva al tempo del trasferimento. Con le procedure di cui agli articoli 410 e 411 del codice di procedura civile il lavoratore puo' consentire la liberazione del cedente dalle obbligazioni derivanti dal rapporto di lavoro. Il cessionario e' tenuto ad applicare i trattamenti economici e normativi previsti dai contratti collettivi nazionali, territoriali ed aziendali vigenti alla data del trasferimento, fino alla loro scadenza, salvo che siano sostituiti da altri contratti collettivi applicabili all'impresa del cessionario. L'effetto di sostituzione si produce esclusivamente fra contratti collettivi del medesimo livello. Ferma restando la facolta' di esercitare il recesso ai sensi della normativa in materia di licenziamenti, il trasferimento d'azienda non costituisce di per se' motivo di licenziamento. Il lavoratore, le cui condizioni di lavoro subiscono una sostanziale modifica nei tre mesi successivi al trasferimento d'azienda, puo' rassegnare le proprie dimissioni con gli effetti di cui all'articolo 2119, primo comma. Ai fini e per gli effetti di cui al presente articolo si intende per trasferimento d'azienda qualsiasi operazione che, in seguito a cessione contrattuale o fusione, comporti il mutamento nella titolarita' di un'attivita' economica organizzata, con o senza scopo di lucro, preesistente al trasferimento e che conserva nel trasferimento la propria identita' a prescindere dalla tipologia negoziale o dal provvedimento sulla base del quale il trasferimento e' attuato ivi compresi l'usufrutto o l'affitto di azienda. Le disposizioni del presente articolo si applicano altresi' al trasferimento di parte dell'azienda, intesa come articolazione funzionalmente autonoma di un'attivita' economica organizzata, identificata come tale dal cedente e dal cessionario al momento del suo trasferimento. Nel caso in cui l'alienante stipuli con l'acquirente un contratto di appalto la cui esecuzione avviene utilizzando il ramo d'azienda oggetto di cessione, tra appaltante e appaltatore opera un regime di solidarieta' di cui all'articolo 29, comma 2, del decreto legislativo 10 settembre 2003, n. 276.",
+    "con_marcatori": "Art. 2112. (Mantenimento dei diritti dei lavoratori in caso di trasferimento d'azienda). In caso di trasferimento d'azienda, il rapporto di lavoro continua con il cessionario ed il lavoratore conserva tutti i diritti che ne derivano. Il cedente ed il cessionario sono obbligati, in solido, per tutti i crediti che il lavoratore aveva al tempo del trasferimento. Con le procedure di cui agli articoli 410 e 411 del codice di procedura civile il lavoratore puo' consentire la liberazione del cedente dalle obbligazioni derivanti dal rapporto di lavoro. Il cessionario e' tenuto ad applicare i trattamenti economici e normativi previsti dai contratti collettivi nazionali, territoriali ed aziendali vigenti alla data del trasferimento, fino alla loro scadenza, salvo che siano sostituiti da altri contratti collettivi applicabili all'impresa del cessionario. L'effetto di sostituzione si produce esclusivamente fra contratti collettivi del medesimo livello. Ferma restando la facolta' di esercitare il recesso ai sensi della normativa in materia di licenziamenti, il trasferimento d'azienda non costituisce di per se' motivo di licenziamento. Il lavoratore, le cui condizioni di lavoro subiscono una sostanziale modifica nei tre mesi successivi al trasferimento d'azienda, puo' rassegnare le proprie dimissioni con gli effetti di cui all'articolo 2119, primo comma. Ai fini e per gli effetti di cui al presente articolo si intende per trasferimento d'azienda qualsiasi operazione che, in seguito a cessione contrattuale o fusione, comporti il mutamento nella titolarita' di un'attivita' economica organizzata, con o senza scopo di lucro, preesistente al trasferimento e che conserva nel trasferimento la propria identita' a prescindere dalla tipologia negoziale o dal provvedimento sulla base del quale il trasferimento e' attuato ivi compresi l'usufrutto o l'affitto di azienda. Le disposizioni del presente articolo si applicano altresi' al trasferimento di parte dell'azienda, intesa come articolazione funzionalmente autonoma di un'attivita' economica organizzata, identificata come tale dal cedente e dal cessionario al momento del suo trasferimento. Nel caso in cui l'alienante stipuli con l'acquirente un contratto di appalto la cui esecuzione avviene utilizzando il ramo d'azienda oggetto di cessione, tra appaltante e appaltatore opera un regime di solidarieta' ((di cui all'articolo 29, comma 2, del decreto legislativo 10 settembre 2003, n. 276.)) (129)",
+    "caratteri": 2362
+  },
+  "note": [
+    {
+      "numero": 129,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 2 febbraio 2001, n. 18",
+          "urn": "urn:nir:stato:decretoLegislativo:2001-02-02;18",
+          "data": "2001-02-02",
+          "numero": "18",
+          "data_gazzetta": "2001-02-21"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 2 febbraio 2001, n. 18 ha disposto (con l'art. 3, comma 1) che \"Le disposizioni di cui agli articoli 1 e 2 del presente decreto trovano applicazione a decorrere dal 1° luglio 2001\"."
+    }
+  ],
+  "impronta": "sha256:d7d73ccca79ddc692448f113dc7c1b57785cebca91204de74b48f3df5342cfa5"
+}

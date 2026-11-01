@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "915",
+    "rubrica": "Riparazione di sponde e argini",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art915"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora le sponde o gli argini che servivano di ritegno alle acque siano stati in tutto o in parte distrutti o atterrati, ovvero per la naturale variazione del corso delle acque si renda necessario costruire nuovi argini o ripari, e il proprietario del fondo non provveda sollecitamente a ripararli o a costruirli, ciascuno dei proprietari che hanno sofferto o possono ricevere danno puo' provvedervi, previa autorizzazione del tribunale, che provvede in via d'urgenza.112a Le opere devono essere eseguite in modo che il proprietario del fondo, in cui esse si compiono, non ne subisca danno, eccetto quello temporaneo causato dall'esecuzione delle opere stesse.",
+    "con_marcatori": "Art. 915. (Riparazione di sponde e argini). Qualora le sponde o gli argini che servivano di ritegno alle acque siano stati in tutto o in parte distrutti o atterrati, ovvero per la naturale variazione del corso delle acque si renda necessario costruire nuovi argini o ripari, e il proprietario del fondo non provveda sollecitamente a ripararli o a costruirli, ciascuno dei proprietari che hanno sofferto o possono ricevere danno puo' provvedervi, previa autorizzazione del tribunale, che provvede in via d'urgenza.(111)((112a)) Le opere devono essere eseguite in modo che il proprietario del fondo, in cui esse si compiono, non ne subisca danno, eccetto quello temporaneo causato dall'esecuzione delle opere stesse.",
+    "caratteri": 661
+  },
+  "note": [
+    {
+      "numero": 111,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 19 febbraio 1998, n. 51",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-19;51",
+          "data": "1998-02-19",
+          "numero": "51",
+          "data_gazzetta": "1998-03-20"
+        },
+        {
+          "denominazione": "articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254",
+          "urn": "urn:nir:stato:legge:1997-07-16;254",
+          "data": "1997-07-16",
+          "numero": "254",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "L. 16 giugno 1998, n. 188",
+          "urn": "urn:nir:stato:legge:1998-06-16;188",
+          "data": "1998-06-16",
+          "numero": "188",
+          "data_gazzetta": "1998-06-19"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 19 febbraio 1998, n. 51 ha disposto (con l'art. 247, comma 1) che \"Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3.\" ---------------- AGGIORNAMENTO (112a) Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che \"Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3.\""
+    }
+  ],
+  "impronta": "sha256:cadb9f1edcb61ce77900030e1921325bc05c5f6b7fc5e0dacd15336906ad6599"
+}

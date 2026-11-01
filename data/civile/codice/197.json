@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "197",
+    "rubrica": "Limiti al prelevamento nei riguardi dei terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art197"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il prelevamento autorizzato dagli articoli precedenti non puo' farsi, a pregiudizio dei terzi, qualora la proprieta' individuale dei beni non risulti da atto avente data certa. E' fatto salvo al coniuge o ai suoi eredi il diritto di regresso sui beni della comunione spettanti all'altro coniuge nonche' sugli altri beni di lui.",
+    "con_marcatori": "Art. 197. ((Limiti al prelevamento nei riguardi dei terzi.)) ((Il prelevamento autorizzato dagli articoli precedenti non puo' farsi, a pregiudizio dei terzi, qualora la proprieta' individuale dei beni non risulti da atto avente data certa. E' fatto salvo al coniuge o ai suoi eredi il diritto di regresso sui beni della comunione spettanti all'altro coniuge nonche' sugli altri beni di lui)).",
+    "caratteri": 327
+  },
+  "note": [],
+  "impronta": "sha256:a5ad95a27e7ccc4a92e7cb34583bcf8f9ec35da8c34ae0b2654cbceb60e039d2"
+}

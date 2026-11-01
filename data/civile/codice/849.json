@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "849",
+    "rubrica": "Fondi compresi entro maggiori unita' fondiarie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art849"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Indipendentemente dalla formazione del consorzio previsto dall'articolo seguente, il proprietario di terreni entro i quali sono compresi appezzamenti appartenenti ad altri, di estensione inferiore alla minima unita' colturale, puo' domandare che gli sia trasferita la proprieta' di questi ultimi, pagandone il prezzo, allo scopo di attuare una migliore sistemazione delle unita' fondiarie. In caso di contrasto decide l'autorita' giudiziaria, sentite le associazioni professionali circa la sussistenza delle condizioni che giustificano la richiesta di trasferimento.",
+    "con_marcatori": "Art. 849. (Fondi compresi entro maggiori unita' fondiarie). Indipendentemente dalla formazione del consorzio previsto dall'articolo seguente, il proprietario di terreni entro i quali sono compresi appezzamenti appartenenti ad altri, di estensione inferiore alla minima unita' colturale, puo' domandare che gli sia trasferita la proprieta' di questi ultimi, pagandone il prezzo, allo scopo di attuare una migliore sistemazione delle unita' fondiarie. In caso di contrasto decide l'autorita' giudiziaria, sentite le associazioni professionali circa la sussistenza delle condizioni che giustificano la richiesta di trasferimento.",
+    "caratteri": 566
+  },
+  "note": [],
+  "impronta": "sha256:22a582c91c6bade5440a010ab82c72f0f43d2f974fe0b00f987291b127f42e3e"
+}

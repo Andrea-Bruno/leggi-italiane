@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "720",
+    "rubrica": "Immobili non divisibili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art720"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se nell'eredita' vi sono immobili non comodamente divisibili, o il cui frazionamento recherebbe pregiudizio alle ragioni della pubblica economia o dell'igiene, e la divisione dell'intera sostanza non puo' effettuarsi senza il loro frazionamento, essi devono preferibilmente essere compresi per intero, con addebito dell'eccedenza, nella porzione di uno dei coeredi aventi diritto alla quota maggiore, o anche nelle porzioni di piu' coeredi, se questi ne richiedono congiuntamente l'attribuzione. Se nessuno dei coeredi e' a cio' disposto, si fa luogo alla vendita all'incanto.",
+    "con_marcatori": "Art. 720. (Immobili non divisibili). Se nell'eredita' vi sono immobili non comodamente divisibili, o il cui frazionamento recherebbe pregiudizio alle ragioni della pubblica economia o dell'igiene, e la divisione dell'intera sostanza non puo' effettuarsi senza il loro frazionamento, essi devono preferibilmente essere compresi per intero, con addebito dell'eccedenza, nella porzione di uno dei coeredi aventi diritto alla quota maggiore, o anche nelle porzioni di piu' coeredi, se questi ne richiedono congiuntamente l'attribuzione. Se nessuno dei coeredi e' a cio' disposto, si fa luogo alla vendita all'incanto.",
+    "caratteri": 576
+  },
+  "note": [],
+  "impronta": "sha256:b4f716871a7116f5240cc28a2bcbda38450f8ab1254a03fa15b3a6efd77c0952"
+}

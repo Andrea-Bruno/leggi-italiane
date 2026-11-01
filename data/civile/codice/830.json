@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "830",
+    "rubrica": "Beni degli enti pubblici non territoriali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art830"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I beni appartenenti agli enti pubblici non territoriali sono soggetti alle regole del presente codice, salve le disposizioni delle leggi speciali. Ai beni di tali enti che sono destinati a un pubblico servizio si applica la disposizione del secondo comma dell'art. 828.",
+    "con_marcatori": "Art. 830. (Beni degli enti pubblici non territoriali). I beni appartenenti agli enti pubblici non territoriali sono soggetti alle regole del presente codice, salve le disposizioni delle leggi speciali. Ai beni di tali enti che sono destinati a un pubblico servizio si applica la disposizione del secondo comma dell'art. 828.",
+    "caratteri": 269
+  },
+  "note": [],
+  "impronta": "sha256:240f7dafd02c5d41fd65d64791cefed6c2f57b094e4d3b43ae264da83117ed88"
+}

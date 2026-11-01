@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "70",
+    "rubrica": "Successione alla quale sarebbe chiamata la persona di cui si ignora l'esistenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art70"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando s'apre una successione alla quale sarebbe chiamata in tutto o in parte una persona di cui s'ignora l'esistenza, la successione e' devoluta a coloro ai quali sarebbe spettata in mancanza della detta persona, salvo il diritto di rappresentazione. Coloro ai quali e' devoluta la successione devono innanzi tutto procedere all'inventario dei beni, e devono dare cauzione.",
+    "con_marcatori": "Art. 70. (Successione alla quale sarebbe chiamata la persona di cui si ignora l'esistenza). Quando s'apre una successione alla quale sarebbe chiamata in tutto o in parte una persona di cui s'ignora l'esistenza, la successione e' devoluta a coloro ai quali sarebbe spettata in mancanza della detta persona, salvo il diritto di rappresentazione. Coloro ai quali e' devoluta la successione devono innanzi tutto procedere all'inventario dei beni, e devono dare cauzione.",
+    "caratteri": 374
+  },
+  "note": [],
+  "impronta": "sha256:4f1615ab6093cc7077be6d851cbfd4845b71e64af42442a3a203939c9feb62cf"
+}

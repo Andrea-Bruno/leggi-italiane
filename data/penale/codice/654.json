@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "654",
+    "rubrica": "Grida e manifestazioni sediziose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art654"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in una riunione che non sia da considerare privata a norma del numero 3° dell'articolo 266 ovvero in un luogo pubblico, aperto o esposto al pubblico, compie manifestazioni o emette grida sediziose e' punito, se il fatto non costituisce reato, con la sanzione amministrativa pecuniaria da euro 400 a euro 2.400.",
+    "con_marcatori": "Art. 654. (Grida e manifestazioni sediziose) Chiunque, in una riunione che non sia da considerare privata a norma del numero 3° dell'articolo 266 ovvero in un luogo pubblico, aperto o esposto al pubblico, compie manifestazioni o emette grida sediziose e' punito, se il fatto non costituisce reato, con la sanzione amministrativa pecuniaria ((da euro 400 a euro 2.400)).",
+    "caratteri": 320
+  },
+  "note": [],
+  "impronta": "sha256:3099a7401fa80a10ac19aa8498bff983c0745629921273a5b41a0aca7b773c51"
+}

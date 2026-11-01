@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "609-undecies",
+    "rubrica": "Adescamento di minorenni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art609-undecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, allo scopo di commettere i reati di cui agli articoli 600, 600-bis, 600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 609-bis, 609-quater, 609-quinquies e 609-octies, adesca un minore di anni sedici, e' punito, se il fatto non costituisce piu' grave reato, con la reclusione da uno a tre anni. Per adescamento si intende qualsiasi atto volto a carpire la fiducia del minore attraverso artifici, lusinghe o minacce posti in essere anche mediante l'utilizzo della rete internet o di altre reti o mezzi di comunicazione. La pena e' aumentata: 1) se il reato e' commesso da piu' persone riunite; 2) se il reato e' commesso da persona che fa parte di un'associazione per delinquere e al fine di agevolarne l'attivita'; 3) se dal fatto, a causa della reiterazione delle condotte, deriva al minore un pregiudizio grave; 4) se dal fatto deriva pericolo di vita per il minore.",
+    "con_marcatori": "Art. 609-undecies. (Adescamento di minorenni). Chiunque, allo scopo di commettere i reati di cui agli articoli 600, 600-bis, 600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 609-bis, 609-quater, 609-quinquies e 609-octies, adesca un minore di anni sedici, e' punito, se il fatto non costituisce piu' grave reato, con la reclusione da uno a tre anni. Per adescamento si intende qualsiasi atto volto a carpire la fiducia del minore attraverso artifici, lusinghe o minacce posti in essere anche mediante l'utilizzo della rete internet o di altre reti o mezzi di comunicazione. ((La pena e' aumentata: 1) se il reato e' commesso da piu' persone riunite; 2) se il reato e' commesso da persona che fa parte di un'associazione per delinquere e al fine di agevolarne l'attivita'; 3) se dal fatto, a causa della reiterazione delle condotte, deriva al minore un pregiudizio grave; 4) se dal fatto deriva pericolo di vita per il minore)).",
+    "caratteri": 942
+  },
+  "note": [],
+  "impronta": "sha256:ffc641f12235adfe382eba868ec492936711daa0e1abd0622d09bf3a70ff0ff6"
+}

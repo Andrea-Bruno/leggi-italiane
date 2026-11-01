@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2425-bis",
+    "rubrica": "Iscrizione dei ricavi, proventi, costi ed oneri",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2425-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I ricavi e i proventi, i costi e gli oneri devono essere indicati al netto dei resi, degli sconti, abbuoni e premi, nonche' delle imposte direttamente connesse con la vendita dei prodotti e la prestazione dei servizi. I ricavi e i proventi, i costi e gli oneri relativi ad operazioni in valuta devono essere determinati al cambio corrente alla data nella quale la relativa operazione e' compiuta. I proventi e gli oneri relativi ad operazioni di compravendita con obbligo di retrocessione a termine, ivi compresa la differenza tra prezzo a termine e prezzo a pronti, devono essere iscritti per le quote di competenza dell'esercizio. Le plusvalenze derivanti da operazioni di compravendita con locazione finanziaria al venditore sono ripartite in funzione della durata del contratto di locazione.",
+    "con_marcatori": "Art. 2425-bis. (Iscrizione dei ricavi, proventi, costi ed oneri). I ricavi e i proventi, i costi e gli oneri devono essere indicati al netto dei resi, degli sconti, abbuoni e premi, nonche' delle imposte direttamente connesse con la vendita dei prodotti e la prestazione dei servizi. I ricavi e i proventi, i costi e gli oneri relativi ad operazioni in valuta devono essere determinati al cambio corrente alla data nella quale la relativa operazione e' compiuta. I proventi e gli oneri relativi ad operazioni di compravendita con obbligo di retrocessione a termine, ivi compresa la differenza tra prezzo a termine e prezzo a pronti, devono essere iscritti per le quote di competenza dell'esercizio. ((Le plusvalenze derivanti da operazioni di compravendita con locazione finanziaria al venditore sono ripartite in funzione della durata del contratto di locazione.))",
+    "caratteri": 795
+  },
+  "note": [],
+  "impronta": "sha256:bd0cf83d813a88681a8fd4d45b117bb6bcd426ee728d7fa39b8864e1b9405b5d"
+}

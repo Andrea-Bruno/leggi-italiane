@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1487",
+    "rubrica": "Modificazione o esclusione convenzionale della garanzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1487"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I contraenti possono aumentare o diminuire gli effetti della garanzia e possono altresi' pattuire che il venditore non sia soggetto a garanzia alcuna. Quantunque sia pattuita l'esclusione della garanzia, il venditore e' sempre tenuto per l'evizione derivante da un fatto suo proprio. E' nullo ogni patto contrario.",
+    "con_marcatori": "Art. 1487. (Modificazione o esclusione convenzionale della garanzia). I contraenti possono aumentare o diminuire gli effetti della garanzia e possono altresi' pattuire che il venditore non sia soggetto a garanzia alcuna. Quantunque sia pattuita l'esclusione della garanzia, il venditore e' sempre tenuto per l'evizione derivante da un fatto suo proprio. E' nullo ogni patto contrario.",
+    "caratteri": 314
+  },
+  "note": [],
+  "impronta": "sha256:8baf8c911e7aa4ca2282dd7e6dd92f80a98d641e7372fc21e1a4aa51060c4512"
+}

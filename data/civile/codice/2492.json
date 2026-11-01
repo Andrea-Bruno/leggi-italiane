@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2492",
+    "rubrica": "Bilancio finale di liquidazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2492"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Compiuta la liquidazione, i liquidatori devono redigere il bilancio finale, indicando la parte spettante a ciascun socio o azione nella divisione dell'attivo. Il bilancio, sottoscritto dai liquidatori e accompagnato dalla relazione dei sindaci e del soggetto incaricato di effettuare la revisione legale dei conti, e' depositato presso l'ufficio del registro delle imprese. Nei novanta giorni successivi all'iscrizione dell'avvenuto deposito, ogni socio puo' proporre reclamo davanti al tribunale in contraddittorio dei liquidatori. Entro i cinque giorni successivi alla presentazione del reclamo, il cancelliere comunica la notizia in via telematica, ai fini dell'annotazione, al competente ufficio del registro delle imprese. I reclami devono essere riuniti e decisi in unico giudizio, nel quale tutti i soci possono intervenire. La trattazione della causa ha inizio quando sia decorso il termine suddetto. La sentenza fa stato anche riguardo ai non intervenuti. Un estratto della sentenza definitiva che decide sul reclamo e' trasmesso, entro cinque giorni, dal cancelliere al competente ufficio del registro delle imprese per la relativa annotazione.",
+    "con_marcatori": "Art. 2492. (Bilancio finale di liquidazione). Compiuta la liquidazione, i liquidatori devono redigere il bilancio finale, indicando la parte spettante a ciascun socio o azione nella divisione dell'attivo. Il bilancio, sottoscritto dai liquidatori e accompagnato dalla relazione dei sindaci e del soggetto incaricato di effettuare la revisione legale dei conti, e' depositato presso l'ufficio del registro delle imprese. Nei novanta giorni successivi all'iscrizione dell'avvenuto deposito, ogni socio puo' proporre reclamo davanti al tribunale in contraddittorio dei liquidatori. ((Entro i cinque giorni successivi alla presentazione del reclamo, il cancelliere comunica la notizia in via telematica, ai fini dell'annotazione, al competente ufficio del registro delle imprese)). I reclami devono essere riuniti e decisi in unico giudizio, nel quale tutti i soci possono intervenire. La trattazione della causa ha inizio quando sia decorso il termine suddetto. La sentenza fa stato anche riguardo ai non intervenuti. ((Un estratto della sentenza definitiva che decide sul reclamo e' trasmesso, entro cinque giorni, dal cancelliere al competente ufficio del registro delle imprese per la relativa annotazione)).",
+    "caratteri": 1154
+  },
+  "note": [],
+  "impronta": "sha256:13c1e15cab79ea1e0306842f87645908e24554da4e2c568f5247ae0e5dd59484"
+}

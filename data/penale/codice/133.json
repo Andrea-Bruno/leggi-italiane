@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "133",
+    "rubrica": "Gravita' del reato: valutazione agli effetti della pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art133"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nell'esercizio del potere discrezionale indicato nell'articolo precedente, il giudice deve tener conto della gravita' del reato, desunta: 1° dalla natura, dalla specie, dai mezzi, dall'oggetto, dal tempo, dal luogo e da ogni altra modalita' dell'azione; 2° dalla gravita' del danno o del pericolo cagionato alla persona offesa dal reato; 3° dalla intensita' del dolo o dal grado della colpa. Il giudice deve tener conto, altresi', della capacita' a delinquere del colpevole, desunta: 1° dai motivi a delinquere e dal carattere del reo; 2° dai precedenti penali e giudiziari e, in genere, dalla condotta e dalla vita del reo, antecedenti al reato; 3° dalla condotta contemporanea o susseguente al reato; 4° dalle condizioni di vita individuale, famigliare e sociale del reo.",
+    "con_marcatori": "Art. 133. (Gravita' del reato: valutazione agli effetti della pena) Nell'esercizio del potere discrezionale indicato nell'articolo precedente, il giudice deve tener conto della gravita' del reato, desunta: 1° dalla natura, dalla specie, dai mezzi, dall'oggetto, dal tempo, dal luogo e da ogni altra modalita' dell'azione; 2° dalla gravita' del danno o del pericolo cagionato alla persona offesa dal reato; 3° dalla intensita' del dolo o dal grado della colpa. Il giudice deve tener conto, altresi', della capacita' a delinquere del colpevole, desunta: 1° dai motivi a delinquere e dal carattere del reo; 2° dai precedenti penali e giudiziari e, in genere, dalla condotta e dalla vita del reo, antecedenti al reato; 3° dalla condotta contemporanea o susseguente al reato; 4° dalle condizioni di vita individuale, famigliare e sociale del reo.",
+    "caratteri": 773
+  },
+  "note": [],
+  "impronta": "sha256:433e80a41832dd5d89a27e672876043d5a68d0f77052538e9376d7af75c700b9"
+}

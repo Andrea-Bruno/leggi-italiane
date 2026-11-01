@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1715",
+    "rubrica": "Responsabilita' per le obbligazioni dei terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1715"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In mancanza di patto contrario, il mandatario che agisce in proprio nome non risponde verso il mandante dell'adempimento delle obbligazioni assunte dalle persone con le quali ha contrattato, tranne il caso che l'insolvenza di queste gli fosse o dovesse essergli nota all'atto della conclusione del contratto.",
+    "con_marcatori": "Art. 1715. (Responsabilita' per le obbligazioni dei terzi). In mancanza di patto contrario, il mandatario che agisce in proprio nome non risponde verso il mandante dell'adempimento delle obbligazioni assunte dalle persone con le quali ha contrattato, tranne il caso che l'insolvenza di queste gli fosse o dovesse essergli nota all'atto della conclusione del contratto.",
+    "caratteri": 308
+  },
+  "note": [],
+  "impronta": "sha256:2983764ae034aceb02d642209188321d9ffb8ef24c61bd1545254c8ae4fb2ce7"
+}

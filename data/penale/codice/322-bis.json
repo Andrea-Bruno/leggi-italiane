@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "322-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art322-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "(Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione ... di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri). Le disposizioni degli articoli 314, 314-bis, 316, da 317 a 320 e 322, terzo e quarto comma, ... si applicano anche: 1) ai membri della Commissione delle Comunita' europee, del Parlamento europeo, della Corte di Giustizia e della Corte dei conti delle Comunita' europee; 2) ai funzionari e agli agenti assunti per contratto a norma dello statuto dei funzionari delle Comunita' europee o del regime applicabile agli agenti delle Comunita' europee; 3) alle persone comandate dagli Stati membri o da qualsiasi ente pubblico o privato presso le Comunita' europee, che esercitino funzioni corrispondenti a quelle dei funzionari o agenti delle Comunita' europee; 4) ai membri e agli addetti a enti costituiti sulla base dei Trattati che istituiscono le Comunita' europee; 5) a coloro che, nell'ambito di altri Stati membri dell'Unione europea, svolgono funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio; 5-bis) ai giudici, al procuratore, ai procuratori aggiunti, ai funzionari e agli agenti della Corte penale internazionale, alle persone comandate dagli Stati parte del Trattato istitutivo della Corte penale internazionale le quali esercitino funzioni corrispondenti a quelle dei funzionari o agenti della Corte stessa, ai membri ed agli addetti a enti costituiti sulla base del Trattato istitutivo della Corte penale internazionale. 5-ter) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di organizzazioni pubbliche internazionali; 5-quater) ai membri delle assemblee parlamentari internazionali o di un'organizzazione internazionale o sovranazionale e ai giudici e funzionari delle corti internazionali. 5-quinquies) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di Stati non appartenenti all'Unione europea, quando il fatto offende gli interessi finanziari dell'Unione. Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilita' e' dato, offerto o promesso: 1) alle persone indicate nel primo comma del presente articolo; 2) a persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di altri Stati esteri o organizzazioni pubbliche internazionali. Le persone indicate nel primo comma sono assimilate ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi.",
+    "con_marcatori": "Art. 322-bis. (Peculato, indebita destinazione di denaro o cose mobili, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione ((...)) di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri). Le disposizioni degli articoli 314, 314-bis, 316, da 317 a 320 ((e 322)), terzo e quarto comma, ((...)) si applicano anche: 1) ai membri della Commissione delle Comunita' europee, del Parlamento europeo, della Corte di Giustizia e della Corte dei conti delle Comunita' europee; 2) ai funzionari e agli agenti assunti per contratto a norma dello statuto dei funzionari delle Comunita' europee o del regime applicabile agli agenti delle Comunita' europee; 3) alle persone comandate dagli Stati membri o da qualsiasi ente pubblico o privato presso le Comunita' europee, che esercitino funzioni corrispondenti a quelle dei funzionari o agenti delle Comunita' europee; 4) ai membri e agli addetti a enti costituiti sulla base dei Trattati che istituiscono le Comunita' europee; 5) a coloro che, nell'ambito di altri Stati membri dell'Unione europea, svolgono funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio; 5-bis) ai giudici, al procuratore, ai procuratori aggiunti, ai funzionari e agli agenti della Corte penale internazionale, alle persone comandate dagli Stati parte del Trattato istitutivo della Corte penale internazionale le quali esercitino funzioni corrispondenti a quelle dei funzionari o agenti della Corte stessa, ai membri ed agli addetti a enti costituiti sulla base del Trattato istitutivo della Corte penale internazionale. 5-ter) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di organizzazioni pubbliche internazionali; 5-quater) ai membri delle assemblee parlamentari internazionali o di un'organizzazione internazionale o sovranazionale e ai giudici e funzionari delle corti internazionali. 5-quinquies) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di Stati non appartenenti all'Unione europea, quando il fatto offende gli interessi finanziari dell'Unione. Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilita' e' dato, offerto o promesso: 1) alle persone indicate nel primo comma del presente articolo; 2) a persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di altri Stati esteri o organizzazioni pubbliche internazionali. Le persone indicate nel primo comma sono assimilate ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi. (281)",
+    "caratteri": 3045
+  },
+  "note": [
+    {
+      "numero": 281,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        },
+        {
+          "denominazione": "L. 17 ottobre 2017, n. 161",
+          "urn": "urn:nir:stato:legge:2017-10-17;161",
+          "data": "2017-10-17",
+          "numero": "161",
+          "data_gazzetta": "2017-11-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'art. 71, commi 1 e 3) che le pene stabilite per i delitti previsti dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:04a6b0b74b29e08ace75266696cde68829fa087aaf93332e9180ed8e10969ceb"
+}

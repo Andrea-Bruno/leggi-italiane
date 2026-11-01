@@ -1,0 +1,76 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "63",
+    "rubrica": "Applicazione degli aumenti o delle diminuzioni di pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art63"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 370,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Quando la legge dispone che la pena sia aumentata o diminuita entro limiti determinati, l'aumento o la diminuzione si opera sulla quantita' di essa, che il giudice applicherebbe al colpevole, qualora non concorresse la circostanza che la fa aumentare o diminuire. Se concorrono piu' circostanze aggravanti, ovvero piu' circostanze attenuanti, l'aumento o la diminuzione di pena si opera sulla quantita' di essa risultante dall'aumento o dalla diminuzione precedente. Quando per una circostanza la legge stabilisce una pena di specie diversa da quella ordinaria del reato o si tratta di circostanza ad effetto speciale, l'aumento o la diminuzione per le altre circostanze non opera sulla pena ordinaria del reato, ma sulla pena stabilita per la circostanza anzidetta. Sono circostanze ad effetto speciale quelle che importano un aumento o una diminuzione della pena superiore ad un terzo. Se concorrono piu' circostanze aggravanti tra quelle indicate nel secondo capoverso di questo articolo, si applica soltanto la pena stabilita per la circostanza piu' grave; ma il giudice puo' aumentarla. Se concorrono piu' circostanze attenuanti tra quelle indicate nel secondo capoverso di questo articolo, si applica soltanto la pena meno grave stabilita per le predette circostanze; ma il giudice puo' diminuirla.",
+    "con_marcatori": "Art. 63. (Applicazione degli aumenti o delle diminuzioni di pena) Quando la legge dispone che la pena sia aumentata o diminuita entro limiti determinati, l'aumento o la diminuzione si opera sulla quantita' di essa, che il giudice applicherebbe al colpevole, qualora non concorresse la circostanza che la fa aumentare o diminuire. Se concorrono piu' circostanze aggravanti, ovvero piu' circostanze attenuanti, l'aumento o la diminuzione di pena si opera sulla quantita' di essa risultante dall'aumento o dalla diminuzione precedente. Quando per una circostanza la legge stabilisce una pena di specie diversa da quella ordinaria del reato o si tratta di circostanza ad effetto speciale, l'aumento o la diminuzione per le altre circostanze non opera sulla pena ordinaria del reato, ma sulla pena stabilita per la circostanza anzidetta. Sono circostanze ad effetto speciale quelle che importano un aumento o una diminuzione della pena superiore ad un terzo.((370)) Se concorrono piu' circostanze aggravanti tra quelle indicate nel secondo capoverso di questo articolo, si applica soltanto la pena stabilita per la circostanza piu' grave; ma il giudice puo' aumentarla. Se concorrono piu' circostanze attenuanti tra quelle indicate nel secondo capoverso di questo articolo, si applica soltanto la pena meno grave stabilita per le predette circostanze; ma il giudice puo' diminuirla.",
+    "caratteri": 1304
+  },
+  "note": [
+    {
+      "numero": 370,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 63, terzo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 99, primo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La Corte costituzionale con sentenza 7 aprile - 27 maggio 2025 (in G.U. 1ª s.s. 28/5/2025, n. 22) ha dichiarato \"l'illegittimita' costituzionale dell'art. 63, terzo comma, del codice penale, nella parte in cui non prevede che «Quando concorrono una circostanza per cui la legge stabilisce una pena di specie diversa da quella ordinaria del reato o una circostanza ad effetto speciale e la recidiva di cui all'art. 99, primo comma, cod. pen., si applica soltanto la pena stabilita per la circostanza piu' grave, ma il giudice puo' aumentarla»\"."
+    }
+  ],
+  "impronta": "sha256:8478c5f53a03424d112f0300110b5a1d42d238bab0cb0c2ae1b047bc3b87aa4d"
+}

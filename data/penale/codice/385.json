@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "385",
+    "rubrica": "Evasione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art385"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, essendo legalmente arrestato o detenuto per un reato, evade, e' punito con la reclusione da uno a tre anni. La pena e' della reclusione da due a cinque anni se il colpevole commette il fatto usando violenza o minaccia verso le persone, ovvero mediante effrazione; ed e' da tre a sei anni se la violenza o minaccia e' commessa con armi o da piu' persone riunite. Le disposizioni precedenti si applicano anche all'imputato che essendo in stato di arresto nella propria abitazione o in altro luogo designato nel provvedimento se ne allontani, nonche' al condannato ammesso a lavorare fuori dello stabilimento penale. Quando l'evaso si costituisce in carcere prima della condanna, la pena e' diminuita.",
+    "con_marcatori": "Art. 385. (Evasione). Chiunque, essendo legalmente arrestato o detenuto per un reato, evade, e' punito con la reclusione ((da uno a tre anni)). La pena e' della reclusione ((da due a cinque)) anni se il colpevole commette il fatto usando violenza o minaccia verso le persone, ovvero mediante effrazione; ed e' da tre a ((sei)) anni se la violenza o minaccia e' commessa con armi o da piu' persone riunite. Le disposizioni precedenti si applicano anche all'imputato che essendo in stato di arresto nella propria abitazione o in altro luogo designato nel provvedimento se ne allontani, nonche' al condannato ammesso a lavorare fuori dello stabilimento penale. Quando l'evaso si costituisce in carcere prima della condanna, la pena e' diminuita.",
+    "caratteri": 708
+  },
+  "note": [],
+  "impronta": "sha256:3ccf52f7e81bf2a00a7c1fd8e8fceb763c2d3111c28007d4271254061de47a1e"
+}

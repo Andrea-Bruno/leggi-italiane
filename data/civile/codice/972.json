@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "972",
+    "rubrica": "Devoluzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art972"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il concedente puo' chiedere la devoluzione del fondo enfiteutico: 1) se l'enfiteuta deteriora il fondo o non adempie all'obbligo di migliorarlo; 2) se l'enfiteuta e' in mora nel pagamento di due annualita' di canone. La devoluzione non ha luogo se l'enfiteuta ha effettuato il pagamento dei canoni maturati prima che sia intervenuta nel giudizio sentenza, ancorche' di primo grado, che abbia accolto la domanda. La domanda di devoluzione non preclude all'enfiteuta il diritto di affrancare, sempre che ricorrano le condizioni previste dall'art. 971. PERIODO SOPPRESSO DALLA L. 22 LUGLIO 1966, N. 607.PERIODO SOPPRESSO DALLA L. 22 LUGLIO 1966, N. 607.",
+    "con_marcatori": "Art. 972. (Devoluzione). Il concedente puo' chiedere la devoluzione del fondo enfiteutico: 1) se l'enfiteuta deteriora il fondo o non adempie all'obbligo di migliorarlo; 2) se l'enfiteuta e' in mora nel pagamento di due annualita' di canone. La devoluzione non ha luogo se l'enfiteuta ha effettuato il pagamento dei canoni maturati prima che sia intervenuta nel giudizio sentenza, ancorche' di primo grado, che abbia accolto la domanda. La domanda di devoluzione non preclude all'enfiteuta il diritto di affrancare, sempre che ricorrano le condizioni previste dall'art. 971. ((PERIODO SOPPRESSO DALLA L. 22 LUGLIO 1966, N. 607)).((PERIODO SOPPRESSO DALLA L. 22 LUGLIO 1966, N. 607)).",
+    "caratteri": 650
+  },
+  "note": [],
+  "impronta": "sha256:f670411f781558c154fbed77784caff69e4029e21ede150d0c4d7f8d3d4dbeba"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "707",
+    "rubrica": "Consegna dei beni all'erede",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art707"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esecutore testamentario deve consegnare all'erede, che ne fa richiesta, i beni dell'eredita' che non sono necessari all'esercizio del suo ufficio. Egli non puo' rifiutare tale consegna a causa di obbligazioni che debba adempiere conformemente alla volonta' del testatore, o di legati condizionali o a termine, se l'erede dimostra di averli gia' soddisfatti, od offre idonea garanzia per l'adempimento delle obbligazioni, dei legati o degli oneri.",
+    "con_marcatori": "Art. 707. (Consegna dei beni all'erede). L'esecutore testamentario deve consegnare all'erede, che ne fa richiesta, i beni dell'eredita' che non sono necessari all'esercizio del suo ufficio. Egli non puo' rifiutare tale consegna a causa di obbligazioni che debba adempiere conformemente alla volonta' del testatore, o di legati condizionali o a termine, se l'erede dimostra di averli gia' soddisfatti, od offre idonea garanzia per l'adempimento delle obbligazioni, dei legati o degli oneri.",
+    "caratteri": 448
+  },
+  "note": [],
+  "impronta": "sha256:fdddf120d344885fd5e70d6eff7d8a5bfeb4662a25f3140d8561f7da13e6695f"
+}

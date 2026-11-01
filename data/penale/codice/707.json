@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "707",
+    "rubrica": "Possesso ingiustificato di chiavi alterate o di grimaldelli",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art707"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 52,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, essendo stato condannato per delitti determinati da motivi di lucro, o per contravvenzioni concernenti la prevenzione di delitti contro il patrimonio, o per mendicita', o essendo ammonito o sottoposto a una misura di sicurezza personale o a cauzione di buona condotta, e' colto in possesso di chiavi alterate o contraffatte, ovvero di chiavi genuine o di strumenti atti ad aprire o a sforzare serrature, dei quali non giustifichi l'attuale destinazione, e' punito con l'arresto da sei mesi a due anni.",
+    "con_marcatori": "Art. 707. (Possesso ingiustificato di chiavi alterate o di grimaldelli) Chiunque, essendo stato condannato per delitti determinati da motivi di lucro, o per contravvenzioni concernenti la prevenzione di delitti contro il patrimonio, o per mendicita', o essendo ammonito o sottoposto a una misura di sicurezza personale o a cauzione di buona condotta, e' colto in possesso di chiavi alterate o contraffatte, ovvero di chiavi genuine o di strumenti atti ad aprire o a sforzare serrature, dei quali non giustifichi l'attuale destinazione, e' punito con l'arresto da sei mesi a due anni. ((52))",
+    "caratteri": 511
+  },
+  "note": [
+    {
+      "numero": 52,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 707 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1971-02-02",
+        "numero": "14"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 29 gennaio - 2 febbraio 1971, n. 14 (in G.U. 1ª s.s. 10/2/1971, n. 35), ha dichiarato \"l'illegittimita' costituzionale dell'art. 707 del codice penale, limitatamente alla parte in cui fa richiamo alle condizioni personali di condannato per mendicita', di ammonito, di sottoposto a misura di sicurezza personale o a cauzione di buona condotta\"."
+    }
+  ],
+  "impronta": "sha256:954b31e474b70ca123dc29bfeb1277bf893ad8311b1f39cd517b17b553fca8dd"
+}

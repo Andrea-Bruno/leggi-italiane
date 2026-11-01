@@ -1,0 +1,104 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "176",
+    "rubrica": "Liberazione condizionale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art176"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il condannato a pena detentiva che, durante il tempo di esecuzione della pena, abbia tenuto un comportamento tale dal far ritenere sicuro il suo ravvedimento, puo' essere ammesso alla liberazione condizionale, se ha scontato almeno trenta mesi e comunque almeno meta' della pena inflittagli, qualora il rimanente della pena non superi i cinque anni. Se si tratta di recidivo, nei casi preveduti dai capoversi dell'articolo 99, il condannato, per essere ammesso alla liberazione condizionale, deve avere scontato almeno quattro anni di pena e non meno di tre quarti della pena inflittagli. Il condannato all'ergastolo puo' essere ammesso alla liberazione condizionale quando abbia scontato almeno ventisei anni di pena. La concessione della liberazione condizionale e' subordinata all'adempimento delle obbligazioni civili derivanti dal reato, salvo che il condannato dimostri di trovarsi nell'impossibilita' di adempierle.",
+    "con_marcatori": "Art. 176. (Liberazione condizionale). Il condannato a pena detentiva che, durante il tempo di esecuzione della pena, abbia tenuto un comportamento tale dal far ritenere sicuro il suo ravvedimento, puo' essere ammesso alla liberazione condizionale, se ha scontato almeno trenta mesi e comunque almeno meta' della pena inflittagli, qualora il rimanente della pena non superi i cinque anni. Se si tratta di recidivo, nei casi preveduti dai capoversi dell'articolo 99, il condannato, per essere ammesso alla liberazione condizionale, deve avere scontato almeno quattro anni di pena e non meno di tre quarti della pena inflittagli. ((Il condannato all'ergastolo puo' essere ammesso alla liberazione condizionale quando abbia scontato almeno ventisei anni di pena)). La concessione della liberazione condizionale e' subordinata all'adempimento delle obbligazioni civili derivanti dal reato, salvo che il condannato dimostri di trovarsi nell'impossibilita' di adempierle.",
+    "caratteri": 922
+  },
+  "note": [
+    {
+      "numero": 3,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 27 giugno 1942, n. 827",
+          "urn": "urn:nir:stato:legge:1942-06-27;827",
+          "data": "1942-06-27",
+          "numero": "827",
+          "data_gazzetta": "1942-08-01"
+        },
+        {
+          "denominazione": "art. 176 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 27 giugno 1942, n. 827, ha disposto (con l'articolo unico, comma 1) che \"Durante l'attuale stato di guerra e sino a sei mesi dopo la sua cessazione, la liberazione condizionale preveduta dall'art. 176 del Codice penale puo' essere concessa, concorrendo le altre condizioni volute dalla legge, anche a coloro che sono stati condannati ad una pena detentiva non superiore a cinque anni\"."
+    },
+    {
+      "numero": 10,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 27 giugno 1942, n. 827",
+          "urn": "urn:nir:stato:legge:1942-06-27;827",
+          "data": "1942-06-27",
+          "numero": "827",
+          "data_gazzetta": "1942-08-01"
+        },
+        {
+          "denominazione": "D.Lgs. del Capo Provvisorio dello Stato 11 dicembre 1946, n. 653",
+          "urn": "urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-11;653",
+          "data": "1946-12-11",
+          "numero": "653",
+          "data_gazzetta": "1947-02-10"
+        },
+        {
+          "denominazione": "comma 1 della L. 27 giugno 1942, n. 827",
+          "urn": "urn:nir:stato:legge:1942-06-27;827",
+          "data": "1942-06-27",
+          "numero": "827",
+          "data_gazzetta": "1942-08-01"
+        },
+        {
+          "denominazione": "legge 27 giugno 1942, n. 827",
+          "urn": "urn:nir:stato:legge:1942-06-27;827",
+          "data": "1942-06-27",
+          "numero": "827",
+          "data_gazzetta": "1942-08-01"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. del Capo Provvisorio dello Stato 11 dicembre 1946, n. 653, nel modificare l'articolo unico, comma 1 della L. 27 giugno 1942, n. 827, ha conseguentemente disposto: - (con l'art. 1, comma 1) che \"La efficacia delle norme contenute nell'articolo unico della legge 27 giugno 1942, n. 827, che estende la liberazione condizionale ai condannati a pena non superiore a cinque anni, e' prorogata sino ai nuova disposizione\". - (con l'art. 2, comma 1) che la presente modifica ha effetto dal 16 ottobre 1946."
+    }
+  ],
+  "impronta": "sha256:0fdf3e4582dc65feabcf70de9baad5b18a30d310206b8ebc9e6d0f26c58e2fce"
+}

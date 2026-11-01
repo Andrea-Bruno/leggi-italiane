@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2932",
+    "rubrica": "Esecuzione specifica dell'obbligo di concludere un contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2932"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se colui che e' obbligato a concludere un contratto non adempie l'obbligazione, l'altra parte, qualora sia possibile e non sia escluso dal titolo, puo' ottenere una sentenza che produca gli effetti del contratto non concluso. Se si tratta di contratti che hanno per oggetto il trasferimento della proprieta' di una cosa determinata o la costituzione o il trasferimento di un altro diritto, la domanda non puo' essere accolta, se la parte che l'ha proposta non esegue la sua prestazione o non ne fa offerta nei modi di legge, a meno che la prestazione non sia ancora esigibile.",
+    "con_marcatori": "Art. 2932. (Esecuzione specifica dell'obbligo di concludere un contratto). Se colui che e' obbligato a concludere un contratto non adempie l'obbligazione, l'altra parte, qualora sia possibile e non sia escluso dal titolo, puo' ottenere una sentenza che produca gli effetti del contratto non concluso. Se si tratta di contratti che hanno per oggetto il trasferimento della proprieta' di una cosa determinata o la costituzione o il trasferimento di un altro diritto, la domanda non puo' essere accolta, se la parte che l'ha proposta non esegue la sua prestazione o non ne fa offerta nei modi di legge, a meno che la prestazione non sia ancora esigibile.",
+    "caratteri": 576
+  },
+  "note": [],
+  "impronta": "sha256:fa0f80d8748b765e652f449ea3f6395cfd915af20392688b3e845e66e8a6d64c"
+}

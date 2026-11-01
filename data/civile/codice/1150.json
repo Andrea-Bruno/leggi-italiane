@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1150",
+    "rubrica": "Riparazioni, miglioramenti e addizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1150"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il possessore, anche se di mala fede, ha diritto al rimborso delle spese fatte per le riparazioni straordinarie. Ha anche diritto a indennita' per i miglioramenti recati alla cosa, purche' sussistano al tempo della restituzione. L'indennita' si deve corrispondere nella misura dell'aumento di valore conseguito dalla cosa per effetto dei miglioramenti, se il possessore e' di buona fede, se il possessore e' di mala fede, nella minor somma tra l'importo della spesa e l'aumento di valore. Se il possessore e' tenuto alla restituzione dei frutti, gli spetta anche il rimborso delle spese fatte per le riparazioni ordinarie, limitatamente al tempo per il quale la restituzione e' dovuta. Per le addizioni fatte dal possessore sulla cosa si applica il disposto dell'art. 936. Tuttavia, se le addizioni costituiscono miglioramento e il possessore e' di buona fede, e' dovuta un'indennita' nella misura dell'aumento di valore conseguito dalla cosa.",
+    "con_marcatori": "Art. 1150. (Riparazioni, miglioramenti e addizioni). Il possessore, anche se di mala fede, ha diritto al rimborso delle spese fatte per le riparazioni straordinarie. Ha anche diritto a indennita' per i miglioramenti recati alla cosa, purche' sussistano al tempo della restituzione. L'indennita' si deve corrispondere nella misura dell'aumento di valore conseguito dalla cosa per effetto dei miglioramenti, se il possessore e' di buona fede, se il possessore e' di mala fede, nella minor somma tra l'importo della spesa e l'aumento di valore. Se il possessore e' tenuto alla restituzione dei frutti, gli spetta anche il rimborso delle spese fatte per le riparazioni ordinarie, limitatamente al tempo per il quale la restituzione e' dovuta. Per le addizioni fatte dal possessore sulla cosa si applica il disposto dell'art. 936. Tuttavia, se le addizioni costituiscono miglioramento e il possessore e' di buona fede, e' dovuta un'indennita' nella misura dell'aumento di valore conseguito dalla cosa.",
+    "caratteri": 943
+  },
+  "note": [],
+  "impronta": "sha256:57b8628a1edbdbdeb6c6224278e7df595364e68822b8d6e32403968eb282fe91"
+}

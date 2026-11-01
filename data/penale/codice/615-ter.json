@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "615-ter",
+    "rubrica": "Accesso abusivo ad un sistema informatico o telematico",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art615-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza ovvero vi si mantiene contro la volonta' espressa o tacita di chi ha il diritto di escluderlo, e' punito con la reclusione fino a tre anni. La pena e' della reclusione da due a dieci anni: 1) se il fatto e' commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o con violazione dei doveri inerenti alla funzione o al servizio, o da chi esercita anche abusivamente la professione di investigatore privato, o con abuso della qualita' di operatore del sistema; 2) se il colpevole per commettere il fatto usa minaccia o violenza sulle cose o alle persone, ovvero se e' palesemente armato; 3) se dal fatto deriva la distruzione o il danneggiamento del sistema o l'interruzione totale o parziale del suo funzionamento, ovvero la distruzione o il danneggiamento ovvero la sottrazione, anche mediante riproduzione o trasmissione, o l'inaccessibilita' al titolare dei dati, delle informazioni o dei programmi in esso contenuti. Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o telematici di interesse militare o relativi all'ordine pubblico o alla sicurezza pubblica o alla sanita' o alla protezione civile o comunque di interesse pubblico, la pena e', rispettivamente, della reclusione da tre a dieci anni e da quattro a dodici anni. Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa; negli altri casi si procede d'ufficio.",
+    "con_marcatori": "Art. 615-ter. (Accesso abusivo ad un sistema informatico o telematico). Chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza ovvero vi si mantiene contro la volonta' espressa o tacita di chi ha il diritto di escluderlo, e' punito con la reclusione fino a tre anni. La pena e' della reclusione ((da due a dieci anni)): 1) se il fatto e' commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o con violazione dei doveri inerenti alla funzione o al servizio, o da chi esercita anche abusivamente la professione di investigatore privato, o con abuso della qualita' di operatore del sistema; 2) se il colpevole per commettere il fatto usa ((minaccia o)) violenza sulle cose o alle persone, ovvero se e' palesemente armato; 3) se dal fatto deriva la distruzione o il danneggiamento del sistema o l'interruzione totale o parziale del suo funzionamento, ovvero la distruzione o il danneggiamento ((ovvero la sottrazione, anche mediante riproduzione o trasmissione, o l'inaccessibilita' al titolare)) dei dati, delle informazioni o dei programmi in esso contenuti. Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o telematici di interesse militare o relativi all'ordine pubblico o alla sicurezza pubblica o alla sanita' o alla protezione civile o comunque di interesse pubblico, la pena e', rispettivamente, della reclusione ((da tre a dieci anni e da quattro a dodici anni)). Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa; negli altri casi si procede d'ufficio.",
+    "caratteri": 1536
+  },
+  "note": [],
+  "impronta": "sha256:11fbafd05a60a14f4768d05edca88f0b7d2f2c6137dc334140a72a79da2ff4e2"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "324",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art324"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Usufrutto legale. I genitori esercenti la responsabilita' genitoriale hanno in comune l'usufrutto dei beni del figlio , fino alla maggiore eta' o all'emancipazione. I frutti percepiti sono destinati al mantenimento della famiglia e all'istruzione ed educazione dei figli. Non sono soggetti ad usufrutto legale: 1) i beni acquistati dal figlio con i proventi del proprio lavoro; 2) i beni lasciati o donati al figlio per intraprendere una carriera, un'arte o una professione; 3) i beni lasciati o donati con la condizione che i genitori esercenti la responsabilita' genitoriale o uno di essi non ne abbiano l'usufrutto: la condizione pero' non ha effetto per i beni spettanti al figlio a titolo di legittima; 4) i beni pervenuti al figlio per eredita', legato o donazione e accettati nell'interesse del figlio contro la volonta' dei genitori esercenti la responsabilita' genitoriale. Se uno solo di essi era favorevole all'accettazione, l'usufrutto legale spetta esclusivamente a lui.",
+    "con_marcatori": "Art. 324. Usufrutto legale. I genitori esercenti la ((responsabilita' genitoriale)) hanno in comune l'usufrutto dei beni del figlio ((, fino alla maggiore eta' o all'emancipazione)). I frutti percepiti sono destinati al mantenimento della famiglia e all'istruzione ed educazione dei figli. Non sono soggetti ad usufrutto legale: 1) i beni acquistati dal figlio con i proventi del proprio lavoro; 2) i beni lasciati o donati al figlio per intraprendere una carriera, un'arte o una professione; 3) i beni lasciati o donati con la condizione che i genitori esercenti la ((responsabilita' genitoriale)) o uno di essi non ne abbiano l'usufrutto: la condizione pero' non ha effetto per i beni spettanti al figlio a titolo di legittima; 4) i beni pervenuti al figlio per eredita', legato o donazione e accettati nell'interesse del figlio contro la volonta' dei genitori esercenti la ((responsabilita' genitoriale)). Se uno solo di essi era favorevole all'accettazione, l'usufrutto legale spetta esclusivamente a lui.",
+    "caratteri": 983
+  },
+  "note": [],
+  "impronta": "sha256:9e36488cc9738daf3dd1d451e5823efbf72111c364f67da9c6fbaa0858622953"
+}

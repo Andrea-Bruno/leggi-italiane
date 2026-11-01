@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "498",
+    "rubrica": "Liquidazione dell'eredita' in caso di opposizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art498"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora entro il termine indicato nell'art. 495 gli sia stata notificata opposizione da parte di creditori o di legatari, l'erede non puo' eseguire pagamenti, ma deve provvedere alla liquidazione dell'eredita' nell'interesse di tutti i creditori e legatari. A tal fine egli, non oltre un mese dalla notificazione dell'opposizione, deve, a mezzo di un notaio del luogo dell'aperta successione, invitare i creditori e i legatari a presentare, entro un termine stabilito dal notaio stesso e non inferiore a giorni trenta, le dichiarazioni di credito. L'invito e' spedito per raccomandata ai creditori e ai legatari dei quali e' noto il domicilio o la residenza ed e' pubblicato nel foglio degli annunzi legali della provincia.",
+    "con_marcatori": "Art. 498. (Liquidazione dell'eredita' in caso di opposizione). Qualora entro il termine indicato nell'art. 495 gli sia stata notificata opposizione da parte di creditori o di legatari, l'erede non puo' eseguire pagamenti, ma deve provvedere alla liquidazione dell'eredita' nell'interesse di tutti i creditori e legatari. A tal fine egli, non oltre un mese dalla notificazione dell'opposizione, deve, a mezzo di un notaio del luogo dell'aperta successione, invitare i creditori e i legatari a presentare, entro un termine stabilito dal notaio stesso e non inferiore a giorni trenta, le dichiarazioni di credito. L'invito e' spedito per raccomandata ai creditori e ai legatari dei quali e' noto il domicilio o la residenza ed e' pubblicato nel foglio degli annunzi legali della provincia.",
+    "caratteri": 723
+  },
+  "note": [],
+  "impronta": "sha256:675df91d912615f4b9c27cf473d90b44a59b39f97284d21bda294d8a60d395a8"
+}

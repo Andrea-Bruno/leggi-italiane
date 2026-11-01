@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2118",
+    "rubrica": "Recesso dal contratto a tempo indeterminato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2118"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascuno dei contraenti puo' recedere dal contratto di lavoro a tempo indeterminato, dando il preavviso nel termine e nei modi stabiliti dalle norme corporative, dagli usi o secondo equita'. In mancanza di preavviso, il recedente e' tenuto verso l'altra parte a un'indennita' equivalente all'importo della retribuzione che sarebbe spettata per il periodo di preavviso. La stessa indennita' e' dovuta dal datore di lavoro nel caso di cessazione del rapporto per morte del prestatore di lavoro.",
+    "con_marcatori": "Art. 2118. (Recesso dal contratto a tempo indeterminato). Ciascuno dei contraenti puo' recedere dal contratto di lavoro a tempo indeterminato, dando il preavviso nel termine e nei modi stabiliti dalle norme corporative, dagli usi o secondo equita'. In mancanza di preavviso, il recedente e' tenuto verso l'altra parte a un'indennita' equivalente all'importo della retribuzione che sarebbe spettata per il periodo di preavviso. La stessa indennita' e' dovuta dal datore di lavoro nel caso di cessazione del rapporto per morte del prestatore di lavoro.",
+    "caratteri": 492
+  },
+  "note": [],
+  "impronta": "sha256:875716187e45df3f37566113f37e06bcdc0806c30cb44840cd76a637ad885771"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1652",
+    "rubrica": "Anticipazioni all'affittuario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1652"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora l'affittuario non possa provvedere altrimenti, il locatore e' tenuto ad anticipargli le sementi e le materie fertilizzanti e antiparassitarie necessarie per la coltivazione del fondo. Il credito del locatore produce interessi in misura corrispondente al saggio legale.",
+    "con_marcatori": "Art. 1652. (Anticipazioni all'affittuario). Qualora l'affittuario non possa provvedere altrimenti, il locatore e' tenuto ad anticipargli le sementi e le materie fertilizzanti e antiparassitarie necessarie per la coltivazione del fondo. Il credito del locatore produce interessi in misura corrispondente al saggio legale.",
+    "caratteri": 276
+  },
+  "note": [],
+  "impronta": "sha256:fc786c757780428b14d1212c63d29e7ab658b213ab65065da15f9672e7e6598d"
+}

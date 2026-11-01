@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "512-bis",
+    "rubrica": "Trasferimento fraudolento di valori",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art512-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque attribuisce fittiziamente ad altri la titolarita' o disponibilita' di denaro, beni o altre utilita' al fine di eludere le disposizioni di legge in materia di misure di prevenzione patrimoniali o di contrabbando, ovvero di agevolare la commissione di uno dei delitti di cui agli articoli 648, 648-bis e 648-ter, e' punito con la reclusione da due a sei anni. La stessa pena di cui al primo comma si applica a chi, al fine di eludere le disposizioni in materia di documentazione antimafia, attribuisce fittiziamente ad altri la titolarita' di imprese, quote societarie o azioni ovvero di cariche sociali, qualora l'imprenditore o la societa' partecipi a procedure di aggiudicazione o di esecuzione di appalti o di concessioni.",
+    "con_marcatori": "Art. 512-bis. (Trasferimento fraudolento di valori). Salvo che il fatto costituisca piu' grave reato, chiunque attribuisce fittiziamente ad altri la titolarita' o disponibilita' di denaro, beni o altre utilita' al fine di eludere le disposizioni di legge in materia di misure di prevenzione patrimoniali o di contrabbando, ovvero di agevolare la commissione di uno dei delitti di cui agli articoli 648, 648-bis e 648-ter, e' punito con la reclusione da due a sei anni. ((La stessa pena di cui al primo comma si applica a chi, al fine di eludere le disposizioni in materia di documentazione antimafia, attribuisce fittiziamente ad altri la titolarita' di imprese, quote societarie o azioni ovvero di cariche sociali, qualora l'imprenditore o la societa' partecipi a procedure di aggiudicazione o di esecuzione di appalti o di concessioni.))",
+    "caratteri": 782
+  },
+  "note": [],
+  "impronta": "sha256:3183a8b7730c94e541eae4bfbb2e93dc32ecfebf3050cf917fb5d0f89b2b6c89"
+}

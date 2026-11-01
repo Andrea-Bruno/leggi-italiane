@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2867",
+    "rubrica": "Terzo debitore di somma in dipendenza dell'acquisto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2867"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il terzo acquirente, che ha trascritto il suo titolo, e' debitore, in dipendenza dell'acquisto, di una somma attualmente esigibile, la quale basti a soddisfare tutti i creditori iscritti contro il precedente proprietario, ciascuno di questi puo' obbligarlo al pagamento. Se il debito del terzo non e' attualmente esigibile, o e' minore o diverso da cio' che e' dovuto ai detti creditori, questi, purche' di comune accordo, possono egualmente richiedere che venga loro pagato, fino alla rispettiva concorrenza, cio' che il terzo deve nei modi e termini della sua obbligazione. Nell'uno e nell'altro caso l'acquirente non puo' evitar di pagare, offrendo il rilascio dell'immobile, ma, eseguito il pagamento, l'immobile e' liberato da ogni ipoteca, non esclusa quella che spetta all'alienante, e il terzo ha diritto di ottenere che si cancellino le relative iscrizioni.",
+    "con_marcatori": "Art. 2867. (Terzo debitore di somma in dipendenza dell'acquisto). Se il terzo acquirente, che ha trascritto il suo titolo, e' debitore, in dipendenza dell'acquisto, di una somma attualmente esigibile, la quale basti a soddisfare tutti i creditori iscritti contro il precedente proprietario, ciascuno di questi puo' obbligarlo al pagamento. Se il debito del terzo non e' attualmente esigibile, o e' minore o diverso da cio' che e' dovuto ai detti creditori, questi, purche' di comune accordo, possono egualmente richiedere che venga loro pagato, fino alla rispettiva concorrenza, cio' che il terzo deve nei modi e termini della sua obbligazione. Nell'uno e nell'altro caso l'acquirente non puo' evitar di pagare, offrendo il rilascio dell'immobile, ma, eseguito il pagamento, l'immobile e' liberato da ogni ipoteca, non esclusa quella che spetta all'alienante, e il terzo ha diritto di ottenere che si cancellino le relative iscrizioni.",
+    "caratteri": 869
+  },
+  "note": [],
+  "impronta": "sha256:c0a1a1cac8f4bba820822d58c3a3e95be1b1570751bc4695623bc0140459f6e7"
+}

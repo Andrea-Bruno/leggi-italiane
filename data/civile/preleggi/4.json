@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "4",
+    "rubrica": "Limiti della disciplina regolamentare",
+    "sezione": "Disposizioni sulla legge in generale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art4"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I regolamenti non possono contenere norme contrarie alle disposizioni delle leggi. I regolamenti emanati a norma del secondo comma dell'art. 3 non possono nemmeno dettare norme contrarie a quelle dei regolamenti emanati dal Governo.",
+    "con_marcatori": "Art. 4. (Limiti della disciplina regolamentare). I regolamenti non possono contenere norme contrarie alle disposizioni delle leggi. I regolamenti emanati a norma del secondo comma dell'art. 3 non possono nemmeno dettare norme contrarie a quelle dei regolamenti emanati dal Governo.",
+    "caratteri": 232
+  },
+  "note": [],
+  "impronta": "sha256:2a1e9ffa09b009c6567b3d15d2e03717948311e5f27235dfcd19b9ffdaa1cc92"
+}

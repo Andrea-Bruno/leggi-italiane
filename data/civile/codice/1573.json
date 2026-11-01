@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1573",
+    "rubrica": "Durata della locazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1573"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo diverse norme di legge, la locazione non puo' stipularsi per un tempo eccedente i trenta anni. Se stipulata per un periodo piu' lungo o in perpetuo, e' ridotta al termine suddetto.",
+    "con_marcatori": "Art. 1573. (Durata della locazione). Salvo diverse norme di legge, la locazione non puo' stipularsi per un tempo eccedente i trenta anni. Se stipulata per un periodo piu' lungo o in perpetuo, e' ridotta al termine suddetto.",
+    "caratteri": 186
+  },
+  "note": [],
+  "impronta": "sha256:37529bf14e29dba1b96a422d4e8f2883f705d65a7c3d9a8de712ad2e8bf9b7ea"
+}

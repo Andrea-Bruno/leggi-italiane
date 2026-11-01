@@ -1,0 +1,118 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "168-bis",
+    "rubrica": "Sospensione del procedimento con messa alla prova dell'imputato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art168-bis"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 4, comma 5). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 4",
+      "comma 5"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 324,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 374,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nei procedimenti per reati puniti con la sola pena edittale pecuniaria o con la pena edittale detentiva non superiore nel massimo a quattro anni, sola, congiunta o alternativa alla pena pecuniaria, nonche' per i delitti indicati dal comma 2 dell'articolo 550 del codice di procedura penale, l'imputato, anche su proposta del pubblico ministero, puo' chiedere la sospensione del processo con messa alla prova. La messa alla prova comporta la prestazione di condotte volte all'eliminazione delle conseguenze dannose o pericolose derivanti dal reato, nonche', ove possibile, il risarcimento del danno dallo stesso cagionato. Comporta altresi' l'affidamento dell'imputato al servizio sociale, per lo svolgimento di un programma che puo' implicare, tra l'altro, attivita' di volontariato di rilievo sociale, ovvero l'osservanza di prescrizioni relative ai rapporti con il servizio sociale o con una struttura sanitaria, alla dimora, alla liberta' di movimento, al divieto di frequentare determinati locali. La concessione della messa alla prova e' inoltre subordinata alla prestazione di lavoro di pubblica utilita'. Il lavoro di pubblica utilita' consiste in una prestazione non retribuita, affidata tenendo conto anche delle specifiche professionalita' ed attitudini lavorative dell'imputato, di durata non inferiore a dieci giorni, anche non continuativi, in favore della collettivita', da svolgere presso lo Stato, le regioni, le province, i comuni, le aziende sanitarie o presso enti o organizzazioni, anche internazionali, che operano in Italia, di assistenza sociale, sanitaria e di volontariato. La prestazione e' svolta con modalita' che non pregiudichino le esigenze di lavoro, di studio, di famiglia e di salute dell'imputato e la sua durata giornaliera non puo' superare le otto ore. La sospensione del procedimento con messa alla prova dell'imputato non puo' essere concessa piu' di una volta. La sospensione del procedimento con messa alla prova non si applica nei casi previsti dagli articoli 102, 103, 104, 105 e 108.",
+    "con_marcatori": "Art. 168-bis. (Sospensione del procedimento con messa alla prova dell'imputato). Nei procedimenti per reati puniti con la sola pena edittale pecuniaria o con la pena edittale detentiva non superiore nel massimo a quattro anni, sola, congiunta o alternativa alla pena pecuniaria, nonche' per i delitti indicati dal comma 2 dell'articolo 550 del codice di procedura penale, l'imputato, anche su proposta del pubblico ministero, puo' chiedere la sospensione del processo con messa alla prova. ((374)) La messa alla prova comporta la prestazione di condotte volte all'eliminazione delle conseguenze dannose o pericolose derivanti dal reato, nonche', ove possibile, il risarcimento del danno dallo stesso cagionato. Comporta altresi' l'affidamento dell'imputato al servizio sociale, per lo svolgimento di un programma che puo' implicare, tra l'altro, attivita' di volontariato di rilievo sociale, ovvero l'osservanza di prescrizioni relative ai rapporti con il servizio sociale o con una struttura sanitaria, alla dimora, alla liberta' di movimento, al divieto di frequentare determinati locali. La concessione della messa alla prova e' inoltre subordinata alla prestazione di lavoro di pubblica utilita'. Il lavoro di pubblica utilita' consiste in una prestazione non retribuita, affidata tenendo conto anche delle specifiche professionalita' ed attitudini lavorative dell'imputato, di durata non inferiore a dieci giorni, anche non continuativi, in favore della collettivita', da svolgere presso lo Stato, le regioni, le province, i comuni, le aziende sanitarie o presso enti o organizzazioni, anche internazionali, che operano in Italia, di assistenza sociale, sanitaria e di volontariato. La prestazione e' svolta con modalita' che non pregiudichino le esigenze di lavoro, di studio, di famiglia e di salute dell'imputato e la sua durata giornaliera non puo' superare le otto ore. La sospensione del procedimento con messa alla prova dell'imputato non puo' essere concessa piu' di una volta. (324) La sospensione del procedimento con messa alla prova non si applica nei casi previsti dagli articoli 102, 103, 104, 105 e 108.",
+    "caratteri": 2028
+  },
+  "note": [
+    {
+      "numero": 324,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 168-bis, quarto comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 12, comma 1, lettera b), del codice di procedura penale",
+          "urn": "urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447",
+          "data": "1988-09-22",
+          "numero": "447",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2022-07-12",
+        "numero": "174"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 23 giugno - 12 luglio 2022, n. 174 (in G.U. 1ª s.s. 13/07/2022, n. 28), ha dichiarato \"l'illegittimita' costituzionale dell'art. 168-bis, quarto comma, del codice penale, nella parte in cui non prevede che l'imputato possa essere ammesso alla sospensione del procedimento con messa alla prova nell'ipotesi in cui si proceda per reati connessi, ai sensi dell'art. 12, comma 1, lettera b), del codice di procedura penale, con altri reati per i quali tale beneficio sia gia' stato concesso\"."
+    },
+    {
+      "numero": 374,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 5"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 168-bis, primo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 73, comma 5, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-10-09;309",
+          "data": "1990-10-09",
+          "numero": "309",
+          "data_gazzetta": "1990-10-31"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-07-01",
+        "numero": "90"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 11 giugno - 1 luglio 2025, n. 90 (in G.U. 1ª s.s. 2/07/2025, n. 27), ha dichiarato \"l'illegittimita' costituzionale dell'art. 168-bis, primo comma, del codice penale, nella parte in cui non consente la sospensione del procedimento con messa alla prova per il reato previsto dall'art. 73, comma 5, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309 (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza)\"."
+    }
+  ],
+  "impronta": "sha256:7b32948b117d4fb6fdbd4bed05f9c77156a7a194b92b5ae828c42367ba65d894"
+}

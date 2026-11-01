@@ -1,0 +1,84 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "2",
+    "rubrica": "Successione di leggi penali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art2"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2, comma 3, comma 5). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2",
+      "comma 3",
+      "comma 5"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 103,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nessuno puo' essere punito per un fatto che, secondo la legge del tempo in cui fu commesso, non costituiva reato. Nessuno puo' essere punito per un fatto che, secondo una legge posteriore, non costituisce reato; e, se vi e' stata condanna, ne cessano l'esecuzione e gli effetti penali. Se vi e' stata condanna a pena detentiva e la legge posteriore prevede esclusivamente la pena pecuniaria, la pena detentiva inflitta si converte immediatamente nella corrispondente pena pecuniaria, ai sensi dell'articolo 135. Se la legge del tempo in cui fu commesso il reato e le posteriori sono diverse, si applica quella le cui disposizioni sono piu' favorevoli al reo, salvo che sia stata pronunciata sentenza irrevocabile. Se si tratta di leggi eccezionali o temporanee, non si applicano le disposizioni dei capoversi precedenti. Le disposizioni di questo articolo si applicano altresi' nei casi di decadenza e di mancata ratifica di un decreto-legge e nel caso di un decreto-legge convertito in legge con emendamenti.",
+    "con_marcatori": "Art. 2. (Successione di leggi penali) Nessuno puo' essere punito per un fatto che, secondo la legge del tempo in cui fu commesso, non costituiva reato. Nessuno puo' essere punito per un fatto che, secondo una legge posteriore, non costituisce reato; e, se vi e' stata condanna, ne cessano l'esecuzione e gli effetti penali. ((Se vi e' stata condanna a pena detentiva e la legge posteriore prevede esclusivamente la pena pecuniaria, la pena detentiva inflitta si converte immediatamente nella corrispondente pena pecuniaria, ai sensi dell'articolo 135)). Se la legge del tempo in cui fu commesso il reato e le posteriori sono diverse, si applica quella le cui disposizioni sono piu' favorevoli al reo, salvo che sia stata pronunciata sentenza irrevocabile. Se si tratta di leggi eccezionali o temporanee, non si applicano le disposizioni dei capoversi precedenti. Le disposizioni di questo articolo si applicano altresi' nei casi di decadenza e di mancata ratifica di un decreto-legge e nel caso di un decreto-legge convertito in legge con emendamenti.(103)",
+    "caratteri": 1009
+  },
+  "note": [
+    {
+      "numero": 103,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2",
+        "comma 3",
+        "comma 5"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2, comma quinto, c.p.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 2 c.p.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1985-02-22",
+        "numero": "51"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 19-22 febbraio 1985, n. 51 (in G.U. 1ª s.s. 27/02/1985, n. 50), ha dichiarato \"l'illegittimita' costituzionale dell'art. 2, comma quinto, c.p. nella parte in cui rende applicabili alle ipotesi da esso previste le disposizioni contenute nei Commi secondo e terzo dello stesso art. 2 c.p.\"."
+    }
+  ],
+  "impronta": "sha256:f34ac19e10dd9062de3038423d2f3765bfd39069b626147f016f102ad8511c38"
+}

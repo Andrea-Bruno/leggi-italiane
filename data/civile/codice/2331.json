@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2331",
+    "rubrica": "Effetti dell'iscrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2331"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Con l'iscrizione nel registro la societa' acquista la personalita' giuridica. Per le operazioni compiute in nome della societa' prima dell'iscrizione sono illimitatamente e solidalmente responsabili verso i terzi coloro che hanno agito. Sono altresi' solidalmente e illimitatamente responsabili il socio unico fondatore e quelli tra i soci che nell'atto costitutivo o con atto separato hanno deciso, autorizzato o consentito il compimento dell'operazione. Qualora successivamente all'iscrizione la societa' abbia approvato un'operazione prevista dal precedente comma, e' responsabile anche la societa' ed essa e' tenuta a rilevare coloro che hanno agito. Le somme depositate a norma del secondo comma dell'articolo 2342 non possono essere consegnate agli amministratori se non provano l'avvenuta iscrizione della societa' nel registro. Se entro novanta giorni dalla stipulazione dell'atto costitutivo o dal rilascio delle autorizzazioni previste dal numero 3) dell'articolo 2329 l'iscrizione non ha avuto luogo, esse sono restituite ai sottoscrittori e l'atto costitutivo perde efficacia. Prima dell'iscrizione nel registro e' vietata l'emissione delle azioni ed esse, salvo l'offerta pubblica di sottoscrizione ai sensi dell'articolo 2333, non possono costituire oggetto di una offerta al pubblico di prodotti finanziari.",
+    "con_marcatori": "Art. 2331. (Effetti dell'iscrizione). Con l'iscrizione nel registro la societa' acquista la personalita' giuridica. Per le operazioni compiute in nome della societa' prima dell'iscrizione sono illimitatamente e solidalmente responsabili verso i terzi coloro che hanno agito. Sono altresi' solidalmente e illimitatamente responsabili il socio unico fondatore e quelli tra i soci che nell'atto costitutivo o con atto separato hanno deciso, autorizzato o consentito il compimento dell'operazione. Qualora successivamente all'iscrizione la societa' abbia approvato un'operazione prevista dal precedente comma, e' responsabile anche la societa' ed essa e' tenuta a rilevare coloro che hanno agito. Le somme depositate a norma del secondo comma dell'articolo 2342 non possono essere consegnate agli amministratori se non provano l'avvenuta iscrizione della societa' nel registro. Se entro novanta giorni dalla stipulazione dell'atto costitutivo o dal rilascio delle autorizzazioni previste dal numero 3) dell'articolo 2329 l'iscrizione non ha avuto luogo, esse sono restituite ai sottoscrittori e l'atto costitutivo perde efficacia. Prima dell'iscrizione nel registro e' vietata l'emissione delle azioni ed esse, salvo l'offerta pubblica di sottoscrizione ai sensi dell'articolo 2333, non possono costituire oggetto di una ((offerta al pubblico di prodotti finanziari)).",
+    "caratteri": 1322
+  },
+  "note": [],
+  "impronta": "sha256:14bba116810ace5727930a3c2a9fae03e107f95dbaa23f4e86fb9b14a1f566a1"
+}

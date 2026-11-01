@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "612",
+    "rubrica": "Forme",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art612"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento indicato dall'articolo precedente e' redatto in doppio originale alla presenza di due testimoni e deve essere sottoscritto dal testatore, dalla persona che lo ha ricevuto e dai testimoni; se il testatore o i testimoni non possono sottoscrivere, si deve indicare il motivo che ha impedito la sottoscrizione. Il testamento e' conservato tra i documenti di bordo ed e' annotato sul giornale di bordo ovvero sul giornale nautico e sul ruolo d'equipaggio.",
+    "con_marcatori": "Art. 612. (Forme). Il testamento indicato dall'articolo precedente e' redatto in doppio originale alla presenza di due testimoni e deve essere sottoscritto dal testatore, dalla persona che lo ha ricevuto e dai testimoni; se il testatore o i testimoni non possono sottoscrivere, si deve indicare il motivo che ha impedito la sottoscrizione. Il testamento e' conservato tra i documenti di bordo ed e' annotato sul giornale di bordo ovvero sul giornale nautico e sul ruolo d'equipaggio.",
+    "caratteri": 464
+  },
+  "note": [],
+  "impronta": "sha256:b82b1f9611351d8f03ea9b8296dfa1a6971a58bae8d908b63da6389900fd6315"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "601-bis",
+    "rubrica": "Traffico di organi prelevati da persona vivente",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art601-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, illecitamente, commercia, vende, acquista ovvero, in qualsiasi modo e a qualsiasi titolo, procura o tratta organi o parti di organi prelevati da persona vivente e' punito con la reclusione da tre a dodici anni e con la multa da euro 50.000 ad euro 300.000. PERIODO SOPPRESSO DAL D.LGS. 1 MARZO 2018, N. 21. Chiunque svolge opera di mediazione nella donazione di organi da vivente al fine di trarne un vantaggio economico e' punito con la reclusione da tre a otto anni e con la multa da euro 50.000 a euro 300.000. Se i fatti previsti dai precedenti commi sono commessi da persona che esercita una professione sanitaria, alla condanna consegue l'interdizione perpetua dall'esercizio della professione. Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da tre a sette anni e con la multa da euro 50.000 ad euro 300.000 chiunque organizza o propaganda viaggi ovvero pubblicizza o diffonde, con qualsiasi mezzo, anche per via informatica o telematica, annunci finalizzati al traffico di organi o parti di organi di cui al primo comma.",
+    "con_marcatori": "Art. 601-bis. (Traffico di organi prelevati da persona vivente). Chiunque, illecitamente, commercia, vende, acquista ovvero, in qualsiasi modo e a qualsiasi titolo, procura o tratta organi o parti di organi prelevati da persona vivente e' punito con la reclusione da tre a dodici anni e con la multa da euro 50.000 ad euro 300.000. ((PERIODO SOPPRESSO DAL D.LGS. 1 MARZO 2018, N. 21)). ((Chiunque svolge opera di mediazione nella donazione di organi da vivente al fine di trarne un vantaggio economico e' punito con la reclusione da tre a otto anni e con la multa da euro 50.000 a euro 300.000. Se i fatti previsti dai precedenti commi sono commessi da persona che esercita una professione sanitaria, alla condanna consegue l'interdizione perpetua dall'esercizio della professione.)) Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da tre a sette anni e con la multa da euro 50.000 ad euro 300.000 chiunque organizza o propaganda viaggi ovvero pubblicizza o diffonde, con qualsiasi mezzo, anche per via informatica o telematica, annunci finalizzati al traffico di organi o parti di organi di cui al primo comma.",
+    "caratteri": 1067
+  },
+  "note": [],
+  "impronta": "sha256:e974d20bf26197d1d95385abb568a2cb1ad8341fa5358f01a188c16a7b496ea6"
+}

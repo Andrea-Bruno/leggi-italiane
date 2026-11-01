@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1989",
+    "rubrica": "Promessa al pubblico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1989"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Colui che, rivolgendosi al pubblico, promette una prestazione a favore di chi si trovi in una determinata situazione o compia una determinata azione, e' vincolato dalla promessa non appena questa e' resa pubblica. Se alla promessa non e' apposto un termine, o questo non risulta dalla natura o dallo scopo della medesima, il vincolo del promittente cessa, qualora entro l'anno dalla promessa non gli sia stato comunicato l'avveramento della situazione o il compimento dell'azione prevista nella promessa.",
+    "con_marcatori": "Art. 1989. (Promessa al pubblico). Colui che, rivolgendosi al pubblico, promette una prestazione a favore di chi si trovi in una determinata situazione o compia una determinata azione, e' vincolato dalla promessa non appena questa e' resa pubblica. Se alla promessa non e' apposto un termine, o questo non risulta dalla natura o dallo scopo della medesima, il vincolo del promittente cessa, qualora entro l'anno dalla promessa non gli sia stato comunicato l'avveramento della situazione o il compimento dell'azione prevista nella promessa.",
+    "caratteri": 504
+  },
+  "note": [],
+  "impronta": "sha256:65cecf4fbcc86b9f883aa9e29218c9730239064223ca1719922883b371889dfd"
+}

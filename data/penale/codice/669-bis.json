@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "669-bis",
+    "rubrica": "Esercizio molesto dell'accattonaggio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art669-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque esercita l'accattonaggio con modalita' vessatorie o simulando deformita' o malattie o attraverso il ricorso a mezzi fraudolenti per destare l'altrui pieta' e' punito con la pena dell'arresto da tre a sei mesi e con l'ammenda da euro 3.000 a euro 6.000. E' sempre disposto il sequestro delle cose che sono servite o sono state destinate a commettere l'illecito o che ne costituiscono il provento.",
+    "con_marcatori": "Art. 669-bis. (Esercizio molesto dell'accattonaggio). Salvo che il fatto costituisca piu' grave reato, chiunque esercita l'accattonaggio con modalita' vessatorie o simulando deformita' o malattie o attraverso il ricorso a ((mezzi fraudolenti per destare l'altrui pieta' e' punito)) con la pena dell'arresto da tre a sei mesi e con l'ammenda da euro 3.000 a euro 6.000. E' sempre disposto il sequestro delle cose che sono servite o sono state destinate a commettere l'illecito o che ne costituiscono il provento.",
+    "caratteri": 453
+  },
+  "note": [],
+  "impronta": "sha256:dbeb301b72567a61e1e36c8d969679fd64daf1394131b81695faa07327c7e47f"
+}

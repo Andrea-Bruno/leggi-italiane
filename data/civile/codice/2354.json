@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2354",
+    "rubrica": "Titoli azionari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2354"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I titoli possono essere nominativi o al portatore, a scelta del socio, se lo statuto o le leggi speciali non stabiliscono diversamente. Finche' le azioni non siano interamente liberate, non possono essere emessi titoli al portatore. I titoli azionari devono indicare: 1) la denominazione e la sede della societa'; 2) la data dell'atto costitutivo e della sua iscrizione e l'ufficio del registro delle imprese dove la societa' e' iscritta; 3) il loro valore nominale o, se si tratta di azioni senza valore nominale, il numero complessivo delle azioni emesse, nonche' l'ammontare del capitale sociale; 4) l'ammontare dei versamenti parziali sulle azioni non interamente liberate; 5) i diritti e gli obblighi particolari ad essi inerenti. I titoli azionari devono essere sottoscritti da uno degli amministratori. E' valida la sottoscrizione mediante riproduzione meccanica della firma. Le disposizioni di questo articolo si applicano anche ai certificati provvisori che si distribuiscono ai soci prima dell'emissione dei titoli definitivi. Sono salve le disposizioni delle leggi speciali in tema di strumenti finanziari negoziati o destinati alla negoziazione nelle sedi di negoziazione. Lo statuto puo' assoggettare le azioni alla disciplina prevista dalle leggi speciali di cui al precedente comma.",
+    "con_marcatori": "Art. 2354. (Titoli azionari). I titoli possono essere nominativi o al portatore, a scelta del socio, se lo statuto o le leggi speciali non stabiliscono diversamente. Finche' le azioni non siano interamente liberate, non possono essere emessi titoli al portatore. I titoli azionari devono indicare: 1) la denominazione e la sede della societa'; 2) la data dell'atto costitutivo e della sua iscrizione e l'ufficio del registro delle imprese dove la societa' e' iscritta; 3) il loro valore nominale o, se si tratta di azioni senza valore nominale, il numero complessivo delle azioni emesse, nonche' l'ammontare del capitale sociale; 4) l'ammontare dei versamenti parziali sulle azioni non interamente liberate; 5) i diritti e gli obblighi particolari ad essi inerenti. I titoli azionari devono essere sottoscritti da uno degli amministratori. E' valida la sottoscrizione mediante riproduzione meccanica della firma. Le disposizioni di questo articolo si applicano anche ai certificati provvisori che si distribuiscono ai soci prima dell'emissione dei titoli definitivi. Sono salve le disposizioni delle leggi speciali in tema di strumenti finanziari negoziati o destinati alla negoziazione ((nelle sedi di negoziazione)). Lo statuto puo' assoggettare le azioni alla disciplina prevista dalle leggi speciali di cui al precedente comma.",
+    "caratteri": 1297
+  },
+  "note": [],
+  "impronta": "sha256:5532df113dcd4ae3d7e46d11631428d1d5ba7b17879ae50a37e0cd5bb6ec05f5"
+}

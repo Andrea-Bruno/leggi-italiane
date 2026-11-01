@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1747",
+    "rubrica": "Impedimento dell'agente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1747"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'agente che non e' in grado di eseguire l'incarico affidatogli deve dare immediato avviso al preponente. In mancanza e' obbligato al risarcimento del danno.",
+    "con_marcatori": "Art. 1747. (Impedimento dell'agente). L'agente che non e' in grado di eseguire l'incarico affidatogli deve dare immediato avviso al preponente. In mancanza e' obbligato al risarcimento del danno.",
+    "caratteri": 157
+  },
+  "note": [],
+  "impronta": "sha256:7bcd09f42f5ee2f8118d5b2fcf5a416cdb6fb1f501d5d89694dbd70393fed2df"
+}

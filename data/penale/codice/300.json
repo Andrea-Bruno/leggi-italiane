@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "300",
+    "rubrica": "Condizione di reciprocita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art300"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni degli articoli 295, 296, 297 e 299 si applicano solo in quanto la legge straniera garantisca, reciprocamente, al Capo dello Stato italiano o alla bandiera italiana parita' di tutela penale. I Capi di missione diplomatica sono equiparati ai Capi di Stati esteri, a norma dell'articolo 298, soltanto se lo Stato straniero concede parita' di tutela penale ai Capi di missione diplomatica italiana. Se la parita' della tutela penale non esiste, si applicano le disposizioni dei titoli dodicesimo e tredicesimo; ma la pena e' aumentata.",
+    "con_marcatori": "Art. 300. (Condizione di reciprocita') Le disposizioni degli articoli 295, 296, 297 e 299 si applicano solo in quanto la legge straniera garantisca, reciprocamente, al Capo dello Stato italiano o alla bandiera italiana parita' di tutela penale. I Capi di missione diplomatica sono equiparati ai Capi di Stati esteri, a norma dell'articolo 298, soltanto se lo Stato straniero concede parita' di tutela penale ai Capi di missione diplomatica italiana. Se la parita' della tutela penale non esiste, si applicano le disposizioni dei titoli dodicesimo e tredicesimo; ma la pena e' aumentata.",
+    "caratteri": 547
+  },
+  "note": [],
+  "impronta": "sha256:87e3988bda74dc030547cabf0f2f0ba9fa7a219884450e19f0d15cbcef351ae2"
+}

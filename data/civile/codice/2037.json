@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2037",
+    "rubrica": "Restituzione di cosa determinata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2037"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi ha ricevuto indebitamente una cosa determinata e' tenuto a restituirla. Se la cosa e' perita, anche per caso fortuito, chi l'ha ricevuta in mala fede e' tenuto a corrisponderne il valore; se la cosa e' soltanto deteriorata, colui che l'ha data puo' chiedere l'equivalente, oppure la restituzione e un'indennita' per la diminuzione di valore. Chi ha ricevuto la cosa in buona fede non risponde del perimento o del deterioramento di essa, ancorche' dipenda da fatto proprio, se non nei limiti del suo arricchimento.",
+    "con_marcatori": "Art. 2037. (Restituzione di cosa determinata). Chi ha ricevuto indebitamente una cosa determinata e' tenuto a restituirla. Se la cosa e' perita, anche per caso fortuito, chi l'ha ricevuta in mala fede e' tenuto a corrisponderne il valore; se la cosa e' soltanto deteriorata, colui che l'ha data puo' chiedere l'equivalente, oppure la restituzione e un'indennita' per la diminuzione di valore. Chi ha ricevuto la cosa in buona fede non risponde del perimento o del deterioramento di essa, ancorche' dipenda da fatto proprio, se non nei limiti del suo arricchimento.",
+    "caratteri": 517
+  },
+  "note": [],
+  "impronta": "sha256:9773e6fdf3645524dbadb80de07fa0f08f679fc32f659982c3ad95221bc10355"
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "600-ter",
+    "rubrica": "Pornografia minorile",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art600-ter"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 358,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "E' punito con la reclusione da sei a dodici anni e con la multa da euro 24.000 a euro 240.000 chiunque: 1) utilizzando minori di anni diciotto, realizza esibizioni o spettacoli pornografici ovvero produce materiale pornografico; 2) recluta o induce minori di anni diciotto a partecipare a esibizioni o spettacoli pornografici ovvero dai suddetti spettacoli trae altrimenti profitto. Alla stessa pena soggiace chi fa commercio del materiale pornografico di cui al primo comma. Chiunque, al di fuori delle ipotesi di cui al primo e al secondo comma, con qualsiasi mezzo, anche per via telematica, distribuisce, divulga, diffonde o pubblicizza il materiale pornografico di cui al primo comma, ovvero distribuisce o divulga notizie o informazioni finalizzate all'adescamento o allo sfruttamento sessuale di minori degli anni diciotto, e' punito con la reclusione da uno a cinque anni e con la multa da lire cinque milioni a lire cento milioni. Chiunque, al di fuori delle ipotesi di cui ai commi primo, secondo e terzo, offre o cede ad altri, anche a titolo gratuito, il materiale pornografico di cui al primo comma, e' punito con la reclusione fino a tre anni e con la multa da euro 1.549 a euro 5.164. Nei casi previsti dal terzo e dal quarto comma la pena e' aumentata in misura non eccedente i due terzi ove il materiale sia di ingente quantita'. Salvo che il fatto costituisca piu' grave reato, chiunque assiste a esibizioni o spettacoli pornografici in cui siano coinvolti minori di anni diciotto e' punito con la reclusione fino a tre anni e con la multa da euro 1.500 a euro 6.000. Ai fini di cui al presente articolo per pornografia minorile si intende ogni rappresentazione, con qualunque mezzo, di un minore degli anni diciotto coinvolto in attivita' sessuali esplicite, reali o simulate, o qualunque rappresentazione degli organi sessuali di un minore di anni diciotto per scopi sessuali.",
+    "con_marcatori": "Art. 600-ter. (Pornografia minorile). E' punito con la reclusione da sei a dodici anni e con la multa da euro 24.000 a euro 240.000 chiunque: 1) utilizzando minori di anni diciotto, realizza esibizioni o spettacoli pornografici ovvero produce materiale pornografico; ((358)) 2) recluta o induce minori di anni diciotto a partecipare a esibizioni o spettacoli pornografici ovvero dai suddetti spettacoli trae altrimenti profitto. Alla stessa pena soggiace chi fa commercio del materiale pornografico di cui al primo comma. Chiunque, al di fuori delle ipotesi di cui al primo e al secondo comma, con qualsiasi mezzo, anche per via telematica, distribuisce, divulga, diffonde o pubblicizza il materiale pornografico di cui al primo comma, ovvero distribuisce o divulga notizie o informazioni finalizzate all'adescamento o allo sfruttamento sessuale di minori degli anni diciotto, e' punito con la reclusione da uno a cinque anni e con la multa da lire cinque milioni a lire cento milioni. Chiunque, al di fuori delle ipotesi di cui ai commi primo, secondo e terzo, offre o cede ad altri, anche a titolo gratuito, il materiale pornografico di cui al primo comma, e' punito con la reclusione fino a tre anni e con la multa da euro 1.549 a euro 5.164. Nei casi previsti dal terzo e dal quarto comma la pena e' aumentata in misura non eccedente i due terzi ove il materiale sia di ingente quantita'. Salvo che il fatto costituisca piu' grave reato, chiunque assiste a esibizioni o spettacoli pornografici in cui siano coinvolti minori di anni diciotto e' punito con la reclusione fino a tre anni e con la multa da euro 1.500 a euro 6.000. Ai fini di cui al presente articolo per pornografia minorile si intende ogni rappresentazione, con qualunque mezzo, di un minore degli anni diciotto coinvolto in attivita' sessuali esplicite, reali o simulate, o qualunque rappresentazione degli organi sessuali di un minore di anni diciotto per scopi sessuali.",
+    "caratteri": 1896
+  },
+  "note": [
+    {
+      "numero": 358,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 600-ter, primo comma, numero 1), del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2024-05-20",
+        "numero": "91"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 16 aprile - 20 maggio 2024, n. 91 (in G.U. 1ª s.s. 22/05/2024, n. 21), ha dichiarato \"l'illegittimita' costituzionale dell'art. 600-ter, primo comma, numero 1), del codice penale, nella parte in cui non prevede, per il reato di produzione di materiale pornografico mediante l'utilizzazione di minori di anni diciotto, che nei casi di minore gravita' la pena da esso comminata e' diminuita in misura non eccedente i due terzi\"."
+    }
+  ],
+  "impronta": "sha256:91d2d5eda037ada56bba4907147b82cb022ef1555ace959f9765c28421080c86"
+}

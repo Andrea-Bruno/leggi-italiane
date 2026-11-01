@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2425-ter",
+    "rubrica": "Rendiconto finanziario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2425-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Dal rendiconto finanziario risultano, per l'esercizio a cui e' riferito il bilancio e per quello precedente, l'ammontare e la composizione delle disponibilita' liquide, all'inizio e alla fine dell'esercizio, ed i flussi finanziari dell'esercizio derivanti dall'attivita' operativa, da quella di investimento, da quella di finanziamento, ivi comprese, con autonoma indicazione, le operazioni con i soci.",
+    "con_marcatori": "Art. 2425-ter. (( (Rendiconto finanziario).)) ((Dal rendiconto finanziario risultano, per l'esercizio a cui e' riferito il bilancio e per quello precedente, l'ammontare e la composizione delle disponibilita' liquide, all'inizio e alla fine dell'esercizio, ed i flussi finanziari dell'esercizio derivanti dall'attivita' operativa, da quella di investimento, da quella di finanziamento, ivi comprese, con autonoma indicazione, le operazioni con i soci.)) ((246))",
+    "caratteri": 402
+  },
+  "note": [
+    {
+      "numero": 246,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 agosto 2015, n. 139",
+          "urn": "urn:nir:stato:decretoLegislativo:2015-08-18;139",
+          "data": "2015-08-18",
+          "numero": "139",
+          "data_gazzetta": "2015-09-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016."
+    }
+  ],
+  "impronta": "sha256:bc2f82f0cbd99f78bd032565169f577fb53a52236bc677be293d1cabf261f7c7"
+}

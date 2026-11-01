@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "437",
+    "rubrica": "Obbligo del donatario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art437"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il donatario e' tenuto, con precedenza su ogni altro obbligato, a prestare gli alimenti al donante, a meno che si tratti di donazione fatta in riguardo di un matrimonio o di una donazione rimuneratoria.",
+    "con_marcatori": "Art. 437. (Obbligo del donatario). Il donatario e' tenuto, con precedenza su ogni altro obbligato, a prestare gli alimenti al donante, a meno che si tratti di donazione fatta in riguardo di un matrimonio o di una donazione rimuneratoria.",
+    "caratteri": 202
+  },
+  "note": [],
+  "impronta": "sha256:eac368a04f403c520aceb3070ce8b598b955df2e117a419d1401edfd74e3863c"
+}

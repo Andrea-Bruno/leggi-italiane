@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1757",
+    "rubrica": "Provvigione nei contratti condizionali o invalidi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1757"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contratto e' sottoposto a condizione sospensiva, il diritto alla provvigione sorge nel momento in cui si verifica la condizione. Se il contratto e' sottoposto a condizione risolutiva, il diritto alla provvigione non viene meno col verificarsi della condizione. La disposizione del comma precedente si applica anche quando il contratto e' annullabile o rescindibile, se il mediatore non conosceva la causa d'invalidita'.",
+    "con_marcatori": "Art. 1757. (Provvigione nei contratti condizionali o invalidi). Se il contratto e' sottoposto a condizione sospensiva, il diritto alla provvigione sorge nel momento in cui si verifica la condizione. Se il contratto e' sottoposto a condizione risolutiva, il diritto alla provvigione non viene meno col verificarsi della condizione. La disposizione del comma precedente si applica anche quando il contratto e' annullabile o rescindibile, se il mediatore non conosceva la causa d'invalidita'.",
+    "caratteri": 425
+  },
+  "note": [],
+  "impronta": "sha256:56fba5d5f7f80e84f62fce3e96611cb0352a1274ee825cd68d88d82910c233aa"
+}

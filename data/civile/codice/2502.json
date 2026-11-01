@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2502",
+    "rubrica": "Decisione in ordine alla fusione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2502"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La fusione e' decisa da ciascuna delle societa' che vi partecipano mediante approvazione del relativo progetto. Se l'atto costitutivo o lo statuto non dispongono diversamente, tale approvazione avviene, nelle societa' di persone, con il consenso della maggioranza dei soci determinata secondo la parte attribuita a ciascuno negli utili, salva la facolta' di recesso per il socio che non abbia consentito alla fusione e, nelle societa' di capitali, secondo le norme previste per la modificazione dell'atto costitutivo o statuto. La decisione di fusione puo' apportare al progetto di cui all'articolo 2501-ter solo le modifiche che non incidono sui diritti dei soci o dei terzi.",
+    "con_marcatori": "Art. 2502. (( (Decisione in ordine alla fusione). )) ((La fusione e' decisa da ciascuna delle societa' che vi partecipano mediante approvazione del relativo progetto. Se l'atto costitutivo o lo statuto non dispongono diversamente, tale approvazione avviene, nelle societa' di persone, con il consenso della maggioranza dei soci determinata secondo la parte attribuita a ciascuno negli utili, salva la facolta' di recesso per il socio che non abbia consentito alla fusione e, nelle societa' di capitali, secondo le norme previste per la modificazione dell'atto costitutivo o statuto. La decisione di fusione puo' apportare al progetto di cui all'articolo 2501-ter solo le modifiche che non incidono sui diritti dei soci o dei terzi. ))",
+    "caratteri": 676
+  },
+  "note": [],
+  "impronta": "sha256:7f7b88e29bef95e4dfce109e36f86f52443d9fa74238d1f0c346b2c22acb4f95"
+}

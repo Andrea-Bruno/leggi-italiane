@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1667",
+    "rubrica": "Difformita' e vizi dell'opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1667"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'appaltatore e' tenuto alla garanzia per le difformita' e i vizi dell'opera. La garanzia non e' dovuta se il committente ha accettato l'opera e le difformita' o i vizi erano da lui conosciuti o erano riconoscibili, purche', in questo caso, non siano stati in mala fede taciuti dall'appaltatore. Il committente deve, a pena di decadenza, denunziare all'appaltatore le difformita' o i vizi entro sessanta giorni dalla scoperta. La denunzia non e' necessaria se l'appaltatore ha riconosciuto le difformita' o i vizi o se li ha occultati. L'azione contro l'appaltatore si prescrive in due anni dal giorno della consegna dell'opera. Il committente convenuto per il pagamento puo' sempre far valere la garanzia, purche' le difformita' o i vizi siano stati denunziati entro sessanta giorni dalla scoperta e prima che siano decorsi i due anni dalla consegna.",
+    "con_marcatori": "Art. 1667. (Difformita' e vizi dell'opera). L'appaltatore e' tenuto alla garanzia per le difformita' e i vizi dell'opera. La garanzia non e' dovuta se il committente ha accettato l'opera e le difformita' o i vizi erano da lui conosciuti o erano riconoscibili, purche', in questo caso, non siano stati in mala fede taciuti dall'appaltatore. Il committente deve, a pena di decadenza, denunziare all'appaltatore le difformita' o i vizi entro sessanta giorni dalla scoperta. La denunzia non e' necessaria se l'appaltatore ha riconosciuto le difformita' o i vizi o se li ha occultati. L'azione contro l'appaltatore si prescrive in due anni dal giorno della consegna dell'opera. Il committente convenuto per il pagamento puo' sempre far valere la garanzia, purche' le difformita' o i vizi siano stati denunziati entro sessanta giorni dalla scoperta e prima che siano decorsi i due anni dalla consegna.",
+    "caratteri": 851
+  },
+  "note": [],
+  "impronta": "sha256:66d26eb2e2c6f6b4d35151dbccd213fccbcfe11d80fe7c60febe01af5a1a6d5f"
+}

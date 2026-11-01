@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2124",
+    "rubrica": "Certificato di lavoro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2124"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non e' obbligatorio il libretto di lavoro, all'atto della cessazione del contratto, qualunque ne sia la causa, l'imprenditore deve rilasciare un certificato con l'indicazione del tempo durante il quale il prestatore di lavoro e' stato occupato alle sue dipendenze e delle mansioni esercitate.",
+    "con_marcatori": "Art. 2124. (Certificato di lavoro). Se non e' obbligatorio il libretto di lavoro, all'atto della cessazione del contratto, qualunque ne sia la causa, l'imprenditore deve rilasciare un certificato con l'indicazione del tempo durante il quale il prestatore di lavoro e' stato occupato alle sue dipendenze e delle mansioni esercitate.",
+    "caratteri": 295
+  },
+  "note": [],
+  "impronta": "sha256:2a50abab6b880275d66308c59c423fc2f6e6e80e4bb2233d47edad13d5c17b29"
+}

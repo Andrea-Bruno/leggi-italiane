@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "32-quater",
+    "rubrica": "Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art32-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni condanna per i delitti previsti dagli articoli 314, primo comma, 316-bis, 316-ter, 317, 318, 319, 319-bis, 319-ter, 319-quater, 320, 321, 322, 322-bis, 346-bis, 353, 355, 356, 416, 416-bis, 437, 452-bis, 452-bis.1, 452-quater, 452-sexies, 452-septies, 452-quaterdecies, 501, 501-bis, 640, secondo comma, numero 1, 640-bis e 644, commessi in danno o a vantaggio di un'attivita' imprenditoriale o comunque in relazione ad essa, importa l'incapacita' di contrattare con la pubblica amministrazione.",
+    "con_marcatori": "Art. 32-quater. (Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione). Ogni condanna per i delitti previsti dagli articoli 314, primo comma, 316-bis, 316-ter, 317, 318, 319, 319-bis, 319-ter, 319-quater, 320, 321, 322, 322-bis, 346-bis, 353, 355, 356, 416, 416-bis, 437, 452-bis, ((452-bis.1,)) 452-quater, 452-sexies, 452-septies, 452-quaterdecies, 501, 501-bis, 640, secondo comma, numero 1, 640-bis e 644, commessi in danno o a vantaggio di un'attivita' imprenditoriale o comunque in relazione ad essa, importa l'incapacita' di contrattare con la pubblica amministrazione.",
+    "caratteri": 500
+  },
+  "note": [],
+  "impronta": "sha256:cef9c4719748784c12bae6b9d76d36436547b34cdde2a9bda28a072bc651b8a5"
+}

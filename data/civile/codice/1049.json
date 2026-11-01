@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1049",
+    "rubrica": "Somministrazione di acqua a un edificio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1049"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se a una casa o alle sue dipendenze manca l'acqua necessaria per l'alimentazione degli uomini o degli animali e per gli altri usi domestici, e non e' possibile procurarla senza eccessivo dispendio, il proprietario del fondo vicino deve consentire che sia dedotta l'acqua di sopravanzo nella misura indispensabile per le necessita' anzidette. Prima che siano iniziati i lavori, deve pagarsi il valore dell'acqua, che si chiede di dedurre, calcolato per un'annualita'. Si devono altresi' sostenere tutte le spese per le opere di presa e di derivazione. Si applicano inoltre le disposizioni del primo comma dell'art. 1038. In mancanza di convenzione, la sentenza determina le modalita' della derivazione e l'indennita' dovuta. Qualora si verifichi un mutamento nelle condizioni originarie, la derivazione puo' essere soppressa su istanza dell'una o dell'altra parte.",
+    "con_marcatori": "Art. 1049. (Somministrazione di acqua a un edificio). Se a una casa o alle sue dipendenze manca l'acqua necessaria per l'alimentazione degli uomini o degli animali e per gli altri usi domestici, e non e' possibile procurarla senza eccessivo dispendio, il proprietario del fondo vicino deve consentire che sia dedotta l'acqua di sopravanzo nella misura indispensabile per le necessita' anzidette. Prima che siano iniziati i lavori, deve pagarsi il valore dell'acqua, che si chiede di dedurre, calcolato per un'annualita'. Si devono altresi' sostenere tutte le spese per le opere di presa e di derivazione. Si applicano inoltre le disposizioni del primo comma dell'art. 1038. In mancanza di convenzione, la sentenza determina le modalita' della derivazione e l'indennita' dovuta. Qualora si verifichi un mutamento nelle condizioni originarie, la derivazione puo' essere soppressa su istanza dell'una o dell'altra parte.",
+    "caratteri": 863
+  },
+  "note": [],
+  "impronta": "sha256:dd127f3fbaaa293601f5dfb2d7a6e6c83ecc05291d63c8362f3324cfcce61c9c"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2437-quinquies",
+    "rubrica": "Disposizioni speciali per le societa' con azioni quotate in mercati regolamentati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2437-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se le azioni sono quotate sui mercati regolamentati hanno diritto di recedere i soci che non hanno concorso alla deliberazione che comporta l'esclusione dalla quotazione. 141a -------------- AGGIORNAMENTO (141a) L'avviso di rettifica, in G.U. 04/07/2003, n. 153, nel modificare il D.Lgs. 17 gennaio 2003, n. 6, che ha introdotto il presente articolo, ha disposto che \"alla pag. 53, seconda colonna, all'art. 1 nella parte in cui viene riportato l'art. 2437-quinquies del codice civile, [...] nel primo comma, dove e' scritto: «Se le azioni quotate sui mercati regolamentati ...», leggasi: «Se le azioni quotate in mercati regolamentati ...»\"",
+    "con_marcatori": "Art. 2437-quinquies. (( (Disposizioni speciali per le societa' con azioni quotate in mercati regolamentati). )) (( Se le azioni sono quotate sui mercati regolamentati hanno diritto di recedere i soci che non hanno concorso alla deliberazione che comporta l'esclusione dalla quotazione. )) ((141a)) -------------- AGGIORNAMENTO (141a) L'avviso di rettifica, in G.U. 04/07/2003, n. 153, nel modificare il D.Lgs. 17 gennaio 2003, n. 6, che ha introdotto il presente articolo, ha disposto che \"alla pag. 53, seconda colonna, all'art. 1 nella parte in cui viene riportato l'art. 2437-quinquies del codice civile, [...] nel primo comma, dove e' scritto: «Se le azioni quotate sui mercati regolamentati ...», leggasi: «Se le azioni quotate in mercati regolamentati ...»\"",
+    "caratteri": 641
+  },
+  "note": [],
+  "impronta": "sha256:160f8068aba102d981cfb6415eb39172e7c93da63d7dd20872780351e0874e4c"
+}

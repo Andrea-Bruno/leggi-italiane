@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "822",
+    "rubrica": "Demanio pubblico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art822"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Appartengono allo Stato e fanno parte del demanio pubblico il lido del mare, la spiaggia, le rade e i porti; i fiumi, i torrenti, i laghi e le altre acque definite pubbliche dalle leggi in materia; le opere destinate alla difesa nazionale. Fanno parimenti parte del demanio pubblico, se appartengono allo Stato, le strade, le autostrade e le strade ferrate; gli aerodromi; gli acquedotti; gli immobili riconosciuti d'interesse storico, archeologico e artistico a norma delle leggi in materia; le raccolte dei musei, delle pinacoteche, degli archivi, delle biblioteche; e infine gli altri beni che sono dalla legge assoggettati al regime proprio del demanio pubblico.",
+    "con_marcatori": "Art. 822. (Demanio pubblico). Appartengono allo Stato e fanno parte del demanio pubblico il lido del mare, la spiaggia, le rade e i porti; i fiumi, i torrenti, i laghi e le altre acque definite pubbliche dalle leggi in materia; le opere destinate alla difesa nazionale. Fanno parimenti parte del demanio pubblico, se appartengono allo Stato, le strade, le autostrade e le strade ferrate; gli aerodromi; gli acquedotti; gli immobili riconosciuti d'interesse storico, archeologico e artistico a norma delle leggi in materia; le raccolte dei musei, delle pinacoteche, degli archivi, delle biblioteche; e infine gli altri beni che sono dalla legge assoggettati al regime proprio del demanio pubblico.",
+    "caratteri": 666
+  },
+  "note": [],
+  "impronta": "sha256:7fc8330208f212b0d0b5a9524ba03f0b425f221413dce2985b3148bbcfb69662"
+}

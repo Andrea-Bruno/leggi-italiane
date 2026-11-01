@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "914",
+    "rubrica": "Consorzi per regolare il deflusso delle acque",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art914"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora per esigenze della produzione si debba provvedere a opere di sistemazione degli scoli, di soppressione di ristagni o di raccolta di acque, l'autorita' amministrativa, su richiesta della maggioranza degli interessati o anche d'ufficio, puo' costituire un consorzio tra i proprietari dei fondi che traggono beneficio dalle opere stesse. Si applicano a tale consorzio le disposizioni del secondo e del terzo comma dell'art. 921.",
+    "con_marcatori": "Art. 914. (Consorzi per regolare il deflusso delle acque). Qualora per esigenze della produzione si debba provvedere a opere di sistemazione degli scoli, di soppressione di ristagni o di raccolta di acque, l'autorita' amministrativa, su richiesta della maggioranza degli interessati o anche d'ufficio, puo' costituire un consorzio tra i proprietari dei fondi che traggono beneficio dalle opere stesse. Si applicano a tale consorzio le disposizioni del secondo e del terzo comma dell'art. 921.",
+    "caratteri": 433
+  },
+  "note": [],
+  "impronta": "sha256:836abb926e802e82d2080bfe566683f997068cca94ca6686549c4952d19e4c14"
+}

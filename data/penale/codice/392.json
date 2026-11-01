@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "392",
+    "rubrica": "Esercizio arbitrario delle proprie ragioni con violenza sulle cose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art392"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, al fine di esercitare un preteso diritto, potendo ricorrere al giudice, si fa arbitrariamente ragione da se' medesimo, mediante violenza sulle cose, e' punito, a querela della persona offesa, con la multa fino a lire cinquemila. Agli effetti della legge penale, si ha violenza sulle cose allorche' la cosa viene danneggiata o trasformata, o ne e' mutata la destinazione. Si ha, altresi', violenza sulle cose allorche' un programma informatico viene alterato, modificato o cancellato in tutto o in parte ovvero viene impedito o turbato il funzionamento di un sistema informatico o telematico.",
+    "con_marcatori": "Art. 392. (Esercizio arbitrario delle proprie ragioni con violenza sulle cose) Chiunque, al fine di esercitare un preteso diritto, potendo ricorrere al giudice, si fa arbitrariamente ragione da se' medesimo, mediante violenza sulle cose, e' punito, a querela della persona offesa, con la multa fino a lire cinquemila. Agli effetti della legge penale, si ha violenza sulle cose allorche' la cosa viene danneggiata o trasformata, o ne e' mutata la destinazione. ((Si ha, altresi', violenza sulle cose allorche' un programma informatico viene alterato, modificato o cancellato in tutto o in parte ovvero viene impedito o turbato il funzionamento di un sistema informatico o telematico)).",
+    "caratteri": 601
+  },
+  "note": [],
+  "impronta": "sha256:8abafd6ba8831c51133d906fe07c6da18637f15096701d98283c30d159e63dee"
+}

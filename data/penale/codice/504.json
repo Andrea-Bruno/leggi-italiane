@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "504",
+    "rubrica": "Coazione alla pubblica Autorita' mediante serrata o sciopero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art504"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 98,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Quando alcuno dei fatti preveduti dall'articolo 502 e' commesso con lo scopo di costringere l'Autorita' a dare o ad omettere un provvedimento, ovvero con lo scopo di influire sulle deliberazioni di essa, si applica la pena della reclusione fino a due anni.",
+    "con_marcatori": "Art. 504. (Coazione alla pubblica Autorita' mediante serrata o sciopero) Quando alcuno dei fatti preveduti dall'articolo 502 e' commesso con lo scopo di costringere l'Autorita' a dare o ad omettere un provvedimento, ovvero con lo scopo di influire sulle deliberazioni di essa, si applica la pena della reclusione fino a due anni. ((98))",
+    "caratteri": 256
+  },
+  "note": [
+    {
+      "numero": 98,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 504 cod. penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1983-06-13",
+        "numero": "165"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2-13 giugno 1983, n. 165 (in G.U. 1ª s.s. 15/6/1983, n. 163), ha dichiarato \"l'illegittimita' costituzionale dell'art. 504 cod. penale nella parte in cui punisce lo sciopero il quale ha lo scopo di costringere l'autorita' a dare o ad omettere un provvedimento o lo scopo di influire sulle deliberazioni di essa, a meno che non sia diretto a sovvertire l'ordinamento costituzionale ovvero ad impedire o ostacolare il libero esercizio dei poteri legittimi nei quali si esprime la sovranita' popolare\"."
+    }
+  ],
+  "impronta": "sha256:346b0e96b41339faa0411c4d320bc045a7a35c6f6d09bc92f79983687fe17328"
+}

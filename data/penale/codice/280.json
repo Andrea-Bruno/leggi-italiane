@@ -1,0 +1,143 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "280",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art280"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Attentato per finalita' terroristiche o di eversione. Chiunque, per finalita' di terrorismo o di eversione dell'ordine democratico attenta alla vita od alla incolumita' di una persona, e' punito, nel primo caso, con la reclusione non inferiore ad anni venti e, nel secondo caso, con la reclusione non inferiore ad anni sei. Se dall'attentato alla incolumita' di una persona deriva una lesione gravissima, si applica la pena della reclusione non inferiore ad anni diciotto; se ne deriva una lesione grave, si applica la pena della reclusione non inferiore ad anni dodici. Se i fatti previsti nei commi precedenti sono rivolti contro persone che esercitano funzioni, giudiziarie o penitenziarie ovvero di sicurezza pubblica nell'esercizio o a causa delle loro funzioni, le pene sono aumentate di un terzo. Se dai fatti di cui ai commi precedenti deriva la morte della persona si applicano, nel caso di attentato alla vita, l'ergastolo e, nel caso di attentato alla incolumita', la reclusione di anni trenta. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con le aggravanti di cui al secondo e al quarto comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti. (96a)",
+    "con_marcatori": "Art. 280. Attentato per finalita' terroristiche o di eversione. Chiunque, per finalita' di terrorismo o di eversione dell'ordine democratico attenta alla vita od alla incolumita' di una persona, e' punito, nel primo caso, con la reclusione non inferiore ad anni venti e, nel secondo caso, con la reclusione non inferiore ad anni sei. Se dall'attentato alla incolumita' di una persona deriva una lesione gravissima, si applica la pena della reclusione non inferiore ad anni diciotto; se ne deriva una lesione grave, si applica la pena della reclusione non inferiore ad anni dodici. Se i fatti previsti nei commi precedenti sono rivolti contro persone che esercitano funzioni, giudiziarie o penitenziarie ovvero di sicurezza pubblica nell'esercizio o a causa delle loro funzioni, le pene sono aumentate di un terzo. Se dai fatti di cui ai commi precedenti deriva la morte della persona si applicano, nel caso di attentato alla vita, l'ergastolo e, nel caso di attentato alla incolumita', la reclusione di anni trenta. ((Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con le aggravanti di cui al secondo e al quarto comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti)). (92)(96a)",
+    "caratteri": 1350
+  },
+  "note": [
+    {
+      "numero": 92,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 29 maggio 1982, n. 304",
+          "urn": "urn:nir:stato:legge:1982-05-29;304",
+          "data": "1982-05-29",
+          "numero": "304",
+          "data_gazzetta": "1982-06-02"
+        },
+        {
+          "denominazione": "articoli 241",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "276",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "280",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "283",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "284",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "285",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "286",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "289",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "295 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 1 ottobre 1982, n. 695",
+          "urn": "urn:nir:stato:decretoLegge:1982-10-01;695",
+          "data": "1982-10-01",
+          "numero": "695",
+          "data_gazzetta": "1982-10-02"
+        },
+        {
+          "denominazione": "L. 29 novembre 1982, n. 882",
+          "urn": "urn:nir:stato:legge:1982-11-29;882",
+          "data": "1982-11-29",
+          "numero": "882",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 12 della L. 29 maggio 1982, n. 304",
+          "urn": "urn:nir:stato:legge:1982-05-29;304",
+          "data": "1982-05-29",
+          "numero": "304",
+          "data_gazzetta": "1982-06-02"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 29 maggio 1982, n. 304, ha disposto (con l'art. 5, comma 2) che \"Se il colpevole di uno dei delitti previsti dagli articoli 241, 276, 280, 283, 284, 285, 286, 289 e 295 del codice penale coopera efficacemente ad impedire l'evento cui gli atti da lui commessi sono diretti soggiace soltanto alla pena per gli atti compiuti, qualora questi costituiscano per se' un reato diverso\". Ha inoltre disposto (con l'art. 12, comma 1) che la presente modifica si applica solo ai reati che siano stati commessi o la cui permanenza sia iniziata entro il 31 gennaio 1982, purche' i comportamenti cui e' condizionata la loro applicazione vengano tenuti entro centoventi giorni dall'entrata in vigore della presente legge. ------------ AGGIORNAMENTO (96a) Il D.L. 1 ottobre 1982, n. 695, convertito senza modificazioni dalla L. 29 novembre 1982, n. 882, nel modificare l'art. 12 della L. 29 maggio 1982, n. 304, ha conseguentemente disposto (con l'art. 1) che il termine di centoventi giorni previsto nel suindicato articolo, e' differito di ulteriori centoventi giorni."
+    }
+  ],
+  "impronta": "sha256:3da5a7308355985465b0f5722f1698c126e7d92386b7b8ea15010c073787fb5e"
+}

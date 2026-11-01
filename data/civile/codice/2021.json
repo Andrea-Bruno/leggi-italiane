@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2021",
+    "rubrica": "Legittimazione del possessore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2021"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il possessore di un titolo nominativo e' legittimato all'esercizio del diritto in esso menzionato per effetto dell'intestazione a suo favore contenuta nel titolo e nel registro dell'emittente.",
+    "con_marcatori": "Art. 2021. (Legittimazione del possessore). Il possessore di un titolo nominativo e' legittimato all'esercizio del diritto in esso menzionato per effetto dell'intestazione a suo favore contenuta nel titolo e nel registro dell'emittente.",
+    "caratteri": 192
+  },
+  "note": [],
+  "impronta": "sha256:7413c78ccf420e4c4f1459064ec2eeda9b24c367888ba2fb93ca2fdaaf192a46"
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "124",
+    "rubrica": "Vincolo di precedente matrimonio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art124"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il coniuge puo' in qualunque tempo impugnare il matrimonio o l'unione civile tra persone dello stesso sesso dell'altro coniuge; se si oppone la nullita' del primo matrimonio, tale questione deve essere preventivamente giudicata.",
+    "con_marcatori": "Art. 124. (Vincolo di precedente matrimonio). Il coniuge puo' in qualunque tempo impugnare il matrimonio ((o l'unione civile tra persone dello stesso sesso)) dell'altro coniuge; se si oppone la nullita' del primo matrimonio, tale questione deve essere preventivamente giudicata. ((258))",
+    "caratteri": 228
+  },
+  "note": [
+    {
+      "numero": 258,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 20 maggio 2016, n. 76",
+          "urn": "urn:nir:stato:legge:2016-05-20;76",
+          "data": "2016-05-20",
+          "numero": "76",
+          "data_gazzetta": "2016-05-21"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 20 maggio 2016, n. 76 ha disposto (con l'art. 1, comma 35) che la presente modifica acquista efficacia dal 5 giugno 2016."
+    }
+  ],
+  "impronta": "sha256:1101e8278c06d49cfd455b511b6de7e299193e3735e54518dd36197552184a36"
+}

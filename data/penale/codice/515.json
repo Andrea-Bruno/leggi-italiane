@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "515",
+    "rubrica": "Frode nell'esercizio del commercio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art515"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, nell'esercizio di una attivita' commerciale, ovvero in uno spaccio aperto al pubblico, consegna all'acquirente una cosa mobile per un'altra, ovvero una cosa mobile, per origine, provenienza, qualita' o quantita', diversa da quella dichiarata o pattuita, e' punito, qualora il fatto non costituisca un piu' grave delitto, con la reclusione fino a due anni o con la multa fino a lire ventimila. Se si tratta di oggetti preziosi, la pena e' della reclusione fino a tre anni o della multa non inferiore a lire mille.",
+    "con_marcatori": "Art. 515. (Frode nell'esercizio del commercio) Chiunque, nell'esercizio di una attivita' commerciale, ovvero in uno spaccio aperto al pubblico, consegna all'acquirente una cosa mobile per un'altra, ovvero una cosa mobile, per origine, provenienza, qualita' o quantita', diversa da quella dichiarata o pattuita, e' punito, qualora il fatto non costituisca un piu' grave delitto, con la reclusione fino a due anni o con la multa fino a lire ventimila. Se si tratta di oggetti preziosi, la pena e' della reclusione fino a tre anni o della multa non inferiore a lire mille.",
+    "caratteri": 522
+  },
+  "note": [],
+  "impronta": "sha256:8f6b7f0d4e33e9389a64d16e3dfac22e3e41699e1ebddd6f588ae6657ec3ef3c"
+}

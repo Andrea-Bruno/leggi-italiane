@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2014",
+    "rubrica": "Girata a titolo di pegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2014"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se alla girata e' apposta una clausola che importa costituzione di pegno, il giratario puo' esercitare tutti i diritti inerenti al titolo, ma la girata da lui fatta vale solo come girata per procura. L'emittente non puo' opporre al giratario in garanzia le eccezioni fondate sui propri rapporti personali col girante, a meno che il giratario, ricevendo il titolo, abbia agito intenzionalmente a danno dell'emittente.",
+    "con_marcatori": "Art. 2014 (Girata a titolo di pegno). Se alla girata e' apposta una clausola che importa costituzione di pegno, il giratario puo' esercitare tutti i diritti inerenti al titolo, ma la girata da lui fatta vale solo come girata per procura. L'emittente non puo' opporre al giratario in garanzia le eccezioni fondate sui propri rapporti personali col girante, a meno che il giratario, ricevendo il titolo, abbia agito intenzionalmente a danno dell'emittente.",
+    "caratteri": 416
+  },
+  "note": [],
+  "impronta": "sha256:1d2c7b7664d3658ecff1a4e8885e41adf69476ad238d0ddcf0afb8e16ade1dd2"
+}

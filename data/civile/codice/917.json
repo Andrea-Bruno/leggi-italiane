@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "917",
+    "rubrica": "Spese per la riparazione, costruzione o rimozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art917"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Tutti i proprietari, ai quali torna utile che le sponde e gli argini siano conservati o costruiti e gli ingombri rimossi, devono contribuire nella spesa in proporzione del vantaggio che ciascuno ne ritrae. Tuttavia, se la distruzione degli argini, la variazione delle acque o l'ingombro nei loro corsi deriva da colpa di alcuno dei proprietari, le spese di conservazione, di costruzione o di riparazione gravano esclusivamente su di lui, salvo in igni caso il risarcimento dei danni.",
+    "con_marcatori": "Art. 917. (Spese per la riparazione, costruzione o rimozione). Tutti i proprietari, ai quali torna utile che le sponde e gli argini siano conservati o costruiti e gli ingombri rimossi, devono contribuire nella spesa in proporzione del vantaggio che ciascuno ne ritrae. Tuttavia, se la distruzione degli argini, la variazione delle acque o l'ingombro nei loro corsi deriva da colpa di alcuno dei proprietari, le spese di conservazione, di costruzione o di riparazione gravano esclusivamente su di lui, salvo in igni caso il risarcimento dei danni.",
+    "caratteri": 483
+  },
+  "note": [],
+  "impronta": "sha256:ff349a5f365193d7ee56da85e1c0143fe7d3763938d68a3a37a9ec78286b13c3"
+}

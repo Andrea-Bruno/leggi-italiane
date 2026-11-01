@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "802",
+    "rubrica": "Termini e legittimazione ad agire",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art802"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La domanda di revocazione per causa d'ingratitudine deve essere proposta dal donante o dai suoi eredi, contro il donatario o i suoi eredi, entro l'anno dal giorno in cui il donante e' venuto a conoscenza del fatto che consente la revocazione. Se il donatario si e' reso responsabile di omicidio volontario in persona del donante o gli ha dolosamente impedito di revocare la donazione, il termine per proporre l'azione e' di un anno dal giorno in cui gli eredi hanno avuto notizia della causa di revocazione.",
+    "con_marcatori": "Art. 802. (Termini e legittimazione ad agire). La domanda di revocazione per causa d'ingratitudine deve essere proposta dal donante o dai suoi eredi, contro il donatario o i suoi eredi, entro l'anno dal giorno in cui il donante e' venuto a conoscenza del fatto che consente la revocazione. Se il donatario si e' reso responsabile di omicidio volontario in persona del donante o gli ha dolosamente impedito di revocare la donazione, il termine per proporre l'azione e' di un anno dal giorno in cui gli eredi hanno avuto notizia della causa di revocazione.",
+    "caratteri": 507
+  },
+  "note": [],
+  "impronta": "sha256:0b82366f2fb8ddbaf71f7ab21ec53d3c390c23b50e37cd64f41fb8ff8d7a4508"
+}

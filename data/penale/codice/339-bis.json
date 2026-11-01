@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "339-bis",
+    "rubrica": "Circostanza aggravante. Atti intimidatori di natura ritorsiva ai danni di un componente di un Corpo politico, amministrativo o giudiziario",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art339-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, le pene stabilite per i delitti previsti dagli articoli 582, 610, 612 e 635 sono aumentate da un terzo alla meta' se la condotta ha natura ritorsiva ed e' commessa ai danni di un componente di un Corpo politico, amministrativo o giudiziario a causa del compimento di un atto nell'adempimento del mandato, delle funzioni o del servizio.",
+    "con_marcatori": "Art. 339-bis. (( (Circostanza aggravante. Atti intimidatori di natura ritorsiva ai danni di un componente di un Corpo politico, amministrativo o giudiziario).)) ((Salvo che il fatto costituisca piu' grave reato, le pene stabilite per i delitti previsti dagli articoli 582, 610, 612 e 635 sono aumentate da un terzo alla meta' se la condotta ha natura ritorsiva ed e' commessa ai danni di un componente di un Corpo politico, amministrativo o giudiziario a causa del compimento di un atto nell'adempimento del mandato, delle funzioni o del servizio)).",
+    "caratteri": 384
+  },
+  "note": [],
+  "impronta": "sha256:938c9e6efa76628ea199cd52e9367a56329c0b3d431e75d379572158e2062046"
+}

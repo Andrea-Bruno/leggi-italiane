@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "374-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art374-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "(False dichiarazioni o attestazioni in atti destinati all'autorita' giudiziaria o alla Corte penale internazionale ). Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da uno a cinque anni chiunque dichiara o attesta falsamente in certificati o atti destinati a essere prodotti all'autorita' giudiziaria o alla Corte penale internazionale condizioni, qualita' personali, trattamenti terapeutici, rapporti di lavoro in essere o da instaurare, relativi all'imputato, al condannato o alla persona sottoposta a procedimento di prevenzione. Si applica la pena della reclusione da due a sei anni se il fatto e' commesso da un pubblico ufficiale, da un incaricato di un pubblico servizio o da un esercente la professione sanitaria.",
+    "con_marcatori": "Art. 374-bis. (False dichiarazioni o attestazioni in atti destinati all'autorita' giudiziaria ((o alla Corte penale internazionale)) ). Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da uno a cinque anni chiunque dichiara o attesta falsamente in certificati o atti destinati a essere prodotti all'autorita' giudiziaria ((o alla Corte penale internazionale)) condizioni, qualita' personali, trattamenti terapeutici, rapporti di lavoro in essere o da instaurare, relativi all'imputato, al condannato o alla persona sottoposta a procedimento di prevenzione. Si applica la pena della reclusione da due a sei anni se il fatto e' commesso da un pubblico ufficiale, da un incaricato di un pubblico servizio o da un esercente la professione sanitaria.",
+    "caratteri": 751
+  },
+  "note": [],
+  "impronta": "sha256:c424452a818886e913fb61a3f70b2917cd362e2d91e315a51e1a137987359849"
+}

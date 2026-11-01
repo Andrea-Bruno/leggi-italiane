@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2645-ter",
+    "rubrica": "Trascrizione di atti di destinazione per la realizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche amministrazioni, o ad altri enti o persone fisiche",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2645-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti in forma pubblica con cui beni immobili o beni mobili iscritti in pubblici registri sono destinati, per un periodo non superiore a novanta anni o per la durata della vita della persona fisica beneficiaria, alla realizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche amministrazioni, o ad altri enti o persone fisiche ai sensi dell'articolo 1322, secondo comma, possono essere trascritti al fine di rendere opponibile ai terzi il vincolo di destinazione; per la realizzazione di tali interessi puo' agire, oltre al conferente, qualsiasi interessato anche durante la vita del conferente stesso. I beni conferiti e i loro frutti possono essere impiegati solo per la realizzazione del fine di destinazione e possono costituire oggetto di esecuzione, salvo quanto previsto dall'articolo 2915, primo comma, solo per debiti contratti per tale scopo.",
+    "con_marcatori": "Art. 2645-ter. (( (Trascrizione di atti di destinazione per la realizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche amministrazioni, o ad altri enti o persone fisiche). )) ((Gli atti in forma pubblica con cui beni immobili o beni mobili iscritti in pubblici registri sono destinati, per un periodo non superiore a novanta anni o per la durata della vita della persona fisica beneficiaria, alla realizzazione di interessi meritevoli di tutela riferibili a persone con disabilita', a pubbliche amministrazioni, o ad altri enti o persone fisiche ai sensi dell'articolo 1322, secondo comma, possono essere trascritti al fine di rendere opponibile ai terzi il vincolo di destinazione; per la realizzazione di tali interessi puo' agire, oltre al conferente, qualsiasi interessato anche durante la vita del conferente stesso. I beni conferiti e i loro frutti possono essere impiegati solo per la realizzazione del fine di destinazione e possono costituire oggetto di esecuzione, salvo quanto previsto dall'articolo 2915, primo comma, solo per debiti contratti per tale scopo.))",
+    "caratteri": 894
+  },
+  "note": [],
+  "impronta": "sha256:04718f15bb316e341e0f9c2b3e8b9dbe1d4b582dba4bedce97c9f0b838eff21c"
+}

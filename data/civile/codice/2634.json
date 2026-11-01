@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2634",
+    "rubrica": "Infedelta' patrimoniale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2634"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori, i direttori generali e i liquidatori, che, avendo un interesse in conflitto con quello della societa', al fine di procurare a se' o ad altri un ingiusto profitto o altro vantaggio, compiono o concorrono a deliberare atti di disposizione dei beni sociali, cagionando intenzionalmente alla societa' un danno patrimoniale, sono puniti con la reclusione da sei mesi a tre anni. La stessa pena si applica se il fatto e' commesso in relazione a beni posseduti o amministrati dalla societa' per conto di terzi, cagionando a questi ultimi un danno patrimoniale. In ogni caso non e' ingiusto il profitto della societa' collegata o del gruppo, se compensato da vantaggi, conseguiti o fondatamente prevedibili, derivanti dal collegamento o dall'appartenenza al gruppo. Per i delitti previsti dal primo e secondo comma si procede a querela della persona offesa.",
+    "con_marcatori": "Art. 2634. (( (Infedelta' patrimoniale).)) ((Gli amministratori, i direttori generali e i liquidatori, che, avendo un interesse in conflitto con quello della societa', al fine di procurare a se' o ad altri un ingiusto profitto o altro vantaggio, compiono o concorrono a deliberare atti di disposizione dei beni sociali, cagionando intenzionalmente alla societa' un danno patrimoniale, sono puniti con la reclusione da sei mesi a tre anni. La stessa pena si applica se il fatto e' commesso in relazione a beni posseduti o amministrati dalla societa' per conto di terzi, cagionando a questi ultimi un danno patrimoniale. In ogni caso non e' ingiusto il profitto della societa' collegata o del gruppo, se compensato da vantaggi, conseguiti o fondatamente prevedibili, derivanti dal collegamento o dall'appartenenza al gruppo. Per i delitti previsti dal primo e secondo comma si procede a querela della persona offesa.))",
+    "caratteri": 869
+  },
+  "note": [],
+  "impronta": "sha256:dfcdaa2ed30d543ed2226c448a6e93d586c6d3fb75c89b4edc2eb03587c75b0c"
+}

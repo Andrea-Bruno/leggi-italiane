@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1127",
+    "rubrica": "Costruzione sopra l'ultimo piano dell'edificio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1127"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario dell'ultimo piano dell'edificio puo' elevare nuovi piani o nuove fabbriche, salvo che risulti altrimenti dal titolo. La stessa facolta' spetta a chi e' proprietario esclusivo del lastrico solare. La sopraelevazione non e' ammessa se le condizioni statiche dell'edificio non la consentono. I condomini possono altresi' opporsi alla sopraelevazione, se questa pregiudica l'aspetto architettonico dell'edificio ovvero diminuisce notevolmente l'aria o la luce dei piani sottostanti. Chi fa la sopraelevazione deve corrispondere agli altri condomini un'indennita' pari al valore attuale dell'area da occuparsi con la nuova fabbrica, diviso per il numero dei piani, ivi compreso quello da edificare, e detratto l'importo della quota a lui spettante. Egli e' inoltre tenuto a ricostruire il lastrico solare di cui tutti o parte dei condomini avevano il diritto di usare.",
+    "con_marcatori": "Art. 1127. (Costruzione sopra l'ultimo piano dell'edificio). Il proprietario dell'ultimo piano dell'edificio puo' elevare nuovi piani o nuove fabbriche, salvo che risulti altrimenti dal titolo. La stessa facolta' spetta a chi e' proprietario esclusivo del lastrico solare. La sopraelevazione non e' ammessa se le condizioni statiche dell'edificio non la consentono. I condomini possono altresi' opporsi alla sopraelevazione, se questa pregiudica l'aspetto architettonico dell'edificio ovvero diminuisce notevolmente l'aria o la luce dei piani sottostanti. Chi fa la sopraelevazione deve corrispondere agli altri condomini un'indennita' pari al valore attuale dell'area da occuparsi con la nuova fabbrica, diviso per il numero dei piani, ivi compreso quello da edificare, e detratto l'importo della quota a lui spettante. Egli e' inoltre tenuto a ricostruire il lastrico solare di cui tutti o parte dei condomini avevano il diritto di usare.",
+    "caratteri": 879
+  },
+  "note": [],
+  "impronta": "sha256:37ea0d0258cb34e17b93f7ebdbb1d610c8bd6b4c8ed42dfc50f0e01bf30e0959"
+}

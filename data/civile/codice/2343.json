@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2343",
+    "rubrica": "Stima dei conferimenti di beni in natura e di crediti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2343"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi conferisce beni in natura o crediti deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa', contenente la descrizione dei beni o dei crediti conferiti, l'attestazione che il loro valore e' almeno pari a quello ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale soprapprezzo e i criteri di valutazione seguiti. La relazione deve essere allegata all'atto costitutivo. L'esperto risponde dei danni causati alla societa', ai soci e ai terzi. Si applicano le disposizioni dell'articolo 64 del codice di procedura civile. Gli amministratori devono, nel termine di centottanta giorni dalla iscrizione della societa', controllare le valutazioni contenute nella relazione indicata nel primo comma e, se sussistano fondati motivi, devono procedere alla revisione della stima. Fino a quando le valutazioni non sono state controllate, le azioni corrispondenti ai conferimenti sono inalienabili e devono restare depositate presso la societa'. Se risulta che il valore dei beni o dei crediti conferiti era inferiore di oltre un quinto a quello per cui avvenne il conferimento, la societa' deve proporzionalmente ridurre il capitale sociale, annullando le azioni che risultano scoperte. Tuttavia il socio conferente puo' versare la differenza in danaro o recedere dalla societa'; il socio recedente ha diritto alla restituzione del conferimento, qualora sia possibile in tutto o in parte in natura. L'atto costitutivo puo' prevedere, salvo in ogni caso quanto disposto dal quinto comma dell'articolo 2346, che per effetto dell'annullamento delle azioni disposto nel presente comma si determini una loro diversa ripartizione tra i soci.",
+    "con_marcatori": "Art. 2343. (( (Stima dei conferimenti di beni in natura e di crediti). )) ((Chi conferisce beni in natura o crediti deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa', contenente la descrizione dei beni o dei crediti conferiti, l'attestazione che il loro valore e' almeno pari a quello ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale soprapprezzo e i criteri di valutazione seguiti. La relazione deve essere allegata all'atto costitutivo. L'esperto risponde dei danni causati alla societa', ai soci e ai terzi. Si applicano le disposizioni dell'articolo 64 del codice di procedura civile. Gli amministratori devono, nel termine di centottanta giorni dalla iscrizione della societa', controllare le valutazioni contenute nella relazione indicata nel primo comma e, se sussistano fondati motivi, devono procedere alla revisione della stima. Fino a quando le valutazioni non sono state controllate, le azioni corrispondenti ai conferimenti sono inalienabili e devono restare depositate presso la societa'. Se risulta che il valore dei beni o dei crediti conferiti era inferiore di oltre un quinto a quello per cui avvenne il conferimento, la societa' deve proporzionalmente ridurre il capitale sociale, annullando le azioni che risultano scoperte. Tuttavia il socio conferente puo' versare la differenza in danaro o recedere dalla societa'; il socio recedente ha diritto alla restituzione del conferimento, qualora sia possibile in tutto o in parte in natura. L'atto costitutivo puo' prevedere, salvo in ogni caso quanto disposto dal quinto comma dell'articolo 2346, che per effetto dell'annullamento delle azioni disposto nel presente comma si determini una loro diversa ripartizione tra i soci.))",
+    "caratteri": 1719
+  },
+  "note": [],
+  "impronta": "sha256:e7aa0a606375187b97935a98ede10d2b997455d190db6aa9399a8a5d8771a69d"
+}

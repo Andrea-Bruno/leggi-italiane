@@ -1,0 +1,132 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2468",
+    "rubrica": "Quote di partecipazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2468"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le partecipazioni dei soci non possono essere rappresentate da azioni ne' costituire oggetto di offerta al pubblico di prodotti finanziari. Salvo quanto disposto dal terzo comma del presente articolo, i diritti sociali spettano ai soci in misura proporzionale alla partecipazione da ciascuno posseduta. Se l'atto costitutivo non prevede diversamente, le partecipazioni dei soci sono determinate in misura proporzionale al conferimento. Resta salva la possibilita' che l'atto costitutivo preveda l'attribuzione a singoli soci di particolari diritti riguardanti l'amministrazione della societa' o la distribuzione degli utili. Salvo diversa disposizione dell'atto costitutivo e salvo in ogni caso quanto previsto dal primo comma dell'articolo 2473, i diritti previsti dal precedente comma possono essere modificati solo con il consenso di tutti i soci. Nel caso di comproprieta' di una partecipazione, i diritti dei comproprietari devono essere esercitati da un rappresentante comune nominato secondo le modalita' previste dagli articoli 1105 e 1106. PERIODO SOPPRESSO DAL D.LGS. 28 DICEMBRE 2004, N. 310.",
+    "con_marcatori": "Art. 2468. (Quote di partecipazione). Le partecipazioni dei soci non possono essere rappresentate da azioni ne' costituire oggetto di offerta al pubblico di prodotti finanziari. (275) ((324)) Salvo quanto disposto dal terzo comma del presente articolo, i diritti sociali spettano ai soci in misura proporzionale alla partecipazione da ciascuno posseduta. Se l'atto costitutivo non prevede diversamente, le partecipazioni dei soci sono determinate in misura proporzionale al conferimento. Resta salva la possibilita' che l'atto costitutivo preveda l'attribuzione a singoli soci di particolari diritti riguardanti l'amministrazione della societa' o la distribuzione degli utili. Salvo diversa disposizione dell'atto costitutivo e salvo in ogni caso quanto previsto dal primo comma dell'articolo 2473, i diritti previsti dal precedente comma possono essere modificati solo con il consenso di tutti i soci. Nel caso di comproprieta' di una partecipazione, i diritti dei comproprietari devono essere esercitati da un rappresentante comune nominato secondo le modalita' previste dagli articoli 1105 e 1106. PERIODO SOPPRESSO DAL D.LGS. 28 DICEMBRE 2004, N. 310.",
+    "caratteri": 1103
+  },
+  "note": [
+    {
+      "numero": 275,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 febbraio 1998, n. 58",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-24;58",
+          "data": "1998-02-24",
+          "numero": "58",
+          "data_gazzetta": "1998-03-26"
+        },
+        {
+          "denominazione": "D.Lgs. 3 agosto 2017, n. 129",
+          "urn": "urn:nir:stato:decretoLegislativo:2017-08-03;129",
+          "data": "2017-08-03",
+          "numero": "129",
+          "data_gazzetta": "2017-08-25"
+        },
+        {
+          "denominazione": "articolo 2468, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 100-ter, comma 1-bis del D.Lgs. 24 febbraio 1998, n. 58",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-24;58",
+          "data": "1998-02-24",
+          "numero": "58",
+          "data_gazzetta": "1998-03-26"
+        },
+        {
+          "denominazione": "decreto legislativo 24 febbraio 1998, n. 58",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-24;58",
+          "data": "1998-02-24",
+          "numero": "58",
+          "data_gazzetta": "1998-03-26"
+        },
+        {
+          "denominazione": "articolo 93 della direttiva 2014/65/UE",
+          "urn": null,
+          "data": null,
+          "numero": null,
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 febbraio 1998, n. 58, come modificato dal D.Lgs. 3 agosto 2017, n. 129, ha disposto (con l'art. 100-ter, comma 1-bis) che \"In deroga a quanto previsto dall'articolo 2468, primo comma, del codice civile, le quote di partecipazione in piccole e medie imprese costituite in forma di societa' a responsabilita' limitata possono costituire oggetto di offerta al pubblico di prodotti finanziari, anche attraverso i portali per la raccolta di capitali, nei limiti previsti dal presente decreto\". Il D.Lgs. 3 agosto 2017, n. 129, nel modificare l'art. 100-ter, comma 1-bis del D.Lgs. 24 febbraio 1998, n. 58, ha conseguentemente disposto (con l'art. 10, comma 2) che \"Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie\"."
+    },
+    {
+      "numero": 324,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 febbraio 1998, n. 58",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-24;58",
+          "data": "1998-02-24",
+          "numero": "58",
+          "data_gazzetta": "1998-03-26"
+        },
+        {
+          "denominazione": "articolo 2468, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.Lgs. 10 marzo 2023, n. 30",
+          "urn": "urn:nir:stato:decretoLegislativo:2023-03-10;30",
+          "data": "2023-03-10",
+          "numero": "30",
+          "data_gazzetta": "2023-03-24"
+        },
+        {
+          "denominazione": "regolamento (UE) 2020/1503",
+          "urn": null,
+          "data": null,
+          "numero": null,
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 febbraio 1998, n. 58, come modificato dal D.Lgs. 10 marzo 2023, n. 30, ha disposto (con l'art. 100-ter, comma 1) che \"In deroga a quanto previsto dall'articolo 2468, primo comma, del codice civile, le quote di partecipazione in societa' a responsabilita' limitata possono costituire oggetto di offerta al pubblico di prodotti finanziari, anche attraverso le piattaforme di crowdfunding, nei limiti previsti dal regolamento (UE) 2020/1503\"."
+    }
+  ],
+  "impronta": "sha256:03c8c6f6d47966dd6b262d04dadcb0a6f5edd9c5c1bca7000bc23563d72b35a4"
+}

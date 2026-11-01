@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "73",
+    "rubrica": "Estinzione dei diritti spettanti alla persona di cui e' stata dichiarata la morte presunta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art73"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la persona di cui e stata dichiarata la morte presunta ritorna o ne e' provata l'esistenza al momento dell'apertura della successione, essa o i suoi eredi o aventi causa possono esercitare la petizione di eredita' e far valere ogni altro diritto, ma non possono recuperare i beni se non nello stato in cui si trovano, e non possono ripetere che il prezzo di quelli alienati, quando e' ancora dovuto, o i beni nei quali esso e' stato investito, salvi gli effetti della prescrizione o dell'usucapione. Si applica la disposizione del secondo comma dell'art. 71.",
+    "con_marcatori": "Art. 73. (Estinzione dei diritti spettanti alla persona di cui e' stata dichiarata la morte presunta). Se la persona di cui e stata dichiarata la morte presunta ritorna o ne e' provata l'esistenza al momento dell'apertura della successione, essa o i suoi eredi o aventi causa possono esercitare la petizione di eredita' e far valere ogni altro diritto, ma non possono recuperare i beni se non nello stato in cui si trovano, e non possono ripetere che il prezzo di quelli alienati, quando e' ancora dovuto, o i beni nei quali esso e' stato investito, salvi gli effetti della prescrizione o dell'usucapione. Si applica la disposizione del secondo comma dell'art. 71.",
+    "caratteri": 561
+  },
+  "note": [],
+  "impronta": "sha256:fb240df0785dcac9b5fed6475041fc54fe2b017c0f29e9e43dd7ea870855ae0a"
+}

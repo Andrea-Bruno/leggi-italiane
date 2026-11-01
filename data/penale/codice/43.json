@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "43",
+    "rubrica": "Elemento psicologico del reato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art43"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il delitto: e' doloso, o secondo l'intenzione, quando l'evento dannoso o pericoloso, che e' il risultato dell'azione od omissione e da cui la legge fa dipendere l'esistenza del delitto, e' dall'agente preveduto e voluto come conseguenza della propria azione od omissione; e' preterintenzionale, o oltre l'intenzione, quando dall'azione od omissione deriva un evento dannoso o pericoloso piu' grave di quello voluto dall'agente; e' colposo, o contro l'intenzione, quando l'evento, anche se preveduto, non e' voluto dall'agente e si verifica a causa di negligenza o imprudenza o imperizia, ovvero per inosservanza di leggi, regolamenti, ordini o discipline. La distinzione tra reato doloso e reato colposo, stabilita da questo articolo per i delitti, si applica altresi' alle contravvenzioni, ogni qualvolta per queste la legge penale faccia dipendere da tale distinzione un qualsiasi effetto giuridico.",
+    "con_marcatori": "Art. 43. (Elemento psicologico del reato) Il delitto: e' doloso, o secondo l'intenzione, quando l'evento dannoso o pericoloso, che e' il risultato dell'azione od omissione e da cui la legge fa dipendere l'esistenza del delitto, e' dall'agente preveduto e voluto come conseguenza della propria azione od omissione; e' preterintenzionale, o oltre l'intenzione, quando dall'azione od omissione deriva un evento dannoso o pericoloso piu' grave di quello voluto dall'agente; e' colposo, o contro l'intenzione, quando l'evento, anche se preveduto, non e' voluto dall'agente e si verifica a causa di negligenza o imprudenza o imperizia, ovvero per inosservanza di leggi, regolamenti, ordini o discipline. La distinzione tra reato doloso e reato colposo, stabilita da questo articolo per i delitti, si applica altresi' alle contravvenzioni, ogni qualvolta per queste la legge penale faccia dipendere da tale distinzione un qualsiasi effetto giuridico.",
+    "caratteri": 901
+  },
+  "note": [],
+  "impronta": "sha256:a23c395cc67bf86ce5905506031acb358ee4948caae454787b11922fd3cc11f1"
+}

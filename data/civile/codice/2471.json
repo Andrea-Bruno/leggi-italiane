@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2471",
+    "rubrica": "Espropriazione della partecipazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2471"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La partecipazione puo' formare oggetto di espropriazione. Il pignoramento si esegue mediante notificazione al debitore e alla societa' e successiva iscrizione nel registro delle imprese. PERIODO SOPPRESSO DAL D.L. 29 NOVEMBRE 2008, N. 185, CONVERTIO CON MODIFICAZIONI, DALLA L. 28 GENNAIO 2009, N. 2. L'ordinanza del giudice che dispone la vendita della partecipazione deve essere notificata alla societa' a cura del creditore. Se la partecipazione non e' liberamente trasferibile e il creditore, il debitore e la societa' non si accordano sulla vendita della quota stessa, la vendita ha luogo all'incanto; ma la vendita e' priva di effetto se, entro dieci giorni dall'aggiudicazione, la societa' presenta un altro acquirente che offra lo stesso prezzo. Le disposizioni del comma precedente si applicano anche in caso di fallimento di un socio.",
+    "con_marcatori": "Art. 2471. (Espropriazione della partecipazione). La partecipazione puo' formare oggetto di espropriazione. Il pignoramento si esegue mediante notificazione al debitore e alla societa' e successiva iscrizione nel registro delle imprese. ((PERIODO SOPPRESSO DAL D.L. 29 NOVEMBRE 2008, N. 185, CONVERTIO CON MODIFICAZIONI, DALLA L. 28 GENNAIO 2009, N. 2)). L'ordinanza del giudice che dispone la vendita della partecipazione deve essere notificata alla societa' a cura del creditore. Se la partecipazione non e' liberamente trasferibile e il creditore, il debitore e la societa' non si accordano sulla vendita della quota stessa, la vendita ha luogo all'incanto; ma la vendita e' priva di effetto se, entro dieci giorni dall'aggiudicazione, la societa' presenta un altro acquirente che offra lo stesso prezzo. Le disposizioni del comma precedente si applicano anche in caso di fallimento di un socio.",
+    "caratteri": 844
+  },
+  "note": [],
+  "impronta": "sha256:26ecd070a18f42cffcbed547eea05ead12997c9c7243a69b823996c4bcb2159e"
+}

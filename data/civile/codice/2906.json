@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2906",
+    "rubrica": "Effetti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2906"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non hanno effetto in pregiudizio del creditore sequestrante le alienazioni e gli altri atti che hanno per oggetto la cosa sequestrata, in conformita' delle regole stabilite per il pignoramento. Non ha parimenti effetto in pregiudizio del creditore opponente il pagamento eseguito dal debitore, qualora l'opposizione sia stata proposta nei casi e con le forme stabilite dalla legge.",
+    "con_marcatori": "Art. 2906. (Effetti). Non hanno effetto in pregiudizio del creditore sequestrante le alienazioni e gli altri atti che hanno per oggetto la cosa sequestrata, in conformita' delle regole stabilite per il pignoramento. Non ha parimenti effetto in pregiudizio del creditore opponente il pagamento eseguito dal debitore, qualora l'opposizione sia stata proposta nei casi e con le forme stabilite dalla legge.",
+    "caratteri": 381
+  },
+  "note": [],
+  "impronta": "sha256:c2dc6e5bc685caea5e74778ddcb09a72459b54819919e7e08db40dc055a28471"
+}

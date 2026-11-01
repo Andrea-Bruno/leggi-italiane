@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1457",
+    "rubrica": "Termine essenziale per una delle parti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1457"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il termine fissato per la prestazione di una delle parti deve considerarsi essenziale nell'interesse dell'altra, questa, salvo patto o uso contrario, se vuole esigerne l'esecuzione nonostante la scadenza del termine, deve darne notizia all'altra parte entro tre giorni. In mancanza, il contratto s'intende risoluto di diritto anche se non e' stata espressamente pattuita la risoluzione.",
+    "con_marcatori": "Art. 1457. (Termine essenziale per una delle parti). Se il termine fissato per la prestazione di una delle parti deve considerarsi essenziale nell'interesse dell'altra, questa, salvo patto o uso contrario, se vuole esigerne l'esecuzione nonostante la scadenza del termine, deve darne notizia all'altra parte entro tre giorni. In mancanza, il contratto s'intende risoluto di diritto anche se non e' stata espressamente pattuita la risoluzione.",
+    "caratteri": 389
+  },
+  "note": [],
+  "impronta": "sha256:7d067180fd9d8af41f69b31f08bc82849b908e5619be4ec664798f235248e206"
+}

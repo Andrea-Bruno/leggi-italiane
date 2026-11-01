@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1242",
+    "rubrica": "Effetti della compensazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1242"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La compensazione estingue i due debiti dal giorno della loro coesistenza. Il giudice non puo' rilevarla d'ufficio. La prescrizione non impedisce la compensazione, se non era compiuta quando si e' verificata la coesistenza dei due debiti.",
+    "con_marcatori": "Art. 1242. (Effetti della compensazione). La compensazione estingue i due debiti dal giorno della loro coesistenza. Il giudice non puo' rilevarla d'ufficio. La prescrizione non impedisce la compensazione, se non era compiuta quando si e' verificata la coesistenza dei due debiti.",
+    "caratteri": 237
+  },
+  "note": [],
+  "impronta": "sha256:82e0a4463209199d7199cc94cc249c63750844a646a9462575c6a286d67e7edb"
+}

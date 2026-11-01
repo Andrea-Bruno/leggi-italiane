@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1517",
+    "rubrica": "Risoluzione di diritto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1517"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La risoluzione ha luogo di diritto a favore del contraente che, prima della scadenza del termine stabilito, abbia offerto all'altro, nelle forme di uso, la consegna della cosa o il pagamento del prezzo, se l'altra parte non adempie la propria obbligazione. La risoluzione di diritto ha luogo pure a favore del venditore, se, alla scadenza del termine stabilito per la consegna, il compratore, la cui obbligazione di pagare il prezzo non sia scaduta, non si presenta per ricevere la cosa preventivamente offerta, ovvero non l'accetta. Il contraente che intende valersi della risoluzione disposta dal presente articolo deve darne comunicazione all'altra parte entro otto giorni dalla scadenza del termine; in mancanza di tale comunicazione, si osservano le disposizioni generali sulla risoluzione per inadempimento.",
+    "con_marcatori": "Art. 1517. (Risoluzione di diritto). La risoluzione ha luogo di diritto a favore del contraente che, prima della scadenza del termine stabilito, abbia offerto all'altro, nelle forme di uso, la consegna della cosa o il pagamento del prezzo, se l'altra parte non adempie la propria obbligazione. La risoluzione di diritto ha luogo pure a favore del venditore, se, alla scadenza del termine stabilito per la consegna, il compratore, la cui obbligazione di pagare il prezzo non sia scaduta, non si presenta per ricevere la cosa preventivamente offerta, ovvero non l'accetta. Il contraente che intende valersi della risoluzione disposta dal presente articolo deve darne comunicazione all'altra parte entro otto giorni dalla scadenza del termine; in mancanza di tale comunicazione, si osservano le disposizioni generali sulla risoluzione per inadempimento.",
+    "caratteri": 813
+  },
+  "note": [],
+  "impronta": "sha256:e8bdeed22104c19f3c839f6d1b3bb84c1f39388e9a88ea6e0ed489e5f7cca76e"
+}

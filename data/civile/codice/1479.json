@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1479",
+    "rubrica": "Buona fede del compratore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1479"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il compratore puo' chiedere la risoluzione del contratto, se, quando l'ha concluso, ignorava che la cosa non era di proprieta' del venditore, e se frattanto il venditore non gliene ha fatto acquistare la proprieta'. Salvo il disposto dell'art. 1223, il venditore e' tenuto a restituire all'acquirente il prezzo pagato, anche se la cosa e' diminuita di valore o e' deteriorata; deve inoltre rimborsargli le spese e i pagamenti legittimamente fatti per il contratto. Se la diminuzione di valore o il deterioramento derivano da un fatto del compratore, dall'ammontare suddetto si deve detrarre l'utile che il compratore ne ha ricavato. Il venditore e' inoltre tenuto a rimborsare al compratore le spese necessarie e utili fatte per la cosa, e, se era in mala fede, anche quelle voluttuarie.",
+    "con_marcatori": "Art. 1479. (Buona fede del compratore). Il compratore puo' chiedere la risoluzione del contratto, se, quando l'ha concluso, ignorava che la cosa non era di proprieta' del venditore, e se frattanto il venditore non gliene ha fatto acquistare la proprieta'. Salvo il disposto dell'art. 1223, il venditore e' tenuto a restituire all'acquirente il prezzo pagato, anche se la cosa e' diminuita di valore o e' deteriorata; deve inoltre rimborsargli le spese e i pagamenti legittimamente fatti per il contratto. Se la diminuzione di valore o il deterioramento derivano da un fatto del compratore, dall'ammontare suddetto si deve detrarre l'utile che il compratore ne ha ricavato. Il venditore e' inoltre tenuto a rimborsare al compratore le spese necessarie e utili fatte per la cosa, e, se era in mala fede, anche quelle voluttuarie.",
+    "caratteri": 787
+  },
+  "note": [],
+  "impronta": "sha256:7b0dac70e6520d4aab810410ad854260c41108419dabeb1d91402e1870300955"
+}

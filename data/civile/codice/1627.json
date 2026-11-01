@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1627",
+    "rubrica": "Morte dell'affittuario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1627"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di morte dell'affittuario, il locatore e gli eredi dell'affittuario possono, entro tre mesi dalla morte, recedere dal contratto mediante disdetta comunicata all'altra parte con preavviso di sei mesi. Se l'affitto ha per oggetto un fondo rustico, la disdetta ha effetto per la fine dell'anno agrario in corso alla scadenza del termine di preavviso.",
+    "con_marcatori": "Art. 1627. (Morte dell'affittuario). Nel caso di morte dell'affittuario, il locatore e gli eredi dell'affittuario possono, entro tre mesi dalla morte, recedere dal contratto mediante disdetta comunicata all'altra parte con preavviso di sei mesi. Se l'affitto ha per oggetto un fondo rustico, la disdetta ha effetto per la fine dell'anno agrario in corso alla scadenza del termine di preavviso.",
+    "caratteri": 356
+  },
+  "note": [],
+  "impronta": "sha256:18bb1e536fc446fce1b9d911c8f8472020b7aabc7f08cac34f940f88210cb591"
+}

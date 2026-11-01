@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1300",
+    "rubrica": "Novazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1300"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La novazione tra il creditore e uno dei debitori in solido libera gli altri debitori. Qualora pero' si sia voluto limitare la novazione a uno solo dei debitori, gli altri non sono liberati che per la parte di quest'ultimo. Se convenuta tra uno dei creditori in solido e il debitore, la novazione ha effetto verso gli altri creditori solo per la parte del primo.",
+    "con_marcatori": "Art. 1300. (Novazione). La novazione tra il creditore e uno dei debitori in solido libera gli altri debitori. Qualora pero' si sia voluto limitare la novazione a uno solo dei debitori, gli altri non sono liberati che per la parte di quest'ultimo. Se convenuta tra uno dei creditori in solido e il debitore, la novazione ha effetto verso gli altri creditori solo per la parte del primo.",
+    "caratteri": 361
+  },
+  "note": [],
+  "impronta": "sha256:b1c5a81150b745fdd7f9daf4ed33d0beb9cb50096e228192e3a3c683c597019f"
+}

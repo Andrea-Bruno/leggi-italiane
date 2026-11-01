@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2421",
+    "rubrica": "Libri sociali obbligatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2421"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Oltre i libri e le altre scritture contabili prescritti nell'articolo 2214, la societa' deve tenere: 1) il libro dei soci, nel quale devono essere indicati distintamente per ogni categoria il numero delle azioni, il cognome e il nome dei titolari delle azioni nominative, i trasferimenti e i vincoli ad esse relativi e i versamenti eseguiti; 2) il libro delle obbligazioni, il quale deve indicare l'ammontare delle obbligazioni emesse e di quelle estinte, il cognome e il nome dei titolari delle obbligazioni nominative e i trasferimenti e i vincoli ad esse relativi; 3) il libro delle adunanze e delle deliberazioni delle assemblee, in cui devono essere trascritti anche i verbali redatti per atto pubblico; 4) il libro delle adunanze e delle deliberazioni del consiglio di amministrazione o del consiglio di gestione; 5) il libro delle adunanze e delle deliberazioni del collegio sindacale ovvero del consiglio di sorveglianza o del comitato per il controllo sulla gestione; 6) il libro delle adunanze e delle deliberazioni del comitato esecutivo, se questo esiste; 7) il libro delle adunanze e delle deliberazioni delle assemblee degli obbligazionisti, se sono state emesse obbligazioni; 8) il libro degli strumenti finanziari emessi ai sensi dell'articolo 2447-sexies. I libri indicati nel primo comma, numeri 1), 2), 3), 4) e 8) sono tenuti a cura degli amministratori o dei componenti del consiglio di gestione, il libro indicato nel numero 5) a cura del collegio sindacale ovvero del consiglio di sorveglianza o del comitato per il controllo sulla gestione, il libro indicato nel numero 6) a cura del comitato esecutivo e il libro indicato nel numero 7) a cura del rappresentante comune degli obbligazionisti. I libri di cui al presente articolo, prima che siano messi in uso, devono essere numerati progressivamente in ogni pagina e bollati in ogni foglio a norma dell'articolo 2215.",
+    "con_marcatori": "Art. 2421. (( (Libri sociali obbligatori).)) ((Oltre i libri e le altre scritture contabili prescritti nell'articolo 2214, la societa' deve tenere: 1) il libro dei soci, nel quale devono essere indicati distintamente per ogni categoria il numero delle azioni, il cognome e il nome dei titolari delle azioni nominative, i trasferimenti e i vincoli ad esse relativi e i versamenti eseguiti; 2) il libro delle obbligazioni, il quale deve indicare l'ammontare delle obbligazioni emesse e di quelle estinte, il cognome e il nome dei titolari delle obbligazioni nominative e i trasferimenti e i vincoli ad esse relativi; 3) il libro delle adunanze e delle deliberazioni delle assemblee, in cui devono essere trascritti anche i verbali redatti per atto pubblico; 4) il libro delle adunanze e delle deliberazioni del consiglio di amministrazione o del consiglio di gestione; 5) il libro delle adunanze e delle deliberazioni del collegio sindacale ovvero del consiglio di sorveglianza o del comitato per il controllo sulla gestione; 6) il libro delle adunanze e delle deliberazioni del comitato esecutivo, se questo esiste; 7) il libro delle adunanze e delle deliberazioni delle assemblee degli obbligazionisti, se sono state emesse obbligazioni; 8) il libro degli strumenti finanziari emessi ai sensi dell'articolo 2447-sexies. I libri indicati nel primo comma, numeri 1), 2), 3), 4) e 8) sono tenuti a cura degli amministratori o dei componenti del consiglio di gestione, il libro indicato nel numero 5) a cura del collegio sindacale ovvero del consiglio di sorveglianza o del comitato per il controllo sulla gestione, il libro indicato nel numero 6) a cura del comitato esecutivo e il libro indicato nel numero 7) a cura del rappresentante comune degli obbligazionisti. I libri di cui al presente articolo, prima che siano messi in uso, devono essere numerati progressivamente in ogni pagina e bollati in ogni foglio a norma dell'articolo 2215. ))",
+    "caratteri": 1891
+  },
+  "note": [],
+  "impronta": "sha256:ea287b5b9b47f3fc0385d54d4760ee644dba231e839239dcb6914ecd0471e30f"
+}

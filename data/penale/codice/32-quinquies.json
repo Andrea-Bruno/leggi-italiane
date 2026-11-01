@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "32-quinquies",
+    "rubrica": "Casi nei quali alla condanna consegue l'estinzione del rapporto di lavoro o di impiego",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art32-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo quanto previsto dagli articoli 29 e 31, la condanna alla reclusione per un tempo non inferiore a due anni per i delitti di cui agli articoli 314, primo comma, 317, 318, 319, 319-ter, 319-quater, primo comma, e 320 importa altresi' l'estinzione del rapporto di lavoro o di impiego nei confronti del dipendente di amministrazioni od enti pubblici ovvero di enti a prevalente partecipazione pubblica.",
+    "con_marcatori": "Art. 32-quinquies. (Casi nei quali alla condanna consegue l'estinzione del rapporto di lavoro o di impiego). Salvo quanto previsto dagli articoli 29 e 31, la condanna alla reclusione per un tempo non inferiore a ((due)) anni per i delitti di cui agli articoli 314, primo comma, 317, 318, 319, 319-ter, 319-quater, primo comma, e 320 importa altresi' l'estinzione del rapporto di lavoro o di impiego nei confronti del dipendente di amministrazioni od enti pubblici ovvero di enti a prevalente partecipazione pubblica. (177)",
+    "caratteri": 403
+  },
+  "note": [
+    {
+      "numero": 177,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 27 marzo 2001, n. 97",
+          "urn": "urn:nir:stato:legge:2001-03-27;97",
+          "data": "2001-03-27",
+          "numero": "97",
+          "data_gazzetta": "2001-04-05"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 27 marzo 2001, n. 97 ha disposto (con l'art. 10, comma 1) che \"Le disposizioni della presente legge si applicano ai procedimenti penali, ai giudizi civili e amministrativi e ai procedimenti disciplinari in corso alla data di entrata in vigore della legge stessa\"."
+    }
+  ],
+  "impronta": "sha256:d8180251b0f224371da545499459826ac399e5f95bbf8c38ebf33ef83169eafa"
+}

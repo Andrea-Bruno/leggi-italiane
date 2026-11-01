@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1358",
+    "rubrica": "Comportamento delle parti nello stato di pendenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1358"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Colui che si e' obbligato o che ha alienato un diritto sotto condizione sospensiva, ovvero lo ha acquistato sotto condizione risolutiva, deve, in pendenza della condizione, comportarsi secondo buona fede per conservare integre le ragioni dell'altra parte.",
+    "con_marcatori": "Art. 1358. (Comportamento delle parti nello stato di pendenza). Colui che si e' obbligato o che ha alienato un diritto sotto condizione sospensiva, ovvero lo ha acquistato sotto condizione risolutiva, deve, in pendenza della condizione, comportarsi secondo buona fede per conservare integre le ragioni dell'altra parte.",
+    "caratteri": 255
+  },
+  "note": [],
+  "impronta": "sha256:db3a400e7d0edcdeca6b5033dcbf7daa7400c0175de07254d1b72645bcb5b1f2"
+}

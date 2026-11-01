@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "413",
+    "rubrica": "Revoca dell'amministrazione di sostegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art413"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando il beneficiario, l'amministratore di sostegno, il pubblico ministero o taluno dei soggetti di cui all'articolo 406, ritengono che si siano determinati i presupposti per la cessazione dell'amministrazione di sostegno, o per la sostituzione dell'amministratore, rivolgono istanza motivata al giudice tutelare. L'istanza e' comunicata al beneficiario ed all'amministratore di sostegno. Il giudice tutelare provvede con decreto motivato, acquisite le necessarie informazioni e disposti gli opportuni mezzi istruttori. Il giudice tutelare provvede altresi', anche d'ufficio, alla dichiarazione di cessazione dell'amministrazione di sostegno quando questa si sia rivelata inidonea a realizzare la piena tutela del beneficiario. In tale ipotesi, se ritiene che si debba promuovere giudizio di interdizione o di inabilitazione, ne informa il pubblico ministero, affinche' vi provveda. In questo caso l'amministrazione di sostegno cessa con la nomina del tutore o del curatore provvisorio ai sensi dell'articolo 419, ovvero con la dichiarazione di interdizione o di inabilitazione.",
+    "con_marcatori": "Art. 413. (( (Revoca dell'amministrazione di sostegno). )) ((Quando il beneficiario, l'amministratore di sostegno, il pubblico ministero o taluno dei soggetti di cui all'articolo 406, ritengono che si siano determinati i presupposti per la cessazione dell'amministrazione di sostegno, o per la sostituzione dell'amministratore, rivolgono istanza motivata al giudice tutelare. L'istanza e' comunicata al beneficiario ed all'amministratore di sostegno. Il giudice tutelare provvede con decreto motivato, acquisite le necessarie informazioni e disposti gli opportuni mezzi istruttori. Il giudice tutelare provvede altresi', anche d'ufficio, alla dichiarazione di cessazione dell'amministrazione di sostegno quando questa si sia rivelata inidonea a realizzare la piena tutela del beneficiario. In tale ipotesi, se ritiene che si debba promuovere giudizio di interdizione o di inabilitazione, ne informa il pubblico ministero, affinche' vi provveda. In questo caso l'amministrazione di sostegno cessa con la nomina del tutore o del curatore provvisorio ai sensi dell'articolo 419, ovvero con la dichiarazione di interdizione o di inabilitazione)).",
+    "caratteri": 1079
+  },
+  "note": [],
+  "impronta": "sha256:c5a7b7beaf25e099ac8a2422fbb51b6078bad9d78de24e9dc9ed4cc969d7883e"
+}

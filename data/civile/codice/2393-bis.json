@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2393-bis",
+    "rubrica": "Azione sociale di responsabilita' esercitata dai soci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2393-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'azione sociale di responsabilita' puo' essere esercitata anche dai soci che rappresentino almeno un quinto del capitale sociale o la diversa misura prevista nello statuto, comunque non superiore al terzo. Nelle societa' che fanno ricorso al mercato del capitale di rischio, l'azione di cui al comma precedente puo' essere esercitata dai soci che rappresentino un quarantesimo del capitale sociale o la minore misura prevista nello statuto. La societa' deve essere chiamata in giudizio e l'atto di citazione e' ad essa notificato anche in persona del presidente dell'organo di controllo. I soci che intendono promuovere l'azione nominano, a maggioranza del capitale posseduto, uno o piu' rappresentanti comuni per l'esercizio dell'azione e per il compimento degli atti conseguenti. In caso di accoglimento della domanda, la societa' rimborsa agli attori le spese del giudizio e quelle sopportate nell'accertamento dei fatti che il giudice non abbia posto a carico dei soccombenti o che non sia possibile recuperare a seguito della loro escussione. I soci che hanno agito possono rinunciare all'azione o transigerla; ogni corrispettivo per la rinuncia o transazione deve andare a vantaggio della societa'. Si applica all'azione prevista dal presente articolo l'ultimo comma dell'articolo precedente.",
+    "con_marcatori": "Art. 2393-bis. (Azione sociale di responsabilita' esercitata dai soci). L'azione sociale di responsabilita' puo' essere esercitata anche dai soci che rappresentino almeno un quinto del capitale sociale o la diversa misura prevista nello statuto, comunque non superiore al terzo. Nelle societa' che fanno ricorso al mercato del capitale di rischio, l'azione di cui al comma precedente puo' essere esercitata dai soci che rappresentino un quarantesimo del capitale sociale o la minore misura prevista nello statuto. La societa' deve essere chiamata in giudizio e l'atto di citazione e' ad essa notificato anche in persona del presidente ((dell'organo di controllo)). I soci che intendono promuovere l'azione nominano, a maggioranza del capitale posseduto, uno o piu' rappresentanti comuni per l'esercizio dell'azione e per il compimento degli atti conseguenti. In caso di accoglimento della domanda, la societa' rimborsa agli attori le spese del giudizio e quelle sopportate nell'accertamento dei fatti che il giudice non abbia posto a carico dei soccombenti o che non sia possibile recuperare a seguito della loro escussione. I soci che hanno agito possono rinunciare all'azione o transigerla; ogni corrispettivo per la rinuncia o transazione deve andare a vantaggio della societa'. Si applica all'azione prevista dal presente articolo l'ultimo comma dell'articolo precedente.",
+    "caratteri": 1299
+  },
+  "note": [],
+  "impronta": "sha256:dcfc42f948d88c59e4d975ea9996bacd2ac33218da220e553fa1ec8999e8886f"
+}

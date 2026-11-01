@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2328",
+    "rubrica": "Atto costitutivo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2328"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' puo' essere costituita per contratto o per atto unilaterale. L'atto costitutivo deve essere redatto per atto pubblico e deve indicare: 1) il cognome e il nome o la denominazione, la data e il luogo di nascita o lo Stato di costituzione, il domicilio o la sede, la cittadinanza dei soci e degli eventuali promotori, nonche' il numero delle azioni assegnate a ciascuno di essi; 2) la denominazione e il comune ove sono poste la sede della societa' e le eventuali sedi secondarie; 3) l'attivita' che costituisce l'oggetto sociale; 4) l'ammontare del capitale sottoscritto e di quello versato; 5) il numero e l'eventuale valore nominale delle azioni, le loro caratteristiche e le modalita' di emissione e circolazione; 6) il valore attribuito ai crediti e beni conferiti in natura; 7) le norme secondo le quali gli utili devono essere ripartiti; 8) i benefici eventualmente accordati ai promotori o ai soci fondatori; 9) il sistema di amministrazione adottato, il numero degli amministratori e i loro poteri, indicando quali tra essi hanno la rappresentanza della societa'; 10) il numero dei componenti il collegio sindacale; 11) la nomina dei primi amministratori e sindaci ovvero dei componenti del consiglio di sorveglianza e, quando previsto, del soggetto incaricato di effettuare la revisione legale dei conti; 12) l'importo globale, almeno approssimativo, delle spese per la costituzione poste a carico della societa'; 13) la durata della societa' ovvero, se la societa' e' costituita a tempo indeterminato, il periodo di tempo, comunque non superiore ad un anno, decorso il quale il socio potra' recedere. Lo statuto contenente le norme relative al funzionamento della societa', anche se forma oggetto di atto separato, costituisce parte integrante dell'atto costitutivo. In caso di contrasto tra le clausole dell'atto costitutivo e quelle dello statuto prevalgono le seconde.",
+    "con_marcatori": "Art. 2328. (Atto costitutivo). La societa' puo' essere costituita per contratto o per atto unilaterale. L'atto costitutivo deve essere redatto per atto pubblico e deve indicare: 1) il cognome e il nome o la denominazione, la data e il luogo di nascita o lo Stato di costituzione, il domicilio o la sede, la cittadinanza dei soci e degli eventuali promotori, nonche' il numero delle azioni assegnate a ciascuno di essi; 2) la denominazione e il comune ove sono poste la sede della societa' e le eventuali sedi secondarie; 3) l'attivita' che costituisce l'oggetto sociale; 4) l'ammontare del capitale sottoscritto e di quello versato; 5) il numero e l'eventuale valore nominale delle azioni, le loro caratteristiche e le modalita' di emissione e circolazione; 6) il valore attribuito ai crediti e beni conferiti in natura; 7) le norme secondo le quali gli utili devono essere ripartiti; 8) i benefici eventualmente accordati ai promotori o ai soci fondatori; 9) il sistema di amministrazione adottato, il numero degli amministratori e i loro poteri, indicando quali tra essi hanno la rappresentanza della societa'; 10) il numero dei componenti il collegio sindacale; 11) la nomina dei primi amministratori e sindaci ovvero dei componenti del consiglio di sorveglianza e, quando previsto, del soggetto ((incaricato di effettuare la revisione legale dei conti)); 12) l'importo globale, almeno approssimativo, delle spese per la costituzione poste a carico della societa'; 13) la durata della societa' ovvero, se la societa' e' costituita a tempo indeterminato, il periodo di tempo, comunque non superiore ad un anno, decorso il quale il socio potra' recedere. Lo statuto contenente le norme relative al funzionamento della societa', anche se forma oggetto di atto separato, costituisce parte integrante dell'atto costitutivo. In caso di contrasto tra le clausole dell'atto costitutivo e quelle dello statuto prevalgono le seconde.",
+    "caratteri": 1891
+  },
+  "note": [
+    {
+      "numero": 3,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 287",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;287",
+          "data": "1944-09-14",
+          "numero": "287",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "art. 1 del R. decreto-legge 20 gennaio 1944, n. 25",
+          "urn": "urn:nir:stato:regio.decreto.legge:1944-01-20;25",
+          "data": "1944-01-20",
+          "numero": "25",
+          "data_gazzetta": "1944-02-09"
+        },
+        {
+          "denominazione": "Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 287 ha disposto (con l'art. 3, comma 3) che \"Restano inoltre abrogati, in conformita' dell'art. 1 del R. decreto-legge 20 gennaio 1944, n. 25, gli articoli 1, terzo comma, 91, 155 secondo comma, 292, 342, 348 ultimo comma e 404 ultimo comma del Codice civile, nonche' il riferimento alla razza contenuto negli articoli 2196 n. 1, 2295 n. 1, 2328 n. 1, 2475 n. 1, 2518 n. 1, dello stesso Codice\"."
+    }
+  ],
+  "impronta": "sha256:aae44fbc3511b8a3e5f298cb171c3afb7d095ee968443af3a646a68d162e4d4a"
+}

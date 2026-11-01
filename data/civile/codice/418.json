@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "418",
+    "rubrica": "Poteri dell'autorita' giudiziaria",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art418"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Promosso il giudizio d'interdizione, puo' essere dichiarata anche d'ufficio l'inabilitazione per infermita' di mente. Se nel corso del giudizio d'inabilitazione si rivela l'esistenza delle condizioni richieste per l'interdizione, il pubblico ministero fa istanza al tribunale di pronunziare l'interdizione, e il tribunale provvede nello stesso giudizio, premessa l'istruttoria necessaria. Se nel corso del giudizio di interdizione o di inabilitazione appare opportuno applicare l'amministrazione di sostegno, il giudice, d'ufficio o ad istanza di parte, dispone la trasmissione del procedimento al giudice tutelare. In tal caso il giudice competente per l'interdizione o per l'inabilitazione puo' adottare i provvedimenti urgenti di cui al quarto comma dell'articolo 405.",
+    "con_marcatori": "Art. 418. (Poteri dell'autorita' giudiziaria). Promosso il giudizio d'interdizione, puo' essere dichiarata anche d'ufficio l'inabilitazione per infermita' di mente. Se nel corso del giudizio d'inabilitazione si rivela l'esistenza delle condizioni richieste per l'interdizione, il pubblico ministero fa istanza al tribunale di pronunziare l'interdizione, e il tribunale provvede nello stesso giudizio, premessa l'istruttoria necessaria. ((Se nel corso del giudizio di interdizione o di inabilitazione appare opportuno applicare l'amministrazione di sostegno, il giudice, d'ufficio o ad istanza di parte, dispone la trasmissione del procedimento al giudice tutelare. In tal caso il giudice competente per l'interdizione o per l'inabilitazione puo' adottare i provvedimenti urgenti di cui al quarto comma dell'articolo 405)).",
+    "caratteri": 771
+  },
+  "note": [],
+  "impronta": "sha256:7cc8e3be48c784d546db4ad3c53e8b78d393d6205a2ebd21b5a14a0e3aeaed85"
+}

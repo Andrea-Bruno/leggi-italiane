@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "569",
+    "rubrica": "Successione degli ascendenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art569"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "A colui che muore senza lasciare prole, ne' genitori, ne' fratelli o sorelle o loro discendenti, succedono per una meta' gli ascendenti della linea paterna e per l'altra meta' gli ascendenti della linea materna. Se pero' gli ascendenti non sono di eguale grado, l'eredita' e' devoluta al piu' vicino senza distinzione di linea.",
+    "con_marcatori": "Art. 569. (Successione degli ascendenti). A colui che muore senza lasciare prole, ne' genitori, ne' fratelli o sorelle o loro discendenti, succedono per una meta' gli ascendenti della linea paterna e per l'altra meta' gli ascendenti della linea materna. Se pero' gli ascendenti non sono di eguale grado, l'eredita' e' devoluta al piu' vicino senza distinzione di linea.",
+    "caratteri": 327
+  },
+  "note": [],
+  "impronta": "sha256:c1c39605e682e89b5c69a2cc0835aaaefd770cf1ee40f7f9decb8cfef1b5b2b5"
+}

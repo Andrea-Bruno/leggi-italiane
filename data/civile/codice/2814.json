@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2814",
+    "rubrica": "Ipoteca sull'usufrutto e sulla nuda proprieta'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2814"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le ipoteche costituite sull'usufrutto si estinguono col cessare di questo. Tuttavia, se la cessazione si verifica per rinunzia o per abuso da parte dell'usufruttuario ovvero per acquisto della nuda proprieta' da parte del medesimo, l'ipoteca perdura fino a che non si verifichi l'evento che avrebbe altrimenti prodotto l'estinzione dell'usufrutto. Se la nuda proprieta' e' gravata da ipoteca, questa, avvenendo l'estinzione dell'usufrutto, si estende alla piena proprieta'. Ma nei casi in cui, secondo la disposizione del comma precedente, perdura l'ipoteca costituita sull'usufrutto, l'estensione non pregiudica il credito garantito con l'ipoteca stessa.",
+    "con_marcatori": "Art. 2814. (Ipoteca sull'usufrutto e sulla nuda proprieta'). Le ipoteche costituite sull'usufrutto si estinguono col cessare di questo. Tuttavia, se la cessazione si verifica per rinunzia o per abuso da parte dell'usufruttuario ovvero per acquisto della nuda proprieta' da parte del medesimo, l'ipoteca perdura fino a che non si verifichi l'evento che avrebbe altrimenti prodotto l'estinzione dell'usufrutto. Se la nuda proprieta' e' gravata da ipoteca, questa, avvenendo l'estinzione dell'usufrutto, si estende alla piena proprieta'. Ma nei casi in cui, secondo la disposizione del comma precedente, perdura l'ipoteca costituita sull'usufrutto, l'estensione non pregiudica il credito garantito con l'ipoteca stessa.",
+    "caratteri": 655
+  },
+  "note": [],
+  "impronta": "sha256:3dc30ced2b16684043eafc3b3c10fb14a1d8363f9f8b181ec69fd818d74d19ca"
+}

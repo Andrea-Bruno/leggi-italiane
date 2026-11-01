@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "481",
+    "rubrica": "Fissazione di un termine per l'accettazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art481"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque vi ha interesse puo' chiedere che l'autorita' giudiziaria fissi un termine entro il quale il chiamato dichiara se accetta o rinunzia all'eredita'. Trascorso questo termine senza che abbia fatto la dichiarazione, il chiamato perde il diritto di accettare.",
+    "con_marcatori": "Art. 481. (Fissazione di un termine per l'accettazione). Chiunque vi ha interesse puo' chiedere che l'autorita' giudiziaria fissi un termine entro il quale il chiamato dichiara se accetta o rinunzia all'eredita'. Trascorso questo termine senza che abbia fatto la dichiarazione, il chiamato perde il diritto di accettare.",
+    "caratteri": 263
+  },
+  "note": [],
+  "impronta": "sha256:6d2dfb3d15d3f02725ab75d77dfcf1a6b2aa0b26c04fdb699c75ca6006152e6c"
+}

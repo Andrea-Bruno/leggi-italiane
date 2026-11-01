@@ -1,0 +1,97 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "626",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art626"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 111,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "(Furti minori ) Si applica la reclusione fino a un anno ovvero la multa fino a lire duemila, e il delitto e' punibile a querela della persona offesa: 1° se il colpevole ha agito al solo scopo di fare uso momentaneo della cosa sottratta, e questa, dopo l'uso momentaneo, e' stata immediatamente restituita; 2° se il fatto e' commesso su cose di tenue valore, per provvedere a un grave ed urgente bisogno; 3° se il fatto consiste nello spigolare, rastrellare o raspollare nei fondi altrui, non ancora spogliati interamente del raccolto. Tali disposizioni non si applicano se concorre taluna delle circostanze indicate nei numeri 1°, 2°, 3° e 4° dell'articolo precedente.",
+    "con_marcatori": "Art. 626. (Furti ((minori)) ) Si applica la reclusione fino a un anno ovvero la multa fino a lire duemila, e il delitto e' punibile a querela della persona offesa: 1° se il colpevole ha agito al solo scopo di fare uso momentaneo della cosa sottratta, e questa, dopo l'uso momentaneo, e' stata immediatamente restituita; (111) 2° se il fatto e' commesso su cose di tenue valore, per provvedere a un grave ed urgente bisogno; 3° se il fatto consiste nello spigolare, rastrellare o raspollare nei fondi altrui, non ancora spogliati interamente del raccolto. Tali disposizioni non si applicano se concorre taluna delle circostanze indicate nei numeri 1°, 2°, 3° e 4° dell'articolo precedente. (7)",
+    "caratteri": 668
+  },
+  "note": [
+    {
+      "numero": 7,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 maggio 1945, n. 234",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;234",
+          "data": "1945-05-10",
+          "numero": "234",
+          "data_gazzetta": "1945-05-24"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 maggio 1945, n. 234 ha disposto (con l'art. 4, comma 1) che \"Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del Codice penale, sono aumentate da un terzo alla meta'\". Ha inoltre disposto (con l'art. 7, comma 1) che la presente modifica ha efficacia fino ad un anno dopo la cessazione dello stato di guerra."
+    },
+    {
+      "numero": 111,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 626, primo comma, n. 1, c.p.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1988-12-13",
+        "numero": "1085"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 30 novembre - 13 dicembre 1988, n. 1085 (in G.U. 1ª s.s. 21/12/1988, n. 51), ha dichiarato \"l'illegittimita' costituzionale dell'art. 626, primo comma, n. 1, c.p. nella parte in cui non estende la disciplina ivi prevista alla mancata restituzione, dovuta a caso fortuito o forza maggiore, della cosa sottratta\"."
+    }
+  ],
+  "impronta": "sha256:e4d2a8cfba1a9b4088962e48ff280c15d9f2a3f8223d7d215cb8c605f5d5ebd5"
+}

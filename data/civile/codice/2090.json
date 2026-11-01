@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2090",
+    "rubrica": "Procedimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2090"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il presidente della magistratura del lavoro, ricevuta l'istanza del pubblico ministero, fissa il giorno per la comparizione dell'imprenditore e assegna un termine entro il quale egli deve presentare le sue deduzioni. La magistratura del lavoro decide in camera di consiglio, sentiti il pubblico ministero e l'imprenditore. Puo' anche, prima di decidere, sentire l'associazione professionale alla quale appartiene l'imprenditore, assumere le informazioni e compiere le indagini che ritiene necessarie. Contro la sentenza della magistratura del lavoro l'imprenditore e il pubblico ministero possono proporre ricorso per cassazione a norma dell'art. 426 del codice di procedura civile.",
+    "con_marcatori": "Art. 2090. (Procedimento). Il presidente della magistratura del lavoro, ricevuta l'istanza del pubblico ministero, fissa il giorno per la comparizione dell'imprenditore e assegna un termine entro il quale egli deve presentare le sue deduzioni. La magistratura del lavoro decide in camera di consiglio, sentiti il pubblico ministero e l'imprenditore. Puo' anche, prima di decidere, sentire l'associazione professionale alla quale appartiene l'imprenditore, assumere le informazioni e compiere le indagini che ritiene necessarie. Contro la sentenza della magistratura del lavoro l'imprenditore e il pubblico ministero possono proporre ricorso per cassazione a norma dell'art. 426 del codice di procedura civile.",
+    "caratteri": 682
+  },
+  "note": [],
+  "impronta": "sha256:e6e5a035fce4024014858b2af951c68ff2bb72ec8a8a481cb87148adfc4bfbbe"
+}

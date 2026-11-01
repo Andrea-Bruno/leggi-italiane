@@ -1,0 +1,129 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "222",
+    "rubrica": "Ricovero in un manicomio giudiziario",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art222"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 93,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 161,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 190,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nel caso di proscioglimento per infermita' psichica, ovvero per intossicazione cronica da alcool o da sostanze stupefacenti, ovvero per sordomutismo, e' sempre ordinato il ricovero dell'imputato in un manicomio giudiziario per un tempo non inferiore a due anni; salvo che si tratti di contravvenzioni o di delitti colposi o di altri delitti per i quali la legge stabilisce la pena pecuniaria o la reclusione per un tempo non superiore nel massimo a due anni, nei quali casi la sentenza di proscioglimento e' comunicata all'Autorita' di pubblica sicurezza. La durata minima del ricovero nel manicomio giudiziario e' di dieci anni, se per il fatto commesso la legge stabilisce la pena di morte o l'ergastolo, ovvero di cinque, se per il fatto commesso la legge stabilisce la pena della reclusione per un tempo non inferiore nel minimo a dieci anni. Nel caso in cui la persona ricoverata in un manicomio giudiziario debba scontare una pena restrittiva della liberta' personale, l'esecuzione di questa e' differita fino a che perduri il ricovero nel manicomio. Le disposizioni di questo articolo si applicano anche ai minori degli anni quattordici o maggiori dei quattordici e minori dei diciotto, prosciolti per ragione di eta', quando abbiano commesso un fatto preveduto dalla legge come reato, trovandosi in alcuna delle condizioni indicate nella prima parte dell'articolo stesso.",
+    "con_marcatori": "Art. 222. (Ricovero in un manicomio giudiziario) Nel caso di proscioglimento per infermita' psichica, ovvero per intossicazione cronica da alcool o da sostanze stupefacenti, ovvero per sordomutismo, e' sempre ordinato il ricovero dell'imputato in un manicomio giudiziario per un tempo non inferiore a due anni; salvo che si tratti di contravvenzioni o di delitti colposi o di altri delitti per i quali la legge stabilisce la pena pecuniaria o la reclusione per un tempo non superiore nel massimo a due anni, nei quali casi la sentenza di proscioglimento e' comunicata all'Autorita' di pubblica sicurezza. (93) (161) La durata minima del ricovero nel manicomio giudiziario e' di dieci anni, se per il fatto commesso la legge stabilisce la pena di morte o l'ergastolo, ovvero di cinque, se per il fatto commesso la legge stabilisce la pena della reclusione per un tempo non inferiore nel minimo a dieci anni. (5) (161) Nel caso in cui la persona ricoverata in un manicomio giudiziario debba scontare una pena restrittiva della liberta' personale, l'esecuzione di questa e' differita fino a che perduri il ricovero nel manicomio. Le disposizioni di questo articolo si applicano anche ai minori degli anni quattordici o maggiori dei quattordici e minori dei diciotto, prosciolti per ragione di eta', quando abbiano commesso un fatto preveduto dalla legge come reato, trovandosi in alcuna delle condizioni indicate nella prima parte dell'articolo stesso. (161) ((190))",
+    "caratteri": 1379
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 93,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1982-07-27",
+        "numero": "139"
+      },
+      "testo": "La Corte Costituzionale con sentenza 8-27 luglio 1982, n. 139 (in G.U. 1ª s.s. 4/8/1982, n. 213) ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo, nella parte in cui non subordina il provvedimento di ricovero in ospedale psichiatrico giudiziario dell'imputato prosciolto per infermita' psichica al previo accertamento da parte del giudice della cognizione o della esecuzione della persistente pericolosita' sociale derivante dalla infermita' medesima al tempo dell'applicazione della misura."
+    },
+    {
+      "numero": 161,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 2"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1998-07-24",
+        "numero": "324"
+      },
+      "testo": "La Corte Costituzionale con sentenza 14-24 luglio 1998, n. 324, (in G.U. 1ª s.s. 29/07/1998, n. 30) ha dichiarato: - l'illegittimita' costituzionale dei commi primo e secondo del presente articolo nella parte in cui prevedono l'applicazione anche ai minori della misura di sicurezza del ricovero in un ospedale psichiatrico giudiziario; - l'illegittimita' costituzionale del comma quattro del presente articolo."
+    },
+    {
+      "numero": 190,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2003-07-18",
+        "numero": "253"
+      },
+      "testo": "La Corte Costituzionale con sentenza 2-18 luglio 2003, n. 253, (in G.U. 1ª s.s. 23/07/2003, n. 29) ha dichiarato l'illegittimita' costituzionale del presente articolo nella parte in cui non consente al giudice, nei casi ivi previsti, di adottare, in luogo del ricovero in ospedale psichiatrico giudiziario, una diversa misura di sicurezza, prevista dalla legge, idonea ad assicurare adeguate cure dell'infermo di mente e a far fronte alla sua pericolosita' sociale."
+    }
+  ],
+  "impronta": "sha256:2e8b7b44438a2e4fde1e26163746e3035afa56198f904ed24dcff994c6084217"
+}

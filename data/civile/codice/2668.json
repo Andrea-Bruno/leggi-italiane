@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2668",
+    "rubrica": "Cancellazione della trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2668"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La cancellazione della trascrizione delle domande enunciate dagli articoli 2652 e 2653 e delle relative annotazioni si esegue quando e' debitamente consentita dalle parti interessate ovvero e' ordinata giudizialmente con sentenza passata in giudicato. Deve essere giudizialmente ordinata, qualora la domanda sia rigettata o il processo sia estinto per rinunzia o per inattivita' delle parti. Si deve cancellare l'indicazione della condizione o del termine negli atti trascritti, quando l'avveramento o la mancanza della condizione ovvero la scadenza del termine risulta da sentenza o da dichiarazione, anche unilaterale, della parte, in danno della quale la condizione sospensiva si e' verificata o la condizione risolutiva e' mancata ovvero il termine iniziale e' scaduto. Si deve cancellare la trascrizione dei contratti preliminari quando la cancellazione e' debitamente consentita dalle parti interessate ovvero e' ordinata giudizialmente con sentenza passata in giudicato.",
+    "con_marcatori": "Art. 2668. (Cancellazione della trascrizione). La cancellazione della trascrizione delle domande enunciate dagli articoli 2652 e 2653 e delle relative annotazioni si esegue quando e' debitamente consentita dalle parti interessate ovvero e' ordinata giudizialmente con sentenza passata in giudicato. Deve essere giudizialmente ordinata, qualora la domanda sia rigettata o il processo sia estinto per rinunzia o per inattivita' delle parti. Si deve cancellare l'indicazione della condizione o del termine negli atti trascritti, quando l'avveramento o la mancanza della condizione ovvero la scadenza del termine risulta da sentenza o da dichiarazione, anche unilaterale, della parte, in danno della quale la condizione sospensiva si e' verificata o la condizione risolutiva e' mancata ovvero il termine iniziale e' scaduto. ((Si deve cancellare la trascrizione dei contratti preliminari quando la cancellazione e' debitamente consentita dalle parti interessate ovvero e' ordinata giudizialmente con sentenza passata in giudicato)).",
+    "caratteri": 977
+  },
+  "note": [],
+  "impronta": "sha256:302fb5c77d8ad847398f6de3fb7f0ed84bb6671843f3665a7a197a1930da93ed"
+}

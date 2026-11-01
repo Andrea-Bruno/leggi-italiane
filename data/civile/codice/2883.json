@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2883",
+    "rubrica": "Capacita' per consentire la cancellazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2883"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi non ha la capacita' richiesta per liberare il debitore non puo' consentire la cancellazione dell'iscrizione, se non e' assistito dalle persone il cui intervento e' necessario per la liberazione. Il rappresentante legale dell'incapace e ogni altro amministratore, anche se autorizzati a esigere il credito e a liberare il debitore, non possono consentire la cancellazione dell'iscrizione, ove il credito non sia soddisfatto.",
+    "con_marcatori": "Art. 2883. (Capacita' per consentire la cancellazione). Chi non ha la capacita' richiesta per liberare il debitore non puo' consentire la cancellazione dell'iscrizione, se non e' assistito dalle persone il cui intervento e' necessario per la liberazione. Il rappresentante legale dell'incapace e ogni altro amministratore, anche se autorizzati a esigere il credito e a liberare il debitore, non possono consentire la cancellazione dell'iscrizione, ove il credito non sia soddisfatto.",
+    "caratteri": 427
+  },
+  "note": [],
+  "impronta": "sha256:61434d4b6442d9654bc02f15e80f1e7bbad2f57b7c65edddadc28580019a5d30"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2812",
+    "rubrica": "Diritti costituiti sulla cosa ipotecata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2812"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le servitu' di cui sia stata trascritta la costituzione dopo l'iscrizione dell'ipoteca non sono opponibili al creditore ipotecario, il quale puo' far subastare la cosa come libera. La stessa disposizione si applica per i diritti di usufrutto, di uso e di abitazione. Tali diritti si estinguono con l'espropriazione del fondo e i titolari sono ammessi a far valere le loro ragioni sul ricavato, con preferenza rispetto alle ipoteche iscritte posteriormente alla trascrizione dei diritti medesimi. Per coloro che hanno acquistato il diritto di superficie o il diritto d'enfiteusi sui beni soggetti all'ipoteca e hanno trascritto l'acquisto posteriormente all'iscrizione dell'ipoteca, si osservano le disposizioni relative ai terzi acquirenti. Le cessioni e le liberazioni di pigioni e di fitti non scaduti, che non siano trascritte o siano inferiori al triennio, sono opponibili ai creditori ipotecari solo se hanno data certa anteriore al pignoramento e per un termine non superiore a un anno dal giorno del pignoramento. Le cessioni e le liberazioni trascritte non sono opponibili ai creditori ipotecari anteriori alla trascrizione, se non per il termine stabilito dal comma precedente.",
+    "con_marcatori": "Art. 2812. (Diritti costituiti sulla cosa ipotecata). Le servitu' di cui sia stata trascritta la costituzione dopo l'iscrizione dell'ipoteca non sono opponibili al creditore ipotecario, il quale puo' far subastare la cosa come libera. La stessa disposizione si applica per i diritti di usufrutto, di uso e di abitazione. Tali diritti si estinguono con l'espropriazione del fondo e i titolari sono ammessi a far valere le loro ragioni sul ricavato, con preferenza rispetto alle ipoteche iscritte posteriormente alla trascrizione dei diritti medesimi. Per coloro che hanno acquistato il diritto di superficie o il diritto d'enfiteusi sui beni soggetti all'ipoteca e hanno trascritto l'acquisto posteriormente all'iscrizione dell'ipoteca, si osservano le disposizioni relative ai terzi acquirenti. Le cessioni e le liberazioni di pigioni e di fitti non scaduti, che non siano trascritte o siano inferiori al triennio, sono opponibili ai creditori ipotecari solo se hanno data certa anteriore al pignoramento e per un termine non superiore a un anno dal giorno del pignoramento. Le cessioni e le liberazioni trascritte non sono opponibili ai creditori ipotecari anteriori alla trascrizione, se non per il termine stabilito dal comma precedente.",
+    "caratteri": 1186
+  },
+  "note": [],
+  "impronta": "sha256:0adc60de6d64fa759ed6fa252a846c80e98b38dbd455b9b89eeb8f80cc1558d8"
+}

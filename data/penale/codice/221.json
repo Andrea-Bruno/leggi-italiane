@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "221",
+    "rubrica": "Ubriachi abituali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art221"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando non debba essere ordinata altra misura di sicurezza detentiva, i condannati alla reclusione per delitti commessi in stato di ubriachezza, qualora questa sia abituale, o per delitti commessi sotto l'azione di sostanze stupefacenti all'uso delle quali siano dediti, sono ricoverati in una casa di cura e di custodia. Tuttavia, se si tratta di delitti per i quali sia stata inflitta la reclusione per un tempo inferiore a tre anni, al ricovero in una casa di cura e di custodia puo' essere sostituita la liberta' vigilata. Il ricovero ha luogo in sezioni speciali, e ha la durata minima di sei mesi.",
+    "con_marcatori": "Art. 221. (Ubriachi abituali) Quando non debba essere ordinata altra misura di sicurezza detentiva, i condannati alla reclusione per delitti commessi in stato di ubriachezza, qualora questa sia abituale, o per delitti commessi sotto l'azione di sostanze stupefacenti all'uso delle quali siano dediti, sono ricoverati in una casa di cura e di custodia. Tuttavia, se si tratta di delitti per i quali sia stata inflitta la reclusione per un tempo inferiore a tre anni, al ricovero in una casa di cura e di custodia puo' essere sostituita la liberta' vigilata. Il ricovero ha luogo in sezioni speciali, e ha la durata minima di sei mesi.",
+    "caratteri": 603
+  },
+  "note": [],
+  "impronta": "sha256:d367973bf8b51a6c63cf5091e45602c264405999ae3a4fab2ab5aaa6c7059b12"
+}

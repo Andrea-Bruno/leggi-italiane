@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "128",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art128"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Matrimonio putativo. Se il matrimonio e' dichiarato nullo, gli effetti del matrimonio valido si producono, in favore dei coniugi, fino alla sentenza che pronunzia la nullita', quando i coniugi stessi lo hanno contratto in buona fede, oppure quando il loro consenso e' stato estorto con violenza o determinato da timore di eccezionale gravita' derivante da cause esterne agli sposi. Il matrimonio dichiarato nullo ha gli effetti del matrimonio valido rispetto ai figli. Se le condizioni indicate nel primo comma si verificano per uno solo dei coniugi, gli effetti valgono soltanto in favore di lui e dei figli. Il matrimonio dichiarato nullo, contratto in malafede da entrambi i coniugi, ha gli effetti del matrimonio valido rispetto ai figli nati o concepiti durante lo stesso, salvo che la nullita' dipenda da ... incesto. Nell'ipotesi di cui al quarto comma, rispetto ai figli si applica l'articolo 251.",
+    "con_marcatori": "Art. 128. Matrimonio putativo. Se il matrimonio e' dichiarato nullo, gli effetti del matrimonio valido si producono, in favore dei coniugi, fino alla sentenza che pronunzia la nullita', quando i coniugi stessi lo hanno contratto in buona fede, oppure quando il loro consenso e' stato estorto con violenza o determinato da timore di eccezionale gravita' derivante da cause esterne agli sposi. ((Il matrimonio dichiarato nullo ha gli effetti del matrimonio valido rispetto ai figli.)) Se le condizioni indicate nel primo comma si verificano per uno solo dei coniugi, gli effetti valgono soltanto in favore di lui e dei figli. Il matrimonio dichiarato nullo, contratto in malafede da entrambi i coniugi, ha gli effetti del matrimonio valido rispetto ai figli nati o concepiti durante lo stesso, salvo che la nullita' dipenda da ((...)) incesto. (40) ((Nell'ipotesi di cui al quarto comma, rispetto ai figli si applica l'articolo 251.))",
+    "caratteri": 905
+  },
+  "note": [
+    {
+      "numero": 40,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        },
+        {
+          "denominazione": "articolo 128 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 19 maggio 1975, n. 151 ha disposto (con l'art. 225, comma 1) che \"Nel caso previsto dal penultimo comma dell'articolo 128 del codice civile il figlio acquista lo stato di figlio legittimo anche se il matrimonio e' stato dichiarato nullo anteriormente alla data di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:e742ef48c9a46dc0f199f9b9384e9bbf6b1f86a8dcaa6eb9235981fa42939cce"
+}

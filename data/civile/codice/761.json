@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "761",
+    "rubrica": "Annullamento per violenza o dolo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art761"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La divisione puo' essere annullata quando e' l'effetto di violenza o di dolo. L'azione si prescrive in cinque anni dal giorno in cui e' cessata la violenza o in cui il dolo e' stato scoperto.",
+    "con_marcatori": "Art. 761. (Annullamento per violenza o dolo). La divisione puo' essere annullata quando e' l'effetto di violenza o di dolo. L'azione si prescrive in cinque anni dal giorno in cui e' cessata la violenza o in cui il dolo e' stato scoperto.",
+    "caratteri": 191
+  },
+  "note": [],
+  "impronta": "sha256:65f28bf3fb51fb8637c4190a9c4e7b115086bb8757d3f0650c0e4884ba5c9ead"
+}

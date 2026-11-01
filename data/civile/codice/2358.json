@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2358",
+    "rubrica": "Altre operazioni sulle proprie azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2358"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' non puo', direttamente o indirettamente, accordare prestiti, ne' fornire garanzie per l'acquisto o la sottoscrizione delle proprie azioni, se non alle condizioni previste dal presente articolo. Tali operazioni sono preventivamente autorizzate dall'assemblea straordinaria. Gli amministratori della societa' predispongono una relazione che illustri, sotto il profilo giuridico ed economico, l'operazione, descrivendone le condizioni, evidenziando le ragioni e gli obiettivi imprenditoriali che la giustificano, lo specifico interesse che l'operazione presenta per la societa', i rischi che essa comporta per la liquidita' e la solvibilita' della societa' ed indicando il prezzo al quale il terzo acquisira' le azioni. Nella relazione gli amministratori attestano altresi' che l'operazione ha luogo a condizioni di mercato, in particolare per quanto riguarda le garanzie prestate e il tasso di interesse praticato per il rimborso del finanziamento, e che il merito di credito della controparte e' stato debitamente valutato. La relazione e' depositata presso la sede della societa' durante i trenta giorni che precedono l'assemblea. Il verbale dell'assemblea, corredato dalla relazione degli amministratori, e' depositato entro trenta giorni per l'iscrizione nel registro delle imprese. In deroga all'articolo 2357-ter, quando le somme o le garanzie fornite ai sensi del presente articolo sono utilizzate per l'acquisto di azioni detenute dalla societa' ai sensi dell'articolo 2357 e 2357-bis l'assemblea straordinaria autorizza gli amministratori a disporre di tali azioni con la delibera di cui al secondo comma. Il prezzo di acquisto delle azioni e' determinato secondo i criteri di cui all'articolo 2437-ter, secondo comma. Nel caso di azioni negoziate in un mercato regolamentato il prezzo di acquisto e' pari almeno al prezzo medio ponderato al quale le azioni sono state negoziate nei sei mesi che precedono la pubblicazione dell'avviso di convocazione dell'assemblea. Qualora la societa' accordi prestiti o fornisca garanzie per l'acquisto o la sottoscrizione delle azioni proprie a singoli amministratori della societa' o della controllante o alla stessa controllante ovvero a terzi che agiscono in nome proprio e per conto dei predetti soggetti, la relazione di cui al terzo comma attesta altresi' che l'operazione realizza al meglio l'interesse della societa'. L'importo complessivo delle somme impiegate e delle garanzie fornite ai sensi del presente articolo non puo' eccedere il limite degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato, tenuto conto anche dell'eventuale acquisto di proprie azioni ai sensi dell'articolo 2357. Una riserva indisponibile pari all'importo complessivo delle somme impiegate e delle garanzie fornite e' iscritta al passivo del bilancio. La societa' non puo', neppure per tramite di societa' fiduciaria, o per interposta persona, accettare azioni proprie in garanzia. Salvo quanto previsto dal comma sesto, le disposizioni del presente articolo non si applicano alle operazioni effettuate per favorire l'acquisto di azioni da parte di dipendenti della societa' o di quelli di societa' controllanti o controllate. Resta salvo quanto previsto dagli articoli 2391-bis e 2501-bis.",
+    "con_marcatori": "Art. 2358. (( Altre operazioni sulle proprie azioni )) ((La societa' non puo', direttamente o indirettamente, accordare prestiti, ne' fornire garanzie per l'acquisto o la sottoscrizione delle proprie azioni, se non alle condizioni previste dal presente articolo. Tali operazioni sono preventivamente autorizzate dall'assemblea straordinaria. Gli amministratori della societa' predispongono una relazione che illustri, sotto il profilo giuridico ed economico, l'operazione, descrivendone le condizioni, evidenziando le ragioni e gli obiettivi imprenditoriali che la giustificano, lo specifico interesse che l'operazione presenta per la societa', i rischi che essa comporta per la liquidita' e la solvibilita' della societa' ed indicando il prezzo al quale il terzo acquisira' le azioni. Nella relazione gli amministratori attestano altresi' che l'operazione ha luogo a condizioni di mercato, in particolare per quanto riguarda le garanzie prestate e il tasso di interesse praticato per il rimborso del finanziamento, e che il merito di credito della controparte e' stato debitamente valutato. La relazione e' depositata presso la sede della societa' durante i trenta giorni che precedono l'assemblea. Il verbale dell'assemblea, corredato dalla relazione degli amministratori, e' depositato entro trenta giorni per l'iscrizione nel registro delle imprese. In deroga all'articolo 2357-ter, quando le somme o le garanzie fornite ai sensi del presente articolo sono utilizzate per l'acquisto di azioni detenute dalla societa' ai sensi dell'articolo 2357 e 2357-bis l'assemblea straordinaria autorizza gli amministratori a disporre di tali azioni con la delibera di cui al secondo comma. Il prezzo di acquisto delle azioni e' determinato secondo i criteri di cui all'articolo 2437-ter, secondo comma. Nel caso di azioni negoziate in un mercato regolamentato il prezzo di acquisto e' pari almeno al prezzo medio ponderato al quale le azioni sono state negoziate nei sei mesi che precedono la pubblicazione dell'avviso di convocazione dell'assemblea. Qualora la societa' accordi prestiti o fornisca garanzie per l'acquisto o la sottoscrizione delle azioni proprie a singoli amministratori della societa' o della controllante o alla stessa controllante ovvero a terzi che agiscono in nome proprio e per conto dei predetti soggetti, la relazione di cui al terzo comma attesta altresi' che l'operazione realizza al meglio l'interesse della societa'. L'importo complessivo delle somme impiegate e delle garanzie fornite ai sensi del presente articolo non puo' eccedere il limite degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato, tenuto conto anche dell'eventuale acquisto di proprie azioni ai sensi dell'articolo 2357. Una riserva indisponibile pari all'importo complessivo delle somme impiegate e delle garanzie fornite e' iscritta al passivo del bilancio. La societa' non puo', neppure per tramite di societa' fiduciaria, o per interposta persona, accettare azioni proprie in garanzia. Salvo quanto previsto dal comma sesto, le disposizioni del presente articolo non si applicano alle operazioni effettuate per favorire l'acquisto di azioni da parte di dipendenti della societa' o di quelli di societa' controllanti o controllate. Resta salvo quanto previsto dagli articoli 2391-bis e 2501-bis.))",
+    "caratteri": 3287
+  },
+  "note": [],
+  "impronta": "sha256:78929408101f54cf7b34e67bf55b78b95e8bf8906594b0b16ee5acb327f5aab1"
+}

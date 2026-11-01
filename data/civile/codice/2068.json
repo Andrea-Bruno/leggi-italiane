@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2068",
+    "rubrica": "Rapporti di lavoro sottratti a contratto collettivo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2068"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 14,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Non possono essere regolati da contratto collettivo i rapporti di lavoro, in quanto siano disciplinati con atti della pubblica autorita' in conformita' della legge. Sono altresi' sottratti alla disciplina del contratto collettivo i rapporti di lavoro concernenti prestazioni di carattere personale o domestico.",
+    "con_marcatori": "Art. 2068. (Rapporti di lavoro sottratti a contratto collettivo). Non possono essere regolati da contratto collettivo i rapporti di lavoro, in quanto siano disciplinati con atti della pubblica autorita' in conformita' della legge. Sono altresi' sottratti alla disciplina del contratto collettivo i rapporti di lavoro concernenti prestazioni di carattere personale o domestico. ((14))",
+    "caratteri": 310
+  },
+  "note": [
+    {
+      "numero": 14,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2068, comma secondo, del Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1969-04-09",
+        "numero": "68"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 27 marzo-9 aprile 1969, n. 68 (in G.U. 1a s.s. 16/04/1969, n. 98), ha dichiarato \"l'illegittimita' costituzionale dell'art. 2068, comma secondo, del Codice civile nella parte in cui dispone che sono sottratti alla disciplina del contratto collettivo i rapporti di lavoro concernenti prestazioni di carattere domestico\"."
+    }
+  ],
+  "impronta": "sha256:5454592e023a81f922ba6832989c981c60ae3b498b61009ffe99c36c5e960bac"
+}

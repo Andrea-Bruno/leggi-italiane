@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "388-bis",
+    "rubrica": "Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento ovvero a sequestro giudiziario o conservativo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art388-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, avendo in custodia una cosa sottoposta a pignoramento ovvero a sequestro giudiziario o conservativo, per colpa ne cagiona la distruzione o la dispersione, ovvero ne agevola la soppressione o la sottrazione, e' punito, a querela della persona offesa, con la reclusione fino a sei mesi o con la multa fino a lire seicentomila.",
+    "con_marcatori": "Art. 388-bis. (( (Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento ovvero a sequestro giudiziario o conservativo). )) ((Chiunque, avendo in custodia una cosa sottoposta a pignoramento ovvero a sequestro giudiziario o conservativo, per colpa ne cagiona la distruzione o la dispersione, ovvero ne agevola la soppressione o la sottrazione, e' punito, a querela della persona offesa, con la reclusione fino a sei mesi o con la multa fino a lire seicentomila)).",
+    "caratteri": 334
+  },
+  "note": [],
+  "impronta": "sha256:f37b0a3b3e7d6068c5a40f9a6c951a7375d907d19bf94f8afd4adf235e3ec275"
+}

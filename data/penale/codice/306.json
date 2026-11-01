@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "306",
+    "rubrica": "Banda armata: formazione e partecipazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art306"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando, per commettere uno dei delitti indicati nell'articolo 302, si forma una banda armata, coloro che la promuovono o costituiscono od organizzano, soggiacciono, per cio' solo, alla pena della reclusione da cinque a quindici anni. Per il solo fatto di partecipare alla banda armata, la pena e' della reclusione da tre a nove anni. I capi o i sovventori della banda armata soggiacciono alla stessa pena stabilita per i promotori.",
+    "con_marcatori": "Art. 306. (Banda armata: formazione e partecipazione) Quando, per commettere uno dei delitti indicati nell'articolo 302, si forma una banda armata, coloro che la promuovono o costituiscono od organizzano, soggiacciono, per cio' solo, alla pena della reclusione da cinque a quindici anni. Per il solo fatto di partecipare alla banda armata, la pena e' della reclusione da tre a nove anni. I capi o i sovventori della banda armata soggiacciono alla stessa pena stabilita per i promotori.",
+    "caratteri": 431
+  },
+  "note": [],
+  "impronta": "sha256:c570115c79ac4e76a60925f6b61608d9b6ad1ceb799f513f87c237030b69630c"
+}

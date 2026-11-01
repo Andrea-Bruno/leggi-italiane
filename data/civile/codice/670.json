@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "670",
+    "rubrica": "Legato di prestazioni periodiche",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art670"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se e' stata legata una somma di danaro o una quantita' di altre cose fungibili, da prestarsi a termini periodici, il primo termine decorre dalla morte del testatore, e il legatario acquista il diritto a tutta la prestazione dovuta per il termine in corso, ancorche' fosse in vita soltanto al principio di esso. Il legato pero' non puo' esigersi se non dopo scaduto il termine. Si puo' tuttavia esigere all'inizio del termine il legato a titolo di alimenti.",
+    "con_marcatori": "Art. 670. (Legato di prestazioni periodiche). Se e' stata legata una somma di danaro o una quantita' di altre cose fungibili, da prestarsi a termini periodici, il primo termine decorre dalla morte del testatore, e il legatario acquista il diritto a tutta la prestazione dovuta per il termine in corso, ancorche' fosse in vita soltanto al principio di esso. Il legato pero' non puo' esigersi se non dopo scaduto il termine. Si puo' tuttavia esigere all'inizio del termine il legato a titolo di alimenti.",
+    "caratteri": 456
+  },
+  "note": [],
+  "impronta": "sha256:a269777652f8ed292b79c01a90c6dd2e650f55af21d4adec769c357c1e0bf66a"
+}

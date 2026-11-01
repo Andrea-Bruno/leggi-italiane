@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "184",
+    "rubrica": "Atti compiuti senza il necessario consenso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art184"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti compiuti da un coniuge senza il necessario consenso dell'altro coniuge e da questo non convalidati sono annullabili se riguardano beni immobili o beni mobili elencati nell'articolo 2683. L'azione puo' essere proposta dal coniuge il cui consenso era necessario entro un anno dalla data in cui ha avuto conoscenza dell'atto e in ogni caso entro un anno dalla data di trascrizione. Se l'atto non sia stato trascritto e quando il coniuge non ne abbia avuto conoscenza prima dello scioglimento della comunione l'azione non puo' essere proposta oltre l'anno dallo scioglimento stesso. Se gli atti riguardano beni mobili diversi da quelli indicati nel primo comma, il coniuge che li ha compiuti senza il consenso dell'altro e' obbligato su istanza di quest'ultimo a ricostituire la comunione nello stato in cui era prima del compimento dell'atto o, qualora cio' non sia possibile, al pagamento dell'equivalente secondo i valori correnti all'epoca della ricostituzione della comunione.",
+    "con_marcatori": "Art. 184. ((Atti compiuti senza il necessario consenso.)) ((Gli atti compiuti da un coniuge senza il necessario consenso dell'altro coniuge e da questo non convalidati sono annullabili se riguardano beni immobili o beni mobili elencati nell'articolo 2683. L'azione puo' essere proposta dal coniuge il cui consenso era necessario entro un anno dalla data in cui ha avuto conoscenza dell'atto e in ogni caso entro un anno dalla data di trascrizione. Se l'atto non sia stato trascritto e quando il coniuge non ne abbia avuto conoscenza prima dello scioglimento della comunione l'azione non puo' essere proposta oltre l'anno dallo scioglimento stesso. Se gli atti riguardano beni mobili diversi da quelli indicati nel primo comma, il coniuge che li ha compiuti senza il consenso dell'altro e' obbligato su istanza di quest'ultimo a ricostituire la comunione nello stato in cui era prima del compimento dell'atto o, qualora cio' non sia possibile, al pagamento dell'equivalente secondo i valori correnti all'epoca della ricostituzione della comunione)).",
+    "caratteri": 986
+  },
+  "note": [],
+  "impronta": "sha256:20f36c86cba8f0d0c41e456f6f37db591613429bb296d3435f8e1adc4595eab8"
+}

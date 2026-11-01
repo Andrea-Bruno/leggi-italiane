@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "371",
+    "rubrica": "Falso giuramento della parte",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art371"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, come parte in giudizio civile, giura il falso e' punito con la reclusione da sei mesi a tre anni. Nel caso di giuramento deferito d'ufficio, il colpevole non e' punibile, se ritratta il falso prima che sulla domanda giudiziale sia pronunciata sentenza definitiva, anche se non irrevocabile. La condanna importa l'interdizione dai pubblici uffici.",
+    "con_marcatori": "Art. 371. (Falso giuramento della parte) Chiunque, come parte in giudizio civile, giura il falso e' punito con la reclusione da sei mesi a tre anni. Nel caso di giuramento deferito d'ufficio, il colpevole non e' punibile, se ritratta il falso prima che sulla domanda giudiziale sia pronunciata sentenza definitiva, anche se non irrevocabile. La condanna importa l'interdizione dai pubblici uffici.",
+    "caratteri": 356
+  },
+  "note": [],
+  "impronta": "sha256:95aba51f9c340f117eba08eb60f184da504c64c5a74e030f54fb20e9c7b534eb"
+}

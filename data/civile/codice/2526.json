@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2526",
+    "rubrica": "Soci finanziatori e altri sottoscrittori di titoli di debito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2526"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo puo' prevedere l'emissione di strumenti finanziari, secondo la disciplina prevista per le societa' per azioni. L'atto costitutivo stabilisce i diritti patrimoniali o anche amministrativi attribuiti ai possessori degli strumenti finanziari e le eventuali condizioni cui e' sottoposto il loro trasferimento. I privilegi previsti nella ripartizione degli utili e nel rimborso del capitale non si estendono alle riserve indivisibili a norma dell'articolo 2545-ter. Ai possessori di strumenti finanziari non puo', in ogni caso, essere attribuito piu' di un terzo dei voti spettanti all'insieme dei soci presenti ovvero rappresentati in ciascuna assemblea generale. Il recesso dei possessori di strumenti finanziari forniti del diritto di voto e' disciplinato dagli articoli 2437 e seguenti. La cooperativa cui si applicano le norme sulla societa' a responsabilita' limitata puo' offrire in sottoscrizione strumenti privi di diritti di amministrazione solo a investitori qualificati.",
+    "con_marcatori": "Art. 2526. (Soci finanziatori e altri sottoscrittori di titoli di debito). L'atto costitutivo puo' prevedere l'emissione di strumenti finanziari, secondo la disciplina prevista per le societa' per azioni. L'atto costitutivo stabilisce i diritti patrimoniali o anche amministrativi attribuiti ai possessori degli strumenti finanziari e le eventuali condizioni cui e' sottoposto il loro trasferimento. I privilegi previsti nella ripartizione degli utili e nel rimborso del capitale non si estendono alle riserve indivisibili a norma dell'articolo 2545-ter. Ai possessori di strumenti finanziari non puo', in ogni caso, essere attribuito piu' di un terzo dei voti spettanti all'insieme dei soci presenti ovvero rappresentati in ciascuna assemblea generale. Il recesso dei possessori di strumenti finanziari forniti del diritto di voto e' disciplinato dagli articoli 2437 e seguenti. La cooperativa cui si applicano le norme sulla societa' a responsabilita' limitata puo' offrire in sottoscrizione strumenti privi di diritti di amministrazione solo a investitori qualificati.((223))",
+    "caratteri": 996
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 23 dicembre 2013, n. 145",
+          "urn": "urn:nir:stato:decretoLegge:2013-12-23;145",
+          "data": "2013-12-23",
+          "numero": "145",
+          "data_gazzetta": "2013-12-23"
+        },
+        {
+          "denominazione": "L. 21 febbraio 2014, n. 9",
+          "urn": "urn:nir:stato:legge:2014-02-21;9",
+          "data": "2014-02-21",
+          "numero": "9",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "quarto comma dell'articolo 2526 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 23 dicembre 2013, n. 145, convertito con modificazioni, dalla L. 21 febbraio 2014, n. 9, ha disposto (con l'art. 11, comma 3-bis) che \"Il quarto comma dell'articolo 2526 del codice civile si interpreta nel senso che, nelle cooperative cui si applicano le norme sulle societa' a responsabilita' limitata, il limite all'emissione di strumenti finanziari si riferisce esclusivamente ai titoli di debito\"."
+    }
+  ],
+  "impronta": "sha256:93f00184f8abdbe061cf724be1f9c248375d62ea7c9ab61195a0928772c96bbe"
+}

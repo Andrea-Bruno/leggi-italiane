@@ -1,0 +1,313 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "337",
+    "rubrica": "Resistenza a un pubblico ufficiale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art337"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque usa violenza o minaccia per opporsi a un pubblico ufficiale o ad un incaricato di un pubblico servizio, mentre compie un atto di ufficio o di servizio, o a coloro che, richiesti, gli prestano assistenza, e' punito con la reclusione da sei mesi a cinque anni. Se la violenza o minaccia e' posta in essere per opporsi a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza mentre compie un atto di ufficio, la pena e' aumentata fino alla meta'.",
+    "con_marcatori": "Art. 337. (Resistenza a un pubblico ufficiale) Chiunque usa violenza o minaccia per opporsi a un pubblico ufficiale o ad un incaricato di un pubblico servizio, mentre compie un atto di ufficio o di servizio, o a coloro che, richiesti, gli prestano assistenza, e' punito con la reclusione da sei mesi a cinque anni. ((Se la violenza o minaccia e' posta in essere per opporsi a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza mentre compie un atto di ufficio, la pena e' aumentata fino alla meta'.)) (6) (36) (107) (119)",
+    "caratteri": 467
+  },
+  "note": [
+    {
+      "numero": 6,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 288",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;288",
+          "data": "1944-09-14",
+          "numero": "288",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "articoli 336",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "338",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "339",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "341",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "342",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "343 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288 ha disposto (con l'art. 4, comma 1) che \"Non si applicano le disposizioni degli articoli 336, 337, 338, 339, 341, 342, 343 del Codice penale quando il pubblico ufficiale o l'incaricato di un pubblico servizio ovvero il pubblico impiegato abbia dato causa al fatto preveduto negli stessi articoli, eccedendo con atti arbitrari i limiti delle sue attribuzioni\". Ha inoltre disposto (con l'art. 1, comma 1) che le presenti modifiche sono apportate fino a quando non sia pubblicato il nuovo Codice penale."
+    },
+    {
+      "numero": 36,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "341",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 4 giugno 1966, n. 332",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1966-06-04;332",
+          "data": "1966-06-04",
+          "numero": "332",
+          "data_gazzetta": "1966-06-04"
+        },
+        {
+          "denominazione": "art. 510",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "635 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articoli 337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "340",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "415",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 giugno 1966, n. 332 ha disposto: - (con l'art. 2, comma 1, lettera d)) che e' concessa amnistia \"per i reati previsti negli articoli 330, primo capoverso, 337, 340, 341, 414, 415, 507, 508 - anche in relazione all'art. 510 - 610 e 635 del Codice penale e dal decreto legislativo 22 gennaio 1948, n. 66, se commessi per motivi ed in occasione di manifestazioni sindacali\"; - (con l'art. 2, comma 1, lettera e)) che e' concessa amnistia \"per i reati previsti negli articoli 337, 340, 341, 415, 610 e 635 del Codice penale, se commessi per motivi politici\"; - (con l'art. 16, comma 1) che le presenti modifiche hanno efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966."
+    },
+    {
+      "numero": 107,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articoli 337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 16 dicembre 1986, n. 865",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1986-12-16;865",
+          "data": "1986-12-16",
+          "numero": "865",
+          "data_gazzetta": "1986-12-16"
+        },
+        {
+          "denominazione": "610 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1 del decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 61 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 112, n. 2, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 16 dicembre 1986, n. 865 ha disposto: - (con l'art. 1, comma 1, lettera g)) che e' concessa amnistia \"per i reati previsti dagli articoli 337 e 610 del codice penale e dall'art. 1 del decreto legislativo 22 gennaio 1948, n. 66, commessi a causa e in occasione di manifestazioni sindacali o in conseguenza di situazioni di gravi disagi dovuti a disfunzioni di pubblici servizi o a problemi abitativi anche se i suddetti reati sono aggravati dal numero o dalla riunione delle persone e dalle circostanze di cui all'art. 61 del codice penale, fatta esclusione per quella prevista dal n. 1, nonche' da quella di cui all'art. 112, n. 2, del codice penale, sempre che non ricorrano altre aggravanti e il fatto non abbia cagionato ad altri lesioni personali o la morte\"; - (con l'art. 12, comma 1) che \"L'amnistia e l'indulto hanno efficacia per i reati commessi fino a tutto il giorno 8 giugno 1986\"."
+    },
+    {
+      "numero": 119,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "339",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 12 aprile 1990, n. 75",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-04-12;75",
+          "data": "1990-04-12",
+          "numero": "75",
+          "data_gazzetta": "1990-04-12"
+        },
+        {
+          "denominazione": "articolo 339 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 12 aprile 1990, n. 75 ha disposto: - (con l'art. 1, comma 1, lettera c)) che e' concessa amnistia per i delitti previsti dall'art. 336, comma primo (violenza o minaccia a un pubblico ufficiale) e 337 (resistenza ad un pubblico ufficiale), sempre che non ricorra taluna delle ipotesi previste dall'articolo 339 del codice penale o il fatto non abbia cagionato lesioni personali gravi o gravissime ovvero la morte. - (con l'art. 6, comma 1) che \"L'amnistia ha efficacia per i reati commessi fino a tutto il giorno 24 ottobre 1989\"."
+    }
+  ],
+  "impronta": "sha256:763c1bcab9bb0d97870695d28763014304557851ef449bacfe5c0659191375d5"
+}

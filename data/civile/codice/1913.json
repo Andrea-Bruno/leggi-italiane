@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1913",
+    "rubrica": "Avviso all'assicuratore in caso di sinistro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1913"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assicurato deve dare avviso del sinistro all'assicuratore o all'agente autorizzato a concludere il contratto, entro tre giorni da quello in cui il sinistro si e' verificato o l'assicurato ne ha avuta conoscenza. Non e' necessario l'avviso, se l'assicuratore o l'agente autorizzato alla conclusione del contratto intervengono entro il detto termine alle operazioni di salvataggio o di constatazione del sinistro. Nelle assicurazioni contro la mortalita' del bestiame l'avviso, salvo patto contrario, deve essere dato entro ventiquattro ore.",
+    "con_marcatori": "Art. 1913. (Avviso all'assicuratore in caso di sinistro). L'assicurato deve dare avviso del sinistro all'assicuratore o all'agente autorizzato a concludere il contratto, entro tre giorni da quello in cui il sinistro si e' verificato o l'assicurato ne ha avuta conoscenza. Non e' necessario l'avviso, se l'assicuratore o l'agente autorizzato alla conclusione del contratto intervengono entro il detto termine alle operazioni di salvataggio o di constatazione del sinistro. Nelle assicurazioni contro la mortalita' del bestiame l'avviso, salvo patto contrario, deve essere dato entro ventiquattro ore.",
+    "caratteri": 541
+  },
+  "note": [],
+  "impronta": "sha256:609ef6cb3b08cc2b594f804b9caf13e3909bf13b5ca4d823c938827df2366560"
+}

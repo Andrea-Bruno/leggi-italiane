@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2447-ter",
+    "rubrica": "Deliberazione costitutiva del patrimonio destinato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2447-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La deliberazione che ai sensi della lettera a) del primo comma dell'articolo 2447-bis destina un patrimonio ad uno specifico affare deve indicare: a) l'affare al quale e' destinato il patrimonio; b) i beni e i rapporti giuridici compresi in tale patrimonio; c) il piano economico-finanziario da cui risulti la congruita' del patrimonio rispetto alla realizzazione dell'affare, le modalita' e le regole relative al suo impiego, il risultato che si intende perseguire e le eventuali garanzie offerte ai terzi; d) gli eventuali apporti di terzi, le modalita' di controllo sulla gestione e di partecipazione ai risultati dell'affare; e) la possibilita' di emettere strumenti finanziari di partecipazione all'affare, con la specifica indicazione dei diritti che attribuiscono; f) la nomina di un revisore legale o di una societa' di revisione legale per la revisione dei conti dell'affare, quando la societa' non e' gia' assoggettata alla revisione legale; g) le regole di rendicontazione dello specifico affare. Salvo diversa disposizione dello statuto, la deliberazione di cui al presente articolo e' adottata dall'organo amministrativo a maggioranza assoluta dei suoi componenti.",
+    "con_marcatori": "Art. 2447-ter. (Deliberazione costitutiva del patrimonio destinato). La deliberazione che ai sensi della lettera a) del primo comma dell'articolo 2447-bis destina un patrimonio ad uno specifico affare deve indicare: a) l'affare al quale e' destinato il patrimonio; b) i beni e i rapporti giuridici compresi in tale patrimonio; c) il piano economico-finanziario da cui risulti la congruita' del patrimonio rispetto alla realizzazione dell'affare, le modalita' e le regole relative al suo impiego, il risultato che si intende perseguire e le eventuali garanzie offerte ai terzi; d) gli eventuali apporti di terzi, le modalita' di controllo sulla gestione e di partecipazione ai risultati dell'affare; e) la possibilita' di emettere strumenti finanziari di partecipazione all'affare, con la specifica indicazione dei diritti che attribuiscono; ((f) la nomina di un revisore legale o di una societa' di revisione legale per la revisione dei conti dell'affare, quando la societa' non e' gia' assoggettata alla revisione legale;)) g) le regole di rendicontazione dello specifico affare. Salvo diversa disposizione dello statuto, la deliberazione di cui al presente articolo e' adottata dall'organo amministrativo a maggioranza assoluta dei suoi componenti.",
+    "caratteri": 1177
+  },
+  "note": [],
+  "impronta": "sha256:f7750afbb43380367c3eeb828d4903d1a25c266ec3404a49e9453e50194b87f1"
+}

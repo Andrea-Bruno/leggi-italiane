@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2436",
+    "rubrica": "Deposito, iscrizione e pubblicazione delle modificazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2436"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il notaio che ha verbalizzato la deliberazione di modifica dello statuto, entro trenta giorni, verificato l'adempimento delle condizioni stabilite dalla legge, ne richiede l'iscrizione nel registro delle imprese contestualmente al deposito e allega le eventuali autorizzazioni richieste. L'ufficio del registro delle imprese, verificata la regolarita' formale della documentazione, iscrive la delibera nel registro. Se il notaio ritiene non adempiute le condizioni stabilite dalla legge, ne da' comunicazione tempestivamente, e comunque non oltre il termine previsto dal primo comma del presente articolo, agli amministratori. Gli amministratori, nei trenta giorni successivi, possono convocare l'assemblea per gli opportuni provvedimenti oppure ricorrere al tribunale per il provvedimento di cui ai successivi commi; in mancanza la deliberazione e' definitivamente inefficace. Il tribunale, verificato l'adempimento delle condizioni richieste dalla legge e sentito il pubblico ministero, ordina l'iscrizione nel registro delle imprese con decreto soggetto a reclamo. La deliberazione non produce effetti se non dopo l'iscrizione. Dopo ogni modifica dello statuto deve esserne depositato nel registro delle imprese il testo integrale nella sua redazione aggiornata.",
+    "con_marcatori": "Art. 2436. (( (Deposito, iscrizione e pubblicazione delle modificazioni).)) ((Il notaio che ha verbalizzato la deliberazione di modifica dello statuto, entro trenta giorni, verificato l'adempimento delle condizioni stabilite dalla legge, ne richiede l'iscrizione nel registro delle imprese contestualmente al deposito e allega le eventuali autorizzazioni richieste. L'ufficio del registro delle imprese, verificata la regolarita' formale della documentazione, iscrive la delibera nel registro. Se il notaio ritiene non adempiute le condizioni stabilite dalla legge, ne da' comunicazione tempestivamente, e comunque non oltre il termine previsto dal primo comma del presente articolo, agli amministratori. Gli amministratori, nei trenta giorni successivi, possono convocare l'assemblea per gli opportuni provvedimenti oppure ricorrere al tribunale per il provvedimento di cui ai successivi commi; in mancanza la deliberazione e' definitivamente inefficace. Il tribunale, verificato l'adempimento delle condizioni richieste dalla legge e sentito il pubblico ministero, ordina l'iscrizione nel registro delle imprese con decreto soggetto a reclamo. La deliberazione non produce effetti se non dopo l'iscrizione. Dopo ogni modifica dello statuto deve esserne depositato nel registro delle imprese il testo integrale nella sua redazione aggiornata. ))",
+    "caratteri": 1265
+  },
+  "note": [
+    {
+      "numero": 16,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 29 dicembre 1969, n. 1127",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1969-12-29;1127",
+          "data": "1969-12-29",
+          "numero": "1127",
+          "data_gazzetta": "1970-02-10"
+        },
+        {
+          "denominazione": "art. 2436, comma secondo, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 29 dicembre 1969, n. 1127, ha disposto (con l'art. 21, comma 1) che \"La disposizione dell'art. 2436, comma secondo, del codice civile si applica alle modificazioni dell'atto costitutivo o dello statuto successive alla data di entrata in vigore del presente decreto. In mancanza di tali modifiche la disposizione predetta deve essere osservata entro il 31 dicembre 1970.\""
+    }
+  ],
+  "impronta": "sha256:3f9882892e777c068d44b71256478332debd30a898b8bca14137af1811c227f5"
+}

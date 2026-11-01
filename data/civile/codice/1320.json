@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1320",
+    "rubrica": "Estinzione parziale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1320"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se uno dei creditori ha fatto remissione del debito o ha consentito a ricevere un'altra prestazione in luogo di quella dovuta, il debitore non e' liberato verso gli altri creditori. Questi tuttavia non possono domandare la prestazione indivisibile se non addebitandosi ovvero rimborsando il valore della parte di colui che ha fatto la remissione o che ha ricevuto la prestazione diversa. La medesima disposizione si applica in caso di transazione, novazione, compensazione e confusione.",
+    "con_marcatori": "Art. 1320. (Estinzione parziale). Se uno dei creditori ha fatto remissione del debito o ha consentito a ricevere un'altra prestazione in luogo di quella dovuta, il debitore non e' liberato verso gli altri creditori. Questi tuttavia non possono domandare la prestazione indivisibile se non addebitandosi ovvero rimborsando il valore della parte di colui che ha fatto la remissione o che ha ricevuto la prestazione diversa. La medesima disposizione si applica in caso di transazione, novazione, compensazione e confusione.",
+    "caratteri": 486
+  },
+  "note": [],
+  "impronta": "sha256:cca6b031a40b38444ddf69f80892f9a47ad682ce3ae901a327836b4ed0d3dfb3"
+}

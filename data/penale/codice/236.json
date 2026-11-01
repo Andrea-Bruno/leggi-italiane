@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "236",
+    "rubrica": "Specie: regole generali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art236"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono misure di sicurezza patrimoniali, oltre quelle stabilite da particolari disposizioni di legge: 1° la cauzione di buona condotta; 2° la confisca. Si applicano anche alle misure di sicurezza patrimoniali le disposizioni degli articoli 199, 200, prima parte, 201, prima parte, 205, prima parte e numero 3° del capoverso, e, salvo che si tratti di confisca, le disposizioni del primo e secondo capoverso dell'articolo 200 e quelle dell'articolo 210. Alla cauzione di buona condotta si applicano altresi' le disposizioni degli articoli 202, 203, 204, prima parte, e 207.",
+    "con_marcatori": "Art. 236. (Specie: regole generali) Sono misure di sicurezza patrimoniali, oltre quelle stabilite da particolari disposizioni di legge: 1° la cauzione di buona condotta; 2° la confisca. Si applicano anche alle misure di sicurezza patrimoniali le disposizioni degli articoli 199, 200, prima parte, 201, prima parte, 205, prima parte e numero 3° del capoverso, e, salvo che si tratti di confisca, le disposizioni del primo e secondo capoverso dell'articolo 200 e quelle dell'articolo 210. Alla cauzione di buona condotta si applicano altresi' le disposizioni degli articoli 202, 203, 204, prima parte, e 207.",
+    "caratteri": 570
+  },
+  "note": [],
+  "impronta": "sha256:30e9cb6aca3bdb13b1a59bd0d896b5f0c0ff7737218c994beaf4a049557198f6"
+}

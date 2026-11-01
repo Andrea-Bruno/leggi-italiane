@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "218",
+    "rubrica": "Esecuzione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art218"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle colonie agricole e nelle case di lavoro i delinquenti abituali o professionali e quelli per tendenza sono assegnati a sezioni speciali. Il giudice stabilisce se la misura di sicurezza debba essere eseguita in una colonia agricola, ovvero in una casa di lavoro, tenuto conto delle condizioni e attitudini della persona a cui il provvedimento si riferisce. Il provvedimento puo' essere modificato nel corso della esecuzione.",
+    "con_marcatori": "Art. 218. (Esecuzione) Nelle colonie agricole e nelle case di lavoro i delinquenti abituali o professionali e quelli per tendenza sono assegnati a sezioni speciali. Il giudice stabilisce se la misura di sicurezza debba essere eseguita in una colonia agricola, ovvero in una casa di lavoro, tenuto conto delle condizioni e attitudini della persona a cui il provvedimento si riferisce. Il provvedimento puo' essere modificato nel corso della esecuzione.",
+    "caratteri": 428
+  },
+  "note": [],
+  "impronta": "sha256:e07a969fdc8ebf66b68894212d59c9488a90726b6209129277f6a72507e02d33"
+}

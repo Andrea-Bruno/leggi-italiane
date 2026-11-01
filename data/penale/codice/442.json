@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "442",
+    "rubrica": "Commercio di sostanze alimentari contraffatte o adulterate",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art442"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, senza essere concorso nei reati preveduti dai tre articoli precedenti, detiene per il commercio, pone in commercio, ovvero distribuisce per il consumo acque, sostanze o cose che sono state da altri avvelenate, corrotte, adulterate o contraffatte, in modo pericoloso alla salute pubblica, soggiace alle pene rispettivamente stabilite nei detti articoli.",
+    "con_marcatori": "Art. 442. (Commercio di sostanze alimentari contraffatte o adulterate) Chiunque, senza essere concorso nei reati preveduti dai tre articoli precedenti, detiene per il commercio, pone in commercio, ovvero distribuisce per il consumo acque, sostanze o cose che sono state da altri avvelenate, corrotte, adulterate o contraffatte, in modo pericoloso alla salute pubblica, soggiace alle pene rispettivamente stabilite nei detti articoli.",
+    "caratteri": 362
+  },
+  "note": [],
+  "impronta": "sha256:a3cdfb83c081108b7d2ddcab38ff697efe25b9acbb6a7f9af3944d7d738916b6"
+}

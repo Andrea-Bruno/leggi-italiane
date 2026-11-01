@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "735",
+    "rubrica": "Preterizione di eredi e lesione di legittima",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art735"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La divisione nella quale il testatore non abbia compreso qualcuno dei legittimari o degli eredi istituiti e' nulla. Il coerede che e' stato leso nella quota di riserva puo' esercitare l'azione di riduzione contro gli altri coeredi.",
+    "con_marcatori": "Art. 735. (Preterizione di eredi e lesione di legittima). La divisione nella quale il testatore non abbia compreso qualcuno dei legittimari o degli eredi istituiti e' nulla. Il coerede che e' stato leso nella quota di riserva puo' esercitare l'azione di riduzione contro gli altri coeredi.",
+    "caratteri": 231
+  },
+  "note": [],
+  "impronta": "sha256:37c4eae95e89d2c09f1874952ee36225e2e9ce31ad1427398e83273ae69d4d01"
+}

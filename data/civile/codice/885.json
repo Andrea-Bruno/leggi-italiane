@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "885",
+    "rubrica": "Innalzamento del muro comune",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art885"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni comproprietario puo' alzare il muro comune, ma sono a suo carico tutte le spese di costruzione e conservazione della parte sopraedificata. Anche questa puo' dal vicino essere resa comune a norma dell'articolo 874. Se il muro non e' atto a sostenere la sopraedificazione, colui che l'esegue e' tenuto a ricostruirlo o a rinforzarlo a sue spese. Per il maggiore spessore che sia necessario, il muro deve essere costruito sul suolo proprio, salvo che esigenze tecniche impongano di costruirlo su quello del vicino. In entrambi i casi il muro ricostruito o ingrossato resta di proprieta' comune, e il vicino deve essere indennizzato di ogni danno prodotto dall'esecuzione delle opere. Nel secondo caso il vicino ha diritto di conseguire anche il valore della meta' del suolo occupato per il maggiore spessore. Qualora il vicino voglia acquistare la comunione della parte sopraelevata del muro, si tiene conto, nel calcolare il valore di questa, anche delle spese occorse per la ricostruzione o per il rafforzamento.",
+    "con_marcatori": "Art. 885. (Innalzamento del muro comune). Ogni comproprietario puo' alzare il muro comune, ma sono a suo carico tutte le spese di costruzione e conservazione della parte sopraedificata. Anche questa puo' dal vicino essere resa comune a norma dell'articolo 874. Se il muro non e' atto a sostenere la sopraedificazione, colui che l'esegue e' tenuto a ricostruirlo o a rinforzarlo a sue spese. Per il maggiore spessore che sia necessario, il muro deve essere costruito sul suolo proprio, salvo che esigenze tecniche impongano di costruirlo su quello del vicino. In entrambi i casi il muro ricostruito o ingrossato resta di proprieta' comune, e il vicino deve essere indennizzato di ogni danno prodotto dall'esecuzione delle opere. Nel secondo caso il vicino ha diritto di conseguire anche il valore della meta' del suolo occupato per il maggiore spessore. Qualora il vicino voglia acquistare la comunione della parte sopraelevata del muro, si tiene conto, nel calcolare il valore di questa, anche delle spese occorse per la ricostruzione o per il rafforzamento.",
+    "caratteri": 1016
+  },
+  "note": [],
+  "impronta": "sha256:20cd7f69f88fe53b12712580f09df62d870ee8f46b6065c7130a6b80c037277f"
+}

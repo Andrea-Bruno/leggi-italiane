@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "511",
+    "rubrica": "Pena per i capi, promotori e organizzatori",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art511"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le pene stabilite per i delitti preveduti dagli articoli 502 e seguenti sono raddoppiate per i capi, promotori od organizzatori; e, se sia stabilita dalla legge la sola pena pecuniaria, e' aggiunta la reclusione da sei mesi a due anni.",
+    "con_marcatori": "Art. 511. (Pena per i capi, promotori e organizzatori) Le pene stabilite per i delitti preveduti dagli articoli 502 e seguenti sono raddoppiate per i capi, promotori od organizzatori; e, se sia stabilita dalla legge la sola pena pecuniaria, e' aggiunta la reclusione da sei mesi a due anni.",
+    "caratteri": 235
+  },
+  "note": [],
+  "impronta": "sha256:cdc4dc6a8780c59d844f5b4fca5e7c6fb4c7e5165dc3921e06bc6f44833c1261"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2362",
+    "rubrica": "Unico azionista",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2362"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando le azioni risultano appartenere ad una sola persona o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione del registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome o della denominazione, della data e del luogo di nascita o lo Stato di costituzione, del domicilio o della sede e cittadinanza dell'unico socio. Quando si costituisce o ricostituisce la pluralita' dei soci, gli amministratori ne devono depositare apposita dichiarazione per l'iscrizione nel registro delle imprese. L'unico socio o colui che cessa di essere tale puo' provvedere alla pubblicita' prevista nei commi precedenti. Le dichiarazioni degli amministratori previste dai precedenti commi devono essere depositate entro trenta giorni dall'iscrizione nel libro dei soci e devono indicare la data di iscrizione. I contratti della societa' con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della societa' solo se risultano dal libro delle adunanze e delle deliberazioni del consiglio di amministrazione o da atto scritto avente data certa anteriore al pignoramento.",
+    "con_marcatori": "Art. 2362. (Unico azionista). Quando le azioni risultano appartenere ad una sola persona o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione del registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome o della denominazione, della data e del luogo di nascita o ((lo Stato)) di costituzione, del domicilio o della sede e cittadinanza dell'unico socio. Quando si costituisce o ricostituisce la pluralita' dei soci, gli amministratori ne devono depositare apposita dichiarazione per l'iscrizione nel registro delle imprese. L'unico socio o colui che cessa di essere tale puo' provvedere alla pubblicita' prevista nei commi precedenti. Le dichiarazioni degli amministratori previste dai precedenti commi devono essere depositate entro trenta giorni dall'iscrizione nel libro dei soci e devono indicare la data di iscrizione. I contratti della societa' con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della societa' solo se risultano dal libro delle adunanze e delle deliberazioni del consiglio di amministrazione o da atto scritto avente data certa anteriore al pignoramento.",
+    "caratteri": 1144
+  },
+  "note": [],
+  "impronta": "sha256:18fa7a9817841549a2b778227bbefb443b5e9e8074cd5acbbf96225a82c58a7b"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "478",
+    "rubrica": "Falsita' materiale commessa dal pubblico ufficiale in copie autentiche di atti pubblici o privati e in attestati del contenuto di atti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art478"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, supponendo esistente un atto pubblico o privato, ne simula una copia e la rilascia in forma legale, ovvero rilascia una copia di un atto pubblico o privato diversa dall'originale, e' punito con la reclusione da uno a quattro anni. Se la falsita' concerne un atto o parte di un atto, che faccia fede fino a querela di falso, la reclusione e' da tre a otto anni. Se la falsita' e' commessa dal pubblico ufficiale in un attestato sul contenuto di atti, pubblici o privati, la pena e' della reclusione da uno a tre anni.",
+    "con_marcatori": "Art. 478. (Falsita' materiale commessa dal pubblico ufficiale in copie autentiche di atti pubblici o privati e in attestati del contenuto di atti) Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, supponendo esistente un atto pubblico o privato, ne simula una copia e la rilascia in forma legale, ovvero rilascia una copia di un atto pubblico o privato diversa dall'originale, e' punito con la reclusione da uno a quattro anni. Se la falsita' concerne un atto o parte di un atto, che faccia fede fino a querela di falso, la reclusione e' da tre a otto anni. Se la falsita' e' commessa dal pubblico ufficiale in un attestato sul contenuto di atti, pubblici o privati, la pena e' della reclusione da uno a tre anni.",
+    "caratteri": 579
+  },
+  "note": [],
+  "impronta": "sha256:dd2de07a56cfeb8cff3201edf0cdfb64d3141ac34ff1986299ac81f3bf9f0080"
+}

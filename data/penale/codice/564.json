@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "564",
+    "rubrica": "Incesto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art564"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in modo che ne derivi pubblico scandalo, commette incesto con un discendente o un ascendente, o con un affine in linea retta, ovvero con una sorella o un fratello, e' punito con la reclusione da uno a cinque anni. La pena e' della reclusione da due a otto anni nel caso di relazione incestuosa. Nei casi preveduti dalle disposizioni precedenti, se l'incesto e' commesso da persona maggiore di eta' con persona minore degli anni diciotto, la pena e' aumentata per la persona maggiorenne. La condanna pronunciata contro il genitore importa la perdita della responsabilita' genitoriale o della tutela legale.",
+    "con_marcatori": "Art. 564. (Incesto) Chiunque, in modo che ne derivi pubblico scandalo, commette incesto con un discendente o un ascendente, o con un affine in linea retta, ovvero con una sorella o un fratello, e' punito con la reclusione da uno a cinque anni. La pena e' della reclusione da due a otto anni nel caso di relazione incestuosa. Nei casi preveduti dalle disposizioni precedenti, se l'incesto e' commesso da persona maggiore di eta' con persona minore degli anni diciotto, la pena e' aumentata per la persona maggiorenne. La condanna pronunciata contro il genitore importa la perdita della ((responsabilita' genitoriale)) o della tutela legale.",
+    "caratteri": 615
+  },
+  "note": [],
+  "impronta": "sha256:b22b52fbc40da06a89b2af19afeac62f31704da8c77271c42e49924b677a2562"
+}

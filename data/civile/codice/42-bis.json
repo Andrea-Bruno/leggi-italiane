@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "42-bis",
+    "rubrica": "Trasformazione, fusione e scissione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art42-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non e' espressamente escluso dall'atto costitutivo o dallo statuto, le associazioni riconosciute e non riconosciute e le fondazioni di cui al presente titolo possono operare reciproche trasformazioni, fusioni o scissioni. La trasformazione produce gli effetti di cui all'articolo 2498. L'organo di amministrazione deve predisporre una relazione relativa alla situazione patrimoniale dell'ente in via di trasformazione contenente l'elenco dei creditori, aggiornata a non piu' di centoventi giorni precedenti la delibera di trasformazione, nonche' la relazione di cui all'articolo 2500-sexies, secondo comma. Si applicano inoltre gli articoli 2499, 2500, 2500-bis, 2500-ter, secondo comma, 2500-quinquies e 2500-nonies, in quanto compatibili. Alle fusioni e alle scissioni si applicano, rispettivamente, le disposizioni di cui alle sezioni II e III del capo X, titolo V, libro V, in quanto compatibili. Gli atti relativi alle trasformazioni, alle fusioni e alle scissioni per i quali il libro V prevede l'iscrizione nel Registro delle imprese sono iscritti nel Registro delle Persone Giuridiche ovvero, nel caso di enti del Terzo settore, nel Registro unico nazionale del Terzo settore.",
+    "con_marcatori": "Art. 42-bis (( (Trasformazione, fusione e scissione). )) ((Se non e' espressamente escluso dall'atto costitutivo o dallo statuto, le associazioni riconosciute e non riconosciute e le fondazioni di cui al presente titolo possono operare reciproche trasformazioni, fusioni o scissioni. La trasformazione produce gli effetti di cui all'articolo 2498. L'organo di amministrazione deve predisporre una relazione relativa alla situazione patrimoniale dell'ente in via di trasformazione contenente l'elenco dei creditori, aggiornata a non piu' di centoventi giorni precedenti la delibera di trasformazione, nonche' la relazione di cui all'articolo 2500-sexies, secondo comma. Si applicano inoltre gli articoli 2499, 2500, 2500-bis, 2500-ter, secondo comma, 2500-quinquies e 2500-nonies, in quanto compatibili. Alle fusioni e alle scissioni si applicano, rispettivamente, le disposizioni di cui alle sezioni II e III del capo X, titolo V, libro V, in quanto compatibili. Gli atti relativi alle trasformazioni, alle fusioni e alle scissioni per i quali il libro V prevede l'iscrizione nel Registro delle imprese sono iscritti nel Registro delle Persone Giuridiche ovvero, nel caso di enti del Terzo settore, nel Registro unico nazionale del Terzo settore.))",
+    "caratteri": 1187
+  },
+  "note": [],
+  "impronta": "sha256:ff360c5a86ac8cf920aa3452028f88036d8af5257b90218c629ad4b2054eae55"
+}

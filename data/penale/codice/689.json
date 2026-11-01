@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "689",
+    "rubrica": "Somministrazione di bevande alcooliche a minori o a infermi di mente",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art689"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esercente un'osteria o un altro pubblico spaccio di cibi o di bevande, il quale somministra, in un luogo pubblico o aperto al pubblico, bevande alcooliche a un minore degli anni sedici, o a persona che appaia affetta da malattia di mente, o che si trovi in manifeste condizioni di deficienza psichica a causa di un'altra infermita', e' punito con l'arresto fino a un anno. La stessa pena di cui al primo comma si applica a chi pone in essere una delle condotte di cui al medesimo comma, attraverso distributori automatici che non consentano la rilevazione dei dati anagrafici dell'utilizzatore mediante sistemi di lettura ottica dei documenti. La pena di cui al periodo precedente non si applica qualora sia presente sul posto personale incaricato di effettuare il controllo dei dati anagrafici. Se il fatto di cui al primo comma e' commesso piu' di una volta si applica anche la sanzione amministrativa pecuniaria da 1.000 euro a 25.000 euro con la sospensione dell'attivita' per tre mesi. Se dal fatto deriva l'ubriachezza, la pena e' aumentata. La condanna importa la sospensione dall'esercizio.",
+    "con_marcatori": "Art. 689. (Somministrazione di bevande alcooliche a minori o a infermi di mente) L'esercente un'osteria o un altro pubblico spaccio di cibi o di bevande, il quale somministra, in un luogo pubblico o aperto al pubblico, bevande alcooliche a un minore degli anni sedici, o a persona che appaia affetta da malattia di mente, o che si trovi in manifeste condizioni di deficienza psichica a causa di un'altra infermita', e' punito con l'arresto fino a un anno. ((La stessa pena di cui al primo comma si applica a chi pone in essere una delle condotte di cui al medesimo comma, attraverso distributori automatici che non consentano la rilevazione dei dati anagrafici dell'utilizzatore mediante sistemi di lettura ottica dei documenti. La pena di cui al periodo precedente non si applica qualora sia presente sul posto personale incaricato di effettuare il controllo dei dati anagrafici. Se il fatto di cui al primo comma e' commesso piu' di una volta si applica anche la sanzione amministrativa pecuniaria da 1.000 euro a 25.000 euro con la sospensione dell'attivita' per tre mesi)). Se dal fatto deriva l'ubriachezza, la pena e' aumentata. La condanna importa la sospensione dall'esercizio.",
+    "caratteri": 1100
+  },
+  "note": [],
+  "impronta": "sha256:afb4f4dcb6d4dcb7ab5ad92134e918ae8628a486fa6f6b000c91e6148580b944"
+}

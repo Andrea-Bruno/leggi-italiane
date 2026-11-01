@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2451",
+    "rubrica": "Norme applicabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2451"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni di questo capo si applicano anche alle societa' per azioni d'interesse nazionale, compatibilmente con le disposizioni delle leggi speciali che stabiliscono per tali societa' una particolare disciplina circa la gestione sociale, la trasferibilita' delle azioni, il diritto di voto e la nomina degli amministratori, dei sindaci e dei dirigenti.",
+    "con_marcatori": "Art. 2451. (( (Norme applicabili). )) (( Le disposizioni di questo capo si applicano anche alle societa' per azioni d'interesse nazionale, compatibilmente con le disposizioni delle leggi speciali che stabiliscono per tali societa' una particolare disciplina circa la gestione sociale, la trasferibilita' delle azioni, il diritto di voto e la nomina degli amministratori, dei sindaci e dei dirigenti.))",
+    "caratteri": 358
+  },
+  "note": [],
+  "impronta": "sha256:075dc3630311069e17d0894c3cefd5ad150ad081725a888e1a5443cfba102f35"
+}

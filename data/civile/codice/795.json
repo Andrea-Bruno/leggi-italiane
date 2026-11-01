@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "795",
+    "rubrica": "Divieto di sostituzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art795"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle donazioni non sono permesse le sostituzioni se non nei casi e nei limiti stabiliti per gli atti di ultima volonta'. La nullita' delle sostituzioni non importa nullita' della donazione.",
+    "con_marcatori": "Art. 795. (Divieto di sostituzione). Nelle donazioni non sono permesse le sostituzioni se non nei casi e nei limiti stabiliti per gli atti di ultima volonta'. La nullita' delle sostituzioni non importa nullita' della donazione.",
+    "caratteri": 190
+  },
+  "note": [],
+  "impronta": "sha256:22cca6ea7c49056598b1afa002bd88f5c7891815ddf42975f19eee6d310de8c2"
+}

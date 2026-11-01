@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "247",
+    "rubrica": "Legittimazione passiva",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art247"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il presunto padre, la madre ed il figlio sono litisconsorti necessari nel giudizio di disconoscimento. Se una delle parti e' minore o interdetta, l'azione e' proposta in contraddittorio con un curatore nominato dal giudice davanti al quale il giudizio deve essere promosso. Se una delle parti e' un minore emancipato o un maggiore inabilitato, l'azione e' proposta contro la stessa assistita da un curatore parimenti nominato dal giudice. Se il presunto padre o la madre o il figlio sono morti l'azione si propone nei confronti delle persone indicate nell'articolo precedente o, in loro mancanza, nei confronti di un curatore parimenti nominato dal giudice.",
+    "con_marcatori": "Art. 247. ((Legittimazione passiva.)) ((Il presunto padre, la madre ed il figlio sono litisconsorti necessari nel giudizio di disconoscimento. Se una delle parti e' minore o interdetta, l'azione e' proposta in contraddittorio con un curatore nominato dal giudice davanti al quale il giudizio deve essere promosso. Se una delle parti e' un minore emancipato o un maggiore inabilitato, l'azione e' proposta contro la stessa assistita da un curatore parimenti nominato dal giudice. Se il presunto padre o la madre o il figlio sono morti l'azione si propone nei confronti delle persone indicate nell'articolo precedente o, in loro mancanza, nei confronti di un curatore parimenti nominato dal giudice)).",
+    "caratteri": 657
+  },
+  "note": [],
+  "impronta": "sha256:e974296fcb60543eb63d19db842c5e8f64af76406fd87c64fc3c0d1b51691c8b"
+}

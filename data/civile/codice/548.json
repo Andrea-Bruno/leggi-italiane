@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "548",
+    "rubrica": "Riserva a favore del coniuge separato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art548"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il coniuge cui non e' stata addebitata la separazione con sentenza passata in giudicato, ai sensi del secondo comma dell'articolo 151, ha gli stessi diritti successori del coniuge non separato. Il coniuge cui e' stata addebitata la separazione con sentenza passata in giudicato ha diritto soltanto ad un assegno vitalizio se al momento dell'apertura della successione godeva degli alimenti a carico del coniuge deceduto. L'assegno e' commisurato alle sostanze ereditarie e alla qualita' e al numero degli eredi legittimi, e non e' comunque di entita' superiore a quella della prestazione alimentare goduta. La medesima disposizione si applica nel caso in cui la separazione sia stata addebitata ad entrambi i coniugi.",
+    "con_marcatori": "Art. 548. ((Riserva a favore del coniuge separato.)) ((Il coniuge cui non e' stata addebitata la separazione con sentenza passata in giudicato, ai sensi del secondo comma dell'articolo 151, ha gli stessi diritti successori del coniuge non separato. Il coniuge cui e' stata addebitata la separazione con sentenza passata in giudicato ha diritto soltanto ad un assegno vitalizio se al momento dell'apertura della successione godeva degli alimenti a carico del coniuge deceduto. L'assegno e' commisurato alle sostanze ereditarie e alla qualita' e al numero degli eredi legittimi, e non e' comunque di entita' superiore a quella della prestazione alimentare goduta. La medesima disposizione si applica nel caso in cui la separazione sia stata addebitata ad entrambi i coniugi)).",
+    "caratteri": 717
+  },
+  "note": [],
+  "impronta": "sha256:68bfca495e42558c03135436a03c8bf8a822e87629399f70d5512f044b066b25"
+}

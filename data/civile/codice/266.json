@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "266",
+    "rubrica": "Impugnazione del riconoscimento per effetto di interdizione giudiziale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art266"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il riconoscimento puo' essere impugnato per l'incapacita' che deriva da interdizione giudiziale dal rappresentante dell'interdetto e, dopo la revoca dell'interdizione, dall'autore del riconoscimento, entro un anno dalla data della revoca.",
+    "con_marcatori": "Art. 266. (Impugnazione del riconoscimento per effetto di interdizione giudiziale). Il riconoscimento puo' essere impugnato per l'incapacita' che deriva da interdizione giudiziale dal rappresentante dell'interdetto e, dopo la revoca dell'interdizione, dall'autore del riconoscimento, entro un anno dalla data della revoca.",
+    "caratteri": 238
+  },
+  "note": [],
+  "impronta": "sha256:099163e41ee6e58479a6fe0abc5123dc386da7f5b91aafc6cf5eb80ba09fa1c6"
+}

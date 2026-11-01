@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2374",
+    "rubrica": "Rinvio dell'assemblea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2374"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I soci intervenuti che riuniscono un terzo del capitale rappresentato nell'assemblea, se dichiarano di non essere sufficientemente informati sugli oggetti posti in deliberazione, possono chiedere che l'assemblea sia rinviata a non oltre cinque giorni. Questo diritto non puo' esercitarsi che una sola volta per lo stesso oggetto.",
+    "con_marcatori": "Art. 2374. (( (Rinvio dell'assemblea). )) ((I soci intervenuti che riuniscono un terzo del capitale rappresentato nell'assemblea, se dichiarano di non essere sufficientemente informati sugli oggetti posti in deliberazione, possono chiedere che l'assemblea sia rinviata a non oltre cinque giorni. Questo diritto non puo' esercitarsi che una sola volta per lo stesso oggetto.))",
+    "caratteri": 329
+  },
+  "note": [],
+  "impronta": "sha256:e0a3632780a94272c490b84ca0f5d70591d8e6e1888bee0d3490335b21ee9377"
+}

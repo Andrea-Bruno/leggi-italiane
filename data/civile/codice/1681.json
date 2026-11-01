@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1681",
+    "rubrica": "Responsabilita' del vettore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1681"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salva la responsabilita' per il ritardo e per l'inadempimento nell'esecuzione del trasporto, il vettore risponde dei sinistri che colpiscono la persona del viaggiatore durante il viaggio e della perdita o dell'avaria delle cose che il viaggiatore porta con se', se non prova di avere adottato tutte le misure idonee a evitare il danno. Sono nulle le clausole che limitano la responsabilita' del vettore per i sinistri che colpiscono il viaggiatore. Le norme di questo articolo si osservano anche nei contratti di trasporto gratuito.",
+    "con_marcatori": "Art. 1681. (Responsabilita' del vettore). Salva la responsabilita' per il ritardo e per l'inadempimento nell'esecuzione del trasporto, il vettore risponde dei sinistri che colpiscono la persona del viaggiatore durante il viaggio e della perdita o dell'avaria delle cose che il viaggiatore porta con se', se non prova di avere adottato tutte le misure idonee a evitare il danno. Sono nulle le clausole che limitano la responsabilita' del vettore per i sinistri che colpiscono il viaggiatore. Le norme di questo articolo si osservano anche nei contratti di trasporto gratuito.",
+    "caratteri": 532
+  },
+  "note": [],
+  "impronta": "sha256:a65fedb4370b980048f143dacd27909f77924fbdf3a280296b52e678f1b0a208"
+}

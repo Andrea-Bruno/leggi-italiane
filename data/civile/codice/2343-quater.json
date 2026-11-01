@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2343-quater",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2343-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fatti eccezionali o rilevanti che incidono sulla valutazione Gli amministratori verificano, nel termine di trenta giorni dalla iscrizione della societa', se, nel periodo successivo a quello di cui all'articolo 2343-ter,primo comma, sono intervenuti fatti eccezionali che hanno inciso sul prezzo dei valori mobiliari o degli strumenti del mercato monetario conferiti in modo tale da modificare sensibilmente il valore di tali beni alla data di iscrizione della societa' nel registro delle imprese, comprese le situazioni in cui il mercato dei valori o strumenti non e' piu' liquido. Gli amministratori verificano altresi' nel medesimo termine se, successivamente al termine dell'esercizio cui si riferisce il bilancio di cui alla lettera a) del secondo comma dell'articolo 2343-ter, o alla data della valutazione di cui alla lettera b) del medesimo comma, si sono verificati fatti nuovi rilevanti tali da modificare sensibilmente il valore dei beni o dei crediti conferiti alla data di iscrizione della societa' nel registro delle imprese, nonche' i requisiti di professionalita' ed indipendenza dell'esperto che ha reso la valutazione di cui all'articolo 2343-ter, secondo comma, lettera b). Qualora gli amministratori ritengano che siano intervenuti i fatti di cui al primo comma, ovvero ritengano non idonei i requisiti di professionalita' e indipendenza dell'esperto che ha reso la valutazione di cui all'articolo 2343-ter, secondo comma, lettera b), si procede, su iniziativa degli amministratori, ad una nuova valutazione ai sensi e per gli effetti dell'articolo 2343. Fuori dai casi di cui al secondo comma, e' depositata per l'iscrizione nel registro delle imprese, nel medesimo termine di cui al primo comma, una dichiarazione degli amministratori contenente le seguenti informazioni: a) la descrizione dei beni o dei crediti conferiti per i quali non si e' fatto luogo alla relazione di cui all'articolo 2343, primo comma; b) il valore ad essi attribuito, la fonte di tale valutazione e, se del caso, il metodo di valutazione; c) la dichiarazione che tale valore e' almeno pari a quello loro attribuito ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo; d) la dichiarazione che non sono intervenuti fatti eccezionali o rilevanti che incidono sulla valutazione di cui alla lettera b); e) la dichiarazione di idoneita' dei requisiti di professionalita' e indipendenza dell'esperto di cui all'articolo 2343-ter, secondo comma, lettera b). Fino all'iscrizione della dichiarazione le azioni sono inalienabili e devono restare depositate presso la societa'.",
+    "con_marcatori": "Art. 2343-quater Fatti eccezionali o rilevanti che incidono sulla valutazione ((Gli amministratori verificano, nel termine di trenta giorni dalla iscrizione della societa', se, nel periodo successivo a quello di cui all'articolo 2343-ter,primo comma, sono intervenuti fatti eccezionali che hanno inciso sul prezzo dei valori mobiliari o degli strumenti del mercato monetario conferiti in modo tale da modificare sensibilmente il valore di tali beni alla data di iscrizione della societa' nel registro delle imprese, comprese le situazioni in cui il mercato dei valori o strumenti non e' piu' liquido. Gli amministratori verificano altresi' nel medesimo termine se, successivamente al termine dell'esercizio cui si riferisce il bilancio di cui alla lettera a) del secondo comma dell'articolo 2343-ter, o alla data della valutazione di cui alla lettera b) del medesimo comma, si sono verificati fatti nuovi rilevanti tali da modificare sensibilmente il valore dei beni o dei crediti conferiti alla data di iscrizione della societa' nel registro delle imprese, nonche' i requisiti di professionalita' ed indipendenza dell'esperto che ha reso la valutazione di cui all'articolo 2343-ter, secondo comma, lettera b).)) ((Qualora gli amministratori ritengano che siano intervenuti i fatti di cui al primo comma, ovvero ritengano non idonei i requisiti di professionalita' e indipendenza dell'esperto che ha reso la valutazione di cui all'articolo 2343-ter, secondo comma, lettera b), si procede, su iniziativa degli amministratori, ad una nuova valutazione ai sensi e per gli effetti dell'articolo 2343.)) Fuori dai casi di cui al secondo comma, e' depositata per l'iscrizione nel registro delle imprese, nel medesimo termine di cui al primo comma, una dichiarazione degli amministratori contenente le seguenti informazioni: a) la descrizione dei beni o dei crediti conferiti per i quali non si e' fatto luogo alla relazione di cui all'articolo 2343, primo comma; b) il valore ad essi attribuito, la fonte di tale valutazione e, se del caso, il metodo di valutazione; c) la dichiarazione che tale valore e' almeno pari a quello loro attribuito ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo; d) la dichiarazione che non sono intervenuti fatti eccezionali o rilevanti che incidono sulla valutazione di cui alla lettera b); e) la dichiarazione di idoneita' dei requisiti di professionalita' e indipendenza dell'esperto di cui all'articolo 2343-ter, secondo comma, lettera b). Fino all'iscrizione della dichiarazione le azioni sono inalienabili e devono restare depositate presso la societa'.",
+    "caratteri": 2590
+  },
+  "note": [],
+  "impronta": "sha256:7e5e25d93fab2c188697a4ab089757f2ba26a297e7ce68231682521d5c9642fd"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "68",
+    "rubrica": "Nullita' del nuovo matrimonio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art68"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il matrimonio contratto a norma dell'art. 65 e' nullo, qualora la persona della quale fu dichiarata la morte presunta ritorni o ne sia accertata l'esistenza. Sono salvi gli effetti civili del matrimonio dichiarato nullo. La nullita' non puo' essere pronunziata nel caso in cui e' accertata la morte, anche se avvenuta in una data posteriore a quella del matrimonio.",
+    "con_marcatori": "Art. 68. (Nullita' del nuovo matrimonio). Il matrimonio contratto a norma dell'art. 65 e' nullo, qualora la persona della quale fu dichiarata la morte presunta ritorni o ne sia accertata l'esistenza. Sono salvi gli effetti civili del matrimonio dichiarato nullo. La nullita' non puo' essere pronunziata nel caso in cui e' accertata la morte, anche se avvenuta in una data posteriore a quella del matrimonio.",
+    "caratteri": 365
+  },
+  "note": [],
+  "impronta": "sha256:134307d0b793a508ff29f12b9dcfd1e8cff9c1e607c19f6841cf35a5ee9e28e8"
+}

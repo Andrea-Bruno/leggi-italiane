@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "648",
+    "rubrica": "Ricettazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art648"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori dei casi di concorso nel reato, chi, al fine di procurare a se' o ad altri un profitto, acquista, riceve od occulta denaro o cose provenienti da un qualsiasi delitto, o comunque si intromette nel farle acquistare, ricevere od occultare, e' punito con la reclusione da due ad otto anni e con la multa da lire cinquecentomila a lire dieci milioni. La pena e' aumentata quando il fatto riguarda denaro o cose provenienti da delitti di rapina aggravata ai sensi degli articoli 628, terzo comma, o 628-bis, di estorsione aggravata ai sensi dell'articolo 629, secondo comma, ovvero di furto aggravato ai sensi dell'articolo 625, primo comma, n. 7-bis). La pena e' della reclusione da uno a quattro anni e della multa da euro 300 a euro 6.000 quando il fatto riguarda denaro o cose provenienti da contravvenzione punita con l'arresto superiore nel massimo a un anno o nel minimo a sei mesi. La pena e' aumentata se il fatto e' commesso nell'esercizio di un'attivita' professionale. Se il fatto e' di particolare tenuita', si applica la pena della reclusione sino a sei anni e della multa sino a euro 1.000 nel caso di denaro o cose provenienti da delitto e la pena della reclusione sino a tre anni e della multa sino a euro 800 nel caso di denaro o cose provenienti da contravvenzione. Le disposizioni di questo articolo si applicano anche quando l'autore del reato da cui il denaro o le cose provengono non e' imputabile o non e' punibile ovvero quando manchi una condizione di procedibilita' riferita a tale reato.",
+    "con_marcatori": "Art. 648. (Ricettazione) Fuori dei casi di concorso nel reato, chi, al fine di procurare a se' o ad altri un profitto, acquista, riceve od occulta denaro o cose provenienti da un qualsiasi delitto, o comunque si intromette nel farle acquistare, ricevere od occultare, e' punito con la reclusione da due ad otto anni e con la multa da lire cinquecentomila a lire dieci milioni. La pena e' aumentata quando il fatto riguarda denaro o cose provenienti da delitti di rapina aggravata ai sensi ((degli articoli 628)), terzo comma, o 628-bis, di estorsione aggravata ai sensi dell'articolo 629, secondo comma, ovvero di furto aggravato ai sensi dell'articolo 625, primo comma, n. 7-bis). La pena e' della reclusione da uno a quattro anni e della multa da euro 300 a euro 6.000 quando il fatto riguarda denaro o cose provenienti da contravvenzione punita con l'arresto superiore nel massimo a un anno o nel minimo a sei mesi. La pena e' aumentata se il fatto e' commesso nell'esercizio di un'attivita' professionale. Se il fatto e' di particolare tenuita', si applica la pena della reclusione sino a sei anni e della multa sino a euro 1.000 nel caso di denaro o cose provenienti da delitto e la pena della reclusione sino a tre anni e della multa sino a euro 800 nel caso di denaro o cose provenienti da contravvenzione. Le disposizioni di questo articolo si applicano anche quando l'autore del reato da cui il denaro o le cose provengono non e' imputabile o non e' punibile ovvero quando manchi una condizione di procedibilita' riferita a tale reato.",
+    "caratteri": 1515
+  },
+  "note": [],
+  "impronta": "sha256:a9c0e2c83efef787ef82e04f495f6a699724a73e7e99e710a5d08a3165cb51bf"
+}

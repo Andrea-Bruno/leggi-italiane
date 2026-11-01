@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2521",
+    "rubrica": "Atto costitutivo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2521"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' deve costituirsi per atto pubblico. L'atto costitutivo stabilisce le regole per lo svolgimento dell'attivita' mutualistica e puo' prevedere che la societa' svolga la propria attivita' anche con terzi. L'atto costitutivo deve indicare: 1) il cognome e il nome o la denominazione, il luogo e la data di nascita o di costituzione, il domicilio o la sede, la cittadinanza dei soci; 2) la denominazione, e il comune ove e' posta la sede della societa' e le eventuali sedi secondarie; 3) la indicazione specifica dell'oggetto sociale con riferimento ai requisiti e agli interessi dei soci; 4) la quota di capitale sottoscritta da ciascun socio, i versamenti eseguiti e, se il capitale e' ripartito in azioni, il loro valore nominale; 5) il valore attribuito ai crediti e ai beni conferiti in natura; 6) i requisiti e le condizioni per l'ammissione dei soci e il modo e il tempo in cui devono essere eseguiti i conferimenti; 7) le condizioni per l'eventuale recesso o per la esclusione dei soci; 8) le regole per la ripartizione degli utili e i criteri per la ripartizione dei ristorni; 9) le forme di convocazione dell'assemblea, in quanto si deroga alle disposizioni di legge; 10) il sistema di amministrazione adottato, il numero degli amministratori e i loro poteri, indicando quali tra essi hanno la rappresentanza della societa'; 11) il numero dei componenti del collegio sindacale; 12) la nomina dei primi amministratori e sindaci; 13) l'importo globale, almeno approssimativo, delle spese per la costituzione poste a carico delle societa'. Lo statuto contenente le norme relative al funzionamento della societa', anche se forma oggetto di atto separato, si considera parte integrante dell'atto costitutivo. I rapporti tra la societa' e i soci possono essere disciplinati da regolamenti che determinano i criteri e le regole inerenti allo svolgimento dell'attivita' mutualistica tra la societa' e i soci. I regolamenti, quando non costituiscono parte integrante dell'atto costitutivo, sono predisposti dagli amministratori e approvati dall'assemblea con le maggioranze previste per le assemblee straordinarie.",
+    "con_marcatori": "Art. 2521. (( (Atto costitutivo).)) ((La societa' deve costituirsi per atto pubblico. L'atto costitutivo stabilisce le regole per lo svolgimento dell'attivita' mutualistica e puo' prevedere che la societa' svolga la propria attivita' anche con terzi. L'atto costitutivo deve indicare: 1) il cognome e il nome o la denominazione, il luogo e la data di nascita o di costituzione, il domicilio o la sede, la cittadinanza dei soci; 2) la denominazione, e il comune ove e' posta la sede della societa' e le eventuali sedi secondarie; 3) la indicazione specifica dell'oggetto sociale con riferimento ai requisiti e agli interessi dei soci; 4) la quota di capitale sottoscritta da ciascun socio, i versamenti eseguiti e, se il capitale e' ripartito in azioni, il loro valore nominale; 5) il valore attribuito ai crediti e ai beni conferiti in natura; 6) i requisiti e le condizioni per l'ammissione dei soci e il modo e il tempo in cui devono essere eseguiti i conferimenti; 7) le condizioni per l'eventuale recesso o per la esclusione dei soci; 8) le regole per la ripartizione degli utili e i criteri per la ripartizione dei ristorni; 9) le forme di convocazione dell'assemblea, in quanto si deroga alle disposizioni di legge; 10) il sistema di amministrazione adottato, il numero degli amministratori e i loro poteri, indicando quali tra essi hanno la rappresentanza della societa'; 11) il numero dei componenti del collegio sindacale; 12) la nomina dei primi amministratori e sindaci; 13) l'importo globale, almeno approssimativo, delle spese per la costituzione poste a carico delle societa'. Lo statuto contenente le norme relative al funzionamento della societa', anche se forma oggetto di atto separato, si considera parte integrante dell'atto costitutivo. I rapporti tra la societa' e i soci possono essere disciplinati da regolamenti che determinano i criteri e le regole inerenti allo svolgimento dell'attivita' mutualistica tra la societa' e i soci. I regolamenti, quando non costituiscono parte integrante dell'atto costitutivo, sono predisposti dagli amministratori e approvati dall'assemblea con le maggioranze previste per le assemblee straordinarie.))",
+    "caratteri": 2121
+  },
+  "note": [
+    {
+      "numero": 113,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 giugno 1998, n. 213",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-06-24;213",
+          "data": "1998-06-24",
+          "numero": "213",
+          "data_gazzetta": "1998-07-08"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 giugno 1998, n. 213 ha disposto (con l'art. 4, comma 2) che le presenti modifiche decorrono dal 1 gennaio 2002."
+    }
+  ],
+  "impronta": "sha256:4faf74de6307f1aa371441adba7193625a75a3d2377856b96c5cc9f9853aa1d2"
+}

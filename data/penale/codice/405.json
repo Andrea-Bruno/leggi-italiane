@@ -1,0 +1,76 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "405",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art405"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 185,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "(Turbamento di funzioni religiose del culto di una confessione religiosa ) Chiunque impedisce o turba l'esercizio di funzioni, cerimonie o pratiche religiose del culto di una confessione religiosa, le quali si compiano con l'assistenza di un ministro del culto medesimo o in un luogo destinato al culto, o in un luogo pubblico o aperto al pubblico, e' punito con la reclusione fino a due anni. Se concorrono fatti di violenza alle persone o di minaccia, si applica la reclusione da uno a tre anni.",
+    "con_marcatori": "Art. 405. (Turbamento di funzioni religiose ((del culto di una confessione religiosa)) ) Chiunque impedisce o turba l'esercizio di funzioni, cerimonie o pratiche religiose ((del culto di una confessione religiosa)), le quali si compiano con l'assistenza di un ministro del culto medesimo o in un luogo destinato al culto, o in un luogo pubblico o aperto al pubblico, e' punito con la reclusione fino a due anni. Se concorrono fatti di violenza alle persone o di minaccia, si applica la reclusione da uno a tre anni. (185)",
+    "caratteri": 497
+  },
+  "note": [
+    {
+      "numero": 185,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articolo 405 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 406 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2002-07-09",
+        "numero": "327"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 1 - 9 luglio 2002, n. 327 (in G.U. 1ª s.s. 17/7/2002, n. 28), ha dichiarato \"l'illegittimita' costituzionale dell'articolo 405 del codice penale, nella parte in cui, per i fatti di turbamento di funzioni religiose del culto cattolico, prevede pene piu' gravi, anziche' le pene diminuite stabilite dall'articolo 406 del codice penale per gli stessi fatti commessi contro gli altri culti\"."
+    }
+  ],
+  "impronta": "sha256:31eaeca7f9425c17018347c58322f9783dac0738c23b132fc3b42325ad5fae57"
+}

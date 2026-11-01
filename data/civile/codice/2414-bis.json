@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2414-bis",
+    "rubrica": "Costituzione delle garanzie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2414-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La deliberazione di emissione di obbligazioni che preveda la costituzione di garanzie reali a favore dei sottoscrittori deve designare un notaio che, per conto dei sottoscrittori, compia le formalita' necessarie per la costituzione delle garanzie medesime. Qualora un azionista pubblico garantisca i titoli obbligazionari si applica il numero 5) dell'articolo 2414. Le garanzie, reali e personali e di qualunque altra natura e le cessioni di credito in garanzia, che assistono i titoli obbligazionari possono essere costituite in favore dei sottoscrittori delle obbligazioni o anche di un loro rappresentante che sara' legittimato a esercitare in nome e per conto dei sottoscrittori tutti i diritti, sostanziali e processuali, relativi alle garanzie medesime.",
+    "con_marcatori": "Art. 2414-bis. (Costituzione delle garanzie). La deliberazione di emissione di obbligazioni che preveda la costituzione di garanzie reali a favore dei sottoscrittori deve designare un notaio che, per conto dei sottoscrittori, compia le formalita' necessarie per la costituzione delle garanzie medesime. Qualora un azionista pubblico garantisca i titoli obbligazionari si applica il numero 5) dell'articolo 2414. ((Le garanzie, reali e personali e di qualunque altra natura e le cessioni di credito in garanzia, che assistono i titoli obbligazionari possono essere costituite in favore dei sottoscrittori delle obbligazioni o anche di un loro rappresentante che sara' legittimato a esercitare in nome e per conto dei sottoscrittori tutti i diritti, sostanziali e processuali, relativi alle garanzie medesime.))",
+    "caratteri": 759
+  },
+  "note": [],
+  "impronta": "sha256:ca447d88e78296426cf18939b4e15b1e78435e21131a632f5f800124d2758e00"
+}

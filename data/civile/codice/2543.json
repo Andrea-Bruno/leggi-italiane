@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2543",
+    "rubrica": "Organo di controllo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2543"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La nomina del collegio sindacale e' obbligatoria nei casi previsti dal secondo e terzo comma dell'articolo 2477, nonche' quando la societa' emette strumenti finanziari non partecipativi. L'atto costitutivo puo' attribuire il diritto di voto nell'elezione dell'organo di controllo proporzionalmente alle quote o alle azioni possedute ovvero in ragione della partecipazione allo scambio mutualistico. I possessori degli strumenti finanziari dotati di diritti di amministrazione possono eleggere, se lo statuto lo prevede, nel complesso sino ad un terzo dei componenti dell'organo di controllo.",
+    "con_marcatori": "Art. 2543. (( (Organo di controllo).)) ((La nomina del collegio sindacale e' obbligatoria nei casi previsti dal secondo e terzo comma dell'articolo 2477, nonche' quando la societa' emette strumenti finanziari non partecipativi. L'atto costitutivo puo' attribuire il diritto di voto nell'elezione dell'organo di controllo proporzionalmente alle quote o alle azioni possedute ovvero in ragione della partecipazione allo scambio mutualistico. I possessori degli strumenti finanziari dotati di diritti di amministrazione possono eleggere, se lo statuto lo prevede, nel complesso sino ad un terzo dei componenti dell'organo di controllo.))",
+    "caratteri": 591
+  },
+  "note": [],
+  "impronta": "sha256:163fe0f0c970f4d7f84f1fac4f49b3e072e1849d02c80f23a83542465f3652d7"
+}

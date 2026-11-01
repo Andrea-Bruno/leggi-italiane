@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1335",
+    "rubrica": "Presunzione di conoscenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1335"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La proposta, l'accettazione, la loro revoca e ogni altra dichiarazione diretta a una determinata persona si reputano conosciute nel momento in cui giungono all'indirizzo del destinatario, se questi non prova di essere stato, senza sua colpa, nell'impossibilita' di averne notizia.",
+    "con_marcatori": "Art. 1335. (Presunzione di conoscenza). La proposta, l'accettazione, la loro revoca e ogni altra dichiarazione diretta a una determinata persona si reputano conosciute nel momento in cui giungono all'indirizzo del destinatario, se questi non prova di essere stato, senza sua colpa, nell'impossibilita' di averne notizia.",
+    "caratteri": 280
+  },
+  "note": [],
+  "impronta": "sha256:87449755ddc59992431d69b11cbf85e11f768bf53f79072285d3d6f953f024ad"
+}

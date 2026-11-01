@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2927",
+    "rubrica": "Evizione della cosa assegnata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2927"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assegnatario, se subisce l'evizione della cosa, ha diritto di ripetere quanto ha pagato agli altri creditori, salva la responsabilita' del creditore procedente per i danni e per le spese. L'assegnatario conserva le sue ragioni nei confronti del debitore espropriato, ma non le garanzie prestate da terzi.",
+    "con_marcatori": "Art. 2927. (Evizione della cosa assegnata). L'assegnatario, se subisce l'evizione della cosa, ha diritto di ripetere quanto ha pagato agli altri creditori, salva la responsabilita' del creditore procedente per i danni e per le spese. L'assegnatario conserva le sue ragioni nei confronti del debitore espropriato, ma non le garanzie prestate da terzi.",
+    "caratteri": 306
+  },
+  "note": [],
+  "impronta": "sha256:c2250d44b93babc41dbaf15b8c252fd9c5f201aeece7922c2acd65fe8635d262"
+}

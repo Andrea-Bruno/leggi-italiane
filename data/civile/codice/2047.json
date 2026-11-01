@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2047",
+    "rubrica": "Danno cagionato dall'incapace",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2047"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di danno cagionato da persona incapace di intendere o di volere, il risarcimento e' dovuto da chi e' tenuto alla sorveglianza dell'incapace, salvo che provi di non aver potuto impedire il fatto. Nel caso in cui il danneggiato non abbia potuto ottenere il risarcimento da chi e' tenuto alla sorveglianza, il giudice, in considerazione delle condizioni economiche delle parti, puo' condannare l'autore del danno a un'equa indennita'.",
+    "con_marcatori": "Art. 2047. (Danno cagionato dall'incapace). In caso di danno cagionato da persona incapace di intendere o di volere, il risarcimento e' dovuto da chi e' tenuto alla sorveglianza dell'incapace, salvo che provi di non aver potuto impedire il fatto. Nel caso in cui il danneggiato non abbia potuto ottenere il risarcimento da chi e' tenuto alla sorveglianza, il giudice, in considerazione delle condizioni economiche delle parti, puo' condannare l'autore del danno a un'equa indennita'.",
+    "caratteri": 439
+  },
+  "note": [],
+  "impronta": "sha256:51a733f48a9e2b1162de589f070fc5f177f112ec4a323605f4e0a1ed515a7198"
+}

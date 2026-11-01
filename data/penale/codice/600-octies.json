@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "600-octies",
+    "rubrica": "Impiego di minori nell'accattonaggio. Organizzazione e favoreggiamento dell'accattonaggio. Induzione e costrizione all'accattonaggio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art600-octies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque si avvale per mendicare di una persona minore degli anni sedici o, comunque, non imputabile, ovvero permette che tale persona, ove sottoposta alla sua autorita' o affidata alla sua custodia o vigilanza, mendichi, o che altri se ne avvalga per mendicare, e' punito con la reclusione da uno a cinque anni. Chiunque induca un terzo all'accattonaggio, organizzi l'altrui accattonaggio, se ne avvalga o comunque lo favorisca a fini di profitto e' punito con la reclusione da due a sei anni. La pena e' aumentata da un terzo alla meta' se il fatto e' commesso con violenza o minaccia o nei confronti di persona minore degli anni sedici o comunque non imputabile.",
+    "con_marcatori": "Art. 600-octies. ((Impiego di minori nell'accattonaggio. Organizzazione e favoreggiamento dell'accattonaggio. Induzione e costrizione all'accattonaggio)) Salvo che il fatto costituisca piu' grave reato, chiunque si avvale per mendicare di una persona minore degli anni ((sedici)) o, comunque, non imputabile, ovvero permette che tale persona, ove sottoposta alla sua autorita' o affidata alla sua custodia o vigilanza, mendichi, o che altri se ne avvalga per mendicare, e' punito con la reclusione ((da uno a cinque anni)). ((Chiunque induca un terzo all'accattonaggio, organizzi l'altrui accattonaggio, se ne avvalga o comunque lo favorisca a fini di profitto e' punito con la reclusione da due a sei anni. La pena e' aumentata da un terzo alla meta' se il fatto e' commesso con violenza o minaccia o nei confronti di persona minore degli anni sedici o comunque non imputabile)).",
+    "caratteri": 714
+  },
+  "note": [],
+  "impronta": "sha256:486a2bb44fb2e8050568c23017dbb456fa77a98c2c68a2d90966fdc79649c51d"
+}

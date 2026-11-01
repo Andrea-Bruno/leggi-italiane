@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "450",
+    "rubrica": "Pubblicita' dei registri dello stato civile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art450"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I registri dello stato civile sono pubblici. Gli ufficiali dello stato civile devono rilasciare gli estratti e i certificati che vengono loro domandati con le indicazioni dalla legge prescritte. Essi devono altresi' compiere negli atti affidati alla loro custodia le indagini domandate dai privati.",
+    "con_marcatori": "Art. 450. (Pubblicita' dei registri dello stato civile). I registri dello stato civile sono pubblici. Gli ufficiali dello stato civile devono rilasciare gli estratti e i certificati che vengono loro domandati con le indicazioni dalla legge prescritte. Essi devono altresi' compiere negli atti affidati alla loro custodia le indagini domandate dai privati.",
+    "caratteri": 298
+  },
+  "note": [],
+  "impronta": "sha256:d48446d30c3288cf556aa5c0543967c3d40df5a68a91bdd248e4149b67083cdc"
+}

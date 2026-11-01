@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1153",
+    "rubrica": "Effetti dell'acquisto del possesso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1153"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Colui al quale sono alienati beni mobili da parte di chi non ne e' proprietario, ne acquista la proprieta' mediante il possesso, purche' sia in buona fede al momento della consegna e sussista un titolo idoneo al trasferimento della proprieta'. La proprieta' si acquista libera da diritti altrui sulla cosa, se questi non risultano dal titolo e vi e' la buona fede dell'acquirente. Nello stesso modo si acquistano i diritti di usufrutto, di uso e di pegno.",
+    "con_marcatori": "Art. 1153. (Effetti dell'acquisto del possesso). Colui al quale sono alienati beni mobili da parte di chi non ne e' proprietario, ne acquista la proprieta' mediante il possesso, purche' sia in buona fede al momento della consegna e sussista un titolo idoneo al trasferimento della proprieta'. La proprieta' si acquista libera da diritti altrui sulla cosa, se questi non risultano dal titolo e vi e' la buona fede dell'acquirente. Nello stesso modo si acquistano i diritti di usufrutto, di uso e di pegno.",
+    "caratteri": 455
+  },
+  "note": [],
+  "impronta": "sha256:397a43d6e5c1daaa137bf5dc29bd0e6cfe2e781139fb299c866638e9c9ca435c"
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2522",
+    "rubrica": "Numero dei soci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2522"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per costituire una societa' cooperativa e' necessario che i soci siano almeno nove. Puo' essere costituita una societa' cooperativa da almeno tre soci quando i medesimi sono persone fisiche e la societa' adotta le norme della societa' a responsabilita' limitata; nel caso di attivita' agricola possono essere soci anche le societa' semplici. Se successivamente alla costituzione il numero dei soci diviene inferiore a quello stabilito nei precedenti commi, esso deve essere integrato nel termine massimo di un anno, trascorso il quale la societa' si scioglie e deve essere posta in liquidazione. La legge determina il numero minimo di soci necessario per la costituzione di particolari categorie di cooperative.",
+    "con_marcatori": "Art. 2522. (Numero dei soci). Per costituire una societa' cooperativa e' necessario che i soci siano almeno nove. Puo' essere costituita una societa' cooperativa da almeno tre soci quando i medesimi sono persone fisiche e la societa' adotta le norme della societa' a responsabilita' limitata; nel caso di attivita' agricola possono essere soci anche le societa' semplici. Se successivamente alla costituzione il numero dei soci diviene inferiore a quello stabilito nei precedenti commi, esso deve essere integrato nel termine massimo di un anno, trascorso il quale la societa' si scioglie e deve essere posta in liquidazione. La legge determina il numero minimo di soci necessario per la costituzione di particolari categorie di cooperative. ((262))",
+    "caratteri": 711
+  },
+  "note": [
+    {
+      "numero": 262,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 27 febbraio 1985, n. 49",
+          "urn": "urn:nir:stato:legge:1985-02-27;49",
+          "data": "1985-02-27",
+          "numero": "49",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "L. 11 dicembre 2016, n. 232",
+          "urn": "urn:nir:stato:legge:2016-12-11;232",
+          "data": "2016-12-11",
+          "numero": "232",
+          "data_gazzetta": "2016-12-21"
+        },
+        {
+          "denominazione": "articolo 2522 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 27 febbraio 1985, n. 49 come modificata dalla L. 11 dicembre 2016, n. 232 ha disposto (con l'art. 17, comma 5-bis) che \"In deroga a quanto previsto dall'articolo 2522 del codice civile, le societa' finanziarie possono intervenire nelle societa' cooperative costituite da meno di nove soci\"."
+    }
+  ],
+  "impronta": "sha256:e1e5719f5c63396cc8ed7709c8d6889958b5a65a43a65e99c77756918dbcf4e7"
+}

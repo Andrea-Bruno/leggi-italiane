@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1526",
+    "rubrica": "Risoluzione del contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1526"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la risoluzione del contratto ha luogo per l'inadempimento del compratore, il venditore deve restituire le rate riscosse, salvo il diritto a un equo compenso per l'uso della cosa, oltre al risarcimento del danno. Qualora si sia convenuto che le rate pagate restino acquisite al venditore a titolo d'indennita', il giudice, secondo le circostanze, puo' ridurre l'indennita' convenuta. La stessa disposizione si applica nel caso in cui il contratto sia configurato come locazione, e sia convenuto che, al termine di esso, la proprieta' della cosa sia acquisita al conduttore per effetto del pagamento dei canoni pattuiti.",
+    "con_marcatori": "Art. 1526. (Risoluzione del contratto). Se la risoluzione del contratto ha luogo per l'inadempimento del compratore, il venditore deve restituire le rate riscosse, salvo il diritto a un equo compenso per l'uso della cosa, oltre al risarcimento del danno. Qualora si sia convenuto che le rate pagate restino acquisite al venditore a titolo d'indennita', il giudice, secondo le circostanze, puo' ridurre l'indennita' convenuta. La stessa disposizione si applica nel caso in cui il contratto sia configurato come locazione, e sia convenuto che, al termine di esso, la proprieta' della cosa sia acquisita al conduttore per effetto del pagamento dei canoni pattuiti.",
+    "caratteri": 621
+  },
+  "note": [],
+  "impronta": "sha256:5f259db41c089b971af60c691a56a2417e69a3684c2e130c8975825775b4d1f5"
+}

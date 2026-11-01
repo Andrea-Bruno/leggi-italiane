@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2546",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2546"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella societa' di mutua assicurazione le obbligazioni sono garantite dal patrimonio sociale. I soci sono tenuti al pagamento dei contributi fissi o variabili, entro il limite massimo determinato dall'atto costitutivo. Nelle mutue assicuratrici non si puo' acquistare la qualita' di socio, se non assicurandosi presso la societa', e si perde la qualita' di socio con l'estinguersi dell'assicurazione, salvo quanto disposto dall'articolo 2548.",
+    "con_marcatori": "Art. 2546. (( (Nozione).)) ((Nella societa' di mutua assicurazione le obbligazioni sono garantite dal patrimonio sociale. I soci sono tenuti al pagamento dei contributi fissi o variabili, entro il limite massimo determinato dall'atto costitutivo. Nelle mutue assicuratrici non si puo' acquistare la qualita' di socio, se non assicurandosi presso la societa', e si perde la qualita' di socio con l'estinguersi dell'assicurazione, salvo quanto disposto dall'articolo 2548.))",
+    "caratteri": 441
+  },
+  "note": [],
+  "impronta": "sha256:33725eefc87fb4d9486097fbe01df5448292acb0e8164eb5806d0cac5d83af72"
+}

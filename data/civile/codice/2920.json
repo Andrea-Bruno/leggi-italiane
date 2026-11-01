@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2920",
+    "rubrica": "Diritti di terzi sulla cosa mobile venduta",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2920"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se oggetto della vendita e' una cosa mobile, coloro che avevano la proprieta' o altri diritti reali su di essa, ma non hanno fatto valere le loro ragioni sulla somma ricavata dall'esecuzione, non possono farle valere nei confronti dell'acquirente di buona fede, ne' possono ripetere dai creditori la somma distribuita. Resta ferma la responsabilita' del creditore procedente di mala fede per i danni e per le spese.",
+    "con_marcatori": "Art. 2920. (Diritti di terzi sulla cosa mobile venduta). Se oggetto della vendita e' una cosa mobile, coloro che avevano la proprieta' o altri diritti reali su di essa, ma non hanno fatto valere le loro ragioni sulla somma ricavata dall'esecuzione, non possono farle valere nei confronti dell'acquirente di buona fede, ne' possono ripetere dai creditori la somma distribuita. Resta ferma la responsabilita' del creditore procedente di mala fede per i danni e per le spese.",
+    "caratteri": 415
+  },
+  "note": [],
+  "impronta": "sha256:98853a44b5d885763b96ed98ce01f7cebb8401e97c0b77f32d195a1cca2e8eee"
+}

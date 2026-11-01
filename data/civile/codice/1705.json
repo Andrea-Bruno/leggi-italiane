@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1705",
+    "rubrica": "Mandato senza rappresentanza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1705"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mandatario che agisce in proprio nome acquista i diritti e assume gli obblighi derivanti dagli atti compiuti con i terzi, anche se questi hanno avuto conoscenza del mandato. I terzi non hanno alcun rapporto col mandante. Tuttavia il mandante, sostituendosi al mandatario, puo' esercitare i diritti di credito derivanti dall'esecuzione del mandato, salvo che cio' possa pregiudicare i diritti attribuiti al mandatario dalle disposizioni degli articoli che seguono.",
+    "con_marcatori": "Art. 1705. (Mandato senza rappresentanza). Il mandatario che agisce in proprio nome acquista i diritti e assume gli obblighi derivanti dagli atti compiuti con i terzi, anche se questi hanno avuto conoscenza del mandato. I terzi non hanno alcun rapporto col mandante. Tuttavia il mandante, sostituendosi al mandatario, puo' esercitare i diritti di credito derivanti dall'esecuzione del mandato, salvo che cio' possa pregiudicare i diritti attribuiti al mandatario dalle disposizioni degli articoli che seguono.",
+    "caratteri": 466
+  },
+  "note": [],
+  "impronta": "sha256:a4a54d7566bc74a9150dfabdae955e64d4b21fa6ef6e53e8e669727e50be0b4d"
+}

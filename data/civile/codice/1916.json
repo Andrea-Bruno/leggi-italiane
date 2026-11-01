@@ -1,0 +1,99 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1916",
+    "rubrica": "Diritto di surrogazione dell'assicuratore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1916"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 41,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 79,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "L'assicuratore che ha pagato l'indennita' e' surrogato, fino alla concorrenza dell'ammontare di essa, nei diritti dell'assicurato verso i terzi responsabili. Salvo il caso di dolo, la surrogazione non ha luogo se il danno e' causato dai figli, ... dagli ascendenti, da altri parenti o da affini dell'assicurato stabilmente con lui conviventi o da domestici. L'assicurato e' responsabile verso l'assicuratore del pregiudizio arrecato al diritto di surrogazione. Le disposizioni di questo articolo si applicano anche alle assicurazioni contro gli infortuni sul lavoro e contro le disgrazie accidentali.",
+    "con_marcatori": "Art. 1916. (Diritto di surrogazione dell'assicuratore). L'assicuratore che ha pagato l'indennita' e' surrogato, fino alla concorrenza dell'ammontare di essa, nei diritti dell'assicurato verso i terzi responsabili. Salvo il caso di dolo, la surrogazione non ha luogo se il danno e' causato dai figli, ((...)) dagli ascendenti, da altri parenti o da affini dell'assicurato stabilmente con lui conviventi o da domestici. (41) L'assicurato e' responsabile verso l'assicuratore del pregiudizio arrecato al diritto di surrogazione. Le disposizioni di questo articolo si applicano anche alle assicurazioni contro gli infortuni sul lavoro e contro le disgrazie accidentali. (79)",
+    "caratteri": 600
+  },
+  "note": [
+    {
+      "numero": 41,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 1916, comma secondo, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1975-05-21",
+        "numero": "117"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 7 - 21 maggio 1975, n. 117 (in G.U. 1a s.s. 28/05/1975, n. 140), ha dichiarato \"la illegittimita' costituzionale dell'art. 1916, comma secondo, del codice civile, nella parte in cui non annovera, tra le persone nei confronti delle quali non e' ammessa surrogazione, il coniuge dell'assicurato\"."
+    },
+    {
+      "numero": 79,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 1916 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1991-07-18",
+        "numero": "356"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 11 - 18 luglio 1991, n. 356 (in G.U. 1a s.s. 24/07/1991, n. 29), ha dichiarato \"l'illegittimita' costituzionale dell'art. 1916 del codice civile nella parte in cui consente all'assicuratore di avvalersi, nell'esercizio del diritto di surrogazione nei confronti del terzo responsabile, anche delle somme da questi dovute all'assicurato a titolo di risarcimento del danno biologico\"."
+    }
+  ],
+  "impronta": "sha256:adf91af35d86852810310013bd4511b85e766468e10af74d2421419abe7d0115"
+}

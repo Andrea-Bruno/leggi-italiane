@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "427",
+    "rubrica": "Atti compiuti dall'interdetto e dall'inabilitato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art427"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella sentenza che pronuncia l'interdizione o l'inabilitazione, o in successivi provvedimenti dell'autorita' giudiziaria, puo' stabilirsi che taluni atti di ordinaria amministrazione possano essere compiuti dall'interdetto senza l'intervento ovvero con l'assistenza del tutore, o che taluni atti eccedenti l'ordinaria amministrazione possano essere compiuti dall'inabilitato senza l'assistenza del curatore. Gli atti compiuti dall'interdetto dopo la sentenza di interdizione possono essere annullati su istanza del tutore, dell'interdetto o dei suoi eredi o aventi causa. Sono del pari annullabili gli atti compiuti dall'interdetto dopo la nomina del tutore provvisorio, qualora alla nomina segua la sentenza d'interdizione. Possono essere annullati su istanza dell'inabilitato o dei suoi eredi o aventi causa gli atti eccedenti l'ordinaria amministrazione fatti dall'inabilitato, senza l'osservanza delle prescritte formalita', dopo la sentenza di inabilitazione o dopo la nomina del curatore provvisorio, qualora alla nomina sia seguita l'inabilitazione. Per gli atti compiuti dall'interdetto prima della sentenza d'interdizione o prima della nomina del tutore provvisorio si applicano le disposizioni dell'articolo seguente.",
+    "con_marcatori": "Art. 427. (Atti compiuti dall'interdetto e dall'inabilitato). ((Nella sentenza che pronuncia l'interdizione o l'inabilitazione, o in successivi provvedimenti dell'autorita' giudiziaria, puo' stabilirsi che taluni atti di ordinaria amministrazione possano essere compiuti dall'interdetto senza l'intervento ovvero con l'assistenza del tutore, o che taluni atti eccedenti l'ordinaria amministrazione possano essere compiuti dall'inabilitato senza l'assistenza del curatore)). Gli atti compiuti dall'interdetto dopo la sentenza di interdizione possono essere annullati su istanza del tutore, dell'interdetto o dei suoi eredi o aventi causa. Sono del pari annullabili gli atti compiuti dall'interdetto dopo la nomina del tutore provvisorio, qualora alla nomina segua la sentenza d'interdizione. Possono essere annullati su istanza dell'inabilitato o dei suoi eredi o aventi causa gli atti eccedenti l'ordinaria amministrazione fatti dall'inabilitato, senza l'osservanza delle prescritte formalita', dopo la sentenza di inabilitazione o dopo la nomina del curatore provvisorio, qualora alla nomina sia seguita l'inabilitazione. Per gli atti compiuti dall'interdetto prima della sentenza d'interdizione o prima della nomina del tutore provvisorio si applicano le disposizioni dell'articolo seguente.",
+    "caratteri": 1227
+  },
+  "note": [],
+  "impronta": "sha256:8159f719fa168d776d5b7e8df52b94f1208f90eab87fd25f5742a59ea0c14c70"
+}

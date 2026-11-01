@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2327",
+    "rubrica": "Ammontare minimo del capitale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2327"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' per azioni deve costituirsi con un capitale non inferiore a cinquantamila euro.",
+    "con_marcatori": "Art. 2327. (Ammontare minimo del capitale). La societa' per azioni deve costituirsi con un capitale non inferiore a ((cinquantamila)) euro.",
+    "caratteri": 91
+  },
+  "note": [
+    {
+      "numero": 113,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 giugno 1998, n. 213",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-06-24;213",
+          "data": "1998-06-24",
+          "numero": "213",
+          "data_gazzetta": "1998-07-08"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 giugno 1998, n. 213 ha disposto (con l'art. 4, comma 2) che la modifica del presente articolo decorre dal 1 gennaio 2002."
+    }
+  ],
+  "impronta": "sha256:ec6f3c87de645672b49e8dd8f7834693975c842deb1b8e773e3ff86fbb12e09c"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1702",
+    "rubrica": "Riscossione dei crediti da parte dell'ultimo vettore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1702"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ultimo vettore rappresenta i vettori precedenti per la riscossione dei rispettivi crediti che nascono dal contratto di trasporto e per l'esercizio del privilegio sulle cose trasportate. Se egli omette tale riscossione o l'esercizio del privilegio, e' responsabile verso i vettori precedenti per le somme loro dovute, salva l'azione contro il destinatario.",
+    "con_marcatori": "Art. 1702. (Riscossione dei crediti da parte dell'ultimo vettore). L'ultimo vettore rappresenta i vettori precedenti per la riscossione dei rispettivi crediti che nascono dal contratto di trasporto e per l'esercizio del privilegio sulle cose trasportate. Se egli omette tale riscossione o l'esercizio del privilegio, e' responsabile verso i vettori precedenti per le somme loro dovute, salva l'azione contro il destinatario.",
+    "caratteri": 357
+  },
+  "note": [],
+  "impronta": "sha256:38fbfdd7f8f7638e88b97ce4156aa5c14419800262ac9f9f42d276a4c3e4fb8c"
+}

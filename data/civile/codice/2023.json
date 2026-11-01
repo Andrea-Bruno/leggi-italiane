@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2023",
+    "rubrica": "Trasferimento mediante girata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2023"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo diverse disposizioni della legge, il titolo nominativo puo' essere trasferito anche mediante girata autenticata da un notaio o da un agente di cambio. La girata deve essere datata e sottoscritta dal girante e contenere l'indicazione del giratario. Se il titolo non e' interamente liberato, e' necessaria anche la sottoscrizione del giratario. Il trasferimento mediante girata non ha efficacia nei confronti dell'emittente fino a che non ne sia fatta annotazione nel registro. Il giratario che si dimostra possessore del titolo in base a una serie continua di girate ha diritto di ottenere l'annotazione del trasferimento nel registro dell'emittente.",
+    "con_marcatori": "Art. 2023. (Trasferimento mediante girata). Salvo diverse disposizioni della legge, il titolo nominativo puo' essere trasferito anche mediante girata autenticata da un notaio o da un agente di cambio. La girata deve essere datata e sottoscritta dal girante e contenere l'indicazione del giratario. Se il titolo non e' interamente liberato, e' necessaria anche la sottoscrizione del giratario. Il trasferimento mediante girata non ha efficacia nei confronti dell'emittente fino a che non ne sia fatta annotazione nel registro. Il giratario che si dimostra possessore del titolo in base a una serie continua di girate ha diritto di ottenere l'annotazione del trasferimento nel registro dell'emittente.",
+    "caratteri": 655
+  },
+  "note": [],
+  "impronta": "sha256:074d7dfb9a995b1d2594b3ae971dd87bcec660db6ee52cf0e17b86eb1b9dc1d6"
+}

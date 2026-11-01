@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2545-octies",
+    "rubrica": "Perdita della qualifica di cooperativa a mutualita' prevalente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2545-octies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La cooperativa perde la qualifica di cooperativa a mutualita' prevalente quando, per due esercizi consecutivi, non rispetti la condizione di prevalenza, di cui all'articolo 2513, ovvero quando modifichi le previsioni statutarie di cui all'articolo 2514. In questo caso, sentito il parere del revisore esterno, ove presente, gli amministratori devono redigere un apposito bilancio, da notificarsi entro sessanta giorni dalla approvazione al Ministero delle attivita' produttive, al fine di determinare il valore effettivo dell'attivo patrimoniale da imputare alle riserve indivisibili. Il bilancio deve essere verificato senza rilievi da una societa' di revisione. Qualora la cooperativa abbia perso la qualifica di cooperativa a mutualita' prevalente per il mancato rispetto della condizione di prevalenza di cui all'articolo 2513, l'obbligo di cui al secondo comma si applica soltanto nel caso in cui la cooperativa medesima modifichi le previsioni statutarie di cui all'articolo 2514 o abbia emesso strumenti finanziari. In tutti i casi di perdita della citata qualifica, la cooperativa e' tenuta a segnalare espressamente tale condizione attraverso gli strumenti di comunicazione informatica previsti dall'articolo 223- sexiesdecies delle disposizioni per l'attuazione del presente codice. Lo stesso obbligo sussiste per la cooperativa nel caso in cui le risultanze contabili relative al primo anno successivo alla perdita della detta qualifica evidenzino il rientro nei parametri della mutualita' prevalente. In seguito alle predette segnalazioni, l'amministrazione presso la quale e' tenuto l'albo delle societa' cooperative provvede alla variazione della sezione di iscrizione all'albo medesimo senza alcun ulteriore onere istruttorio. L'omessa o ritardata comunicazione della perdita della qualifica di cooperativa a mutualita' prevalente e' segnalata all'amministrazione finanziaria e comporta l'applicazione della sanzione amministrativa della sospensione semestrale di ogni attivita' dell'ente, intesa come divieto di assumere nuove eventuali obbligazioni contrattuali.",
+    "con_marcatori": "Art. 2545-octies. (Perdita della qualifica di cooperativa a mutualita' prevalente). La cooperativa perde la qualifica di cooperativa a mutualita' prevalente quando, per due esercizi consecutivi, non rispetti la condizione di prevalenza, di cui all'articolo 2513, ovvero quando modifichi le previsioni statutarie di cui all'articolo 2514. In questo caso, sentito il parere del revisore esterno, ove presente, gli amministratori devono redigere un apposito bilancio, da notificarsi entro sessanta giorni dalla approvazione al Ministero delle attivita' produttive, al fine di determinare il valore effettivo dell'attivo patrimoniale da imputare alle riserve indivisibili. Il bilancio deve essere verificato senza rilievi da una societa' di revisione. ((Qualora la cooperativa abbia perso la qualifica di cooperativa a mutualita' prevalente per il mancato rispetto della condizione di prevalenza di cui all'articolo 2513, l'obbligo di cui al secondo comma si applica soltanto nel caso in cui la cooperativa medesima modifichi le previsioni statutarie di cui all'articolo 2514 o abbia emesso strumenti finanziari. In tutti i casi di perdita della citata qualifica, la cooperativa e' tenuta a segnalare espressamente tale condizione attraverso gli strumenti di comunicazione informatica previsti dall'articolo 223- sexiesdecies delle disposizioni per l'attuazione del presente codice. Lo stesso obbligo sussiste per la cooperativa nel caso in cui le risultanze contabili relative al primo anno successivo alla perdita della detta qualifica evidenzino il rientro nei parametri della mutualita' prevalente. In seguito alle predette segnalazioni, l'amministrazione presso la quale e' tenuto l'albo delle societa' cooperative provvede alla variazione della sezione di iscrizione all'albo medesimo senza alcun ulteriore onere istruttorio. L'omessa o ritardata comunicazione della perdita della qualifica di cooperativa a mutualita' prevalente e' segnalata all'amministrazione finanziaria e comporta l'applicazione della sanzione amministrativa della sospensione semestrale di ogni attivita' dell'ente, intesa come divieto di assumere nuove eventuali obbligazioni contrattuali)).",
+    "caratteri": 2079
+  },
+  "note": [],
+  "impronta": "sha256:a075c8d203ecfea5bf6ff83d89ad065dcf6ec1a4257e715754613f67e40ad3a2"
+}

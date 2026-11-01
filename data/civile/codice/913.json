@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "913",
+    "rubrica": "Scolo delle acque",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art913"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il fondo inferiore e' soggetto a ricevere le acque che dal fondo piu' elevato scolano naturalmente, senza che sia intervenuta l'opera dell'uomo. Il proprietario del fondo inferiore non puo' impedire questo scolo, ne' il proprietario del fondo superiore puo' renderlo piu' gravoso. Se per opere di sistemazione agraria dell'uno o dell'altro fondo si rende necessaria una modificazione del deflusso naturale delle acque, e' dovuta un'indennita' al proprietario del fondo a cui la modificazione stessa ha recato pregiudizio.",
+    "con_marcatori": "Art. 913. (Scolo delle acque). Il fondo inferiore e' soggetto a ricevere le acque che dal fondo piu' elevato scolano naturalmente, senza che sia intervenuta l'opera dell'uomo. Il proprietario del fondo inferiore non puo' impedire questo scolo, ne' il proprietario del fondo superiore puo' renderlo piu' gravoso. Se per opere di sistemazione agraria dell'uno o dell'altro fondo si rende necessaria una modificazione del deflusso naturale delle acque, e' dovuta un'indennita' al proprietario del fondo a cui la modificazione stessa ha recato pregiudizio.",
+    "caratteri": 521
+  },
+  "note": [],
+  "impronta": "sha256:c74ba228c4f25fd256b309f1eed75ffcdcdaec9e17e1150defcaca0396d3f3ee"
+}

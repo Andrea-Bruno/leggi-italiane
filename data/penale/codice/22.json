@@ -1,0 +1,76 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "22",
+    "rubrica": "Ergastolo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art22"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 139,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La pena dell'ergastolo e' perpetua, ed e' scontata in uno degli stabilimenti a cio' destinati, con l'obbligo del lavoro e con l'isolamento notturno. Il condannato all'ergastolo puo' essere ammesso al lavoro all'aperto. COMMA ABROGATO DALLA L. 25 NOVEMBRE 1962, N. 1634. COMMA ABROGATO DALLA L. 25 NOVEMBRE 1962, N. 1634.",
+    "con_marcatori": "Art. 22. (Ergastolo) La pena dell'ergastolo e' perpetua, ed e' scontata in uno degli stabilimenti a cio' destinati, con l'obbligo del lavoro e con l'isolamento notturno. Il condannato all'ergastolo puo' essere ammesso al lavoro all'aperto. COMMA ABROGATO DALLA L. 25 NOVEMBRE 1962, N. 1634. COMMA ABROGATO DALLA L. 25 NOVEMBRE 1962, N. 1634. ((139))",
+    "caratteri": 320
+  },
+  "note": [
+    {
+      "numero": 139,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "artt. 17",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "22 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1994-04-28",
+        "numero": "168"
+      },
+      "testo": "La Corte Costituzionale con sentenza 27-28 aprile 1994, n. 168 (in G.U. 1ª s.s. 04/05/1994, n. 19) ha dichiarato \"l'illegittimita' costituzionale degli artt. 17 e 22 del codice penale nella parte in cui non escludono l'applicazione della pena dell'ergastolo al minore imputabile\"."
+    }
+  ],
+  "impronta": "sha256:5c99e93ef5a43c6914412c3f9043f1eb1964481e6b3efdfbbf5ab86f12060d81"
+}

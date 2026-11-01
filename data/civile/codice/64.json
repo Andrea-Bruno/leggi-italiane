@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "64",
+    "rubrica": "Immissione nel possesso e inventario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art64"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non v'e' stata immissione nel possesso temporaneo dei beni, gli aventi diritto indicati nei capoversi dell'art. 50 o i loro successori conseguono il pieno esercizio dei diritti loro spettanti, quando e' diventata eseguibile la sentenza menzionata nell'art. 58. Coloro che prendono possesso dei beni devono fare precedere l'inventario dei beni. Parimenti devono far precedere l'inventario dei beni coloro che succedono per effetto della dichiarazione di morte presunta nei casi indicati dall'art. 60.",
+    "con_marcatori": "Art. 64. (Immissione nel possesso e inventario). Se non v'e' stata immissione nel possesso temporaneo dei beni, gli aventi diritto indicati nei capoversi dell'art. 50 o i loro successori conseguono il pieno esercizio dei diritti loro spettanti, quando e' diventata eseguibile la sentenza menzionata nell'art. 58. Coloro che prendono possesso dei beni devono fare precedere l'inventario dei beni. Parimenti devono far precedere l'inventario dei beni coloro che succedono per effetto della dichiarazione di morte presunta nei casi indicati dall'art. 60.",
+    "caratteri": 502
+  },
+  "note": [],
+  "impronta": "sha256:3b4dcd194bedce3279d9da1ff62464208689333a35be031f1854787930a1660b"
+}

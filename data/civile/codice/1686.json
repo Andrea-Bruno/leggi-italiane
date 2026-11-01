@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1686",
+    "rubrica": "Impedimenti e ritardi nell'esecuzione del trasporto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1686"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'inizio o la continuazione del trasporto sono impediti o soverchiamente ritardati per causa non imputabile al vettore, questi deve chiedere immediatamente istruzioni al mittente, provvedendo alla custodia delle cose consegnategli. Se le circostanze rendono impossibile la richiesta di istruzioni al mittente o se le istruzioni non sono attuabili, il vettore puo' depositare le cose a norma dell'art. 1514, o, se sono soggette a rapido deterioramento, puo' farle vendere a norma dell'art. 1515. Il vettore deve informare prontamente il mittente del deposito o della vendita. Il vettore ha diritto al rimborso delle spese. Se il trasporto e' stato iniziato, egli ha diritto anche al pagamento del prezzo in proporzione del percorso compiuto, salvo che l'interruzione del trasporto sia dovuta alla perdita totale delle cose derivante da caso fortuito.",
+    "con_marcatori": "Art. 1686. (Impedimenti e ritardi nell'esecuzione del trasporto). Se l'inizio o la continuazione del trasporto sono impediti o soverchiamente ritardati per causa non imputabile al vettore, questi deve chiedere immediatamente istruzioni al mittente, provvedendo alla custodia delle cose consegnategli. Se le circostanze rendono impossibile la richiesta di istruzioni al mittente o se le istruzioni non sono attuabili, il vettore puo' depositare le cose a norma dell'art. 1514, o, se sono soggette a rapido deterioramento, puo' farle vendere a norma dell'art. 1515. Il vettore deve informare prontamente il mittente del deposito o della vendita. Il vettore ha diritto al rimborso delle spese. Se il trasporto e' stato iniziato, egli ha diritto anche al pagamento del prezzo in proporzione del percorso compiuto, salvo che l'interruzione del trasporto sia dovuta alla perdita totale delle cose derivante da caso fortuito.",
+    "caratteri": 852
+  },
+  "note": [],
+  "impronta": "sha256:b08147e30cdb3f825c94dbbacb68354468d45b7b144d5204c7bcafeadf6bd5ea"
+}

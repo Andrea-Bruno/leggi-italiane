@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2545-quaterdecies",
+    "rubrica": "Controllo sulle societa' cooperative",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2545-quaterdecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le societa' cooperative sono sottoposte alle autorizzazioni, alla vigilanza e agli altri controlli sulla gestione previsti dalle leggi speciali.",
+    "con_marcatori": "Art. 2545-quaterdecies. (( (Controllo sulle societa' cooperative).)) ((Le societa' cooperative sono sottoposte alle autorizzazioni, alla vigilanza e agli altri controlli sulla gestione previsti dalle leggi speciali. ))",
+    "caratteri": 144
+  },
+  "note": [],
+  "impronta": "sha256:7664779092758f4ff7fc27b5cac0236d1ca2ab5c9b24e58146187eed1bc092e8"
+}

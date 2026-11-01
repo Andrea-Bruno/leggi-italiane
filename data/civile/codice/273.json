@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "273",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art273"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Azione nell'interesse del minore o dell'interdetto. L'azione per ottenere che sia giudizialmente dichiarata la paternita' o la maternita' ... puo' essere promossa, nell'interesse del minore, dal genitore che esercita la responsabilita' genitoriale prevista dall'articolo 316 o dal tutore. Il tutore pero' deve chiedere l'autorizzazione del giudice, il quale puo' anche nominare un curatore speciale. Occorre il consenso del figlio per promuovere o per proseguire l'azione se egli ha compiuto l'eta' di quattordici anni. Per l'interdetto l'azione puo' essere promossa dal tutore previa autorizzazione del giudice.",
+    "con_marcatori": "Art. 273. Azione nell'interesse del minore o dell'interdetto. L'azione per ottenere che sia giudizialmente dichiarata la paternita' o la maternita' ((...)) puo' essere promossa, nell'interesse del minore, dal genitore che esercita la ((responsabilita' genitoriale)) prevista dall'articolo 316 o dal tutore. Il tutore pero' deve chiedere l'autorizzazione del giudice, il quale puo' anche nominare un curatore speciale. Occorre il consenso del figlio per promuovere o per proseguire l'azione se egli ha compiuto l'eta' di ((quattordici)) anni. Per l'interdetto l'azione puo' essere promossa dal tutore previa autorizzazione del giudice.",
+    "caratteri": 612
+  },
+  "note": [],
+  "impronta": "sha256:b2aad674cce11be697e4127fe6d82664e9ff83578367fadbda3e4a0067110607"
+}

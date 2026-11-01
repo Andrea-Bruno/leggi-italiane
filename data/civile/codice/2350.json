@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2350",
+    "rubrica": "Diritto agli utili e alla quota di liquidazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2350"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni azione attribuisce il diritto a una parte proporzionale degli utili netti e del patrimonio netto risultante dalla liquidazione, salvi i diritti stabiliti a favore di speciali categorie di azioni. Fuori dai casi di cui all'articolo 2447-bis, la societa' puo' emettere azioni fornite di diritti patrimoniali correlati ai risultati dell'attivita' sociale in un determinato settore. Lo statuto stabilisce i criteri di individuazione dei costi e ricavi imputabili al settore, le modalita' di rendicontazione, i diritti attribuiti a tali azioni, nonche' le eventuali condizioni e modalita' di conversione in azioni di altra categoria. Non possono essere pagati dividendi ai possessori delle azioni previste dal precedente comma se non nei limiti degli utili risultanti dal bilancio della societa'.",
+    "con_marcatori": "Art. 2350. (Diritto agli utili e alla quota di liquidazione). Ogni azione attribuisce il diritto a una parte proporzionale degli utili netti e del patrimonio netto risultante dalla liquidazione, salvi i diritti stabiliti a favore di speciali categorie di azioni. Fuori dai casi di cui all'articolo 2447-bis, la societa' puo' emettere azioni fornite di diritti patrimoniali correlati ai risultati dell'attivita' sociale in un determinato settore. Lo statuto stabilisce i criteri di individuazione dei costi e ricavi imputabili al settore, le modalita' di rendicontazione, i diritti attribuiti a tali azioni, nonche' ((le eventuali)) condizioni e modalita' di conversione in azioni di altra categoria. Non possono essere pagati dividendi ai possessori delle azioni previste dal precedente comma se non nei limiti degli utili risultanti dal bilancio della societa'.",
+    "caratteri": 796
+  },
+  "note": [],
+  "impronta": "sha256:73ef1de116f93fdc1aff20f600dd96fda3fdb9a8eadfe5e4f6d75e12cf9e2f91"
+}

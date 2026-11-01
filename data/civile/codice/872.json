@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "872",
+    "rubrica": "Violazione delle norme di edilizia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art872"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le conseguenze di carattere amministrativo della violazione delle norme indicate dall'articolo precedente sono stabilite da leggi speciali. Colui che per effetto della violazione ha subito danno deve esserne risarcito, salva la facolta' di chiedere la riduzione in pristino quando si tratta della violazione delle norme contenute nella sezione seguente o da questa richiamate.",
+    "con_marcatori": "Art. 872. (Violazione delle norme di edilizia). Le conseguenze di carattere amministrativo della violazione delle norme indicate dall'articolo precedente sono stabilite da leggi speciali. Colui che per effetto della violazione ha subito danno deve esserne risarcito, salva la facolta' di chiedere la riduzione in pristino quando si tratta della violazione delle norme contenute nella sezione seguente o da questa richiamate.",
+    "caratteri": 376
+  },
+  "note": [],
+  "impronta": "sha256:a928de00e61c1cd23538cab29951f8e6c87126f9eccfc2da619cb3b3e012cb45"
+}

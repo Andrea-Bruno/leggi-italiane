@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "500",
+    "rubrica": "Diffusione di una malattia delle piante o degli animali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art500"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque cagiona la diffusione di una malattia alle piante o agli animali, pericolosa all'economia rurale o forestale, ovvero al patrimonio zootecnico della nazione, e' punito con la reclusione da uno a cinque anni. Se la diffusione avviene per colpa, la pena e' della multa da lire mille a ventimila.",
+    "con_marcatori": "Art. 500. (Diffusione di una malattia delle piante o degli animali) Chiunque cagiona la diffusione di una malattia alle piante o agli animali, pericolosa all'economia rurale o forestale, ovvero al patrimonio zootecnico della nazione, e' punito con la reclusione da uno a cinque anni. Se la diffusione avviene per colpa, la pena e' della multa da lire mille a ventimila.",
+    "caratteri": 301
+  },
+  "note": [],
+  "impronta": "sha256:f0701f36c405f0f62bf91329ae9ed4c3ee75508d5e5c35efa14823d98dba6a42"
+}

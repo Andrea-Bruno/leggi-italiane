@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1131",
+    "rubrica": "Rappresentanza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1131"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei limiti delle attribuzioni stabilite dall'articolo 1130 o dei maggiori poteri conferitigli dal regolamento di condominio o dall'assemblea, l'amministratore ha la rappresentanza dei partecipanti e puo' agire in giudizio sia contro i condomini sia contro i terzi. Puo' essere convenuto in giudizio per qualunque azione concernente le parti comuni dell'edificio; a lui sono notificati i provvedimenti dell'autorita' amministrativa che si riferiscono allo stesso oggetto. Qualora la citazione o il provvedimento abbia un contenuto che esorbita dalle attribuzioni dell'amministratore, questi e' tenuto a darne senza indugio notizia all'assemblea dei condomini. L'amministratore che non adempie a quest'obbligo puo' essere revocato ed e' tenuto al risarcimento dei danni.",
+    "con_marcatori": "Art. 1131. (Rappresentanza). Nei limiti delle attribuzioni stabilite ((dall'articolo 1130)) o dei maggiori poteri conferitigli dal regolamento di condominio o dall'assemblea, l'amministratore ha la rappresentanza dei partecipanti e puo' agire in giudizio sia contro i condomini sia contro i terzi. Puo' essere convenuto in giudizio per qualunque azione concernente le parti comuni dell'edificio; a lui sono notificati i provvedimenti dell'autorita' amministrativa che si riferiscono allo stesso oggetto. Qualora la citazione o il provvedimento abbia un contenuto che esorbita dalle attribuzioni dell'amministratore, questi e' tenuto a darne senza indugio notizia all'assemblea dei condomini. L'amministratore che non adempie a quest'obbligo puo' essere revocato ed e' tenuto al risarcimento dei danni.",
+    "caratteri": 768
+  },
+  "note": [],
+  "impronta": "sha256:675f4fa83c868f4ef4f16f1de2236f0527a6a82622bca493c369df935217cfe0"
+}

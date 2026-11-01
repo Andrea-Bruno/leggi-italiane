@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "416-ter",
+    "rubrica": "Scambio elettorale politico-mafioso",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art416-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque accetta, direttamente o a mezzo di intermediari, la promessa di procurare voti da parte di soggetti appartenenti alle associazioni di cui all'articolo 416-bis o mediante le modalita' di cui al terzo comma dell'articolo 416-bis in cambio dell'erogazione o della promessa di erogazione di denaro o di qualunque altra utilita' o in cambio della disponibilita' a soddisfare gli interessi o le esigenze dell'associazione mafiosa e' punito con la pena stabilita nel primo comma dell'articolo 416-bis. La stessa pena si applica a chi promette, direttamente o a mezzo di intermediari, di procurare voti nei casi di cui al primo comma. Se colui che ha accettato la promessa di voti, a seguito dell'accordo di cui al primo comma, e' risultato eletto nella relativa consultazione elettorale, si applica la pena prevista dal primo comma dell'articolo 416-bis aumentata della meta'. In caso di condanna per i reati di cui al presente articolo, consegue sempre l'interdizione perpetua dai pubblici uffici.",
+    "con_marcatori": "Art. 416-ter. (( (Scambio elettorale politico-mafioso). )) ((Chiunque accetta, direttamente o a mezzo di intermediari, la promessa di procurare voti da parte di soggetti appartenenti alle associazioni di cui all'articolo 416-bis o mediante le modalita' di cui al terzo comma dell'articolo 416-bis in cambio dell'erogazione o della promessa di erogazione di denaro o di qualunque altra utilita' o in cambio della disponibilita' a soddisfare gli interessi o le esigenze dell'associazione mafiosa e' punito con la pena stabilita nel primo comma dell'articolo 416-bis. La stessa pena si applica a chi promette, direttamente o a mezzo di intermediari, di procurare voti nei casi di cui al primo comma. Se colui che ha accettato la promessa di voti, a seguito dell'accordo di cui al primo comma, e' risultato eletto nella relativa consultazione elettorale, si applica la pena prevista dal primo comma dell'articolo 416-bis aumentata della meta'. In caso di condanna per i reati di cui al presente articolo, consegue sempre l'interdizione perpetua dai pubblici uffici)).",
+    "caratteri": 1000
+  },
+  "note": [
+    {
+      "numero": 281,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        },
+        {
+          "denominazione": "L. 17 ottobre 2017, n. 161",
+          "urn": "urn:nir:stato:legge:2017-10-17;161",
+          "data": "2017-10-17",
+          "numero": "161",
+          "data_gazzetta": "2017-11-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'art. 71, commi 1 e 3) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:e559434b46d0bb22a9d52a21210ed5f81b6a6e65f93873399cde72c2316eb310"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "94",
+    "rubrica": "Luogo della pubblicazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art94"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La pubblicazione deve essere richiesta all'ufficiale dello stato civile del comune dove uno degli sposi ha la residenza ed e' fatta nei comuni di residenza degli sposi. COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396. COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.",
+    "con_marcatori": "Art. 94. (Luogo della pubblicazione). La pubblicazione deve essere richiesta all'ufficiale dello stato civile del comune dove uno degli sposi ha la residenza ed e' fatta nei comuni di residenza degli sposi. ((COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396)). ((COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396)).",
+    "caratteri": 270
+  },
+  "note": [],
+  "impronta": "sha256:26b3d4441d5fc4dab75167a770f663166a8b5f781ad171e5056e825db7fe0b04"
+}

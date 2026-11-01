@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "866",
+    "rubrica": "Vincoli per scopi idrogeologici e per altri scopi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art866"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Anche indipendentemente da un piano di bonifica, i terreni di qualsiasi natura e destinazione possono essere sottoposti a vincolo idrogeologico, osservate le forme e le condizioni stabilite dalla legge speciale, al fine di evitare che possano con danno pubblico subire denudazioni, perdere la stabilita' o turbare il regime delle acque. L'utilizzazione dei terreni e l'eventuale loro trasformazione, la qualita' delle colture, il governo dei boschi e dei pascoli sono assoggettati, per effetto del vincolo, alle limitazioni stabilite dalle leggi in materia. Parimenti, a norma della legge speciale, possono essere sottoposti a limitazione nella loro utilizzazione i boschi che per la loro speciale ubicazione difendono terreni o fabbricati dalla caduta di valanghe, dal rotolamento dei sassi, dal sorrenamento e dalla furia dei venti, e quelli ritenuti utili per le condizioni igieniche locali.",
+    "con_marcatori": "Art. 866. (Vincoli per scopi idrogeologici e per altri scopi). Anche indipendentemente da un piano di bonifica, i terreni di qualsiasi natura e destinazione possono essere sottoposti a vincolo idrogeologico, osservate le forme e le condizioni stabilite dalla legge speciale, al fine di evitare che possano con danno pubblico subire denudazioni, perdere la stabilita' o turbare il regime delle acque. L'utilizzazione dei terreni e l'eventuale loro trasformazione, la qualita' delle colture, il governo dei boschi e dei pascoli sono assoggettati, per effetto del vincolo, alle limitazioni stabilite dalle leggi in materia. Parimenti, a norma della legge speciale, possono essere sottoposti a limitazione nella loro utilizzazione i boschi che per la loro speciale ubicazione difendono terreni o fabbricati dalla caduta di valanghe, dal rotolamento dei sassi, dal sorrenamento e dalla furia dei venti, e quelli ritenuti utili per le condizioni igieniche locali.",
+    "caratteri": 894
+  },
+  "note": [],
+  "impronta": "sha256:12e0c479589d8240f8ba822f4099938ab9dc17cfb6cc0a9584535e184920df7c"
+}

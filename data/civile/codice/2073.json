@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2073",
+    "rubrica": "Denunzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2073"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La denunzia del contratto collettivo deve farsi almeno tre mesi prima della scadenza. Se, avvenuta la denunzia, le associazioni professionali non hanno, un mese prima della scadenza, provveduto alla stipulazione e al deposito del nuovo contratto collettivo, ed e' rimasto infruttuoso l'esperimento di conciliazione previsto nell'art. 412 del codice di procedura civile, puo' essere adita la magistratura del lavoro per la formazione di nuove condizioni di lavoro.",
+    "con_marcatori": "Art. 2073. (Denunzia). La denunzia del contratto collettivo deve farsi almeno tre mesi prima della scadenza. Se, avvenuta la denunzia, le associazioni professionali non hanno, un mese prima della scadenza, provveduto alla stipulazione e al deposito del nuovo contratto collettivo, ed e' rimasto infruttuoso l'esperimento di conciliazione previsto nell'art. 412 del codice di procedura civile, puo' essere adita la magistratura del lavoro per la formazione di nuove condizioni di lavoro.",
+    "caratteri": 463
+  },
+  "note": [],
+  "impronta": "sha256:134c9de9610210b44897d36676869bcb5397fc7a3048e479d9456f4634660637"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2840",
+    "rubrica": "Certificato dell'iscrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2840"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Eseguita l'iscrizione, il conservatore restituisce al richiedente uno degli originali della nota, certificando, in calce al medesimo, la data e il numero d'ordine dell'iscrizione. I titoli consegnati al conservatore sono custoditi secondo quanto e' disposto dall'art. 2664.",
+    "con_marcatori": "Art. 2840. (Certificato dell'iscrizione). Eseguita l'iscrizione, il conservatore restituisce al richiedente uno degli originali della nota, certificando, in calce al medesimo, la data e il numero d'ordine dell'iscrizione. I titoli consegnati al conservatore sono custoditi secondo quanto e' disposto dall'art. 2664.",
+    "caratteri": 273
+  },
+  "note": [],
+  "impronta": "sha256:1d8ba7e931724b9747ba688d4658ffc778435209ac651363186caf17008d1d79"
+}

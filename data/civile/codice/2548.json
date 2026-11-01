@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2548",
+    "rubrica": "Conferimenti per la costituzione di fondi di garanzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2548"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo puo' prevedere la costituzione di fondi di garanzia per il pagamento delle indennita', mediante speciali conferimenti da parte di assicurati o di terzi, attribuendo anche a questi ultimi la qualita' di socio. L'atto costitutivo puo' attribuire a ciascuno dei soci sovventori piu' voti, ma non oltre cinque, in relazione all'ammontare del conferimento. I voti attribuiti ai soci sovventori, come tali, devono in ogni caso essere inferiori al numero dei voti spettanti ai soci assicurati. I soci sovventori possono essere nominati amministratori. La maggioranza degli amministratori deve essere costituita da soci assicurati.",
+    "con_marcatori": "Art. 2548. (( (Conferimenti per la costituzione di fondi di garanzia).)) ((L'atto costitutivo puo' prevedere la costituzione di fondi di garanzia per il pagamento delle indennita', mediante speciali conferimenti da parte di assicurati o di terzi, attribuendo anche a questi ultimi la qualita' di socio. L'atto costitutivo puo' attribuire a ciascuno dei soci sovventori piu' voti, ma non oltre cinque, in relazione all'ammontare del conferimento. I voti attribuiti ai soci sovventori, come tali, devono in ogni caso essere inferiori al numero dei voti spettanti ai soci assicurati. I soci sovventori possono essere nominati amministratori. La maggioranza degli amministratori deve essere costituita da soci assicurati.))",
+    "caratteri": 642
+  },
+  "note": [],
+  "impronta": "sha256:3bdacf48ea9d2c78b0ebab4b3e6a8d95b1bbf00c9c350c5afdcf7793b4e43066"
+}

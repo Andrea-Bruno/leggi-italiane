@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1961",
+    "rubrica": "Obblighi del creditore, anticretico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1961"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore, se non e' stato convenuto diversamente, e' obbligato a pagare i tributi e i pesi annui dell'immobile ricevuto in anticresi. Egli ha l'obbligo di conservare, amministrare e coltivare il fondo da buon padre di famiglia. Le spese relative devono essere prelevate dai frutti. Il creditore, se vuole liberarsi da tali obblighi, puo', in ogni tempo, restituire l'immobile al debitore, purche' non abbia rinunziato a tale facolta'.",
+    "con_marcatori": "Art. 1961. (Obblighi del creditore, anticretico). Il creditore, se non e' stato convenuto diversamente, e' obbligato a pagare i tributi e i pesi annui dell'immobile ricevuto in anticresi. Egli ha l'obbligo di conservare, amministrare e coltivare il fondo da buon padre di famiglia. Le spese relative devono essere prelevate dai frutti. Il creditore, se vuole liberarsi da tali obblighi, puo', in ogni tempo, restituire l'immobile al debitore, purche' non abbia rinunziato a tale facolta'.",
+    "caratteri": 438
+  },
+  "note": [],
+  "impronta": "sha256:de5d5961be00b495c581b85603f738a0df4242411ba6e15f484cf6f120bf30d2"
+}

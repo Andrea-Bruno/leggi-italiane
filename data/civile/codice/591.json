@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "591",
+    "rubrica": "Casi d'incapacita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art591"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Possono disporre per testamento tutti coloro che non sono dichiarati incapaci dalla legge. Sono incapaci di testare: 1) coloro che non hanno compiuto la maggiore eta'; 2) gli interdetti per infermita' di mente; 3) quelli che, sebbene non interdetti, si provi essere stati, per qualsiasi causa, anche transitoria, incapaci di intendere e di volere nel momento in cui fecero testamento. Nei casi d'incapacita' preveduti dal presente articolo il testamento puo' essere impugnato da chiunque vi ha interesse. L'azione si prescrive nel termine di cinque anni dal giorno in cui e' stata data esecuzione alle disposizioni testamentarie.",
+    "con_marcatori": "Art. 591. (Casi d'incapacita'). Possono disporre per testamento tutti coloro che non sono dichiarati incapaci dalla legge. ((Sono incapaci di testare: 1) coloro che non hanno compiuto la maggiore eta'; 2) gli interdetti per infermita' di mente; 3) quelli che, sebbene non interdetti, si provi essere stati, per qualsiasi causa, anche transitoria, incapaci di intendere e di volere nel momento in cui fecero testamento)). Nei casi d'incapacita' preveduti dal presente articolo il testamento puo' essere impugnato da chiunque vi ha interesse. L'azione si prescrive nel termine di cinque anni dal giorno in cui e' stata data esecuzione alle disposizioni testamentarie.",
+    "caratteri": 629
+  },
+  "note": [],
+  "impronta": "sha256:9112cfb864c2530801dece52e860a05c2f04d8f6c7d2f39652272c7c53903aab"
+}

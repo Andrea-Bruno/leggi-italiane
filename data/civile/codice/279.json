@@ -1,0 +1,93 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "279",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art279"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 37,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Responsabilita' per il mantenimento e l'educazione. In ogni caso in cui non puo' proporsi l'azione per la dichiarazione giudiziale di paternita' o di maternita', il figlio nato fuori del matrimonio puo' agire per ottenere il mantenimento, l'istruzione e l'educazione. Il figlio nato fuori del matrimonio se maggiorenne e in stato di bisogno puo' agire per ottenere gli alimenti a condizione che il diritto al mantenimento di cui all'articolo 315-bis, sia venuto meno.. L'azione e' ammessa previa autorizzazione del giudice ai sensi dell'articolo 251. L'azione puo' essere promossa nell'interesse del figlio minore da un curatore speciale nominato dal giudice su richiesta del pubblico ministero o del genitore che esercita la responsabilita' genitoriale.",
+    "con_marcatori": "Art. 279. Responsabilita' per il mantenimento e l'educazione. In ogni caso in cui non puo' proporsi l'azione per la dichiarazione giudiziale di paternita' o di maternita', il figlio ((nato fuori del matrimonio)) puo' agire per ottenere il mantenimento, l'istruzione e l'educazione. Il figlio ((nato fuori del matrimonio)) se maggiorenne e in stato di bisogno puo' agire per ottenere gli alimenti ((a condizione che il diritto al mantenimento di cui all'articolo 315-bis, sia venuto meno.)). ((L'azione e' ammessa previa autorizzazione del giudice ai sensi dell'articolo 251.)) L'azione puo' essere promossa nell'interesse del figlio minore da un curatore speciale nominato dal giudice su richiesta del pubblico ministero o del genitore che esercita la ((responsabilita' genitoriale)). (40)",
+    "caratteri": 754
+  },
+  "note": [
+    {
+      "numero": 37,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 279 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1974-05-08",
+        "numero": "121"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2 - 8 maggio 1974, n. 121 (in G.U. 1a s.s. 15/5/1974, n. 126), ha dichiarato \"la illegittimita' costituzionale dell'art. 279 del codice civile nella parte in cui, nei casi previsti dall'art. 278 e in ogni altro caso in cui non possa piu' proporsi l'azione per la dichiarazione giudiziale di paternita', non riconosce al figlio naturale, nelle tre ipotesi indicate nello stesso articolo e in aggiunta al diritto agli alimenti, quello al mantenimento, alla educazione e all'istruzione\"."
+    },
+    {
+      "numero": 40,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        },
+        {
+          "denominazione": "articolo 279 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 19 maggio 1975, n. 151 ha disposto (con l'art. 232, comma 1) che \"Le disposizioni della presente legge relative all'azione per la dichiarazione giudiziale di paternita' e maternita', nonche' alle azioni previste dall'articolo 279 del codice civile, si applicano anche ai figli nati o concepiti prima della sua entrata in vigore\"."
+    }
+  ],
+  "impronta": "sha256:2dcd099bbeb67ee8520c386d9948fabc4d877b89e5fc95fd91dee29bf675ccb2"
+}

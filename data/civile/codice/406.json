@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "406",
+    "rubrica": "Soggetti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art406"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il ricorso per l'istituzione dell'amministrazione di sostegno puo' essere proposto dallo stesso soggetto beneficiario, anche se minore, interdetto o inabilitato, ovvero da uno dei soggetti indicati nell'articolo 417. Se il ricorso concerne persona interdetta o inabilitata il medesimo e' presentato congiuntamente all'istanza di revoca dell'interdizione o dell'inabilitazione davanti al giudice competente per quest'ultima. I responsabili dei servizi sanitari e sociali direttamente impegnati nella cura e assistenza della persona, ove a conoscenza di fatti tali da rendere opportuna l'apertura del procedimento di amministrazione di sostegno, sono tenuti a proporre al giudice tutelare il ricorso di cui all'articolo 407 o a fornirne comunque notizia al pubblico ministero.",
+    "con_marcatori": "Art. 406. (( (Soggetti). )) ((Il ricorso per l'istituzione dell'amministrazione di sostegno puo' essere proposto dallo stesso soggetto beneficiario, anche se minore, interdetto o inabilitato, ovvero da uno dei soggetti indicati nell'articolo 417. Se il ricorso concerne persona interdetta o inabilitata il medesimo e' presentato congiuntamente all'istanza di revoca dell'interdizione o dell'inabilitazione davanti al giudice competente per quest'ultima. I responsabili dei servizi sanitari e sociali direttamente impegnati nella cura e assistenza della persona, ove a conoscenza di fatti tali da rendere opportuna l'apertura del procedimento di amministrazione di sostegno, sono tenuti a proporre al giudice tutelare il ricorso di cui all'articolo 407 o a fornirne comunque notizia al pubblico ministero.))",
+    "caratteri": 774
+  },
+  "note": [],
+  "impronta": "sha256:415f5f03f593bce37245d81cf8e6cbc1b1d332f6c875ff9fabf9a50d4271253a"
+}

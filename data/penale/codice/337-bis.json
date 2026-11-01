@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "337-bis",
+    "rubrica": "Occultamento, custodia o alterazione di mezzi di trasporto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art337-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque occulti o custodisca mezzi di trasporto di qualsiasi tipo che, rispetto alle caratteristiche omologate, presentano alterazioni o modifiche o predisposizioni tecniche tali da costituire pericolo per l'incolumita' fisica degli operatori di polizia, e' punito con la reclusione da due a cinque anni e con la multa da lire cinque milioni a lire venti milioni. La stessa pena di cui al primo comma si applica a chiunque altera mezzi di trasporto operando modifiche o predisposizioni tecniche tali da costituire pericolo per l'incolumita' fisica degli operatori di polizia. Se il colpevole e' titolare di concessione o autorizzazione o licenza o di altro titolo abilitante l'attivita', alla condanna consegue la revoca del titolo che legittima la medesima attivita'.",
+    "con_marcatori": "Art. 337-bis. (( (Occultamento, custodia o alterazione di mezzi di trasporto). )) ((Chiunque occulti o custodisca mezzi di trasporto di qualsiasi tipo che, rispetto alle caratteristiche omologate, presentano alterazioni o modifiche o predisposizioni tecniche tali da costituire pericolo per l'incolumita' fisica degli operatori di polizia, e' punito con la reclusione da due a cinque anni e con la multa da lire cinque milioni a lire venti milioni. La stessa pena di cui al primo comma si applica a chiunque altera mezzi di trasporto operando modifiche o predisposizioni tecniche tali da costituire pericolo per l'incolumita' fisica degli operatori di polizia. Se il colpevole e' titolare di concessione o autorizzazione o licenza o di altro titolo abilitante l'attivita', alla condanna consegue la revoca del titolo che legittima la medesima attivita')).",
+    "caratteri": 769
+  },
+  "note": [],
+  "impronta": "sha256:6a6412ee1d5bc7dd852c76b961ab4b47311d7cff202e730ca4ee44b0f4b5bb69"
+}

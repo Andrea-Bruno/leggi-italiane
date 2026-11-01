@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1272",
+    "rubrica": "Espromissione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1272"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il terzo che, senza delegazione del debitore, ne assume verso il creditore il debito, e' obbligato in solido col debitore originario, se il creditore non dichiara espressamente di liberare quest'ultimo. Se non si e' convenuto diversamente, il terzo non puo' opporre al creditore le eccezioni relative ai suoi rapporti col debitore originario. Puo' opporgli invece le eccezioni che al creditore avrebbe potuto opporre il debitore originario, se non sono personali a quest'ultimo e non derivano da fatti successivi all'espromissione. Non puo' opporgli la compensazione che avrebbe potuto opporre il debitore originario, quantunque si sia verificata prima dell'espromissione.",
+    "con_marcatori": "Art. 1272. (Espromissione). Il terzo che, senza delegazione del debitore, ne assume verso il creditore il debito, e' obbligato in solido col debitore originario, se il creditore non dichiara espressamente di liberare quest'ultimo. Se non si e' convenuto diversamente, il terzo non puo' opporre al creditore le eccezioni relative ai suoi rapporti col debitore originario. Puo' opporgli invece le eccezioni che al creditore avrebbe potuto opporre il debitore originario, se non sono personali a quest'ultimo e non derivano da fatti successivi all'espromissione. Non puo' opporgli la compensazione che avrebbe potuto opporre il debitore originario, quantunque si sia verificata prima dell'espromissione.",
+    "caratteri": 672
+  },
+  "note": [],
+  "impronta": "sha256:1f4b472dc2e50e1ecbdefaeda85549c9e0ab390a6f00892a18f24750d8e9b304"
+}

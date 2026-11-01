@@ -1,0 +1,312 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "610",
+    "rubrica": "Violenza privata",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art610"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, con violenza o minaccia, costringe altri a fare, tollerare od omettere qualche cosa e' punito con la reclusione fino a quattro anni. La pena e' aumentata se concorrono le condizioni prevedute dall'articolo 339. Il delitto e' punibile a querela della persona offesa. Si procede tuttavia d'ufficio se il fatto e' commesso nei confronti di persona incapace, per eta' o per infermita', ovvero se ricorre la circostanza di cui al secondo comma.",
+    "con_marcatori": "Art. 610. (Violenza privata) Chiunque, con violenza o minaccia, costringe altri a fare, tollerare od omettere qualche cosa e' punito con la reclusione fino a quattro anni. La pena e' aumentata se concorrono le condizioni prevedute dall'articolo 339. ((Il delitto e' punibile a querela della persona offesa. Si procede tuttavia d'ufficio se il fatto e' commesso nei confronti di persona incapace, per eta' o per infermita', ovvero se ricorre la circostanza di cui al secondo comma.)) (36) (91) (96) (107) (125) (233)",
+    "caratteri": 449
+  },
+  "note": [
+    {
+      "numero": 36,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 4 giugno 1966, n. 332",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1966-06-04;332",
+          "data": "1966-06-04",
+          "numero": "332",
+          "data_gazzetta": "1966-06-04"
+        },
+        {
+          "denominazione": "art. 510",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "635 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articoli 337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "340",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "341",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "415",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 giugno 1966, n. 332 ha disposto: - (con l'art. 2, comma 1, lettera d)) che e' concessa amnistia \"per i reati previsti negli articoli 330, primo capoverso, 337, 340, 341, 414, 415, 507, 508 - anche in relazione all'art. 510 - 610 e 635 del Codice penale e dal decreto legislativo 22 gennaio 1948, n. 66, se commessi per motivi ed in occasione di manifestazioni sindacali\"; - (con l'art. 2, comma 1, lettera e)) che e' concessa amnistia \"per i reati previsti negli articoli 337, 340, 341, 415, 610 e 635 del Codice penale, se commessi per motivi politici\"; - (con l'art. 16, comma 1) che le presenti modifiche hanno efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966."
+    },
+    {
+      "numero": 91,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 18 dicembre 1981, n. 744",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1981-12-18;744",
+          "data": "1981-12-18",
+          "numero": "744",
+          "data_gazzetta": "1981-12-19"
+        },
+        {
+          "denominazione": "art. 610 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1 del decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 61 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "610 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 18 dicembre 1981, n. 744 ha disposto (con l'art. 1, comma 1, lettera g)) che \"E' concessa amnistia: [...] g) per i reati previsti dall'art. 610 del codice penale e dall'art. 1 del decreto legislativo 22 gennaio 1948, n. 66, commessi a causa e in occasione di manifestazioni sindacali o in conseguenza di situazioni di gravi disagi dovuti a calamita' naturali o a disfunzione di pubblici servizi, anche se aggravati dal numero delle persone e dalle circostanze di cui all'art. 61 del codice penale, fatta esclusione di quelle previste dai numeri 1, 7 e 10, e sempre che non ricorrano altre aggravanti\". Ha inoltre disposto (con l'art. 11, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 31 agosto 1981."
+    },
+    {
+      "numero": 96,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "L. 13 settembre 1982, n. 646",
+          "urn": "urn:nir:stato:legge:1982-09-13;646",
+          "data": "1982-09-13",
+          "numero": "646",
+          "data_gazzetta": "1982-09-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 ha disposto: - (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate se il fatto e' commesso da persona gia' sottoposta con provvedimento definitivo a misura di prevenzione; -(con l'art. 7, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    },
+    {
+      "numero": 107,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "610",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articoli 337",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1 del decreto legislativo 22 gennaio 1948, n. 66",
+          "urn": "urn:nir:stato:decretoLegislativo:1948-01-22;66",
+          "data": "1948-01-22",
+          "numero": "66",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 61 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 16 dicembre 1986, n. 865",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1986-12-16;865",
+          "data": "1986-12-16",
+          "numero": "865",
+          "data_gazzetta": "1986-12-16"
+        },
+        {
+          "denominazione": "610 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 112, n. 2, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 16 dicembre 1986, n. 865 ha disposto (con l'art. 1, comma 1, lettera g)) che \"E' concessa amnistia: [...] g) per i reati previsti dagli articoli 337 e 610 del codice penale e dall'art. 1 del decreto legislativo 22 gennaio 1948, n. 66, commessi a causa e in occasione di manifestazioni sindacali o in conseguenza di situazioni di gravi disagi dovuti a disfunzioni di pubblici servizi o a problemi abitativi anche se i suddetti reati sono aggravati dal numero o dalla riunione delle persone e dalle circostanze di cui all'art. 61 del codice penale, fatta esclusione per quella prevista dal n. 1, nonche' da quella di cui all'art. 112, n. 2, del codice penale, sempre che non ricorrano altre aggravanti e il fatto non abbia cagionato ad altri lesioni personali o la morte\". Ha inoltre disposto (con l'art. 12, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 8 giugno 1986."
+    },
+    {
+      "numero": 125,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "D.L. 13 maggio 1991, n. 152",
+          "urn": "urn:nir:stato:decretoLegge:1991-05-13;152",
+          "data": "1991-05-13",
+          "numero": "152",
+          "data_gazzetta": "1991-05-13"
+        },
+        {
+          "denominazione": "L. 12 luglio 1991, n. 203",
+          "urn": "urn:nir:stato:legge:1991-07-12;203",
+          "data": "1991-07-12",
+          "numero": "203",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575 come modificata dal D.L. 13 maggio 1991, n. 152 convertito con modificazioni dalla L. 12 luglio 1991, n. 203 ha disposto (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione."
+    },
+    {
+      "numero": 233,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159 ha disposto: - (con l'art. 71, comma 1) che la pena stabilita per il delitto previsto dal presente articolo e' aumentata da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione; - (con l'art. 71, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:247f2d26056490124733a430d928762a3f96d66d3d696fa3ce524514688ccbae"
+}

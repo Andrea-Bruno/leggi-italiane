@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "289-ter",
+    "rubrica": "Sequestro di persona a scopo di coazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art289-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi indicati negli articoli 289-bis e 630, sequestra una persona o la tiene in suo potere minacciando di ucciderla, di ferirla o di continuare a tenerla sequestrata al fine di costringere un terzo, sia questi uno Stato, una organizzazione internazionale tra piu' governi, una persona fisica o giuridica o una collettivita' di persone fisiche, a compiere un qualsiasi atto o ad astenersene, subordinando la liberazione della persona sequestrata a tale azione od omissione, e' punito con la reclusione da venticinque a trenta anni. Si applicano i commi secondo, terzo, quarto e quinto dell'articolo 289-bis. Se il fatto e' di lieve entita' si applicano le pene previste dall'articolo 605 aumentate dalla meta' a due terzi.",
+    "con_marcatori": "Art. 289-ter. (( (Sequestro di persona a scopo di coazione).)) ((Chiunque, fuori dei casi indicati negli articoli 289-bis e 630, sequestra una persona o la tiene in suo potere minacciando di ucciderla, di ferirla o di continuare a tenerla sequestrata al fine di costringere un terzo, sia questi uno Stato, una organizzazione internazionale tra piu' governi, una persona fisica o giuridica o una collettivita' di persone fisiche, a compiere un qualsiasi atto o ad astenersene, subordinando la liberazione della persona sequestrata a tale azione od omissione, e' punito con la reclusione da venticinque a trenta anni. Si applicano i commi secondo, terzo, quarto e quinto dell'articolo 289-bis. Se il fatto e' di lieve entita' si applicano le pene previste dall'articolo 605 aumentate dalla meta' a due terzi.))",
+    "caratteri": 741
+  },
+  "note": [],
+  "impronta": "sha256:fbc6b4f51a390db989480dabbffa2ae28c7a842442ed7cca7d31e00a6fb197c6"
+}

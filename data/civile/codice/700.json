@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "700",
+    "rubrica": "Facolta' di nomina e di sostituzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art700"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testatore puo' nominare uno o piu' esecutori testamentari e, per il caso che alcuni o tutti non vogliano o non possano accettare, altro o altri in loro sostituzione. Se sono nominati piu' esecutori testamentari, essi devono agire congiuntamente, salvo che il testatore abbia diviso tra loro le attribuzioni, o si tratti di provvedimento urgente per la conservazione di un bene o di un diritto ereditario. Il testatore puo' autorizzare l'esecutore testamentario a sostituire altri a se stesso, qualora egli non possa continuare nell'ufficio.",
+    "con_marcatori": "Art. 700. (Facolta' di nomina e di sostituzione). Il testatore puo' nominare uno o piu' esecutori testamentari e, per il caso che alcuni o tutti non vogliano o non possano accettare, altro o altri in loro sostituzione. Se sono nominati piu' esecutori testamentari, essi devono agire congiuntamente, salvo che il testatore abbia diviso tra loro le attribuzioni, o si tratti di provvedimento urgente per la conservazione di un bene o di un diritto ereditario. Il testatore puo' autorizzare l'esecutore testamentario a sostituire altri a se stesso, qualora egli non possa continuare nell'ufficio.",
+    "caratteri": 543
+  },
+  "note": [],
+  "impronta": "sha256:8256a336cb75acfcb0974968583cabb1ff36bf18d53777d0cefe5a65f28b7182"
+}

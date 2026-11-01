@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "50",
+    "rubrica": "Immissione nel possesso temporaneo dei beni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art50"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Divenuta eseguibile la sentenza che dichiara l'assenza, il tribunale, su istanza di chiunque vi abbia interesse o del pubblico ministero, ordina l'apertura degli atti di ultima volonta' dell'assente, se vi sono. Coloro che sarebbero eredi testamentari o legittimi, se l'assente fosse morto nel giorno a cui risale l'ultima notizia di lui, o i loro rispettivi eredi possono domandare l'immissione nel possesso temporaneo dei beni. I legatari, i donatari e tutti quelli ai quali spetterebbero diritti dipendenti dalla morte dell'assente possono domandare di essere ammessi all'esercizio temporaneo di questi diritti. Coloro che per effetto della morte dell'assente sarebbero liberati da obbligazioni possono essere temporaneamente esonerati dall'adempimento di esse, salvo che si tratti delle obbligazioni alimentari previste dall'art. 434. Per ottenere l'immissione nel possesso, l'esercizio temporaneo dei diritti o la liberazione temporanea dalle obbligazioni si deve dare cauzione nella somma determinata dal tribunale; se taluno non sia in grado di darla, il tribunale puo' stabilire altre cautele, avuto riguardo alla qualita' delle persone e alla loro parentela con l'assente.",
+    "con_marcatori": "Art. 50. (Immissione nel possesso temporaneo dei beni). Divenuta eseguibile la sentenza che dichiara l'assenza, il tribunale, su istanza di chiunque vi abbia interesse o del pubblico ministero, ordina l'apertura degli atti di ultima volonta' dell'assente, se vi sono. Coloro che sarebbero eredi testamentari o legittimi, se l'assente fosse morto nel giorno a cui risale l'ultima notizia di lui, o i loro rispettivi eredi possono domandare l'immissione nel possesso temporaneo dei beni. I legatari, i donatari e tutti quelli ai quali spetterebbero diritti dipendenti dalla morte dell'assente possono domandare di essere ammessi all'esercizio temporaneo di questi diritti. Coloro che per effetto della morte dell'assente sarebbero liberati da obbligazioni possono essere temporaneamente esonerati dall'adempimento di esse, salvo che si tratti delle obbligazioni alimentari previste dall'art. 434. Per ottenere l'immissione nel possesso, l'esercizio temporaneo dei diritti o la liberazione temporanea dalle obbligazioni si deve dare cauzione nella somma determinata dal tribunale; se taluno non sia in grado di darla, il tribunale puo' stabilire altre cautele, avuto riguardo alla qualita' delle persone e alla loro parentela con l'assente.",
+    "caratteri": 1181
+  },
+  "note": [],
+  "impronta": "sha256:a777e9b905b7f5458273578896082814219f5edcd5234a5973287d73155f2f8e"
+}

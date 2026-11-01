@@ -1,0 +1,82 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "708",
+    "rubrica": "Possesso ingiustificato di valori",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art708"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 151,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, trovandosi nelle condizioni personali indicate nell'articolo precedente, e' colto in possesso di denaro o di oggetti di valore, o di altre cose non confacenti al suo stato, e dei quali non giustifichi la provenienza, e' punito con l'arresto da tre mesi a un anno.",
+    "con_marcatori": "Art. 708. (Possesso ingiustificato di valori) Chiunque, trovandosi nelle condizioni personali indicate nell'articolo precedente, e' colto in possesso di denaro o di oggetti di valore, o di altre cose non confacenti al suo stato, e dei quali non giustifichi la provenienza, e' punito con l'arresto da tre mesi a un anno. (40) ((151))",
+    "caratteri": 273
+  },
+  "note": [
+    {
+      "numero": 40,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 708 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1968-07-19",
+        "numero": "110"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2-19 luglio 1968, n. 110 (in G.U. 1ª s.s. 20/7/1968, n. 184), ha dichiarato \"l'illegittimita' costituzionale dell'art. 708 del Codice penale, limitatamente alla parte in cui fa richiamo alle condizioni personali di condannato per mendicita', di ammonito, di sottoposto a misura di sicurezza personale e a cauzione di buona condotta\"."
+    },
+    {
+      "numero": 151,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1996-11-02",
+        "numero": "370"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 17 ottobre - 2 novembre 1996, n. 370 (in G.U. 1ª s.s. 06/11/1996, n. 45), ha dichiarato l'illegittimita' costituzionale del presente articolo."
+    }
+  ],
+  "impronta": "sha256:a83d2680df1ccfac00038c600aecf8dc2e7c1ddb6cd02b9f42925e683d43abb4"
+}

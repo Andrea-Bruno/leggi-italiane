@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1225",
+    "rubrica": "Prevedibilita' del danno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1225"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'inadempimento o il ritardo non dipende da dolo del debitore, il risarcimento e' limitato al danno che poteva prevedersi nel tempo in cui e' sorta l'obbligazione.",
+    "con_marcatori": "Art. 1225. (Prevedibilita' del danno). Se l'inadempimento o il ritardo non dipende da dolo del debitore, il risarcimento e' limitato al danno che poteva prevedersi nel tempo in cui e' sorta l'obbligazione.",
+    "caratteri": 166
+  },
+  "note": [],
+  "impronta": "sha256:a65ed29d249812634acca9dafaa8ec6c4792011845fa24bdf492d4f8c351e58f"
+}

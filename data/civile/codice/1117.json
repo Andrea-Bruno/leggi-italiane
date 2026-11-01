@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1117",
+    "rubrica": "Parti comuni dell'edificio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono oggetto di proprieta' comune dei proprietari delle singole unita' immobiliari dell'edificio, anche se aventi diritto a godimento periodico e se non risulta il contrario dal titolo: 1) tutte le parti dell'edificio necessarie all'uso comune, come il suolo su cui sorge l'edificio, le fondazioni, i muri maestri, i pilastri e le travi portanti, i tetti e i lastrici solari, le scale, i portoni di ingresso, i vestiboli, gli anditi, i portici, i cortili e le facciate; 2) le aree destinate a parcheggio nonche' i locali per i servizi in comune, come la portineria, incluso l'alloggio del portiere, la lavanderia, gli stenditoi e i sottotetti destinati, per le caratteristiche strutturali e funzionali, all'uso comune; 3) le opere, le installazioni, i manufatti di qualunque genere destinati all'uso comune, come gli ascensori, i pozzi, le cisterne, gli impianti idrici e fognari, i sistemi centralizzati di distribuzione e di trasmissione per il gas, per l'energia elettrica, per il riscaldamento ed il condizionamento dell'aria, per la ricezione radiotelevisiva e per l'accesso a qualunque altro genere di flusso informativo, anche da satellite o via cavo, e i relativi collegamenti fino al punto di diramazione ai locali di proprieta' individuale dei singoli condomini, ovvero, in caso di impianti unitari, fino al punto di utenza, salvo quanto disposto dalle normative di settore in materia di reti pubbliche.",
+    "con_marcatori": "Art. 1117. (( (Parti comuni dell'edificio). )) ((Sono oggetto di proprieta' comune dei proprietari delle singole unita' immobiliari dell'edificio, anche se aventi diritto a godimento periodico e se non risulta il contrario dal titolo: 1) tutte le parti dell'edificio necessarie all'uso comune, come il suolo su cui sorge l'edificio, le fondazioni, i muri maestri, i pilastri e le travi portanti, i tetti e i lastrici solari, le scale, i portoni di ingresso, i vestiboli, gli anditi, i portici, i cortili e le facciate; 2) le aree destinate a parcheggio nonche' i locali per i servizi in comune, come la portineria, incluso l'alloggio del portiere, la lavanderia, gli stenditoi e i sottotetti destinati, per le caratteristiche strutturali e funzionali, all'uso comune; 3) le opere, le installazioni, i manufatti di qualunque genere destinati all'uso comune, come gli ascensori, i pozzi, le cisterne, gli impianti idrici e fognari, i sistemi centralizzati di distribuzione e di trasmissione per il gas, per l'energia elettrica, per il riscaldamento ed il condizionamento dell'aria, per la ricezione radiotelevisiva e per l'accesso a qualunque altro genere di flusso informativo, anche da satellite o via cavo, e i relativi collegamenti fino al punto di diramazione ai locali di proprieta' individuale dei singoli condomini, ovvero, in caso di impianti unitari, fino al punto di utenza, salvo quanto disposto dalle normative di settore in materia di reti pubbliche)).",
+    "caratteri": 1413
+  },
+  "note": [],
+  "impronta": "sha256:709b702925e49175994266738699e95d52c48dd07a7acb9ad11b83b0b451661d"
+}

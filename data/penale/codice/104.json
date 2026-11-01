@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "104",
+    "rubrica": "Abitualita' nelle contravvenzioni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art104"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi, dopo essere stato condannato alla pena dell'arresto per tre contravvenzioni della stessa indole, riporta condanna per un'altra contravvenzione, anche della stessa indole, e' dichiarato contravventore abituale, se il giudice, tenuto conto della specie e gravita' dei reati, del tempo entro il quale sono stati commessi, della condotta e del genere di vita del colpevole e delle altre circostanze indicate nel capoverso dell'articolo 133, ritiene che il colpevole sia dedito al reato.",
+    "con_marcatori": "Art. 104. (Abitualita' nelle contravvenzioni) Chi, dopo essere stato condannato alla pena dell'arresto per tre contravvenzioni della stessa indole, riporta condanna per un'altra contravvenzione, anche della stessa indole, e' dichiarato contravventore abituale, se il giudice, tenuto conto della specie e gravita' dei reati, del tempo entro il quale sono stati commessi, della condotta e del genere di vita del colpevole e delle altre circostanze indicate nel capoverso dell'articolo 133, ritiene che il colpevole sia dedito al reato.",
+    "caratteri": 487
+  },
+  "note": [],
+  "impronta": "sha256:210becc74e09f76b9390be12d2cf45f83711d1d1dbd3ebf3119918a7615cf49f"
+}

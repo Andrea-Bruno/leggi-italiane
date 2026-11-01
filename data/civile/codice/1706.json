@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1706",
+    "rubrica": "Acquisti del mandatario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1706"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mandante puo' rivendicare le cose mobili acquistate per suo conto dal mandatario che ha agito in nome proprio, salvi i diritti acquistati dai terzi per effetto del possesso di buona fede. Se le cose acquistate dal mandatario sono beni immobili o beni mobili iscritti in pubblici registri, il mandatario e' obbligato a ritrasferirle al mandante. In caso d'inadempimento, si osservano le norme relative all'esecuzione dell'obbligo di contrarre.",
+    "con_marcatori": "Art. 1706. (Acquisti del mandatario). Il mandante puo' rivendicare le cose mobili acquistate per suo conto dal mandatario che ha agito in nome proprio, salvi i diritti acquistati dai terzi per effetto del possesso di buona fede. Se le cose acquistate dal mandatario sono beni immobili o beni mobili iscritti in pubblici registri, il mandatario e' obbligato a ritrasferirle al mandante. In caso d'inadempimento, si osservano le norme relative all'esecuzione dell'obbligo di contrarre.",
+    "caratteri": 445
+  },
+  "note": [],
+  "impronta": "sha256:2de29eae39abd258800546941f0d19854d7c0e67ce5c31fb66e85fa2f669e076"
+}

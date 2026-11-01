@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2708",
+    "rubrica": "Annotazione in calce, in margine o a tergo di un documento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2708"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'annotazione fatta dal creditore in calce, in margine o a tergo di un documento rimasto in suo possesso fa prova, benche' non sottoscritta da lui, se tende ad accertare la liberazione del debitore. Lo stesso valore ha l'annotazione fatta dal creditore in calce, in margine o a tergo di una quietanza o di un esemplare del documento del debito posseduto dal debitore.",
+    "con_marcatori": "Art. 2708. (Annotazione in calce, in margine o a tergo di un documento). L'annotazione fatta dal creditore in calce, in margine o a tergo di un documento rimasto in suo possesso fa prova, benche' non sottoscritta da lui, se tende ad accertare la liberazione del debitore. Lo stesso valore ha l'annotazione fatta dal creditore in calce, in margine o a tergo di una quietanza o di un esemplare del documento del debito posseduto dal debitore.",
+    "caratteri": 367
+  },
+  "note": [],
+  "impronta": "sha256:5e269562bf0a59e532aae897f0680c8ece64b9a846829ecababa968d7db93619"
+}

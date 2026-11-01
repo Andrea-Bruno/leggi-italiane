@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2524",
+    "rubrica": "Variabilita' del capitale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2524"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il capitale sociale non e' determinato in un ammontare prestabilito. Nelle societa' cooperative l'ammissione di nuovi soci, nelle forme previste dall'articolo 2528 non importa modificazione dell'atto costitutivo. La societa' puo' deliberare aumenti di capitale con modificazione dell'atto costitutivo nelle forme previste dagli articoli 2438 e seguenti. L'esclusione o la limitazione del diritto di opzione puo' essere autorizzata dall'assemblea su proposta motivata degli amministratori.",
+    "con_marcatori": "Art. 2524. (( (Variabilita' del capitale).)) ((Il capitale sociale non e' determinato in un ammontare prestabilito. Nelle societa' cooperative l'ammissione di nuovi soci, nelle forme previste dall'articolo 2528 non importa modificazione dell'atto costitutivo. La societa' puo' deliberare aumenti di capitale con modificazione dell'atto costitutivo nelle forme previste dagli articoli 2438 e seguenti. L'esclusione o la limitazione del diritto di opzione puo' essere autorizzata dall'assemblea su proposta motivata degli amministratori.))",
+    "caratteri": 488
+  },
+  "note": [],
+  "impronta": "sha256:1453eeb7de4eb405ec7da8a35824d396febbce158fe804a2296751aa5224c50e"
+}

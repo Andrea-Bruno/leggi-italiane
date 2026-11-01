@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1055",
+    "rubrica": "Cessazione dell'interclusione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1055"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il passaggio cessa di essere necessario, puo' essere soppresso in qualunque tempo a istanza del proprietario del fondo dominante o del fondo servente. Quest'ultimo deve restituire il compenso ricevuto; ma l'autorita' giudiziaria puo' disporre una riduzione della somma, avuto riguardo alla durata della servitu' e al danno sofferto. Se l'indennita' fu convenuta in annualita', la prestazione cessa dall'anno successivo.",
+    "con_marcatori": "Art. 1055. (Cessazione dell'interclusione). Se il passaggio cessa di essere necessario, puo' essere soppresso in qualunque tempo a istanza del proprietario del fondo dominante o del fondo servente. Quest'ultimo deve restituire il compenso ricevuto; ma l'autorita' giudiziaria puo' disporre una riduzione della somma, avuto riguardo alla durata della servitu' e al danno sofferto. Se l'indennita' fu convenuta in annualita', la prestazione cessa dall'anno successivo.",
+    "caratteri": 422
+  },
+  "note": [],
+  "impronta": "sha256:b690342a18378e5ab6f0837a98dcf5879151316e9c282a54d7315dfc73fd37ce"
+}

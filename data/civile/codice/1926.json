@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1926",
+    "rubrica": "Cambiamento di professione dell'assicurato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1926"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I cambiamenti di professione o di attivita' dell'assicurato non fanno cessare gli effetti dell'assicurazione, qualora non aggravino il rischio in modo tale che, se il nuovo stato di cose fosse esistito al tempo del contratto, l'assicuratore non avrebbe consentito l'assicurazione. Qualora i cambiamenti siano di tale natura che, se il nuovo stato di cose fosse esistito al tempo del contratto, l'assicuratore avrebbe consentito l'assicurazione per un premio piu' elevato, il pagamento della somma assicurata e' ridotto in proporzione del minor premio convenuto in confronto di quello che sarebbe stato stabilito. Se l'assicurato da' notizia dei suddetti cambiamenti all'assicuratore, questi, entro quindici giorni, deve dichiarare se intende far cessare gli effetti del contratto ovvero ridurre la somma assicurata o elevare il premio. Se l'assicuratore dichiara di voler modificare il contratto in uno dei due sensi su indicati, l'assicurato, entro quindici giorni successivi, deve dichiarare se intende accettare la proposta. Se l'assicurato dichiara di non accettare, il contratto e' risoluto, salvo il diritto dell'assicuratore al premio relativo al periodo di assicurazione in corso e salvo il diritto dell'assicurato al riscatto. Il silenzio dell'assicurato vale come adesione alla proposta dell'assicuratore. Le comunicazioni e dichiarazioni previste dai commi precedenti possono farsi anche mediante raccomandata.",
+    "con_marcatori": "Art. 1926. (Cambiamento di professione dell'assicurato). I cambiamenti di professione o di attivita' dell'assicurato non fanno cessare gli effetti dell'assicurazione, qualora non aggravino il rischio in modo tale che, se il nuovo stato di cose fosse esistito al tempo del contratto, l'assicuratore non avrebbe consentito l'assicurazione. Qualora i cambiamenti siano di tale natura che, se il nuovo stato di cose fosse esistito al tempo del contratto, l'assicuratore avrebbe consentito l'assicurazione per un premio piu' elevato, il pagamento della somma assicurata e' ridotto in proporzione del minor premio convenuto in confronto di quello che sarebbe stato stabilito. Se l'assicurato da' notizia dei suddetti cambiamenti all'assicuratore, questi, entro quindici giorni, deve dichiarare se intende far cessare gli effetti del contratto ovvero ridurre la somma assicurata o elevare il premio. Se l'assicuratore dichiara di voler modificare il contratto in uno dei due sensi su indicati, l'assicurato, entro quindici giorni successivi, deve dichiarare se intende accettare la proposta. Se l'assicurato dichiara di non accettare, il contratto e' risoluto, salvo il diritto dell'assicuratore al premio relativo al periodo di assicurazione in corso e salvo il diritto dell'assicurato al riscatto. Il silenzio dell'assicurato vale come adesione alla proposta dell'assicuratore. Le comunicazioni e dichiarazioni previste dai commi precedenti possono farsi anche mediante raccomandata.",
+    "caratteri": 1421
+  },
+  "note": [],
+  "impronta": "sha256:0c4060882bd759ce3ce4503aa1b74cbb60335c1e1df1a17ae7812d19faa54e06"
+}

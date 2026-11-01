@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2173",
+    "rubrica": "Direzione dell'impresa e assunzione di mano d'opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2173"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La direzione dell'impresa spetta al soccidante, il quale deve esercitarla secondo le regole della buona tecnica dell'allevamento. La scelta di prestatori di lavoro, estranei alla famiglia del soccidario, deve essere fatta col consenso del soccidante, anche quando secondo la convenzione o gli usi la relativa spesa e' posta a carico del soccidario.",
+    "con_marcatori": "Art. 2173. (Direzione dell'impresa e assunzione di mano d'opera). La direzione dell'impresa spetta al soccidante, il quale deve esercitarla secondo le regole della buona tecnica dell'allevamento. La scelta di prestatori di lavoro, estranei alla famiglia del soccidario, deve essere fatta col consenso del soccidante, anche quando secondo la convenzione o gli usi la relativa spesa e' posta a carico del soccidario.",
+    "caratteri": 348
+  },
+  "note": [],
+  "impronta": "sha256:d9c8bbc81892f49a37ac5f9ae14b18c3e0d11891b05cb3e65e14bfbd87f182cc"
+}

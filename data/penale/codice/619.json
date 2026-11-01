@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "619",
+    "rubrica": "Violazione, sottrazione e soppressione di corrispondenza commesse da persona addetta al servizio delle poste, dei telegrafi o dei telefoni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art619"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'addetto al servizio delle poste, dei telegrafi o dei telefoni, il quale, abusando di tale qualita', commette alcuno dei fatti preveduti dalla prima parte dell'articolo 616, e' punito con la reclusione da sei mesi a tre anni. Se il colpevole, senza giusta causa, rivela, in tutto o in parte, il contenuto della corrispondenza, e' punito, qualora il fatto non costituisca un piu' grave reato, con la reclusione da sei mesi a cinque anni e con la multa da lire trecento a cinquemila. Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.",
+    "con_marcatori": "Art. 619. (Violazione, sottrazione e soppressione di corrispondenza commesse da persona addetta al servizio delle poste, dei telegrafi o dei telefoni) L'addetto al servizio delle poste, dei telegrafi o dei telefoni, il quale, abusando di tale qualita', commette alcuno dei fatti preveduti dalla prima parte dell'articolo 616, e' punito con la reclusione da sei mesi a tre anni. Se il colpevole, senza giusta causa, rivela, in tutto o in parte, il contenuto della corrispondenza, e' punito, qualora il fatto non costituisca un piu' grave reato, con la reclusione da sei mesi a cinque anni e con la multa da lire trecento a cinquemila. ((Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.))",
+    "caratteri": 571
+  },
+  "note": [],
+  "impronta": "sha256:228caf2a3f22f910265e7520bccd2605e097016c11fd5e16cae56579e6420598"
+}

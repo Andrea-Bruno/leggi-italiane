@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "52",
+    "rubrica": "Difesa legittima",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art52"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non e' punibile chi ha commesso il fatto, per esservi stato costretto dalla necessita' di difendere un diritto proprio od altrui contro il pericolo attuale di un'offesa ingiusta, sempre che la difesa sia proporzionata all'offesa. Nei casi previsti dall'articolo 614, primo e secondo comma, sussiste sempre il rapporto di proporzione di cui al primo comma del presente articolo se taluno legittimamente presente in uno dei luoghi ivi indicati usa un'arma legittimamente detenuta o altro mezzo idoneo al fine di difendere: a) la propria o la altrui incolumita': b) i beni propri o altrui, quando non vi e' desistenza e vi e' pericolo d'aggressione. Le disposizioni di cui al secondo e al quarto comma si applicano anche nel caso in cui il fatto sia avvenuto all'interno di ogni altro luogo ove venga esercitata un'attivita' commerciale, professionale o imprenditoriale. Nei casi di cui al secondo e al terzo comma agisce sempre in stato di legittima difesa colui che compie un atto per respingere l'intrusione posta in essere, con violenza o minaccia di uso di armi o di altri mezzi di coazione fisica, da parte di una o piu' persone.",
+    "con_marcatori": "Art. 52. (Difesa legittima) Non e' punibile chi ha commesso il fatto, per esservi stato costretto dalla necessita' di difendere un diritto proprio od altrui contro il pericolo attuale di un'offesa ingiusta, sempre che la difesa sia proporzionata all'offesa. Nei casi previsti dall'articolo 614, primo e secondo comma, sussiste ((sempre)) il rapporto di proporzione di cui al primo comma del presente articolo se taluno legittimamente presente in uno dei luoghi ivi indicati usa un'arma legittimamente detenuta o altro mezzo idoneo al fine di difendere: a) la propria o la altrui incolumita': b) i beni propri o altrui, quando non vi e' desistenza e vi e' pericolo d'aggressione. ((Le disposizioni di cui al secondo e al quarto comma si applicano)) anche nel caso in cui il fatto sia avvenuto all'interno di ogni altro luogo ove venga esercitata un'attivita' commerciale, professionale o imprenditoriale. ((Nei casi di cui al secondo e al terzo comma agisce sempre in stato di legittima difesa colui che compie un atto per respingere l'intrusione posta in essere, con violenza o minaccia di uso di armi o di altri mezzi di coazione fisica, da parte di una o piu' persone)).",
+    "caratteri": 1132
+  },
+  "note": [],
+  "impronta": "sha256:73864806aca0ca392a0c109f97f920e75554338888d33df5a57bf48d78ede062"
+}

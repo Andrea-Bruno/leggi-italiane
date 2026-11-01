@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "206",
+    "rubrica": "Applicazione provvisoria delle misure di sicurezza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art206"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 161,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 195,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Durante l'istruzione o il giudizio, puo' disporsi che il minore di eta', o l'infermo di mente, o l'ubriaco abituale, o la persona dedita all'uso di sostanze stupefacenti, o in stato di cronica intossicazione prodotta da alcool o da sostanze stupefacenti, siano provvisoriamente ricoverati in un riformatorio o in un manicomio giudiziario, o in una casa di cura e di custodia. Il giudice revoca l'ordine, quando ritenga che tali persone non siano piu' socialmente pericolose. Il tempo dell'esecuzione provvisoria della misura di sicurezza e' computato nella durata minima di essa.",
+    "con_marcatori": "Art. 206. (Applicazione provvisoria delle misure di sicurezza) Durante l'istruzione o il giudizio, puo' disporsi che il minore di eta', o l'infermo di mente, o l'ubriaco abituale, o la persona dedita all'uso di sostanze stupefacenti, o in stato di cronica intossicazione prodotta da alcool o da sostanze stupefacenti, siano provvisoriamente ricoverati in un riformatorio o in un manicomio giudiziario, o in una casa di cura e di custodia. (161) Il giudice revoca l'ordine, quando ritenga che tali persone non siano piu' socialmente pericolose. Il tempo dell'esecuzione provvisoria della misura di sicurezza e' computato nella durata minima di essa. ((195))",
+    "caratteri": 579
+  },
+  "note": [
+    {
+      "numero": 161,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1998-07-24",
+        "numero": "324"
+      },
+      "testo": "La Corte Costituzionale con sentenza 14-24 luglio 1998, n. 324, (in G.U. 1ª s.s. 29/07/1998, n. 30) ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo nella parte in cui prevede la possibilita' di disporre il ricovero provvisorio anche di minori in un ospedale psichiatrico giudiziario."
+    },
+    {
+      "numero": 195,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2004-11-29",
+        "numero": "367"
+      },
+      "testo": "La Corte Costituzionale con sentenza 17-29 novembre 2004, n. 367, (in G.U. 1ª s.s. 09/12/2004, n. 1002) ha dichiarato l'illegittimita' costituzionale del presente articolo nella parte in cui non consente al giudice di disporre, in luogo del ricovero in ospedale psichiatrico giudiziario, una misura di sicurezza non detentiva, prevista dalla legge, idonea ad assicurare alla persona inferma di mente cure adeguate e a contenere la sua pericolosita' sociale."
+    }
+  ],
+  "impronta": "sha256:7b0fe8e26532524e542944924cce62835efa61a56550afdd3837caa72c3838e2"
+}

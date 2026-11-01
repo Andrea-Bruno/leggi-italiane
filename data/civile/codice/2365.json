@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2365",
+    "rubrica": "Assemblea straordinaria",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2365"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea straordinaria delibera sulle modificazioni dello statuto, sulla nomina, sulla sostituzione e sui poteri dei liquidatori e su ogni altra materia espressamente attribuita dalla legge alla sua competenza. Fermo quanto disposto dagli articoli 2420-ter e 2443, lo statuto puo' attribuire alla competenza dell'organo amministrativo o del consiglio di sorveglianza o del consiglio di gestione le deliberazioni concernenti la fusione nei casi previsti dagli articoli 2505 e 2505-bis, l'istituzione o la soppressione di sedi secondarie, la indicazione di quali tra gli amministratori hanno la rappresentanza della societa', la riduzione del capitale in caso di recesso del socio, gli adeguamenti dello statuto a disposizioni normative, il trasferimento della sede sociale nel territorio nazionale. Si applica in ogni caso l'articolo 2436.",
+    "con_marcatori": "Art. 2365. (( (Assemblea straordinaria). )) ((L'assemblea straordinaria delibera sulle modificazioni dello statuto, sulla nomina, sulla sostituzione e sui poteri dei liquidatori e su ogni altra materia espressamente attribuita dalla legge alla sua competenza. Fermo quanto disposto dagli articoli 2420-ter e 2443, lo statuto puo' attribuire alla competenza dell'organo amministrativo o del consiglio di sorveglianza o del consiglio di gestione le deliberazioni concernenti la fusione nei casi previsti dagli articoli 2505 e 2505-bis, l'istituzione o la soppressione di sedi secondarie, la indicazione di quali tra gli amministratori hanno la rappresentanza della societa', la riduzione del capitale in caso di recesso del socio, gli adeguamenti dello statuto a disposizioni normative, il trasferimento della sede sociale nel territorio nazionale. Si applica in ogni caso l'articolo 2436.))",
+    "caratteri": 841
+  },
+  "note": [],
+  "impronta": "sha256:f721e971ee4dffb0316b64bfc6b9846e48f66da38e6e52237c0a82680a2118eb"
+}

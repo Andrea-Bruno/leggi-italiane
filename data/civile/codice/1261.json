@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1261",
+    "rubrica": "Divieti di cessione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1261"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I magistrati dell'ordine giudiziario, i funzionari delle cancellerie e segreterie giudiziarie, gli ufficiali giudiziari, gli avvocati, i procuratori, i patrocinatori e i notai non possono, neppure per interposta persona, rendersi cessionari di diritti sui quali e' sorta contestazione davanti l'autorita' giudiziaria di cui fanno parte o nella cui giurisdizione esercitano le loro funzioni, sotto pena di nullita' e dei danni. La disposizione del comma precedente non si applica alle cessioni di azioni ereditarie tra coeredi, ne' a quelle fatte in pagamento di debiti o per difesa di beni posseduti dal cessionario.",
+    "con_marcatori": "Art. 1261. (Divieti di cessione). I magistrati dell'ordine giudiziario, i funzionari delle cancellerie e segreterie giudiziarie, gli ufficiali giudiziari, gli avvocati, i procuratori, i patrocinatori e i notai non possono, neppure per interposta persona, rendersi cessionari di diritti sui quali e' sorta contestazione davanti l'autorita' giudiziaria di cui fanno parte o nella cui giurisdizione esercitano le loro funzioni, sotto pena di nullita' e dei danni. La disposizione del comma precedente non si applica alle cessioni di azioni ereditarie tra coeredi, ne' a quelle fatte in pagamento di debiti o per difesa di beni posseduti dal cessionario.",
+    "caratteri": 616
+  },
+  "note": [],
+  "impronta": "sha256:6968aee2713360d7aea9e0c78757ce4747d29c7e9edebb4f5090c06d496ac838"
+}

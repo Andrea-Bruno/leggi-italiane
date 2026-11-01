@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1169",
+    "rubrica": "Reintegrazione contro l'acquirente consapevole dello spoglio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1169"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La reintegrazione si puo' domandare anche contro chi e' nel possesso in virtu' di un acquisto a titolo particolare, fatto con la conoscenza dell'avvenuto spoglio.",
+    "con_marcatori": "Art. 1169. (Reintegrazione contro l'acquirente consapevole dello spoglio). La reintegrazione si puo' domandare anche contro chi e' nel possesso in virtu' di un acquisto a titolo particolare, fatto con la conoscenza dell'avvenuto spoglio.",
+    "caratteri": 162
+  },
+  "note": [],
+  "impronta": "sha256:ba8200d27e57c9e3950a95d296c751d6f9d8260a31971304744b7f557e85127a"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2396-septies",
+    "rubrica": "Cause d'ineleggibilita' e di decadenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2396-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Non possono essere eletti alla carica di componente dell'organo di controllo e, se eletti, decadono dall'ufficio: a) coloro che si trovano nelle condizioni previste dall'articolo 2382; b) il coniuge, l'altra parte dell'unione civile, i parenti entro il quarto grado, gli affini entro il secondo grado e i conviventi degli amministratori della societa', gli amministratori, il coniuge, l'altra parte dell'unione civile, i parenti entro il quarto grado, gli affini entro il secondo grado e i conviventi degli amministratori delle societa' da questa controllate, delle societa' che la controllano e di quelle sottoposte a comune controllo; c) coloro che sono legati alla societa' o alle societa' da questa controllate o alle societa' che la controllano o a quelle sottoposte a comune controllo da un rapporto di lavoro o da un rapporto continuativo di consulenza o di prestazione d'opera retribuita, ovvero da altri rapporti di natura patrimoniale che ne compromettano l'indipendenza, fermo restando che non costituisce di per se' causa di ineleggibilita' e decadenza il fatto di ricoprire cariche in organi di controllo delle societa' controllate dalla societa', delle societa' che la controllano e di quelle sottoposte a comune controllo.",
+    "con_marcatori": "Art. 2396-septies. (( (Cause d'ineleggibilita' e di decadenza).)). ((Non possono essere eletti alla carica di componente dell'organo di controllo e, se eletti, decadono dall'ufficio: a) coloro che si trovano nelle condizioni previste dall'articolo 2382; b) il coniuge, l'altra parte dell'unione civile, i parenti entro il quarto grado, gli affini entro il secondo grado e i conviventi degli amministratori della societa', gli amministratori, il coniuge, l'altra parte dell'unione civile, i parenti entro il quarto grado, gli affini entro il secondo grado e i conviventi degli amministratori delle societa' da questa controllate, delle societa' che la controllano e di quelle sottoposte a comune controllo; c) coloro che sono legati alla societa' o alle societa' da questa controllate o alle societa' che la controllano o a quelle sottoposte a comune controllo da un rapporto di lavoro o da un rapporto continuativo di consulenza o di prestazione d'opera retribuita, ovvero da altri rapporti di natura patrimoniale che ne compromettano l'indipendenza, fermo restando che non costituisce di per se' causa di ineleggibilita' e decadenza il fatto di ricoprire cariche in organi di controllo delle societa' controllate dalla societa', delle societa' che la controllano e di quelle sottoposte a comune controllo.))",
+    "caratteri": 1239
+  },
+  "note": [],
+  "impronta": "sha256:8f9cf0936bfb8e378e5942db07a68a1e686e0c10743a57b424fa62061c384297"
+}

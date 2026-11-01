@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2751",
+    "rubrica": "Crediti per spese funebri, d'infermita', alimenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2751"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Hanno privilegio generale sui mobili, nell'ordine che segue, i crediti riguardanti: 1) le spese funebri necessarie secondo gli usi; 2) le spese d'infermita' fatte negli ultimi sei mesi della vita del debitore; 3) le somministrazioni di vitto, vesti e alloggio, nei limiti della stretta necessita', fatte al debitore per lui e per la sua famiglia negli ultimi sei mesi; 4) i crediti di alimenti per gli ultimi tre mesi a favore delle persone alle quali gli alimenti sono dovuti per legge",
+    "con_marcatori": "Art. 2751. ((Crediti per spese funebri, d'infermita', alimenti.)) ((Hanno privilegio generale sui mobili, nell'ordine che segue, i crediti riguardanti: 1) le spese funebri necessarie secondo gli usi; 2) le spese d'infermita' fatte negli ultimi sei mesi della vita del debitore; 3) le somministrazioni di vitto, vesti e alloggio, nei limiti della stretta necessita', fatte al debitore per lui e per la sua famiglia negli ultimi sei mesi; 4) i crediti di alimenti per gli ultimi tre mesi a favore delle persone alle quali gli alimenti sono dovuti per legge))",
+    "caratteri": 486
+  },
+  "note": [],
+  "impronta": "sha256:1f0f121d4b763f27c0771fbbbe915d07240ca349011c0da9f1fcebeb2e5c4ca6"
+}

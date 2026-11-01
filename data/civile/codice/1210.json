@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1210",
+    "rubrica": "Facolta' di deposito e suoi effetti liberatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1210"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il creditore rifiuta di accettare l'offerta reale o non si presenta per ricevere le cose offertegli mediante intimazione, il debitore puo' eseguire il deposito. Eseguito il deposito, quando questo e' accettato dal creditore o e' dichiarato valido con sentenza passata in giudicato, il debitore non puo' piu' ritirarlo ed e' liberato dalla sua obbligazione.",
+    "con_marcatori": "Art. 1210. (Facolta' di deposito e suoi effetti liberatori). Se il creditore rifiuta di accettare l'offerta reale o non si presenta per ricevere le cose offertegli mediante intimazione, il debitore puo' eseguire il deposito. Eseguito il deposito, quando questo e' accettato dal creditore o e' dichiarato valido con sentenza passata in giudicato, il debitore non puo' piu' ritirarlo ed e' liberato dalla sua obbligazione.",
+    "caratteri": 359
+  },
+  "note": [],
+  "impronta": "sha256:738291d8c956c5900bae07fe70aaa8cb6d8b6f42dd1cc5a0dde9a790b5e1a58f"
+}

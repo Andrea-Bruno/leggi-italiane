@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2446",
+    "rubrica": "Riduzione del capitale per perdite",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2446"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando risulta che il capitale e' diminuito di oltre un terzo in conseguenza di perdite, gli amministratori o il consiglio di gestione, e nel caso di loro inerzia il collegio sindacale ovvero il consiglio di sorveglianza, devono senza indugio convocare l'assemblea per gli opportuni provvedimenti. All'assemblea deve essere sottoposta una relazione sulla situazione patrimoniale della societa', con le osservazioni del collegio sindacale o del comitato per il controllo sulla gestione. La relazione e le osservazioni devono restare depositate in copia nella sede della societa' durante gli otto giorni che precedono l'assemblea, perche' i soci possano prenderne visione. Nell'assemblea gli amministratori devono dare conto dei fatti di rilievo avvenuti dopo la redazione della relazione. Se entro l'esercizio successivo la perdita non risulta diminuita a meno di un terzo, l'assemblea ordinaria o il consiglio di sorveglianza che approva il bilancio di tale esercizio deve ridurre il capitale in proporzione delle perdite accertate. In mancanza gli amministratori e i sindaci o il consiglio di sorveglianza devono chiedere al tribunale che venga disposta la riduzione del capitale in ragione delle perdite risultanti dal bilancio. Il tribunale provvede, sentito il pubblico ministero, con decreto soggetto a reclamo, che deve essere iscritto nel registro delle imprese a cura degli amministratori. Nel caso in cui le azioni emesse dalla societa' siano senza valore nominale, lo statuto, una sua modificazione ovvero una deliberazione adottata con le maggioranze previste per l'assemblea straordinaria possono prevedere che la riduzione del capitale di cui al precedente comma sia deliberata dal consiglio di amministrazione. Si applica in tal caso l'articolo 2436.",
+    "con_marcatori": "Art. 2446. (( (Riduzione del capitale per perdite).)) ((Quando risulta che il capitale e' diminuito di oltre un terzo in conseguenza di perdite, gli amministratori o il consiglio di gestione, e nel caso di loro inerzia il collegio sindacale ovvero il consiglio di sorveglianza, devono senza indugio convocare l'assemblea per gli opportuni provvedimenti. All'assemblea deve essere sottoposta una relazione sulla situazione patrimoniale della societa', con le osservazioni del collegio sindacale o del comitato per il controllo sulla gestione. La relazione e le osservazioni devono restare depositate in copia nella sede della societa' durante gli otto giorni che precedono l'assemblea, perche' i soci possano prenderne visione. Nell'assemblea gli amministratori devono dare conto dei fatti di rilievo avvenuti dopo la redazione della relazione. Se entro l'esercizio successivo la perdita non risulta diminuita a meno di un terzo, l'assemblea ordinaria o il consiglio di sorveglianza che approva il bilancio di tale esercizio deve ridurre il capitale in proporzione delle perdite accertate. In mancanza gli amministratori e i sindaci o il consiglio di sorveglianza devono chiedere al tribunale che venga disposta la riduzione del capitale in ragione delle perdite risultanti dal bilancio. Il tribunale provvede, sentito il pubblico ministero, con decreto soggetto a reclamo, che deve essere iscritto nel registro delle imprese a cura degli amministratori. Nel caso in cui le azioni emesse dalla societa' siano senza valore nominale, lo statuto, una sua modificazione ovvero una deliberazione adottata con le maggioranze previste per l'assemblea straordinaria possono prevedere che la riduzione del capitale di cui al precedente comma sia deliberata dal consiglio di amministrazione. Si applica in tal caso l'articolo 2436.))",
+    "caratteri": 1764
+  },
+  "note": [],
+  "impronta": "sha256:9c4469bd67c481d737c2f2eb4bde4caa8b4518fa2a540837376c8132042e91ad"
+}

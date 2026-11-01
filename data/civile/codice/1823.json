@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1823",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1823"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il conto corrente e' il contratto col quale le parti si obbligano ad annotare in un conto i crediti derivanti da reciproche rimesse, considerandoli inesigibili e indisponibili fino alla chiusura del conto. Il saldo del conto e' esigibile alla scadenza stabilita. Se non e' richiesto il pagamento, il saldo si considera quale prima rimessa di un nuovo conto e il contratto s'intende rinnovato a tempo indeterminato.",
+    "con_marcatori": "Art. 1823. (Nozione). Il conto corrente e' il contratto col quale le parti si obbligano ad annotare in un conto i crediti derivanti da reciproche rimesse, considerandoli inesigibili e indisponibili fino alla chiusura del conto. Il saldo del conto e' esigibile alla scadenza stabilita. Se non e' richiesto il pagamento, il saldo si considera quale prima rimessa di un nuovo conto e il contratto s'intende rinnovato a tempo indeterminato.",
+    "caratteri": 414
+  },
+  "note": [],
+  "impronta": "sha256:c5eefd8cbc1caef31ebf631c1c0da0eb2cde650ebe31b41c330418369a7c8d50"
+}

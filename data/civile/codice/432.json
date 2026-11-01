@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "432",
+    "rubrica": "Inabilitazione nel giudizio di revoca dell'interdizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art432"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'autorita' giudiziaria che, pur riconoscendo fondata l'istanza di revoca dell'interdizione, non crede che l'infermo abbia riacquistato la piena capacita', puo' revocare l'interdizione e dichiarare inabilitato l'infermo medesimo. Si applica anche in questo caso il primo comma dell'articolo precedente. Gli atti non eccedenti l'ordinaria amministrazione, compiuti dall'inabilitato dopo la pubblicazione della sentenza che revoca l'interdizione, possono essere impugnati solo quando la revoca e' esclusa con sentenza passata in giudicato.",
+    "con_marcatori": "Art. 432. (Inabilitazione nel giudizio di revoca dell'interdizione). L'autorita' giudiziaria che, pur riconoscendo fondata l'istanza di revoca dell'interdizione, non crede che l'infermo abbia riacquistato la piena capacita', puo' revocare l'interdizione e dichiarare inabilitato l'infermo medesimo. Si applica anche in questo caso il primo comma dell'articolo precedente. Gli atti non eccedenti l'ordinaria amministrazione, compiuti dall'inabilitato dopo la pubblicazione della sentenza che revoca l'interdizione, possono essere impugnati solo quando la revoca e' esclusa con sentenza passata in giudicato.((146))",
+    "caratteri": 537
+  },
+  "note": [
+    {
+      "numero": 146,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 9 gennaio 2004, n. 6",
+          "urn": "urn:nir:stato:legge:2004-01-09;6",
+          "data": "2004-01-09",
+          "numero": "6",
+          "data_gazzetta": "2004-01-19"
+        },
+        {
+          "denominazione": "codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 9 gennaio 2004, n. 6 ha disposto (con l'art. 4, comma 1) che \"Nel titolo XII del libro primo del codice civile, prima dell'articolo 414 sono inserite le seguenti parole: \"Capo II. - Della interdizione, della inabilitazione e della incapacita' naturale\".\""
+    }
+  ],
+  "impronta": "sha256:675eb0d249ff7d24535ab379db97a9658f018c8861d393018ad52ea28a6a26cd"
+}

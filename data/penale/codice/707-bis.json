@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "707-bis",
+    "rubrica": "Possesso ingiustificato di strumenti per il sondaggio del terreno o di apparecchiature per la rilevazione dei metalli",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art707-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' punito con l'arresto fino a due anni e con l'ammenda da euro 500 a euro 2.000 chi e' colto in possesso di strumenti per il sondaggio del terreno o di apparecchiature per la rilevazione dei metalli, dei quali non giustifichi l'attuale destinazione, all'interno di aree e parchi archeologici, di zone di interesse archeologico, se delimitate con apposito atto dell'amministrazione competente, o di aree nelle quali sono in corso lavori sottoposti alle procedure di verifica preventiva dell'interesse archeologico secondo quanto previsto dalla legge.",
+    "con_marcatori": "Art. 707-bis (( (Possesso ingiustificato di strumenti per il sondaggio del terreno o di apparecchiature per la rilevazione dei metalli). )) ((E' punito con l'arresto fino a due anni e con l'ammenda da euro 500 a euro 2.000 chi e' colto in possesso di strumenti per il sondaggio del terreno o di apparecchiature per la rilevazione dei metalli, dei quali non giustifichi l'attuale destinazione, all'interno di aree e parchi archeologici, di zone di interesse archeologico, se delimitate con apposito atto dell'amministrazione competente, o di aree nelle quali sono in corso lavori sottoposti alle procedure di verifica preventiva dell'interesse archeologico secondo quanto previsto dalla legge)).",
+    "caratteri": 550
+  },
+  "note": [],
+  "impronta": "sha256:2905d60c69c22ce35dc69c66d1780c100f4a4d4f0407d5f25ff1cd4df339ef05"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "389",
+    "rubrica": "Registro delle tutele",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art389"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel registro delle tutele, istituito presso ogni giudice tutelare, sono iscritti a cura del cancelliere l'apertura e la chiusura della tutela, la nomina, l'esonero e la rimozione del tutore e del protutore, le risultanze degli inventari e dei rendiconti e tutti i provvedimenti che portano modificazione nello stato personale o patrimoniale del minore. Dell'apertura e della chiusura della tutela il cancelliere da' comunicazione entro dieci giorni all'ufficiale dello stato civile per l'annotazione in margine all'atto di nascita del minore.",
+    "con_marcatori": "Art. 389 (Registro delle tutele). Nel registro delle tutele, istituito presso ogni giudice tutelare, sono iscritti a cura del cancelliere l'apertura e la chiusura della tutela, la nomina, l'esonero e la rimozione del tutore e del protutore, le risultanze degli inventari e dei rendiconti e tutti i provvedimenti che portano modificazione nello stato personale o patrimoniale del minore. Dell'apertura e della chiusura della tutela il cancelliere da' comunicazione entro dieci giorni all'ufficiale dello stato civile per l'annotazione in margine all'atto di nascita del minore.",
+    "caratteri": 542
+  },
+  "note": [],
+  "impronta": "sha256:b85626332cf9a50e7bb628dd18ad0d29693f8e44859829edf43efd000b2f3e28"
+}

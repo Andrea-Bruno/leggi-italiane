@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "354",
+    "rubrica": "Astensione dagli incanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art354"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, per denaro, dato o promesso a lui o ad altri, o per altra utilita' a lui o ad altri data o promessa, si astiene dal concorrere agli incanti o alle licitazioni indicati nell'articolo precedente, e' punito con la reclusione sino a sei mesi o con la multa fino a lire cinquemila.",
+    "con_marcatori": "Art. 354. (Astensione dagli incanti) Chiunque, per denaro, dato o promesso a lui o ad altri, o per altra utilita' a lui o ad altri data o promessa, si astiene dal concorrere agli incanti o alle licitazioni indicati nell'articolo precedente, e' punito con la reclusione sino a sei mesi o con la multa fino a lire cinquemila.",
+    "caratteri": 286
+  },
+  "note": [],
+  "impronta": "sha256:2884ee630005517a4f9c13a9bc4d7de18d9e9bdc30465e7af6ad1192dfb0073b"
+}

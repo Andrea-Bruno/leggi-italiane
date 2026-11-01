@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2158",
+    "rubrica": "Morte di una delle parti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2158"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La mezzadria non si scioglie per la morte del concedente. In caso di morte del mezzadro la mezzadria si scioglie alla fine dell'anno agrario in corso, salvo che tra gli eredi del mezzadro vi sia persona idonea a sostituirlo ed i componenti della famiglia colonica si accordino nel designarla. Se la morte del mezzadro e' avvenuta negli ultimi quattro mesi dell'anno agrario, i componenti della famiglia colonica possono chiedere che la mezzadria continui sino alla fine dell'anno successivo, purche' assicurino la buona coltivazione del podere. La richiesta deve essere fatta entro due mesi dalla morte del mezzadro, o, se cio' non e' possibile, prima dell'inizio del nuovo anno agrario. In tutti i casi, se il podere non e' coltivato con la dovuta diligenza il concedente puo' fare eseguire a sue spese i lavori necessari, salvo rivalsa mediante prelevamento sui prodotti e sugli utili.",
+    "con_marcatori": "Art. 2158. (Morte di una delle parti). La mezzadria non si scioglie per la morte del concedente. In caso di morte del mezzadro la mezzadria si scioglie alla fine dell'anno agrario in corso, salvo che tra gli eredi del mezzadro vi sia persona idonea a sostituirlo ed i componenti della famiglia colonica si accordino nel designarla. Se la morte del mezzadro e' avvenuta negli ultimi quattro mesi dell'anno agrario, i componenti della famiglia colonica possono chiedere che la mezzadria continui sino alla fine dell'anno successivo, purche' assicurino la buona coltivazione del podere. La richiesta deve essere fatta entro due mesi dalla morte del mezzadro, o, se cio' non e' possibile, prima dell'inizio del nuovo anno agrario. In tutti i casi, se il podere non e' coltivato con la dovuta diligenza il concedente puo' fare eseguire a sue spese i lavori necessari, salvo rivalsa mediante prelevamento sui prodotti e sugli utili.",
+    "caratteri": 887
+  },
+  "note": [],
+  "impronta": "sha256:d51fc5137f247815b5f6193a2e8deff34fe199a3f8acd7388ad3544a00e68429"
+}

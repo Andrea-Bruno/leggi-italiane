@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "592",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art592"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 22,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "( Figli riconosciuti o riconoscibili). Se vi sono discendenti legittimi, i figli, quando la filiazione e' stata riconosciuta o dichiarata, non possono ricevere per testamento piu' di quanto avrebbero ricevuto se la successione si fosse devoluta in base alla legge. I figli riconoscibili, quando la filiazione risulta nei modi indicati dall'art. 279, non possono ricevere piu' di quanto, secondo la disposizione del comma precedente, potrebbero conseguire se la filiazione fosse stata riconosciuta o dichiarata.",
+    "con_marcatori": "Art. 592. ( ((Figli)) riconosciuti o riconoscibili). Se vi sono discendenti legittimi, i ((figli)), quando la filiazione e' stata riconosciuta o dichiarata, non possono ricevere per testamento piu' di quanto avrebbero ricevuto se la successione si fosse devoluta in base alla legge. I ((figli)) riconoscibili, quando la filiazione risulta nei modi indicati dall'art. 279, non possono ricevere piu' di quanto, secondo la disposizione del comma precedente, potrebbero conseguire se la filiazione fosse stata riconosciuta o dichiarata. (22)",
+    "caratteri": 510
+  },
+  "note": [
+    {
+      "numero": 22,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1970-12-28",
+        "numero": "205"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 18 - 28 dicembre 1970, n. 205 (in G.U. 1a s.s. 30/12/1970, n. 329), ha dichiarato, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale del presente articolo."
+    }
+  ],
+  "impronta": "sha256:807d2f4055b097a344c442c81e20ae8c62bd769f3378ea546635a817f669ce86"
+}

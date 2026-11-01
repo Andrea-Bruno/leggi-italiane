@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "261",
+    "rubrica": "Rivelazione di segreti di Stato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art261"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque rivela taluna delle notizie di carattere segreto indicate nell'articolo 256 e' punito con la reclusione non inferiore a cinque anni. Se il fatto e' commesso in tempo di guerra, ovvero ha compromesso la preparazione o la efficienza bellica dello Stato o le operazioni militari, la pena della reclusione non puo' essere inferiore a dieci anni. Se il colpevole ha agito a scopo di spionaggio politico o militare, si applica, nel caso preveduto dalla prima parte di questo articolo, la pena dell'ergastolo; e, nei casi preveduti dal primo capoverso, la pena di morte. Le pene stabilite nelle disposizioni precedenti si applicano anche a chi ottiene la notizia. Se il fatto e' commesso per colpa, la pena e' della reclusione da sei mesi a due anni, nel caso preveduto dalla prima parte di questo articolo, e da tre a quindici anni qualora concorra una delle circostanze indicate nel primo capoverso.",
+    "con_marcatori": "Art. 261. (Rivelazione di segreti di Stato) Chiunque rivela taluna delle notizie di carattere segreto indicate nell'articolo 256 e' punito con la reclusione non inferiore a cinque anni. Se il fatto e' commesso in tempo di guerra, ovvero ha compromesso la preparazione o la efficienza bellica dello Stato o le operazioni militari, la pena della reclusione non puo' essere inferiore a dieci anni. Se il colpevole ha agito a scopo di spionaggio politico o militare, si applica, nel caso preveduto dalla prima parte di questo articolo, la pena dell'ergastolo; e, nei casi preveduti dal primo capoverso, la pena di morte.((5)) Le pene stabilite nelle disposizioni precedenti si applicano anche a chi ottiene la notizia. Se il fatto e' commesso per colpa, la pena e' della reclusione da sei mesi a due anni, nel caso preveduto dalla prima parte di questo articolo, e da tre a quindici anni qualora concorra una delle circostanze indicate nel primo capoverso.",
+    "caratteri": 903
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:3b6e9bf2e461a4fbc66045ac6388968bf4b792e61011661a47d16f70abc162af"
+}

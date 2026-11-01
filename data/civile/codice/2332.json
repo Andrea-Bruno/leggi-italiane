@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2332",
+    "rubrica": "Nullita' della societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2332"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Avvenuta l'iscrizione nel registro delle imprese, la nullita' della societa' puo' essere pronunciata soltanto nei seguenti casi: 1) mancata stipulazione dell'atto costitutivo nella forma dell'atto pubblico; 2) illiceita' dell'oggetto sociale; 3) mancanza nell'atto costitutivo di ogni indicazione riguardante la denominazione della societa', o i conferimenti, o l'ammontare del capitale sociale o l'oggetto sociale. La dichiarazione di nullita' non pregiudica l'efficacia degli atti compiuti in nome della societa' dopo l'iscrizione nel registro delle imprese. I soci non sono liberati dall'obbligo di conferimento fino a quando non sono soddisfatti i creditori sociali. La sentenza che dichiara la nullita' nomina i liquidatori. La nullita' non puo' essere dichiarata quando la causa di essa e' stata eliminata e di tale eliminazione e' stata data pubblicita' con iscrizione nel registro delle imprese. Il dispositivo della sentenza che dichiara la nullita' deve essere iscritto, a cura degli amministratori o dei liquidatori nominati ai sensi del quarto comma, nel registro delle imprese.",
+    "con_marcatori": "Art. 2332. (( (Nullita' della societa'). )) ((Avvenuta l'iscrizione nel registro delle imprese, la nullita' della societa' puo' essere pronunciata soltanto nei seguenti casi: 1) mancata stipulazione dell'atto costitutivo nella forma dell'atto pubblico; 2) illiceita' dell'oggetto sociale; 3) mancanza nell'atto costitutivo di ogni indicazione riguardante la denominazione della societa', o i conferimenti, o l'ammontare del capitale sociale o l'oggetto sociale. La dichiarazione di nullita' non pregiudica l'efficacia degli atti compiuti in nome della societa' dopo l'iscrizione nel registro delle imprese. I soci non sono liberati dall'obbligo di conferimento fino a quando non sono soddisfatti i creditori sociali. La sentenza che dichiara la nullita' nomina i liquidatori. La nullita' non puo' essere dichiarata quando la causa di essa e' stata eliminata e di tale eliminazione e' stata data pubblicita' con iscrizione nel registro delle imprese. Il dispositivo della sentenza che dichiara la nullita' deve essere iscritto, a cura degli amministratori o dei liquidatori nominati ai sensi del quarto comma, nel registro delle imprese.))",
+    "caratteri": 1090
+  },
+  "note": [],
+  "impronta": "sha256:e1451ff0b71f28159b23ce414786730803a607e465c2282fd476b57cce65afe3"
+}

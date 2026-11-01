@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2076",
+    "rubrica": "Contratto collettivo annullabile",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2076"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto collettivo annullabile conserva efficacia fino a che intervenga una sentenza di annullamento passata in giudicato. La domanda di annullamento e' proposta davanti la magistratura del lavoro dalle associazioni interessate o dal pubblico ministero. La domanda deve essere proposta, sotto pena di decadenza, entro sei mesi dalla pubblicazione del contratto collettivo.",
+    "con_marcatori": "Art. 2076. (Contratto collettivo annullabile). Il contratto collettivo annullabile conserva efficacia fino a che intervenga una sentenza di annullamento passata in giudicato. La domanda di annullamento e' proposta davanti la magistratura del lavoro dalle associazioni interessate o dal pubblico ministero. La domanda deve essere proposta, sotto pena di decadenza, entro sei mesi dalla pubblicazione del contratto collettivo.",
+    "caratteri": 377
+  },
+  "note": [],
+  "impronta": "sha256:91386be95865ad1449014d9e8a075fa9d71478c52765bfc7e4e609f0e2cc15b7"
+}

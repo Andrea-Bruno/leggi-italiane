@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1171",
+    "rubrica": "Denunzia di nuova opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1171"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario, il titolare di altro diritto reale di godimento o il possessore, il quale ha ragione di temere che da una nuova opera, da altri intrapresa sul proprio come sull'altrui fondo, sia per derivare danno alla cosa che forma l'oggetto del suo diritto o del suo possesso, puo' denunziare all'autorita' giudiziaria la nuova opera, purche' questa non sia terminata e non sia trascorso un anno dal suo inizio. L'autorita' giudiziaria, presa sommaria cognizione del fatto, puo' vietare la continuazione dell'opera, ovvero permetterla, ordinando le opportune cautele: nel primo caso, per il risarcimento del danno prodotto dalla sospensione dell'opera, qualora le opposizioni al suo proseguimento risultino infondate nella decisione del merito; nel secondo caso, per la demolizione o riduzione dell'opera e per il risarcimento del danno che possa soffrirne il denunziante, se questi ottiene sentenza favorevole, nonostante la permessa continuazione.",
+    "con_marcatori": "Art. 1171. (Denunzia di nuova opera). Il proprietario, il titolare di altro diritto reale di godimento o il possessore, il quale ha ragione di temere che da una nuova opera, da altri intrapresa sul proprio come sull'altrui fondo, sia per derivare danno alla cosa che forma l'oggetto del suo diritto o del suo possesso, puo' denunziare all'autorita' giudiziaria la nuova opera, purche' questa non sia terminata e non sia trascorso un anno dal suo inizio. L'autorita' giudiziaria, presa sommaria cognizione del fatto, puo' vietare la continuazione dell'opera, ovvero permetterla, ordinando le opportune cautele: nel primo caso, per il risarcimento del danno prodotto dalla sospensione dell'opera, qualora le opposizioni al suo proseguimento risultino infondate nella decisione del merito; nel secondo caso, per la demolizione o riduzione dell'opera e per il risarcimento del danno che possa soffrirne il denunziante, se questi ottiene sentenza favorevole, nonostante la permessa continuazione.",
+    "caratteri": 953
+  },
+  "note": [],
+  "impronta": "sha256:53306d31f7cb1f60b5d233692d56325a91e2b12e8cfcef2548af537a370e31c7"
+}

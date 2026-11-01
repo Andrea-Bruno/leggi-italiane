@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "617",
+    "rubrica": "Testamento dei militari e assimilati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art617"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento dei militari e delle persone al seguito delle forze armate dello Stato puo' essere ricevuto da un ufficiale o da un cappellano militare o da un ufficiale della Croce Rossa, in presenza di due testimoni; esso deve essere sottoscritto dal testatore, dalla persona che lo ha ricevuto e dai testimoni. Se il testatore o i testimoni non possono sottoscrivere, si deve indicare il motivo che ha impedito la sottoscrizione. Il testamento deve essere al piu' presto trasmesso al quartiere generale e da questo al Ministero competente, che ne ordina il deposito nell'archivio notarile del luogo del domicilio o dell'ultima residenza del testatore.",
+    "con_marcatori": "Art. 617. (Testamento dei militari e assimilati). Il testamento dei militari e delle persone al seguito delle forze armate dello Stato puo' essere ricevuto da un ufficiale o da un cappellano militare o da un ufficiale della Croce Rossa, in presenza di due testimoni; esso deve essere sottoscritto dal testatore, dalla persona che lo ha ricevuto e dai testimoni. Se il testatore o i testimoni non possono sottoscrivere, si deve indicare il motivo che ha impedito la sottoscrizione. Il testamento deve essere al piu' presto trasmesso al quartiere generale e da questo al Ministero competente, che ne ordina il deposito nell'archivio notarile del luogo del domicilio o dell'ultima residenza del testatore.",
+    "caratteri": 652
+  },
+  "note": [],
+  "impronta": "sha256:2b030c5df29b5fa2d4401cfd942cb9433904092a6b1e5d4ab9b945282495ba7a"
+}

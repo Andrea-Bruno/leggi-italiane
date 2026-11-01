@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1442",
+    "rubrica": "Prescrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1442"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'azione di annullamento si prescrive in cinque anni. Quando l'annullabilita' dipende da vizio del consenso o da incapacita' legale, il termine decorre dal giorno in cui e' cessata la violenza, e' stato scoperto l'errore o il dolo, e' cessato lo stato d'interdizione o d'inabilitazione, ovvero il minore ha raggiunto la maggiore eta'. Negli altri casi il termine decorre dal giorno della conclusione del contratto. L'annullabilita' puo' essere opposta dalla parte convenuta per l'esecuzione del contratto, anche se e' prescritta l'azione per farla valere.",
+    "con_marcatori": "Art. 1442. (Prescrizione). L'azione di annullamento si prescrive in cinque anni. Quando l'annullabilita' dipende da vizio del consenso o da incapacita' legale, il termine decorre dal giorno in cui e' cessata la violenza, e' stato scoperto l'errore o il dolo, e' cessato lo stato d'interdizione o d'inabilitazione, ovvero il minore ha raggiunto la maggiore eta'. Negli altri casi il termine decorre dal giorno della conclusione del contratto. L'annullabilita' puo' essere opposta dalla parte convenuta per l'esecuzione del contratto, anche se e' prescritta l'azione per farla valere. ((2))",
+    "caratteri": 555
+  },
+  "note": [
+    {
+      "numero": 2,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "Regio D.L. 20 gennaio 1944, n. 26",
+          "urn": "urn:nir:stato:regio.decreto.legge:1944-01-20;26",
+          "data": "1944-01-20",
+          "numero": "26",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1442 Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Regio D.L. 20 gennaio 1944, n. 26, ha disposto (con l'art. 14, comma 1) che \"Per tutti i contratti di alienazione di beni immobili, sia a titolo gratuito che oneroso, pei quali vi sia la prova incontestabile che il cittadino colpito dalle leggi razziali s'indusse all'alienazione per sottrarsi all'applicazione delle leggi stesse con la riduzione della propria quota di disponibilita' degli immobili, lo stesso avra' diritto di esercitare, nel termine di un anno dalla conclusione della pace, la relativa azione di annullamento. La prova di cui sopra puo' risultare da scritture private anche non registrate. La registrazione avverra' con la tassa fissa di L. 20 (venti). Il termine suindicato e' stabilito in deroga all'art. 1442 Codice civile.\""
+    }
+  ],
+  "impronta": "sha256:029e79e8fae881959e1afe60588f969eb14a4560bf6fedc7f5ff2905d373981c"
+}

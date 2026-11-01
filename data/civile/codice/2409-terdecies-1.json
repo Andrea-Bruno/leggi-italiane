@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2409-terdecies.1",
+    "rubrica": "Validita' delle deliberazioni del consiglio di sorveglianza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Per la validita' delle deliberazioni del consiglio di sorveglianza e' necessaria la presenza della maggioranza dei componenti in carica, quando lo statuto non richiede un maggior numero di presenti. Lo statuto puo' prevedere che la presenza alle riunioni del consiglio avvenga anche mediante mezzi di telecomunicazione. Le deliberazioni del consiglio di sorveglianza sono prese a maggioranza assoluta dei presenti, salvo diversa disposizione dello statuto. Il voto non puo' essere dato per rappresentanza. Le deliberazioni del consiglio di sorveglianza che non sono prese in conformita' della legge o dello statuto possono essere impugnate dai componenti assenti o dissenzienti entro novanta giorni dalla data della deliberazione; si applica in quanto compatibile l'articolo 2378. Possono essere altresi' impugnate dai soci le deliberazioni lesive dei loro diritti; si applicano in tal caso, in quanto compatibili, gli articoli 2377 e 2378. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione delle deliberazioni.",
+    "con_marcatori": "Art. 2409-terdecies.1 (( (Validita' delle deliberazioni del consiglio di sorveglianza).)). ((Per la validita' delle deliberazioni del consiglio di sorveglianza e' necessaria la presenza della maggioranza dei componenti in carica, quando lo statuto non richiede un maggior numero di presenti. Lo statuto puo' prevedere che la presenza alle riunioni del consiglio avvenga anche mediante mezzi di telecomunicazione. Le deliberazioni del consiglio di sorveglianza sono prese a maggioranza assoluta dei presenti, salvo diversa disposizione dello statuto. Il voto non puo' essere dato per rappresentanza. Le deliberazioni del consiglio di sorveglianza che non sono prese in conformita' della legge o dello statuto possono essere impugnate dai componenti assenti o dissenzienti entro novanta giorni dalla data della deliberazione; si applica in quanto compatibile l'articolo 2378. Possono essere altresi' impugnate dai soci le deliberazioni lesive dei loro diritti; si applicano in tal caso, in quanto compatibili, gli articoli 2377 e 2378. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione delle deliberazioni.))",
+    "caratteri": 1071
+  },
+  "note": [],
+  "impronta": "sha256:0b4fe0c5f34b3e1b66b608fc0ed6cdd66587040d01fafaef83058f02f2026ef2"
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2783-bis",
+    "rubrica": "Crediti derivanti dall'applicazione dei prelievi di cui agli articoli 49 e 50 del trattato che istituisce la Comunita' europea del carbone e dell'acciaio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2783-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I crediti derivanti dall'applicazione dei prelievi di cui agli articoli 49 e 50 del Trattato che istituisce la Comunita' europea del carbone e dell'acciaio, nonche' dalle relative maggiorazioni di mora, sono equiparati, ai fini dell'applicazione delle disposizioni del presente capo, ai crediti dello Stato per l'imposta sul valore aggiunto.",
+    "con_marcatori": "Art. 2783-bis. (( (Crediti derivanti dall'applicazione dei prelievi di cui agli articoli 49 e 50 del trattato che istituisce la Comunita' europea del carbone e dell'acciaio).)) ((I crediti derivanti dall'applicazione dei prelievi di cui agli articoli 49 e 50 del Trattato che istituisce la Comunita' europea del carbone e dell'acciaio, nonche' dalle relative maggiorazioni di mora, sono equiparati, ai fini dell'applicazione delle disposizioni del presente capo, ai crediti dello Stato per l'imposta sul valore aggiunto)).((76))",
+    "caratteri": 341
+  },
+  "note": [
+    {
+      "numero": 76,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 29 dicembre 1990, n. 428",
+          "urn": "urn:nir:stato:legge:1990-12-29;428",
+          "data": "1990-12-29",
+          "numero": "428",
+          "data_gazzetta": "1991-01-12"
+        },
+        {
+          "denominazione": "articolo 2783-bis del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 29 dicembre 1990, n. 428, ha disposto (con l'art. 40, comma 2) che \"L'articolo 2783-bis del codice civile si applica anche ai crediti sorti anteriormente alla sua entrata in vigore ed anche se siano gia' stati fatti valere, purche' la procedura esecutiva o concorsuale sia, alla stessa data, ancora in corso.\""
+    }
+  ],
+  "impronta": "sha256:15ee77c74d1bdb94de8c5733b5d76f3fa9f7909ae9a6e2590ce4877d36342866"
+}

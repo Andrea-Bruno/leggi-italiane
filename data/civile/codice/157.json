@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "157",
+    "rubrica": "Cessazione degli effetti della separazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art157"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I coniugi possono di comune accordo far cessare gli effetti della sentenza di separazione, senza che sia necessario l'intervento del giudice, con una espressa dichiarazione o con un comportamento non equivoco che sia incompatibile con lo stato di separazione. La separazione puo' essere pronunziata nuovamente soltanto in relazione a fatti e comportamenti intervenuti dopo la riconciliazione.",
+    "con_marcatori": "Art. 157. ((Cessazione degli effetti della separazione.)) ((I coniugi possono di comune accordo far cessare gli effetti della sentenza di separazione, senza che sia necessario l'intervento del giudice, con una espressa dichiarazione o con un comportamento non equivoco che sia incompatibile con lo stato di separazione. La separazione puo' essere pronunziata nuovamente soltanto in relazione a fatti e comportamenti intervenuti dopo la riconciliazione)).",
+    "caratteri": 392
+  },
+  "note": [],
+  "impronta": "sha256:13f5cfca267212a9b1e489407ffcf309cb1e59650a8bb474f3ffb0c42146a529"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2355-bis",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2355-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "bis (Limiti alla circolazione delle azioni). Nel caso di azioni nominative ed in quello di mancata emissione dei titoli azionari, lo statuto puo' sottoporre a particolari condizioni il loro trasferimento e puo', per un periodo non superiore a cinque anni dalla costituzione della societa' o dal momento in cui il divieto viene introdotto, vietarne il trasferimento. Le clausole dello statuto che subordinano il trasferimento delle azioni al mero gradimento di organi sociali o di altri soci sono inefficaci se non prevedono, a carico della societa' o degli altri soci, un obbligo di acquisto oppure il diritto di recesso dell' alienante; resta ferma l'applicazione dell'articolo 2357. Il corrispettivo dell'acquisto o rispettivamente la quota di liquidazione sono determinati secondo le modalita' e nella misura previste dall'articolo 2437-ter. La disposizione del precedente comma si applica in ogni ipotesi di clausole che sottopongono a particolari condizioni il trasferimento a causa di morte delle azioni, salvo che sia previsto il gradimento e questo sia concesso. Le limitazioni al trasferimento delle azioni devono risultare dal titolo.",
+    "con_marcatori": "Art. 2355 bis (( (Limiti alla circolazione delle azioni). )) ((Nel caso di azioni nominative ed in quello di mancata emissione dei titoli azionari, lo statuto puo' sottoporre a particolari condizioni il loro trasferimento e puo', per un periodo non superiore a cinque anni dalla costituzione della societa' o dal momento in cui il divieto viene introdotto, vietarne il trasferimento. Le clausole dello statuto che subordinano il trasferimento delle azioni al mero gradimento di organi sociali o di altri soci sono inefficaci se non prevedono, a carico della societa' o degli altri soci, un obbligo di acquisto oppure il diritto di recesso dell' alienante; resta ferma l'applicazione dell'articolo 2357. Il corrispettivo dell'acquisto o rispettivamente la quota di liquidazione sono determinati secondo le modalita' e nella misura previste dall'articolo 2437-ter. La disposizione del precedente comma si applica in ogni ipotesi di clausole che sottopongono a particolari condizioni il trasferimento a causa di morte delle azioni, salvo che sia previsto il gradimento e questo sia concesso. Le limitazioni al trasferimento delle azioni devono risultare dal titolo.))",
+    "caratteri": 1144
+  },
+  "note": [],
+  "impronta": "sha256:459e2c71ea95a45ffa306b9ed00f9c8a7913709f56e6a53940d8cb7bc1d00d83"
+}

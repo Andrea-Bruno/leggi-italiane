@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "446",
+    "rubrica": "Confisca obbligatoria",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art446"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Abrogazione limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "abrogazione",
+        "nota": 123,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "In caso di condanna per taluno dei delitti preveduti negli articoli 439, 440, 441 e 442, se dal fatto e' derivata la morte o la lesione grave o gravissima di una persona, la confisca delle cose indicate nel primo comma dell'articolo 240 e' obbligatoria.",
+    "con_marcatori": "Art. 446. (Confisca obbligatoria). In caso di condanna per taluno dei delitti preveduti negli articoli 439, 440, 441 e 442, se dal fatto e' derivata la morte o la lesione grave o gravissima di una persona, la confisca delle cose indicate nel primo comma dell'articolo 240 e' obbligatoria. ((123))",
+    "caratteri": 253
+  },
+  "note": [
+    {
+      "numero": 123,
+      "effetto": "abrogazione",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "L. 22 dicembre 1975, n. 685",
+          "urn": "urn:nir:stato:legge:1975-12-22;685",
+          "data": "1975-12-22",
+          "numero": "685",
+          "data_gazzetta": "1975-12-30"
+        },
+        {
+          "denominazione": "L. 26 giugno 1990, n. 162",
+          "urn": "urn:nir:stato:legge:1990-06-26;162",
+          "data": "1990-06-26",
+          "numero": "162",
+          "data_gazzetta": "1990-06-26"
+        },
+        {
+          "denominazione": "art. 136, comma 1 del D.P.R. 9 ottobre 1990, n. 309",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-10-09;309",
+          "data": "1990-10-09",
+          "numero": "309",
+          "data_gazzetta": "1990-10-31"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 22 dicembre 1975, n. 685, come modificata dalla L. 26 giugno 1990, n. 162, ha disposto (con l'art. 110, comma 1) l'abrogazione del presente articolo. Tale abrogazione non e' stata riproposta nel testo dell'art. 136, comma 1 del D.P.R. 9 ottobre 1990, n. 309."
+    }
+  ],
+  "impronta": "sha256:f8c89d7dccc14d384e36518cf61bd413b32a8d9c2dda6534c43949823b3b7b0c"
+}

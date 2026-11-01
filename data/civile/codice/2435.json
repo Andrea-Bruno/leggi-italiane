@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2435",
+    "rubrica": "Pubblicazione del bilancio e dell'elenco dei soci e dei titolari di diritti su azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2435"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Entro trenta giorni dall'approvazione una copia del bilancio, corredata dalle relazioni previste dagli articoli 2428 e 2429 e dal verbale di approvazione dell'assemblea o del consiglio di sorveglianza, deve essere, a cura degli amministratori, depositata presso l'ufficio del registro delle imprese o spedita al medesimo ufficio a mezzo di lettera raccomandata. Entro trenta giorni dall'approvazione del bilancio le societa' non aventi azioni quotate in mercati regolamentati sono tenute altresi' a depositare per l'iscrizione nel registro delle imprese l'elenco dei soci riferito alla data di approvazione del bilancio, con l'indicazione del numero delle azioni possedute, nonche' dei soggetti diversi dai soci che sono titolari di diritti o beneficiari di vincoli sulle azioni medesime. L'elenco deve essere corredato dall'indicazione analitica delle annotazioni effettuate nel libro dei soci a partire dalla data di approvazione del bilancio dell'esercizio precedente.",
+    "con_marcatori": "Art. 2435. (( (Pubblicazione del bilancio e dell'elenco dei soci e dei titolari di diritti su azioni).)) ((Entro trenta giorni dall'approvazione una copia del bilancio, corredata dalle relazioni previste dagli articoli 2428 e 2429 e dal verbale di approvazione dell'assemblea o del consiglio di sorveglianza, deve essere, a cura degli amministratori, depositata presso l'ufficio del registro delle imprese o spedita al medesimo ufficio a mezzo di lettera raccomandata. Entro trenta giorni dall'approvazione del bilancio le societa' non aventi azioni quotate in mercati regolamentati sono tenute altresi' a depositare per l'iscrizione nel registro delle imprese l'elenco dei soci riferito alla data di approvazione del bilancio, con l'indicazione del numero delle azioni possedute, nonche' dei soggetti diversi dai soci che sono titolari di diritti o beneficiari di vincoli sulle azioni medesime. L'elenco deve essere corredato dall'indicazione analitica delle annotazioni effettuate nel libro dei soci a partire dalla data di approvazione del bilancio dell'esercizio precedente. ))",
+    "caratteri": 971
+  },
+  "note": [],
+  "impronta": "sha256:24c9105acc0eff06aaef10be3e5588aff467a2677cef7ca3278e197348754a9d"
+}

@@ -1,0 +1,81 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "117",
+    "rubrica": "Mutamento del titolo del reato per taluno dei concorrenti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art117"
+  },
+  "stato": {
+    "codice": "da_verificare",
+    "inapplicabile": null,
+    "certezza": "bassa",
+    "motivazione": "Una nota di errata corrige esclude la dichiarazione di illegittimita' riportata in un'altra nota: lo stato va verificato sul testo ufficiale.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "revoca_illegittimita",
+        "nota": 115,
+        "ambito": "intero"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 114,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Se, per le condizioni o le qualita' personali del colpevole, o per i rapporti fra il colpevole e l'offeso, muta il titolo del reato per taluno di coloro che vi sono concorsi, anche gli altri rispondono dello stesso reato. Nondimeno, se questo e' piu' grave, il giudice puo', rispetto a coloro per i quali non sussistono le condizioni, le qualita' o i rapporti predetti, diminuire la pena.",
+    "con_marcatori": "Art. 117. (Mutamento del titolo del reato per taluno dei concorrenti) Se, per le condizioni o le qualita' personali del colpevole, o per i rapporti fra il colpevole e l'offeso, muta il titolo del reato per taluno di coloro che vi sono concorsi, anche gli altri rispondono dello stesso reato. Nondimeno, se questo e' piu' grave, il giudice puo', rispetto a coloro per i quali non sussistono le condizioni, le qualita' o i rapporti predetti, diminuire la pena. (114) ((115))",
+    "caratteri": 388
+  },
+  "note": [
+    {
+      "numero": 114,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1989-05-25",
+        "numero": "282"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 17 - 25 maggio 1989, n. 282 (in G.U. 1ª s.s. 31/05/1989, n. 22), ha dichiarato \"l'illegittimita' costituzionale dell'art. 117, primo comma nella parte in cui, nel caso di revoca della liberazione condizionale, non consente al Tribunale di sorveglianza di determinare la pena detentiva ancora da espiare, tenendo conto del tempo trascorso in liberta' condizionale nonche' delle restrizioni di liberta' subite dal condannato e del suo comportamento durante tale periodo\"."
+    },
+    {
+      "numero": 115,
+      "effetto": "revoca_illegittimita",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1989-05-25",
+        "numero": "282"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 17 - 25 maggio 1989, n. 282 (in G.U. 1ª s.s. 31/05/1989, n. 22) come modificata dall'Errata Corrige in G.U. 1ª s.s. 14/06/1989, n. 24, non prevede piu' l'illegittimita' costituzionale del presente articolo."
+    }
+  ],
+  "impronta": "sha256:183195ba74703d206fc6879227602d43f22e4621266e2e2cccfc09bee888c387"
+}

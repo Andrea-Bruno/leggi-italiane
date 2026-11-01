@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2630",
+    "rubrica": "Omessa esecuzione di denunce, comunicazioni e depositi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2630"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, essendovi tenuto per legge a causa delle funzioni rivestite in una societa' o in un consorzio, omette di eseguire, nei termini prescritti, denunce, comunicazioni o depositi presso il registro delle imprese, ovvero omette di fornire negli atti, nella corrispondenza e nella rete telematica le informazioni prescritte dall'articolo 2250, primo, secondo, terzo e quarto comma, e' punito con la sanzione amministrativa pecuniaria da 103 euro a 1.032 euro. Se la denuncia, la comunicazione o il deposito avvengono nei trenta giorni successivi alla scadenza dei termini prescritti, la sanzione amministrativa pecuniaria e' ridotta ad un terzo. Se si tratta di omesso deposito dei bilanci, la sanzione amministrativa pecuniaria e' aumentata di un terzo.",
+    "con_marcatori": "Art. 2630. (( (Omessa esecuzione di denunce, comunicazioni e depositi). )) ((Chiunque, essendovi tenuto per legge a causa delle funzioni rivestite in una societa' o in un consorzio, omette di eseguire, nei termini prescritti, denunce, comunicazioni o depositi presso il registro delle imprese, ovvero omette di fornire negli atti, nella corrispondenza e nella rete telematica le informazioni prescritte dall'articolo 2250, primo, secondo, terzo e quarto comma, e' punito con la sanzione amministrativa pecuniaria da 103 euro a 1.032 euro. Se la denuncia, la comunicazione o il deposito avvengono nei trenta giorni successivi alla scadenza dei termini prescritti, la sanzione amministrativa pecuniaria e' ridotta ad un terzo. Se si tratta di omesso deposito dei bilanci, la sanzione amministrativa pecuniaria e' aumentata di un terzo)).",
+    "caratteri": 756
+  },
+  "note": [],
+  "impronta": "sha256:970897ca0cd68bcbd6c7beb87eb0b84e911ac72657f4fb9ebf787b7bdbaff378"
+}

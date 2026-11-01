@@ -1,0 +1,65 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "205",
+    "rubrica": "Provvedimento del giudice",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art205"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 93,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Le misure di sicurezza sono ordinate dal giudice nella stessa sentenza di condanna o di proscioglimento. Possono essere ordinate con provvedimento successivo: 1° nel caso di condanna, durante l'esecuzione della pena o durante il tempo in cui il condannato si sottrae volontariamente all'esecuzione della pena; 2° nel caso di proscioglimento, qualora la qualita' di persona socialmente pericolosa sia presunta, e non sia decorso un tempo corrispondente alla durata minima della relativa misura di sicurezza; 3° in ogni tempo, nei casi stabiliti dalla legge.",
+    "con_marcatori": "Art. 205. (Provvedimento del giudice) Le misure di sicurezza sono ordinate dal giudice nella stessa sentenza di condanna o di proscioglimento. Possono essere ordinate con provvedimento successivo: 1° nel caso di condanna, durante l'esecuzione della pena o durante il tempo in cui il condannato si sottrae volontariamente all'esecuzione della pena; 2° nel caso di proscioglimento, qualora la qualita' di persona socialmente pericolosa sia presunta, e non sia decorso un tempo corrispondente alla durata minima della relativa misura di sicurezza; ((93)) 3° in ogni tempo, nei casi stabiliti dalla legge.",
+    "caratteri": 556
+  },
+  "note": [
+    {
+      "numero": 93,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1982-07-27",
+        "numero": "139"
+      },
+      "testo": "La Corte Costituzionale con sentenza 8-27 luglio 1982, n. 139 (in G.U. 1ª s.s. 4/8/1982, n. 213) ha dichiarato l'illegittimita' costituzionale del numero 2), secondo comma del presente articolo, nella parte in cui non subordina il provvedimento di ricovero in ospedale psichiatrico giudiziario dell'imputato prosciolto per infermita' psichica al previo accertamento da parte del giudice della cognizione o della esecuzione della persistente pericolosita' sociale derivante dalla infermita' medesima al tempo dell'applicazione della misura."
+    }
+  ],
+  "impronta": "sha256:0f8cbb5525f86b10abcd85085c9b27faa396af7b338a4f38876b5fb45d5a47ba"
+}

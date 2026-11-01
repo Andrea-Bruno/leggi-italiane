@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2461",
+    "rubrica": "Responsabilita' degli accomandatari verso i terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2461"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La responsabilita' dei soci accomandatari verso i terzi e' regolata dall'articolo 2304. Il socio accomandatario che cessa dall'ufficio di amministratore non risponde per le obbligazioni della societa' sorte posteriormente all'iscrizione nel registro delle imprese della cessazione dall'ufficio.",
+    "con_marcatori": "Art. 2461. (( (Responsabilita' degli accomandatari verso i terzi).)) ((La responsabilita' dei soci accomandatari verso i terzi e' regolata dall'articolo 2304. Il socio accomandatario che cessa dall'ufficio di amministratore non risponde per le obbligazioni della societa' sorte posteriormente all'iscrizione nel registro delle imprese della cessazione dall'ufficio.))",
+    "caratteri": 294
+  },
+  "note": [],
+  "impronta": "sha256:f9c20a567c96684124644e1eda429f723d94b62d168b974957b8433dd4974368"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "892",
+    "rubrica": "Distanze per gli alberi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art892"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi vuol piantare alberi presso il confine deve osservare le distanze stabilite dai regolamenti e, in mancanza, dagli usi locali. Se gli uni e gli altri non dispongono, devono essere osservate le seguenti distanze dal confine: 1) tre metri per gli alberi di alto fusto. Rispetto alle distanze, si considerano alberi di alto fusto quelli il cui fusto, semplice o diviso in rami, sorge ad altezza notevole, come sono i noci, i castagni, le querce, i pini, i cipressi, gli olmi, i pioppi, i platani e simili; 2) un metro e mezzo per gli alberi di non alto fusto. Sono reputati tali quelli il cui fusto, sorto ad altezza non superiore a tre metri, si diffonde in rami; 3) mezzo metro per le viti, gli arbusti, le siepi vive, le piante da frutto di altezza non maggiore di due metri e mezzo. La distanza deve essere pero' di un metro, qualora le siepi siano di ontano, di castagno o di altre piante simili che si recidono periodicamente vicino al ceppo, e di due metri per le siepi di robinie. La distanza si misura dalla linea del confine alla base esterna del tronco dell'albero nel tempo della piantagione, o dalla linea stessa al luogo dove fu fatta la semina. Le distanze anzidette non si devono osservare se sul confine esiste un muro divisorio, proprio o comune, purche' le piante siano tenute ad altezza che non ecceda la sommita' del muro.",
+    "con_marcatori": "Art. 892. (Distanze per gli alberi). Chi vuol piantare alberi presso il confine deve osservare le distanze stabilite dai regolamenti e, in mancanza, dagli usi locali. Se gli uni e gli altri non dispongono, devono essere osservate le seguenti distanze dal confine: 1) tre metri per gli alberi di alto fusto. Rispetto alle distanze, si considerano alberi di alto fusto quelli il cui fusto, semplice o diviso in rami, sorge ad altezza notevole, come sono i noci, i castagni, le querce, i pini, i cipressi, gli olmi, i pioppi, i platani e simili; 2) un metro e mezzo per gli alberi di non alto fusto. Sono reputati tali quelli il cui fusto, sorto ad altezza non superiore a tre metri, si diffonde in rami; 3) mezzo metro per le viti, gli arbusti, le siepi vive, le piante da frutto di altezza non maggiore di due metri e mezzo. La distanza deve essere pero' di un metro, qualora le siepi siano di ontano, di castagno o di altre piante simili che si recidono periodicamente vicino al ceppo, e di due metri per le siepi di robinie. La distanza si misura dalla linea del confine alla base esterna del tronco dell'albero nel tempo della piantagione, o dalla linea stessa al luogo dove fu fatta la semina. Le distanze anzidette non si devono osservare se sul confine esiste un muro divisorio, proprio o comune, purche' le piante siano tenute ad altezza che non ecceda la sommita' del muro.",
+    "caratteri": 1343
+  },
+  "note": [],
+  "impronta": "sha256:2ce55a50d7b80ee7528c4a14f3c81093c30e6946431455a577cd311ad3d1a01c"
+}

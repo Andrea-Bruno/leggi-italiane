@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "371-ter",
+    "rubrica": "False dichiarazioni al difensore",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art371-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle ipotesi previste dall'articolo 391-bis, commi 1 e 2, del codice di procedura penale, chiunque, non essendosi avvalso della facolta' di cui alla lettera d) del comma 3 del medesimo articolo, rende dichiarazioni false e' punito con la reclusione fino a quattro anni. Il procedimento penale resta sospeso fino a quando nel procedimento nel corso del quale sono state assunte le dichiarazioni sia stata pronunciata sentenza di primo grado ovvero il procedimento sia stato anteriormente definito con archiviazione o con sentenza di non luogo a procedere. Nelle ipotesi previste dall'articolo 4-bis del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dall'articolo 1, comma 1, della legge 10 novembre 2014, n. 162, chiunque, non essendosi avvalso della facolta' di cui al comma 2, lettere b) e c), del medesimo articolo, rende dichiarazioni false e' punito con la pena prevista dal primo comma. Il procedimento penale resta sospeso fino alla conclusione della procedura di negoziazione assistita nel corso della quale sono state acquisite le dichiarazioni ovvero fino a quando sia stata pronunciata sentenza di primo grado nel giudizio successivamente instaurato, nel quale una delle parti si sia avvalsa della facolta' di cui all'articolo 4-bis, comma 6, del decreto-legge n. 132 del 2014, convertito con modificazioni, dall'articolo 1, comma 1, della legge n. 162 del 2014, ovvero fino a quando tale giudizio sia dichiarato estinto.",
+    "con_marcatori": "Art. 371-ter. (False dichiarazioni al difensore). Nelle ipotesi previste dall'articolo 391-bis, commi 1 e 2, del codice di procedura penale, chiunque, non essendosi avvalso della facolta' di cui alla lettera d) del comma 3 del medesimo articolo, rende dichiarazioni false e' punito con la reclusione fino a quattro anni. Il procedimento penale resta sospeso fino a quando nel procedimento nel corso del quale sono state assunte le dichiarazioni sia stata pronunciata sentenza di primo grado ovvero il procedimento sia stato anteriormente definito con archiviazione o con sentenza di non luogo a procedere. Nelle ipotesi previste dall'articolo 4-bis del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dall'articolo 1, comma 1, della legge 10 novembre 2014, n. 162, chiunque, non essendosi avvalso della facolta' di cui al comma 2, lettere b) e c), del medesimo articolo, rende dichiarazioni false e' punito con la pena prevista dal primo comma. (326) ((330)) Il procedimento penale resta sospeso fino alla conclusione della procedura di negoziazione assistita nel corso della quale sono state acquisite le dichiarazioni ovvero fino a quando sia stata pronunciata sentenza di primo grado nel giudizio successivamente instaurato, nel quale una delle parti si sia avvalsa della facolta' di cui all'articolo 4-bis, comma 6, del decreto-legge n. 132 del 2014, convertito con modificazioni, dall'articolo 1, comma 1, della legge n. 162 del 2014, ovvero fino a quando tale giudizio sia dichiarato estinto. (326) ((330))",
+    "caratteri": 1458
+  },
+  "note": [
+    {
+      "numero": 326,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 36, comma 1) che \"Le disposizioni di cui all'articolo 5 si applicano a decorrere dal 30 giugno 2023\"."
+    },
+    {
+      "numero": 330,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 36, comma 1) che \"Le disposizioni di cui all'articolo 5 si applicano a decorrere dal 28 febbraio 2023\"."
+    }
+  ],
+  "impronta": "sha256:d779c6a747eeb7103f5250056c2b97912a0b9c1d62bc37e8f5bf2ef95c12151d"
+}

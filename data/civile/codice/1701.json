@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1701",
+    "rubrica": "Diritto di accertamento dei vettori successivi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1701"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I vettori successivi hanno diritto di far dichiarare, nella lettera di vettura o in atto separato, lo stato delle cose da trasportare al momento in cui sono loro consegnate. In mancanza di dichiarazione, si presume che le abbiano ricevute in buono stato e conformi alla lettera di vettura.",
+    "con_marcatori": "Art. 1701. (Diritto di accertamento dei vettori successivi). I vettori successivi hanno diritto di far dichiarare, nella lettera di vettura o in atto separato, lo stato delle cose da trasportare al momento in cui sono loro consegnate. In mancanza di dichiarazione, si presume che le abbiano ricevute in buono stato e conformi alla lettera di vettura.",
+    "caratteri": 289
+  },
+  "note": [],
+  "impronta": "sha256:d37a428064fde076566e7af99c94ef9c457ff3af36ce06dcee2e75ac86df518f"
+}

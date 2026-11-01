@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "589-ter",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art589-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "(Fuga del conducente in caso di omicidio stradale e nautico ). Nel caso di cui all'articolo 589-bis, se il conducente si da' alla fuga, la pena e' aumentata da un terzo a due terzi e comunque non puo' essere inferiore a cinque anni.",
+    "con_marcatori": "Art. 589-ter. (Fuga del conducente in caso di omicidio stradale ((e nautico)) ). Nel caso di cui all'articolo 589-bis, se il conducente si da' alla fuga, la pena e' aumentata da un terzo a due terzi e comunque non puo' essere inferiore a cinque anni.",
+    "caratteri": 232
+  },
+  "note": [],
+  "impronta": "sha256:4be83627a6aed09bb3acffc21ca3237956dea8182e1d7db31833e70461fac109"
+}

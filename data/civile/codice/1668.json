@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1668",
+    "rubrica": "Contenuto della garanzia per difetti dell'opera",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1668"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il committente puo' chiedere che le difformita' o i vizi siano eliminati a spese dell'appaltatore, oppure che il prezzo sia proporzionalmente diminuito, salvo il risarcimento del danno nel caso di colpa dell'appaltatore. Se pero' le difformita' o i vizi dell'opera sono tali da renderla del tutto inadatta alla sua destinazione, il committente puo' chiedere la risoluzione del contratto.",
+    "con_marcatori": "Art. 1668. (Contenuto della garanzia per difetti dell'opera). Il committente puo' chiedere che le difformita' o i vizi siano eliminati a spese dell'appaltatore, oppure che il prezzo sia proporzionalmente diminuito, salvo il risarcimento del danno nel caso di colpa dell'appaltatore. Se pero' le difformita' o i vizi dell'opera sono tali da renderla del tutto inadatta alla sua destinazione, il committente puo' chiedere la risoluzione del contratto.",
+    "caratteri": 387
+  },
+  "note": [],
+  "impronta": "sha256:042b9fec41917bdfc4fcbdf888460009468084437be71630ea0a8d12797ad662"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2858",
+    "rubrica": "Facolta' del terzo acquirente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2858"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il terzo acquirente dei beni ipotecati, che ha trascritto il suo titolo di acquisto e non e' personalmente obbligato, se non preferisce pagare i creditori iscritti, puo' rilasciare i beni stessi ovvero liberarli dalle ipoteche, osservando le norme contenute nella sezione XII di questo capo. In mancanza, l'espropriazione segue contro di lui secondo le forme prescritte dal codice di procedura civile.",
+    "con_marcatori": "Art. 2858. (Facolta' del terzo acquirente). Il terzo acquirente dei beni ipotecati, che ha trascritto il suo titolo di acquisto e non e' personalmente obbligato, se non preferisce pagare i creditori iscritti, puo' rilasciare i beni stessi ovvero liberarli dalle ipoteche, osservando le norme contenute nella sezione XII di questo capo. In mancanza, l'espropriazione segue contro di lui secondo le forme prescritte dal codice di procedura civile.",
+    "caratteri": 401
+  },
+  "note": [],
+  "impronta": "sha256:5ae1dc54ea07671f1c9274e57ee876ae672f2d92ee7b1244e8525ace0136418f"
+}

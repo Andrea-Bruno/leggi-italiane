@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "155",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art155"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 4). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 4"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 72,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "In caso di separazione, riguardo ai figli, si applicano le disposizioni contenute nel Capo II del titolo IX.",
+    "con_marcatori": "Art. 155. ((In caso di separazione, riguardo ai figli, si applicano le disposizioni contenute nel Capo II del titolo IX.))",
+    "caratteri": 108
+  },
+  "note": [
+    {
+      "numero": 72,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 155, quarto comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1989-07-27",
+        "numero": "454"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 19 - 27 luglio 1989, n. 454 (in G.U. 1a s.s. 2/8/1989, n. 31), ha dichiarato \"la illegittimita' costituzionale dell'art. 155, quarto comma, del codice civile, nella parte in cui non prevede la trascrizione del provvedimento giudiziale di assegnazione della abitazione nella casa familiare al coniuge affidatario della prole, ai fini della opponibilita' ai terzi\"."
+    }
+  ],
+  "impronta": "sha256:94e2c8e85ac7ea64c51ff544621904040fda16f8a7f14767e9398dfd7defd61c"
+}

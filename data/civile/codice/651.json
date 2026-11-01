@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "651",
+    "rubrica": "Legato di cosa dell'onerato o di un terzo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art651"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "II legato di cosa dell'onerato o di un terzo e' nullo, salvo che dal testamento o da altra dichiarazione scritta dal testatore risulti che questi sapeva che la cosa legata apparteneva all'onerato o al terzo. In quest'ultimo caso l'onerato e' obbligato ad acquistare la proprieta' della cosa dal terzo e a trasferirla al legatario, ma e' in sua facolta' di pagarne al legatario il giusto prezzo. Se pero' la cosa legata, pur appartenendo ad altri al tempo del testamento, si trova in proprieta' del testatore al momento della sua morte, il legato e' valido.",
+    "con_marcatori": "Art. 651. (Legato di cosa dell'onerato o di un terzo). II legato di cosa dell'onerato o di un terzo e' nullo, salvo che dal testamento o da altra dichiarazione scritta dal testatore risulti che questi sapeva che la cosa legata apparteneva all'onerato o al terzo. In quest'ultimo caso l'onerato e' obbligato ad acquistare la proprieta' della cosa dal terzo e a trasferirla al legatario, ma e' in sua facolta' di pagarne al legatario il giusto prezzo. Se pero' la cosa legata, pur appartenendo ad altri al tempo del testamento, si trova in proprieta' del testatore al momento della sua morte, il legato e' valido.",
+    "caratteri": 556
+  },
+  "note": [],
+  "impronta": "sha256:19be12b0e3c08a043e7472ac98401b8e45ca4a8d84e808e36a6fab13d54eae8b"
+}

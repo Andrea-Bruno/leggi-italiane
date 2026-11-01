@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2741",
+    "rubrica": "Concorso dei creditori e cause di prelazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2741"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I creditori hanno eguale diritto di essere soddisfatti sui beni del debitore, salve le cause legittime di prelazione. Sono cause legittime di prelazione i privilegi, il pegno e le ipoteche.",
+    "con_marcatori": "Art. 2741. (Concorso dei creditori e cause di prelazione). I creditori hanno eguale diritto di essere soddisfatti sui beni del debitore, salve le cause legittime di prelazione. Sono cause legittime di prelazione i privilegi, il pegno e le ipoteche.",
+    "caratteri": 189
+  },
+  "note": [],
+  "impronta": "sha256:872e7e96c617bc6afe91e8e328c81f43d75b05825ebb67a417efc93ab333a053"
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2622",
+    "rubrica": "False comunicazioni sociali delle societa' quotate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2622"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori di societa' emittenti strumenti finanziari ammessi alla negoziazione in un mercato regolamentato italiano o di altro Paese dell'Unione europea, i quali, al fine di conseguire per se' o per altri un ingiusto profitto, nei bilanci, nelle relazioni o nelle altre comunicazioni sociali dirette ai soci o al pubblico consapevolmente espongono fatti materiali non rispondenti al vero ovvero omettono fatti materiali rilevanti la cui comunicazione e' imposta dalla legge sulla situazione economica, patrimoniale o finanziaria della societa' o del gruppo al quale la stessa appartiene, in modo concretamente idoneo ad indurre altri in errore, sono puniti con la pena della reclusione da tre a otto anni. Alle societa' indicate nel comma precedente sono equiparate: 1) le societa' emittenti strumenti finanziari per i quali e' stata presentata una richiesta di ammissione alla negoziazione in un mercato regolamentato italiano o di altro Paese dell'Unione europea; 2) le societa' emittenti strumenti finanziari ammessi alla negoziazione in un sistema multilaterale di negoziazione italiano; 3) le societa' che controllano societa' emittenti strumenti finanziari ammessi alla negoziazione in un mercato regolamentato italiano o di altro Paese dell'Unione europea; 4) le societa' che fanno appello al pubblico risparmio o che comunque lo gestiscono. Le disposizioni di cui ai commi precedenti si applicano anche se le falsita' o le omissioni riguardano beni posseduti o amministrati dalla societa' per conto di terzi.",
+    "con_marcatori": "Art. 2622 (( (False comunicazioni sociali delle societa' quotate). )) ((Gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori di societa' emittenti strumenti finanziari ammessi alla negoziazione in un mercato regolamentato italiano o di altro Paese dell'Unione europea, i quali, al fine di conseguire per se' o per altri un ingiusto profitto, nei bilanci, nelle relazioni o nelle altre comunicazioni sociali dirette ai soci o al pubblico consapevolmente espongono fatti materiali non rispondenti al vero ovvero omettono fatti materiali rilevanti la cui comunicazione e' imposta dalla legge sulla situazione economica, patrimoniale o finanziaria della societa' o del gruppo al quale la stessa appartiene, in modo concretamente idoneo ad indurre altri in errore, sono puniti con la pena della reclusione da tre a otto anni. Alle societa' indicate nel comma precedente sono equiparate: 1) le societa' emittenti strumenti finanziari per i quali e' stata presentata una richiesta di ammissione alla negoziazione in un mercato regolamentato italiano o di altro Paese dell'Unione europea; 2) le societa' emittenti strumenti finanziari ammessi alla negoziazione in un sistema multilaterale di negoziazione italiano; 3) le societa' che controllano societa' emittenti strumenti finanziari ammessi alla negoziazione in un mercato regolamentato italiano o di altro Paese dell'Unione europea; 4) le societa' che fanno appello al pubblico risparmio o che comunque lo gestiscono. Le disposizioni di cui ai commi precedenti si applicano anche se le falsita' o le omissioni riguardano beni posseduti o amministrati dalla societa' per conto di terzi)).",
+    "caratteri": 1645
+  },
+  "note": [
+    {
+      "numero": 84,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 27 gennaio 1992, n. 88",
+          "urn": "urn:nir:stato:decretoLegislativo:1992-01-27;88",
+          "data": "1992-01-27",
+          "numero": "88",
+          "data_gazzetta": "1992-02-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 27 gennaio 1992, n. 88, ha disposto (con l'art. 29, comma 1) che \"Gli articoli 16, 17 e da 21 a 26 hanno effetto a decorrere dalla data della pubblicazione del registro prevista dall'art. 11, comma 1\"."
+    }
+  ],
+  "impronta": "sha256:b5ff3dc731cf4b90633817912655ab021ac65bbfd83d69f31ddbe283af2e3348"
+}

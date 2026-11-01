@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2747",
+    "rubrica": "Efficacia del privilegio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2747"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il privilegio generale non puo' esercitarsi in pregiudizio dei diritti spettanti ai terzi sui mobili che ne formano oggetto, salvo quanto e' disposto dagli articoli 2913, 2914, 2915 e 2916. Se la legge non dispone diversamente, il privilegio speciale sui mobili, sempre che sussista la particolare situazione alla quale e' subordinato, puo' esercitarsi in pregiudizio dei diritti acquistati dai terzi posteriormente al sorgere di esso.",
+    "con_marcatori": "Art. 2747. (Efficacia del privilegio). Il privilegio generale non puo' esercitarsi in pregiudizio dei diritti spettanti ai terzi sui mobili che ne formano oggetto, salvo quanto e' disposto dagli articoli 2913, 2914, 2915 e 2916. Se la legge non dispone diversamente, il privilegio speciale sui mobili, sempre che sussista la particolare situazione alla quale e' subordinato, puo' esercitarsi in pregiudizio dei diritti acquistati dai terzi posteriormente al sorgere di esso.",
+    "caratteri": 435
+  },
+  "note": [],
+  "impronta": "sha256:6d98b4c5e278416b2595cce2e80c7574f0ecc376890b91045a6bd831dcbd4d2f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "531",
+    "rubrica": "Inventario, amministrazione e rendimento dei conti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art531"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni della sezione II del capo V di questo titolo, che riguardano l'inventario, l'amministrazione e il rendimento di conti da parte dell'erede con beneficio d'inventario, sono comuni al curatore dell'eredita' giacente, esclusa la limitazione della responsabilita' per colpa.",
+    "con_marcatori": "Art. 531. (Inventario, amministrazione e rendimento dei conti). Le disposizioni della sezione II del capo V di questo titolo, che riguardano l'inventario, l'amministrazione e il rendimento di conti da parte dell'erede con beneficio d'inventario, sono comuni al curatore dell'eredita' giacente, esclusa la limitazione della responsabilita' per colpa.",
+    "caratteri": 285
+  },
+  "note": [],
+  "impronta": "sha256:110a9f587656b323474d101a3a86dd1f1b8697cc888d70683ba035990d00d6db"
+}

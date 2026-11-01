@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2401",
+    "rubrica": "Sostituzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2401"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di morte, di rinunzia o di decadenza di un sindaco, subentrano i supplenti in ordine di eta', nel rispetto dell'articolo 2397, secondo comma. I nuovi sindaci restano in carica fino alla prossima assemblea, la quale deve provvedere alla nomina dei sindaci effettivi e supplenti necessari per l'integrazione del collegio, nel rispetto dell'articolo 2397, secondo comma. I nuovi nominati scadono insieme con quelli in carica. In caso di sostituzione del presidente, la presidenza e' assunta fino alla prossima assemblea dal sindaco piu' anziano. Se con i sindaci supplenti non si completa il collegio sindacale, deve essere convocata l'assemblea perche' provveda all'integrazione del collegio medesimo.",
+    "con_marcatori": "Art. 2401. (( (Sostituzione).)) ((In caso di morte, di rinunzia o di decadenza di un sindaco, subentrano i supplenti in ordine di eta', nel rispetto dell'articolo 2397, secondo comma. I nuovi sindaci restano in carica fino alla prossima assemblea, la quale deve provvedere alla nomina dei sindaci effettivi e supplenti necessari per l'integrazione del collegio, nel rispetto dell'articolo 2397, secondo comma. I nuovi nominati scadono insieme con quelli in carica. In caso di sostituzione del presidente, la presidenza e' assunta fino alla prossima assemblea dal sindaco piu' anziano. Se con i sindaci supplenti non si completa il collegio sindacale, deve essere convocata l'assemblea perche' provveda all'integrazione del collegio medesimo.))",
+    "caratteri": 707
+  },
+  "note": [
+    {
+      "numero": 84,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 27 gennaio 1992, n. 88",
+          "urn": "urn:nir:stato:decretoLegislativo:1992-01-27;88",
+          "data": "1992-01-27",
+          "numero": "88",
+          "data_gazzetta": "1992-02-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 27 gennaio 1992, n. 88, ha disposto (con l'art. 29, comma 1) che \"Gli articoli 16, 17 e da 21 a 26 hanno effetto a decorrere dalla data della pubblicazione del registro prevista dall'art. 11, comma 1.\""
+    }
+  ],
+  "impronta": "sha256:deba60c264f05114767e03d7f9a8d7e71812fd03c68304843d2e41f4f445e8cc"
+}

@@ -1,0 +1,239 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "721",
+    "rubrica": "Elementi essenziali del giuoco d'azzardo. Case da giuoco",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art721"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Agli effetti delle disposizioni precedenti: sono giuochi di azzardo quelli nei quali ricorre il fine di lucro e la vincita o la perdita e' interamente o quasi interamente aleatoria; sono case da giuoco i luoghi di convegno destinati al giuoco d'azzardo, anche se privati, e anche se lo scopo del giuoco e' sotto qualsiasi forma dissimulato.",
+    "con_marcatori": "Art. 721. (Elementi essenziali del giuoco d'azzardo. Case da giuoco) Agli effetti delle disposizioni precedenti: sono giuochi di azzardo quelli nei quali ricorre il fine di lucro e la vincita o la perdita e' interamente o quasi interamente aleatoria; sono case da giuoco i luoghi di convegno destinati al giuoco d'azzardo, anche se privati, e anche se lo scopo del giuoco e' sotto qualsiasi forma dissimulato. (2) (9) (12) (102) ((157))",
+    "caratteri": 340
+  },
+  "note": [
+    {
+      "numero": 2,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 13 giugno 1942, n. 788",
+          "urn": "urn:nir:stato:legge:1942-06-13;788",
+          "data": "1942-06-13",
+          "numero": "788",
+          "data_gazzetta": "1942-07-20"
+        },
+        {
+          "denominazione": "articoli 718",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "719",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "720 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 13 giugno 1942, n. 788 ha disposto (con l'art. 1, commi 1 e 2) che \" Le pene per i reati contemplati dagli articoli 718, 719 e 720 del Codice penale sono triplicate. Agli effetti degli articoli succitati, fra le case da giuoco previste dai successivo art. 721 sono comprese le abitazioni private e qualsiasi altro luogo in cui piu' persone convengono per praticare giuochi d'azzardo, anche se cio' non costituisca lo scopo esclusivo o prevalente del convegno\". Ha inoltre disposto (con l'art. 2, comma 1) che la presente modifica ha efficacia durante l'attuale stato di guerra e fino a sei mesi dopo la cessazione di esso."
+    },
+    {
+      "numero": 9,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 13 giugno 1942, n. 788",
+          "urn": "urn:nir:stato:legge:1942-06-13;788",
+          "data": "1942-06-13",
+          "numero": "788",
+          "data_gazzetta": "1942-07-20"
+        },
+        {
+          "denominazione": "D.Lgs. del Capo Provvisorio dello Stato 20 novembre 1946, n. 340",
+          "urn": "urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-20;340",
+          "data": "1946-11-20",
+          "numero": "340",
+          "data_gazzetta": "1946-11-29"
+        },
+        {
+          "denominazione": "art. 2, comma 1 della L. 13 giugno 1942, n. 788",
+          "urn": "urn:nir:stato:legge:1942-06-13;788",
+          "data": "1942-06-13",
+          "numero": "788",
+          "data_gazzetta": "1942-07-20"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. del Capo Provvisorio dello Stato 20 novembre 1946, n. 340 nel modificare l'art. 2, comma 1 della L. 13 giugno 1942, n. 788 ha conseguentemente disposto (con l'articolo unico, comma 1) che l'efficacia della modifica di cui al presente articolo e' prorogata fino al 15 ottobre 1947."
+    },
+    {
+      "numero": 12,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 13 giugno 1942, n. 788",
+          "urn": "urn:nir:stato:legge:1942-06-13;788",
+          "data": "1942-06-13",
+          "numero": "788",
+          "data_gazzetta": "1942-07-20"
+        },
+        {
+          "denominazione": "art. 2, comma 1 della L. 13 giugno 1942, n. 788",
+          "urn": "urn:nir:stato:legge:1942-06-13;788",
+          "data": "1942-06-13",
+          "numero": "788",
+          "data_gazzetta": "1942-07-20"
+        },
+        {
+          "denominazione": "D.Lgs. del Capo Provvisorio dello Stato 26 ottobre 1947, n. 1252",
+          "urn": "urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-26;1252",
+          "data": "1947-10-26",
+          "numero": "1252",
+          "data_gazzetta": "1947-11-22"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. del Capo Provvisorio dello Stato 26 ottobre 1947, n. 1252 nel modificare l'art. 2, comma 1 della L. 13 giugno 1942, n. 788 ha conseguentemente disposto (con l'art. 3, comma 1) che l'efficacia della modifica di cui al presente articolo e' prorogata fino al 15 ottobre 1948."
+    },
+    {
+      "numero": 102,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 11 dicembre 1984, n. 848",
+          "urn": "urn:nir:stato:legge:1984-12-11;848",
+          "data": "1984-12-11",
+          "numero": "848",
+          "data_gazzetta": "1984-12-18"
+        },
+        {
+          "denominazione": "articoli da 718",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "a 722 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 110 del testo unico delle leggi di pubblica sicurezza",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "regio decreto 18 giugno 1931, n. 773",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 11 dicembre 1984, n. 848 ha disposto (con l'art. 25, comma 1) che \"Le disposizioni di cui agli articoli da 718 a 722 del codice penale e all'articolo 110 del testo unico delle leggi di pubblica sicurezza approvato con regio decreto 18 giugno 1931, n. 773, non si applicano ai fatti commessi a bordo delle navi adibite a crociera durante il periodo di navigazione oltre lo Stretto di Gibilterra ed il Canale di Suez\"."
+    },
+    {
+      "numero": 157,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articoli da 718",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "a 722 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 110 del testo unico delle leggi di pubblica sicurezza",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "regio decreto 18 giugno 1931, n. 773",
+          "urn": "urn:nir:stato:regio.decreto:1931-06-18;773",
+          "data": "1931-06-18",
+          "numero": "773",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 30 dicembre 1997, n. 457",
+          "urn": "urn:nir:stato:decretoLegge:1997-12-30;457",
+          "data": "1997-12-30",
+          "numero": "457",
+          "data_gazzetta": "1997-12-31"
+        },
+        {
+          "denominazione": "L. 27 febbraio 1998, n. 30",
+          "urn": "urn:nir:stato:legge:1998-02-27;30",
+          "data": "1998-02-27",
+          "numero": "30",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 30 dicembre 1997, n. 457 convertito con modificazioni dalla L. 27 febbraio 1998, n. 30 ha disposto (con l'art. 5, comma 3) che \"Le disposizioni di cui agli articoli da 718 a 722 del codice penale e all'articolo 110 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, non si applicano ai fatti commessi a bordo delle navi passeggeri iscritte nel Registro internazionale, durante il periodo di navigazione al di la' del mare territoriale\"."
+    }
+  ],
+  "impronta": "sha256:a20b7a66d9947e09b778e778c500c85b7aa6847dd295e1fde3ddd4d3f70321e5"
+}

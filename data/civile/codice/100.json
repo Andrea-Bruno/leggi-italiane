@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "100",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art100"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Riduzione del termine e omissione della pubblicazione. Il tribunale, su istanza degli interessati, con decreto non impugnabile emesso in camera di consiglio, sentito il pubblico ministero, puo' ridurre, per gravi motivi, il termine della pubblicazione. In questo caso la riduzione del termine e' dichiarata nella pubblicazione. Puo' anche autorizzare, con le stesse modalita', per cause gravissime, l'omissione della pubblicazione, quando gli sposi davanti al cancelliere dichiarano sotto la propria responsabilita' che nessuno degli impedimenti stabiliti dagli articoli 85, 86, 87, 88 e 89 si oppone al matrimonio. (112a) Il cancelliere deve far precedere alla dichiarazione la lettura di detti articoli e ammonire i dichiaranti sull'importanza della loro attestazione e sulla gravita' delle possibili conseguenze. (112a) COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396.",
+    "con_marcatori": "Art. 100. Riduzione del termine e omissione della pubblicazione. Il tribunale, su istanza degli interessati, con decreto non impugnabile emesso in camera di consiglio, sentito il pubblico ministero, puo' ridurre, per gravi motivi, il termine della pubblicazione. In questo caso la riduzione del termine e' dichiarata nella pubblicazione. Puo' anche autorizzare, con le stesse modalita', per cause gravissime, l'omissione della pubblicazione, quando gli sposi davanti al cancelliere dichiarano sotto la propria responsabilita' che nessuno degli impedimenti stabiliti dagli articoli 85, 86, 87, 88 e 89 si oppone al matrimonio. (111) (112a) Il cancelliere deve far precedere alla dichiarazione la lettura di detti articoli e ammonire i dichiaranti sull'importanza della loro attestazione e sulla gravita' delle possibili conseguenze. (111) (112a) ((COMMA ABROGATO DAL D.P.R. 3 NOVEMBRE 2000, N. 396)).",
+    "caratteri": 873
+  },
+  "note": [
+    {
+      "numero": 111,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 19 febbraio 1998, n. 51",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-02-19;51",
+          "data": "1998-02-19",
+          "numero": "51",
+          "data_gazzetta": "1998-03-20"
+        },
+        {
+          "denominazione": "articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254",
+          "urn": "urn:nir:stato:legge:1997-07-16;254",
+          "data": "1997-07-16",
+          "numero": "254",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "L. 16 giugno 1998, n. 188",
+          "urn": "urn:nir:stato:legge:1998-06-16;188",
+          "data": "1998-06-16",
+          "numero": "188",
+          "data_gazzetta": "1998-06-19"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 19 febbraio 1998, n. 51 ha disposto (con l'art. 247, comma 1) che \"Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3\". ------------- AGGIORNAMENTO (112a) Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che \"Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3.\""
+    }
+  ],
+  "impronta": "sha256:6d969ef5c6564085a93d58b4118b32fba3edeab4e9e3064084cd5615c76e55ab"
+}

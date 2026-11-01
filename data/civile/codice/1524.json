@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1524",
+    "rubrica": "Opponibilita' della riserva di proprieta' nei confronti di terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1524"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La riserva della proprieta' e' opponibile ai creditori del compratore, solo se risulta da atto scritto avente data certa anteriore al pignoramento. Se la vendita ha per oggetto macchine e il prezzo e' superiore alle lire trentamila, la riserva della proprieta' e' opponibile anche al terzo acquirente, purche' il patto di riservato dominio sia trascritto in apposito registro tenuto nella cancelleria del tribunale nella giurisdizione del quale e' collocata la macchina, e questa, quando e' acquistata dal terzo, si trovi ancora nel luogo dove la trascrizione e' stata eseguita. Sono salve le disposizioni relative ai beni mobili iscritti in pubblici registri.",
+    "con_marcatori": "Art. 1524. (Opponibilita' della riserva di proprieta' nei confronti di terzi). La riserva della proprieta' e' opponibile ai creditori del compratore, solo se risulta da atto scritto avente data certa anteriore al pignoramento. Se la vendita ha per oggetto macchine e il prezzo e' superiore alle lire trentamila, la riserva della proprieta' e' opponibile anche al terzo acquirente, purche' il patto di riservato dominio sia trascritto in apposito registro tenuto nella cancelleria del tribunale nella giurisdizione del quale e' collocata la macchina, e questa, quando e' acquistata dal terzo, si trovi ancora nel luogo dove la trascrizione e' stata eseguita. Sono salve le disposizioni relative ai beni mobili iscritti in pubblici registri.",
+    "caratteri": 660
+  },
+  "note": [],
+  "impronta": "sha256:79ea619f8f72c08934ddd6eba8a93331725fd5967d81dfa8f5eb5adc3118f13d"
+}

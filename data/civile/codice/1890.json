@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1890",
+    "rubrica": "Assicurazione in nome altrui",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1890"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contraente stipula l'assicurazione in nome altrui senza averne il potere, l'interessato puo' ratificare il contratto anche dopo la scadenza o il verificarsi del sinistro. Il contraente e' tenuto personalmente ad osservare gli obblighi derivanti dal contratto fino al momento in cui l'assicuratore ha avuto notizia della ratifica o del rifiuto di questa. Egli deve all'assicuratore i premi del periodo in corso nel momento in cui l'assicuratore ha avuto notizia del rifiuto della ratifica.",
+    "con_marcatori": "Art. 1890. (Assicurazione in nome altrui). Se il contraente stipula l'assicurazione in nome altrui senza averne il potere, l'interessato puo' ratificare il contratto anche dopo la scadenza o il verificarsi del sinistro. Il contraente e' tenuto personalmente ad osservare gli obblighi derivanti dal contratto fino al momento in cui l'assicuratore ha avuto notizia della ratifica o del rifiuto di questa. Egli deve all'assicuratore i premi del periodo in corso nel momento in cui l'assicuratore ha avuto notizia del rifiuto della ratifica.",
+    "caratteri": 494
+  },
+  "note": [],
+  "impronta": "sha256:42a7076cb9905cf4b31f5bf24ee3e9a56a999d19d0d6e023c7f643ffae5a1819"
+}

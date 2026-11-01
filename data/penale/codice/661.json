@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "661",
+    "rubrica": "Abuso della credulita' popolare",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art661"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, pubblicamente, cerca con qualsiasi impostura, anche gratuitamente, di abusare della credulita' popolare e' soggetto, se dal fatto puo' derivare un turbamento dell'ordine pubblico, alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000.",
+    "con_marcatori": "Art. 661. (Abuso della credulita' popolare) Chiunque, pubblicamente, cerca con qualsiasi impostura, anche gratuitamente, di abusare della credulita' popolare ((e' soggetto)), se dal fatto puo' derivare un turbamento dell'ordine pubblico, ((alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000)).",
+    "caratteri": 258
+  },
+  "note": [],
+  "impronta": "sha256:ecbeb35404f0a958b24ed48aa8fec9ced00eeb5f8d97f843d690077cecea3c1f"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1419",
+    "rubrica": "Nullita' parziale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1419"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La nullita' parziale di un contratto o la nullita' di singole clausole importa la nullita' dell'intero contratto, se risulta che i contraenti non lo avrebbero concluso senza quella parte del suo contenuto che e' colpita dalla nullita'. La nullita' di singole clausole non importa la nullita' del contratto, quando le clausole nulle sono sostituite di diritto da norme imperative.",
+    "con_marcatori": "Art. 1419. (Nullita' parziale). La nullita' parziale di un contratto o la nullita' di singole clausole importa la nullita' dell'intero contratto, se risulta che i contraenti non lo avrebbero concluso senza quella parte del suo contenuto che e' colpita dalla nullita'. La nullita' di singole clausole non importa la nullita' del contratto, quando le clausole nulle sono sostituite di diritto da norme imperative.",
+    "caratteri": 379
+  },
+  "note": [],
+  "impronta": "sha256:e3cb6dcea719677df0e3fb6879f627b7e74f2c1d7dcce279def100dee04b0d82"
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2103",
+    "rubrica": "Prestazione del lavoro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2103"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il lavoratore deve essere adibito alle mansioni per le quali e' stato assunto o a quelle corrispondenti all'inquadramento superiore che abbia successivamente acquisito ovvero a mansioni riconducibili allo stesso livello e categoria legale di inquadramento delle ultime effettivamente svolte. In caso di modifica degli assetti organizzativi aziendali che incide sulla posizione del lavoratore, lo stesso puo' essere assegnato a mansioni appartenenti al livello di inquadramento inferiore purche' rientranti nella medesima categoria legale. Il mutamento di mansioni e' accompagnato, ove necessario, dall'assolvimento dell'obbligo formativo, il cui mancato adempimento non determina comunque la nullita' dell'atto di assegnazione delle nuove mansioni. Ulteriori ipotesi di assegnazione di mansioni appartenenti al livello di inquadramento inferiore, purche' rientranti nella medesima categoria legale, possono essere previste dai contratti collettivi. Nelle ipotesi di cui al secondo e al quarto comma, il mutamento di mansioni e' comunicato per iscritto, a pena di nullita', e il lavoratore ha diritto alla conservazione del livello di inquadramento e del trattamento retributivo in godimento, fatta eccezione per gli elementi retributivi collegati a particolari modalita' di svolgimento della precedente prestazione lavorativa. Nelle sedi di cui all'articolo 2113, quarto comma, o avanti alle commissioni di certificazione, possono essere stipulati accordi individuali di modifica delle mansioni, della categoria legale e del livello di inquadramento e della relativa retribuzione, nell'interesse del lavoratore alla conservazione dell'occupazione, all'acquisizione di una diversa professionalita' o al miglioramento delle condizioni di vita. Il lavoratore puo' farsi assistere da un rappresentante dell'associazione sindacale cui aderisce o conferisce mandato o da un avvocato o da un consulente del lavoro. Nel caso di assegnazione a mansioni superiori il lavoratore ha diritto al trattamento corrispondente all'attivita' svolta e l'assegnazione diviene definitiva, salvo diversa volonta' del lavoratore, ove la medesima non abbia avuto luogo per ragioni sostitutive di altro lavoratore in servizio, dopo il periodo fissato dai contratti collettivi o, in mancanza, dopo sei mesi continuativi. Il lavoratore non puo' essere trasferito da un'unita' produttiva ad un'altra se non per comprovate ragioni tecniche, organizzative e produttive. Salvo che ricorrano le condizioni di cui al secondo e al quarto comma e fermo quanto disposto al sesto comma, ogni patto contrario e' nullo.",
+    "con_marcatori": "Art. 2103. ((Prestazione del lavoro.)) ((Il lavoratore deve essere adibito alle mansioni per le quali e' stato assunto o a quelle corrispondenti all'inquadramento superiore che abbia successivamente acquisito ovvero a mansioni riconducibili allo stesso livello e categoria legale di inquadramento delle ultime effettivamente svolte. In caso di modifica degli assetti organizzativi aziendali che incide sulla posizione del lavoratore, lo stesso puo' essere assegnato a mansioni appartenenti al livello di inquadramento inferiore purche' rientranti nella medesima categoria legale. Il mutamento di mansioni e' accompagnato, ove necessario, dall'assolvimento dell'obbligo formativo, il cui mancato adempimento non determina comunque la nullita' dell'atto di assegnazione delle nuove mansioni. Ulteriori ipotesi di assegnazione di mansioni appartenenti al livello di inquadramento inferiore, purche' rientranti nella medesima categoria legale, possono essere previste dai contratti collettivi. Nelle ipotesi di cui al secondo e al quarto comma, il mutamento di mansioni e' comunicato per iscritto, a pena di nullita', e il lavoratore ha diritto alla conservazione del livello di inquadramento e del trattamento retributivo in godimento, fatta eccezione per gli elementi retributivi collegati a particolari modalita' di svolgimento della precedente prestazione lavorativa. Nelle sedi di cui all'articolo 2113, quarto comma, o avanti alle commissioni di certificazione, possono essere stipulati accordi individuali di modifica delle mansioni, della categoria legale e del livello di inquadramento e della relativa retribuzione, nell'interesse del lavoratore alla conservazione dell'occupazione, all'acquisizione di una diversa professionalita' o al miglioramento delle condizioni di vita. Il lavoratore puo' farsi assistere da un rappresentante dell'associazione sindacale cui aderisce o conferisce mandato o da un avvocato o da un consulente del lavoro. Nel caso di assegnazione a mansioni superiori il lavoratore ha diritto al trattamento corrispondente all'attivita' svolta e l'assegnazione diviene definitiva, salvo diversa volonta' del lavoratore, ove la medesima non abbia avuto luogo per ragioni sostitutive di altro lavoratore in servizio, dopo il periodo fissato dai contratti collettivi o, in mancanza, dopo sei mesi continuativi. Il lavoratore non puo' essere trasferito da un'unita' produttiva ad un'altra se non per comprovate ragioni tecniche, organizzative e produttive. Salvo che ricorrano le condizioni di cui al secondo e al quarto comma e fermo quanto disposto al sesto comma, ogni patto contrario e' nullo.))",
+    "caratteri": 2579
+  },
+  "note": [
+    {
+      "numero": 62,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 13 maggio 1985, n. 190",
+          "urn": "urn:nir:stato:legge:1985-05-13;190",
+          "data": "1985-05-13",
+          "numero": "190",
+          "data_gazzetta": "1985-05-17"
+        },
+        {
+          "denominazione": "primo comma dell'articolo 2103 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 13 della legge 20 maggio 1970, n. 300",
+          "urn": "urn:nir:stato:legge:1970-05-20;300",
+          "data": "1970-05-20",
+          "numero": "300",
+          "data_gazzetta": "1970-05-27"
+        },
+        {
+          "denominazione": "L. 2 aprile 1986, n. 106",
+          "urn": "urn:nir:stato:legge:1986-04-02;106",
+          "data": "1986-04-02",
+          "numero": "106",
+          "data_gazzetta": "1986-04-15"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 13 maggio 1985, n. 190 ha disposto (con l'art. 6, comma 1) che \"In deroga a quanto previsto dal primo comma dell'articolo 2103 del codice civile, come modificato dall'articolo 13 della legge 20 maggio 1970, n. 300, l'assegnazione del lavoratore alle mansioni superiori di cui all'articolo 1 della presente legge ovvero a mansioni dirigenziali, che non sia avvenuta in sostituzione di lavoratori assenti con diritto alla conservazione del posto, diviene definitiva quando si sia protratta per il periodo di tre mesi o per quello superiore fissato dai contratti collettivi\". ------------- AGGIORNAMENTO (63a) La L. 13 maggio 1985, n. 190, come modificata dalla L. 2 aprile 1986, n. 106, ha disposto (con l'art. 6, comma 1) che \"In deroga a quanto previsto dal primo comma dell'articolo 2103 del codice civile, come modificato dall'articolo 13 della legge 20 maggio 1970, n. 300, l'assegnazione del lavoratore alle mansioni superiori di cui all'articolo 2 della presente legge ovvero a mansioni dirigenziali, che non sia avvenuta in sostituzione di lavoratori assenti con diritto alla conservazione del posto, diviene definitiva quando si sia protratta per il periodo di tre mesi o per quello superiore fissato dai contratti collettivi\"."
+    }
+  ],
+  "impronta": "sha256:e458693505eda892b634ef22b8e5204a0367e25a991eb257d89a5bcc4c4e5a18"
+}

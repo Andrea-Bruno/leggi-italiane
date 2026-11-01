@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "102",
+    "rubrica": "Abitualita' presunta dalla legge",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art102"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' dichiarato delinquente abituale chi, dopo essere stato condannato alla reclusione in misura superiore complessivamente a cinque anni per tre delitti non colposi, della stessa indole, commessi entro dieci anni, e non contestualmente, riporta un'altra condanna per un delitto, non colposo, della stessa indole, e commesso entro i dieci anni successivi all'ultimo dei delitti precedenti. Nei dieci anni indicati nella disposizione precedente non si computa il tempo in cui il condannato ha scontato pene detentive o e' stato sottoposto a misure di sicurezza detentive.",
+    "con_marcatori": "Art. 102. (Abitualita' presunta dalla legge) E' dichiarato delinquente abituale chi, dopo essere stato condannato alla reclusione in misura superiore complessivamente a cinque anni per tre delitti non colposi, della stessa indole, commessi entro dieci anni, e non contestualmente, riporta un'altra condanna per un delitto, non colposo, della stessa indole, e commesso entro i dieci anni successivi all'ultimo dei delitti precedenti. Nei dieci anni indicati nella disposizione precedente non si computa il tempo in cui il condannato ha scontato pene detentive o e' stato sottoposto a misure di sicurezza detentive.",
+    "caratteri": 568
+  },
+  "note": [],
+  "impronta": "sha256:cd99e23c543011301083c58c3dbcc241f79c76eaeba72ed77ce597f90e5a4ddc"
+}

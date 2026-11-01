@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "813",
+    "rubrica": "Distinzione dei diritti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art813"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che dalla legge risulti diversamente, le disposizioni concernenti i beni immobili si applicano anche ai diritti reali che hanno per oggetto beni immobili e alle azioni relative; le disposizioni concernenti i beni mobili si applicano a tutti gli altri diritti.",
+    "con_marcatori": "Art. 813. (Distinzione dei diritti). Salvo che dalla legge risulti diversamente, le disposizioni concernenti i beni immobili si applicano anche ai diritti reali che hanno per oggetto beni immobili e alle azioni relative; le disposizioni concernenti i beni mobili si applicano a tutti gli altri diritti.",
+    "caratteri": 265
+  },
+  "note": [],
+  "impronta": "sha256:efaaded3726b10ed7dfce2a1a50eb3ad8ffd661a94b1cb307624d01b3ce48201"
+}

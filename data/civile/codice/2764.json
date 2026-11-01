@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2764",
+    "rubrica": "Crediti del locatore di immobili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2764"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il credito delle pigioni e dei fitti degli immobili ha privilegio sui frutti dell'anno e su quelli raccolti anteriormente, nonche' sopra tutto cio' che serve a fornire l'immobile o a coltivare il fondo locato. Il privilegio sussiste per il credito dell'anno in corso, dell'antecedente e dei successivi, se la locazione ha data certa, e, in caso diverso, per quello dell'anno in corso e del susseguente. Lo stesso privilegio ha il credito dipendente da mancate riparazioni le quali siano a carico del conduttore, il credito per i danni arrecati all'immobile locato, per la mancata restituzione delle scorte e ogni altro credito dipendente da inadempimento del contratto. Il privilegio sui frutti sussiste finche' si trovano nel fondo o nelle sue dipendenze. Esso si puo' far valere anche nei confronti del subconduttore. Il privilegio sulle cose che servono a fornire l'immobile locato o alla coltivazione del fondo sussiste pure se le cose appartengono al subconduttore, nei limiti in cui il locatore ha azione contro il medesimo. Il privilegio sulle cose che servono a fornire l'immobile locato ha luogo altresi' nei confronti dei terzi, finche' le cose si trovano nell'immobile, salvo che si provi che il locatore conoscesse il diritto del terzo al tempo in cui sono state introdotte. Qualora le cose che servono a fornire la casa o il fondo locato ovvero a coltivare il medesimo vengano asportate dall'immobile senza il consenso del locatore, questi conserva su di esse il privilegio, purche' ne domandi il sequestro, nei modi stabiliti dal codice di procedura civile per il sequestro conservativo, entro il termine di trenta giorni dall'asportazione, se si tratta di mobili che servono a fornire o a coltivare il fondo rustico, e di quindici giorni, se si tratta di mobili che servono a fornire la casa. Restano salvi in ogni caso i diritti acquistati dopo l'asportazione dai terzi che ignoravano l'esistenza del privilegio.",
+    "con_marcatori": "Art. 2764. (Crediti del locatore di immobili). Il credito delle pigioni e dei fitti degli immobili ha privilegio sui frutti dell'anno e su quelli raccolti anteriormente, nonche' sopra tutto cio' che serve a fornire l'immobile o a coltivare il fondo locato. Il privilegio sussiste per il credito dell'anno in corso, dell'antecedente e dei successivi, se la locazione ha data certa, e, in caso diverso, per quello dell'anno in corso e del susseguente. Lo stesso privilegio ha il credito dipendente da mancate riparazioni le quali siano a carico del conduttore, il credito per i danni arrecati all'immobile locato, per la mancata restituzione delle scorte e ogni altro credito dipendente da inadempimento del contratto. Il privilegio sui frutti sussiste finche' si trovano nel fondo o nelle sue dipendenze. Esso si puo' far valere anche nei confronti del subconduttore. Il privilegio sulle cose che servono a fornire l'immobile locato o alla coltivazione del fondo sussiste pure se le cose appartengono al subconduttore, nei limiti in cui il locatore ha azione contro il medesimo. Il privilegio sulle cose che servono a fornire l'immobile locato ha luogo altresi' nei confronti dei terzi, finche' le cose si trovano nell'immobile, salvo che si provi che il locatore conoscesse il diritto del terzo al tempo in cui sono state introdotte. Qualora le cose che servono a fornire la casa o il fondo locato ovvero a coltivare il medesimo vengano asportate dall'immobile senza il consenso del locatore, questi conserva su di esse il privilegio, purche' ne domandi il sequestro, nei modi stabiliti dal codice di procedura civile per il sequestro conservativo, entro il termine di trenta giorni dall'asportazione, se si tratta di mobili che servono a fornire o a coltivare il fondo rustico, e di quindici giorni, se si tratta di mobili che servono a fornire la casa. Restano salvi in ogni caso i diritti acquistati dopo l'asportazione dai terzi che ignoravano l'esistenza del privilegio.",
+    "caratteri": 1928
+  },
+  "note": [],
+  "impronta": "sha256:3d70bd4e3d4b18b35ce462e020b454e302d733554d54e76d6f41e0a685644cd1"
+}

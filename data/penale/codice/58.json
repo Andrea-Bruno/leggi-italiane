@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "58",
+    "rubrica": "Stampa clandestina",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art58"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni dell'articolo precedente si applicano anche se non sono state osservate le prescrizioni di legge sulla pubblicazione e diffusione della stampa periodica e non periodica. COMMA ABROGATO DALLA L. 4 MARZO 1958, N. 127.",
+    "con_marcatori": "Art. 58. (Stampa clandestina) Le disposizioni dell'articolo precedente si applicano anche se non sono state osservate le prescrizioni di legge sulla pubblicazione e diffusione della stampa periodica e non periodica. ((COMMA ABROGATO DALLA L. 4 MARZO 1958, N. 127)).",
+    "caratteri": 231
+  },
+  "note": [],
+  "impronta": "sha256:7ac0c8cf7a9b9ed2c16398b7cd997970921a19f2115309c793fe35a7e3e10965"
+}

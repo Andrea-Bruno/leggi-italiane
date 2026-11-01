@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2383",
+    "rubrica": "Nomina e revoca degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2383"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "PERIODO SOPPRESSO DAL D.LGS. 27 MARZO 2026, N. 47. la nomina degli amministratori e' preceduta dalla presentazione, da parte dell'interessato, di una dichiarazione circa l'inesistenza, a suo carico, delle cause di ineleggibilita' previste dall'articolo 2382 e di interdizioni dall'ufficio di amministratore adottate nei suoi confronti in uno Stato membro dell'Unione europea. Gli amministratori non possono essere nominati per un periodo superiore a tre esercizi, e scadono alla data della riunione dell'organo competente convocato per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica. Gli amministratori sono rieleggibili, salvo diversa disposizione dello statuto, e sono revocabili ... in qualunque tempo, anche se nominati nell'atto costitutivo, dall'organo competente a nominarli, salvo il diritto dell'amministratore al risarcimento dei danni, se la revoca avviene senza giusta causa. Entro trenta giorni dalla notizia della loro nomina gli amministratori devono chiederne l'iscrizione nel registro delle imprese indicando per ciascuno di essi il cognome e il nome, il luogo e la data di nascita, il domicilio e la cittadinanza, nonche' a quali tra essi e' attribuita la rappresentanza della societa', precisando se disgiuntamente o congiuntamente. Le cause di nullita' o di annullabilita' della nomina degli amministratori che hanno la rappresentanza della societa' non sono opponibili ai terzi dopo l'adempimento della pubblicita' di cui al quarto comma, salvo che la societa' provi che i terzi ne erano a conoscenza.",
+    "con_marcatori": "Art. 2383. (Nomina e revoca degli amministratori). ((PERIODO SOPPRESSO DAL D.LGS. 27 MARZO 2026, N. 47)). ((la nomina degli amministratori e' preceduta)) dalla presentazione, da parte dell'interessato, di una dichiarazione circa l'inesistenza, a suo carico, delle cause di ineleggibilita' previste dall'articolo 2382 e di interdizioni dall'ufficio di amministratore adottate nei suoi confronti in uno Stato membro dell'Unione europea. Gli amministratori non possono essere nominati per un periodo superiore a tre esercizi, e scadono alla data ((della riunione dell'organo competente convocato)) per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica. Gli amministratori sono rieleggibili, salvo diversa disposizione dello statuto, e sono revocabili ((...)) in qualunque tempo, anche se nominati nell'atto costitutivo, ((dall'organo competente a nominarli,)) salvo il diritto dell'amministratore al risarcimento dei danni, se la revoca avviene senza giusta causa. Entro trenta giorni dalla notizia della loro nomina gli amministratori devono chiederne l'iscrizione nel registro delle imprese indicando per ciascuno di essi il cognome e il nome, il luogo e la data di nascita, il domicilio e la cittadinanza, nonche' a quali tra essi e' attribuita la rappresentanza della societa', precisando se disgiuntamente o congiuntamente. Le cause di nullita' o di annullabilita' della nomina degli amministratori che hanno la rappresentanza della societa' non sono opponibili ai terzi dopo l'adempimento della pubblicita' di cui al quarto comma, salvo che la societa' provi che i terzi ne erano a conoscenza.",
+    "caratteri": 1551
+  },
+  "note": [],
+  "impronta": "sha256:b58bf091a41d44b28212a18b5e51f071d363eee6eaefff0bd1e265de0ac3b98b"
+}

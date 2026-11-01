@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1803",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1803"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il comodato e' il contratto col quale una parte consegna all'altra una cosa mobile o immobile, affinche' se ne serva per un tempo o per un uso determinato, con l'obbligo di restituire la stessa cosa ricevuta. Il comodato e' essenzialmente gratuito.",
+    "con_marcatori": "Art. 1803. (Nozione). Il comodato e' il contratto col quale una parte consegna all'altra una cosa mobile o immobile, affinche' se ne serva per un tempo o per un uso determinato, con l'obbligo di restituire la stessa cosa ricevuta. Il comodato e' essenzialmente gratuito.",
+    "caratteri": 248
+  },
+  "note": [],
+  "impronta": "sha256:c93aa28ba02af79f34a50ca855e53c0a093671e59b2e08ef7ff5d1dc5dde5f20"
+}

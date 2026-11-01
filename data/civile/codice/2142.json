@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2142",
+    "rubrica": "Famiglia colonica",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2142"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La composizione della famiglia colonica non puo' volontariamente essere modificata senza il consenso del concedente, salvi i casi di matrimonio, di adozione e di riconoscimento di figli. La composizione e le variazioni della famiglia colonica devono risultare dal libretto colonico.(6a) ---------------- AGGIORNAMENTO (6a) La L. 15 settembre 1964, n. 756 ha disposto (con l'art. 7, comma 1) che \"La composizione della famiglia colonica puo' essere modificata senza il consenso del concedente anche fuori dei casi previsti dall'articolo 2142 del Codice civile, purche' non ne risulti compromessa la normale conduzione del fondo. Ai fini della presente legge, il lavoro della donna e' considerato equivalente a quello dell'uomo.\"",
+    "con_marcatori": "Art. 2142. (Famiglia colonica). La composizione della famiglia colonica non puo' volontariamente essere modificata senza il consenso del concedente, salvi i casi di matrimonio, di adozione e di riconoscimento di ((figli)). La composizione e le variazioni della famiglia colonica devono risultare dal libretto colonico.(6a) ---------------- AGGIORNAMENTO (6a) La L. 15 settembre 1964, n. 756 ha disposto (con l'art. 7, comma 1) che \"La composizione della famiglia colonica puo' essere modificata senza il consenso del concedente anche fuori dei casi previsti dall'articolo 2142 del Codice civile, purche' non ne risulti compromessa la normale conduzione del fondo. Ai fini della presente legge, il lavoro della donna e' considerato equivalente a quello dell'uomo.\"",
+    "caratteri": 727
+  },
+  "note": [],
+  "impronta": "sha256:2f7f4fa9a400fa43b4fbd0c418dc6a99fb5e5797eb51970a844e009859f66131"
+}

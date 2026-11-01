@@ -1,0 +1,83 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "337-ter",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art337-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Provvedimenti riguardo ai figli Il figlio minore ha il diritto di mantenere un rapporto equilibrato e continuativo con ciascuno dei genitori, di ricevere cura, educazione, istruzione e assistenza morale da entrambi e di conservare rapporti significativi con gli ascendenti e con i parenti di ciascun ramo genitoriale. Per realizzare la finalita' indicata dal primo comma, nei procedimenti di cui all'articolo 337-bis, il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale di essa. Valuta prioritariamente la possibilita' che i figli minori restino affidati a entrambi i genitori oppure stabilisce a quale di essi i figli sono affidati, determina i tempi e le modalita' della loro presenza presso ciascun genitore, fissando altresi' la misura e il modo con cui ciascuno di essi deve contribuire al mantenimento, alla cura, all'istruzione e all'educazione dei figli. Prende atto, se non contrari all'interesse dei figli, degli accordi intervenuti tra i genitori, in particolare qualora raggiunti all'esito di un percorso di mediazione familiare. Adotta ogni altro provvedimento relativo alla prole, ivi compreso, in caso di temporanea impossibilita' di affidare il minore ad uno dei genitori, l'affidamento familiare. All'attuazione dei provvedimenti relativi all'affidamento della prole provvede il giudice del merito e, nel caso di affidamento familiare, anche d'ufficio o su richiesta del pubblico ministero. PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197. La responsabilita' genitoriale e' esercitata da entrambi i genitori. Le decisioni di maggiore interesse per i figli relative all'istruzione, all'educazione, alla salute e alla scelta della residenza abituale del minore sono assunte di comune accordo tenendo conto delle capacita', dell'inclinazione naturale e delle aspirazioni dei figli. In caso di disaccordo la decisione e' rimessa al giudice. Limitatamente alle decisioni su questioni di ordinaria amministrazione, il giudice puo' stabilire che i genitori esercitino la responsabilita' genitoriale separatamente. Qualora il genitore non si attenga alle condizioni dettate, il giudice valutera' detto comportamento anche al fine della modifica delle modalita' di affidamento. Salvo accordi diversi liberamente sottoscritti dalle parti, ciascuno dei genitori provvede al mantenimento dei figli in misura proporzionale al proprio reddito; il giudice stabilisce, ove necessario, la corresponsione di un assegno periodico al fine di realizzare il principio di proporzionalita', da determinare considerando: 1) le attuali esigenze del figlio. 2) il tenore di vita goduto dal figlio in costanza di convivenza con entrambi i genitori. 3) i tempi di permanenza presso ciascun genitore. 4) le risorse economiche di entrambi i genitori. 5) la valenza economica dei compiti domestici e di cura assunti da ciascun genitore. L'assegno e' automaticamente adeguato agli indici ISTAT in difetto di altro parametro indicato dalle parti o dal giudice. Ove le informazioni di carattere economico fornite dai genitori non risultino sufficientemente documentate, il giudice dispone un accertamento della polizia tributaria sui redditi e sui beni oggetto della contestazione, anche se intestati a soggetti diversi.",
+    "con_marcatori": "Art. 337-ter. Provvedimenti riguardo ai figli Il figlio minore ha il diritto di mantenere un rapporto equilibrato e continuativo con ciascuno dei genitori, di ricevere cura, educazione, istruzione e assistenza morale da entrambi e di conservare rapporti significativi con gli ascendenti e con i parenti di ciascun ramo genitoriale. Per realizzare la finalita' indicata dal primo comma, nei procedimenti di cui all'articolo 337-bis, il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale di essa. Valuta prioritariamente la possibilita' che i figli minori restino affidati a entrambi i genitori oppure stabilisce a quale di essi i figli sono affidati, determina i tempi e le modalita' della loro presenza presso ciascun genitore, fissando altresi' la misura e il modo con cui ciascuno di essi deve contribuire al mantenimento, alla cura, all'istruzione e all'educazione dei figli. Prende atto, se non contrari all'interesse dei figli, degli accordi intervenuti tra i genitori, in particolare qualora raggiunti all'esito di un percorso di mediazione familiare. Adotta ogni altro provvedimento relativo alla prole, ivi compreso, in caso di temporanea impossibilita' di affidare il minore ad uno dei genitori, l'affidamento familiare. All'attuazione dei provvedimenti relativi all'affidamento della prole provvede il giudice del merito e, nel caso di affidamento familiare, anche d'ufficio o su richiesta del pubblico ministero. ((PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)). (321)(322) La responsabilita' genitoriale e' esercitata da entrambi i genitori. Le decisioni di maggiore interesse per i figli relative all'istruzione, all'educazione, alla salute e alla scelta della residenza abituale del minore sono assunte di comune accordo tenendo conto delle capacita', dell'inclinazione naturale e delle aspirazioni dei figli. In caso di disaccordo la decisione e' rimessa al giudice. Limitatamente alle decisioni su questioni di ordinaria amministrazione, il giudice puo' stabilire che i genitori esercitino la responsabilita' genitoriale separatamente. Qualora il genitore non si attenga alle condizioni dettate, il giudice valutera' detto comportamento anche al fine della modifica delle modalita' di affidamento. Salvo accordi diversi liberamente sottoscritti dalle parti, ciascuno dei genitori provvede al mantenimento dei figli in misura proporzionale al proprio reddito; il giudice stabilisce, ove necessario, la corresponsione di un assegno periodico al fine di realizzare il principio di proporzionalita', da determinare considerando: 1) le attuali esigenze del figlio. 2) il tenore di vita goduto dal figlio in costanza di convivenza con entrambi i genitori. 3) i tempi di permanenza presso ciascun genitore. 4) le risorse economiche di entrambi i genitori. 5) la valenza economica dei compiti domestici e di cura assunti da ciascun genitore. L'assegno e' automaticamente adeguato agli indici ISTAT in difetto di altro parametro indicato dalle parti o dal giudice. Ove le informazioni di carattere economico fornite dai genitori non risultino sufficientemente documentate, il giudice dispone un accertamento della polizia tributaria sui redditi e sui beni oggetto della contestazione, anche se intestati a soggetti diversi.",
+    "caratteri": 3319
+  },
+  "note": [
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:9b290e1329e8f441964244cb36a1607d92a3c7fb240bf7c75f543deadeb8b0d9"
+}

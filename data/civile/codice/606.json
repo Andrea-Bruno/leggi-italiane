@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "606",
+    "rubrica": "Nullita' del testamento per difetto di forma",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art606"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento e' nullo quando manca l'autografia o la sottoscrizione nel caso di testamento olografo, ovvero manca la redazione per iscritto, da parte del notaio, delle dichiarazioni del testatore o la sottoscrizione dell'uno o dell'altro, nel caso di testamento per atto di notaio. Per ogni altro difetto di forma il testamento puo' essere annullato su istanza di chiunque vi ha interesse. L'azione di annullamento si prescrive nel termine di cinque anni dal giorno in cui e' stata data esecuzione alle disposizioni testamentarie.",
+    "con_marcatori": "Art. 606. (Nullita' del testamento per difetto di forma). Il testamento e' nullo quando manca l'autografia o la sottoscrizione nel caso di testamento olografo, ovvero manca la redazione per iscritto, da parte del notaio, delle dichiarazioni del testatore o la sottoscrizione dell'uno o dell'altro, nel caso di testamento per atto di notaio. Per ogni altro difetto di forma il testamento puo' essere annullato su istanza di chiunque vi ha interesse. L'azione di annullamento si prescrive nel termine di cinque anni dal giorno in cui e' stata data esecuzione alle disposizioni testamentarie.",
+    "caratteri": 531
+  },
+  "note": [],
+  "impronta": "sha256:586638d274cd0abe7b2de8b678981c12ae312a19709772ed917dea3c1e73b4c1"
+}

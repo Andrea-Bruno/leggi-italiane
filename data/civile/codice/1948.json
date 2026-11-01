@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1948",
+    "rubrica": "Obbligazione del fideiussore del fideiussore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1948"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il fideiussore del fideiussore non e' obbligato verso il creditore, se non nel caso in cui il debitore principale e tutti i fideiussori di questo siano insolventi, o siano liberati perche' incapaci.",
+    "con_marcatori": "Art. 1948. (Obbligazione del fideiussore del fideiussore). Il fideiussore del fideiussore non e' obbligato verso il creditore, se non nel caso in cui il debitore principale e tutti i fideiussori di questo siano insolventi, o siano liberati perche' incapaci.",
+    "caratteri": 198
+  },
+  "note": [],
+  "impronta": "sha256:cc1b92f3b3dc2803f41beed0ab55168f0fb87faa3c3f0bb34d0542334154f3e0"
+}

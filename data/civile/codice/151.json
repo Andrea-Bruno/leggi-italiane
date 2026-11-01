@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "151",
+    "rubrica": "Separazione giudiziale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art151"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La separazione puo' essere chiesta quando si verificano, anche indipendentemente dalla volonta' di uno o di entrambi i coniugi, fatti tali da rendere intollerabile la prosecuzione della convivenza o da recare grave pregiudizio alla educazione della prole. Il giudice, pronunziando la separazione, dichiara, ove ne ricorrano le circostanze e ne sia richiesto, a quale dei coniugi sia addebitabile la separazione, in considerazione del suo comportamento contrario ai doveri che derivano dal matrimonio. --------------- AGGIORNAMENTO (12a) La Corte Costituzionale con sentenza 16-19 dicembre 1968 n. 127 (in G.U. 1a s.s. 28/12/1968 n. 329) ha dichiarato l'illegittimita' costituzionale dell'art. 151, secondo comma, del Codice civile.",
+    "con_marcatori": "Art. 151. ((Separazione giudiziale.)) ((La separazione puo' essere chiesta quando si verificano, anche indipendentemente dalla volonta' di uno o di entrambi i coniugi, fatti tali da rendere intollerabile la prosecuzione della convivenza o da recare grave pregiudizio alla educazione della prole. Il giudice, pronunziando la separazione, dichiara, ove ne ricorrano le circostanze e ne sia richiesto, a quale dei coniugi sia addebitabile la separazione, in considerazione del suo comportamento contrario ai doveri che derivano dal matrimonio)). --------------- AGGIORNAMENTO (12a) La Corte Costituzionale con sentenza 16-19 dicembre 1968 n. 127 (in G.U. 1a s.s. 28/12/1968 n. 329) ha dichiarato l'illegittimita' costituzionale dell'art. 151, secondo comma, del Codice civile.",
+    "caratteri": 731
+  },
+  "note": [],
+  "impronta": "sha256:08e24d468fc2e1a584463e2a5f34b8f00fa1a15d8e69db86bc12b3a207d6d271"
+}

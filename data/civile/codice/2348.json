@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2348",
+    "rubrica": "Categorie di azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2348"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le azioni devono essere di uguale valore e conferiscono ai loro possessori uguali diritti. Si possono tuttavia creare, con lo statuto o con successive modificazioni di questo, categorie di azioni fornite di diritti diversi anche per quanto concerne la incidenza delle perdite. In tal caso la societa', nei limiti imposti dalla legge, puo' liberamente determinare il contenuto delle azioni delle varie categorie. Tutte le azioni appartenenti ad una medesima categoria conferiscono uguali diritti.",
+    "con_marcatori": "Art. 2348. (( (Categorie di azioni). )) ((Le azioni devono essere di uguale valore e conferiscono ai loro possessori uguali diritti. Si possono tuttavia creare, con lo statuto o con successive modificazioni di questo, categorie di azioni fornite di diritti diversi anche per quanto concerne la incidenza delle perdite. In tal caso la societa', nei limiti imposti dalla legge, puo' liberamente determinare il contenuto delle azioni delle varie categorie. Tutte le azioni appartenenti ad una medesima categoria conferiscono uguali diritti.))",
+    "caratteri": 495
+  },
+  "note": [],
+  "impronta": "sha256:99a2280bd374b45a7669855e8a79ed553762bdc8cd2cb3cb32c501dc709a6394"
+}

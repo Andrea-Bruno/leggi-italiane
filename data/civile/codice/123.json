@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "123",
+    "rubrica": "Simulazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art123"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il matrimonio puo' essere impugnato da ciascuno dei coniugi quando gli sposi abbiano convenuto di non adempiere agli obblighi e di non esercitare i diritti da esso discendenti. L'azione non puo' essere proposta decorso un anno dalla celebrazione del matrimonio ovvero nel caso in cui i contraenti abbiano convissuto come coniugi successivamente alla celebrazione medesima.",
+    "con_marcatori": "Art. 123. ((Simulazione.)) ((Il matrimonio puo' essere impugnato da ciascuno dei coniugi quando gli sposi abbiano convenuto di non adempiere agli obblighi e di non esercitare i diritti da esso discendenti. L'azione non puo' essere proposta decorso un anno dalla celebrazione del matrimonio ovvero nel caso in cui i contraenti abbiano convissuto come coniugi successivamente alla celebrazione medesima)).",
+    "caratteri": 372
+  },
+  "note": [],
+  "impronta": "sha256:0c9f761d0e23d42e3d5573852eb04e0c70919db242623d1802a8fbac47715d98"
+}

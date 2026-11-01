@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "129-bis",
+    "rubrica": "Responsabilita' del coniuge in mala fede e del terzo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art129-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il coniuge al quale sia imputabile la nullita' del matrimonio e' tenuto a corrispondere all'altro coniuge in buona fede, qualora il matrimonio sia annullato, una congrua indennita', anche in mancanza di prova del danno sofferto. L'indennita' deve comunque comprendere una somma corrispondente al mantenimento per tre anni. E' tenuto altresi' a prestare gli alimenti al coniuge in buona fede, sempre che non vi siano altri obbligati. Il terzo al quale sia imputabile la nullita' del matrimonio e' tenuto a corrispondere al coniuge in buona fede, se il matrimonio e' annullato, l'indennita' prevista nel comma precedente. In ogni caso il terzo che abbia concorso con uno dei coniugi nel determinare la nullita' del matrimonio e' solidalmente responsabile con lo stesso per il pagamento dell'indennita'.",
+    "con_marcatori": "Art. 129-bis. ((Responsabilita' del coniuge in mala fede e del terzo.)) ((Il coniuge al quale sia imputabile la nullita' del matrimonio e' tenuto a corrispondere all'altro coniuge in buona fede, qualora il matrimonio sia annullato, una congrua indennita', anche in mancanza di prova del danno sofferto. L'indennita' deve comunque comprendere una somma corrispondente al mantenimento per tre anni. E' tenuto altresi' a prestare gli alimenti al coniuge in buona fede, sempre che non vi siano altri obbligati. Il terzo al quale sia imputabile la nullita' del matrimonio e' tenuto a corrispondere al coniuge in buona fede, se il matrimonio e' annullato, l'indennita' prevista nel comma precedente. In ogni caso il terzo che abbia concorso con uno dei coniugi nel determinare la nullita' del matrimonio e' solidalmente responsabile con lo stesso per il pagamento dell'indennita')).",
+    "caratteri": 800
+  },
+  "note": [],
+  "impronta": "sha256:ebb074a3b282d49375deff4b43ee88fc6262d5a798ebd4ffa6c1235f52588ed9"
+}

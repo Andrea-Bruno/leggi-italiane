@@ -1,0 +1,47 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "434-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art434-bis"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": null,
+        "testo": "ARTICOLO NON PIU' PREVISTO DAL D.L. 31 OTTOBRE 2022, N. 162, CONVERTITO CON MODIFICAZIONI DALLA L. 30 DICEMBRE 2022, N. 199"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO NON PIU' PREVISTO DAL D.L. 31 OTTOBRE 2022, N. 162, CONVERTITO CON MODIFICAZIONI DALLA L. 30 DICEMBRE 2022, N. 199",
+    "con_marcatori": "Art. 434-bis ((ARTICOLO NON PIU' PREVISTO DAL D.L. 31 OTTOBRE 2022, N. 162, CONVERTITO CON MODIFICAZIONI DALLA L. 30 DICEMBRE 2022, N. 199))",
+    "caratteri": 123
+  },
+  "note": [],
+  "impronta": "sha256:1f25b9a9cc57283df69ce4b6255f61452b1c0c7659e304a7960b098d4292327d"
+}

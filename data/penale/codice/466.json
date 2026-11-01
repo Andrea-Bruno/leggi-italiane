@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "466",
+    "rubrica": "Alterazione di segni nei valori di bollo o nei biglietti usati e uso degli oggetti cosi' alterati",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art466"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque cancella o fa in qualsiasi modo scomparire, da valori di bollo o da biglietti di strade ferrate o di altre pubbliche imprese di trasporto, i segni appostivi per indicare l'uso gia' fattone, e' punito, qualora ne faccia uso o lasci che altri ne faccia uso, con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila. Alla stessa sanzione soggiace chi, senza essere concorso nell'alterazione, fa uso dei valori di bollo o dei biglietti alterati. Se le cose sono state ricevute in buona fede, si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.",
+    "con_marcatori": "Art. 466. (Alterazione di segni nei valori di bollo o nei biglietti usati e uso degli oggetti cosi' alterati) Chiunque cancella o fa in qualsiasi modo scomparire, da valori di bollo o da biglietti di strade ferrate o di altre pubbliche imprese di trasporto, i segni appostivi per indicare l'uso gia' fattone, e' punito, qualora ne faccia uso o lasci che altri ne faccia uso, ((con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila)). ((Alla stessa sanzione soggiace chi, senza essere concorso nell'alterazione, fa uso dei valori di bollo o dei biglietti alterati. Se le cose sono state ricevute in buona fede, si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.)) (17)",
+    "caratteri": 611
+  },
+  "note": [
+    {
+      "numero": 17,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 25 giugno 1953, n. 492",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1953-06-25;492",
+          "data": "1953-06-25",
+          "numero": "492",
+          "data_gazzetta": "1953-07-10"
+        },
+        {
+          "denominazione": "art. 466 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 25 giugno 1953, n. 492 ha disposto (con l'art. 40, comma 2) che \"Le pene stabilite dall'art. 466 del Codice penale si applicano anche a chi detiene per lo smercio ovvero usa o smercia carta bollata, marche o altri valori di bollo precedentemente usati\". Ha inoltre disposto (con l'art. 51, comma 1) che la presente modifica ha effetto dal 1 agosto 1953."
+    }
+  ],
+  "impronta": "sha256:ca45201d8e823688294921fba1832bfb69cd681902824b0bbb3b494a1ea0666e"
+}

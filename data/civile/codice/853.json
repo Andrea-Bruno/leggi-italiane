@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "853",
+    "rubrica": "Trasferimento dei diritti reali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art853"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei trasferimenti coattivi le servitu' prediali sono abolite, conservate o create in relazione alle esigenze della nuova sistemazione. Gli altri diritti reali di godimento sono trasferiti sui terreni assegnati in cambio e, qualora non siano costituiti su tutti i terreni dello stesso proprietario, sono trasferiti soltanto su una parte determinata del fondo assegnato in cambio, che corrisponda in valore ai terreni su cui esistevano. Le ipoteche che non siano costituite su tutti i terreni dello stesso proprietario sono trasferite sul fondo di nuova assegnazione per una quota corrispondente in valore ai terreni su cui erano costituite. In caso di espropriazione forzata dell'immobile gravato da ipoteca su una quota, l'immobile e' espropriato per intero e il credito e' collocato, secondo il grado dell'ipoteca, sulla parte del prezzo corrispondente alla quota soggetta all'ipoteca medesima.",
+    "con_marcatori": "Art. 853. (Trasferimento dei diritti reali). Nei trasferimenti coattivi le servitu' prediali sono abolite, conservate o create in relazione alle esigenze della nuova sistemazione. Gli altri diritti reali di godimento sono trasferiti sui terreni assegnati in cambio e, qualora non siano costituiti su tutti i terreni dello stesso proprietario, sono trasferiti soltanto su una parte determinata del fondo assegnato in cambio, che corrisponda in valore ai terreni su cui esistevano. Le ipoteche che non siano costituite su tutti i terreni dello stesso proprietario sono trasferite sul fondo di nuova assegnazione per una quota corrispondente in valore ai terreni su cui erano costituite. In caso di espropriazione forzata dell'immobile gravato da ipoteca su una quota, l'immobile e' espropriato per intero e il credito e' collocato, secondo il grado dell'ipoteca, sulla parte del prezzo corrispondente alla quota soggetta all'ipoteca medesima.",
+    "caratteri": 895
+  },
+  "note": [],
+  "impronta": "sha256:f518726ccb577776c70979f9a78574275981db1a9f8d6213109f6e58afd3687c"
+}

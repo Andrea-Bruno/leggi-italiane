@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1330",
+    "rubrica": "Morte o incapacita' dell'imprenditore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1330"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La proposta o l'accettazione, quando e' fatta dall'imprenditore nell'esercizio della sua impresa, non perde efficacia se l'imprenditore muore o diviene incapace prima della conclusione del contratto, salvo che si tratti di piccoli imprenditori o che diversamente risulti dalla natura dell'affare o da altre circostanze.",
+    "con_marcatori": "Art. 1330. (Morte o incapacita' dell'imprenditore). La proposta o l'accettazione, quando e' fatta dall'imprenditore nell'esercizio della sua impresa, non perde efficacia se l'imprenditore muore o diviene incapace prima della conclusione del contratto, salvo che si tratti di piccoli imprenditori o che diversamente risulti dalla natura dell'affare o da altre circostanze.",
+    "caratteri": 319
+  },
+  "note": [],
+  "impronta": "sha256:17c93d1490b95dd13714e944c0f0dfc82d89c5a192852fbd4cdd709c8ec99bb4"
+}

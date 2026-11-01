@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "986",
+    "rubrica": "Addizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art986"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'usufruttuario puo' eseguire addizioni che non alterino la destinazione economica della cosa. Egli ha diritto di toglierle alla fine dell'usufrutto, qualora cio' possa farsi senza nocumento della cosa, salvo che il proprietario preferisca ritenere le addizioni stesse. In questo caso deve essere corrisposta all'usufruttuario un'indennita' pari alla minor somma tra l'importo della spesa e il valore delle addizioni al tempo della riconsegna. Se le addizioni non possono separarsi senza nocumento della cosa e costituiscono miglioramento di essa, si applicano le disposizioni relative ai miglioramenti.",
+    "con_marcatori": "Art. 986. (Addizioni). L'usufruttuario puo' eseguire addizioni che non alterino la destinazione economica della cosa. Egli ha diritto di toglierle alla fine dell'usufrutto, qualora cio' possa farsi senza nocumento della cosa, salvo che il proprietario preferisca ritenere le addizioni stesse. In questo caso deve essere corrisposta all'usufruttuario un'indennita' pari alla minor somma tra l'importo della spesa e il valore delle addizioni al tempo della riconsegna. Se le addizioni non possono separarsi senza nocumento della cosa e costituiscono miglioramento di essa, si applicano le disposizioni relative ai miglioramenti.",
+    "caratteri": 603
+  },
+  "note": [],
+  "impronta": "sha256:ba81d2ff852b8462ffbfa53d57c74e5fc028de02018139ff759531893f7f392c"
+}

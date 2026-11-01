@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1182",
+    "rubrica": "Luogo dell'adempimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1182"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il luogo nel quale la prestazione deve essere eseguita non e' determinato dalla convenzione o dagli usi e non puo' desumersi dalla natura della prestazione o da altre circostanze, si osservano le norme che seguono. L'obbligazione di consegnare una cosa certa e determinata deve essere adempiuta nel luogo in cui si trovava la cosa quando l'obbligazione e' sorta. L'obbligazione avente per oggetto una somma di danaro deve essere adempiuta al domicilio che il creditore ha al tempo della scadenza. Se tale domicilio e' diverso da quello che il creditore aveva quando e' sorta l'obbligazione e cio' rende piu' gravoso l'adempimento, il debitore, previa dichiarazione al creditore, ha diritto di eseguire il pagamento al proprio domicilio. Negli altri casi l'obbligazione deve essere adempiuta al domicilio che il debitore ha al tempo della scadenza.",
+    "con_marcatori": "Art. 1182. (Luogo dell'adempimento). Se il luogo nel quale la prestazione deve essere eseguita non e' determinato dalla convenzione o dagli usi e non puo' desumersi dalla natura della prestazione o da altre circostanze, si osservano le norme che seguono. L'obbligazione di consegnare una cosa certa e determinata deve essere adempiuta nel luogo in cui si trovava la cosa quando l'obbligazione e' sorta. L'obbligazione avente per oggetto una somma di danaro deve essere adempiuta al domicilio che il creditore ha al tempo della scadenza. Se tale domicilio e' diverso da quello che il creditore aveva quando e' sorta l'obbligazione e cio' rende piu' gravoso l'adempimento, il debitore, previa dichiarazione al creditore, ha diritto di eseguire il pagamento al proprio domicilio. Negli altri casi l'obbligazione deve essere adempiuta al domicilio che il debitore ha al tempo della scadenza.",
+    "caratteri": 850
+  },
+  "note": [],
+  "impronta": "sha256:749912260a5dcbb2f67fbaa888655faa763efbc62c9e6f474026979a46c8ca7e"
+}

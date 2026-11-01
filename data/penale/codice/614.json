@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "614",
+    "rubrica": "Violazione di domicilio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art614"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque s'introduce nell'abitazione altrui, o in un altro luogo di privata dimora, o nelle appartenenze di essi, contro la volonta' espressa o tacita di chi ha il diritto di escluderlo, ovvero vi s'introduce clandestinamente o con inganno, e' punito con la reclusione da uno a quattro anni. Alla stessa pena soggiace chi si trattiene nei detti luoghi contro l'espressa volonta' di chi ha il diritto di escluderlo, ovvero vi si trattiene clandestinamente o con inganno. La pena e' da due a sei anni se il fatto e' commesso con violenza sulle cose, o alle persone, ovvero se il colpevole e' palesemente armato. Il delitto e' punibile a querela della persona offesa. Si procede, tuttavia, d'ufficio quando il fatto e' commesso con violenza alle persone, ovvero se il colpevole e' palesemente armato o se il fatto e' commesso con violenza sulle cose nei confronti di persona incapace, per eta' o per infermita'.",
+    "con_marcatori": "Art. 614. (Violazione di domicilio) Chiunque s'introduce nell'abitazione altrui, o in un altro luogo di privata dimora, o nelle appartenenze di essi, contro la volonta' espressa o tacita di chi ha il diritto di escluderlo, ovvero vi s'introduce clandestinamente o con inganno, e' punito con la reclusione da uno a quattro anni. Alla stessa pena soggiace chi si trattiene nei detti luoghi contro l'espressa volonta' di chi ha il diritto di escluderlo, ovvero vi si trattiene clandestinamente o con inganno. ((La pena e' da due a sei anni se il fatto e' commesso con violenza sulle cose, o alle persone, ovvero se il colpevole e' palesemente armato.)) ((Il delitto e' punibile a querela della persona offesa. Si procede, tuttavia, d'ufficio quando il fatto e' commesso con violenza alle persone, ovvero se il colpevole e' palesemente armato o se il fatto e' commesso con violenza sulle cose nei confronti di persona incapace, per eta' o per infermita'.)) (119)",
+    "caratteri": 908
+  },
+  "note": [
+    {
+      "numero": 119,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 12 aprile 1990, n. 75",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1990-04-12;75",
+          "data": "1990-04-12",
+          "numero": "75",
+          "data_gazzetta": "1990-04-12"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 12 aprile 1990, n. 75 ha disposto (con l'art. 1, comma 1, lettera c)) che e' concessa amnistia per il delitto previsto dal comma quarto del presente articolo, limitatamente all'ipotesi in cui il fatto e' stato commesso con violenza sulle cose. Ha inoltre disposto (con l'articolo 6, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 24 ottobre 1989."
+    }
+  ],
+  "impronta": "sha256:9116ae33042b05d67b3ba133a83ef9ea66fc3443fcf0b4c3bc8b2e38fb6618e3"
+}

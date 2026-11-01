@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "600-septies.1",
+    "rubrica": "Circostanza attenuante",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La pena per i delitti di cui alla presente sezione e' diminuita da un terzo fino alla meta' nei confronti del concorrente che si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti.",
+    "con_marcatori": "Art. 600-septies.1. (( (Circostanza attenuante).)) ((La pena per i delitti di cui alla presente sezione e' diminuita da un terzo fino alla meta' nei confronti del concorrente che si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti. ))",
+    "caratteri": 372
+  },
+  "note": [],
+  "impronta": "sha256:324e4fe10dd556fdaf1806c2a745264229a50cb6b99d4f9846eed2c8a59be493"
+}

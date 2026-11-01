@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1415",
+    "rubrica": "Effetti della simulazione rispetto ai terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1415"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La simulazione non puo' essere opposta ne' dalle parti contraenti, ne' dagli aventi causa o dai creditori del simulato alienante, ai terzi che in buona fede hanno acquistato diritti dal titolare apparente, salvi gli effetti della trascrizione della domanda di simulazione. I terzi possono far valere la simulazione in confronto delle parti, quando essa pregiudica i loro diritti.",
+    "con_marcatori": "Art. 1415. (Effetti della simulazione rispetto ai terzi). La simulazione non puo' essere opposta ne' dalle parti contraenti, ne' dagli aventi causa o dai creditori del simulato alienante, ai terzi che in buona fede hanno acquistato diritti dal titolare apparente, salvi gli effetti della trascrizione della domanda di simulazione. I terzi possono far valere la simulazione in confronto delle parti, quando essa pregiudica i loro diritti.",
+    "caratteri": 379
+  },
+  "note": [],
+  "impronta": "sha256:b2039af728eafc2e98d20ee2393f0e9c66e123eebbbf4136934db3d922c4ea50"
+}

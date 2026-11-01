@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1751",
+    "rubrica": "Indennita' in caso di cessazione del rapporto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1751"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "All'atto della cessazione del rapporto, il preponente e' tenuto a corrispondere all'agente un'indennita' se ricorrono le seguenti condizioni: l'agente abbia procurato nuovi clienti al preponente o abbia sensibilmente sviluppato gli affari con i clienti esistenti e il preponente riceva ancora sostanziali vantaggi derivanti dagli affari con tali clienti; il pagamento di tale indennita' sia equo, tenuto conto di tutte le circostanze del caso, in particolare delle provvigioni che l'agente perde e che risultano dagli affari con tali clienti. L'indennita' non e' dovuta: quando il preponente risolve il contratto per un'inadempienza imputabile all'agente, la quale, per la sua gravita', non consenta la prosecuzione anche provvisoria del rapporto; quando l'agente recede dal contratto, a meno che il recesso sia giustificato da circostanze attribuibili al preponente o da circostanze attribuibili all'agente, quali eta', infermita' o malattia, per le quali non puo' piu' essergli ragionevolmente chiesta la prosecuzione dell'attivita'; quando, ai sensi di un accordo con il preponente, l'agente cede ad un terzo i diritti e gli obblighi che ha in virtu' del contratto di agenzia. L'importo dell'indennita' non puo' superare una cifra equivalente ad un'indennita' annua calcolata sulla base della media annuale delle retribuzioni riscosse dall'agente negli ultimi cinque anni e, se il contratto risale a meno di cinque anni, sulla media del periodo in questione. La concessione dell'indennita' non priva comunque l'agente del diritto all'eventuale risarcimento dei danni. L'agente decade dal diritto all'indennita' prevista dal presente articolo se, nel termine di un anno dallo scioglimento del rapporto, omette di comunicare al preponente l'intenzione di far valere i propri diritti. Le disposizioni di cui al presente articolo sono inderogabili a svantaggio dell'agente. L'indennita' e' dovuta anche se il rapporto cessa per morte dell'agente.",
+    "con_marcatori": "Art. 1751. (Indennita' in caso di cessazione del rapporto). ((All'atto della cessazione del rapporto, il preponente e' tenuto a corrispondere all'agente un'indennita' se ricorrono le seguenti condizioni:)) l'agente abbia procurato nuovi clienti al preponente o abbia sensibilmente sviluppato gli affari con i clienti esistenti e il preponente riceva ancora sostanziali vantaggi derivanti dagli affari con tali clienti; il pagamento di tale indennita' sia equo, tenuto conto di tutte le circostanze del caso, in particolare delle provvigioni che l'agente perde e che risultano dagli affari con tali clienti. L'indennita' non e' dovuta: quando il preponente risolve il contratto per un'inadempienza imputabile all'agente, la quale, per la sua gravita', non consenta la prosecuzione anche provvisoria del rapporto; quando l'agente recede dal contratto, a meno che il recesso sia giustificato da circostanze attribuibili al preponente o da circostanze attribuibili all'agente, quali eta', infermita' o malattia, per le quali non puo' piu' essergli ragionevolmente chiesta la prosecuzione dell'attivita'; quando, ai sensi di un accordo con il preponente, l'agente cede ad un terzo i diritti e gli obblighi che ha in virtu' del contratto di agenzia. L'importo dell'indennita' non puo' superare una cifra equivalente ad un'indennita' annua calcolata sulla base della media annuale delle retribuzioni riscosse dall'agente negli ultimi cinque anni e, se il contratto risale a meno di cinque anni, sulla media del periodo in questione. La concessione dell'indennita' non priva comunque l'agente del diritto all'eventuale risarcimento dei danni. L'agente decade dal diritto all'indennita' prevista dal presente articolo se, nel termine di un anno dallo scioglimento del rapporto, omette di comunicare al preponente l'intenzione di far valere i propri diritti. Le disposizioni di cui al presente articolo sono inderogabili a svantaggio dell'agente. ((L'indennita' e' dovuta anche se il rapporto cessa per morte dell'agente.)) (81)",
+    "caratteri": 1945
+  },
+  "note": [
+    {
+      "numero": 81,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 settembre 1991, n. 303",
+          "urn": "urn:nir:stato:decretoLegislativo:1991-09-10;303",
+          "data": "1991-09-10",
+          "numero": "303",
+          "data_gazzetta": "1991-09-20"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 settembre 1991, n. 303, ha disposto (con l'art. 6, comma 1) che \"Le disposizioni del presente decreto si applicano ai contratti gia' in corso alla data del 1° gennaio 1990, a decorrere dal 1° gennaio 1994\". Ha inoltre disposto (con l'art. 6, comma 2) che \"Salvo quanto previsto dal comma 1, le disposizioni di cui all'art. 4 si applicano a decorrere dal 1 gennaio 1993.\""
+    }
+  ],
+  "impronta": "sha256:2b10c3affaffb536f8d55ceee63f26e8b0c8d329fef4d730422aca6c4d6e28c8"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "191",
+    "rubrica": "Ordine dei crediti garantiti con ipoteca o sequestro",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art191"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sul prezzo degli immobili ipotecati e dei mobili sequestrati a norma dei due articoli precedenti, e sulle somme versate a titolo di cauzione e non devolute alla Cassa delle ammende, sono pagate nell'ordine seguente: 1° le spese sostenute da un pubblico istituto sanitario, a titolo di cura e di alimenti per la persona offesa, durante l'infermita'; 2° le somme dovute a titolo di risarcimento di danni e di spese processuali al danneggiato, purche' il pagamento ne sia richiesto entro un anno dal giorno in cui la sentenza penale di condanna sia divenuta irrevocabile; 3° le spese anticipate dal difensore del condannato e la somma a lui dovuta a titolo di onorario; 4° le spese del procedimento; 5° le spese per il mantenimento del condannato negli stabilimenti di pena. Se la esecuzione della pena non ha ancora avuto luogo, in tutto o in parte, e' depositata nella Cassa delle ammende una somma presumibilmente adeguata alle spese predette; 6° le pene pecuniarie e ogni altra somma dovuta all'erario dello Stato.",
+    "con_marcatori": "Art. 191. (Ordine dei crediti garantiti con ipoteca o sequestro) Sul prezzo degli immobili ipotecati e dei mobili sequestrati a norma dei due articoli precedenti, e sulle somme versate a titolo di cauzione e non devolute alla Cassa delle ammende, sono pagate nell'ordine seguente: 1° le spese sostenute da un pubblico istituto sanitario, a titolo di cura e di alimenti per la persona offesa, durante l'infermita'; 2° le somme dovute a titolo di risarcimento di danni e di spese processuali al danneggiato, purche' il pagamento ne sia richiesto entro un anno dal giorno in cui la sentenza penale di condanna sia divenuta irrevocabile; 3° le spese anticipate dal difensore del condannato e la somma a lui dovuta a titolo di onorario; 4° le spese del procedimento; 5° le spese per il mantenimento del condannato negli stabilimenti di pena. Se la esecuzione della pena non ha ancora avuto luogo, in tutto o in parte, e' depositata nella Cassa delle ammende una somma presumibilmente adeguata alle spese predette; 6° le pene pecuniarie e ogni altra somma dovuta all'erario dello Stato.",
+    "caratteri": 1015
+  },
+  "note": [],
+  "impronta": "sha256:1fe5582c0540d6b1a644afb089f13c58d3a35a4b79025dd993534d06ec7b253f"
+}

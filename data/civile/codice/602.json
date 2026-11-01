@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "602",
+    "rubrica": "Testamento olografo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art602"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento olografo deve essere scritto per intero, datato e sottoscritto di mano del testatore. La sottoscrizione deve essere posta alla fine delle disposizioni. Se anche non e' fatta indicando nome e cognome, e' tuttavia valida quando designa con certezza la persona del testatore. La data deve contenere l'indicazione del giorno, mese e anno. La prova della non verita' della data e' ammessa soltanto quando si tratta di giudicare della capacita' del testatore, della priorita' di data tra piu' testamenti o di altra questione da decidersi in base al tempo del testamento.",
+    "con_marcatori": "Art. 602. (Testamento olografo). Il testamento olografo deve essere scritto per intero, datato e sottoscritto di mano del testatore. La sottoscrizione deve essere posta alla fine delle disposizioni. Se anche non e' fatta indicando nome e cognome, e' tuttavia valida quando designa con certezza la persona del testatore. La data deve contenere l'indicazione del giorno, mese e anno. La prova della non verita' della data e' ammessa soltanto quando si tratta di giudicare della capacita' del testatore, della priorita' di data tra piu' testamenti o di altra questione da decidersi in base al tempo del testamento.",
+    "caratteri": 578
+  },
+  "note": [],
+  "impronta": "sha256:a8d85dd53cc05e05768fee0a2d944d74e136e80a41f5e1b714a44655ca9f05a2"
+}

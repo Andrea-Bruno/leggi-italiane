@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2380-bis",
+    "rubrica": "Amministrazione della societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2380-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". La gestione e l'organizzazione dell'impresa, ivi compresa l'istituzione dell'assetto organizzativo, amministrativo e contabile, spettano esclusivamente agli amministratori, i quali compiono le operazioni strumentali all'attuazione dell'oggetto sociale. L'amministrazione della societa' puo' essere affidata anche a non soci. Quando affidata a piu' persone, l'amministrazione e' esercitata collegialmente e gli amministratori si costituiscono in consiglio. Se lo statuto non stabilisce il numero degli amministratori, ma ne indica solamente un numero massimo e minimo, la determinazione spetta all'organo competente a nominarli.",
+    "con_marcatori": "Art. 2380-bis. (( (Amministrazione della societa').)). ((La gestione e l'organizzazione dell'impresa, ivi compresa l'istituzione dell'assetto organizzativo, amministrativo e contabile, spettano esclusivamente agli amministratori, i quali compiono le operazioni strumentali all'attuazione dell'oggetto sociale. L'amministrazione della societa' puo' essere affidata anche a non soci. Quando affidata a piu' persone, l'amministrazione e' esercitata collegialmente e gli amministratori si costituiscono in consiglio. Se lo statuto non stabilisce il numero degli amministratori, ma ne indica solamente un numero massimo e minimo, la determinazione spetta all'organo competente a nominarli.))",
+    "caratteri": 629
+  },
+  "note": [],
+  "impronta": "sha256:90abd88081dba14654167087aa54f6320f1df0741e2961c4f6c76da0744d8330"
+}

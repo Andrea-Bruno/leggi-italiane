@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "27",
+    "rubrica": "Pene pecuniarie fisse e proporzionali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art27"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La legge determina i casi nei quali le pene pecuniarie sono fisse e quelli in cui sono proporzionali. Le pene pecuniarie proporzionali non hanno limite massimo.",
+    "con_marcatori": "Art. 27. (Pene pecuniarie fisse e proporzionali) La legge determina i casi nei quali le pene pecuniarie sono fisse e quelli in cui sono proporzionali. Le pene pecuniarie proporzionali non hanno limite massimo.",
+    "caratteri": 160
+  },
+  "note": [],
+  "impronta": "sha256:28a56adac7f6f48e8f82f39fa7b89fe778f1a98e90bcfe785a0931f987b67e1e"
+}

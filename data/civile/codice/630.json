@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "630",
+    "rubrica": "Disposizioni a favore dei poveri",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art630"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni a favore dei poveri e altre simili, espresse genericamente, senza che si determini l'uso o il pubblico istituto a cui beneficio sono fatte, s'intendono fatte in favore dei poveri del luogo in cui il testatore aveva il domicilio al tempo della sua morte, e i beni sono devoluti all'ente comunale di assistenza. La precedente disposizione si applica anche quando la persona incaricata dal testatore di determinare l'uso o il pubblico istituto non puo' o non vuole accettare l'incarico.",
+    "con_marcatori": "Art. 630. (Disposizioni a favore dei poveri). Le disposizioni a favore dei poveri e altre simili, espresse genericamente, senza che si determini l'uso o il pubblico istituto a cui beneficio sono fatte, s'intendono fatte in favore dei poveri del luogo in cui il testatore aveva il domicilio al tempo della sua morte, e i beni sono devoluti all'ente comunale di assistenza. La precedente disposizione si applica anche quando la persona incaricata dal testatore di determinare l'uso o il pubblico istituto non puo' o non vuole accettare l'incarico.",
+    "caratteri": 499
+  },
+  "note": [],
+  "impronta": "sha256:2c38f0b2fda0daa528cba61a0251e5f2998455da5409f4d1fbe5bc2f76fae444"
+}

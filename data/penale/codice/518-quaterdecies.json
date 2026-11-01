@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-quaterdecies",
+    "rubrica": "Contraffazione di opere d'arte",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-quaterdecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' punito con la reclusione da uno a cinque anni e con la multa da euro 3.000 a euro 10.000: 1) chiunque, al fine di trarne profitto, contraffa', altera o riproduce un'opera di pittura, scultura o grafica ovvero un oggetto di antichita' o di interesse storico o archeologico; 2) chiunque, anche senza aver concorso nella contraffazione, alterazione o riproduzione, pone in commercio, detiene per farne commercio, introduce a questo fine nel territorio dello Stato o comunque pone in circolazione, come autentici, esemplari contraffatti, alterati o riprodotti di opere di pittura, scultura o grafica, di oggetti di antichita' o di oggetti di interesse storico o archeologico; 3) chiunque, conoscendone la falsita', autentica opere od oggetti indicati ai numeri 1) e 2) contraffatti, alterati o riprodotti; 4) chiunque, mediante altre dichiarazioni, perizie, pubblicazioni, apposizione di timbri o etichette o con qualsiasi altro mezzo, accredita o contribuisce ad accreditare, conoscendone la falsita', come autentici opere od oggetti indicati ai numeri 1) e 2) contraffatti, alterati o riprodotti. E' sempre ordinata la confisca degli esemplari contraffatti, alterati o riprodotti delle opere o degli oggetti indicati nel primo comma, salvo che si tratti di cose appartenenti a persone estranee al reato. Delle cose confiscate e' vietata, senza limiti di tempo, la vendita nelle aste dei corpi di reato.",
+    "con_marcatori": "Art. 518-quaterdecies (( (Contraffazione di opere d'arte). )) ((E' punito con la reclusione da uno a cinque anni e con la multa da euro 3.000 a euro 10.000: 1) chiunque, al fine di trarne profitto, contraffa', altera o riproduce un'opera di pittura, scultura o grafica ovvero un oggetto di antichita' o di interesse storico o archeologico; 2) chiunque, anche senza aver concorso nella contraffazione, alterazione o riproduzione, pone in commercio, detiene per farne commercio, introduce a questo fine nel territorio dello Stato o comunque pone in circolazione, come autentici, esemplari contraffatti, alterati o riprodotti di opere di pittura, scultura o grafica, di oggetti di antichita' o di oggetti di interesse storico o archeologico; 3) chiunque, conoscendone la falsita', autentica opere od oggetti indicati ai numeri 1) e 2) contraffatti, alterati o riprodotti; 4) chiunque, mediante altre dichiarazioni, perizie, pubblicazioni, apposizione di timbri o etichette o con qualsiasi altro mezzo, accredita o contribuisce ad accreditare, conoscendone la falsita', come autentici opere od oggetti indicati ai numeri 1) e 2) contraffatti, alterati o riprodotti. E' sempre ordinata la confisca degli esemplari contraffatti, alterati o riprodotti delle opere o degli oggetti indicati nel primo comma, salvo che si tratti di cose appartenenti a persone estranee al reato. Delle cose confiscate e' vietata, senza limiti di tempo, la vendita nelle aste dei corpi di reato.))",
+    "caratteri": 1403
+  },
+  "note": [],
+  "impronta": "sha256:58a992b7c41955efc4f63b6f8e2c9dbfb49aa183a3c50458bfd6e07d01fe5be0"
+}

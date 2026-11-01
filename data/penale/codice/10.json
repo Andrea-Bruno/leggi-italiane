@@ -1,0 +1,90 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "10",
+    "rubrica": "Delitto comune dello straniero all'estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art10"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Lo straniero, che, fuori dei casi indicati negli articoli 7 e 8, commette in territorio estero, a danno dello Stato o di un cittadino, un delitto per il quale la legge italiana stabilisce la pena di morte o l'ergastolo, o la reclusione non inferiore nel minimo a un anno, e' punito secondo la legge medesima, sempre che si trovi nel territorio dello Stato, e vi sia richiesta del Ministro della giustizia, ovvero istanza o querela della persona offesa. Se il delitto e' commesso a danno delle Comunita' europee, di uno Stato estero o di uno straniero, il colpevole e' punito secondo la legge italiana, a richiesta del Ministro della giustizia, sempre che: 1° si trovi nel territorio dello Stato; 2° si tratti di delitto per il quale e' stabilita la pena di morte o dell'ergastolo, ovvero della reclusione non inferiore nel minimo a tre anni; 3° l'estradizione di lui non sia stata conceduta, ovvero non sia stata accettata dal Governo dello Stato in cui egli ha commesso il delitto, o da quello dello Stato a cui egli appartiene. La richiesta del Ministro della giustizia o l'istanza o la querela della persona offesa non sono necessarie per i delitti previsti dagli articoli 317, 318, 319, 319-bis, 319-ter, 319-quater, 320, 321, 322 e 322-bis.",
+    "con_marcatori": "Art. 10. (Delitto comune dello straniero all'estero) Lo straniero, che, fuori dei casi indicati negli articoli 7 e 8, commette in territorio estero, a danno dello Stato o di un cittadino, un delitto per il quale la legge italiana stabilisce la pena di morte o l'ergastolo, o la reclusione non inferiore nel minimo a un anno, e' punito secondo la legge medesima, sempre che si trovi nel territorio dello Stato, e vi sia richiesta del Ministro della giustizia, ovvero istanza o querela della persona offesa.(5) Se il delitto e' commesso a danno delle Comunita' europee, di uno Stato estero o di uno straniero, il colpevole e' punito secondo la legge italiana, a richiesta del Ministro della giustizia, sempre che: 1° si trovi nel territorio dello Stato; 2° si tratti di delitto per il quale e' stabilita la pena di morte o dell'ergastolo, ovvero della reclusione non inferiore nel minimo a tre anni;(5) 3° l'estradizione di lui non sia stata conceduta, ovvero non sia stata accettata dal Governo dello Stato in cui egli ha commesso il delitto, o da quello dello Stato a cui egli appartiene. La richiesta del Ministro della giustizia o l'istanza o la querela della persona offesa non sono necessarie per i delitti previsti dagli articoli 317, 318, 319, 319-bis, 319-ter, 319-quater, 320, 321, 322 e 322-bis. ((352))",
+    "caratteri": 1245
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 352,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 21 febbraio 2024, n. 14",
+          "urn": "urn:nir:stato:legge:2024-02-21;14",
+          "data": "2024-02-21",
+          "numero": "14",
+          "data_gazzetta": "2024-02-22"
+        },
+        {
+          "denominazione": "articolo 10 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 21 febbraio 2024, n. 14, ha disposto (con l'art. 4, comma 6) che \"In deroga all'articolo 10 del codice penale, salvo che il reato sia commesso in danno di un cittadino albanese o dello Stato albanese, lo straniero sottoposto alle procedure di cui al comma 1 del presente articolo, che commette un delitto all'interno delle aree di cui all'articolo 1, paragrafo 1, lettera c), del Protocollo, e' punito secondo la legge italiana, se vi e' richiesta del Ministro della giustizia, fermo restando il regime di procedibilita' previsto per il delitto. La richiesta del Ministro non e' necessaria per i delitti puniti con la pena dell'ergastolo o della reclusione non inferiore nel minimo a tre anni\"."
+    }
+  ],
+  "impronta": "sha256:d3213347175357a604e2b8bf427db7e2f7f0b209e3509d5eec66cfe79998dc69"
+}

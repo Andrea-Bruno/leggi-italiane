@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "308",
+    "rubrica": "Cospirazione: casi di non punibilita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art308"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi preveduti dagli articoli 304, 305 e 307 non sono punibili coloro i quali, prima che sia commesso il delitto per cui l'accordo e' intervenuto o l'associazione e' costituita, e anteriormente all'arresto, ovvero al procedimento: 1° disciolgono o, comunque, determinano lo scioglimento dell'associazione; 2° non essendo promotori o capi, recedono dall'accordo o dall'associazione. Non sono parimenti punibili coloro i quali impediscono comunque che sia compiuta l'esecuzione del delitto per cui l'accordo e' intervenuto o l'associazione e' stata costituita.",
+    "con_marcatori": "Art. 308. (Cospirazione: casi di non punibilita') Nei casi preveduti dagli articoli 304, 305 e 307 non sono punibili coloro i quali, prima che sia commesso il delitto per cui l'accordo e' intervenuto o l'associazione e' costituita, e anteriormente all'arresto, ovvero al procedimento: 1° disciolgono o, comunque, determinano lo scioglimento dell'associazione; 2° non essendo promotori o capi, recedono dall'accordo o dall'associazione. Non sono parimenti punibili coloro i quali impediscono comunque che sia compiuta l'esecuzione del delitto per cui l'accordo e' intervenuto o l'associazione e' stata costituita.",
+    "caratteri": 562
+  },
+  "note": [],
+  "impronta": "sha256:4823cfd27acd15abada384bde32be87f4a3bcfbf9d0f87f9cefa5e16c5dea33c"
+}

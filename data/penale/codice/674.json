@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "674",
+    "rubrica": "Getto pericoloso di cose",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art674"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque getta o versa, in un luogo di pubblico transito o in un luogo privato ma di comune o di altrui uso, cose atte a offendere o imbrattare o molestare persone, ovvero, nei casi non consentiti dalla legge, provoca emissioni di gas, di vapori o di fumo, atti a cagionare tali effetti, e' punito con l'arresto fino a un mese o con l'ammenda fino a lire duemila.",
+    "con_marcatori": "Art. 674. (Getto pericoloso di cose) Chiunque getta o versa, in un luogo di pubblico transito o in un luogo privato ma di comune o di altrui uso, cose atte a offendere o imbrattare o molestare persone, ovvero, nei casi non consentiti dalla legge, provoca emissioni di gas, di vapori o di fumo, atti a cagionare tali effetti, e' punito con l'arresto fino a un mese o con l'ammenda fino a lire duemila.",
+    "caratteri": 363
+  },
+  "note": [],
+  "impronta": "sha256:b62690434706c990229c901aa436246b639b8213f51708f9ab863a9ad5e33002"
+}

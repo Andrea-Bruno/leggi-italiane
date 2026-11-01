@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "506",
+    "rubrica": "Procedure individuali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art506"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Eseguita la pubblicazione prescritta dal terzo comma dell'art. 498, non possono essere promosse procedure esecutive a istanza dei creditori. Possono tuttavia essere continuate quelle in corso, ma la parte di prezzo che residua dopo il pagamento dei creditori privilegiati e ipotecari deve essere distribuita in base allo stato di graduazione previsto dall'art. 499. I crediti a termine diventano esigibili. Resta tuttavia il beneficio del termine, quando il credito e' munito di garanzia reale su beni la cui alienazione non si renda necessaria ai fini della liquidazione, e la garanzia stessa e' idonea ad assicurare il soddisfacimento integrale del credito. Dalla data di pubblicazione dell'invito ai creditori previsto dal terzo comma dell'art. 498 e' sospeso il decorso degl'interessi dei crediti chirografari. I creditori tuttavia hanno diritto, compiuta la liquidazione, al collocamento degli interessi sugli eventuali residui.",
+    "con_marcatori": "Art. 506. (Procedure individuali). Eseguita la pubblicazione prescritta dal terzo comma dell'art. 498, non possono essere promosse procedure esecutive a istanza dei creditori. Possono tuttavia essere continuate quelle in corso, ma la parte di prezzo che residua dopo il pagamento dei creditori privilegiati e ipotecari deve essere distribuita in base allo stato di graduazione previsto dall'art. 499. I crediti a termine diventano esigibili. Resta tuttavia il beneficio del termine, quando il credito e' munito di garanzia reale su beni la cui alienazione non si renda necessaria ai fini della liquidazione, e la garanzia stessa e' idonea ad assicurare il soddisfacimento integrale del credito. Dalla data di pubblicazione dell'invito ai creditori previsto dal terzo comma dell'art. 498 e' sospeso il decorso degl'interessi dei crediti chirografari. I creditori tuttavia hanno diritto, compiuta la liquidazione, al collocamento degli interessi sugli eventuali residui.",
+    "caratteri": 933
+  },
+  "note": [],
+  "impronta": "sha256:942513a21707482015635d5e8733f37c1f1f387d084c1a82c293cf00de8aca80"
+}

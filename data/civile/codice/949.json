@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "949",
+    "rubrica": "Azione negatoria",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art949"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario puo' agire per far dichiarare l'inesistenza di diritti affermati da altri sulla cosa, quando ha motivo di temerne pregiudizio. Se sussistono anche turbative o molestie, il proprietario puo' chiedere che se ne ordini la cessazione, oltre la condanna al risarcimento del danno.",
+    "con_marcatori": "Art. 949. (Azione negatoria). Il proprietario puo' agire per far dichiarare l'inesistenza di diritti affermati da altri sulla cosa, quando ha motivo di temerne pregiudizio. Se sussistono anche turbative o molestie, il proprietario puo' chiedere che se ne ordini la cessazione, oltre la condanna al risarcimento del danno.",
+    "caratteri": 291
+  },
+  "note": [],
+  "impronta": "sha256:e9abde5fe902309fd166adb63bdcd8afaaaf128cdc49267a6d5a90c3b32e1a57"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2929",
+    "rubrica": "Nullita' del processo esecutivo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2929"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La nullita' degli atti esecutivi che hanno preceduto la vendita o l'assegnazione non ha effetto riguardo all'acquirente o all'assegnatario, salvo il caso di collusione con il creditore procedente. Gli altri creditori non sono in nessun caso tenuti a restituire quanto hanno ricevuto per effetto dell'esecuzione.",
+    "con_marcatori": "Art. 2929. (Nullita' del processo esecutivo). La nullita' degli atti esecutivi che hanno preceduto la vendita o l'assegnazione non ha effetto riguardo all'acquirente o all'assegnatario, salvo il caso di collusione con il creditore procedente. Gli altri creditori non sono in nessun caso tenuti a restituire quanto hanno ricevuto per effetto dell'esecuzione.",
+    "caratteri": 311
+  },
+  "note": [],
+  "impronta": "sha256:23fbe8ed4b7adc60ab6457d063d75b86707ff736cc2ba7a5e00f6c46a7956c00"
+}

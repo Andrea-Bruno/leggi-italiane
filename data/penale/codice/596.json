@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "596",
+    "rubrica": "Esclusione della prova liberatoria",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art596"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il colpevole dal delitto previsto dall'articolo precedente non e' ammesso a provare, a sua discolpa, la verita' o la notorieta' del fatto attribuito alla persona offesa. Tuttavia, quando l'offesa consiste nell'attribuzione di un fatto determinato, la persona offesa e l'offensore possono, d'accordo, prima che sia pronunciata sentenza irrevocabile, deferire ad un giuri' d'onore il giudizio sulla verita' del fatto medesimo. Quando l'offesa consista nell'attribuzione di un fatto determinato, la prova della verita' del fatto medesimo e' pero' sempre ammessa nel procedimento penale; 1) se la persona offesa e' un pubblico ufficiale ed il fatto ad esso attribuito si riferisce all'esercizio delle sue funzioni; 2) se per il fatto attribuito alla persona offesa e' tuttora aperto o si inizia contro di essa un procedimento penale; 3) se il querelante domanda formalmente che il giudizio si estenda ad accertare la verita' o la falsita' del fatto ad esso attribuito. Se la verita' del fatto e' provata o se per esso la persona, a cui il fatto e' attribuito, e' per esso condannata dopo l'attribuzione del fatto medesimo, l'autore dell'imputazione non e' punibile, salvo che i modi usati non rendano per se stessi applicabile la disposizione dell'articolo 595, primo comma.",
+    "con_marcatori": "Art. 596. (Esclusione della prova liberatoria) Il colpevole ((dal delitto previsto dall'articolo precedente)) non e' ammesso a provare, a sua discolpa, la verita' o la notorieta' del fatto attribuito alla persona offesa. Tuttavia, quando l'offesa consiste nell'attribuzione di un fatto determinato, la persona offesa e l'offensore possono, d'accordo, prima che sia pronunciata sentenza irrevocabile, deferire ad un giuri' d'onore il giudizio sulla verita' del fatto medesimo. Quando l'offesa consista nell'attribuzione di un fatto determinato, la prova della verita' del fatto medesimo e' pero' sempre ammessa nel procedimento penale; 1) se la persona offesa e' un pubblico ufficiale ed il fatto ad esso attribuito si riferisce all'esercizio delle sue funzioni; 2) se per il fatto attribuito alla persona offesa e' tuttora aperto o si inizia contro di essa un procedimento penale; 3) se il querelante domanda formalmente che il giudizio si estenda ad accertare la verita' o la falsita' del fatto ad esso attribuito. (6) Se la verita' del fatto e' provata o se per esso la persona, a cui il fatto e' attribuito, e' per esso condannata dopo l'attribuzione del fatto medesimo, l'autore dell'imputazione non e' punibile, salvo che i modi usati non rendano per se stessi ((applicabile la disposizione dell'articolo 595, primo comma)). (6)",
+    "caratteri": 1270
+  },
+  "note": [
+    {
+      "numero": 6,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 288",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;288",
+          "data": "1944-09-14",
+          "numero": "288",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288 ha disposto (con l'art. 1, comma 1) che le presenti modifiche sono apportate fino a quando non sia pubblicato il nuovo Codice penale."
+    }
+  ],
+  "impronta": "sha256:9434fa85094609fbae995adb99a76358e574cf7663ef8385bddf964dd8a4b8b9"
+}

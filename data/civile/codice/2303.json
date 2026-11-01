@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2303",
+    "rubrica": "Limiti alla distribuzione degli utili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2303"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non puo' farsi luogo a ripartizione di somme tra soci se non per utili realmente conseguiti. Se si verifica una perdita del capitale sociale, non puo' farsi luogo a ripartizione di utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente.",
+    "con_marcatori": "Art. 2303. (Limiti alla distribuzione degli utili). Non puo' farsi luogo a ripartizione di somme tra soci se non per utili realmente conseguiti. Se si verifica una perdita del capitale sociale, non puo' farsi luogo a ripartizione di utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente.",
+    "caratteri": 265
+  },
+  "note": [],
+  "impronta": "sha256:6ff72984a7e4f1a7698df390e543ad08f31d861308d07e50f0ef3c2fad12fafc"
+}

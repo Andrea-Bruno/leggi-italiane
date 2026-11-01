@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "215",
+    "rubrica": "Specie",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art215"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le misure di sicurezza personali si distinguono in detentive e non detentive. Sono misure di sicurezza detentive: 1° l'assegnazione a una colonia agricola o ad una casa di lavoro; 2° il ricovero in una casa di cura e di custodia; 3° il ricovero in un manicomio giudiziario; 4° il ricovero in un riformatorio giudiziario. Sono misure di sicurezza non detentive: 1° la liberta' vigilata; 2° il divieto di soggiorno in uno o piu' Comuni, o in una o piu' Provincie; 3° il divieto di frequentare osterie e pubblici spacci di bevande alcooliche; 4° l'espulsione dello straniero dallo Stato. Quando la legge stabilisce una misura di sicurezza senza indicarne la specie, il giudice dispone che si applichi la liberta' vigilata, a meno che, trattandosi di un condannato per delitto, ritenga di disporre l'assegnazione di lui a una colonia agricola o ad una casa di lavoro.",
+    "con_marcatori": "Art. 215. (Specie) Le misure di sicurezza personali si distinguono in detentive e non detentive. Sono misure di sicurezza detentive: 1° l'assegnazione a una colonia agricola o ad una casa di lavoro; 2° il ricovero in una casa di cura e di custodia; 3° il ricovero in un manicomio giudiziario; 4° il ricovero in un riformatorio giudiziario. Sono misure di sicurezza non detentive: 1° la liberta' vigilata; 2° il divieto di soggiorno in uno o piu' Comuni, o in una o piu' Provincie; 3° il divieto di frequentare osterie e pubblici spacci di bevande alcooliche; 4° l'espulsione dello straniero dallo Stato. Quando la legge stabilisce una misura di sicurezza senza indicarne la specie, il giudice dispone che si applichi la liberta' vigilata, a meno che, trattandosi di un condannato per delitto, ritenga di disporre l'assegnazione di lui a una colonia agricola o ad una casa di lavoro.",
+    "caratteri": 863
+  },
+  "note": [],
+  "impronta": "sha256:5964146ffa6f6b0dbf1d3306239f1159f0f59d3ec82bcd0be6dc8e1bb06c5ae9"
+}

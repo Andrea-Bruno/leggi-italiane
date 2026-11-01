@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "493-bis",
+    "rubrica": "Casi di perseguibilita' a querela",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art493-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I delitti previsti dagli articoli 490 e 491, quando concernono una cambiale o un titolo di credito trasmissibile per girata o al portatore, sono punibili a querela della persona offesa. Si procede d'ufficio, se i fatti previsti dagli articoli di cui al precedente comma riguardano un testamento olografo.",
+    "con_marcatori": "Art. 493-bis. (( Casi di perseguibilita' a querela. )) ((I delitti previsti dagli articoli 490 e 491, quando concernono una cambiale o un titolo di credito trasmissibile per girata o al portatore, sono punibili a querela della persona offesa. Si procede d'ufficio, se i fatti previsti dagli articoli di cui al precedente comma riguardano un testamento olografo)).",
+    "caratteri": 304
+  },
+  "note": [],
+  "impronta": "sha256:b43a7f4cdcf34a63f16f6cb275d1dae0d947ef3f23d051d6f27980184c4b04c1"
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2478-bis",
+    "rubrica": "Bilancio e distribuzione degli utili ai soci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2478-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il bilancio deve essere redatto con l'osservanza delle disposizioni di cui alla sezione IX, del capo V del presente libro. Esso e' presentato ai soci entro il termine stabilito dall'atto costitutivo e comunque non superiore a centoventi giorni dalla chiusura dell'esercizio sociale, salva la possibilita' di un maggior termine nei limiti ed alle condizioni previsti dal secondo comma dell'articolo 2364. Entro trenta giorni dalla decisione dei soci di approvazione del bilancio deve essere depositata presso l'ufficio del registro delle imprese, a norma dell'articolo 2435, copia del bilancio approvato. La decisione dei soci che approva il bilancio decide sulla distribuzione degli utili ai soci. Possono essere distribuiti esclusivamente gli utili realmente conseguiti e risultanti da bilancio regolarmente approvato. Se si verifica una perdita del capitale sociale, non puo' farsi luogo a ripartizione degli utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente. Gli utili erogati in violazione delle disposizioni del presente articolo non sono ripetibili se i soci li hanno riscossi in buona fede in base a bilancio regolarmente approvato, da cui risultano utili netti corrispondenti.",
+    "con_marcatori": "Art. 2478-bis. (Bilancio e distribuzione degli utili ai soci). ((Il bilancio deve essere redatto con l'osservanza delle disposizioni di cui alla sezione IX, del capo V del presente libro.)) Esso e' presentato ai soci entro il termine stabilito dall'atto costitutivo e comunque non superiore a centoventi giorni dalla chiusura dell'esercizio sociale, salva la possibilita' di un maggior termine nei limiti ed alle condizioni previsti dal secondo comma dell'articolo 2364. ((246)) Entro trenta giorni dalla decisione dei soci di approvazione del bilancio deve essere depositata presso l'ufficio del registro delle imprese, a norma dell'articolo 2435, copia del bilancio approvato. La decisione dei soci che approva il bilancio decide sulla distribuzione degli utili ai soci. Possono essere distribuiti esclusivamente gli utili realmente conseguiti e risultanti da bilancio regolarmente approvato. Se si verifica una perdita del capitale sociale, non puo' farsi luogo a ripartizione degli utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente. Gli utili erogati in violazione delle disposizioni del presente articolo non sono ripetibili se i soci li hanno riscossi in buona fede in base a bilancio regolarmente approvato, da cui risultano utili netti corrispondenti.",
+    "caratteri": 1218
+  },
+  "note": [
+    {
+      "numero": 246,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 agosto 2015, n. 139",
+          "urn": "urn:nir:stato:decretoLegislativo:2015-08-18;139",
+          "data": "2015-08-18",
+          "numero": "139",
+          "data_gazzetta": "2015-09-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016."
+    }
+  ],
+  "impronta": "sha256:7f89842b52491cb8098148a915b227537f5709bf6fe8a873bc44f1698a544037"
+}

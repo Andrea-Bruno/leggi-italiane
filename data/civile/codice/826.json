@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "826",
+    "rubrica": "Patrimonio dello Stato, delle provincie e dei comuni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art826"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I beni appartenenti allo Stato, alle provincie e ai comuni, i quali non siano della specie di quelli indicati dagli articoli precedenti, costituiscono il patrimonio dello Stato o, rispettivamente, delle provincie e dei comuni. Fanno parte del patrimonio indisponibile dello Stato le foreste che a norma delle leggi in materia costituiscono il demanio forestale dello Stato, le miniere, le cave e torbiere quando la disponibilita' ne e' sottratta al proprietario del fondo, le cose d'interesse storico, archeologico, paletnologico, paleontologico e artistico, da chiunque e in qualunque modo ritrovate nel sottosuolo, i beni costituenti la dotazione della Corona, le caserme, gli armamenti, gli aeromobili militari e le navi da guerra. Fanno parte del patrimonio indisponibile dello Stato o, rispettivamente, delle provincie e dei comuni, secondo la loro appartenenza, gli edifici destinati a sede di uffici pubblici, con i loro arredi, e gli altri beni destinati a un pubblico servizio.",
+    "con_marcatori": "Art. 826. (Patrimonio dello Stato, delle provincie e dei comuni). I beni appartenenti allo Stato, alle provincie e ai comuni, i quali non siano della specie di quelli indicati dagli articoli precedenti, costituiscono il patrimonio dello Stato o, rispettivamente, delle provincie e dei comuni. Fanno parte del patrimonio indisponibile dello Stato le foreste che a norma delle leggi in materia costituiscono il demanio forestale dello Stato, le miniere, le cave e torbiere quando la disponibilita' ne e' sottratta al proprietario del fondo, le cose d'interesse storico, archeologico, paletnologico, paleontologico e artistico, da chiunque e in qualunque modo ritrovate nel sottosuolo, i beni costituenti la dotazione della Corona, le caserme, gli armamenti, gli aeromobili militari e le navi da guerra. Fanno parte del patrimonio indisponibile dello Stato o, rispettivamente, delle provincie e dei comuni, secondo la loro appartenenza, gli edifici destinati a sede di uffici pubblici, con i loro arredi, e gli altri beni destinati a un pubblico servizio.",
+    "caratteri": 986
+  },
+  "note": [],
+  "impronta": "sha256:9e767284f6750b16263259e5052192bbd879ccdd4b4d1812ef3e33b6871e8546"
+}

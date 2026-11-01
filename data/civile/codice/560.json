@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "560",
+    "rubrica": "Riduzione del legato o della donazione d'immobili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art560"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando oggetto del legato o della donazione da ridurre e' un immobile, la riduzione si fa separando dall'immobile medesimo la parte occorrente per integrare la quota riservata, se cio' puo' avvenire comodamente. Se la separazione non puo' farsi comodamente e il legatario o il donatario ha nell'immobile un'eccedenza maggiore del quarto della porzione disponibile, l'immobile si deve lasciare per intero nell'eredita', salvo il diritto di conseguire il valore della porzione disponibile. Se l'eccedenza non supera il quarto, il legatario o il donatario puo' ritenere tutto l'immobile, compensando in danaro i legittimari. Il legatario o il donatario che e' legittimario puo' ritenere tutto l'immobile, purche' il valore di esso non superi l'importo della porzione disponibile e della quota che gli spetta come legittimario.",
+    "con_marcatori": "Art. 560. (Riduzione del legato o della donazione d'immobili). Quando oggetto del legato o della donazione da ridurre e' un immobile, la riduzione si fa separando dall'immobile medesimo la parte occorrente per integrare la quota riservata, se cio' puo' avvenire comodamente. Se la separazione non puo' farsi comodamente e il legatario o il donatario ha nell'immobile un'eccedenza maggiore del quarto della porzione disponibile, l'immobile si deve lasciare per intero nell'eredita', salvo il diritto di conseguire il valore della porzione disponibile. Se l'eccedenza non supera il quarto, il legatario o il donatario puo' ritenere tutto l'immobile, compensando in danaro i legittimari. Il legatario o il donatario che e' legittimario puo' ritenere tutto l'immobile, purche' il valore di esso non superi l'importo della porzione disponibile e della quota che gli spetta come legittimario.",
+    "caratteri": 823
+  },
+  "note": [],
+  "impronta": "sha256:8647ad6a9dac1ef35f10ac37fe524d594b8abcb2966455a1b0b9b3b163438315"
+}

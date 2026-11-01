@@ -1,0 +1,144 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "8",
+    "rubrica": "Delitto politico commesso all'estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art8"
+  },
+  "stato": {
+    "codice": "da_verificare",
+    "inapplicabile": null,
+    "certezza": "bassa",
+    "motivazione": "Una nota di errata corrige esclude la dichiarazione di illegittimita' riportata in un'altra nota: lo stato va verificato sul testo ufficiale.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "revoca_illegittimita",
+        "nota": 159,
+        "ambito": "intero"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 158,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il cittadino o lo straniero, che commette in territorio estero un delitto politico non compreso tra quelli indicati nel numero 1° dell'articolo precedente, e' punito secondo la legge italiana, a richiesta del Ministro della giustizia. Se si tratta di delitto punibile a querela della persona offesa, occorre, oltre tale richiesta, anche la querela. Agli effetti della legge penale, e' delitto politico ogni delitto, che offende un interesse politico dello Stato, ovvero un diritto politico del cittadino. E' altresi' considerato delitto politico il delitto comune determinato, in tutto o in parte, da motivi politici.",
+    "con_marcatori": "Art. 8. (Delitto politico commesso all'estero) Il cittadino o lo straniero, che commette in territorio estero un delitto politico non compreso tra quelli indicati nel numero 1° dell'articolo precedente, e' punito secondo la legge italiana, a richiesta del Ministro della giustizia. Se si tratta di delitto punibile a querela della persona offesa, occorre, oltre tale richiesta, anche la querela.(158) ((159)) Agli effetti della legge penale, e' delitto politico ogni delitto, che offende un interesse politico dello Stato, ovvero un diritto politico del cittadino. E' altresi' considerato delitto politico il delitto comune determinato, in tutto o in parte, da motivi politici. (18) (24)",
+    "caratteri": 617
+  },
+  "note": [
+    {
+      "numero": 18,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 19 dicembre 1953, n. 922",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1953-12-19;922",
+          "data": "1953-12-19",
+          "numero": "922",
+          "data_gazzetta": "1953-12-21"
+        },
+        {
+          "denominazione": "art. 8 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 19 dicembre 1953, n. 922 ha disposto (con l'art. 2, comma 1, lettera a)) che \"E' concesso indulto: a) per i seguenti reati commessi dall'8 settembre 1943 al 18 giugno 1946: reati politici, ai sensi dell'art. 8 del Codice penale, e i reati connessi; nonche' i reati inerenti a fatti bellici, commessi da coloro che abbiano appartenuto a formazioni armate\"."
+    },
+    {
+      "numero": 24,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 8 del Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 11 luglio 1959, n. 460",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1959-07-11;460",
+          "data": "1959-07-11",
+          "numero": "460",
+          "data_gazzetta": "1959-07-11"
+        },
+        {
+          "denominazione": "art. 1, comma 1, lettera b) del D.P.R. 11 luglio 1959, n. 460",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1959-07-11;460",
+          "data": "1959-07-11",
+          "numero": "460",
+          "data_gazzetta": "1959-07-11"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 11 luglio 1959, n. 460 ha disposto (con l'art. 1, comma 1, lettere a) e b)) che \"E' concessa amnistia: a) per i reati politici ai sensi dell'art. 8 del Codice penale, commessi dal 25 luglio 1943 al 18 giugno 1946; b) per i reati politici ai sensi dell'art. 8 del Codice penale, nonche' per i reati elettorali, commessi successivamente ai 18 giugno 1946 e punibili con pena detentiva non superiore nel massimo a quattro anni, ovvero con pena pecuniaria sola o congiunta a detta pena\". Ha inoltre disposto (con l'art. 15, comma 1) che l'amnistia concessa dall'art. 1, comma 1, lettera b) del D.P.R. 11 luglio 1959, n. 460 ha efficacia a tutto il 23 ottobre 1958."
+    },
+    {
+      "numero": 158,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 8, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1998-04-06",
+        "numero": "98"
+      },
+      "testo": "La Corte Costituzionale con sentenza 26 marzo - 6 aprile 1998, n. 98 (in G.U. 1ª s.s. 15/04/1998, n. 15) ha dichiarato \"l'illegittimita' costituzionale dell'art. 8, secondo comma, del codice penale, nella parte in cui non prevede la non trasmissibilita' agli eredi dell'obbligo di rimborsare le spese del processo penale\"."
+    },
+    {
+      "numero": 159,
+      "effetto": "revoca_illegittimita",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1998-04-06",
+        "numero": "98"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 26 marzo - 6 aprile 1998, n. 98 (in G.U. 1ª s.s. 15/04/1998, n. 15) come modificata dall'errata corrige in G.U. 1ª s.s. 13/05/1998, n. 19, non prevede piu' l'illegittimita' costituzionale del presente articolo."
+    }
+  ],
+  "impronta": "sha256:a050f5f6543f3636dc16a6322319df0ba529cbe411f94917b2642728a74de459"
+}

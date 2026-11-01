@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1700",
+    "rubrica": "Trasporto cumulativo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1700"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei trasporti che sono assunti cumulativamente da piu' vettori successivi con unico contratto, i vettori rispondono in solido per l'esecuzione del contratto dal luogo originario di partenza fino al luogo di destinazione. Il vettore chiamato a rispondere di un fatto non proprio puo' agire in regresso contro gli altri vettori, singolarmente o cumulativamente. Se risulta che il fatto dannoso e' avvenuto nel percorso di uno dei vettori, questi e' tenuto al risarcimento integrale; in caso contrario, al risarcimento sono tenuti tutti i vettori in parti proporzionali ai percorsi, esclusi quei vettori che provino che il danno non e' avvenuto nel proprio percorso.",
+    "con_marcatori": "Art. 1700. (Trasporto cumulativo). Nei trasporti che sono assunti cumulativamente da piu' vettori successivi con unico contratto, i vettori rispondono in solido per l'esecuzione del contratto dal luogo originario di partenza fino al luogo di destinazione. Il vettore chiamato a rispondere di un fatto non proprio puo' agire in regresso contro gli altri vettori, singolarmente o cumulativamente. Se risulta che il fatto dannoso e' avvenuto nel percorso di uno dei vettori, questi e' tenuto al risarcimento integrale; in caso contrario, al risarcimento sono tenuti tutti i vettori in parti proporzionali ai percorsi, esclusi quei vettori che provino che il danno non e' avvenuto nel proprio percorso.",
+    "caratteri": 663
+  },
+  "note": [],
+  "impronta": "sha256:5f2457a6d9cac64d15563285fb85131078520ee7ba4aecb5a2ae2f17b1192c77"
+}

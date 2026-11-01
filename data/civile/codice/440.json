@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "440",
+    "rubrica": "Cessazione, riduzione e aumento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art440"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se dopo l'assegnazione degli alimenti mutano le condizioni economiche di chi li somministra o di chi li riceve, l'autorita' giudiziaria provvede per la cessazione, la riduzione o l'aumento, secondo le circostanze. Gli alimenti possono pure essere ridotti per la condotta disordinata o riprovevole dell'alimentato. Se, dopo assegnati gli alimenti, consta che uno degli obbligati di grado anteriore e' in condizione di poterli somministrare, l'autorita' giudiziaria non puo' liberare l'obbligato di grado posteriore se non quando abbia imposto all'obbligato di grado anteriore di somministrare gli alimenti.",
+    "con_marcatori": "Art. 440. (Cessazione, riduzione e aumento). Se dopo l'assegnazione degli alimenti mutano le condizioni economiche di chi li somministra o di chi li riceve, l'autorita' giudiziaria provvede per la cessazione, la riduzione o l'aumento, secondo le circostanze. Gli alimenti possono pure essere ridotti per la condotta disordinata o riprovevole dell'alimentato. Se, dopo assegnati gli alimenti, consta che uno degli obbligati di grado anteriore e' in condizione di poterli somministrare, l'autorita' giudiziaria non puo' liberare l'obbligato di grado posteriore se non quando abbia imposto all'obbligato di grado anteriore di somministrare gli alimenti.",
+    "caratteri": 605
+  },
+  "note": [],
+  "impronta": "sha256:c046871ef125702d1da4a0cec509e1f5e642689d60e177c38f9f70d4cad5e07d"
+}

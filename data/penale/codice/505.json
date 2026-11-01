@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "505",
+    "rubrica": "Serrata o sciopero a scopo di solidarieta' o di protesta",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art505"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il datore di lavoro o i lavoratori, che, fuori dei casi indicati nei due articoli precedenti, commettono uno dei fatti preveduti dall'articolo 502 soltanto per solidarieta' con altri datori di lavoro o con altri lavoratori ovvero soltanto per protesta, soggiacciono alle pene ivi stabilite.",
+    "con_marcatori": "Art. 505. (Serrata o sciopero a scopo di solidarieta' o di protesta) Il datore di lavoro o i lavoratori, che, fuori dei casi indicati nei due articoli precedenti, commettono uno dei fatti preveduti dall'articolo 502 soltanto per solidarieta' con altri datori di lavoro o con altri lavoratori ovvero soltanto per protesta, soggiacciono alle pene ivi stabilite.",
+    "caratteri": 290
+  },
+  "note": [],
+  "impronta": "sha256:00b6d23cf0fe31149567b5bfd7ca4d8898011e0a0b48012b042ce42de228234f"
+}

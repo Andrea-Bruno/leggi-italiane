@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2152",
+    "rubrica": "Miglioramenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2152"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il concedente che intende compiere miglioramenti sul podere deve valersi del lavoro dei componenti della famiglia colonica che siano forniti della necessaria capacita' lavorativa, e questi sono tenuti a prestarlo verso compenso. La misura del compenso, se non e' stabilita dalle norme corporative, dalla convenzione o dagli usi, e' determinata dal giudice, sentite, ove occorra, le associazioni professionali e tenuto conto dell'eventuale incremento di reddito realizzato dal mezzadro.",
+    "con_marcatori": "Art. 2152. (Miglioramenti). Il concedente che intende compiere miglioramenti sul podere deve valersi del lavoro dei componenti della famiglia colonica che siano forniti della necessaria capacita' lavorativa, e questi sono tenuti a prestarlo verso compenso. La misura del compenso, se non e' stabilita dalle norme corporative, dalla convenzione o dagli usi, e' determinata dal giudice, sentite, ove occorra, le associazioni professionali e tenuto conto dell'eventuale incremento di reddito realizzato dal mezzadro.",
+    "caratteri": 485
+  },
+  "note": [],
+  "impronta": "sha256:e76958fcfc1cf2a054292fe3ecb7dfe79fd1b140d82354d1cdee4cf9ac94033d"
+}

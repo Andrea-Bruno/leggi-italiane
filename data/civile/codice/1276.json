@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1276",
+    "rubrica": "Invalidita' della nuova obbligazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1276"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'obbligazione assunta dal nuovo debitore verso il creditore, e' dichiarata nulla o annullata, e il creditore aveva liberato il debitore originario, l'obbligazione di questo rivive, ma il creditore non puo' valersi delle garanzie prestate da terzi.",
+    "con_marcatori": "Art. 1276. (Invalidita' della nuova obbligazione). Se l'obbligazione assunta dal nuovo debitore verso il creditore, e' dichiarata nulla o annullata, e il creditore aveva liberato il debitore originario, l'obbligazione di questo rivive, ma il creditore non puo' valersi delle garanzie prestate da terzi.",
+    "caratteri": 251
+  },
+  "note": [],
+  "impronta": "sha256:3acdece7c8fb9121d48ce77e23434e9e95508f7bfee3918b4021cca6022142a2"
+}

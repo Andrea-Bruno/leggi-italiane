@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-septies",
+    "rubrica": "Impedimento del controllo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque, negando l'accesso, predisponendo ostacoli o mutando artificiosamente lo stato dei luoghi, impedisce, intralcia o elude l'attivita' di vigilanza e controllo ambientali e di sicurezza e igiene del lavoro, ovvero ne compromette gli esiti, e' punito con la reclusione da sei mesi a tre anni.",
+    "con_marcatori": "Art. 452-septies. (( (Impedimento del controllo).)) ((Salvo che il fatto costituisca piu' grave reato, chiunque, negando l'accesso, predisponendo ostacoli o mutando artificiosamente lo stato dei luoghi, impedisce, intralcia o elude l'attivita' di vigilanza e controllo ambientali e di sicurezza e igiene del lavoro, ovvero ne compromette gli esiti, e' punito con la reclusione da sei mesi a tre anni.))",
+    "caratteri": 346
+  },
+  "note": [],
+  "impronta": "sha256:1999f07b0b3eade7f563ea2c4333768987aabf22edb7a81a5bec8617de049f8f"
+}

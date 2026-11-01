@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "812",
+    "rubrica": "Distinzione dei beni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art812"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono beni immobili il suolo, le sorgenti e i corsi d'acqua, gli alberi, gli edifici e le altre costruzioni, anche se unite al suolo a scopo transitorio, e in genere tutto cio' che naturalmente o artificialmente e' incorporato al suolo. Sono reputati immobili i mulini, i bagni e gli altri edifici galleggianti quando sono saldamente assicurati alla riva o all'alveo o sono destinati ad esserlo in modo permanente per la loro utilizzazione. Sono mobili tutti gli altri beni.",
+    "con_marcatori": "Art. 812. (Distinzione dei beni). Sono beni immobili il suolo, le sorgenti e i corsi d'acqua, gli alberi, gli edifici e le altre costruzioni, anche se unite al suolo a scopo transitorio, e in genere tutto cio' che naturalmente o artificialmente e' incorporato al suolo. Sono reputati immobili i mulini, i bagni e gli altri edifici galleggianti quando sono saldamente assicurati alla riva o all'alveo o sono destinati ad esserlo in modo permanente per la loro utilizzazione. Sono mobili tutti gli altri beni.",
+    "caratteri": 473
+  },
+  "note": [],
+  "impronta": "sha256:2b68416a510aeeb02d788dbe33fc4ef7e883a35aa84a98be63de8e378164015d"
+}

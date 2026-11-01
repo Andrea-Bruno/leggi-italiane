@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1046",
+    "rubrica": "Norme per l'esecuzione delle opere",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1046"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nell'esecuzione delle opere indicate dagli articoli precedenti sono applicabili le disposizioni del secondo comma dell'art. 1033 e degli articoli 1035 e 1036.",
+    "con_marcatori": "Art. 1046. (Norme per l'esecuzione delle opere). Nell'esecuzione delle opere indicate dagli articoli precedenti sono applicabili le disposizioni del secondo comma dell'art. 1033 e degli articoli 1035 e 1036.",
+    "caratteri": 158
+  },
+  "note": [],
+  "impronta": "sha256:99b6b988f8e5e098b2ed96109014f68febaa6acc840fbb994b351b7ffc73ccc5"
+}

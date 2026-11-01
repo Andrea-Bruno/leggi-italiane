@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2873",
+    "rubrica": "Esclusione della riduzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2873"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non e' ammessa domanda di riduzione riguardo alla quantita' dei beni ne' riguardo alla somma, se la quantita' dei beni o la somma e' stata determinata per convenzione o per sentenza. Tuttavia, se sono stati eseguiti pagamenti parziali cosi' da estinguere almeno il quinto del debito originario, si puo' chiedere una riduzione proporzionale per quanto riguarda la somma. Nel caso d'ipoteca iscritta su un edificio, il costituente che dopo l'iscrizione ha eseguito sopraelevazioni puo' chiedere che l'ipoteca sia ridotta, per modo che le sopraelevazioni ne restino esenti in tutto o in parte, osservato il limite stabilito dall'art. 2876 per il valore della cautela.",
+    "con_marcatori": "Art. 2873. (Esclusione della riduzione). Non e' ammessa domanda di riduzione riguardo alla quantita' dei beni ne' riguardo alla somma, se la quantita' dei beni o la somma e' stata determinata per convenzione o per sentenza. Tuttavia, se sono stati eseguiti pagamenti parziali cosi' da estinguere almeno il quinto del debito originario, si puo' chiedere una riduzione proporzionale per quanto riguarda la somma. Nel caso d'ipoteca iscritta su un edificio, il costituente che dopo l'iscrizione ha eseguito sopraelevazioni puo' chiedere che l'ipoteca sia ridotta, per modo che le sopraelevazioni ne restino esenti in tutto o in parte, osservato il limite stabilito dall'art. 2876 per il valore della cautela.",
+    "caratteri": 664
+  },
+  "note": [],
+  "impronta": "sha256:89e39026bdbc88e34ee136f0cdd3418fb7d49274c914fefd43e77c7cec281cb1"
+}

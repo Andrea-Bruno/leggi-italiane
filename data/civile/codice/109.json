@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "109",
+    "rubrica": "Celebrazione in un comune diverso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art109"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando vi e' necessita' o convenienza di celebrare il matrimonio in un comune diverso da quello indicato nell'art. 106, l'ufficiale dello stato civile, trascorso il termine stabilito nel primo comma dell'art. 99, richiede per iscritto l'ufficiale del luogo dove il matrimonio si deve celebrare. La richiesta e' menzionata nell'atto di celebrazione e in esso inserita. Nel giorno successivo alla celebrazione del matrimonio, l'ufficiale davanti al quale esso fu celebrato invia, per la trascrizione, copia autentica dell'atto all'ufficiale da cui fu fatta la richiesta.",
+    "con_marcatori": "Art. 109. (Celebrazione in un comune diverso). Quando vi e' necessita' o convenienza di celebrare il matrimonio in un comune diverso da quello indicato nell'art. 106, l'ufficiale dello stato civile, trascorso il termine stabilito nel primo comma dell'art. 99, richiede per iscritto l'ufficiale del luogo dove il matrimonio si deve celebrare. La richiesta e' menzionata nell'atto di celebrazione e in esso inserita. Nel giorno successivo alla celebrazione del matrimonio, l'ufficiale davanti al quale esso fu celebrato invia, per la trascrizione, copia autentica dell'atto all'ufficiale da cui fu fatta la richiesta.",
+    "caratteri": 568
+  },
+  "note": [],
+  "impronta": "sha256:50e1874d7df4a831465831d0c8c6e7a36003c0dfe4a4b90b5ad413a26d6762be"
+}

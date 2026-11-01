@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "857",
+    "rubrica": "Terreni soggetti a bonifica",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art857"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per il conseguimento di fini igienici, demografici, economici o di altri fini sociali possono essere dichiarati soggetti a bonifica i terreni che si trovano in un comprensorio, in cui sono laghi, stagni, paludi e terre paludose, ovvero costituito da terreni montani dissestati nei riguardi idrogeologici e forestali, o da terreni estensivamente coltivati per gravi cause d'ordine fisico o sociale, i quali siano suscettibili di una radicale trasformazione dell'ordinamento produttivo.",
+    "con_marcatori": "Art. 857. (Terreni soggetti a bonifica). Per il conseguimento di fini igienici, demografici, economici o di altri fini sociali possono essere dichiarati soggetti a bonifica i terreni che si trovano in un comprensorio, in cui sono laghi, stagni, paludi e terre paludose, ovvero costituito da terreni montani dissestati nei riguardi idrogeologici e forestali, o da terreni estensivamente coltivati per gravi cause d'ordine fisico o sociale, i quali siano suscettibili di una radicale trasformazione dell'ordinamento produttivo.",
+    "caratteri": 484
+  },
+  "note": [],
+  "impronta": "sha256:c393ecf770a543779da54b86d1767c4e3c29847cf1e1baa74e51a1638ddf3a55"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "649-bis",
+    "rubrica": "Casi di procedibilita' d'ufficio",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art649-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per i fatti perseguibili a querela preveduti dagli articoli 640, terzo comma, 640-ter, quarto comma, e per i fatti di cui all'articolo 646, secondo comma, o aggravati dalle circostanze di cui all'articolo 61, primo comma, numero 11, si procede d'ufficio qualora ricorrano circostanze aggravanti ad effetto speciale , diverse dalla recidiva, ovvero se la persona offesa e' incapace per eta' o per infermita' ....",
+    "con_marcatori": "Art. 649-bis (Casi di procedibilita' d'ufficio). Per i fatti perseguibili a querela preveduti dagli articoli 640, terzo comma, 640-ter, quarto comma, e per i fatti di cui all'articolo 646, secondo comma, o aggravati dalle circostanze di cui all'articolo 61, primo comma, numero 11, si procede d'ufficio qualora ricorrano circostanze aggravanti ad effetto speciale ((, diverse dalla recidiva,)) ovvero se la persona offesa e' incapace per eta' o per infermita' ((...)).",
+    "caratteri": 411
+  },
+  "note": [],
+  "impronta": "sha256:8b84d43d08a3ad5bb54dea98e1fbd142c136d21d8920817f55fcb99dda23fe7b"
+}

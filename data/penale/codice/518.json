@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518",
+    "rubrica": "Pubblicazione della sentenza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La condanna per alcuno dei delitti preveduti dagli articoli 501, 514, 515, 517, 517-quater, 517-sexies e 517-septies ovvero per i reati di cui agli articoli 416 e 416-bis se l'associazione e' diretta alla commissione dei delitti previsti dal capo II-bis del presente titolo importa la pubblicazione della sentenza.",
+    "con_marcatori": "Art. 518. (Pubblicazione della sentenza) La condanna per alcuno dei delitti preveduti dagli articoli 501, 514, 515, ((517, 517-quater, 517-sexies e 517-septies ovvero per i reati di cui agli articoli 416 e 416-bis se l'associazione e' diretta alla commissione dei delitti previsti dal capo II-bis del presente titolo)) importa la pubblicazione della sentenza.",
+    "caratteri": 314
+  },
+  "note": [],
+  "impronta": "sha256:a2ffeab5bbe973ec6a064e5273c336c0c4d321da68b6a177b9b28c91e7d29627"
+}

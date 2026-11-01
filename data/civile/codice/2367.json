@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2367",
+    "rubrica": "Convocazione su richiesta di soci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2367"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori o il consiglio di gestione devono convocare senza ritardo l'assemblea, quando ne e' fatta domanda da tanti soci che rappresentino almeno il ventesimo del capitale sociale nelle societa' che fanno ricorso al mercato del capitale di rischio e il decimo del capitale sociale nelle altre o la minore percentuale prevista nello statuto, e nella domanda sono indicati gli argomenti da trattare. Se gli amministratori o il consiglio di gestione, oppure in loro vece i sindaci o il consiglio di sorveglianza o il comitato per il controllo sulla gestione, non provvedono, il tribunale, sentiti i componenti degli organi amministrativi e di controllo, ove il rifiuto di provvedere risulti ingiustificato, ordina con decreto la convocazione dell'assemblea, designando la persona che deve presiederla. La convocazione su richiesta di soci non e' ammessa per argomenti sui quali l'assemblea delibera, a norma di legge, su proposta degli amministratori o sulla base di un progetto o di una relazione da essi predisposta.",
+    "con_marcatori": "Art. 2367. (Convocazione su richiesta di soci). Gli amministratori o il consiglio di gestione devono convocare senza ritardo l'assemblea, quando ne e' fatta domanda da tanti soci che rappresentino ((almeno il ventesimo del capitale sociale nelle societa' che fanno ricorso al mercato del capitale di rischio e il decimo del capitale sociale nelle altre)) o la minore percentuale prevista nello statuto, e nella domanda sono indicati gli argomenti da trattare. Se gli amministratori o il consiglio di gestione, oppure in loro vece i sindaci o il consiglio di sorveglianza o il comitato per il controllo sulla gestione, non provvedono, il tribunale, sentiti i componenti degli organi amministrativi e di controllo, ove il rifiuto di provvedere risulti ingiustificato, ordina con decreto la convocazione dell'assemblea, designando la persona che deve presiederla. La convocazione su richiesta di soci non e' ammessa per argomenti sui quali l'assemblea delibera, a norma di legge, su proposta degli amministratori o sulla base di un progetto o di una relazione da essi predisposta.",
+    "caratteri": 1025
+  },
+  "note": [],
+  "impronta": "sha256:f9733de2699e778cadf78f843eecca9733971d1b86513a6ef1bd2f85fff7a2b3"
+}

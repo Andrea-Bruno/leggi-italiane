@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "366",
+    "rubrica": "Rifiuto di uffici legalmente dovuti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art366"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, nominato dall'Autorita' giudiziaria perito, interprete, ovvero custode di cose sottoposte a sequestro dal giudice penale, ottiene con mezzi fraudolenti l'esenzione dall'obbligo di comparire o di prestare il suo ufficio, e' punito con la reclusione fino a sei mesi o con la multa da lire trecento a cinquemila. Le stesse pene si applicano a chi, chiamato dinanzi all'Autorita' giudiziaria per adempiere ad alcuna delle predette funzioni, rifiuta di dare le proprie generalita', ovvero di prestare il giuramento richiesto, ovvero di assumere o di adempiere le funzioni medesime. Le disposizioni precedenti si applicano alla persona chiamata a deporre come testimonio dinanzi all'Autorita' giudiziaria e ad ogni altra persona chiamata ad esercitare una funzione giudiziaria. Se il colpevole e' un perito o un interprete, la condanna importa l'interdizione dalla professione o dall'arte.",
+    "con_marcatori": "Art. 366. (Rifiuto di uffici legalmente dovuti) Chiunque, nominato dall'Autorita' giudiziaria perito, interprete, ovvero custode di cose sottoposte a sequestro dal giudice penale, ottiene con mezzi fraudolenti l'esenzione dall'obbligo di comparire o di prestare il suo ufficio, e' punito con la reclusione fino a sei mesi o con la multa da lire trecento a cinquemila. Le stesse pene si applicano a chi, chiamato dinanzi all'Autorita' giudiziaria per adempiere ad alcuna delle predette funzioni, rifiuta di dare le proprie generalita', ovvero di prestare il giuramento richiesto, ovvero di assumere o di adempiere le funzioni medesime. Le disposizioni precedenti si applicano alla persona chiamata a deporre come testimonio dinanzi all'Autorita' giudiziaria e ad ogni altra persona chiamata ad esercitare una funzione giudiziaria. Se il colpevole e' un perito o un interprete, la condanna importa l'interdizione dalla professione o dall'arte.",
+    "caratteri": 893
+  },
+  "note": [],
+  "impronta": "sha256:fae9b65d0be98a00a691f94dc3b1e85175b3bc2a31cf663bba4414c4f12541b2"
+}

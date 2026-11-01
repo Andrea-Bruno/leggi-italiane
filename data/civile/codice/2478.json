@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2478",
+    "rubrica": "Libri sociali obbligatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2478"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Oltre i libri e le altre scritture contabili prescritti nell'articolo 2214, la societa' deve tenere: 1) NUMERO ABROGATO DAL D.L. 29 NOVEMBRE 2008, N. 185, CONVERTITO CON MODIFICAZIONI, DALLA L. 28 GENNAIO 2009, N. 2; 2) il libro delle decisioni dei soci, nel quale sono trascritti senza indugio sia i verbali delle assemblee, anche se redatti per atto pubblico, sia le decisioni prese ai sensi del primo periodo del terzo comma dell'articolo 2479; la relativa documentazione e' conservata dalla societa'; 3) il libro delle decisioni degli amministratori; 4) il libro delle decisioni del collegio sindacale nominato ai sensi dell'articolo 2477. I libri indicati nei numeri 2) e 3) del primo comma devono essere tenuti a cura degli amministratori; il libro indicato nel numero 4) del primo comma deve essere tenuto a cura dei sindaci. . .. I contratti della societa' con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della societa' solo se risultano dal libro indicato nel numero 3 del primo comma o da atto scritto avente data certa anteriore al pignoramento.",
+    "con_marcatori": "Art. 2478. (Libri sociali obbligatori). Oltre i libri e le altre scritture contabili prescritti nell'articolo 2214, la societa' deve tenere: 1) NUMERO ABROGATO DAL D.L. 29 NOVEMBRE 2008, N. 185, CONVERTITO CON MODIFICAZIONI, DALLA L. 28 GENNAIO 2009, N. 2; 2) il libro delle decisioni dei soci, nel quale sono trascritti senza indugio sia i verbali delle assemblee, anche se redatti per atto pubblico, sia le decisioni prese ai sensi del primo periodo del terzo comma dell'articolo 2479; la relativa documentazione e' conservata dalla societa'; 3) il libro delle decisioni degli amministratori; 4) il libro delle decisioni del collegio sindacale ((nominato)) ai sensi dell'articolo 2477. I libri indicati nei numeri 2) e 3) del primo comma devono essere tenuti a cura degli amministratori; il libro indicato nel numero 4) del primo comma deve essere tenuto a cura dei sindaci((. . .)). I contratti della societa' con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della societa' solo se risultano dal libro indicato nel numero 3 del primo comma o da atto scritto avente data certa anteriore al pignoramento.",
+    "caratteri": 1097
+  },
+  "note": [],
+  "impronta": "sha256:52340211143e7bb44994fdd5e27a55ff1b8975c2c086826268f44eceb259d2cb"
+}

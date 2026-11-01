@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "820",
+    "rubrica": "Frutti naturali e frutti civili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art820"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono frutti naturali quelli che provengono direttamente dalla cosa, vi concorra o no l'opera dell'uomo, come i prodotti agricoli, la legna, i parti degli animali, i prodotti delle miniere, cave e torbiere. Finche' non avviene la separazione, i frutti formano parte della cosa. Si puo' tuttavia disporre di essi come di cosa mobile futura. Sono frutti civili quelli che si ritraggono dalla cosa come corrispettivo del godimento che altri ne abbia. Tali sono gli interessi dei capitali, i canoni enfiteutici, le rendite vitalizie e ogni altra rendita, il corrispettivo delle locazioni.",
+    "con_marcatori": "Art. 820. (Frutti naturali e frutti civili). Sono frutti naturali quelli che provengono direttamente dalla cosa, vi concorra o no l'opera dell'uomo, come i prodotti agricoli, la legna, i parti degli animali, i prodotti delle miniere, cave e torbiere. Finche' non avviene la separazione, i frutti formano parte della cosa. Si puo' tuttavia disporre di essi come di cosa mobile futura. Sono frutti civili quelli che si ritraggono dalla cosa come corrispettivo del godimento che altri ne abbia. Tali sono gli interessi dei capitali, i canoni enfiteutici, le rendite vitalizie e ogni altra rendita, il corrispettivo delle locazioni.",
+    "caratteri": 583
+  },
+  "note": [],
+  "impronta": "sha256:b3998c3ecf9ef6dc589b82d3bb7f601c794172afae2405a23649d5428ac75149"
+}

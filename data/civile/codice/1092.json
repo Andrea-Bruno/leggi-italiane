@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1092",
+    "rubrica": "Deficienza dell'acqua",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1092"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La deficienza dell'acqua deve essere sopportata da chi ha diritto di prenderla e di usarla nel tempo in cui la deficienza si verifica. Tra diversi utenti la deficienza dell'acqua deve essere sopportata prima da quelli che hanno titolo o possesso piu' recente, e tra utenti in parita' di condizione dall'ultimo utente. Tuttavia l'autorita' giudiziaria, con provvedimento in camera di consiglio, sentiti gli uffici tecnici competenti, puo' modificare o limitare i turni di utilizzazione e dare le altre disposizioni necessarie in relazione alla quantita' di acqua disponibile, agli usi e alle colture a cui l'acqua e' destinata. Il concedente dell'acqua e' tenuto a una proporzionale diminuzione del corrispettivo per la deficienza dell'acqua verificatasi per causa naturale o per fatto altrui. Parimenti si fa luogo alle dovute indennita' in conseguenza delle modificazioni o limitazioni di turni, che siano state disposte dall'autorita' giudiziaria.",
+    "con_marcatori": "Art. 1092. (Deficienza dell'acqua). La deficienza dell'acqua deve essere sopportata da chi ha diritto di prenderla e di usarla nel tempo in cui la deficienza si verifica. Tra diversi utenti la deficienza dell'acqua deve essere sopportata prima da quelli che hanno titolo o possesso piu' recente, e tra utenti in parita' di condizione dall'ultimo utente. Tuttavia l'autorita' giudiziaria, con provvedimento in camera di consiglio, sentiti gli uffici tecnici competenti, puo' modificare o limitare i turni di utilizzazione e dare le altre disposizioni necessarie in relazione alla quantita' di acqua disponibile, agli usi e alle colture a cui l'acqua e' destinata. Il concedente dell'acqua e' tenuto a una proporzionale diminuzione del corrispettivo per la deficienza dell'acqua verificatasi per causa naturale o per fatto altrui. Parimenti si fa luogo alle dovute indennita' in conseguenza delle modificazioni o limitazioni di turni, che siano state disposte dall'autorita' giudiziaria.",
+    "caratteri": 949
+  },
+  "note": [],
+  "impronta": "sha256:35692d0a9b0cfbf4bbb3f2f1c6f7ba1fdcab5fe880305296a649113b21648960"
+}

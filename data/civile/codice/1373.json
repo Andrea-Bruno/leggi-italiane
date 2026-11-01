@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1373",
+    "rubrica": "Recesso unilaterale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1373"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se a una delle parti e' attribuita la facolta' di recedere dal contratto, tale facolta' puo' essere esercitata finche' il contratto non abbia avuto un principio di esecuzione. Nei contratti a esecuzione continuata o periodica, tale facolta' puo' essere esercitata anche successivamente, ma il recesso non ha effetto per le prestazioni gia' eseguite o in corso di esecuzione. Qualora sia stata stipulata la prestazione di un corrispettivo per il recesso, questo ha effetto quando la prestazione e' eseguita. E' salvo in ogni caso il patto contrario.",
+    "con_marcatori": "Art. 1373. (Recesso unilaterale). Se a una delle parti e' attribuita la facolta' di recedere dal contratto, tale facolta' puo' essere esercitata finche' il contratto non abbia avuto un principio di esecuzione. Nei contratti a esecuzione continuata o periodica, tale facolta' puo' essere esercitata anche successivamente, ma il recesso non ha effetto per le prestazioni gia' eseguite o in corso di esecuzione. Qualora sia stata stipulata la prestazione di un corrispettivo per il recesso, questo ha effetto quando la prestazione e' eseguita. E' salvo in ogni caso il patto contrario.",
+    "caratteri": 548
+  },
+  "note": [],
+  "impronta": "sha256:90529123c7f4649d7e317c9b7f9091aabefaf2ff466b2110b570310607323b7b"
+}

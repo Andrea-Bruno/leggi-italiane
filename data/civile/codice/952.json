@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "952",
+    "rubrica": "Costituzione del diritto di superficie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art952"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario puo' costituire il diritto di fare e mantenere al disopra del suolo una costruzione a favore di altri, che ne acquista la proprieta'. Del pari puo' alienare la proprieta' della costruzione gia' esistente, separatamente dalla proprieta' del suolo.",
+    "con_marcatori": "Art. 952. (Costituzione del diritto di superficie). Il proprietario puo' costituire il diritto di fare e mantenere al disopra del suolo una costruzione a favore di altri, che ne acquista la proprieta'. Del pari puo' alienare la proprieta' della costruzione gia' esistente, separatamente dalla proprieta' del suolo.",
+    "caratteri": 262
+  },
+  "note": [],
+  "impronta": "sha256:c3cc24fb85f61eab37c36ef570b3ff26d11dd2cb22159cf52f773806240d62f5"
+}

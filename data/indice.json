@@ -1,0 +1,38 @@
+{
+  "schema": "leggi-italiane/indici@1",
+  "aggiornato_al": "2026-11-01",
+  "codici": [
+    {
+      "codice": "civile",
+      "denominazione": "Codice civile",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262",
+      "aggiornato_al": "2026-11-01",
+      "articoli": 3281,
+      "conteggi": {
+        "totale": 3281,
+        "da_verificare": 8,
+        "vigente": 3013,
+        "abrogato": 217,
+        "parzialmente_inapplicabile": 37,
+        "dichiarato_incostituzionale": 6
+      },
+      "indice": "civile/index.json"
+    },
+    {
+      "codice": "penale",
+      "denominazione": "Codice penale",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398",
+      "aggiornato_al": "2026-11-01",
+      "articoli": 1001,
+      "conteggi": {
+        "totale": 1001,
+        "vigente": 809,
+        "parzialmente_inapplicabile": 83,
+        "da_verificare": 3,
+        "abrogato": 97,
+        "dichiarato_incostituzionale": 9
+      },
+      "indice": "penale/index.json"
+    }
+  ]
+}

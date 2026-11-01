@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1855",
+    "rubrica": "Operazione a tempo indeterminato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1855"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'operazione regolata in conto corrente e' a tempo indeterminato, ciascuna delle parti puo' recedere dal contratto, dandone preavviso nel termine stabilito dagli usi o, in mancanza, entro quindici giorni.",
+    "con_marcatori": "Art. 1855. (Operazione a tempo indeterminato). Se l'operazione regolata in conto corrente e' a tempo indeterminato, ciascuna delle parti puo' recedere dal contratto, dandone preavviso nel termine stabilito dagli usi o, in mancanza, entro quindici giorni.",
+    "caratteri": 207
+  },
+  "note": [],
+  "impronta": "sha256:ea3ffe79ed96f8b86b927df027c90e1b1a4c9c517a6f6683377f6c7f44da89ed"
+}

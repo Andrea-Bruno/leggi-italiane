@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "601.1",
+    "rubrica": "Approfittamento della vittima di riduzione in schiavitu' o di tratta",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Salvo che il fatto costituisca piu' grave reato, chiunque sfrutta le prestazioni di chi sa essere vittima dei reati di cui agli articoli 600 e 601 e' punito con la pena della reclusione fino a tre anni e con la multa da euro 500 a euro 3.000.",
+    "con_marcatori": "Art. 601.1 (( (Approfittamento della vittima di riduzione in schiavitu' o di tratta).)). ((Salvo che il fatto costituisca piu' grave reato, chiunque sfrutta le prestazioni di chi sa essere vittima dei reati di cui agli articoli 600 e 601 e' punito con la pena della reclusione fino a tre anni e con la multa da euro 500 a euro 3.000.))",
+    "caratteri": 244
+  },
+  "note": [],
+  "impronta": "sha256:d4f0be7036a623c59d512c2071edbfc979abec9a644d31293e7976159da2630d"
+}

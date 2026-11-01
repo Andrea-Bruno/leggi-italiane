@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2447-decies",
+    "rubrica": "Finanziamento destinato ad uno specifico affare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2447-decies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto relativo al finanziamento di uno specifico affare ai sensi della lettera b) del primo comma dell'articolo 2447-bis puo' prevedere che al rimborso totale o parziale del finanziamento siano destinati, in via esclusiva, tutti o parte dei proventi dell'affare stesso. Il contratto deve contenere: a) una descrizione dell'operazione che consenta di individuarne lo specifico oggetto; le modalita' ed i tempi di realizzazione; i costi previsti ed i ricavi attesi; b) il piano finanziario dell'operazione, indicando la parte coperta dal finanziamento e quella a carico della societa'; c) i beni strumentali necessari alla realizzazione dell'operazione; d) le specifiche garanzie che la societa' offre in ordine all'obbligo di esecuzione del contratto e di corretta e tempestiva realizzazione dell'operazione; e) i controlli che il finanziatore, o soggetto da lui delegato, puo' effettuare sull'esecuzione dell'operazione; f) la parte dei proventi destinati al rimborso del finanziamento e le modalita' per determinarli; g) le eventuali garanzie che la societa' presta per il rimborso di parte del finanziamento; h) il tempo massimo di rimborso, decorso il quale nulla piu' e' dovuto al finanziatore. I proventi dell'operazione costituiscono patrimonio separato da quello della societa', e da quello relativo ad ogni altra operazione di finanziamento effettuata ai sensi della presente disposizione, a condizione: a) che copia del contratto sia depositata per l'iscrizione presso l'ufficio del registro delle imprese; b) che la societa' adotti sistemi di incasso e di contabilizzazione idonei ad individuare in ogni momento i proventi dell'affare ed a tenerli separati dal restante patrimonio della societa'. Alle condizioni di cui al comma precedente, sui proventi, sui frutti di essi e degli investimenti eventualmente effettuati in attesa del rimborso al finanziatore, non sono ammesse azioni da parte dei creditori sociali; alle medesime condizioni, delle obbligazioni nei confronti del finanziatore risponde esclusivamente il patrimonio separato, salva l'ipotesi di garanzia parziale di cui al secondo comma, lettera g). I creditori della societa', sino al rimborso del finanziamento, o alla scadenza del termine di cui al secondo comma, lettera h) sui beni strumentali destinati alla realizzazione dell'operazione possono esercitare esclusivamente azioni conservative a tutela dei loro diritti. Se il fallimento della societa' impedisce la realizzazione o la continuazione dell'operazione cessano le limitazioni di cui al comma precedente, ed il finanziatore ha diritto di insinuazione al passivo per il suo credito, al netto delle somme di cui ai commi terzo e quarto. Fuori dall'ipotesi di cartolarizzazione previste dalle leggi vigenti, il finanziamento non puo' essere rappresentato da titoli destinati alla circolazione. La nota integrativa alle voci di bilancio relative ai proventi di cui al terzo comma, ed ai beni di cui al quarto comma, deve contenere l'indicazione della destinazione dei proventi e dei vincoli relativi ai beni.",
+    "con_marcatori": "Art. 2447-decies. (Finanziamento destinato ad uno specifico affare). Il contratto relativo al finanziamento di uno specifico affare ai sensi della lettera b) del primo comma dell'articolo 2447-bis puo' prevedere che al rimborso totale o parziale del finanziamento siano destinati, in via esclusiva, tutti o parte dei proventi dell'affare stesso. Il contratto deve contenere: a) una descrizione dell'operazione che consenta di individuarne lo specifico oggetto; le modalita' ed i tempi di realizzazione; i costi previsti ed i ricavi attesi; b) il piano finanziario dell'operazione, indicando la parte coperta dal finanziamento e quella a carico della societa'; c) i beni strumentali necessari alla realizzazione dell'operazione; d) le specifiche garanzie che la societa' offre in ordine all'obbligo di esecuzione del contratto e di corretta e tempestiva realizzazione dell'operazione; e) i controlli che il finanziatore, o soggetto da lui delegato, puo' effettuare sull'esecuzione dell'operazione; f) la parte dei proventi destinati al rimborso del finanziamento e le modalita' per determinarli; g) le eventuali garanzie che la societa' presta per il rimborso di parte del finanziamento; h) il tempo massimo di rimborso, decorso il quale nulla piu' e' dovuto al finanziatore. I proventi dell'operazione costituiscono patrimonio separato da quello della societa', e da quello relativo ad ogni altra operazione di finanziamento effettuata ai sensi della presente disposizione, a condizione: a) che copia del contratto sia depositata per l'iscrizione presso l'ufficio del registro delle imprese; b) che la societa' adotti sistemi di incasso e di contabilizzazione idonei ad individuare in ogni momento i proventi dell'affare ed a tenerli separati dal restante patrimonio della societa'. Alle condizioni di cui al comma precedente, sui proventi, sui frutti di essi e degli investimenti eventualmente effettuati in attesa del rimborso al finanziatore, non sono ammesse azioni da parte dei creditori sociali; alle medesime condizioni, delle obbligazioni nei confronti del finanziatore risponde esclusivamente il patrimonio separato, ((salva)) l'ipotesi di garanzia parziale di cui al secondo comma, lettera g). I creditori della societa', sino al rimborso del finanziamento, o alla scadenza del termine di cui al secondo comma, lettera h) sui beni strumentali destinati alla realizzazione dell'operazione possono esercitare esclusivamente azioni conservative a tutela dei loro diritti. Se il fallimento della societa' impedisce la realizzazione o la continuazione dell'operazione cessano le limitazioni di cui al comma precedente, ed il finanziatore ha diritto di insinuazione al passivo per il suo credito, al netto delle somme di cui ai commi terzo e quarto. Fuori dall'ipotesi di cartolarizzazione previste dalle leggi vigenti, il finanziamento non puo' essere rappresentato da titoli destinati alla circolazione. La nota integrativa alle voci di bilancio relative ai proventi di cui al terzo comma, ed ai beni di cui al quarto comma, deve contenere l'indicazione della destinazione dei proventi e dei vincoli relativi ai beni.",
+    "caratteri": 3050
+  },
+  "note": [],
+  "impronta": "sha256:973d0f84e3a51101da2631fe0a4ea25c0a093474fa9e383c2b7243b97c81f3b4"
+}

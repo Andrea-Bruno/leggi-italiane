@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1669",
+    "rubrica": "Rovina e difetti di cose immobili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1669"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando si tratta di edifici o di altre cose immobili destinate per loro natura a lunga durata, se, nel corso di dieci anni dal compimento, l'opera, per vizio del suolo o per difetto della costruzione, rovina in tutto o in parte, ovvero presenta evidente pericolo di rovina o gravi difetti, l'appaltatore e' responsabile nei confronti del committente e dei suoi aventi causa, purche' sia fatta la denunzia entro un anno dalla scoperta. Il diritto del committente si prescrive in un anno dalla denunzia.",
+    "con_marcatori": "Art. 1669. (Rovina e difetti di cose immobili). Quando si tratta di edifici o di altre cose immobili destinate per loro natura a lunga durata, se, nel corso di dieci anni dal compimento, l'opera, per vizio del suolo o per difetto della costruzione, rovina in tutto o in parte, ovvero presenta evidente pericolo di rovina o gravi difetti, l'appaltatore e' responsabile nei confronti del committente e dei suoi aventi causa, purche' sia fatta la denunzia entro un anno dalla scoperta. Il diritto del committente si prescrive in un anno dalla denunzia.",
+    "caratteri": 501
+  },
+  "note": [],
+  "impronta": "sha256:1c0ccb942008ca9574e5cca29f4c1e6218739171277cb31d26d22c6851a02fa3"
+}

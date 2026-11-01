@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "928",
+    "rubrica": "Pubblicazione del ritrovamento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art928"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il podesta' rende nota la consegna per mezzo di pubblicazione nell'albo pretorio del comune, da farsi per due domeniche successive e da restare affissa per tre giorni ogni volta.",
+    "con_marcatori": "Art. 928. (Pubblicazione del ritrovamento). Il podesta' rende nota la consegna per mezzo di pubblicazione nell'albo pretorio del comune, da farsi per due domeniche successive e da restare affissa per tre giorni ogni volta.",
+    "caratteri": 178
+  },
+  "note": [],
+  "impronta": "sha256:58ba6191d322716c57658c125f7a59d539c45e3df81fb70f155ab310b715aa13"
+}

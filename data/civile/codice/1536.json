@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1536",
+    "rubrica": "Inadempimento",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1536"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso d'inadempimento della vendita a termine di titoli, si osservano le norme degli articoli 1515 e 1516, salva, per i contratti di borsa, l'applicazione delle leggi speciali.",
+    "con_marcatori": "Art. 1536. (Inadempimento). In caso d'inadempimento della vendita a termine di titoli, si osservano le norme degli articoli 1515 e 1516, salva, per i contratti di borsa, l'applicazione delle leggi speciali.",
+    "caratteri": 178
+  },
+  "note": [],
+  "impronta": "sha256:6019874e09bc1fcf66a00cd7ed29b19507731cc84b8c97bd851cbc6c15bf9a52"
+}

@@ -1,0 +1,114 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "145",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art145"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 19,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Intervento del giudice. In caso di disaccordo ciascuno dei coniugi puo' chiedere, senza formalita', l'intervento del giudice il quale, sentite le opinioni espresse dai coniugi e, dai figli conviventi che abbiano compiuto gli anni dodici o anche di eta' inferiore ove capaci di discernimento, tenta di raggiungere una soluzione concordata. Ove questa non sia possibile e il disaccordo concerna la fissazione della residenza o altri affari essenziali, il giudice, qualora ne sia richiesto espressamente da uno o entrambi i coniugi, adotta la soluzione che ritiene piu' adeguata all'interesse dei figli e alle esigenze dell'unita' e della vita della famiglia. In caso di inadempimento all'obbligo di contribuire ai bisogni della famiglia previsto dall'articolo 143, il giudice, su istanza di chiunque vi ha interesse, provvede ai sensi dell'articolo 316-bis.",
+    "con_marcatori": "Art. 145. Intervento del giudice. In caso di disaccordo ciascuno dei coniugi puo' chiedere, senza formalita', l'intervento del giudice il quale, sentite le opinioni espresse dai coniugi e, dai figli conviventi che abbiano compiuto gli anni dodici o anche di eta' inferiore ove capaci di discernimento, tenta di raggiungere una soluzione concordata. (321)((322)) Ove questa non sia possibile e il disaccordo concerna la fissazione della residenza o altri affari essenziali, il giudice, qualora ne sia richiesto espressamente da uno o entrambi i coniugi, adotta la soluzione che ritiene piu' adeguata all'interesse dei figli e alle esigenze dell'unita' e della vita della famiglia. (321)((322)) In caso di inadempimento all'obbligo di contribuire ai bisogni della famiglia previsto dall'articolo 143, il giudice, su istanza di chiunque vi ha interesse, provvede ai sensi dell'articolo 316-bis. (321)((322))",
+    "caratteri": 855
+  },
+  "note": [
+    {
+      "numero": 19,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 145, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1970-07-13",
+        "numero": "133"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 24 giugno-13 luglio 1970, n. 133 (in G.U. 1a s.s. 15/07/1970, n. 177), ha dichiarato \"la illegittimita' costituzionale dell'art. 145, primo comma, del codice civile, nella parte in cui non subordina alla condizione che la moglie non abbia mezzi sufficienti il dovere del marito di somministrarle, in proporzione delle sue sostanze, tutto cio' che e' necessario ai bisogni della vita\"."
+    },
+    {
+      "numero": 321,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti\"."
+    },
+    {
+      "numero": 322,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 10 ottobre 2022, n. 149",
+          "urn": "urn:nir:stato:decretoLegislativo:2022-10-10;149",
+          "data": "2022-10-10",
+          "numero": "149",
+          "data_gazzetta": "2022-10-17"
+        },
+        {
+          "denominazione": "L. 29 dicembre 2022, n. 197",
+          "urn": "urn:nir:stato:legge:2022-12-29;197",
+          "data": "2022-12-29",
+          "numero": "197",
+          "data_gazzetta": "2022-12-29"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che \"Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti\"."
+    }
+  ],
+  "impronta": "sha256:b3e098411e857aa0b873fbde4659272f1c037597eaf1c4eab414d4517be2fe8c"
+}

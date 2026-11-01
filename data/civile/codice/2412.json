@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2412",
+    "rubrica": "Limiti all'emissione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2412"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' puo' emettere obbligazioni al portatore o nominative per somma complessivamente non eccedente il doppio del capitale sociale risultante dall'ultima delle iscrizioni di cui all'articolo 2444, primo comma, della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato. I sindaci attestano il rispetto del suddetto limite. Il limite di cui al primo comma puo' essere superato se le obbligazioni emesse in eccedenza sono destinate alla sottoscrizione da parte di investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali. In caso di successiva circolazione delle obbligazioni, chi le trasferisce risponde della solvenza della societa' nei confronti degli acquirenti che non siano investitori professionali. Non e' soggetta al limite di cui al primo comma, e non rientra nel calcolo al fine del medesimo, l'emissione di obbligazioni garantite da ipoteca di primo grado su immobili di proprieta' della societa', sino a due terzi del valore degli immobili medesimi. Al computo del limite di cui al primo comma concorrono gli importi relativi a garanzie comunque prestate dalla societa' per obbligazioni emesse da altre societa', anche estere. I commi primo e secondo non si applicano alle emissioni di obbligazioni destinate ad essere sottoscritte, anche in sede di rivendita, esclusivamente da investitori professionali ai sensi delle leggi speciali, qualora tale previsione risulti tra le condizioni dell'emissione, ovvero ad essere quotate in mercati regolamentati o in sistemi multilaterali di negoziazione ovvero di obbligazioni che danno il diritto di acquisire ovvero di sottoscrivere azioni. Quando ricorrono particolari ragioni che interessano l'economia nazionale, la societa' puo' essere autorizzata con provvedimento dell'autorita' governativa, ad emettere obbligazioni per somma superiore a quanto previsto nel presente articolo, con l'osservanza dei limiti, delle modalita' e delle cautele stabilite nel provvedimento stesso. Restano salve le disposizioni di leggi speciali relative a particolari categorie di societa' e alle riserve di attivita'. COMMA ABROGATO DALLA L. 28 DICEMBRE 2005, N. 262.",
+    "con_marcatori": "Art. 2412. (Limiti all'emissione). La societa' puo' emettere obbligazioni al portatore o nominative per somma complessivamente non eccedente il doppio del capitale sociale ((risultante dall'ultima delle iscrizioni di cui all'articolo 2444, primo comma)), della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato. I sindaci attestano il rispetto del suddetto limite. Il limite di cui al primo comma puo' essere superato se le obbligazioni emesse in eccedenza sono destinate alla sottoscrizione da parte di investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali. In caso di successiva circolazione delle obbligazioni, chi le trasferisce risponde della solvenza della societa' nei confronti degli acquirenti che non siano investitori professionali. Non e' soggetta al limite di cui al primo comma, e non rientra nel calcolo al fine del medesimo, l'emissione di obbligazioni garantite da ipoteca di primo grado su immobili di proprieta' della societa', sino a due terzi del valore degli immobili medesimi. Al computo del limite di cui al primo comma concorrono gli importi relativi a garanzie comunque prestate dalla societa' per obbligazioni emesse da altre societa', anche estere. I commi primo e secondo non si applicano alle emissioni di obbligazioni destinate ad essere ((sottoscritte, anche in sede di rivendita, esclusivamente da investitori professionali ai sensi delle leggi speciali, qualora tale previsione risulti tra le condizioni dell'emissione, ovvero ad essere)) quotate in mercati regolamentati o in sistemi multilaterali di negoziazione ovvero di obbligazioni che danno il diritto di acquisire ovvero di sottoscrivere azioni. Quando ricorrono particolari ragioni che interessano l'economia nazionale, la societa' puo' essere autorizzata con provvedimento dell'autorita' governativa, ad emettere obbligazioni per somma superiore a quanto previsto nel presente articolo, con l'osservanza dei limiti, delle modalita' e delle cautele stabilite nel provvedimento stesso. Restano salve le disposizioni di leggi speciali relative a particolari categorie di societa' e alle riserve di attivita'. COMMA ABROGATO DALLA L. 28 DICEMBRE 2005, N. 262.",
+    "caratteri": 2175
+  },
+  "note": [],
+  "impronta": "sha256:c425a2cd29c3058bd58415e023315e155f378bee7a5f38cbc3e5ff620615906b"
+}

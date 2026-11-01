@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1826",
+    "rubrica": "Spese e diritti di commissione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1826"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esistenza del conto corrente non esclude i diritti di commissione e il rimborso delle spese per le operazioni che danno luogo alle rimesse. Tali diritti sono inclusi nel conto, salvo convenzione contraria.",
+    "con_marcatori": "Art. 1826. (Spese e diritti di commissione). L'esistenza del conto corrente non esclude i diritti di commissione e il rimborso delle spese per le operazioni che danno luogo alle rimesse. Tali diritti sono inclusi nel conto, salvo convenzione contraria.",
+    "caratteri": 207
+  },
+  "note": [],
+  "impronta": "sha256:f0793b2bce7eea3f54b210a48ad3e718ff081e80504b72ef54cb3365914edbd0"
+}

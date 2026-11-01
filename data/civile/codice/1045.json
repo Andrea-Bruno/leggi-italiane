@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1045",
+    "rubrica": "Utilizzazione di fogne o di fossi altrui",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1045"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I proprietari dei fondi attraversati da fogne o da fossi altrui, o che altrimenti possono approfittare dei lavori fatti in forza dell'articolo precedente, hanno facolta' di servirsene per risanare i loro fondi, a condizione che non ne venga danno ai fondi gia' risanati e che essi sopportino le nuove spese occorrenti per modificare le opere gia' eseguite, affinche' queste siano in grado di servire anche ai fondi attraversati, e inoltre sopportino una parte proporzionale delle spese gia' fatte e di quelle richieste per il mantenimento delle opere, le quali divengono comuni.",
+    "con_marcatori": "Art. 1045. (Utilizzazione di fogne o di fossi altrui). I proprietari dei fondi attraversati da fogne o da fossi altrui, o che altrimenti possono approfittare dei lavori fatti in forza dell'articolo precedente, hanno facolta' di servirsene per risanare i loro fondi, a condizione che non ne venga danno ai fondi gia' risanati e che essi sopportino le nuove spese occorrenti per modificare le opere gia' eseguite, affinche' queste siano in grado di servire anche ai fondi attraversati, e inoltre sopportino una parte proporzionale delle spese gia' fatte e di quelle richieste per il mantenimento delle opere, le quali divengono comuni.",
+    "caratteri": 578
+  },
+  "note": [],
+  "impronta": "sha256:299952673b4a5307a613aadc037223260c4e98e39fd25f8d3b7f613875a5da73"
+}

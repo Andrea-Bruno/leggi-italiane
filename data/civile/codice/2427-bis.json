@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2427-bis",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2427-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "(Informazioni relative al fair value degli strumenti finanziari). 1. Nella nota integrativa sono indicati: 1) per ciascuna categoria di strumenti finanziari derivati: a) il loro fair value; b) informazioni sulla loro entita' e sulla loro natura , compresi i termini e le condizioni significative che possono influenzare l'importo, le scadenze e la certezza dei flussi finanziari futuri; b-bis) gli assunti fondamentali su cui si basano i modelli e le tecniche di valutazione, qualora il fair value non sia stato determinato sulla base di evidenze di mercato; b-ter) le variazioni di valore iscritte direttamente nel conto economico, nonche' quelle imputate alle riserve di patrimonio netto; b-quater) una tabella che indichi i movimenti delle riserve di fair value avvenuti nell'esercizio. 2) per le immobilizzazioni finanziarie iscritte a un valore superiore al loro fair value, con esclusione delle partecipazioni in societa' controllate e collegate ai sensi dell'articolo 2359 e delle partecipazioni in joint venture: a) il valore contabile e il fair value delle singole attivita', o di appropriati raggruppamenti di tali attivita'; b) i motivi per i quali il valore contabile non e' stato ridotto, inclusa la natura degli elementi sostanziali sui quali si basa il convincimento che tale valore possa essere recuperato. 2. COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139. 3. COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139. 4. COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139. 5. COMMA ABROGATO DAL D.LGS. 3 NOVEMBRE 2008, N. 173.",
+    "con_marcatori": "Art. 2427-bis. (Informazioni relative al ((fair value)) degli strumenti finanziari). ((246)) 1. Nella nota integrativa sono indicati: 1) per ciascuna categoria di strumenti finanziari derivati: a) il loro fair value; b) informazioni sulla loro entita' e sulla loro natura ((, compresi i termini e le condizioni significative che possono influenzare l'importo, le scadenze e la certezza dei flussi finanziari futuri;)) ((246)) ((b-bis) gli assunti fondamentali su cui si basano i modelli e le tecniche di valutazione, qualora il fair value non sia stato determinato sulla base di evidenze di mercato;)) ((246)) ((b-ter) le variazioni di valore iscritte direttamente nel conto economico, nonche' quelle imputate alle riserve di patrimonio netto;)) ((246)) ((b-quater) una tabella che indichi i movimenti delle riserve di fair value avvenuti nell'esercizio.)) ((246)) 2) per le immobilizzazioni finanziarie iscritte a un valore superiore al loro fair value, con esclusione delle partecipazioni in societa' controllate e collegate ai sensi dell'articolo 2359 e delle partecipazioni in joint venture: a) il valore contabile e il fair value delle singole attivita', o di appropriati raggruppamenti di tali attivita'; b) i motivi per i quali il valore contabile non e' stato ridotto, inclusa la natura degli elementi sostanziali sui quali si basa il convincimento che tale valore possa essere recuperato. 2. ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)). ((246)) 3. ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)). ((246)) 4. ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)). ((246)) 5. COMMA ABROGATO DAL D.LGS. 3 NOVEMBRE 2008, N. 173.",
+    "caratteri": 1535
+  },
+  "note": [
+    {
+      "numero": 246,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 agosto 2015, n. 139",
+          "urn": "urn:nir:stato:decretoLegislativo:2015-08-18;139",
+          "data": "2015-08-18",
+          "numero": "139",
+          "data_gazzetta": "2015-09-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016."
+    }
+  ],
+  "impronta": "sha256:b83ede588a8882ef47d12a384e3e8b42c35c25ec9e9286060c8e983e6fcfc475"
+}

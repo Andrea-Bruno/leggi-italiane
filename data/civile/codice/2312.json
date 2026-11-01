@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2312",
+    "rubrica": "Cancellazione della societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2312"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Approvato il bilancio finale di liquidazione, i liquidatori devono chiedere la cancellazione della societa' dal registro delle imprese. Dalla cancellazione della societa' i creditori sociali che non sono stati soddisfatti possono far valere i loro crediti nei confronti dei soci e, se il mancato pagamento e' dipeso da colpa dei liquidatori, anche nei confronti di questi. Le scritture contabili e i documenti che non spettano ai singoli soci sono depositati presso la persona designata dalla maggioranza. Le scritture contabili e i documenti devono essere conservati per dieci anni a decorrere dalla cancellazione della societa' dal registro delle imprese.",
+    "con_marcatori": "Art. 2312. (Cancellazione della societa'). Approvato il bilancio finale di liquidazione, i liquidatori devono chiedere la cancellazione della societa' dal registro delle imprese. Dalla cancellazione della societa' i creditori sociali che non sono stati soddisfatti possono far valere i loro crediti nei confronti dei soci e, se il mancato pagamento e' dipeso da colpa dei liquidatori, anche nei confronti di questi. Le scritture contabili e i documenti che non spettano ai singoli soci sono depositati presso la persona designata dalla maggioranza. Le scritture contabili e i documenti devono essere conservati per dieci anni a decorrere dalla cancellazione della societa' dal registro delle imprese.",
+    "caratteri": 657
+  },
+  "note": [],
+  "impronta": "sha256:dd9ac4887a03aea043551e48ec28ef17f49a7e3fcdbbc90a1b05f4490e3e27ff"
+}

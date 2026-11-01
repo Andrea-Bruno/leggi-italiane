@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "417",
+    "rubrica": "Istanza d'interdizione o d'inabilitazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art417"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'interdizione e l'inabilitazione possono essere promosse dalle persone indicate negli articoli 414 e 415, dal coniuge, dalla persona stabilmente convivente, dai parenti entro il quarto grado, dagli affini entro il secondo grado, dal tutore o curatore ovvero dal pubblico ministero. Se l'interdicendo o l'inabilitando si trova sotto la patria potesta' o ha per curatore uno dei genitori, l'interdizione o l'inabilitazione non puo' essere promossa che su istanza del genitore medesimo o del pubblico ministero.",
+    "con_marcatori": "Art. 417. (Istanza d'interdizione o d'inabilitazione). L'interdizione e l'inabilitazione possono essere promosse dalle persone indicate negli articoli 414 e 415, dal coniuge, dalla persona stabilmente convivente, dai parenti entro il quarto grado, dagli affini entro il secondo grado, dal tutore o curatore ovvero dal pubblico ministero. Se l'interdicendo o l'inabilitando si trova sotto la patria potesta' o ha per curatore uno dei genitori, l'interdizione o l'inabilitazione non puo' essere promossa che su istanza del genitore medesimo o del pubblico ministero.((223))",
+    "caratteri": 509
+  },
+  "note": [
+    {
+      "numero": 223,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 28 dicembre 2013, n. 154",
+          "urn": "urn:nir:stato:decretoLegislativo:2013-12-28;154",
+          "data": "2013-12-28",
+          "numero": "154",
+          "data_gazzetta": "2014-01-08"
+        },
+        {
+          "denominazione": "secondo comma dell'articolo 417 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 63, comma 1) che \"Al secondo comma dell'articolo 417 del codice civile le parole: \"potesta' dei genitori\" sono sostituite dalle seguenti: \"responsabilita' genitoriale\".\"."
+    }
+  ],
+  "impronta": "sha256:aa40429096d969bd74f415c22c49b37bce7b446a3b8a375487657ce5ec23839b"
+}

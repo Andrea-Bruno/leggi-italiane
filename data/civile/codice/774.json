@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "774",
+    "rubrica": "Capacita' di donare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art774"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non possono fare donazione coloro che non hanno la piena capacita' di disporre dei propri beni. E' tuttavia valida la donazione fatta dal minore e dall'inabilitato nel loro contratto di matrimonio a norma degli articoli 165 e 166. Le disposizioni precedenti si applicano anche al minore emancipato autorizzato all'esercizio di un'impresa commerciale.",
+    "con_marcatori": "Art. 774. (Capacita' di donare). Non possono fare donazione coloro che non hanno la piena capacita' di disporre dei propri beni. E' tuttavia valida la donazione fatta dal minore e dall'inabilitato nel loro contratto di matrimonio a norma degli articoli 165 e 166. Le disposizioni precedenti si applicano anche al minore emancipato autorizzato all'esercizio di un'impresa commerciale.",
+    "caratteri": 350
+  },
+  "note": [],
+  "impronta": "sha256:95efbe1f01e152caefb2ca636917606137b1787d5207ba1967c38e7922c62f56"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1044",
+    "rubrica": "Bonifica",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1044"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ferme le disposizioni delle leggi sulla bonifica e sul vincolo forestale, il proprietario che intende prosciugare o bonificare le sue terre con fognature, con colmate o altri mezzi ha diritto, premesso il pagamento dell'indennita' e col minor danno possibile, di condurre per fogne o per fossi le acque di scolo attraverso i fondi che separano le sue terre da un corso d'acqua o da qualunque altro colatoio. Se il prosciugamento risulta in contrasto con gli interessi di coloro che utilizzano le acque provenienti dal fondo paludoso, e se gli opposti interessi non si possono conciliare con opportune opere che importino una spesa proporzionata allo scopo, l'autorita' giudiziaria da' le disposizioni per assicurare l'interesse prevalente, avuto in ogni caso riguardo alle esigenze generali della produzione. Se si fa luogo al prosciugamento, puo' essere assegnata una congrua indennita' a coloro che al prosciugamento si sono opposti.",
+    "con_marcatori": "Art. 1044. (Bonifica). Ferme le disposizioni delle leggi sulla bonifica e sul vincolo forestale, il proprietario che intende prosciugare o bonificare le sue terre con fognature, con colmate o altri mezzi ha diritto, premesso il pagamento dell'indennita' e col minor danno possibile, di condurre per fogne o per fossi le acque di scolo attraverso i fondi che separano le sue terre da un corso d'acqua o da qualunque altro colatoio. Se il prosciugamento risulta in contrasto con gli interessi di coloro che utilizzano le acque provenienti dal fondo paludoso, e se gli opposti interessi non si possono conciliare con opportune opere che importino una spesa proporzionata allo scopo, l'autorita' giudiziaria da' le disposizioni per assicurare l'interesse prevalente, avuto in ogni caso riguardo alle esigenze generali della produzione. Se si fa luogo al prosciugamento, puo' essere assegnata una congrua indennita' a coloro che al prosciugamento si sono opposti.",
+    "caratteri": 935
+  },
+  "note": [],
+  "impronta": "sha256:a76f7eace94295c152da5930f0f3cf161ac934ac2411d166b7b0285e15a5e492"
+}

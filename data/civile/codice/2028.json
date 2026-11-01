@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2028",
+    "rubrica": "Obbligo di continuare la gestione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2028"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi, senza esservi obbligato, assume scientemente la gestione di un affare altrui, e' tenuto a continuarla e a condurla a termine finche' l'interessato non sia in grado di provvedervi da se stesso. L'obbligo di continuare la gestione sussiste anche se l'interessato muore prima che l'affare sia terminato, finche' l'erede possa provvedere direttamente.",
+    "con_marcatori": "Art. 2028. (Obbligo di continuare la gestione). Chi, senza esservi obbligato, assume scientemente la gestione di un affare altrui, e' tenuto a continuarla e a condurla a termine finche' l'interessato non sia in grado di provvedervi da se stesso. L'obbligo di continuare la gestione sussiste anche se l'interessato muore prima che l'affare sia terminato, finche' l'erede possa provvedere direttamente.",
+    "caratteri": 352
+  },
+  "note": [],
+  "impronta": "sha256:93ca701e1c42993e2fa9d37b80160f4fff2edb9966faec8452d6fbd181edda82"
+}

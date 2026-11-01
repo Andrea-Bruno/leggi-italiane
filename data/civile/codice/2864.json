@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2864",
+    "rubrica": "Danni causati dal terzo e miglioramenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2864"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il terzo e' tenuto a risarcire i danni che da sua colpa grave sono derivati all'immobile in pregiudizio dei creditori iscritti. Egli non puo' ritenere l'immobile per causa di miglioramenti; ma ha il diritto di far separare dal prezzo di vendita la parte corrispondente ai miglioramenti eseguiti dopo la trascrizione del suo titolo, fino a concorrenza del valore dei medesimi al tempo della vendita. Se il prezzo non copre il valore dell'immobile nello stato in cui era prima dei miglioramenti e insieme quello dei miglioramenti, esso deve dividersi in due parti proporzionali ai detti valori.",
+    "con_marcatori": "Art. 2864. (Danni causati dal terzo e miglioramenti). Il terzo e' tenuto a risarcire i danni che da sua colpa grave sono derivati all'immobile in pregiudizio dei creditori iscritti. Egli non puo' ritenere l'immobile per causa di miglioramenti; ma ha il diritto di far separare dal prezzo di vendita la parte corrispondente ai miglioramenti eseguiti dopo la trascrizione del suo titolo, fino a concorrenza del valore dei medesimi al tempo della vendita. Se il prezzo non copre il valore dell'immobile nello stato in cui era prima dei miglioramenti e insieme quello dei miglioramenti, esso deve dividersi in due parti proporzionali ai detti valori.",
+    "caratteri": 592
+  },
+  "note": [],
+  "impronta": "sha256:52fece060f450b93ad8d170acc2aa3678aa0a76540faa5dde20bc7639a2b8d93"
+}

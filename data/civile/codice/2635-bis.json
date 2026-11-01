@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2635-bis",
+    "rubrica": "Istigazione alla corruzione tra privati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2635-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque offre o promette denaro o altra utilita' non dovuti agli amministratori, ai direttori generali, ai dirigenti preposti alla redazione dei documenti contabili societari, ai sindaci e ai liquidatori, di societa' o enti privati, nonche' a chi svolge in essi un'attivita' lavorativa con l'esercizio di funzioni direttive, affinche' compia od ometta un atto in violazione degli obblighi inerenti al proprio ufficio o degli obblighi di fedelta', soggiace, qualora l'offerta o la promessa non sia accettata, alla pena stabilita nel primo comma dell'articolo 2635, ridotta di un terzo. La pena di cui al primo comma si applica agli amministratori, ai direttori generali, ai dirigenti preposti alla redazione dei documenti contabili societari, ai sindaci e ai liquidatori, di societa' o enti privati, nonche' a chi svolge in essi attivita' lavorativa con l'esercizio di funzioni direttive, che sollecitano per se' o per altri, anche per interposta persona, una promessa o dazione di denaro o di altra utilita', per compiere o per omettere un atto in violazione degli obblighi inerenti al loro ufficio o degli obblighi di fedelta', qualora la sollecitazione non sia accettata. COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3.",
+    "con_marcatori": "Art. 2635-bis. (Istigazione alla corruzione tra privati). Chiunque offre o promette denaro o altra utilita' non dovuti agli amministratori, ai direttori generali, ai dirigenti preposti alla redazione dei documenti contabili societari, ai sindaci e ai liquidatori, di societa' o enti privati, nonche' a chi svolge in essi un'attivita' lavorativa con l'esercizio di funzioni direttive, affinche' compia od ometta un atto in violazione degli obblighi inerenti al proprio ufficio o degli obblighi di fedelta', soggiace, qualora l'offerta o la promessa non sia accettata, alla pena stabilita nel primo comma dell'articolo 2635, ridotta di un terzo. La pena di cui al primo comma si applica agli amministratori, ai direttori generali, ai dirigenti preposti alla redazione dei documenti contabili societari, ai sindaci e ai liquidatori, di societa' o enti privati, nonche' a chi svolge in essi attivita' lavorativa con l'esercizio di funzioni direttive, che sollecitano per se' o per altri, anche per interposta persona, una promessa o dazione di denaro o di altra utilita', per compiere o per omettere un atto in violazione degli obblighi inerenti al loro ufficio o degli obblighi di fedelta', qualora la sollecitazione non sia accettata. ((COMMA ABROGATO DALLA L. 9 GENNAIO 2019, N. 3)).",
+    "caratteri": 1220
+  },
+  "note": [],
+  "impronta": "sha256:a9610434a1339ac0f091a1693ce78d1488d9bc921a05dd0aa4dddb05cfc7dfa9"
+}

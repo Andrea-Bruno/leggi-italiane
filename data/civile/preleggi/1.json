@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1",
+    "rubrica": null,
+    "sezione": "Disposizioni sulla legge in generale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "DISPOSIZIONI SULLA LEGGE IN GENERALE Art. 1. (Indicazione delle fonti). Sono fonti del diritto: 1) le leggi; 2) i regolamenti; 3) le norme corporative 4) gli usi.",
+    "con_marcatori": "DISPOSIZIONI SULLA LEGGE IN GENERALE Art. 1. (Indicazione delle fonti). Sono fonti del diritto: 1) le leggi; 2) i regolamenti; 3) le norme corporative 4) gli usi.",
+    "caratteri": 162
+  },
+  "note": [],
+  "impronta": "sha256:83d26efcc5407c5147193e5f008689efd6e922e95ffee0d6a55f5b4d50511510"
+}

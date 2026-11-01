@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "31",
+    "rubrica": "Condanna per delitti commessi con abuso di un pubblico ufficio o di una professione o di un'arte. Interdizione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art31"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ogni condanna per delitti commessi con l'abuso dei poteri, o con la violazione dei doveri inerenti a una pubblica funzione, o ad un pubblico servizio, o a taluno degli uffici indicati nel numero 3° dell'articolo 28, ovvero con l'abuso di una professione, arte, industria, o di un commercio o mestiere, o con la violazione dei doveri a essi inerenti, importa l'interdizione temporanea dai pubblici uffici o dalla professione, arte, industria, o dal commercio o mestiere.",
+    "con_marcatori": "Art. 31. (Condanna per delitti commessi con abuso di un pubblico ufficio o di una professione o di un'arte. Interdizione) Ogni condanna per delitti commessi con l'abuso dei poteri, o con la violazione dei doveri inerenti a una pubblica funzione, o ad un pubblico servizio, o a taluno degli uffici indicati nel numero 3° dell'articolo 28, ovvero con l'abuso di una professione, arte, industria, o di un commercio o mestiere, o con la violazione dei doveri a essi inerenti, importa l'interdizione temporanea dai pubblici uffici o dalla professione, arte, industria, o dal commercio o mestiere.",
+    "caratteri": 469
+  },
+  "note": [],
+  "impronta": "sha256:2b080738da9f6bf29c5513887080f57ed05a642bf88f4474a8fa9cfb3a8ddb7c"
+}

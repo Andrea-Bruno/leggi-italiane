@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2902",
+    "rubrica": "Effetti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2902"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore, ottenuta la dichiarazione di inefficacia, puo' promuovere nei confronti dei terzi acquirenti le azioni esecutive o conservative sui beni che formano oggetto dell'atto impugnato. Il terzo contraente, che abbia verso il debitore ragioni di credito dipendenti dall'esercizio dell'azione revocatoria, non puo' concorrere sul ricavato dei beni che sono stati oggetto dell'atto dichiarato inefficace, se non dopo che il creditore e' stato soddisfatto.",
+    "con_marcatori": "Art. 2902. (Effetti). Il creditore, ottenuta la dichiarazione di inefficacia, puo' promuovere nei confronti dei terzi acquirenti le azioni esecutive o conservative sui beni che formano oggetto dell'atto impugnato. Il terzo contraente, che abbia verso il debitore ragioni di credito dipendenti dall'esercizio dell'azione revocatoria, non puo' concorrere sul ricavato dei beni che sono stati oggetto dell'atto dichiarato inefficace, se non dopo che il creditore e' stato soddisfatto.",
+    "caratteri": 459
+  },
+  "note": [],
+  "impronta": "sha256:969338c5178e5f099a987255a81b4c5c3809b1c118b27d8b80b8e7d3f4f4f4d6"
+}

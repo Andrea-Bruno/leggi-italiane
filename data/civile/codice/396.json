@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "396",
+    "rubrica": "Inosservanza delle precedenti norme",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art396"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli atti compiuti senza osservare le norme stabilite nell'art. 394 possono essere annullati su istanza del minore o dei suoi eredi o aventi causa. Sono applicabili al curatore le disposizioni dell'art. 378.",
+    "con_marcatori": "Art. 396. (Inosservanza delle precedenti norme). Gli atti compiuti senza osservare le norme stabilite nell'art. 394 possono essere annullati su istanza del minore o dei suoi eredi o aventi causa. Sono applicabili al curatore le disposizioni dell'art. 378.",
+    "caratteri": 206
+  },
+  "note": [],
+  "impronta": "sha256:5eb8e0e0cc02b26ba1cafc60317e946f64b36a327c26d3d7d2a2740a29de9e3d"
+}

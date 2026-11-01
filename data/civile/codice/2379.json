@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2379",
+    "rubrica": "Nullita' delle deliberazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2379"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi di mancata convocazione dell'assemblea, di mancanza del verbale e di impossibilita' o illiceita' dell'oggetto la deliberazione puo' essere impugnata da chiunque vi abbia interesse entro tre anni dalla sua iscrizione o deposito nel registro delle imprese, se la deliberazione vi e' soggetta, o dalla trascrizione nel libro delle adunanze dell'assemblea, se la deliberazione non e' soggetta ne' a iscrizione ne' a deposito. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attivita' illecite o impossibili. Nei casi e nei termini previsti dal precedente comma l'invalidita' puo' essere rilevata d'ufficio dal giudice. Ai fini di quanto previsto dal primo comma la convocazione non si considera mancante nel caso d'irregolarita' dell'avviso, se questo proviene da un componente dell'organo di amministrazione o di controllo della societa' ed e' idoneo a consentire a coloro che hanno diritto di intervenire di essere preventivamente avvertiti della convocazione e della data dell'assemblea. Il verbale non si considera mancante se contiene la data della deliberazione e il suo oggetto ed e' sottoscritto dal presidente dell'assemblea, o dal presidente del consiglio d'amministrazione o del consiglio di sorveglianza e dal segretario o dal notaio. Si applicano, in quanto compatibili, il settimo e ottavo comma dell'articolo 2377.",
+    "con_marcatori": "Art. 2379. (Nullita' delle deliberazioni). Nei casi di mancata convocazione dell'assemblea, di mancanza del verbale e di impossibilita' o illiceita' dell'oggetto la deliberazione puo' essere impugnata da chiunque vi abbia interesse entro tre anni dalla sua iscrizione o deposito nel registro delle imprese, se la deliberazione vi e' soggetta, o dalla trascrizione nel libro delle adunanze dell'assemblea, se la deliberazione non e' soggetta ne' a iscrizione ne' a deposito. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attivita' illecite o impossibili. Nei casi e nei termini previsti dal precedente comma l'invalidita' puo' essere rilevata d'ufficio dal giudice. Ai fini di quanto previsto dal primo comma la convocazione non si considera mancante nel caso d'irregolarita' dell'avviso, se questo proviene da un componente dell'organo di amministrazione o di controllo della societa' ed e' idoneo a consentire a coloro che hanno diritto di intervenire di essere ((preventivamente)) avvertiti della convocazione e della data dell'assemblea. Il verbale non si considera mancante se contiene la data della deliberazione e il suo oggetto ed e' sottoscritto dal presidente dell'assemblea, o dal presidente del consiglio d'amministrazione o del consiglio di sorveglianza e dal segretario o dal notaio. Si applicano, in quanto compatibili, il ((settimo e ottavo comma)) dell'articolo 2377.",
+    "caratteri": 1394
+  },
+  "note": [],
+  "impronta": "sha256:2796a4f9466d3caa98f258051c6c03ef80c40673c47943a4d217c9406959ff50"
+}

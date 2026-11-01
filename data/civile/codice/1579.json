@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1579",
+    "rubrica": "Limitazioni convenzionali della responsabilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1579"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patto con cui si esclude o si limita la responsabilita' del locatore per i vizi della cosa non ha effetto se il locatore li ha in mala fede taciuti al conduttore oppure se i vizi sono tali da rendere impossibile il godimento della cosa.",
+    "con_marcatori": "Art. 1579. (Limitazioni convenzionali della responsabilita'). Il patto con cui si esclude o si limita la responsabilita' del locatore per i vizi della cosa non ha effetto se il locatore li ha in mala fede taciuti al conduttore oppure se i vizi sono tali da rendere impossibile il godimento della cosa.",
+    "caratteri": 239
+  },
+  "note": [],
+  "impronta": "sha256:944985f76ff6c9f17a1400c960bd7d81cbb96b586edd931ad7c1d330a149b084"
+}

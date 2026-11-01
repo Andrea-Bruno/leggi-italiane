@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "315-bis",
+    "rubrica": "Diritti e doveri del figlio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art315-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il figlio ha diritto di essere mantenuto, educato, istruito e assistito moralmente dai genitori, nel rispetto delle sue capacita', delle sue inclinazioni naturali e delle sue aspirazioni. Il figlio ha diritto di crescere in famiglia e di mantenere rapporti significativi con i parenti. Il figlio minore che abbia compiuto gli anni dodici, e anche di eta' inferiore ove capace di discernimento, ha diritto di essere ascoltato in tutte le questioni e le procedure che lo riguardano. Il figlio deve rispettare i genitori e deve contribuire, in relazione alle proprie capacita', alle proprie sostanze e al proprio reddito, al mantenimento della famiglia finche' convive con essa.",
+    "con_marcatori": "Art. 315-bis (( (Diritti e doveri del figlio). )) ((Il figlio ha diritto di essere mantenuto, educato, istruito e assistito moralmente dai genitori, nel rispetto delle sue capacita', delle sue inclinazioni naturali e delle sue aspirazioni. Il figlio ha diritto di crescere in famiglia e di mantenere rapporti significativi con i parenti. Il figlio minore che abbia compiuto gli anni dodici, e anche di eta' inferiore ove capace di discernimento, ha diritto di essere ascoltato in tutte le questioni e le procedure che lo riguardano. Il figlio deve rispettare i genitori e deve contribuire, in relazione alle proprie capacita', alle proprie sostanze e al proprio reddito, al mantenimento della famiglia finche' convive con essa)).",
+    "caratteri": 675
+  },
+  "note": [],
+  "impronta": "sha256:a9e28a47269e4a52982d7890e5a3d6d149d4236958a2fe627049ef60acd47293"
+}

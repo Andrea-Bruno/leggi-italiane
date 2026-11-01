@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2215",
+    "rubrica": "Modalita' di tenuta delle scritture contabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2215"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I libri contabili, prima di essere messi in uso, devono essere numerati progressivamente in ogni pagina e, qualora sia previsto l'obbligo della bollatura o della vidimazione, devono essere bollati in ogni foglio dall'ufficio del registro delle imprese o da un notaio secondo le disposizioni delle leggi speciali. L'ufficio del registro o il notaio deve dichiarare nell'ultima pagina dei libri il numero dei fogli che li compongono. Il libro giornale e il libro degli inventari devono essere numerati progressivamente e non sono soggetti a bollatura ne' a vidimazione.",
+    "con_marcatori": "Art. 2215. (( (Modalita' di tenuta delle scritture contabili). )) ((I libri contabili, prima di essere messi in uso, devono essere numerati progressivamente in ogni pagina e, qualora sia previsto l'obbligo della bollatura o della vidimazione, devono essere bollati in ogni foglio dall'ufficio del registro delle imprese o da un notaio secondo le disposizioni delle leggi speciali. L'ufficio del registro o il notaio deve dichiarare nell'ultima pagina dei libri il numero dei fogli che li compongono. Il libro giornale e il libro degli inventari devono essere numerati progressivamente e non sono soggetti a bollatura ne' a vidimazione)).",
+    "caratteri": 567
+  },
+  "note": [],
+  "impronta": "sha256:dfd5f73449f5ef9e27e32c19f7d4bda11e51891494c4913747cd0bc3d4d42041"
+}

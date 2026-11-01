@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1845",
+    "rubrica": "Recesso dal contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1845"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo patto contrario, la banca non puo' recedere dal contratto prima della scadenza del termine, se non per giusta causa. Il recesso sospende immediatamente l'utilizzazione del credito, ma la banca deve concedere un termine di almeno quindici giorni per la restituzione delle somme utilizzate e dei relativi accessori. Se l'apertura di credito e' a tempo indeterminato, ciascuna delle parti puo' recedere dal contratto, mediante preavviso nel termine stabilito dal contratto, dagli usi o, in mancanza, in quello di quindici giorni.",
+    "con_marcatori": "Art. 1845. (Recesso dal contratto). Salvo patto contrario, la banca non puo' recedere dal contratto prima della scadenza del termine, se non per giusta causa. Il recesso sospende immediatamente l'utilizzazione del credito, ma la banca deve concedere un termine di almeno quindici giorni per la restituzione delle somme utilizzate e dei relativi accessori. Se l'apertura di credito e' a tempo indeterminato, ciascuna delle parti puo' recedere dal contratto, mediante preavviso nel termine stabilito dal contratto, dagli usi o, in mancanza, in quello di quindici giorni.",
+    "caratteri": 532
+  },
+  "note": [],
+  "impronta": "sha256:f95b5b8697a7a4290c7f016a67c52142877243726868472158b2ca81de3826b9"
+}

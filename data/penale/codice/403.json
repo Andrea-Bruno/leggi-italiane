@@ -1,0 +1,82 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "403",
+    "rubrica": "Offese a una confessione religiosa mediante vilipendio di persone",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art403"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 197,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque pubblicamente offende una confessione religiosa, mediante vilipendio di chi la professa, e' punito con la multa da euro 1.000 a euro 5.000. Si applica la multa da euro 2.000 a euro 6.000 a chi offende una confessione religiosa, mediante vilipendio di un ministro del culto.",
+    "con_marcatori": "Art. 403. (( (Offese a una confessione religiosa mediante vilipendio di persone). )) ((Chiunque pubblicamente offende una confessione religiosa, mediante vilipendio di chi la professa, e' punito con la multa da euro 1.000 a euro 5.000. Si applica la multa da euro 2.000 a euro 6.000 a chi offende una confessione religiosa, mediante vilipendio di un ministro del culto)).",
+    "caratteri": 282
+  },
+  "note": [
+    {
+      "numero": 197,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 403, primo",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2005-04-29",
+        "numero": "168"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 18 - 29 aprile 2005, n. 168 (in G.U. 1ª s.s. 4/5/2005, n. 18), ha dichiarato \"l'illegittimita' costituzionale dell'art. 403, primo e secondo comma, del codice penale, nella parte in cui prevede, per le offese alla religione cattolica mediante vilipendio di chi la professa o di un ministro del culto, la pena della reclusione rispettivamente fino a due anni e da uno a tre anni, anziche' la pena diminuita stabilita dall'art. 406 dello stesso codice\"."
+    }
+  ],
+  "impronta": "sha256:7d68b7503bcfa64676b772ccf0d69136080feb7a759803a89037a14917de1a16"
+}

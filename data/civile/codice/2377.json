@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2377",
+    "rubrica": "Annullabilita' delle deliberazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2377"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le deliberazioni dell'assemblea, prese in conformita' della legge e dell'atto sostitutivo, vincolano tutti i soci, ancorche' non intervenuti o dissenzienti. Le deliberazioni che non sono prese in conformita' della legge o dello statuto possono essere impugnate dai soci assenti, dissenzienti od astenuti, dagli amministratori, dal consiglio di sorveglianza e dal collegio sindacale. L'impugnazione puo' essere proposta dai soci quando possiedono tante azioni aventi diritto di voto con riferimento alla deliberazione che rappresentino, anche congiuntamente, l'uno per mille del capitale sociale nelle societa' che fanno ricorso al mercato del capitale di rischio e il cinque per cento nelle altre; lo statuto puo' ridurre o escludere questo requisito. Per l'impugnazione delle deliberazioni delle assemblee speciali queste percentuali sono riferite al capitale rappresentato dalle azioni della categoria. I soci che non rappresentano la parte di capitale indicata nel comma precedente e quelli che, in quanto privi di voto, non sono legittimati a proporre l'impugnativa hanno diritto al risarcimento del danno loro cagionato dalla non conformita' della deliberazione alla legge o allo statuto. La deliberazione non puo' essere annullata: 1) per la partecipazione all'assemblea di persone non legittimate, salvo che tale partecipazione sia stata determinante ai fini della regolare costituzione dell'assemblea a norma degli articoli 2368 e 2369; 2) per l'invalidita' di singoli voti o per il loro errato conteggio, salvo che il voto invalido o l'errore di conteggio siano stati determinanti ai fini del raggiungimento della maggioranza richiesta; 3) per l'incompletezza o l'inesattezza del verbale, salvo che impediscano l'accertamento del contenuto, degli effetti e della validita' della deliberazione. L'impugnazione o la domanda di risarcimento del danno sono proposte nel termine di novanta giorni dalla data della deliberazione, ovvero, se questa e' soggetta ad iscrizione nel registro delle imprese, entro novanta giorni dall'iscrizione o, se e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro novanta giorni dalla data di questo. L'annullamento della deliberazione ha effetto rispetto a tutti i soci ed obbliga gli amministratori, il consiglio di sorveglianza e il consiglio di gestione a prendere i conseguenti provvedimenti sotto la propria responsabilita'. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione. L'annullamento della deliberazione non puo' aver luogo, se la deliberazione impugnata e' sostituita con altra presa in conformita' della legge e dello statuto. In tal caso il giudice provvede sulle spese di lite, ponendole di norma a carico della societa', e sul risarcimento dell'eventuale danno. Restano salvi i diritti acquisiti dai terzi sulla base della deliberazione sostituita.",
+    "con_marcatori": "Art. 2377. (Annullabilita' delle deliberazioni). ((Le deliberazioni dell'assemblea, prese in conformita' della legge e dell'atto sostitutivo, vincolano tutti i soci, ancorche' non intervenuti o dissenzienti)). Le deliberazioni che non sono prese in conformita' della legge o dello statuto possono essere impugnate dai soci assenti, dissenzienti od astenuti, dagli amministratori, dal consiglio di sorveglianza e dal collegio sindacale. L'impugnazione puo' essere proposta dai soci quando possiedono tante azioni aventi diritto di voto con riferimento alla deliberazione che rappresentino, anche congiuntamente, l'uno per mille del capitale sociale nelle societa' che fanno ricorso al mercato del capitale di rischio e il cinque per cento nelle altre; lo statuto puo' ridurre o escludere questo requisito. Per l'impugnazione delle deliberazioni delle assemblee speciali queste percentuali sono riferite al capitale rappresentato dalle azioni della categoria. I soci che non rappresentano la parte di capitale indicata nel comma precedente e quelli che, in quanto privi di voto, non sono legittimati a proporre l'impugnativa hanno diritto al risarcimento del danno loro cagionato dalla non conformita' della deliberazione alla legge o allo statuto. La deliberazione non puo' essere annullata: 1) per la partecipazione all'assemblea di persone non legittimate, salvo che tale partecipazione sia stata determinante ai fini della regolare costituzione dell'assemblea a norma degli articoli 2368 e 2369; 2) per l'invalidita' di singoli voti o per il loro errato conteggio, salvo che il voto invalido o l'errore di conteggio siano stati determinanti ai fini del raggiungimento della maggioranza richiesta; 3) per l'incompletezza o l'inesattezza del verbale, salvo che impediscano l'accertamento del contenuto, degli effetti e della validita' della deliberazione. L'impugnazione o la domanda di risarcimento del danno sono proposte nel termine di novanta giorni dalla data della deliberazione, ovvero, se questa e' soggetta ad iscrizione nel registro delle imprese, entro novanta giorni dall'iscrizione o, se e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro novanta giorni dalla data di questo. L'annullamento della deliberazione ha effetto rispetto a tutti i soci ed obbliga gli amministratori, il consiglio di sorveglianza e il consiglio di gestione a prendere i conseguenti provvedimenti sotto la propria responsabilita'. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione. L'annullamento della deliberazione non puo' aver luogo, se la deliberazione impugnata e' sostituita con altra presa in conformita' della legge e dello statuto. In tal caso il giudice provvede sulle spese di lite, ponendole di norma a carico della societa', e sul risarcimento dell'eventuale danno. Restano salvi i diritti acquisiti dai terzi sulla base della deliberazione sostituita.",
+    "caratteri": 2907
+  },
+  "note": [],
+  "impronta": "sha256:c321bcb3522d725b305aa0a1a07311f5262f8dd300b70bea7f171f45df152a7e"
+}

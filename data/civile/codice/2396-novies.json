@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2396-novies",
+    "rubrica": "Revisione legale dei conti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2396-novies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". La revisione legale dei conti sulla societa' e' esercitata da un revisore legale dei conti o da una societa' di revisione legale iscritti nell'apposito registro.",
+    "con_marcatori": "Art. 2396-novies. (( (Revisione legale dei conti).)). ((La revisione legale dei conti sulla societa' e' esercitata da un revisore legale dei conti o da una societa' di revisione legale iscritti nell'apposito registro.))",
+    "caratteri": 163
+  },
+  "note": [],
+  "impronta": "sha256:6aeb22385e4032f1ce2a3914639e5e97bda0b8388ba39ceaffd49e4b5e639fd7"
+}

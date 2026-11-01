@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2184",
+    "rubrica": "Divisione del bestiame, dei prodotti e degli utili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2184"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli accrescimenti, i prodotti, gli utili, le spese e, al termine del contratto, il bestiame conferito si dividono nella proporzione stabilita dalle norme corporative, dalla convenzione o dagli usi.",
+    "con_marcatori": "Art. 2184. (Divisione del bestiame, dei prodotti e degli utili). Gli accrescimenti, i prodotti, gli utili, le spese e, al termine del contratto, il bestiame conferito si dividono nella proporzione stabilita dalle norme corporative, dalla convenzione o dagli usi.",
+    "caratteri": 197
+  },
+  "note": [],
+  "impronta": "sha256:727931c8a8254f5d38bbb7464ae1307f09da81b5f44c27616eb46875b204483f"
+}

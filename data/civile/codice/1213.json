@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1213",
+    "rubrica": "Ritiro del deposito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1213"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il deposito non produce effetto se il debitore lo ritira prima che sia stato accettato dal creditore o prima che sia stato riconosciuto valido con sentenza passata in giudicato. Se, dopo l'accettazione del deposito o il passaggio in giudicato della sentenza che lo dichiara valido, il creditore consente che il debitore ritiri il deposito, egli non puo' piu' rivolgersi contro i condebitori e i fideiussori, ne' valersi dei privilegi, del pegno e delle ipoteche che garantivano il credito.",
+    "con_marcatori": "Art. 1213. (Ritiro del deposito). Il deposito non produce effetto se il debitore lo ritira prima che sia stato accettato dal creditore o prima che sia stato riconosciuto valido con sentenza passata in giudicato. Se, dopo l'accettazione del deposito o il passaggio in giudicato della sentenza che lo dichiara valido, il creditore consente che il debitore ritiri il deposito, egli non puo' piu' rivolgersi contro i condebitori e i fideiussori, ne' valersi dei privilegi, del pegno e delle ipoteche che garantivano il credito.",
+    "caratteri": 489
+  },
+  "note": [],
+  "impronta": "sha256:e8977b1bae7c7a3f4c6394f4b313b207f2487d4a472b769299853f9f88844968"
+}

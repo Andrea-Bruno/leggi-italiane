@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "23",
+    "rubrica": "Reclusione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art23"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La pena della reclusione si estende da quindici giorni a ventiquattro anni, ed e' scontata in uno degli stabilimenti a cio' destinati, con l'obbligo del lavoro e con l'isolamento notturno. Il condannato alla reclusione, che ha scontato almeno un anno della pena, puo' essere ammesso al lavoro all'aperto. Sono applicabili alla pena della reclusione le disposizioni degli ultimi due capoversi dell'articolo precedente.",
+    "con_marcatori": "Art. 23. (Reclusione) La pena della reclusione si estende da quindici giorni a ventiquattro anni, ed e' scontata in uno degli stabilimenti a cio' destinati, con l'obbligo del lavoro e con l'isolamento notturno. Il condannato alla reclusione, che ha scontato almeno un anno della pena, puo' essere ammesso al lavoro all'aperto. Sono applicabili alla pena della reclusione le disposizioni degli ultimi due capoversi dell'articolo precedente.",
+    "caratteri": 417
+  },
+  "note": [],
+  "impronta": "sha256:3ec951fe37a6aa3bbe2c853ed9136427f229864f84982d8489055fa056e98e80"
+}

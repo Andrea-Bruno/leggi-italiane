@@ -1,0 +1,94 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "479",
+    "rubrica": "Falsita' ideologica commessa dal pubblico ufficiale in atti pubblici",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art479"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale, che, ricevendo o formando un atto nell'esercizio delle sue funzioni, attesta falsamente che un fatto e' stato da lui compiuto o e' avvenuto alla sua presenza, o attesta come da lui ricevute dichiarazioni a lui non rese, ovvero omette o altera dichiarazioni da lui ricevute, o comunque attesta falsamente fatti dei quali l'atto e' destinato a provare la verita', soggiace alle pene stabilite nell'articolo 476.",
+    "con_marcatori": "Art. 479. (Falsita' ideologica commessa dal pubblico ufficiale in atti pubblici) Il pubblico ufficiale, che, ricevendo o formando un atto nell'esercizio delle sue funzioni, attesta falsamente che un fatto e' stato da lui compiuto o e' avvenuto alla sua presenza, o attesta come da lui ricevute dichiarazioni a lui non rese, ovvero omette o altera dichiarazioni da lui ricevute, o comunque attesta falsamente fatti dei quali l'atto e' destinato a provare la verita', soggiace alle pene stabilite nell'articolo 476. ((86))",
+    "caratteri": 432
+  },
+  "note": [
+    {
+      "numero": 86,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 26 novembre 1980, n. 776",
+          "urn": "urn:nir:stato:decretoLegge:1980-11-26;776",
+          "data": "1980-11-26",
+          "numero": "776",
+          "data_gazzetta": "1980-11-27"
+        },
+        {
+          "denominazione": "L. 22 dicembre 1980, n. 874",
+          "urn": "urn:nir:stato:legge:1980-12-22;874",
+          "data": "1980-12-22",
+          "numero": "874",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articoli 479",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "480",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "481",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "483 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 26 novembre 1980, n. 776, convertito con modificazioni dalla L. 22 dicembre 1980, n. 874, ha disposto (con l'art. 15-quater, comma 1) che \"Le pene per i reati previsti dagli articoli 479, 480, 481 e 483 del codice penale, commessi per conseguire benefici disposti a favore delle popolazioni colpite dagli eventi sismici del novembre 1980, sono aumentate fino alla meta'\"."
+    }
+  ],
+  "impronta": "sha256:e7c356927cec98fb50d5663fa0f902c8697e01e9878fe87a745170623eb3659d"
+}

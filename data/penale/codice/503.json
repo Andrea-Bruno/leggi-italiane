@@ -1,0 +1,61 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "503",
+    "rubrica": "Serrata e sciopero per fini non contrattuali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art503"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 63,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il datore di lavoro o i lavoratori, che per fine politico commettono, rispettivamente, alcuno dei fatti preveduti dall'articolo precedente, sono puniti con la reclusione fino a un anno e con la multa non inferiore a lire diecimila, se si tratta d'un datore di lavoro, ovvero con la reclusione fino a sei mesi e con la multa fino a lire mille, se si tratta di lavoratori.",
+    "con_marcatori": "Art. 503. (Serrata e sciopero per fini non contrattuali) Il datore di lavoro o i lavoratori, che per fine politico commettono, rispettivamente, alcuno dei fatti preveduti dall'articolo precedente, sono puniti con la reclusione fino a un anno e con la multa non inferiore a lire diecimila, se si tratta d'un datore di lavoro, ovvero con la reclusione fino a sei mesi e con la multa fino a lire mille, se si tratta di lavoratori. ((63))",
+    "caratteri": 370
+  },
+  "note": [
+    {
+      "numero": 63,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1974-12-27",
+        "numero": "290"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 19 - 27 dicembre 1974, n. 290 (in G.U. 1ª s.s. 03/01/1975, n. 3), ha dichiarato l'illegittimita' costituzionale del presente articolo \"nella parte in cui punisce anche lo sciopero politico che non sia diretto a sovvertire l'ordinamento costituzionale ovvero ad impedire o ostacolare il libero esercizio dei poteri legittimi nei quali si esprime la sovranita' popolare\"."
+    }
+  ],
+  "impronta": "sha256:7fc34cc86bd7cb187a4b16c2b762fa253e0c05320f50834a996fa57c768f61c5"
+}

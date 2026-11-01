@@ -1,0 +1,121 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "291",
+    "rubrica": "Condizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art291"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 71,
+        "ambito": "parte"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 153,
+        "ambito": "parte"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 329,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "L'adozione e' permessa alle persone che non hanno discendenti legittimi o legittimati, che hanno compiuto gli anni trentacinque e che superano almeno di diciotto anni l'eta' di coloro che intendano adottare. Quando eccezionali circostanze lo consigliano, il tribunale puo' autorizzare l'adozione se l'adottante ha raggiunto almeno l'eta' di trenta anni, ferma restando la differenza di eta' di cui al comma precedente.",
+    "con_marcatori": "Art. 291. (Condizioni). L'adozione e' permessa alle persone che non hanno discendenti legittimi o legittimati, che hanno compiuto gli anni trentacinque e che superano almeno di diciotto anni l'eta' di coloro che intendano adottare.((329)) Quando eccezionali circostanze lo consigliano, il tribunale puo' autorizzare l'adozione se l'adottante ha raggiunto almeno l'eta' di trenta anni, ferma restando la differenza di eta' di cui al comma precedente. (71)(153)",
+    "caratteri": 418
+  },
+  "note": [
+    {
+      "numero": 71,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 291 cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1988-05-19",
+        "numero": "557"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 11 - 19 maggio 1988, n. 557 (in G.U. 1a s.s. 25/5/1988, n. 21) ha dichiarato \"l'illegittimita' costituzionale dell'art. 291 cod. civ., nella parte in cui non consente l'adozione a persone che abbiano discendenti legittimi o legittimati maggiorenni e consenzienti\"."
+    },
+    {
+      "numero": 153,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 291 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2004-07-20",
+        "numero": "245"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 8-20 luglio 2004, n. 245 (in G.U. 1a s.s. 28/7/2004, n. 29) ha dichiarato \"l'illegittimita' costituzionale dell'art. 291 del codice civile nella parte in cui non prevede che l'adozione di maggiorenni non possa essere pronunciata in presenza di figli naturali, riconosciuti dall'adottante, minorenni o, se maggiorenni, non consenzienti\"."
+    },
+    {
+      "numero": 329,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 291, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La Corte Costituzionale, con 23 novembre 2023- 18 gennaio 2024, n. 5 (in G.U. 1a s.s. 24/01/2024, n. 4) ha dichiarato \"l'illegittimita' costituzionale dell'art. 291, primo comma, del codice civile nella parte in cui, per l'adozione del maggiorenne, non consente al giudice di ridurre, nei casi di esigua differenza e sempre che sussistano motivi meritevoli, l'intervallo di eta' di diciotto anni fra adottante e adottando\"."
+    }
+  ],
+  "impronta": "sha256:40ad4dd539a4b4f911fc5fc6d7d05398db36cac290c9d4cc9141e6a98e20b97f"
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1938",
+    "rubrica": "Fideiussione per obbligazioni future o condizionali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1938"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La fideiussione puo' essere prestata anche per un'obbligazione condizionale o futura con la previsione, in questo ultimo caso, dell'importo massimo garantito.",
+    "con_marcatori": "Art. 1938. (( (Fideiussione per obbligazioni future o condizionali). )) ((La fideiussione puo' essere prestata anche per un'obbligazione condizionale o futura con la previsione, in questo ultimo caso, dell'importo massimo garantito)). ((86))",
+    "caratteri": 158
+  },
+  "note": [
+    {
+      "numero": 86,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 17 febbraio 1992, n. 154",
+          "urn": "urn:nir:stato:legge:1992-02-17;154",
+          "data": "1992-02-17",
+          "numero": "154",
+          "data_gazzetta": "1992-02-24"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 17 febbraio 1992, n. 154 ha disposto (con l'art. 11, comma 4) che \"Le disposizioni di cui all'articolo 2, commi 1, 2, 4 e 6, all'articolo 3, commi 1 e 2, agli articoli 4, 5 e 6, commi 1, 2, 4 e 5, all'articolo 8, comma 1, e all'articolo 10 acquistano efficacia trascorsi centoventi giorni dalla data di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:edf1861c550dd2721d7f2c6238a39673b445822f88d42e76d66aede69001fab8"
+}

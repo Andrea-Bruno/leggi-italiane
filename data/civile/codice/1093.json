@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1093",
+    "rubrica": "Riduzione della servitu'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1093"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la servitu' da' diritto di derivare acqua da un fondo e per fatti indipendenti dalla volonta' del proprietario si verifica una diminuzione dell'acqua tale che essa non possa bastare alle esigenze del fondo servente, il proprietario di questo puo' chiedere una riduzione della servitu', avuto riguardo ai bisogni di ciascun fondo. In questo caso e' dovuta una congrua indennita' al proprietario del fondo dominante.",
+    "con_marcatori": "Art. 1093. (Riduzione della servitu'). Se la servitu' da' diritto di derivare acqua da un fondo e per fatti indipendenti dalla volonta' del proprietario si verifica una diminuzione dell'acqua tale che essa non possa bastare alle esigenze del fondo servente, il proprietario di questo puo' chiedere una riduzione della servitu', avuto riguardo ai bisogni di ciascun fondo. In questo caso e' dovuta una congrua indennita' al proprietario del fondo dominante.",
+    "caratteri": 417
+  },
+  "note": [],
+  "impronta": "sha256:0bd209f4d02b0c66042de3173f58bb0bec78dfea56b869b5e16a48a518bf88df"
+}

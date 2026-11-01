@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "556",
+    "rubrica": "Bigamia",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art556"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, essendo legato da matrimonio avente effetti civili, ne contrae un altro, pur avente effetti civili, e' punito con la reclusione da uno a cinque anni. Alla stessa pena soggiace chi, non essendo coniugato, contrae matrimonio con persona legata da matrimonio avente effetti civili. La pena e' aumentata se il colpevole ha indotto in errore la persona, con la quale ha contratto matrimonio, sulla liberta' dello stato proprio o di lei. Se il matrimonio, contratto precedentemente dal bigamo, e' dichiarato nullo, ovvero e' annullato il secondo matrimonio per causa diversa dalla bigamia, il reato e' estinto, anche rispetto a coloro che sono concorsi nel reato, e, se vi e' stata condanna, ne cessano l'esecuzione e gli effetti penali.",
+    "con_marcatori": "Art. 556. (Bigamia) Chiunque, essendo legato da matrimonio avente effetti civili, ne contrae un altro, pur avente effetti civili, e' punito con la reclusione da uno a cinque anni. Alla stessa pena soggiace chi, non essendo coniugato, contrae matrimonio con persona legata da matrimonio avente effetti civili. La pena e' aumentata se il colpevole ha indotto in errore la persona, con la quale ha contratto matrimonio, sulla liberta' dello stato proprio o di lei. Se il matrimonio, contratto precedentemente dal bigamo, e' dichiarato nullo, ovvero e' annullato il secondo matrimonio per causa diversa dalla bigamia, il reato e' estinto, anche rispetto a coloro che sono concorsi nel reato, e, se vi e' stata condanna, ne cessano l'esecuzione e gli effetti penali.",
+    "caratteri": 741
+  },
+  "note": [],
+  "impronta": "sha256:15fbb005b0a76c9657750061823d00ff0282683f1e0c1d4a1f7734fb72ee3078"
+}

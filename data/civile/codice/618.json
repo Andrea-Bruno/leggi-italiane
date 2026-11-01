@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "618",
+    "rubrica": "Casi e termini d'efficacia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art618"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella forma speciale stabilita dall'articolo precedente possono testare soltanto coloro i quali, appartenendo a corpi o servizi mobilitati o comunque impegnati in guerra, si trovano in zona di operazioni belliche o sono prigionieri presso il nemico, e coloro che sono acquartierati o di presidio fuori del Regno o in luoghi dove siano interrotte le comunicazioni. Il testamento perde la sua efficacia tre mesi dopo il ritorno del testatore in un luogo dove e' possibile far testamento nelle forme ordinarie.",
+    "con_marcatori": "Art. 618. (Casi e termini d'efficacia). Nella forma speciale stabilita dall'articolo precedente possono testare soltanto coloro i quali, appartenendo a corpi o servizi mobilitati o comunque impegnati in guerra, si trovano in zona di operazioni belliche o sono prigionieri presso il nemico, e coloro che sono acquartierati o di presidio fuori del Regno o in luoghi dove siano interrotte le comunicazioni. Il testamento perde la sua efficacia tre mesi dopo il ritorno del testatore in un luogo dove e' possibile far testamento nelle forme ordinarie.",
+    "caratteri": 507
+  },
+  "note": [],
+  "impronta": "sha256:d1b553f904faf6863707eae8a9436fe853dd286329f2e2b2952655b975ccb493"
+}

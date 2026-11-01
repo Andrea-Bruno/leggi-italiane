@@ -1,0 +1,90 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "513-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art513-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Illecita concorrenza con minaccia o violenza. Chiunque nell'esercizio di un'attivita' commerciale, industriale o comunque produttiva, compie atti di concorrenza con violenza o minaccia e' punito con la reclusione da due a sei anni. La pena e' aumentata se gli atti di concorrenza riguardano un'attivita' finanziata in tutto o in parte ed in qualsiasi modo dallo Stato o da altri enti pubblici.",
+    "con_marcatori": "Art. 513-bis. Illecita concorrenza con minaccia o violenza. Chiunque nell'esercizio di un'attivita' commerciale, industriale o comunque produttiva, compie atti di concorrenza con violenza o minaccia e' punito con la reclusione da due a sei anni. La pena e' aumentata se gli atti di concorrenza riguardano un'attivita' finanziata in tutto o in parte ed in qualsiasi modo dallo Stato o da altri enti pubblici. (125) ((233))",
+    "caratteri": 393
+  },
+  "note": [
+    {
+      "numero": 125,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 31 maggio 1965, n. 575",
+          "urn": "urn:nir:stato:legge:1965-05-31;575",
+          "data": "1965-05-31",
+          "numero": "575",
+          "data_gazzetta": "1965-06-05"
+        },
+        {
+          "denominazione": "D.L. 13 maggio 1991, n. 152",
+          "urn": "urn:nir:stato:decretoLegge:1991-05-13;152",
+          "data": "1991-05-13",
+          "numero": "152",
+          "data_gazzetta": "1991-05-13"
+        },
+        {
+          "denominazione": "L. 12 luglio 1991, n. 203",
+          "urn": "urn:nir:stato:legge:1991-07-12;203",
+          "data": "1991-07-12",
+          "numero": "203",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 31 maggio 1965, n. 575, come modificata dal D.L. 13 maggio 1991, n. 152, convertito, con modificazioni, dalla L. 12 luglio 1991, n. 203, ha disposto (con l'art. 7, comma 1 e 3) che la pena stabilita per il delitto previsto nel presente articolo e' aumentata da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva."
+    },
+    {
+      "numero": 233,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 6 settembre 2011, n. 159",
+          "urn": "urn:nir:stato:decretoLegislativo:2011-09-06;159",
+          "data": "2011-09-06",
+          "numero": "159",
+          "data_gazzetta": "2011-09-28"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 6 settembre 2011, n. 159 ha disposto: - (con l'art. 71, comma 1) che la pena stabilita per il delitto previsto dal presente articolo e' aumentata da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione; - (con l'art. 71, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva."
+    }
+  ],
+  "impronta": "sha256:7d8bb2e6217e3544b0d000e7856b777f90ee6a29e425342b473394a340210578"
+}

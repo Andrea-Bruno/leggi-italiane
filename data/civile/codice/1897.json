@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1897",
+    "rubrica": "Diminuzione del rischio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1897"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contraente comunica all'assicuratore mutamenti che producono una diminuzione del rischio tale che, se fosse stata conosciuta al momento della conclusione del contratto, avrebbe portato alla stipulazione di un premio minore, l'assicuratore, a decorrere dalla scadenza del premio o della rata di premio successiva alla comunicazione suddetta, non puo' esigere che il minor premio, ma ha facolta' di recedere dal contratto entro due mesi dal giorno in cui e' stata fatta la comunicazione. La dichiarazione di recesso dal contratto ha effetto dopo un mese.",
+    "con_marcatori": "Art. 1897. (Diminuzione del rischio). Se il contraente comunica all'assicuratore mutamenti che producono una diminuzione del rischio tale che, se fosse stata conosciuta al momento della conclusione del contratto, avrebbe portato alla stipulazione di un premio minore, l'assicuratore, a decorrere dalla scadenza del premio o della rata di premio successiva alla comunicazione suddetta, non puo' esigere che il minor premio, ma ha facolta' di recedere dal contratto entro due mesi dal giorno in cui e' stata fatta la comunicazione. La dichiarazione di recesso dal contratto ha effetto dopo un mese.",
+    "caratteri": 558
+  },
+  "note": [],
+  "impronta": "sha256:2a685cd16be2ec78d797768483055c12e39faa56be7fa62516ecd9dcb21b164e"
+}

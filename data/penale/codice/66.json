@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "66",
+    "rubrica": "Limiti degli aumenti di pena nel caso di concorso di piu' circostanze aggravanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art66"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se concorrono piu' circostanze aggravanti, la pena da applicare per effetto degli aumenti non puo' superare il triplo del massimo stabilito dalla legge per il reato, salvo che si tratti delle circostanze indicate nel secondo capoverso dell'articolo 63, ne' comunque eccedere: 1) gli anni trenta, se si tratta della reclusione; 2) gli anni cinque, se si tratta dell'arresto; 3) e, rispettivamente, lire venti milioni o quattro milioni, se si tratta della multa o dell'ammenda; ovvero, rispettivamente, lire sessanta milioni o dodici milioni se il giudice si avvale della facolta' di aumento indicata nel capoverso dell'articolo 133-bis.",
+    "con_marcatori": "Art. 66. (( (Limiti degli aumenti di pena nel caso di concorso di piu' circostanze aggravanti). )) ((Se concorrono piu' circostanze aggravanti, la pena da applicare per effetto degli aumenti non puo' superare il triplo del massimo stabilito dalla legge per il reato, salvo che si tratti delle circostanze indicate nel secondo capoverso dell'articolo 63, ne' comunque eccedere: 1) gli anni trenta, se si tratta della reclusione; 2) gli anni cinque, se si tratta dell'arresto; 3) e, rispettivamente, lire venti milioni o quattro milioni, se si tratta della multa o dell'ammenda; ovvero, rispettivamente, lire sessanta milioni o dodici milioni se il giudice si avvale della facolta' di aumento indicata nel capoverso dell'articolo 133-bis)).",
+    "caratteri": 635
+  },
+  "note": [],
+  "impronta": "sha256:aa288d82cc2d5133c1804c2589b70d336662251470d3ac7b7d0f2a0807cde2b3"
+}

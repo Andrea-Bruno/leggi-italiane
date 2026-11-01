@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2948",
+    "rubrica": "Prescrizione di cinque anni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2948"
+  },
+  "stato": {
+    "codice": "da_verificare",
+    "inapplicabile": null,
+    "certezza": "bassa",
+    "motivazione": "Una nota segnala un effetto abrogativo o di illegittimita' di cui non e' stato possibile determinare l'oggetto: leggere il testo della nota.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 9,
+        "ambito": "non_determinato"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Si prescrivono in cinque anni: 1) le annualita' delle rendite perpetue o vitalizie; 1-bis) il capitale nominale dei titoli di Stato emessi al portatore; 2) le annualita' delle pensioni alimentari; 3) le pigioni delle case, i fitti dei beni rustici e ogni altro corrispettivo di locazioni; 4) gli interessi e, in generale, tutto cio' che deve pagarsi periodicamente ad anno o in termini piu' brevi; 5) le indennita' spettanti per la cessazione del rapporto di lavoro.",
+    "con_marcatori": "Art. 2948. (Prescrizione di cinque anni). Si prescrivono in cinque anni: 1) le annualita' delle rendite perpetue o vitalizie; 1-bis) il capitale nominale dei ((titoli di Stato)) emessi al portatore; 2) le annualita' delle pensioni alimentari; 3) le pigioni delle case, i fitti dei beni rustici e ogni altro corrispettivo di locazioni; 4) gli interessi e, in generale, tutto cio' che deve pagarsi periodicamente ad anno o in termini piu' brevi; (9) 5) le indennita' spettanti per la cessazione del rapporto di lavoro.",
+    "caratteri": 466
+  },
+  "note": [
+    {
+      "numero": 9,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1966-06-10",
+        "numero": "63"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 1-10 giugno 1966, n. 63 (in G.U. 1a s.s. 11/06/1966, n. 143) ha dichiarato l'illegittimita' \"costituzionale degli artt. 2948 n. 4, 2955, n. 2, e 2956, n. 1, del Codice civile limitatamente alla parte in cui consentono che la prescrizione del diritto alla retribuzione decorra durante il rapporto di lavoro\"."
+    }
+  ],
+  "impronta": "sha256:e54949aa9bff2f76eba19a2c473b0d75e7df11a77418b78947bb33c0543c414d"
+}

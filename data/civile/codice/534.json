@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "534",
+    "rubrica": "Diritti dei terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art534"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'erede puo' agire anche contro gli aventi causa da chi possiede a titolo di erede o senza titolo. Sono salvi i diritti acquistati, per effetto di convenzioni a titolo oneroso con l'erede apparente, dai terzi i quali provino di avere contrattato in buona fede. La disposizione del comma precedente non si applica ai beni immobili e ai beni mobili iscritti nei pubblici registri, se l'acquisto a titolo di erede e l'acquisto dall'erede apparente non sono stati trascritti anteriormente alla trascrizione dell'acquisto da parte dell'erede o del legatario vero, o alla trascrizione della domanda giudiziale contro l'erede apparente.",
+    "con_marcatori": "Art. 534. (Diritti dei terzi). L'erede puo' agire anche contro gli aventi causa da chi possiede a titolo di erede o senza titolo. Sono salvi i diritti acquistati, per effetto di convenzioni a titolo oneroso con l'erede apparente, dai terzi i quali provino di avere contrattato in buona fede. La disposizione del comma precedente non si applica ai beni immobili e ai beni mobili iscritti nei pubblici registri, se l'acquisto a titolo di erede e l'acquisto dall'erede apparente non sono stati trascritti anteriormente alla trascrizione dell'acquisto da parte dell'erede o del legatario vero, o alla trascrizione della domanda giudiziale contro l'erede apparente.",
+    "caratteri": 629
+  },
+  "note": [],
+  "impronta": "sha256:cda066f3038d558dda68db8de15a87a362f96726f8d51d66ab03f324378d8218"
+}

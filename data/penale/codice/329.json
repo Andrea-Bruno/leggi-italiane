@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "329",
+    "rubrica": "Rifiuto o ritardo di obbedienza commesso da un militare o da un agente della forza pubblica",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art329"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il militare o l'agente della forza pubblica, il quale rifiuta o ritarda indebitamente di eseguire una richiesta fattagli dall'Autorita' competente nelle forme stabilite dalla legge, e' punito con la reclusione fino a due anni.",
+    "con_marcatori": "Art. 329. (Rifiuto o ritardo di obbedienza commesso da un militare o da un agente della forza pubblica) Il militare o l'agente della forza pubblica, il quale rifiuta o ritarda indebitamente di eseguire una richiesta fattagli dall'Autorita' competente nelle forme stabilite dalla legge, e' punito con la reclusione fino a due anni.",
+    "caratteri": 226
+  },
+  "note": [],
+  "impronta": "sha256:6d1d44297964354c17c9164650b6c298130e24e5991fd695c4627c224e99aaad"
+}

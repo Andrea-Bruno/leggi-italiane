@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1718",
+    "rubrica": "Custodia delle cose e tutela dei diritti del mandante",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1718"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mandatario deve provvedere alla custodia delle cose che gli sono state spedite per conto del mandante e tutelare i diritti di quest'ultimo di fronte al vettore, se le cose presentano segni di deterioramento o sono giunte con ritardo. Se vi e' urgenza, il mandatario puo' procedere alla vendita delle cose a norma dell'art. 1515. Di questi fatti, come pure del mancato arrivo della merce, egli deve dare immediato avviso al mandante. Le disposizioni di questo articolo si applicano anche se il mandatario non accetta l'incarico conferitogli dal mandante, sempre che tale incarico rientri nell'attivita' professionale del mandatario.",
+    "con_marcatori": "Art. 1718. (Custodia delle cose e tutela dei diritti del mandante). Il mandatario deve provvedere alla custodia delle cose che gli sono state spedite per conto del mandante e tutelare i diritti di quest'ultimo di fronte al vettore, se le cose presentano segni di deterioramento o sono giunte con ritardo. Se vi e' urgenza, il mandatario puo' procedere alla vendita delle cose a norma dell'art. 1515. Di questi fatti, come pure del mancato arrivo della merce, egli deve dare immediato avviso al mandante. Le disposizioni di questo articolo si applicano anche se il mandatario non accetta l'incarico conferitogli dal mandante, sempre che tale incarico rientri nell'attivita' professionale del mandatario.",
+    "caratteri": 634
+  },
+  "note": [],
+  "impronta": "sha256:e730a3ad037a18737cdf2252cfd8b05807dbd9ac3b7f679e557df3d1bb3f68d9"
+}

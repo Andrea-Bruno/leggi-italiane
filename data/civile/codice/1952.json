@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1952",
+    "rubrica": "Divieto di agire contro il debitore principale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1952"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il fideiussore non ha regresso contro il debitore principale se, per avere omesso di denunziargli il pagamento fatto, il debitore ha pagato ugualmente il debito. Se il fideiussore ha pagato senza averne dato avviso al debitore principale, questi puo' opporgli le eccezioni che avrebbe potuto opporre al creditore principale all'atto del pagamento. In entrambi i casi e' fatta salva al fideiussore l'azione per la ripetizione contro il creditore.",
+    "con_marcatori": "Art. 1952. (Divieto di agire contro il debitore principale). Il fideiussore non ha regresso contro il debitore principale se, per avere omesso di denunziargli il pagamento fatto, il debitore ha pagato ugualmente il debito. Se il fideiussore ha pagato senza averne dato avviso al debitore principale, questi puo' opporgli le eccezioni che avrebbe potuto opporre al creditore principale all'atto del pagamento. In entrambi i casi e' fatta salva al fideiussore l'azione per la ripetizione contro il creditore.",
+    "caratteri": 445
+  },
+  "note": [],
+  "impronta": "sha256:5255e2944a07223b888cf5ef8898a843f77276e1f2bd89335a7faff619576e5c"
+}

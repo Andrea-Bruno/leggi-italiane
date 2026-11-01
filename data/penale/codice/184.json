@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "184",
+    "rubrica": "Estinzione della pena di morte, dell'ergastolo o di pene temporanee nel caso di concorso di reati",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art184"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando, per effetto di amnistia, indulto o grazia, la pena di morte o dell'ergastolo e' estinta, la pena detentiva temporanea, inflitta per il reato concorrente, e' eseguita per intero. Nondimeno, se il condannato ha gia' interamente subito l'isolamento diurno, applicato a norma del capoverso dell'articolo 72, la pena per il reato concorrente e' ridotta alla meta'; ed e' estinta, se il condannato e' stato detenuto per oltre trenta anni. Se, per effetto di alcuna delle dette cause estintive, non deve essere scontata la pena detentiva temporanea inflitta, per il reato concorrente, al condannato all'ergastolo, non si applica l'isolamento diurno, stabilito nel capoverso dell'articolo 72. Se la pena detentiva deve essere scontata solo in parte, il periodo dell'isolamento diurno, applicato a norma del predetto articolo, puo' essere ridotto fino a tre mesi.",
+    "con_marcatori": "Art. 184. (Estinzione della pena di morte, dell'ergastolo o di pene temporanee nel caso di concorso di reati) ((5)) Quando, per effetto di amnistia, indulto o grazia, la pena di morte o dell'ergastolo e' estinta, la pena detentiva temporanea, inflitta per il reato concorrente, e' eseguita per intero. Nondimeno, se il condannato ha gia' interamente subito l'isolamento diurno, applicato a norma del capoverso dell'articolo 72, la pena per il reato concorrente e' ridotta alla meta'; ed e' estinta, se il condannato e' stato detenuto per oltre trenta anni. ((5)) Se, per effetto di alcuna delle dette cause estintive, non deve essere scontata la pena detentiva temporanea inflitta, per il reato concorrente, al condannato all'ergastolo, non si applica l'isolamento diurno, stabilito nel capoverso dell'articolo 72. Se la pena detentiva deve essere scontata solo in parte, il periodo dell'isolamento diurno, applicato a norma del predetto articolo, puo' essere ridotto fino a tre mesi.",
+    "caratteri": 862
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:5db55d66202641a1b98058d1573b19e54e31eee723c4e004b37dd039fbf2a6b9"
+}

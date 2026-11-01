@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "130",
+    "rubrica": "Atto di celebrazione del matrimonio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art130"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nessuno puo' reclamare il titolo di coniuge e gli effetti del matrimonio, se non presenta l'atto di celebrazione estratto dai registri dello stato civile. Il possesso di stato, quantunque allegato da ambedue i coniugi, non dispensa dal presentare l'atto di celebrazione.",
+    "con_marcatori": "Art. 130. (Atto di celebrazione del matrimonio). Nessuno puo' reclamare il titolo di coniuge e gli effetti del matrimonio, se non presenta l'atto di celebrazione estratto dai registri dello stato civile. Il possesso di stato, quantunque allegato da ambedue i coniugi, non dispensa dal presentare l'atto di celebrazione.",
+    "caratteri": 270
+  },
+  "note": [],
+  "impronta": "sha256:c52112effc84e00d78f16fab38ab6a1263bae99a8f3eef9e4ab78b138d8969ca"
+}

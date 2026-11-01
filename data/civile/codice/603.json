@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "603",
+    "rubrica": "Testamento pubblico",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art603"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il testamento pubblico e' ricevuto dal notaio in presenza di due testimoni. Il testatore, in presenza dei testimoni, dichiara al notaio la sua volonta', la quale e' ridotta in iscritto a cura del notaio stesso. Questi da' lettura del testamento al testatore in presenza dei testimoni. Di ciascuna di tali formalita' e' fatta menzione nel testamento. Il testamento deve indicare il luogo, la data del ricevimento e l'ora della sottoscrizione, ed essere sottoscritto dal testatore, dai testimoni e dal notaio. Se il testatore non puo' sottoscrivere, o puo' farlo solo con grave difficolta', deve dichiararne la causa, e il notaio deve menzionare questa dichiarazione prima della lettura dell'atto. Per il testamento del muto, sordo o sordomuto si osservano le norme stabilite dalla legge notarile per gli atti pubblici di queste persone. Qualora il testatore sia incapace anche di leggere, devono intervenire quattro testimoni.",
+    "con_marcatori": "Art. 603. (Testamento pubblico). Il testamento pubblico e' ricevuto dal notaio in presenza di due testimoni. Il testatore, in presenza dei testimoni, dichiara al notaio la sua volonta', la quale e' ridotta in iscritto a cura del notaio stesso. Questi da' lettura del testamento al testatore in presenza dei testimoni. Di ciascuna di tali formalita' e' fatta menzione nel testamento. Il testamento deve indicare il luogo, la data del ricevimento e l'ora della sottoscrizione, ed essere sottoscritto dal testatore, dai testimoni e dal notaio. Se il testatore non puo' sottoscrivere, o puo' farlo solo con grave difficolta', deve dichiararne la causa, e il notaio deve menzionare questa dichiarazione prima della lettura dell'atto. Per il testamento del muto, sordo o sordomuto si osservano le norme stabilite dalla legge notarile per gli atti pubblici di queste persone. Qualora il testatore sia incapace anche di leggere, devono intervenire quattro testimoni.",
+    "caratteri": 925
+  },
+  "note": [],
+  "impronta": "sha256:60d0d7316f53810e43aa43938d78634de8fe825656f89f2922cad1a17ff9e623"
+}

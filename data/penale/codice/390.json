@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "390",
+    "rubrica": "Procurata inosservanza di pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art390"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi di concorso nel reato, aiuta taluno a sottrarsi all'esecuzione della pena e' punito con la reclusione da tre mesi a cinque anni se si tratta di condannato per delitto, e con la multa da lire cinquecento a diecimila se si tratta di condannato per contravvenzione. Si applicano le disposizioni del terzo capoverso dell'articolo 386.",
+    "con_marcatori": "Art. 390. (Procurata inosservanza di pena) Chiunque, fuori dei casi di concorso nel reato, aiuta taluno a sottrarsi all'esecuzione della pena e' punito con la reclusione da tre mesi a cinque anni se si tratta di condannato per delitto, e con la multa da lire cinquecento a diecimila se si tratta di condannato per contravvenzione. Si applicano le disposizioni del terzo capoverso dell'articolo 386.",
+    "caratteri": 355
+  },
+  "note": [],
+  "impronta": "sha256:8dc7644b35a8f0535af5bdba06b496233a2e121cea6fe2471efbd5e0f1a88f6b"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2447-sexies",
+    "rubrica": "Libri obbligatori e altre scritture contabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2447-sexies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Con riferimento allo specifico affare cui un patrimonio e' destinato ai sensi della lettera a) del primo comma dell'articolo 2447-bis, gli amministratori . . . tengono separatamente i libri e le scritture contabili prescritti dagli articoli 2214 e seguenti. Qualora siano emessi strumenti finanziari, la societa' deve altresi' tenere un libro indicante le loro caratteristiche, l'ammontare di quelli emessi e di quelli estinti, le generalita' dei titolari degli strumenti nominativi e i trasferimenti e i vincoli ad essi relativi.",
+    "con_marcatori": "Art. 2447-sexies. (Libri obbligatori e altre scritture contabili). Con riferimento allo specifico affare cui un patrimonio e' destinato ai sensi della lettera a) del primo comma dell'articolo 2447-bis, gli amministratori ((. . .)) tengono separatamente i libri e le scritture contabili prescritti dagli articoli 2214 e seguenti. Qualora siano emessi strumenti finanziari, la societa' deve altresi' tenere un libro indicante le loro caratteristiche, l'ammontare di quelli emessi e di quelli estinti, le generalita' dei titolari degli strumenti nominativi e i trasferimenti e i vincoli ad essi relativi.",
+    "caratteri": 530
+  },
+  "note": [],
+  "impronta": "sha256:fd85badd0f9f7befde612deeda8577d3164d8f770cafe59336db22b4f1aeeca5"
+}

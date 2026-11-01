@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "317",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art317"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Impedimento di uno dei genitori. Nel caso di lontananza, di incapacita' o di altro impedimento che renda impossibile ad uno dei genitori l'esercizio della responsabilita' genitoriale, questa e' esercitata in modo esclusivo dall'altro. La responsabilita' genitoriale di entrambi i genitori non cessa a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio; il suo esercizio, in tali casi, e' regolato dal capo II del presente titolo.",
+    "con_marcatori": "Art. 317. Impedimento di uno dei genitori. Nel caso di lontananza, di incapacita' o di altro impedimento che renda impossibile ad uno dei genitori l'esercizio della ((responsabilita' genitoriale)), questa e' esercitata in modo esclusivo dall'altro. ((La responsabilita' genitoriale di entrambi i genitori non cessa a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio; il suo esercizio, in tali casi, e' regolato dal capo II del presente titolo.))",
+    "caratteri": 487
+  },
+  "note": [],
+  "impronta": "sha256:ba1a72aff70e8b5ac0290d902bcf8a9eddf86986ba4c5c3dfb32084749801e1a"
+}

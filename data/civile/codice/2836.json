@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2836",
+    "rubrica": "Iscrizione in base ad atto pubblico o a sentenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2836"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il titolo per l'iscrizione risulta da un atto pubblico ricevuto nello Stato o da una sentenza o da altro provvedimento giudiziale ad essa parificato, si deve presentare copia del titolo. COMMA ABROGATO DALLA L. 27 FEBBARIO 1985, N. 52.",
+    "con_marcatori": "Art. 2836. (Iscrizione in base ad atto pubblico o a sentenza). Se il titolo per l'iscrizione risulta da un atto pubblico ricevuto nello Stato o da una sentenza o da altro provvedimento giudiziale ad essa parificato, si deve presentare copia del titolo. ((COMMA ABROGATO DALLA L. 27 FEBBARIO 1985, N. 52)).",
+    "caratteri": 238
+  },
+  "note": [],
+  "impronta": "sha256:992f6e147f25bd579fc36baa69c0c05967640818a8b113bcb9dfbfa509559e80"
+}

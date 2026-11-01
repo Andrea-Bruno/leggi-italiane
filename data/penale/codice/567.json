@@ -1,0 +1,65 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "567",
+    "rubrica": "Alterazione di stato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art567"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 271,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Chiunque, mediante la sostituzione di un neonato, ne altera lo stato civile e' punito con la reclusione da tre a dieci anni. Si applica la reclusione da cinque a quindici anni a chiunque, nella formazione di un atto di nascita, altera lo stato civile di un neonato, mediante false certificazioni, false attestazioni o altre falsita'.",
+    "con_marcatori": "Art. 567. (Alterazione di stato) Chiunque, mediante la sostituzione di un neonato, ne altera lo stato civile e' punito con la reclusione da tre a dieci anni. Si applica la reclusione da cinque a quindici anni a chiunque, nella formazione di un atto di nascita, altera lo stato civile di un neonato, mediante false certificazioni, false attestazioni o altre falsita'. ((271))",
+    "caratteri": 333
+  },
+  "note": [
+    {
+      "numero": 271,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2016-11-10",
+        "numero": "236"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 21 settembre - 10 novembre 2016, n. 236 (in G.U. 1ª s.s. 16/11/2016 n. 46) ha dichiarato l'illegittimita' costituzionale del presente articolo, secondo comma, \"nella parte in cui prevede la pena edittale della reclusione da un minimo di cinque a un massimo di quindici anni, anziche' la pena edittale della reclusione da un minimo di tre a un massimo di dieci anni.\""
+    }
+  ],
+  "impronta": "sha256:9c951648e09b8d0f4c437cce4c41dd9f98e906862de36ba39b45a8aec7920d5e"
+}

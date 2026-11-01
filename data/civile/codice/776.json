@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "776",
+    "rubrica": "Donazione fatta dall'inabilitato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art776"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La donazione fatta dall'inabilitato, anche se anteriore alla sentenza d'inabilitazione o alla nomina del curatore provvisorio, puo' essere annullata se fatta dopo che e' stato promosso il giudizio d'inabilitazione. Il curatore dell'inabilitato per prodigalita' puo' chiedere l'annullamento della donazione, anche se fatta nei sei mesi anteriori all'inizio del giudizio d'inabilitazione.",
+    "con_marcatori": "Art. 776. (Donazione fatta dall'inabilitato). La donazione fatta dall'inabilitato, anche se anteriore alla sentenza d'inabilitazione o alla nomina del curatore provvisorio, puo' essere annullata se fatta dopo che e' stato promosso il giudizio d'inabilitazione. Il curatore dell'inabilitato per prodigalita' puo' chiedere l'annullamento della donazione, anche se fatta nei sei mesi anteriori all'inizio del giudizio d'inabilitazione.",
+    "caratteri": 386
+  },
+  "note": [],
+  "impronta": "sha256:d60a9e3846f58b51c22540aae2aa7b1d26fceb843a2d35b70a11121617a4697c"
+}

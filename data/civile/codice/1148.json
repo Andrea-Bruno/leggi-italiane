@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1148",
+    "rubrica": "Acquisto dei frutti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1148"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il possessore di buona fede fa suoi i frutti naturali separati fino al giorno della domanda giudiziale e i frutti civili maturati fino allo stesso giorno. Egli, fino alla restituzione della cosa, risponde verso il rivendicante dei frutti percepiti dopo la domanda giudiziale e di quelli che avrebbe potuto percepire dopo tale data, usando la diligenza di un buon padre di famiglia.",
+    "con_marcatori": "Art. 1148. (Acquisto dei frutti). Il possessore di buona fede fa suoi i frutti naturali separati fino al giorno della domanda giudiziale e i frutti civili maturati fino allo stesso giorno. Egli, fino alla restituzione della cosa, risponde verso il rivendicante dei frutti percepiti dopo la domanda giudiziale e di quelli che avrebbe potuto percepire dopo tale data, usando la diligenza di un buon padre di famiglia.",
+    "caratteri": 381
+  },
+  "note": [],
+  "impronta": "sha256:3777efeee640906ee789425384d2bebaebf76a6b0ca0200995c3780d04b0baee"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "971",
+    "rubrica": "Affrancazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art971"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "COMMA ABROGATO DALLA L. 18 DICEMBRE 1970, N. 1138. COMMA ABROGATO DALLA L. 18 DICEMBRE 1970, N. 1138. COMMA ABROGATO DALLA L. 18 DICEMBRE 1970, N. 1138. Se piu' sono gli enfiteuti, l'affrancazione puo' promuoversi anche da uno solo di essi, ma per la totalita'. In questo caso l'affrancante subentra nei diritti del concedente verso gli altri enfiteuti, salva, a favore di questi, una riduzione proporzionale del canone. Se piu' sono i concedenti, l'affrancazione puo' effettuarsi per la quota che spetta a ciascun concedente. L'affrancazione si opera mediante il pagamento di una somma risultante dalla capitalizzazione del canone annuo sulla base dell'interesse legale. Le modalita' sono stabilite da leggi speciali.",
+    "con_marcatori": "Art. 971. (Affrancazione). ((COMMA ABROGATO DALLA L. 18 DICEMBRE 1970, N. 1138)). ((COMMA ABROGATO DALLA L. 18 DICEMBRE 1970, N. 1138)). ((COMMA ABROGATO DALLA L. 18 DICEMBRE 1970, N. 1138)). Se piu' sono gli enfiteuti, l'affrancazione puo' promuoversi anche da uno solo di essi, ma per la totalita'. In questo caso l'affrancante subentra nei diritti del concedente verso gli altri enfiteuti, salva, a favore di questi, una riduzione proporzionale del canone. Se piu' sono i concedenti, l'affrancazione puo' effettuarsi per la quota che spetta a ciascun concedente. L'affrancazione si opera mediante il pagamento di una somma risultante dalla capitalizzazione del canone annuo sulla base dell'interesse legale. Le modalita' sono stabilite da leggi speciali.",
+    "caratteri": 718
+  },
+  "note": [],
+  "impronta": "sha256:8ba872b35b852f1780032c40e68e0d2a58edd438d11a999a6c1fbfb12b985367"
+}

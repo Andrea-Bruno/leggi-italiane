@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "868",
+    "rubrica": "Regolamento protettivo dei corsi d'acqua",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art868"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I proprietari d'immobili situati in prossimita' di corsi d'acqua che arrecano o minacciano danni all'agricoltura, ad abitati o a manufatti d'interesse pubblico sono obbligati, anche indipendentemente da un piano di bonifica, a contribuire all'esecuzione delle opere necessarie per il regolamento del corso d'acqua nelle forme stabilite dalle leggi speciali.",
+    "con_marcatori": "Art. 868. (Regolamento protettivo dei corsi d'acqua). I proprietari d'immobili situati in prossimita' di corsi d'acqua che arrecano o minacciano danni all'agricoltura, ad abitati o a manufatti d'interesse pubblico sono obbligati, anche indipendentemente da un piano di bonifica, a contribuire all'esecuzione delle opere necessarie per il regolamento del corso d'acqua nelle forme stabilite dalle leggi speciali.",
+    "caratteri": 357
+  },
+  "note": [],
+  "impronta": "sha256:4c00e2633252e9150ea565ab0815cb9fa985823527eca352d07a092f35c40b51"
+}

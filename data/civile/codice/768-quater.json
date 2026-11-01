@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "768-quater",
+    "rubrica": "Partecipazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art768-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Al contratto devono partecipare anche il coniuge e tutti coloro che sarebbero legittimari ove in quel momento si aprisse la successione nel patrimonio dell'imprenditore. Gli assegnatari dell'azienda o delle partecipazioni societarie devono liquidare gli altri partecipanti al contratto, ove questi non vi rinunzino in tutto o in parte, con il pagamento di una somma corrispondente al valore delle quote previste dagli articoli 536 e seguenti; i contraenti possono convenire che la liquidazione, in tutto o in parte, avvenga in natura. I beni assegnati con lo stesso contratto agli altri partecipanti non assegnatari dell'azienda, secondo il valore attribuito in contratto, sono imputati alle quote di legittima loro spettanti; l'assegnazione puo' essere disposta anche con successivo contratto che sia espressamente dichiarato collegato al primo e purche' vi intervengano i medesimi soggetti che hanno partecipato al primo contratto o coloro che li abbiano sostituiti. Quanto ricevuto dai contraenti non e' soggetto a collazione o a riduzione.",
+    "con_marcatori": "Art. 768-quater. (( (Partecipazione). )) ((Al contratto devono partecipare anche il coniuge e tutti coloro che sarebbero legittimari ove in quel momento si aprisse la successione nel patrimonio dell'imprenditore. Gli assegnatari dell'azienda o delle partecipazioni societarie devono liquidare gli altri partecipanti al contratto, ove questi non vi rinunzino in tutto o in parte, con il pagamento di una somma corrispondente al valore delle quote previste dagli articoli 536 e seguenti; i contraenti possono convenire che la liquidazione, in tutto o in parte, avvenga in natura. I beni assegnati con lo stesso contratto agli altri partecipanti non assegnatari dell'azienda, secondo il valore attribuito in contratto, sono imputati alle quote di legittima loro spettanti; l'assegnazione puo' essere disposta anche con successivo contratto che sia espressamente dichiarato collegato al primo e purche' vi intervengano i medesimi soggetti che hanno partecipato al primo contratto o coloro che li abbiano sostituiti. Quanto ricevuto dai contraenti non e' soggetto a collazione o a riduzione.))",
+    "caratteri": 1043
+  },
+  "note": [],
+  "impronta": "sha256:4dd5bf7ab38a9899ea1ebc304c0f50f3b33283f1eaa270121d7b4d687891db3a"
+}

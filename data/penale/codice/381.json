@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "381",
+    "rubrica": "Altre infedelta' del patrocinatore o del consulente tecnico",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art381"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il patrocinatore o il consulente tecnico, che, in un procedimento dinanzi all'Autorita' giudiziaria, presta contemporaneamente, anche per interposta persona, il suo patrocinio o la sua consulenza a favore di parti contrarie, e' punito, qualora il fatto non costituisca un piu' grave reato, con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire mille. La pena e' della reclusione fino a un anno e della multa da lire cinquecento a cinquemila, se il patrocinatore o il consulente, dopo aver difeso, assistito o rappresentato una parte, assume, senza il consenso di questa, nello stesso procedimento, il patrocinio o la consulenza della parte avversaria.",
+    "con_marcatori": "Art. 381. (Altre infedelta' del patrocinatore o del consulente tecnico) Il patrocinatore o il consulente tecnico, che, in un procedimento dinanzi all'Autorita' giudiziaria, presta contemporaneamente, anche per interposta persona, il suo patrocinio o la sua consulenza a favore di parti contrarie, e' punito, qualora il fatto non costituisca un piu' grave reato, con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire mille. La pena e' della reclusione fino a un anno e della multa da lire cinquecento a cinquemila, se il patrocinatore o il consulente, dopo aver difeso, assistito o rappresentato una parte, assume, senza il consenso di questa, nello stesso procedimento, il patrocinio o la consulenza della parte avversaria.",
+    "caratteri": 674
+  },
+  "note": [],
+  "impronta": "sha256:4267215738f85cc4ed95a6e3e92bf68ba51a95e34cea655ade85c4d7b13caa61"
+}

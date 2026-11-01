@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "76",
+    "rubrica": "Computo dei gradi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art76"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella linea retta si computano altrettanti gradi quante sono le generazioni, escluso lo stipite. Nella linea collaterale i gradi si computano dalle generazioni, salendo da uno dei parenti fino allo stipite comune e da questo discendendo all'altro parente, sempre restando escluso lo stipite.",
+    "con_marcatori": "Art. 76. (Computo dei gradi). Nella linea retta si computano altrettanti gradi quante sono le generazioni, escluso lo stipite. Nella linea collaterale i gradi si computano dalle generazioni, salendo da uno dei parenti fino allo stipite comune e da questo discendendo all'altro parente, sempre restando escluso lo stipite.",
+    "caratteri": 291
+  },
+  "note": [],
+  "impronta": "sha256:84c4230d8bd0f4ad459c7cada166bdd8e1c6f16d1ea1cb7bbcdd9ea34f9f1bcf"
+}

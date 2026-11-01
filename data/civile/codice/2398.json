@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2398",
+    "rubrica": "Presidenza del collegio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il presidente del collegio sindacale e' nominato dall'assemblea.",
+    "con_marcatori": "Art. 2398. (( (Presidenza del collegio). )) ((Il presidente del collegio sindacale e' nominato dall'assemblea.))",
+    "caratteri": 64
+  },
+  "note": [
+    {
+      "numero": 84,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 27 gennaio 1992, n. 88",
+          "urn": "urn:nir:stato:decretoLegislativo:1992-01-27;88",
+          "data": "1992-01-27",
+          "numero": "88",
+          "data_gazzetta": "1992-02-14"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 27 gennaio 1992, n. 88 ha disposto (con l'art. 29, comma 1) che \"Gli articoli 16, 17 e da 21 a 26 hanno effetto a decorrere dalla data della pubblicazione del registro prevista dall'art. 11, comma 1\"."
+    }
+  ],
+  "impronta": "sha256:056b29a07f8518a7b92f4dde278502b30c4c20f753b57d590c62a569dce8e260"
+}

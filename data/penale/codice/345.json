@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "345",
+    "rubrica": "Offesa all'Autorita' mediante danneggiamento di affissioni",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art345"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, per disprezzo verso l'Autorita', rimuove, lacera, o, altrimenti, rende illeggibili o comunque inservibili scritti o disegni affissi o esposti al pubblico per ordine dell'Autorita' stessa, e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila.",
+    "con_marcatori": "Art. 345. (Offesa all'Autorita' mediante danneggiamento di affissioni) Chiunque, per disprezzo verso l'Autorita', rimuove, lacera, o, altrimenti, rende illeggibili o comunque inservibili scritti o disegni affissi o esposti al pubblico per ordine dell'Autorita' stessa, ((e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila)).",
+    "caratteri": 297
+  },
+  "note": [],
+  "impronta": "sha256:649ff63cc8a77a1b2f21f1d528d5fc224a64775bd16dc9756ffd12450a46e5ec"
+}

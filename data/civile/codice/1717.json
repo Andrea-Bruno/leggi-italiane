@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1717",
+    "rubrica": "Sostituto del mandatario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1717"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il mandatario che, nell'esecuzione del mandato, sostituisce altri a se stesso, senza esservi autorizzato o senza che cio' sia necessario per la natura dell'incarico, risponde dell'operato della persona sostituita. Se il mandante aveva autorizzato la sostituzione senza indicare la persona, il mandatario risponde soltanto quando e' in colpa nella scelta. Il mandatario risponde delle istruzioni che ha impartite al sostituto. Il mandante puo' agire direttamente contro la persona sostituita dal mandatario.",
+    "con_marcatori": "Art. 1717. (Sostituto del mandatario). Il mandatario che, nell'esecuzione del mandato, sostituisce altri a se stesso, senza esservi autorizzato o senza che cio' sia necessario per la natura dell'incarico, risponde dell'operato della persona sostituita. Se il mandante aveva autorizzato la sostituzione senza indicare la persona, il mandatario risponde soltanto quando e' in colpa nella scelta. Il mandatario risponde delle istruzioni che ha impartite al sostituto. Il mandante puo' agire direttamente contro la persona sostituita dal mandatario.",
+    "caratteri": 506
+  },
+  "note": [],
+  "impronta": "sha256:35d92a547f77a553deda1808796e0e51613941890faf4c837e7f8fc1d3b01398"
+}

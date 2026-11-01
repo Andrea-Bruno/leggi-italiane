@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1227",
+    "rubrica": "Concorso del fatto colposo del creditore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1227"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il fatto colposo del creditore ha concorso a cagionare il danno, il risarcimento e' diminuito secondo la gravita' della colpa e l'entita' delle conseguenze che ne sono derivate. Il risarcimento non e' dovuto per i danni che il creditore avrebbe potuto evitare usando l'ordinaria diligenza.",
+    "con_marcatori": "Art. 1227. (Concorso del fatto colposo del creditore). Se il fatto colposo del creditore ha concorso a cagionare il danno, il risarcimento e' diminuito secondo la gravita' della colpa e l'entita' delle conseguenze che ne sono derivate. Il risarcimento non e' dovuto per i danni che il creditore avrebbe potuto evitare usando l'ordinaria diligenza.",
+    "caratteri": 292
+  },
+  "note": [],
+  "impronta": "sha256:1eacc375e8a921de374e7dd4fee4ea8f4e7e75b590c0deade9491307e7c232ee"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1480",
+    "rubrica": "Vendita di cosa parzialmente di altri",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1480"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la cosa che il compratore riteneva di proprieta' del venditore era solo in parte di proprieta' altrui, il compratore puo' chiedere la risoluzione del contratto e il risarcimento del danno a norma dell'articolo precedente, quando deve ritenersi, secondo le circostanze, che non avrebbe acquistato la cosa senza quella parte di cui non e' divenuto proprietario; altrimenti puo' solo ottenere una riduzione del prezzo, oltre al risarcimento del danno.",
+    "con_marcatori": "Art. 1480. (Vendita di cosa parzialmente di altri). Se la cosa che il compratore riteneva di proprieta' del venditore era solo in parte di proprieta' altrui, il compratore puo' chiedere la risoluzione del contratto e il risarcimento del danno a norma dell'articolo precedente, quando deve ritenersi, secondo le circostanze, che non avrebbe acquistato la cosa senza quella parte di cui non e' divenuto proprietario; altrimenti puo' solo ottenere una riduzione del prezzo, oltre al risarcimento del danno.",
+    "caratteri": 451
+  },
+  "note": [],
+  "impronta": "sha256:04064d8c9b3a8c5392858b4d650ea4f1e446b147e3fb29f35396044715ec5073"
+}

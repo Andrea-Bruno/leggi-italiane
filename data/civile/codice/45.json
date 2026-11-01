@@ -1,0 +1,87 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "45",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art45"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 45,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Domicilio dei coniugi, del minore e dell'interdetto. Ciascuno dei coniugi ha il proprio domicilio nel luogo in cui ha stabilito la sede principale dei propri affari o interessi. Il minore ha il domicilio nel luogo di residenza della famiglia o quello del tutore. Se i genitori sono separati o il loro matrimonio e' stato annullato o sciolto o ne sono cessati gli effetti civili o comunque non hanno la stessa residenza, il minore ha il domicilio del genitore con il quale convive. L'interdetto ha il domicilio del tutore.",
+    "con_marcatori": "Art. 45. Domicilio dei coniugi, del minore e dell'interdetto. Ciascuno dei coniugi ha il proprio domicilio nel luogo in cui ha stabilito la sede principale dei propri affari o interessi. ((45)) Il minore ha il domicilio nel luogo di residenza della famiglia o quello del tutore. Se i genitori sono separati o il loro matrimonio e' stato annullato o sciolto o ne sono cessati gli effetti civili o comunque non hanno la stessa residenza, il minore ha il domicilio del genitore con il quale convive. L'interdetto ha il domicilio del tutore.",
+    "caratteri": 521
+  },
+  "note": [
+    {
+      "numero": 45,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 45 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "primo comma",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 1 della legge 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1976-07-14",
+        "numero": "171"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 12-14 luglio 1976, n. 171 (in G.U. 1a s.s. 21/7/1976, n. 191) ha dichiarato \"l'illegittimita' costituzionale dell'art. 45 del codice civile, primo comma (nel testo anteriore alla sostituzione operata dall'art. 1 della legge 19 maggio 1975, n. 151), nella parte in cui, in caso di separazione di fatto dei coniugi ed ai fini della competenza per territorio nel giudizio di separazione, prevede che la moglie, la quale abbia fissato altrove la propria residenza, conservi legalmente il domicilio del marito\"."
+    }
+  ],
+  "impronta": "sha256:1ef4013d56f36f67326aa0c8825584080d37ae17d6e75fbc1f791d55ec3099cc"
+}

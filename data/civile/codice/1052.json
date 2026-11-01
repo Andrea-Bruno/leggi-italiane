@@ -1,0 +1,75 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1052",
+    "rubrica": "Passaggio coattivo a favore di fondo non intercluso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1052"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1, comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1",
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 117,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Le disposizioni dell'articolo precedente si possono applicare anche se il proprietario del fondo ha un accesso alla via pubblica, ma questo e' inadatto o insufficiente ai bisogni del fondo e non puo' essere ampliato. Il passaggio puo' essere concesso dall'autorita' giudiziaria solo quando questa riconosce che la domanda risponde alle esigenze dell'agricoltura o dell'industria.",
+    "con_marcatori": "Art. 1052. (Passaggio coattivo a favore di fondo non intercluso). Le disposizioni dell'articolo precedente si possono applicare anche se il proprietario del fondo ha un accesso alla via pubblica, ma questo e' inadatto o insufficiente ai bisogni del fondo e non puo' essere ampliato. Il passaggio puo' essere concesso dall'autorita' giudiziaria solo quando questa riconosce che la domanda risponde alle esigenze dell'agricoltura o dell'industria.((117))",
+    "caratteri": 379
+  },
+  "note": [
+    {
+      "numero": 117,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1",
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 1052, secondo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1999-05-10",
+        "numero": "167"
+      },
+      "testo": "La Corte Costituzione con sentenza 29 aprile-10 maggio 1999 n. 167 (in G.U. 1a s.s. 19/05/1999 n. 20) ha dichiarato \"l'illegittimita' costituzionale dell'art. 1052, secondo comma, del codice civile, nella parte in cui non prevede che il passaggio coattivo di cui al primo comma possa essere concesso dall'autorita' giudiziaria quando questa riconosca che la domanda risponde alle esigenze di accessibilita' - di cui alla legislazione relativa ai portatori di handicap - degli edifici destinati ad uso abitativo.\""
+    }
+  ],
+  "impronta": "sha256:14a847e53b74bc3c46c7eb33a9101d0527a414ca5ec1418d4c243499f31dc53c"
+}

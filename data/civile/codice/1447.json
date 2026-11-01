@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1447",
+    "rubrica": "Contratto concluso in stato di pericolo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1447"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il contratto con cui una parte ha assunto obbligazioni a condizioni inique, per la necessita', nota alla controparte, di salvare se' o altri dal pericolo attuale di un danno grave alla persona, puo' essere rescisso sulla domanda della parte che si e' obbligata. Il giudice nel pronunciare la rescissione, puo', secondo le circostanze, assegnare un equo compenso all'altra parte per l'opera prestata.",
+    "con_marcatori": "Art. 1447. (Contratto concluso in stato di pericolo). Il contratto con cui una parte ha assunto obbligazioni a condizioni inique, per la necessita', nota alla controparte, di salvare se' o altri dal pericolo attuale di un danno grave alla persona, puo' essere rescisso sulla domanda della parte che si e' obbligata. Il giudice nel pronunciare la rescissione, puo', secondo le circostanze, assegnare un equo compenso all'altra parte per l'opera prestata.",
+    "caratteri": 399
+  },
+  "note": [],
+  "impronta": "sha256:676ad15497750b80514797b5f36aa0e1d6e93f152cf47ac3d96af82ab1720b11"
+}

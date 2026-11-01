@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2176",
+    "rubrica": "Reintegrazione del bestiame conferito",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2176"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella soccida stipulata per un tempo non inferiore a tre anni, qualora, durante la prima meta' del periodo contrattuale perisca la maggior parte del bestiame inizialmente conferito, per causa non imputabile al soccidario, questi puo' chiederne la reintegrazione con altri capi di valore intrinseco eguale a quello che i capi periti avevano all'inizio del contratto, tenuto conto del numero, della razza, della qualita', del sesso, del peso e dell'eta'. Se il soccidante non provvede alla reintegrazione, il soccidario puo' recedere dal contratto.",
+    "con_marcatori": "Art. 2176. (Reintegrazione del bestiame conferito). Nella soccida stipulata per un tempo non inferiore a tre anni, qualora, durante la prima meta' del periodo contrattuale perisca la maggior parte del bestiame inizialmente conferito, per causa non imputabile al soccidario, questi puo' chiederne la reintegrazione con altri capi di valore intrinseco eguale a quello che i capi periti avevano all'inizio del contratto, tenuto conto del numero, della razza, della qualita', del sesso, del peso e dell'eta'. Se il soccidante non provvede alla reintegrazione, il soccidario puo' recedere dal contratto.",
+    "caratteri": 546
+  },
+  "note": [],
+  "impronta": "sha256:0b9861496c1a278a3ebc33d4790394fba8510a7c50f6bf5740a7a342ae09a0f9"
+}

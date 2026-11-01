@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2206",
+    "rubrica": "Pubblicita' della procura",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2206"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La procura con sottoscrizione del preponente autenticata deve essere depositata per l'iscrizione presso il competente ufficio del registro delle imprese. In mancanza dell'iscrizione, la rappresentanza si reputa generale e le limitazioni di essa non sono opponibili ai terzi, se non si prova che questi le conoscevano al momento della conclusione dell'affare.",
+    "con_marcatori": "Art. 2206. (Pubblicita' della procura). La procura con sottoscrizione del preponente autenticata deve essere depositata per l'iscrizione presso il competente ufficio del registro delle imprese. In mancanza dell'iscrizione, la rappresentanza si reputa generale e le limitazioni di essa non sono opponibili ai terzi, se non si prova che questi le conoscevano al momento della conclusione dell'affare.",
+    "caratteri": 358
+  },
+  "note": [],
+  "impronta": "sha256:5b9b3a1dca71ff52ef733cb8674fc1c69d4a90ad7fe717fed2aa2d11d1778dcb"
+}

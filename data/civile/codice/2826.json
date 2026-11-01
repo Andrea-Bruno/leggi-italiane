@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2826",
+    "rubrica": "Indicazione dell'immobile ipotecato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2826"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nell'atto di concessione dell'ipoteca l'immobile deve essere specificamente designato con l'indicazione della sua natura, del comune in cui si trova, nonche' dei dati di identificazione catastale; per i fabbricati in corso di costruzione devono essere indicati i dati di identificazione catastale del terreno su cui insistono.",
+    "con_marcatori": "Art. 2826. (( (Indicazione dell'immobile ipotecato).)) ((Nell'atto di concessione dell'ipoteca l'immobile deve essere specificamente designato con l'indicazione della sua natura, del comune in cui si trova, nonche' dei dati di identificazione catastale; per i fabbricati in corso di costruzione devono essere indicati i dati di identificazione catastale del terreno su cui insistono)).",
+    "caratteri": 326
+  },
+  "note": [],
+  "impronta": "sha256:a72ee9fb7ded11a8097c8ad3e14de250d64158f3a22c458e9466b769d523c21b"
+}

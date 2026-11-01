@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "652",
+    "rubrica": "Rifiuto di prestare la propria opera in occasione di un tumulto",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art652"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in occasione di un tumulto o di un pubblico infortunio o di un comune pericolo, ovvero nella flagranza di un reato, rifiuta, senza giusto motivo, di prestare il proprio aiuto o la propria opera, ovvero di dare le informazioni o le indicazioni che gli siano richieste da un pubblico ufficiale o da una persona incaricata di un pubblico servizio, nell'esercizio delle funzioni o del servizio, e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000. Se il colpevole da' informazioni o indicazioni mendaci, e' soggetto alla sanzione amministrativa pecuniaria da euro 6.000 a euro 18.000.",
+    "con_marcatori": "Art. 652. (Rifiuto di prestare la propria opera in occasione di un tumulto) Chiunque, in occasione di un tumulto o di un pubblico infortunio o di un comune pericolo, ovvero nella flagranza di un reato, rifiuta, senza giusto motivo, di prestare il proprio aiuto o la propria opera, ovvero di dare le informazioni o le indicazioni che gli siano richieste da un pubblico ufficiale o da una persona incaricata di un pubblico servizio, nell'esercizio delle funzioni o del servizio, ((e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000)). Se il colpevole da' informazioni o indicazioni mendaci, ((e' soggetto alla sanzione amministrativa pecuniaria da euro 6.000 a euro 18.000)).",
+    "caratteri": 618
+  },
+  "note": [],
+  "impronta": "sha256:9cfdfb2ba74e28217f7f1a141518b5756f6ad6db21651f6c792c0fdb5a64e5d7"
+}

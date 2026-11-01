@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2545-undecies",
+    "rubrica": "Devoluzione del patrimonio e bilancio di trasformazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2545-undecies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La deliberazione di trasformazione devolve il valore effettivo del patrimonio, dedotti il capitale versato e rivalutato e i dividendi non ancora distribuiti, eventualmente aumentato fino a concorrenza dell'ammontare minimo del capitale della nuova societa', esistenti alla data di trasformazione, ai fondi mutualistici per la promozione e lo sviluppo della cooperazione. Alla proposta di deliberazione di trasformazione gli amministratori allegano una relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa' cooperativa, attestante il valore effettivo del patrimonio dell'impresa. L'assemblea non puo' procedere alla deliberazione di cui ai precedenti commi qualora la cooperativa non sia stata sottoposta a revisione da parte dell'autorita' di vigilanza nell'anno precedente o, comunque, gli amministratori non ne abbiano fatto richiesta da almeno novanta giorni.",
+    "con_marcatori": "Art. 2545-undecies. (Devoluzione del patrimonio e bilancio di trasformazione). La deliberazione di trasformazione devolve il valore effettivo del patrimonio, dedotti il capitale versato e rivalutato e i dividendi non ancora distribuiti, eventualmente aumentato fino a concorrenza dell'ammontare minimo del capitale della nuova societa', esistenti alla data di trasformazione, ai fondi mutualistici per la promozione e lo sviluppo della cooperazione. Alla proposta di deliberazione di trasformazione gli amministratori allegano una relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa' cooperativa, attestante il valore effettivo del patrimonio dell'impresa. ((L'assemblea non puo' procedere alla deliberazione di cui ai precedenti commi qualora la cooperativa non sia stata sottoposta a revisione da parte dell'autorita' di vigilanza nell'anno precedente o, comunque, gli amministratori non ne abbiano fatto richiesta da almeno novanta giorni.))",
+    "caratteri": 904
+  },
+  "note": [],
+  "impronta": "sha256:3d7def6099f8678794976070e0ea4e14e97286ac54495571188bd809bc534ec9"
+}

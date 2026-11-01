@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "35-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art35-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "bis. (Sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese). La sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese priva il condannato della capacita' di esercitare, durante la sospensione, l'ufficio di amministratore, sindaco, liquidatore , direttore generale e dirigente preposto alla redazione dei documenti contabili societari, nonche' ogni altro ufficio con potere di rappresentanza della persona giuridica o dell'imprenditore. Essa non puo' avere una durata inferiore a quindici giorni ne' superiore a due anni e consegue ad ogni condanna all'arresto per contravvenzioni commesse con abuso dei poteri o violazione dei doveri inerenti all'ufficio.",
+    "con_marcatori": "Art. 35 bis. (Sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese). La sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese priva il condannato della capacita' di esercitare, durante la sospensione, l'ufficio di amministratore, sindaco, liquidatore ((, direttore generale e dirigente preposto alla redazione dei documenti contabili societari)), nonche' ogni altro ufficio con potere di rappresentanza della persona giuridica o dell'imprenditore. Essa non puo' avere una durata inferiore a quindici giorni ne' superiore a due anni e consegue ad ogni condanna all'arresto per contravvenzioni commesse con abuso dei poteri o violazione dei doveri inerenti all'ufficio.",
+    "caratteri": 730
+  },
+  "note": [],
+  "impronta": "sha256:4f52300ec7ce947b7a4b4bc7772604c053c3f50f9fd56d19386a0be2ca61d09c"
+}

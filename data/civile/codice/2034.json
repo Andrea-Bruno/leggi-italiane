@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2034",
+    "rubrica": "Obbligazioni naturali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2034"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non e' ammessa la ripetizione di quanto e' stato spontaneamente prestato in esecuzione di doveri morali o sociali, salvo che la prestazione sia stata eseguita da un incapace. I doveri indicati dal comma precedente, e ogni altro per cui la legge non accorda azione ma esclude la ripetizione di cio' che e' stato spontaneamente pagato, non producono altri effetti.",
+    "con_marcatori": "Art. 2034. (Obbligazioni naturali). Non e' ammessa la ripetizione di quanto e' stato spontaneamente prestato in esecuzione di doveri morali o sociali, salvo che la prestazione sia stata eseguita da un incapace. I doveri indicati dal comma precedente, e ogni altro per cui la legge non accorda azione ma esclude la ripetizione di cio' che e' stato spontaneamente pagato, non producono altri effetti.",
+    "caratteri": 362
+  },
+  "note": [],
+  "impronta": "sha256:a78ffcac2b7a2ef1d185caf8b56a3a7f4122cfc546f4b0897f8594001327922e"
+}

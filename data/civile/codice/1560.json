@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1560",
+    "rubrica": "Entita' della somministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1560"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Qualora non sia determinata l'entita' della somministrazione, s'intende pattuita quella corrispondente al normale fabbisogno della parte che vi ha diritto, avuto riguardo al tempo della conclusione del contratto. Se le parti hanno stabilito soltanto il limite massimo e quello minimo per l'intera somministrazione o per le singole prestazioni, spetta all'avente diritto alla somministrazione di stabilire, entro i limiti suddetti, il quantitativo dovuto. Se l'entita' della somministrazione deve determinarsi in relazione al fabbisogno, ed e' stabilito un quantitativo minimo, l'avente diritto alla somministrazione e' tenuto per la quantita' corrispondente al fabbisogno se questo supera il minimo stesso.",
+    "con_marcatori": "Art. 1560. (Entita' della somministrazione). Qualora non sia determinata l'entita' della somministrazione, s'intende pattuita quella corrispondente al normale fabbisogno della parte che vi ha diritto, avuto riguardo al tempo della conclusione del contratto. Se le parti hanno stabilito soltanto il limite massimo e quello minimo per l'intera somministrazione o per le singole prestazioni, spetta all'avente diritto alla somministrazione di stabilire, entro i limiti suddetti, il quantitativo dovuto. Se l'entita' della somministrazione deve determinarsi in relazione al fabbisogno, ed e' stabilito un quantitativo minimo, l'avente diritto alla somministrazione e' tenuto per la quantita' corrispondente al fabbisogno se questo supera il minimo stesso.",
+    "caratteri": 706
+  },
+  "note": [],
+  "impronta": "sha256:24b57d1efdb1a250755ac29498391f60d7ad12d011b134da86347d68d81c15bc"
+}

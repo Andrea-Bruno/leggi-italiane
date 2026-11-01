@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2512",
+    "rubrica": "Cooperativa a mutualita' prevalente",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2512"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Sono societa' cooperative a mutualita' prevalente, in ragione del tipo di scambio mutualistico, quelle che: 1) svolgono la loro attivita' prevalentemente in favore dei soci, consumatori o utenti di beni o servizi; 2) si avvalgono prevalentemente, nello svolgimento della loro attivita', delle prestazioni lavorative dei soci; 3) si avvalgono prevalentemente, nello svolgimento della loro attivita', degli apporti di beni o servizi da parte dei soci. Le societa' cooperative a mutualita' prevalente si iscrivono in un apposito albo, presso il quale depositano annualmente i propri bilanci.",
+    "con_marcatori": "Art. 2512. (( (Cooperativa a mutualita' prevalente).)) ((Sono societa' cooperative a mutualita' prevalente, in ragione del tipo di scambio mutualistico, quelle che: 1) svolgono la loro attivita' prevalentemente in favore dei soci, consumatori o utenti di beni o servizi; 2) si avvalgono prevalentemente, nello svolgimento della loro attivita', delle prestazioni lavorative dei soci; 3) si avvalgono prevalentemente, nello svolgimento della loro attivita', degli apporti di beni o servizi da parte dei soci. Le societa' cooperative a mutualita' prevalente si iscrivono in un apposito albo, presso il quale depositano annualmente i propri bilanci.))",
+    "caratteri": 588
+  },
+  "note": [],
+  "impronta": "sha256:c3f51eba0d2d35e79f334059e470962f9c0c4fe93539b6c821c7fc0d7f04fc95"
+}

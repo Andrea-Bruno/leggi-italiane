@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1407",
+    "rubrica": "Forma",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1407"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se una parte ha consentito preventivamente che l'altra sostituisca a se' un terzo nei rapporti derivanti dal contratto, la sostituzione e' efficace nei suoi confronti dal momento in cui le e' stata notificata o in cui essa l'ha accettata. Se tutti gli elementi del contratto risultano da un documento nel quale e' inserita la clausola «all'ordine» o altra equivalente, la girata del documento produce la sostituzione del giratario nella posizione del girante.",
+    "con_marcatori": "Art. 1407. (Forma). Se una parte ha consentito preventivamente che l'altra sostituisca a se' un terzo nei rapporti derivanti dal contratto, la sostituzione e' efficace nei suoi confronti dal momento in cui le e' stata notificata o in cui essa l'ha accettata. Se tutti gli elementi del contratto risultano da un documento nel quale e' inserita la clausola «all'ordine» o altra equivalente, la girata del documento produce la sostituzione del giratario nella posizione del girante.",
+    "caratteri": 459
+  },
+  "note": [],
+  "impronta": "sha256:625770aba8acba4093b40945119fba0d895bd04598ea3f82de3843bdebfd9527"
+}

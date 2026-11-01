@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2557",
+    "rubrica": "Divieto di concorrenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2557"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi aliena l'azienda deve astenersi, per il periodo di cinque anni dal trasferimento, dall'iniziare una nuova impresa che per l'oggetto, l'ubicazione o altre circostanze sia idonea a sviare la clientela dell'azienda ceduta. Il patto di astenersi dalla concorrenza in limiti piu' ampi di quelli previsti dal comma precedente e' valido, purche' non impedisca ogni attivita' professionale dell'alienante. Esso non puo' eccedere la durata di cinque anni dal trasferimento. Se nel patto e' indicata una durata maggiore o la durata non e' stabilita, il divieto di concorrenza vale per il periodo di cinque anni dal trasferimento. Nel caso di usufrutto o di affitto dell'azienda il divieto di concorrenza disposto dal primo comma vale nei confronti del proprietario o del locatore per la durata dell'usufrutto o dell'affitto. Le disposizioni di questo articolo si applicano alle aziende agricole solo per le attivita' ad esse connesse, quando rispetto a queste sia possibile uno sviamento di clientela.",
+    "con_marcatori": "Art. 2557. (Divieto di concorrenza). Chi aliena l'azienda deve astenersi, per il periodo di cinque anni dal trasferimento, dall'iniziare una nuova impresa che per l'oggetto, l'ubicazione o altre circostanze sia idonea a sviare la clientela dell'azienda ceduta. Il patto di astenersi dalla concorrenza in limiti piu' ampi di quelli previsti dal comma precedente e' valido, purche' non impedisca ogni attivita' professionale dell'alienante. Esso non puo' eccedere la durata di cinque anni dal trasferimento. Se nel patto e' indicata una durata maggiore o la durata non e' stabilita, il divieto di concorrenza vale per il periodo di cinque anni dal trasferimento. Nel caso di usufrutto o di affitto dell'azienda il divieto di concorrenza disposto dal primo comma vale nei confronti del proprietario o del locatore per la durata dell'usufrutto o dell'affitto. Le disposizioni di questo articolo si applicano alle aziende agricole solo per le attivita' ad esse connesse, quando rispetto a queste sia possibile uno sviamento di clientela.",
+    "caratteri": 995
+  },
+  "note": [],
+  "impronta": "sha256:96c62e4c1cfd3148b3146bee43cb34fc30b4c84cfed5e630dc66f53d91e10f89"
+}

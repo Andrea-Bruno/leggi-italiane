@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "196",
+    "rubrica": "Obbligazione civile per le multe e le ammende inflitte a persona dipendente",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art196"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei reati commessi da chi e' soggetto all'altrui autorita', direzione o vigilanza, la persona rivestita dell'autorita', o incaricata della direzione o vigilanza, e' obbligata, in caso di insolvibilita' del condannato, al pagamento di una somma pari all'ammontare della multa o dell'ammenda inflitta al colpevole, se si tratta di violazioni di disposizioni che essa era tenuta a far osservare e delle quali non debba rispondere penalmente. Qualora la persona preposta risulti insolvibile, si applicano al condannato le disposizioni dell'articolo 136.",
+    "con_marcatori": "Art. 196. (( (Obbligazione civile per le multe e le ammende inflitte a persona dipendente).)) ((Nei reati commessi da chi e' soggetto all'altrui autorita', direzione o vigilanza, la persona rivestita dell'autorita', o incaricata della direzione o vigilanza, e' obbligata, in caso di insolvibilita' del condannato, al pagamento di una somma pari all'ammontare della multa o dell'ammenda inflitta al colpevole, se si tratta di violazioni di disposizioni che essa era tenuta a far osservare e delle quali non debba rispondere penalmente. Qualora la persona preposta risulti insolvibile, si applicano al condannato le disposizioni dell'articolo 136)).",
+    "caratteri": 549
+  },
+  "note": [],
+  "impronta": "sha256:d6dbbea02d40086774d1cd393467656f8a75893ebdd831c4f25c48d0aed33d22"
+}

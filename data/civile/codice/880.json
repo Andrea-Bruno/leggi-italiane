@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "880",
+    "rubrica": "Presunzione di comunione del muro divisorio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art880"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il muro che serve di divisione tra edifici si presume comune fino alla sua sommita' e, in caso di altezze ineguali, fino al punto in cui uno degli edifici comincia ad essere piu' alto. Si presume parimenti comune il muro che serve di divisione tra cortili, giardini e orti o tra recinti nei campi.",
+    "con_marcatori": "Art. 880. (Presunzione di comunione del muro divisorio). Il muro che serve di divisione tra edifici si presume comune fino alla sua sommita' e, in caso di altezze ineguali, fino al punto in cui uno degli edifici comincia ad essere piu' alto. Si presume parimenti comune il muro che serve di divisione tra cortili, giardini e orti o tra recinti nei campi.",
+    "caratteri": 297
+  },
+  "note": [],
+  "impronta": "sha256:d9f62d93759782b701c96c4598e37a7ffe3797abf5c3626abafb68701908a3e2"
+}

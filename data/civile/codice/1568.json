@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1568",
+    "rubrica": "Esclusiva a favore dell'avente diritto alla somministrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1568"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la clausola di esclusiva e' pattuita a favore dell'avente diritto alla somministrazione, il somministrante non puo' compiere nella zona per cui l'esclusiva e' concessa e per la durata del contratto, ne' direttamente ne' indirettamente, prestazioni della stessa natura di quelle che formano oggetto del contratto. L'avente diritto alla somministrazione, che assume l'obbligo di promuovere, nella zona assegnatagli, la vendita delle cose di cui ha l'esclusiva, risponde dei danni in caso di inadempimento a tale obbligo, anche se ha eseguito il contratto rispetto al quantitativo minimo che sia stato fissato.",
+    "con_marcatori": "Art. 1568. (Esclusiva a favore dell'avente diritto alla somministrazione). Se la clausola di esclusiva e' pattuita a favore dell'avente diritto alla somministrazione, il somministrante non puo' compiere nella zona per cui l'esclusiva e' concessa e per la durata del contratto, ne' direttamente ne' indirettamente, prestazioni della stessa natura di quelle che formano oggetto del contratto. L'avente diritto alla somministrazione, che assume l'obbligo di promuovere, nella zona assegnatagli, la vendita delle cose di cui ha l'esclusiva, risponde dei danni in caso di inadempimento a tale obbligo, anche se ha eseguito il contratto rispetto al quantitativo minimo che sia stato fissato.",
+    "caratteri": 610
+  },
+  "note": [],
+  "impronta": "sha256:105169cdc92ffc948bf0d3a8a04bb9bf4b480050a7452da8cb5d477e672ea287"
+}

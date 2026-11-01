@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "145",
+    "rubrica": "Remunerazione ai condannati per il lavoro prestato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art145"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Negli stabilimenti penitenziari, ai condannati e' corrisposta una remunerazione per il lavoro prestato. Sulla remunerazione, salvo che l'adempimento delle obbligazioni sia altrimenti eseguito, sono prelevate nel seguente ordine: 1° le somme dovute a titolo di risarcimento del danno; 2° le spese che lo Stato sostiene per il mantenimento del condannato; 3° le somme dovute a titolo di rimborso delle spese del procedimento. In ogni caso, deve essere riservata a favore del condannato una quota pari a un terzo della remunerazione, a titolo di peculio. Tale quota non e' soggetta a pignoramento o a sequestro.",
+    "con_marcatori": "Art. 145. (Remunerazione ai condannati per il lavoro prestato) Negli stabilimenti penitenziari, ai condannati e' corrisposta una remunerazione per il lavoro prestato. Sulla remunerazione, salvo che l'adempimento delle obbligazioni sia altrimenti eseguito, sono prelevate nel seguente ordine: 1° le somme dovute a titolo di risarcimento del danno; 2° le spese che lo Stato sostiene per il mantenimento del condannato; 3° le somme dovute a titolo di rimborso delle spese del procedimento. In ogni caso, deve essere riservata a favore del condannato una quota pari a un terzo della remunerazione, a titolo di peculio. Tale quota non e' soggetta a pignoramento o a sequestro.",
+    "caratteri": 608
+  },
+  "note": [],
+  "impronta": "sha256:f5e292dce70a0c50b6989c785244385022624314f7eea502d81208548b7ba85b"
+}

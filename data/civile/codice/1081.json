@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1081",
+    "rubrica": "Modulo d'acqua",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1081"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle servitu' in cui e' convenuta ed espressa una costante quantita' di acqua, la quantita' deve esprimersi in relazione al modulo. Il modulo e' l'unita' di misura dell'acqua corrente. Esso e' un corpo d'acqua che scorre nella costante quantita' di cento litri al minuto secondo e si divide in decimi, centesimi e millesimi.",
+    "con_marcatori": "Art. 1081. (Modulo d'acqua). Nelle servitu' in cui e' convenuta ed espressa una costante quantita' di acqua, la quantita' deve esprimersi in relazione al modulo. Il modulo e' l'unita' di misura dell'acqua corrente. Esso e' un corpo d'acqua che scorre nella costante quantita' di cento litri al minuto secondo e si divide in decimi, centesimi e millesimi.",
+    "caratteri": 325
+  },
+  "note": [],
+  "impronta": "sha256:0a353c4b85b88f4962e9f7db2c92760d42e73f7caf7af5a7ec0d3e7408c6b52b"
+}

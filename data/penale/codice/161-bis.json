@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "161-bis",
+    "rubrica": "Cessazione del corso della prescrizione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art161-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il corso della prescrizione del reato cessa definitivamente con la pronunzia della sentenza di primo grado. Nondimeno, nel caso di annullamento che comporti la regressione del procedimento al primo grado o a una fase anteriore, la prescrizione riprende il suo corso dalla data della pronunzia definitiva di annullamento.",
+    "con_marcatori": "Art. 161-bis (( (Cessazione del corso della prescrizione). )) ((Il corso della prescrizione del reato cessa definitivamente con la pronunzia della sentenza di primo grado. Nondimeno, nel caso di annullamento che comporti la regressione del procedimento al primo grado o a una fase anteriore, la prescrizione riprende il suo corso dalla data della pronunzia definitiva di annullamento)).",
+    "caratteri": 320
+  },
+  "note": [],
+  "impronta": "sha256:6c5b63a4a87edb8450277f1149d4abbbca370d58cca64efd4df202aa3bc916cd"
+}

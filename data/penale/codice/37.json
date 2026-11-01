@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "37",
+    "rubrica": "Pene accessorie temporanee: durata",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art37"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando la legge stabilisce che la condanna importa una pena accessoria temporanea, e la durata di questa non e' espressamente determinata, la pena accessoria ha una durata eguale a quella della pena principale inflitta, o che dovrebbe scontarsi, nel caso di conversione, per insolvibilita' del condannato. Tuttavia, in nessun caso essa puo' oltrepassare il limite minimo e quello massimo stabiliti per ciascuna specie di pena accessoria.",
+    "con_marcatori": "Art. 37. (Pene accessorie temporanee: durata) Quando la legge stabilisce che la condanna importa una pena accessoria temporanea, e la durata di questa non e' espressamente determinata, la pena accessoria ha una durata eguale a quella della pena principale inflitta, o che dovrebbe scontarsi, nel caso di conversione, per insolvibilita' del condannato. Tuttavia, in nessun caso essa puo' oltrepassare il limite minimo e quello massimo stabiliti per ciascuna specie di pena accessoria.",
+    "caratteri": 437
+  },
+  "note": [],
+  "impronta": "sha256:39f7ea835d9305b01685e4d7aff7736a2c3aa83bfa81452a4c36ad9761d4a2db"
+}

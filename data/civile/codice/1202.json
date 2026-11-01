@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1202",
+    "rubrica": "Surrogazione per volonta' del debitore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1202"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il debitore, che prende a mutuo una somma di danaro o altra cosa fungibile al fine di pagare il debito, puo' surrogare il mutuante nei diritti del creditore, anche senza il consenso di questo. La surrogazione ha effetto quando concorrono le seguenti condizioni: 1) che il mutuo e la quietanza risultino da atto avente data certa; 2) che nell'atto di mutuo sia indicata espressamente la specifica destinazione della somma mutuata; 3) che nella quietanza si menzioni la dichiarazione del debitore circa la provenienza della somma impiegata nel pagamento. Sulla richiesta del debitore, il creditore non puo' rifiutarsi di inserire nella quietanza tale dichiarazione.",
+    "con_marcatori": "Art. 1202. (Surrogazione per volonta' del debitore). Il debitore, che prende a mutuo una somma di danaro o altra cosa fungibile al fine di pagare il debito, puo' surrogare il mutuante nei diritti del creditore, anche senza il consenso di questo. La surrogazione ha effetto quando concorrono le seguenti condizioni: 1) che il mutuo e la quietanza risultino da atto avente data certa; 2) che nell'atto di mutuo sia indicata espressamente la specifica destinazione della somma mutuata; 3) che nella quietanza si menzioni la dichiarazione del debitore circa la provenienza della somma impiegata nel pagamento. Sulla richiesta del debitore, il creditore non puo' rifiutarsi di inserire nella quietanza tale dichiarazione.",
+    "caratteri": 663
+  },
+  "note": [],
+  "impronta": "sha256:b1a632380c7aca472b68f9224a448ad7e742d6088579f998b0002667b8799deb"
+}

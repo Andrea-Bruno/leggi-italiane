@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1382",
+    "rubrica": "Effetti della clausola penale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1382"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La clausola, con cui si conviene che, in caso d'inadempimento o di ritardo nell'adempimento, uno dei contraenti e' tenuto a una determinata prestazione, ha l'effetto di limitare il risarcimento alla prestazione promessa, se non e' stata convenuta la risarcibilita' del danno ulteriore. La penale e' dovuta indipendentemente dalla prova del danno.",
+    "con_marcatori": "Art. 1382. (Effetti della clausola penale). La clausola, con cui si conviene che, in caso d'inadempimento o di ritardo nell'adempimento, uno dei contraenti e' tenuto a una determinata prestazione, ha l'effetto di limitare il risarcimento alla prestazione promessa, se non e' stata convenuta la risarcibilita' del danno ulteriore. La penale e' dovuta indipendentemente dalla prova del danno.",
+    "caratteri": 346
+  },
+  "note": [],
+  "impronta": "sha256:16ff39790b123f99ad602c12d75e8b66ec914c5943c49b53be6f2a40f00f14c3"
+}

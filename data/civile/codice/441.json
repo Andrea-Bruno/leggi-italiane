@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "441",
+    "rubrica": "Concorso di obbligati",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art441"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se piu' persone sono obbligate nello stesso grado alla prestazione degli alimenti, tutte devono concorrere alla prestazione stessa, ciascuna in proporzione delle proprie condizioni economiche. Se le persone chiamate in grado anteriore alla prestazione non sono in condizioni di sopportare l'onere in tutto o in parte, l'obbligazione stessa e' posta in tutto o in parte a carico delle persone chiamate in grado posteriore. Se gli obbligati non sono concordi sulla misura, sulla distribuzione e sul modo di somministrazione degli alimenti, provvede l'autorita' giudiziaria secondo le circostanze.",
+    "con_marcatori": "Art. 441. (Concorso di obbligati). Se piu' persone sono obbligate nello stesso grado alla prestazione degli alimenti, tutte devono concorrere alla prestazione stessa, ciascuna in proporzione delle proprie condizioni economiche. Se le persone chiamate in grado anteriore alla prestazione non sono in condizioni di sopportare l'onere in tutto o in parte, l'obbligazione stessa e' posta in tutto o in parte a carico delle persone chiamate in grado posteriore. Se gli obbligati non sono concordi sulla misura, sulla distribuzione e sul modo di somministrazione degli alimenti, provvede l'autorita' giudiziaria secondo le circostanze.",
+    "caratteri": 594
+  },
+  "note": [],
+  "impronta": "sha256:54a11dea1bdfcef5fb1020f27757fb8f87f140f2174da5ce98bf548fdaf8458b"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "182",
+    "rubrica": "Effetti delle cause di estinzione del reato o della pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art182"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che la legge disponga altrimenti, l'estinzione del reato o della pena ha effetto soltanto per coloro ai quali la causa di estinzione si riferisce.",
+    "con_marcatori": "Art. 182. (Effetti delle cause di estinzione del reato o della pena) Salvo che la legge disponga altrimenti, l'estinzione del reato o della pena ha effetto soltanto per coloro ai quali la causa di estinzione si riferisce.",
+    "caratteri": 152
+  },
+  "note": [],
+  "impronta": "sha256:4c1c3a1b10127858d6c90dbb566aeeeb82c68745d629ca0859da125fda6ba372"
+}

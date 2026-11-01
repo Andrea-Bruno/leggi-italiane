@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2135",
+    "rubrica": "Imprenditore agricolo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2135"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' imprenditore agricolo chi esercita una delle seguenti attivita': coltivazione del fondo, selvicoltura, allevamento di animali e attivita' connesse. Per coltivazione del fondo, per selvicoltura e per allevamento di animali si intendono le attivita' dirette alla cura ed allo sviluppo di un ciclo biologico o di una fase necessaria del ciclo stesso, di carattere vegetale o animale, che utilizzano o possono utilizzare il fondo, il bosco o le acque dolci, salmastre o marine. Si intendono comunque connesse le attivita', esercitate dal medesimo imprenditore agricolo, dirette alla manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione che abbiano ad oggetto prodotti ottenuti prevalentemente dalla coltivazione del fondo o del bosco o dall'allevamento di animali, nonche' le attivita' dirette alla fornitura di beni o servizi mediante l'utilizzazione prevalente di attrezzature o risorse dell'azienda normalmente impiegate nell'attivita' agricola esercitata, ivi comprese le attivita' di valorizzazione del territorio e del patrimonio rurale e forestale, ovvero di ricezione ed ospitalita' come definite dalla legge. (133a) ------------- AGGIORNAMENTO (133a) Il D.Lgs. 18 maggio 2001, n. 228 ha disposto (con l'art. 1, comma 2) che \"Si considerano imprenditori agricoli le cooperative di imprenditori agricoli ed i loro consorzi quando utilizzano per lo svolgimento delle attivita' di cui all'articolo 2135 del codice civile, come sostituito dal comma 1 del presente articolo, prevalentemente prodotti dei soci, ovvero forniscono prevalentemente ai soci beni e servizi diretti alla cura ed allo sviluppo del ciclo biologico\".",
+    "con_marcatori": "Art. 2135. (Imprenditore agricolo). E' imprenditore agricolo chi esercita una delle seguenti attivita': coltivazione del fondo, selvicoltura, allevamento di animali e attivita' connesse. Per coltivazione del fondo, per selvicoltura e per allevamento di animali si intendono le attivita' dirette alla cura ed allo sviluppo di un ciclo biologico o di una fase necessaria del ciclo stesso, di carattere vegetale o animale, che utilizzano o possono utilizzare il fondo, il bosco o le acque dolci, salmastre o marine. Si intendono comunque connesse le attivita', esercitate dal medesimo imprenditore agricolo, dirette alla manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione che abbiano ad oggetto prodotti ottenuti prevalentemente dalla coltivazione del fondo o del bosco o dall'allevamento di animali, nonche' le attivita' dirette alla fornitura di beni o servizi mediante l'utilizzazione prevalente di attrezzature o risorse dell'azienda normalmente impiegate nell'attivita' agricola esercitata, ivi comprese le attivita' di valorizzazione del territorio e del patrimonio rurale e forestale, ovvero di ricezione ed ospitalita' come definite dalla legge. ((271)) (133a) ------------- AGGIORNAMENTO (133a) Il D.Lgs. 18 maggio 2001, n. 228 ha disposto (con l'art. 1, comma 2) che \"Si considerano imprenditori agricoli le cooperative di imprenditori agricoli ed i loro consorzi quando utilizzano per lo svolgimento delle attivita' di cui all'articolo 2135 del codice civile, come sostituito dal comma 1 del presente articolo, prevalentemente prodotti dei soci, ovvero forniscono prevalentemente ai soci beni e servizi diretti alla cura ed allo sviluppo del ciclo biologico\".",
+    "caratteri": 1655
+  },
+  "note": [
+    {
+      "numero": 271,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 maggio 2001, n. 228",
+          "urn": "urn:nir:stato:decretoLegislativo:2001-05-18;228",
+          "data": "2001-05-18",
+          "numero": "228",
+          "data_gazzetta": "2001-06-15"
+        },
+        {
+          "denominazione": "D.L. 20 giugno 2017, n. 91",
+          "urn": "urn:nir:stato:decretoLegge:2017-06-20;91",
+          "data": "2017-06-20",
+          "numero": "91",
+          "data_gazzetta": "2017-06-20"
+        },
+        {
+          "denominazione": "L. 3 agosto 2017, n. 123",
+          "urn": "urn:nir:stato:legge:2017-08-03;123",
+          "data": "2017-08-03",
+          "numero": "123",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2135, terzo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 maggio 2001, n. 228, come modificato dal D.L. 20 giugno 2017, n. 91, convertito con modificazioni dalla L. 3 agosto 2017, n. 123, ha disposto (con l'art. 1, comma 2) che \"Si considerano imprenditori agricoli le cooperative di imprenditori agricoli ed i loro consorzi quando utilizzano per lo svolgimento delle attivita' di cui all'articolo 2135, terzo comma, del codice civile, come sostituito dal comma 1 del presente articolo, prevalentemente prodotti dei soci, ovvero forniscono prevalentemente ai soci beni e servizi diretti alla cura ed allo sviluppo del ciclo biologico\"."
+    }
+  ],
+  "impronta": "sha256:d545bdb4e901c5bfe80a71221905e412ae3cd6f0be2bb0392b55d09c7c8aa9bf"
+}

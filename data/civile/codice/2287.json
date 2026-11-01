@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2287",
+    "rubrica": "Procedimento di esclusione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2287"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esclusione e' deliberata dalla maggioranza dei soci, non computandosi nel numero di questi il socio da escludere, ed ha effetto decorsi trenta giorni dalla data della comunicazione al socio escluso. Entro questo termine il socio escluso puo' fare opposizione davanti al tribunale, il quale puo' sospendere l'esecuzione. Se la societa' si compone di due soci, l'esclusione di uno di essi e' pronunciata dal tribunale, su domanda dell'altro.",
+    "con_marcatori": "Art. 2287. (Procedimento di esclusione). L'esclusione e' deliberata dalla maggioranza dei soci, non computandosi nel numero di questi il socio da escludere, ed ha effetto decorsi trenta giorni dalla data della comunicazione al socio escluso. Entro questo termine il socio escluso puo' fare opposizione davanti al tribunale, il quale puo' sospendere l'esecuzione. Se la societa' si compone di due soci, l'esclusione di uno di essi e' pronunciata dal tribunale, su domanda dell'altro.",
+    "caratteri": 441
+  },
+  "note": [],
+  "impronta": "sha256:daccce4b2af0a15035f2d6b258cd187b4eb564def3502a51879dc36c98db60d4"
+}

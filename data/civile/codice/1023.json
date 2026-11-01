@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1023",
+    "rubrica": "Ambito della famiglia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1023"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella famiglia si comprendono anche i figli nati dopo che e' cominciato il diritto d'uso o d'abitazione, quantunque nel tempo in cui il diritto e' sorto la persona non avesse contratto matrimonio. Si comprendono inoltre i figli adottivi e i figli riconosciuti, anche se l'adozione o il riconoscimento sono seguiti dopo che il diritto era gia' sorto. Si comprendono infine le persone che convivono con il titolare del diritto per prestare a lui o alla sua famiglia i loro servizi.",
+    "con_marcatori": "Art. 1023. (Ambito della famiglia). Nella famiglia si comprendono anche i figli nati dopo che e' cominciato il diritto d'uso o d'abitazione, quantunque nel tempo in cui il diritto e' sorto la persona non avesse contratto matrimonio. ((Si comprendono inoltre i figli adottivi e i figli riconosciuti, anche se l'adozione o il riconoscimento sono seguiti dopo che il diritto era gia' sorto.)) Si comprendono infine le persone che convivono con il titolare del diritto per prestare a lui o alla sua famiglia i loro servizi.",
+    "caratteri": 479
+  },
+  "note": [],
+  "impronta": "sha256:1aa9773eea9c906914eb39ee58204115f02547a6c6744ea10549c4d141753c11"
+}

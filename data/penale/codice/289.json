@@ -1,0 +1,167 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "289",
+    "rubrica": "Attentato contro organi costituzionali e contro le assemblee regionali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art289"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' punito con la reclusione da uno a cinque anni, qualora non si tratti di un piu' grave delitto, chiunque commette atti violenti diretti ad impedire, in tutto o in parte, anche temporaneamente: 1) al Presidente della Repubblica o al Governo l'esercizio delle attribuzioni o delle prerogative conferite dalla legge; 2) alle assemblee legislative o ad una di queste, o alla Corte costituzionale o alle assemblee regionali l'esercizio delle loro funzioni.",
+    "con_marcatori": "Art. 289. (( (Attentato contro organi costituzionali e contro le assemblee regionali).)) ((E' punito con la reclusione da uno a cinque anni, qualora non si tratti di un piu' grave delitto, chiunque commette atti violenti diretti ad impedire, in tutto o in parte, anche temporaneamente: 1) al Presidente della Repubblica o al Governo l'esercizio delle attribuzioni o delle prerogative conferite dalla legge; 2) alle assemblee legislative o ad una di queste, o alla Corte costituzionale o alle assemblee regionali l'esercizio delle loro funzioni)).",
+    "caratteri": 453
+  },
+  "note": [
+    {
+      "numero": 6,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 14 settembre 1944, n. 288",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-14;288",
+          "data": "1944-09-14",
+          "numero": "288",
+          "data_gazzetta": "1944-11-09"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 14 settembre 1944, n. 288, ha disposto (con l'art. 1, comma 1) che la presente modifica e' apportata fino a quando non sia pubblicato il nuovo Codice penale."
+    },
+    {
+      "numero": 92,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 29 maggio 1982, n. 304",
+          "urn": "urn:nir:stato:legge:1982-05-29;304",
+          "data": "1982-05-29",
+          "numero": "304",
+          "data_gazzetta": "1982-06-02"
+        },
+        {
+          "denominazione": "articoli 241",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "276",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "280",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "283",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "284",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "285",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "286",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "289",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "295 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 1 ottobre 1982, n. 695",
+          "urn": "urn:nir:stato:decretoLegge:1982-10-01;695",
+          "data": "1982-10-01",
+          "numero": "695",
+          "data_gazzetta": "1982-10-02"
+        },
+        {
+          "denominazione": "L. 29 novembre 1982, n. 882",
+          "urn": "urn:nir:stato:legge:1982-11-29;882",
+          "data": "1982-11-29",
+          "numero": "882",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 12 della L. 29 maggio 1982, n. 304",
+          "urn": "urn:nir:stato:legge:1982-05-29;304",
+          "data": "1982-05-29",
+          "numero": "304",
+          "data_gazzetta": "1982-06-02"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 29 maggio 1982, n. 304, ha disposto (con l'art. 5, comma 2) che \"Se il colpevole di uno dei delitti previsti dagli articoli 241, 276, 280, 283, 284, 285, 286, 289 e 295 del codice penale coopera efficacemente ad impedire l'evento cui gli atti da lui commessi sono diretti soggiace soltanto alla pena per gli atti compiuti, qualora questi costituiscano per se' un reato diverso\". Ha inoltre disposto (con l'art. 12, comma 1) che la presente modifica si applica solo ai reati che siano stati commessi o la cui permanenza sia iniziata entro il 31 gennaio 1982, purche' i comportamenti cui e' condizionata la loro applicazione vengano tenuti entro centoventi giorni dall'entrata in vigore della presente legge. ------------ AGGIORNAMENTO (96a) Il D.L. 1 ottobre 1982, n. 695, convertito senza modificazioni dalla L. 29 novembre 1982, n. 882, nel modificare l'art. 12 della L. 29 maggio 1982, n. 304, ha conseguentemente disposto (con l'art. 1) che il termine di centoventi giorni previsto nel suidicato articolo, e' differito di ulteriori centoventi giorni."
+    }
+  ],
+  "impronta": "sha256:451fe509c12e1979b1e3a6bab69fda8f8d4b87cb0d9e51c7b1d6ca69835e114f"
+}

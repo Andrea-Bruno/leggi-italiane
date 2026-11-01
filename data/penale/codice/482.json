@@ -1,0 +1,209 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "482",
+    "rubrica": "Falsita' materiale commessa dal privato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art482"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se alcuno dei fatti preveduti dagli articoli 476, 477 e 478 e' commesso da un privato, ovvero da un pubblico ufficiale fuori dell'esercizio delle sue funzioni, si applicano rispettivamente le pene stabilite nei detti articoli, ridotte di un terzo. (97a)",
+    "con_marcatori": "Art. 482. (Falsita' materiale commessa dal privato) Se alcuno dei fatti preveduti dagli articoli 476, 477 e 478 e' commesso da un privato, ovvero da un pubblico ufficiale fuori dell'esercizio delle sue funzioni, si applicano rispettivamente le pene stabilite nei detti articoli, ridotte di un terzo. (94) (97a) ((129))",
+    "caratteri": 253
+  },
+  "note": [
+    {
+      "numero": 94,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 9 agosto 1982, n. 525",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1982-08-09;525",
+          "data": "1982-08-09",
+          "numero": "525",
+          "data_gazzetta": "1982-08-10"
+        },
+        {
+          "denominazione": "articoli 482",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "483",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "484",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "485",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "489",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "490",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "492 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 2621 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 22 febbraio 1983, n. 43",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1983-02-22;43",
+          "data": "1983-02-22",
+          "numero": "43",
+          "data_gazzetta": "1983-02-22"
+        },
+        {
+          "denominazione": "art. 1, comma 5 del D.P.R. 9 agosto 1982, n. 525",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1982-08-09;525",
+          "data": "1982-08-09",
+          "numero": "525",
+          "data_gazzetta": "1982-08-10"
+        },
+        {
+          "denominazione": "quinto comma dell'art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1982-08-09;525",
+          "data": "1982-08-09",
+          "numero": "525",
+          "data_gazzetta": "1982-08-10"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 9 agosto 1982, n. 525 ha disposto (con l'art. 1, ultimo comma) che \"E' concessa amnistia, alle condizioni sopra indicate, per i reati previsti dagli articoli 482, 483, 484, 485, 489, 490, 492 del codice penale, nonche' dall'articolo 2621 del codice civile, quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria\". ------------- AGGIORNAMENTO (97a) Il D.P.R. 22 febbraio 1983, n. 43, nel modificare l'art. 1, comma 5 del D.P.R. 9 agosto 1982, n. 525, ha conseguentemente disposto (con l'art. 2, comma 3) che \"E' altresi' concessa amnistia, alle condizioni sopra previste, per i reati indicati nel quinto comma dell'art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525, quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo, ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria\"."
+    },
+    {
+      "numero": 129,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "articoli 482",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "483",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "484",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "485",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "489",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "490",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "492 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 20 gennaio 1992, n. 23",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1992-01-20;23",
+          "data": "1992-01-20",
+          "numero": "23",
+          "data_gazzetta": "1992-01-23"
+        },
+        {
+          "denominazione": "art. 2621 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 20 gennaio 1992, n. 23 ha disposto (con l'art. 1, comma 5) che \"E' concessa amnistia, alle condizioni sopra indicate, per i reati, commessi fino al 30 settembre 1991, previsti dagli articoli 482, 483, 484, 485, 489, 490, 492 del codice penale, nonche' dall'art. 2621 del codice civile quando tali reati siano stati commessi per eseguire od occultare quelli indicati nel comma 1 del presente articolo ovvero per conseguirne il profitto e siano riferiti alla stessa pendenza o situazione tributaria\"."
+    }
+  ],
+  "impronta": "sha256:ab7bbac20da02dd564f0a905888c3415480c75f53bd180b1086b778eb8fb1cb9"
+}

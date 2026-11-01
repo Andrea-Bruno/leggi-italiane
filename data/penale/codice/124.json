@@ -1,0 +1,104 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "124",
+    "rubrica": "Termine per proporre la querela. Rinuncia",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art124"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che la legge disponga altrimenti, il diritto di querela non puo' essere esercitato, decorsi tre mesi dal giorno della notizia del fatto che costituisce il reato. Il diritto di querela non puo' essere esercitato se vi e' stata rinuncia espressa o tacita da parte di colui al quale ne spetta l'esercizio. Vi e' rinuncia tacita, quando chi ha facolta' di proporre querela ha compiuto fatti incompatibili con la volonta' di querelarsi. La rinuncia si estende di diritto a tutti coloro che hanno commesso il reato.",
+    "con_marcatori": "Art. 124. (Termine per proporre la querela. Rinuncia) Salvo che la legge disponga altrimenti, il diritto di querela non puo' essere esercitato, decorsi tre mesi dal giorno della notizia del fatto che costituisce il reato. Il diritto di querela non puo' essere esercitato se vi e' stata rinuncia espressa o tacita da parte di colui al quale ne spetta l'esercizio. Vi e' rinuncia tacita, quando chi ha facolta' di proporre querela ha compiuto fatti incompatibili con la volonta' di querelarsi. La rinuncia si estende di diritto a tutti coloro che hanno commesso il reato. (4) ((302))",
+    "caratteri": 515
+  },
+  "note": [
+    {
+      "numero": 4,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "Regio D.L. 13 marzo 1944, n. 75",
+          "urn": "urn:nir:stato:regio.decreto.legge:1944-03-13;75",
+          "data": "1944-03-13",
+          "numero": "75",
+          "data_gazzetta": "1944-03-18"
+        },
+        {
+          "denominazione": "art. 124 C.P.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il Regio D.L. 13 marzo 1944, n. 75 ha disposto (con l'art. 1, comma 1) che \"E' sospeso a decorrere dal 25 luglio 1943 il termine previsto dall'art. 124 C.P. per l'esercizio del diritto di querela per i reati commessi col mezzo della stampa, a favore di chiunque provi di non averlo potuto osservare per cause dipendenti dall'attuale stato di guerra o di non essere venuto per le stesse cause a conoscenza del fatto per il quale intende procedere\"."
+    },
+    {
+      "numero": 302,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.L. 17 marzo 2020, n. 18",
+          "urn": "urn:nir:stato:decretoLegge:2020-03-17;18",
+          "data": "2020-03-17",
+          "numero": "18",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "L. 24 aprile 2020, n. 27",
+          "urn": "urn:nir:stato:legge:2020-04-24;27",
+          "data": "2020-04-24",
+          "numero": "27",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 19 maggio 2020, n. 34",
+          "urn": "urn:nir:stato:decretoLegge:2020-05-19;34",
+          "data": "2020-05-19",
+          "numero": "34",
+          "data_gazzetta": "2020-05-19"
+        },
+        {
+          "denominazione": "articolo 124 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, come modificato dal D.L. 19 maggio 2020, n. 34 ha disposto (con l'art. 83, comma 2) che \"Per il periodo compreso tra il 9 marzo 2020 e l'11 maggio 2020 si considera sospeso il decorso del termine di cui all'articolo 124 del codice penale\"."
+    }
+  ],
+  "impronta": "sha256:fd4519303d08ed9489105aefc8db9fc511a87bdc1401d4367f7325691da1d14d"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2389",
+    "rubrica": "Compensi degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2389"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo diversa disposizione dello statuto, i compensi sono stabiliti all'atto della nomina dall'organo per essa competente. Essi possono essere costituiti in tutto o in parte da partecipazioni agli utili o dall'attribuzione del diritto di sottoscrivere a prezzo predeterminato azioni di futura emissione. La remunerazione degli amministratori investiti di particolari cariche in conformita' dello statuto e' stabilita dal consiglio, sentito il parere dell'organo di controllo. Se lo statuto lo prevede, l'assemblea puo' determinare un importo complessivo per la remunerazione di tutti gli amministratori, inclusi quelli investiti di particolari cariche.",
+    "con_marcatori": "Art. 2389. (Compensi degli amministratori). ((Salvo diversa disposizione dello statuto, i compensi sono stabiliti all'atto della nomina dall'organo per essa competente.)) Essi possono essere costituiti in tutto o in parte da partecipazioni agli utili o dall'attribuzione del diritto di sottoscrivere a prezzo predeterminato azioni di futura emissione. La ((remunerazione)) degli amministratori investiti di particolari cariche in conformita' dello statuto e' stabilita dal ((consiglio)), sentito il parere ((dell'organo di controllo)). Se lo statuto lo prevede, l'assemblea puo' determinare un importo complessivo per la remunerazione di tutti gli amministratori, inclusi quelli investiti di particolari cariche.",
+    "caratteri": 652
+  },
+  "note": [],
+  "impronta": "sha256:19322e7c49e4d6157e6ebb2d0200793916d371b78f3c532b78fcf0c8ea40ff24"
+}

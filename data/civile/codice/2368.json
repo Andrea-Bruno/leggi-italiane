@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2368",
+    "rubrica": "Costituzione dell'assemblea e validita' delle deliberazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2368"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea ordinaria e' regolarmente costituita quando e' rappresentata almeno la meta' del capitale sociale, escluse dal computo le azioni prive del diritto di voto nell'assemblea medesima. Essa delibera a maggioranza assoluta, salvo che lo statuto richieda una maggioranza piu' elevata. Per la nomina alle cariche sociali lo statuto puo' stabilire norme particolari. L'assemblea straordinaria delibera con il voto favorevole di ... piu' della meta' del capitale sociale, se lo statuto non richiede una maggioranza piu' elevata. Nelle societa' che fanno ricorso al mercato del capitale di rischio l'assemblea straordinaria e' regolarmente costituita quando e' rappresentata almeno la meta' del capitale sociale o la maggiore percentuale prevista dallo statuto e delibera con il voto favorevole di almeno i due terzi del capitale rappresentato in assemblea. Salvo diversa disposizione di legge le azioni per le quali non puo' essere esercitato il diritto di voto sono computate ai fini della regolare costituzione dell'assemblea. Le medesime azioni e quelle per le quali il diritto di voto non e' stato esercitato a seguito della dichiarazione del soggetto al quale spetta il diritto di voto di astenersi per conflitto di interessi non sono computate ai fini del calcolo della maggioranza e della quota di capitale richiesta per l'approvazione della deliberazione.",
+    "con_marcatori": "Art. 2368. (Costituzione dell'assemblea e validita' delle deliberazioni). L'assemblea ordinaria e' regolarmente costituita ((quando e' rappresentata)) almeno la meta' del capitale sociale, escluse dal computo le azioni prive del diritto di voto nell'assemblea medesima. Essa delibera a maggioranza assoluta, salvo che lo statuto richieda una maggioranza piu' elevata. Per la nomina alle cariche sociali lo statuto puo' stabilire norme particolari. L'assemblea straordinaria delibera con il voto favorevole di ((...)) piu' della meta' del capitale sociale, se lo statuto non richiede una maggioranza piu' elevata. Nelle societa' che fanno ricorso al mercato del capitale di rischio l'assemblea straordinaria e' regolarmente costituita ((quando e' rappresentata)) almeno la meta' del capitale sociale o la maggiore percentuale prevista dallo statuto e delibera con il voto favorevole di almeno i due terzi del capitale rappresentato in assemblea. Salvo diversa disposizione di legge le azioni per le quali non puo' essere esercitato il diritto di voto sono computate ai fini della regolare costituzione dell'assemblea. Le medesime azioni e quelle per le quali il diritto di voto non e' stato esercitato a seguito della dichiarazione del ((soggetto al quale spetta il diritto di voto)) di astenersi per conflitto di interessi non sono computate ai fini del calcolo della maggioranza e della quota di capitale richiesta per l'approvazione della deliberazione.",
+    "caratteri": 1365
+  },
+  "note": [],
+  "impronta": "sha256:d7d2e50b9e2ae4c10bcc2124b894f78fa376e954f7ce0add76fb14502eb3790d"
+}

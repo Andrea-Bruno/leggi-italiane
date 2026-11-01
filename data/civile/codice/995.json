@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "995",
+    "rubrica": "Cose consumabili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art995"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'usufrutto comprende cose consumabili, l'usufruttuario ha diritto di servirsene e ha l'obbligo di pagarne il valore al termine dell'usufrutto secondo la stima convenuta. Mancando la stima, e' in facolta' dell'usufruttuario di pagare le cose secondo il valore che hanno al tempo in cui finisce l'usufrutto o di restituirne altre in eguale qualita' e quantita'.",
+    "con_marcatori": "Art. 995. (Cose consumabili). Se l'usufrutto comprende cose consumabili, l'usufruttuario ha diritto di servirsene e ha l'obbligo di pagarne il valore al termine dell'usufrutto secondo la stima convenuta. Mancando la stima, e' in facolta' dell'usufruttuario di pagare le cose secondo il valore che hanno al tempo in cui finisce l'usufrutto o di restituirne altre in eguale qualita' e quantita'.",
+    "caratteri": 363
+  },
+  "note": [],
+  "impronta": "sha256:275288fc7e4ebd15916fd2cf9f96f7640a33c7a02caaf23b71328d78632442cf"
+}

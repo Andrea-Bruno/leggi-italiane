@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "588",
+    "rubrica": "Disposizioni a titolo universale e a titolo particolare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art588"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni testamentarie, qualunque sia l'espressione o la denominazione usata dal testatore, sono a titolo universale e attribuiscono la qualita' di erede, se comprendono l'universalita' o una quota dei beni del testatore. Le altre disposizioni sono a titolo particolare e attribuiscono la qualita' di legatario. L'indicazione di beni determinati o di un complesso di beni non esclude che la disposizione sia a titolo universale, quando risulta che il testatore ha inteso assegnare quei beni come quota del patrimonio.",
+    "con_marcatori": "Art. 588. (Disposizioni a titolo universale e a titolo particolare). Le disposizioni testamentarie, qualunque sia l'espressione o la denominazione usata dal testatore, sono a titolo universale e attribuiscono la qualita' di erede, se comprendono l'universalita' o una quota dei beni del testatore. Le altre disposizioni sono a titolo particolare e attribuiscono la qualita' di legatario. L'indicazione di beni determinati o di un complesso di beni non esclude che la disposizione sia a titolo universale, quando risulta che il testatore ha inteso assegnare quei beni come quota del patrimonio.",
+    "caratteri": 524
+  },
+  "note": [],
+  "impronta": "sha256:0e93b99e1e107d00fea3fa40cd9c21fd70d46755b2edacc8feeada78de9e2370"
+}

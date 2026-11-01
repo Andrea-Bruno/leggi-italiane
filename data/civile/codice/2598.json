@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2598",
+    "rubrica": "Atti di concorrenza sleale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2598"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ferme le disposizioni che concernono la tutela dei segni distintivi e dei diritti di brevetto, compie atti di concorrenza sleale chiunque: 1) usa nomi o segni distintivi idonei a produrre confusione con i nomi o con i segni distintivi legittimamente usati da altri, o imita servilmente i prodotti di un concorrente, o compie con qualsiasi altro mezzo atti idonei a creare confusione con i prodotti e con l'attivita' di un concorrente; 2) diffonde notizie e apprezzamenti sui prodotti e sull'attivita' di un concorrente, idonei a determinarne il discredito, o si appropria di pregi dei prodotti o dell'impresa di un concorrente; 3) si vale direttamente o indirettamente di ogni altro mezzo non conforme ai principi della correttezza professionale e idoneo a danneggiare l'altrui azienda.",
+    "con_marcatori": "Art. 2598. (Atti di concorrenza sleale). Ferme le disposizioni che concernono la tutela dei segni distintivi e dei diritti di brevetto, compie atti di concorrenza sleale chiunque: 1) usa nomi o segni distintivi idonei a produrre confusione con i nomi o con i segni distintivi legittimamente usati da altri, o imita servilmente i prodotti di un concorrente, o compie con qualsiasi altro mezzo atti idonei a creare confusione con i prodotti e con l'attivita' di un concorrente; 2) diffonde notizie e apprezzamenti sui prodotti e sull'attivita' di un concorrente, idonei a determinarne il discredito, o si appropria di pregi dei prodotti o dell'impresa di un concorrente; 3) si vale direttamente o indirettamente di ogni altro mezzo non conforme ai principi della correttezza professionale e idoneo a danneggiare l'altrui azienda.",
+    "caratteri": 786
+  },
+  "note": [],
+  "impronta": "sha256:8064e2b386c05207ca145662e8dfd234c37a9453dc59af0709a7e971ba7f56b6"
+}

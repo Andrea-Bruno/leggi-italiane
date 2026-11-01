@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2357-ter",
+    "rubrica": "Disciplina delle proprie azioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2357-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori non possono disporre delle azioni acquistate a norma dei due articoli precedenti se non previa autorizzazione dell'assemblea, la quale deve stabilire le relative modalita'. A tal fine possono essere previste, nei limiti stabiliti dal primo e secondo comma dell'articolo 2357, operazioni successive di acquisto ed alienazione. Finche' le azioni restano in proprieta' della societa', il diritto agli utili e il diritto di opzione sono attribuiti proporzionalmente alle altre azioni. Il diritto di voto e' sospeso, ma le azioni proprie sono tuttavia computate ai fini del calcolo delle maggioranze e delle quote richieste per la costituzione e per le deliberazioni dell'assemblea. Nelle societa' che fanno ricorso al mercato del capitale di rischio il computo delle azioni proprie e' disciplinato dall'articolo 2368, terzo comma. L'acquisto di azioni proprie comporta una riduzione del patrimonio netto di eguale importo, tramite l'iscrizione nel passivo del bilancio di una specifica voce, con segno negativo.",
+    "con_marcatori": "Art. 2357-ter. (Disciplina delle proprie azioni). Gli amministratori non possono disporre delle azioni acquistate a norma dei due articoli precedenti se non previa autorizzazione dell'assemblea, la quale deve stabilire le relative modalita'. A tal fine possono essere previste, nei limiti stabiliti dal primo e secondo comma dell'articolo 2357, operazioni successive di acquisto ed alienazione. Finche' le azioni restano in proprieta' della societa', il diritto agli utili e il diritto di opzione sono attribuiti proporzionalmente alle altre azioni. Il diritto di voto e' sospeso, ma le azioni proprie sono tuttavia computate ai fini del calcolo delle maggioranze e delle quote richieste per la costituzione e per le deliberazioni dell'assemblea. Nelle societa' che fanno ricorso al mercato del capitale di rischio il computo delle azioni proprie e' disciplinato dall'articolo 2368, terzo comma. ((L'acquisto di azioni proprie comporta una riduzione del patrimonio netto di eguale importo, tramite l'iscrizione nel passivo del bilancio di una specifica voce, con segno negativo.)) ((246))",
+    "caratteri": 1026
+  },
+  "note": [
+    {
+      "numero": 246,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 18 agosto 2015, n. 139",
+          "urn": "urn:nir:stato:decretoLegislativo:2015-08-18;139",
+          "data": "2015-08-18",
+          "numero": "139",
+          "data_gazzetta": "2015-09-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016."
+    }
+  ],
+  "impronta": "sha256:4e9f7a73f103541f3e05a85bfb964bf907b2f4c628f57a00865d1aaaa85fc4e8"
+}

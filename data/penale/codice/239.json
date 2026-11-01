@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "239",
+    "rubrica": "Adempimento o trasgressione dell'obbligo di buona condotta",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art239"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se, durante l'esecuzione della misura di sicurezza, chi vi e' sottoposto non commette alcun delitto, ovvero alcuna contravvenzione per la quale la legge stabilisce la pena dell'arresto, e' ordinata la restituzione della somma depositata o la cancellazione della ipoteca; e la fideiussione si estingue. In caso diverso, la somma depositata, o per la quale fu data garanzia, e' devoluta alla Cassa delle ammende.",
+    "con_marcatori": "Art. 239. (Adempimento o trasgressione dell'obbligo di buona condotta) Se, durante l'esecuzione della misura di sicurezza, chi vi e' sottoposto non commette alcun delitto, ovvero alcuna contravvenzione per la quale la legge stabilisce la pena dell'arresto, e' ordinata la restituzione della somma depositata o la cancellazione della ipoteca; e la fideiussione si estingue. In caso diverso, la somma depositata, o per la quale fu data garanzia, e' devoluta alla Cassa delle ammende.",
+    "caratteri": 410
+  },
+  "note": [],
+  "impronta": "sha256:2dfbcfde1c9972b7ce2df5d82b3d7965e4c27536f36e2852bdb3a3b2a9ec5388"
+}

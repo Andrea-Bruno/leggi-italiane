@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "518",
+    "rubrica": "Separazione riguardo agli immobili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art518"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Riguardo agli immobili e agli altri beni capaci d'ipoteca, il diritto alla separazione si esercita mediante l'iscrizione del credito o del legato sopra ciascuno dei beni stessi. L'iscrizione si esegue nei modi stabiliti per iscrivere le ipoteche, indicando il nome del defunto e quello dell'erede, se e' conosciuto, e dichiarando che l'iscrizione stessa viene presa a titolo di separazione dei beni. Per tale iscrizione non e' necessario esibire il titolo. Le iscrizioni a titolo di separazione, anche se eseguite in tempi diversi, prendono tutte il grado della prima e prevalgono sulle trascrizioni ed iscrizioni contro l'erede o il legatario, anche se anteriori. Alle iscrizioni a titolo di separazione sono applicabili le norme sulle ipoteche.",
+    "con_marcatori": "Art. 518. (Separazione riguardo agli immobili). Riguardo agli immobili e agli altri beni capaci d'ipoteca, il diritto alla separazione si esercita mediante l'iscrizione del credito o del legato sopra ciascuno dei beni stessi. L'iscrizione si esegue nei modi stabiliti per iscrivere le ipoteche, indicando il nome del defunto e quello dell'erede, se e' conosciuto, e dichiarando che l'iscrizione stessa viene presa a titolo di separazione dei beni. Per tale iscrizione non e' necessario esibire il titolo. Le iscrizioni a titolo di separazione, anche se eseguite in tempi diversi, prendono tutte il grado della prima e prevalgono sulle trascrizioni ed iscrizioni contro l'erede o il legatario, anche se anteriori. Alle iscrizioni a titolo di separazione sono applicabili le norme sulle ipoteche.",
+    "caratteri": 746
+  },
+  "note": [],
+  "impronta": "sha256:6e01df5872c75acd937380e384fbc5c1668eee76a53e940d7da08ba44ac95b9c"
+}

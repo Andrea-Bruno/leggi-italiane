@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "83",
+    "rubrica": "Evento diverso da quello voluto dall'agente",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art83"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori dei casi preveduti dall'articolo precedente, se, per errore nell'uso dei mezzi di esecuzione del reato, o per un'altra causa, si cagiona un evento diverso da quello voluto, il colpevole risponde, a titolo di colpa, dell'evento non voluto, quando il fatto e' preveduto dalla legge come delitto colposo. Se il colpevole ha cagionato altresi' l'evento voluto, si applicano le regole sul concorso dei reati.",
+    "con_marcatori": "Art. 83. (Evento diverso da quello voluto dall'agente) Fuori dei casi preveduti dall'articolo precedente, se, per errore nell'uso dei mezzi di esecuzione del reato, o per un'altra causa, si cagiona un evento diverso da quello voluto, il colpevole risponde, a titolo di colpa, dell'evento non voluto, quando il fatto e' preveduto dalla legge come delitto colposo. Se il colpevole ha cagionato altresi' l'evento voluto, si applicano le regole sul concorso dei reati.",
+    "caratteri": 409
+  },
+  "note": [],
+  "impronta": "sha256:dea4a5aa8f6ccffac7f0c9b5c60aa67acb8bad01a4f5b3d98cae150dac9c77a7"
+}

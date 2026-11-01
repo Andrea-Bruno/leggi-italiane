@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "544-septies",
+    "rubrica": "Circostanze aggravanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art544-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Le pene previste dagli articoli 544-bis, 544-ter, 544-quater, 544-quinquies e 638 sono aumentate: a) se i fatti sono commessi alla presenza di minori; b) se i fatti sono commessi nei confronti di piu' animali; c) se l'autore diffonde, attraverso strumenti informatici o telematici, immagini, video o altre rappresentazioni del fatto commesso.",
+    "con_marcatori": "Art. 544-septies. (( (Circostanze aggravanti).)). ((Le pene previste dagli articoli 544-bis, 544-ter, 544-quater, 544-quinquies e 638 sono aumentate: a) se i fatti sono commessi alla presenza di minori; b) se i fatti sono commessi nei confronti di piu' animali; c) se l'autore diffonde, attraverso strumenti informatici o telematici, immagini, video o altre rappresentazioni del fatto commesso)).",
+    "caratteri": 344
+  },
+  "note": [],
+  "impronta": "sha256:96167ac1068af163c24d30a2c85c0b7b1876520b818a66485969088748e7eb8a"
+}

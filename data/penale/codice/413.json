@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "413",
+    "rubrica": "Uso illegittimo di cadavere",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art413"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque disseziona o altrimenti adopera un cadavere, o una parte di esso, a scopi scientifici o didattici, in casi non consentiti dalla legge, e' punito con la reclusione fino a sei mesi o con la multa fino a lire cinquemila. La pena e' aumentata se il fatto e' commesso su un cadavere, o su una parte di esso, che il colpevole sappia essere stato da altri mutilato, occultato o sottratto.",
+    "con_marcatori": "Art. 413. (Uso illegittimo di cadavere) Chiunque disseziona o altrimenti adopera un cadavere, o una parte di esso, a scopi scientifici o didattici, in casi non consentiti dalla legge, e' punito con la reclusione fino a sei mesi o con la multa fino a lire cinquemila. La pena e' aumentata se il fatto e' commesso su un cadavere, o su una parte di esso, che il colpevole sappia essere stato da altri mutilato, occultato o sottratto.",
+    "caratteri": 390
+  },
+  "note": [],
+  "impronta": "sha256:681deedcdbf3f0f5d97263138ab23909c9fc63deea4fda605111e9284cc85a38"
+}

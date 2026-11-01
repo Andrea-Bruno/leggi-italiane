@@ -1,0 +1,114 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2119",
+    "rubrica": "Recesso per giusta causa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2119"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ciascuno dei contraenti puo' recedere dal contratto prima della scadenza del termine, se il contratto e' a tempo determinato, o senza preavviso, se il contratto e' a tempo indeterminato, qualora si verifichi una causa che non consenta la prosecuzione, anche provvisoria, del rapporto. Se il contratto e' a tempo indeterminato, al prestatore di lavoro che recede per giusta causa compete l'indennita' indicata nel secondo comma dell'articolo precedente. Non costituisce giusta causa di risoluzione del contratto la liquidazione coatta amministrativa dell'impresa. Gli effetti della liquidazione giudiziale sui rapporti di lavoro sono regolati dal codice della crisi e dell'insolvenza.",
+    "con_marcatori": "Art. 2119. (Recesso per giusta causa). Ciascuno dei contraenti puo' recedere dal contratto prima della scadenza del termine, se il contratto e' a tempo determinato, o senza preavviso, se il contratto e' a tempo indeterminato, qualora si verifichi una causa che non consenta la prosecuzione, anche provvisoria, del rapporto. Se il contratto e' a tempo indeterminato, al prestatore di lavoro che recede per giusta causa compete l'indennita' indicata nel secondo comma dell'articolo precedente. ((Non costituisce giusta causa di risoluzione del contratto la liquidazione coatta amministrativa dell'impresa. Gli effetti della liquidazione giudiziale sui rapporti di lavoro sono regolati dal codice della crisi e dell'insolvenza)). ((303)) ((311)) ((316))",
+    "caratteri": 683
+  },
+  "note": [
+    {
+      "numero": 303,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 12 gennaio 2019, n. 14",
+          "urn": "urn:nir:stato:decretoLegislativo:2019-01-12;14",
+          "data": "2019-01-12",
+          "numero": "14",
+          "data_gazzetta": "2019-02-14"
+        },
+        {
+          "denominazione": "D.L. 8 aprile 2020, n. 23",
+          "urn": "urn:nir:stato:decretoLegge:2020-04-08;23",
+          "data": "2020-04-08",
+          "numero": "23",
+          "data_gazzetta": "2020-04-08"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 2 del presente articolo dal 15 agosto 2020 al 1° settembre 2021."
+    },
+    {
+      "numero": 311,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 12 gennaio 2019, n. 14",
+          "urn": "urn:nir:stato:decretoLegislativo:2019-01-12;14",
+          "data": "2019-01-12",
+          "numero": "14",
+          "data_gazzetta": "2019-02-14"
+        },
+        {
+          "denominazione": "D.L. 24 agosto 2021, n. 118",
+          "urn": "urn:nir:stato:decretoLegge:2021-08-24;118",
+          "data": "2021-08-24",
+          "numero": "118",
+          "data_gazzetta": "2021-08-24"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 2 del presente articolo dal 1° settembre 2021 al 16 maggio 2022."
+    },
+    {
+      "numero": 316,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 12 gennaio 2019, n. 14",
+          "urn": "urn:nir:stato:decretoLegislativo:2019-01-12;14",
+          "data": "2019-01-12",
+          "numero": "14",
+          "data_gazzetta": "2019-02-14"
+        },
+        {
+          "denominazione": "D.L. 30 aprile 2022, n. 36",
+          "urn": "urn:nir:stato:decretoLegge:2022-04-30;36",
+          "data": "2022-04-30",
+          "numero": "36",
+          "data_gazzetta": "2022-04-30"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 2 del presente articolo dal 16 maggio 2022 al 15 luglio 2022."
+    }
+  ],
+  "impronta": "sha256:eca22ac2c0840431cff17832325518dcaa2cb5827e9aea58a87cfedc39005607"
+}

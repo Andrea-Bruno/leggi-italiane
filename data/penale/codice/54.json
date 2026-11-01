@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "54",
+    "rubrica": "Stato di necessita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art54"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non e' punibile chi ha commesso il fatto per esservi stato costretto dalla necessita' di salvare se' od altri dal pericolo attuale di un danno grave alla persona, pericolo da lui non volontariamente causato, ne' altrimenti evitabile, sempre che il fatto sia proporzionato al pericolo. Questa disposizione non si applica a chi ha un particolare dovere giuridico di esporsi al pericolo. La disposizione della prima parte di questo articolo si applica anche se lo stato di necessita' e' determinato dall'altrui minaccia; ma, in tal caso, del fatto commesso dalla persona minacciata risponde chi l'ha costretta a commetterlo.",
+    "con_marcatori": "Art. 54. (Stato di necessita') Non e' punibile chi ha commesso il fatto per esservi stato costretto dalla necessita' di salvare se' od altri dal pericolo attuale di un danno grave alla persona, pericolo da lui non volontariamente causato, ne' altrimenti evitabile, sempre che il fatto sia proporzionato al pericolo. Questa disposizione non si applica a chi ha un particolare dovere giuridico di esporsi al pericolo. La disposizione della prima parte di questo articolo si applica anche se lo stato di necessita' e' determinato dall'altrui minaccia; ma, in tal caso, del fatto commesso dalla persona minacciata risponde chi l'ha costretta a commetterlo.",
+    "caratteri": 621
+  },
+  "note": [],
+  "impronta": "sha256:51ea0d98697843ee0c7148aaced65adb32aa84b07ccc43cefc0124c3b85f27da"
+}

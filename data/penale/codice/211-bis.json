@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "211-bis",
+    "rubrica": "Rinvio dell'esecuzione delle misure di sicurezza",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art211-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Alle misure di sicurezza previste dal presente capo si applicano gli articoli 146 e 147. Se la misura di sicurezza deve essere eseguita nei confronti dell'autore di un delitto consumato o tentato commesso con violenza contro le persone ovvero con l'uso di armi e vi sia concreto pericolo che il soggetto commetta nuovamente uno dei delitti indicati il giudice puo' ordinare il ricovero in una casa di cura o in altro luogo di cura comunque adeguato alla situazione o alla patologia della persona.",
+    "con_marcatori": "Art. 211-bis. (Rinvio dell'esecuzione delle misure di sicurezza). Alle misure di sicurezza previste dal presente capo si applicano gli articoli 146 e 147. ((Se la misura di sicurezza deve essere eseguita nei confronti dell'autore di un delitto consumato o tentato commesso con violenza contro le persone ovvero con l'uso di armi e vi sia concreto pericolo che il soggetto commetta nuovamente uno dei delitti indicati il giudice puo' ordinare il ricovero in una casa di cura o in altro luogo di cura comunque adeguato alla situazione o alla patologia della persona)).",
+    "caratteri": 496
+  },
+  "note": [],
+  "impronta": "sha256:3fab5387ce097071450202dbe5eeb5961eed366dd611d53b1f34b4a9c6844db3"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "387",
+    "rubrica": "Prescrizione delle azioni relative alla tutela",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art387"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le azioni del minore contro il tutore e quelle del tutore contro il minore relative alla tutela si prescrivono in cinque anni dal compimento della maggiore eta' o dalla morte del minore. Se il tutore ha cessato dall'ufficio e ha presentato il conto prima della maggiore eta' o della morte del minore, il termine decorre dalla data del provvedimento col quale il giudice tutelare pronunzia sul conto stesso. Le disposizioni di quest'articolo non si applicano all'azione per il pagamento del residuo che risulta dal conto definitivo.",
+    "con_marcatori": "Art. 387. (Prescrizione delle azioni relative alla tutela). Le azioni del minore contro il tutore e quelle del tutore contro il minore relative alla tutela si prescrivono in cinque anni dal compimento della maggiore eta' o dalla morte del minore. Se il tutore ha cessato dall'ufficio e ha presentato il conto prima della maggiore eta' o della morte del minore, il termine decorre dalla data del provvedimento col quale il giudice tutelare pronunzia sul conto stesso. Le disposizioni di quest'articolo non si applicano all'azione per il pagamento del residuo che risulta dal conto definitivo.",
+    "caratteri": 531
+  },
+  "note": [],
+  "impronta": "sha256:1ea00e3118c99770d0d7af23f954a1785d1743ec1f1ed3c9e66c91d67c519da1"
+}

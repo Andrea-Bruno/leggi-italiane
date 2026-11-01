@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "270-quinquies.3",
+    "rubrica": "Detenzione di materiale con finalita' di terrorismo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Chiunque, fuori dei casi di cui agli articoli 270-bis e 270-quinquies, consapevolmente si procura o detiene materiale contenente istruzioni sulla preparazione o sull'uso di congegni bellici micidiali di cui all'articolo 1, primo comma, della legge 18 aprile 1975, n. 110, di armi da fuoco o di altre armi o di sostanze chimiche o batteriologiche nocive o pericolose, nonche' su ogni altra tecnica o metodo per il compimento di atti di violenza ovvero di sabotaggio di servizi pubblici essenziali, con finalita' di terrorismo, anche se rivolti contro uno Stato estero, un'istituzione o un organismo internazionale, e' punito con la reclusione da due a sei anni.",
+    "con_marcatori": "Art. 270-quinquies.3 (( (Detenzione di materiale con finalita' di terrorismo).)). ((Chiunque, fuori dei casi di cui agli articoli 270-bis e 270-quinquies, consapevolmente si procura o detiene materiale contenente istruzioni sulla preparazione o sull'uso di congegni bellici micidiali di cui all'articolo 1, primo comma, della legge 18 aprile 1975, n. 110, di armi da fuoco o di altre armi o di sostanze chimiche o batteriologiche nocive o pericolose, nonche' su ogni altra tecnica o metodo per il compimento di atti di violenza ovvero di sabotaggio di servizi pubblici essenziali, con finalita' di terrorismo, anche se rivolti contro uno Stato estero, un'istituzione o un organismo internazionale, e' punito con la reclusione da due a sei anni)).",
+    "caratteri": 662
+  },
+  "note": [],
+  "impronta": "sha256:ed4f00cfc24e116f02619ce0ed136ed54ca13698dffa7b0ffab20d11d996617a"
+}

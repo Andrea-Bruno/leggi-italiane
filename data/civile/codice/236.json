@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "236",
+    "rubrica": "Atto di nascita e possesso di stato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art236"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La filiazione ... si prova con l'atto di nascita iscritto nei registri dello stato civile. Basta, in mancanza di questo titolo, il possesso continuo dello stato di figlio ....",
+    "con_marcatori": "Art. 236. (Atto di nascita e possesso di stato) La filiazione ((...)) si prova con l'atto di nascita iscritto nei registri dello stato civile. Basta, in mancanza di questo titolo, il possesso continuo dello stato di figlio ((...)).",
+    "caratteri": 175
+  },
+  "note": [],
+  "impronta": "sha256:7d0df57788caec164e6d0edbc9b532a01118302f9136e828d02d1fcad104f2e4"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1829",
+    "rubrica": "Crediti verso terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1829"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non risulta una diversa volonta' delle parti, l'inclusione nel conto di un credito verso un terzo si presume fatta con la clausola «salvo incasso». In tal caso, se il credito non e' soddisfatto, il ricevente ha la scelta di agire per la riscossione o di eliminare la partita dal conto reintegrando nelle sue ragioni colui che ha fatto la rimessa. Puo' eliminare la partita dal conto anche dopo avere infruttuosamente esercitato le azioni contro il debitore.",
+    "con_marcatori": "Art. 1829. (Crediti verso terzi). Se non risulta una diversa volonta' delle parti, l'inclusione nel conto di un credito verso un terzo si presume fatta con la clausola «salvo incasso». In tal caso, se il credito non e' soddisfatto, il ricevente ha la scelta di agire per la riscossione o di eliminare la partita dal conto reintegrando nelle sue ragioni colui che ha fatto la rimessa. Puo' eliminare la partita dal conto anche dopo avere infruttuosamente esercitato le azioni contro il debitore.",
+    "caratteri": 460
+  },
+  "note": [],
+  "impronta": "sha256:a15f4d194cabfd2fec0bf1a3dc4c177cd6af91e932c9078d2b20793e45026a25"
+}

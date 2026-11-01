@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2345",
+    "rubrica": "Prestazioni accessorie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2345"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Oltre l'obbligo dei conferimenti, l'atto costitutivo puo' stabilire l'obbligo dei soci di eseguire prestazioni accessorie non consistenti in danaro, determinandone il contenuto, la durata, le modalita' e il compenso, e stabilendo particolari sanzioni per il caso di inadempimento. Nella determinazione del compenso devono essere osservate le norme applicabili ai rapporti aventi per oggetto le stesse prestazioni. Le azioni alle quali e' connesso l'obbligo delle prestazioni anzidette devono essere nominative e non sono trasferibili senza il consenso degli amministratori. Se non e' diversamente disposto dall'atto costitutivo, gli obblighi previsti in questo articolo non possono essere modificati senza il consenso di tutti i soci.",
+    "con_marcatori": "Art. 2345. (( (Prestazioni accessorie). )) ((Oltre l'obbligo dei conferimenti, l'atto costitutivo puo' stabilire l'obbligo dei soci di eseguire prestazioni accessorie non consistenti in danaro, determinandone il contenuto, la durata, le modalita' e il compenso, e stabilendo particolari sanzioni per il caso di inadempimento. Nella determinazione del compenso devono essere osservate le norme applicabili ai rapporti aventi per oggetto le stesse prestazioni. Le azioni alle quali e' connesso l'obbligo delle prestazioni anzidette devono essere nominative e non sono trasferibili senza il consenso degli amministratori. Se non e' diversamente disposto dall'atto costitutivo, gli obblighi previsti in questo articolo non possono essere modificati senza il consenso di tutti i soci.))",
+    "caratteri": 734
+  },
+  "note": [],
+  "impronta": "sha256:b6055b756a190db941a8138b8191d6d3d274af4dfe7f515297c3b1088507a177"
+}

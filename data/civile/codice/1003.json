@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1003",
+    "rubrica": "Mancanza o insufficienza della garanzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1003"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se l'usufruttuario non presta la garanzia a cui e' tenuto, si osservano le disposizioni seguenti: gli immobili sono locati o messi sotto amministrazione, salva la facolta' all'usufruttuario di farsi assegnare per propria abitazione una casa compresa nell'usufrutto. L'amministrazione e' affidata, con il consenso dell'usufruttuario, al proprietario o altrimenti a un terzo scelto di comune accordo tra proprietario e usufruttuario o, in mancanza di tale accordo, nominato dall'autorita' giudiziaria; il danaro e' collocato a interesse; i titoli al portatore si convertono in nominativi a favore del proprietario con il vincolo dell'usufrutto, ovvero si depositano presso una terza persona, scelta dalle parti, o presso un istituto di credito, la cui designazione, in caso di dissenso, e' fatta dall'autorita' giudiziaria; le derrate sono vendute e il loro prezzo e' parimenti collocato a interesse. In questi casi appartengono all'usufruttuario gli interessi dei capitali, le rendite, le pigioni e i fitti. Se si tratta di mobili i quali si deteriorano con l'uso, il proprietario puo' chiedere che siano venduti e ne sia impiegato il prezzo come quello delle derrate. L'usufruttuario puo' nondimeno domandare che gli siamo lasciati i mobili necessari per il proprio uso.",
+    "con_marcatori": "Art. 1003. (Mancanza o insufficienza della garanzia). Se l'usufruttuario non presta la garanzia a cui e' tenuto, si osservano le disposizioni seguenti: gli immobili sono locati o messi sotto amministrazione, salva la facolta' all'usufruttuario di farsi assegnare per propria abitazione una casa compresa nell'usufrutto. L'amministrazione e' affidata, con il consenso dell'usufruttuario, al proprietario o altrimenti a un terzo scelto di comune accordo tra proprietario e usufruttuario o, in mancanza di tale accordo, nominato dall'autorita' giudiziaria; il danaro e' collocato a interesse; i titoli al portatore si convertono in nominativi a favore del proprietario con il vincolo dell'usufrutto, ovvero si depositano presso una terza persona, scelta dalle parti, o presso un istituto di credito, la cui designazione, in caso di dissenso, e' fatta dall'autorita' giudiziaria; le derrate sono vendute e il loro prezzo e' parimenti collocato a interesse. In questi casi appartengono all'usufruttuario gli interessi dei capitali, le rendite, le pigioni e i fitti. Se si tratta di mobili i quali si deteriorano con l'uso, il proprietario puo' chiedere che siano venduti e ne sia impiegato il prezzo come quello delle derrate. L'usufruttuario puo' nondimeno domandare che gli siamo lasciati i mobili necessari per il proprio uso.",
+    "caratteri": 1270
+  },
+  "note": [],
+  "impronta": "sha256:cc3c537c2c4ed6ca954ba0fbde4558829584b85d4a46c71c622d5c62cc685bd3"
+}

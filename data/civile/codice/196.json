@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "196",
+    "rubrica": "Ripetizione del valore in caso di mancanza delle cose da prelevare",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art196"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non si trovano i beni mobili che il coniuge o i suoi eredi hanno diritto di prelevare a norma dell'articolo precedente essi possono ripeterne il valore provandone l'ammontare anche per notorieta', salvo che la mancanza di quei beni sia dovuta a consumazione per uso o perimento o per altra causa non imputabile all'altro coniuge.",
+    "con_marcatori": "Art. 196. ((Ripetizione del valore in caso di mancanza delle cose da prelevare.)) ((Se non si trovano i beni mobili che il coniuge o i suoi eredi hanno diritto di prelevare a norma dell'articolo precedente essi possono ripeterne il valore provandone l'ammontare anche per notorieta', salvo che la mancanza di quei beni sia dovuta a consumazione per uso o perimento o per altra causa non imputabile all'altro coniuge)).",
+    "caratteri": 332
+  },
+  "note": [],
+  "impronta": "sha256:368f915807d3ea109ffddba3381e1f40673d5aabd667dd66e40ae45a52eee81f"
+}

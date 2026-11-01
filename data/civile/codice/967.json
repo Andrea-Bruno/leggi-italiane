@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "967",
+    "rubrica": "Diritti e obblighi dell'enfiteuta e del concedente in caso di alienazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art967"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di alienazione, il nuovo enfiteuta e' obbligato solidalmente col precedente al pagamento dei canoni non soddisfatti. Il precedente enfiteuta non e' liberato dai suoi obblighi, prima che sia stato notificato l'atto di acquisto al concedente. In caso di alienazione del diritto del concedente, l'acquirente non puo' pretendere l'adempimento degli obblighi dell'enfiteuta prima che a questo sia stata notificata l'alienazione.",
+    "con_marcatori": "Art. 967. (Diritti e obblighi dell'enfiteuta e del concedente in caso di alienazione). In caso di alienazione, il nuovo enfiteuta e' obbligato solidalmente col precedente al pagamento dei canoni non soddisfatti. Il precedente enfiteuta non e' liberato dai suoi obblighi, prima che sia stato notificato l'atto di acquisto al concedente. In caso di alienazione del diritto del concedente, l'acquirente non puo' pretendere l'adempimento degli obblighi dell'enfiteuta prima che a questo sia stata notificata l'alienazione.",
+    "caratteri": 431
+  },
+  "note": [],
+  "impronta": "sha256:5892bed00fa6a949398d521e98b511218fb23b0f0582d26f377b89e35128b4e7"
+}

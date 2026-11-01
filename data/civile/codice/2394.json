@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2394",
+    "rubrica": "Responsabilita' verso i creditori sociali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2394"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori rispondono verso i creditori sociali per l'inosservanza degli obblighi inerenti alla conservazione dell'integrita' del patrimonio sociale. L'azione puo' essere proposta dai creditori quando il patrimonio sociale risulta insufficiente al soddisfacimento dei loro crediti. La rinunzia all'azione da parte della societa' non impedisce l'esercizio dell'azione da parte dei creditori sociali. La transazione puo' essere impugnata dai creditori sociali soltanto con l'azione revocatoria quando ne ricorrono gli estremi.",
+    "con_marcatori": "Art. 2394. (( (Responsabilita' verso i creditori sociali).)) ((Gli amministratori rispondono verso i creditori sociali per l'inosservanza degli obblighi inerenti alla conservazione dell'integrita' del patrimonio sociale. L'azione puo' essere proposta dai creditori quando il patrimonio sociale risulta insufficiente al soddisfacimento dei loro crediti. La rinunzia all'azione da parte della societa' non impedisce l'esercizio dell'azione da parte dei creditori sociali. La transazione puo' essere impugnata dai creditori sociali soltanto con l'azione revocatoria quando ne ricorrono gli estremi.))",
+    "caratteri": 532
+  },
+  "note": [],
+  "impronta": "sha256:cdec4c89f06140215c2d9ae7fc5e631df61db869a94604fe97bcd30af9f4dd39"
+}

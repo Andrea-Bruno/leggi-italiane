@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "163",
+    "rubrica": "Sospensione condizionale della pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art163"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel pronunciare sentenza di condanna alla reclusione o all'arresto per un tempo non superiore a due anni, ovvero a pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'articolo 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a due anni, il giudice puo' ordinare che l'esecuzione della pena rimanga sospesa per il termine di cinque anni se la condanna e' per delitto e di due anni se la condanna e' per contravvenzione. In caso di sentenza di condanna a pena pecuniaria congiunta a pena detentiva non superiore a due anni, quando la pena nel complesso, ragguagliata a norma dell'articolo 135, sia superiore a due anni, il giudice puo' ordinare che l'esecuzione della pena detentiva rimanga sospesa. Se il reato e' stato commesso da un minore degli anni diciotto, la sospensione puo' essere ordinata quando si infligga una pena restrittiva della liberta' personale non superiore a tre anni, ovvero una pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'articolo 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a tre anni. In caso di sentenza di condanna a pena pecuniaria congiunta a pena detentiva non superiore a tre anni, quando la pena nel complesso, ragguagliata a norma dell'articolo 135, sia superiore a tre anni, il giudice puo' ordinare che l'esecuzione della pena detentiva rimanga sospesa. Se il reato e' stato commesso da persona di eta' superiore agli anni diciotto ma inferiore agli anni ventuno o da chi ha compiuto gli anni settanta, la sospensione puo' essere ordinata quando si infligga una pena restrittiva della liberta' personale non superiore a due anni e sei mesi ovvero una pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'articolo 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a due anni e sei mesi. In caso di sentenza di condanna a pena pecuniaria congiunta a pena detentiva non superiore a due anni e sei mesi, quando la pena nel complesso, ragguagliata a norma dell'articolo 135, sia superiore a due anni e sei mesi, il giudice puo' ordinare che l'esecuzione della pena detentiva rimanga sospesa. Qualora la pena inflitta non sia superiore ad un anno e sia stato riparato interamente il danno, prima che sia stata pronunciata la sentenza di primo grado, mediante il risarcimento di esso e, quando sia possibile, mediante le restituzioni, nonche' qualora il colpevole, entro lo stesso termine e fuori del caso previsto nel quarto comma dell'articolo 56, si sia adoperato spontaneamente ed efficacemente per elidere o attenuare le conseguenze dannose o pericolose del reato da lui eliminabili nonche' qualora il colpevole, entro lo stesso termine, abbia partecipato a un programma di giustizia riparativa concluso con un esito riparativo,, il giudice puo' ordinare che l'esecuzione della pena, determinata nel caso di pena pecuniaria ragguagliandola a norma dell'articolo 135, rimanga sospesa per il termine di un anno.",
+    "con_marcatori": "Art. 163. (Sospensione condizionale della pena). Nel pronunciare sentenza di condanna alla reclusione o all'arresto per un tempo non superiore a due anni, ovvero a pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'articolo 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a due anni, il giudice puo' ordinare che l'esecuzione della pena rimanga sospesa per il termine di cinque anni se la condanna e' per delitto e di due anni se la condanna e' per contravvenzione. In caso di sentenza di condanna a pena pecuniaria congiunta a pena detentiva non superiore a due anni, quando la pena nel complesso, ragguagliata a norma dell'articolo 135, sia superiore a due anni, il giudice puo' ordinare che l'esecuzione della pena detentiva rimanga sospesa. Se il reato e' stato commesso da un minore degli anni diciotto, la sospensione puo' essere ordinata quando si infligga una pena restrittiva della liberta' personale non superiore a tre anni, ovvero una pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'articolo 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a tre anni. In caso di sentenza di condanna a pena pecuniaria congiunta a pena detentiva non superiore a tre anni, quando la pena nel complesso, ragguagliata a norma dell'articolo 135, sia superiore a tre anni, il giudice puo' ordinare che l'esecuzione della pena detentiva rimanga sospesa. Se il reato e' stato commesso da persona di eta' superiore agli anni diciotto ma inferiore agli anni ventuno o da chi ha compiuto gli anni settanta, la sospensione puo' essere ordinata quando si infligga una pena restrittiva della liberta' personale non superiore a due anni e sei mesi ovvero una pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'articolo 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a due anni e sei mesi. In caso di sentenza di condanna a pena pecuniaria congiunta a pena detentiva non superiore a due anni e sei mesi, quando la pena nel complesso, ragguagliata a norma dell'articolo 135, sia superiore a due anni e sei mesi, il giudice puo' ordinare che l'esecuzione della pena detentiva rimanga sospesa. Qualora la pena inflitta non sia superiore ad un anno e sia stato riparato interamente il danno, prima che sia stata pronunciata la sentenza di primo grado, mediante il risarcimento di esso e, quando sia possibile, mediante le restituzioni, nonche' qualora il colpevole, entro lo stesso termine e fuori del caso previsto nel quarto comma dell'articolo 56, si sia adoperato spontaneamente ed efficacemente per elidere o attenuare le conseguenze dannose o pericolose del reato da lui eliminabili ((nonche' qualora il colpevole, entro lo stesso termine, abbia partecipato a un programma di giustizia riparativa concluso con un esito riparativo,)), il giudice puo' ordinare che l'esecuzione della pena, determinata nel caso di pena pecuniaria ragguagliandola a norma dell'articolo 135, rimanga sospesa per il termine di un anno.",
+    "caratteri": 3140
+  },
+  "note": [],
+  "impronta": "sha256:26728e5cd1e2155cda4c25267e24a283b0de8d15572872105c0a67a1dc311d48"
+}

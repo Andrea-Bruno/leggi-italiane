@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "598",
+    "rubrica": "Offese in scritti e discorsi pronunciati dinanzi alle Autorita' giudiziarie o amministrative",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art598"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Non sono punibili le offese contenute negli scritti presentati o nei discorsi pronunciati dalle parti o dai loro patrocinatori nei procedimenti dinanzi all'Autorita' giudiziaria, ovvero dinanzi a un'Autorita' amministrativa, quando le offese concernono l'oggetto della causa o del ricorso amministrativo. Il giudice, pronunciando nella causa, puo', oltre ai provvedimenti disciplinari, ordinare la soppressione o la cancellazione, in tutto o in parte, delle scritture offensive, e assegnare alla persona offesa una somma a titolo di risarcimento del danno non patrimoniale. Qualora si tratti di scritture per le quali la soppressione o cancellazione non possa eseguirsi, e' fatta sulle medesime annotazione della sentenza.",
+    "con_marcatori": "Art. 598. (Offese in scritti e discorsi pronunciati dinanzi alle Autorita' giudiziarie o amministrative) Non sono punibili le offese contenute negli scritti presentati o nei discorsi pronunciati dalle parti o dai loro patrocinatori nei procedimenti dinanzi all'Autorita' giudiziaria, ovvero dinanzi a un'Autorita' amministrativa, quando le offese concernono l'oggetto della causa o del ricorso amministrativo. Il giudice, pronunciando nella causa, puo', oltre ai provvedimenti disciplinari, ordinare la soppressione o la cancellazione, in tutto o in parte, delle scritture offensive, e assegnare alla persona offesa una somma a titolo di risarcimento del danno non patrimoniale. Qualora si tratti di scritture per le quali la soppressione o cancellazione non possa eseguirsi, e' fatta sulle medesime annotazione della sentenza.",
+    "caratteri": 722
+  },
+  "note": [],
+  "impronta": "sha256:b27a59e2a98d694e2500c5205824fd9fd32a13b421e3781b5ce64663e1e0eaca"
+}

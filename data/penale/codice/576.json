@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "576",
+    "rubrica": "Circostanze aggravanti. Ergastolo",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art576"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si applica la pena dell'ergastolo se il fatto preveduto dall'articolo precedente e' commesso: 1° col concorso di taluna delle circostanze indicate nel numero 2° dell'articolo 61; 2° contro l'ascendente o il discendente, quando concorre taluna delle circostanze indicate nei numeri 1° e 4° dell'articolo 61 o quando e' adoperato un mezzo venefico o un altro mezzo insidioso ovvero quando vi e' premeditazione; 3° dal latitante, per sottrarsi all'arresto, alla cattura o alla carcerazione ovvero per procurarsi i mezzi di sussistenza durante la latitanza; 4° dall'associato per delinquere, per sottrarsi all'arresto, alla cattura o alla carcerazione; 5) in occasione della commissione di taluno dei delitti previsti dagli articoli 572, 583-quinquies, 600-bis, 600-ter, 609-bis, 609-quater e 609-octies; 5.1) dall'autore del delitto previsto dall'articolo 612-bis nei confronti della stessa persona offesa; 5-bis) contro un ufficiale o agente di polizia giudiziaria, ovvero un ufficiale o agente di pubblica sicurezza, nell'atto o a causa dell'adempimento delle funzioni o del servizio. E' latitante, agli effetti della legge penale, chi si trova nelle condizioni indicate nel numero 6° dell'articolo 61.",
+    "con_marcatori": "Art. 576. (Circostanze aggravanti. Ergastolo ) Si applica la pena dell'ergastolo se il fatto preveduto dall'articolo precedente e' commesso: 1° col concorso di taluna delle circostanze indicate nel numero 2° dell'articolo 61; 2° contro l'ascendente o il discendente, quando concorre taluna delle circostanze indicate nei numeri 1° e 4° dell'articolo 61 o quando e' adoperato un mezzo venefico o un altro mezzo insidioso ovvero quando vi e' premeditazione; 3° dal latitante, per sottrarsi all'arresto, alla cattura o alla carcerazione ovvero per procurarsi i mezzi di sussistenza durante la latitanza; 4° dall'associato per delinquere, per sottrarsi all'arresto, alla cattura o alla carcerazione; 5) in occasione della commissione di taluno dei delitti previsti dagli articoli 572, ((583-quinquies,)) 600-bis, 600-ter, 609-bis, 609-quater e 609-octies; 5.1) dall'autore del delitto previsto dall'articolo 612-bis nei confronti della stessa persona offesa; 5-bis) contro un ufficiale o agente di polizia giudiziaria, ovvero un ufficiale o agente di pubblica sicurezza, nell'atto o a causa dell'adempimento delle funzioni o del servizio. E' latitante, agli effetti della legge penale, chi si trova nelle condizioni indicate nel numero 6° dell'articolo 61. (5)",
+    "caratteri": 1201
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224 ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    }
+  ],
+  "impronta": "sha256:9843c70f1d3f63782d49b8635bfae19cdf1d65f58e792419a3637f6f62438d92"
+}

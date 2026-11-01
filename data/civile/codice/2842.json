@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2842",
+    "rubrica": "Variazione del domicilio eletto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2842"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' in facolta' del creditore, del suo mandatario o del suo erede o avente causa di variare il domicilio eletto nell'iscrizione, sostituendone un altro nella stessa circoscrizione. Il cambiamento deve essere annotato dal conservatore in margine o in calce all'iscrizione. La dichiarazione circa il cambiamento del domicilio deve risultare da atto ricevuto o autenticato da notaio e deve rimanere depositata nell'ufficio del conservatore.",
+    "con_marcatori": "Art. 2842. (Variazione del domicilio eletto). E' in facolta' del creditore, del suo mandatario o del suo erede o avente causa di variare il domicilio eletto nell'iscrizione, sostituendone un altro nella stessa circoscrizione. Il cambiamento deve essere annotato dal conservatore in margine o in calce all'iscrizione. La dichiarazione circa il cambiamento del domicilio deve risultare da atto ricevuto o autenticato da notaio e deve rimanere depositata nell'ufficio del conservatore.",
+    "caratteri": 436
+  },
+  "note": [],
+  "impronta": "sha256:6fd2b8499bdc0849f18a97f9eea90a260de05572c95c38c441e2cc7bd1f8242f"
+}

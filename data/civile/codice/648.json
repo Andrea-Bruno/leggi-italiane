@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "648",
+    "rubrica": "Adempimento dell'onere",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art648"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per l'adempimento dell'onere puo' agire qualsiasi interessato. Nel caso d'inadempimento dell'onere, l'autorita' giudiziaria puo' pronunziare la risoluzione della disposizione testamentaria, se la risoluzione e' stata prevista dal testatore, o se l'adempimento dell'onere ha costituito il solo motivo determinante della disposizione.",
+    "con_marcatori": "Art. 648. (Adempimento dell'onere). Per l'adempimento dell'onere puo' agire qualsiasi interessato. Nel caso d'inadempimento dell'onere, l'autorita' giudiziaria puo' pronunziare la risoluzione della disposizione testamentaria, se la risoluzione e' stata prevista dal testatore, o se l'adempimento dell'onere ha costituito il solo motivo determinante della disposizione.",
+    "caratteri": 332
+  },
+  "note": [],
+  "impronta": "sha256:c17815a107c717c5a7baa947d23d13aa65bfb937b95183e8579aad4cfbc355ae"
+}

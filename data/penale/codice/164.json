@@ -1,0 +1,147 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "164",
+    "rubrica": "Limiti entro i quali e' ammessa la sospensione condizionale della pena",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art164"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2, comma 4). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2",
+      "comma 4"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 54,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 74,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 392,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La sospensione condizionale della pena e' ammessa soltanto se, avuto riguardo alle circostanze indicate nell'art. 133, il giudice presume che il colpevole si asterra' dal commettere ulteriori reati. La sospensione condizionale della pena non puo' essere conceduta: 1) a chi ha riportato una precedente condanna a pena detentiva per delitto, anche se e' intervenuta la riabilitazione, ne' al delinquente o contravventore abituale o professionale; 2) allorche' alla pena inflitta deve essere aggiunta una misura di sicurezza personale, perche' il reo e' persona che la legge presume socialmente pericolosa. La sospensione condizionale della pena rende inapplicabili le misure di sicurezza, tranne che si tratti della confisca. La sospensione condizionale della pena non puo' essere concessa piu' di una volta. Tuttavia il giudice nell'infliggere una nuova condanna, puo' disporre la sospensione condizionale qualora la pena da infliggere, cumulata con quella irrogata con la precedente condanna anche per delitto, non superi i limiti stabiliti dall'articolo 163.",
+    "con_marcatori": "Art. 164. (Limiti entro i quali e' ammessa la sospensione condizionale della pena). La sospensione condizionale della pena e' ammessa soltanto se, avuto riguardo alle circostanze indicate nell'art. 133, il giudice presume che il colpevole si asterra' dal commettere ulteriori reati. La sospensione condizionale della pena non puo' essere conceduta: 1) a chi ha riportato una precedente condanna a pena detentiva per delitto, anche se e' intervenuta la riabilitazione, ne' al delinquente o contravventore abituale o professionale; ((392)) 2) allorche' alla pena inflitta deve essere aggiunta una misura di sicurezza personale, perche' il reo e' persona che la legge presume socialmente pericolosa. La sospensione condizionale della pena rende inapplicabili le misure di sicurezza, tranne che si tratti della confisca. La sospensione condizionale della pena non puo' essere concessa piu' di una volta. Tuttavia il giudice nell'infliggere una nuova condanna, puo' disporre la sospensione condizionale qualora la pena da infliggere, cumulata con quella irrogata con la precedente condanna anche per delitto, non superi i limiti stabiliti dall'articolo 163.(74)",
+    "caratteri": 1060
+  },
+  "note": [
+    {
+      "numero": 49,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1970-06-10",
+        "numero": "86"
+      },
+      "testo": "La Corte Costituzionale con sentenza 3-10 giugno 1970, n. 86 (in G.U. 1ª s.s. 17/06/1970, n. 150) ha dichiarato l'illegittimita' del numero 1) del secondo comma del presente articolo, nella parte in cui dispone che il giudice non possa esercitare il potere di concedere o negare, per la pena da comminare, il beneficio della sospensione condizionale o debba revocare di diritto la sospensione gia' concessa quando il secondo reato si lega con il vincolo della continuita' a quello punito con pena sospesa."
+    },
+    {
+      "numero": 54,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 4"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1971-04-05",
+        "numero": "73"
+      },
+      "testo": "La Corte Costituzionale con sentenza 25 marzo - 5 aprile 1971, n. 73 (in G.U. 1ª s.s. 7/4/1971, n. 87) ha dichiarato l'illegittimita' costituzionale del quarto comma del presente articolo, nella parte in cui esclude che possa concedersi una seconda sospensione condizionale nel caso di nuova condanna, per delitto anteriormente commesso, a pena che, cumulata con quella gia' sospesa, non superi i limiti per l'applicabilita' del beneficio."
+    },
+    {
+      "numero": 74,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 163 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1976-04-28",
+        "numero": "95"
+      },
+      "testo": "La Corte Costituzionale con sentenza 21-28 aprile 1976, n. 95 (in G.U. 1ª s.s. 5/5/1976, n. 118) ha dichiarato l'illegittimita' costituzionale dell'ultimo comma del presente articolo nella parte in cui non consente la concessione della sospensione condizionale della pena a chi ha gia' riportato una precedente condanna a pena detentiva per delitto non sospesa, qualora la pena da infliggere cumulata con quella irrogata con la condanna precedente non superi i limiti stabiliti dall'art. 163 del codice penale."
+    },
+    {
+      "numero": 392,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 164, secondo comma, numero 1), del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "artt. 163",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "164, quarto comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2026-03-19",
+        "numero": "32"
+      },
+      "testo": "La Corte Costituzionale con sentenza 28 gennaio-19 marzo 2026, n. 32 (in G.U. 1ª s.s. 25/03/2026, n. 12) ha dichiarato \"l'illegittimita' costituzionale dell'art. 164, secondo comma, numero 1), del codice penale, nella parte in cui preclude la concessione della sospensione condizionale della pena a chi abbia riportato precedente condanna a pena detentiva per la quale sia intervenuta riabilitazione, anche nell'ipotesi in cui le pene cumulate siano superiori ai limiti di cui agli artt. 163 e 164, quarto comma, cod. pen.\"."
+    }
+  ],
+  "impronta": "sha256:8c7fcf95d0c81402057bc4cf5d77c58fd22ffd7ca37be79dc5dfa2688729a289"
+}

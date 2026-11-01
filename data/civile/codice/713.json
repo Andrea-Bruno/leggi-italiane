@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "713",
+    "rubrica": "Facolta' di domandare la divisione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art713"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I coeredi possono sempre domandare la divisione. Quando pero' tutti gli eredi istituiti o alcuni di essi sono minori di eta', il testatore puo' disporre che la divisione non abbia luogo prima che sia trascorso un anno dalla maggiore eta' dell'ultimo nato. Egli puo' anche disporre che la divisione dell'eredita' o di alcuni beni di essa non abbia luogo prima che sia trascorso dalla sua morte un termine non eccedente il quinquennio. Tuttavia in ambedue i casi l'autorita' giudiziaria, qualora gravi circostanze lo richiedano, puo', su istanza di uno o piu' coeredi, consentire che la divisione si effettui senza indugio o dopo un termine minore di quello stabilito dal testatore.",
+    "con_marcatori": "Art. 713. (Facolta' di domandare la divisione). I coeredi possono sempre domandare la divisione. Quando pero' tutti gli eredi istituiti o alcuni di essi sono minori di eta', il testatore puo' disporre che la divisione non abbia luogo prima che sia trascorso un anno dalla maggiore eta' dell'ultimo nato. Egli puo' anche disporre che la divisione dell'eredita' o di alcuni beni di essa non abbia luogo prima che sia trascorso dalla sua morte un termine non eccedente il quinquennio. Tuttavia in ambedue i casi l'autorita' giudiziaria, qualora gravi circostanze lo richiedano, puo', su istanza di uno o piu' coeredi, consentire che la divisione si effettui senza indugio o dopo un termine minore di quello stabilito dal testatore.",
+    "caratteri": 680
+  },
+  "note": [],
+  "impronta": "sha256:e5e1317a2ebcba92af57c28c261904d3bd0dd9ae68b5b4fa45220b15a6bf94b3"
+}

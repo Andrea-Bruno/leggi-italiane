@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "92",
+    "rubrica": "Ubriachezza volontaria o colposa ovvero preordinata",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art92"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'ubriachezza non derivata da caso fortuito o da forza maggiore non esclude ne' diminuisce la imputabilita'. Se l'ubriachezza era preordinata al fine di commettere il reato, o di prepararsi una scusa, la pena e' aumentata.",
+    "con_marcatori": "Art. 92. (Ubriachezza volontaria o colposa ovvero preordinata) L'ubriachezza non derivata da caso fortuito o da forza maggiore non esclude ne' diminuisce la imputabilita'. Se l'ubriachezza era preordinata al fine di commettere il reato, o di prepararsi una scusa, la pena e' aumentata.",
+    "caratteri": 222
+  },
+  "note": [],
+  "impronta": "sha256:63491ce8ab34558af5e16ae3865d9ca5a80e33a0390fe6916bd17274686cad69"
+}

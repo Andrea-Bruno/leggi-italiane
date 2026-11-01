@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2400",
+    "rubrica": "Nomina e cessazione dall'ufficio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2400"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I sindaci sono nominati per la prima volta nell'atto costitutivo e successivamente dall'assemblea, salvo il disposto degli articoli 2351, 2449 e 2450. Essi restano in carica per tre esercizi, e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo al terzo esercizio della carica. La cessazione dei sindaci per scadenza del termine ha effetto dal momento in cui il collegio e' stato ricostituito. I sindaci possono essere revocati solo per giusta causa. La deliberazione di revoca deve essere approvata con decreto dal tribunale, sentito l'interessato. La nomina dei sindaci, con l'indicazione per ciascuno di essi del cognome e del nome, del luogo e della data di nascita e del domicilio, e la cessazione dall'ufficio devono essere iscritte, a cura degli amministratori, nel registro delle imprese nel termine di trenta giorni. Al momento della nomina dei sindaci e prima dell'accettazione dell'incarico, sono resi noti all'assemblea gli incarichi di amministrazione e di controllo da essi ricoperti presso altre societa'.",
+    "con_marcatori": "Art. 2400. (Nomina e cessazione dall'ufficio). I sindaci sono nominati per la prima volta nell'atto costitutivo e successivamente dall'assemblea, salvo il disposto degli articoli 2351, 2449 e 2450. Essi restano in carica per tre esercizi, e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo al terzo esercizio della carica. La cessazione dei sindaci per scadenza del termine ha effetto dal momento in cui il collegio e' stato ricostituito. I sindaci possono essere revocati solo per giusta causa. La deliberazione di revoca deve essere approvata con decreto dal tribunale, sentito l'interessato. La nomina dei sindaci, con l'indicazione per ciascuno di essi del cognome e del nome, del luogo e della data di nascita e del domicilio, e la cessazione dall'ufficio devono essere iscritte, a cura degli amministratori, nel registro delle imprese nel termine di trenta giorni. ((Al momento della nomina dei sindaci e prima dell'accettazione dell'incarico, sono resi noti all'assemblea gli incarichi di amministrazione e di controllo da essi ricoperti presso altre societa')).",
+    "caratteri": 1053
+  },
+  "note": [],
+  "impronta": "sha256:bb1b1e0688e120c51cb1abb7e3983b0053fdaa3c4b47a23f0b4dbddcda9fdf2d"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "583-bis",
+    "rubrica": "Pratiche di mutilazione degli organi genitali femminili",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art583-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in assenza di esigenze terapeutiche, cagiona una mutilazione degli organi genitali femminili e' punito con la reclusione da quattro a dodici anni. Ai fini del presente articolo, si intendono come pratiche di mutilazione degli organi genitali femminili la clitoridectomia, l'escissione e l'infibulazione e qualsiasi altra pratica che cagioni effetti dello stesso tipo. Chiunque, in assenza di esigenze terapeutiche, provoca, al fine di menomare le funzioni sessuali, lesioni agli organi genitali femminili diverse da quelle indicate al primo comma, da cui derivi una malattia nel corpo o nella mente, e' punito con la reclusione da tre a sette anni. La pena e' diminuita fino a due terzi se la lesione e' di lieve entita'. La pena e' aumentata di un terzo quando le pratiche di cui al primo e al secondo comma sono commesse a danno di un minore ovvero se il fatto e' commesso per fini di lucro. La condanna ovvero l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per il reato di cui al presente articolo comporta, qualora il fatto sia commesso dal genitore o dal tutore, rispettivamente: 1) la decadenza dall'esercizio della responsabilita' genitoriale; 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno. Le disposizioni del presente articolo si applicano altresi' quando il fatto e' commesso all'estero da cittadino italiano o da straniero residente in Italia, ovvero in danno di cittadino italiano o di straniero residente in Italia. In tal caso, il colpevole e' punito a richiesta del Ministro della giustizia.",
+    "con_marcatori": "Art. 583-bis. (Pratiche di mutilazione degli organi genitali femminili). Chiunque, in assenza di esigenze terapeutiche, cagiona una mutilazione degli organi genitali femminili e' punito con la reclusione da quattro a dodici anni. Ai fini del presente articolo, si intendono come pratiche di mutilazione degli organi genitali femminili la clitoridectomia, l'escissione e l'infibulazione e qualsiasi altra pratica che cagioni effetti dello stesso tipo. Chiunque, in assenza di esigenze terapeutiche, provoca, al fine di menomare le funzioni sessuali, lesioni agli organi genitali femminili diverse da quelle indicate al primo comma, da cui derivi una malattia nel corpo o nella mente, e' punito con la reclusione da tre a sette anni. La pena e' diminuita fino a due terzi se la lesione e' di lieve entita'. La pena e' aumentata di un terzo quando le pratiche di cui al primo e al secondo comma sono commesse a danno di un minore ovvero se il fatto e' commesso per fini di lucro. La condanna ovvero l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per il reato di cui al presente articolo comporta, qualora il fatto sia commesso dal genitore o dal tutore, rispettivamente: 1) la decadenza dall'esercizio della ((responsabilita' genitoriale)); 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno. Le disposizioni del presente articolo si applicano altresi' quando il fatto e' commesso all'estero da cittadino italiano o da straniero residente in Italia, ovvero in danno di cittadino italiano o di straniero residente in Italia. In tal caso, il colpevole e' punito a richiesta del Ministro della giustizia.",
+    "caratteri": 1650
+  },
+  "note": [],
+  "impronta": "sha256:1e7bf074b2d9c61311ebc475b36e68cdd899d637388ecc87084c48ae0d163d85"
+}

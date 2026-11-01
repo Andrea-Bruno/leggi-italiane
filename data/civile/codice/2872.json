@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2872",
+    "rubrica": "Modalita' della riduzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2872"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La riduzione delle ipoteche si opera riducendo la somma per la quale e' stata presa l'iscrizione o restringendo l'iscrizione a una parte soltanto dei beni. Questa restrizione puo' aver luogo anche se l'ipoteca ha per oggetto un solo bene, qualora questo abbia parti distinte o tali che si possano comodamente distinguere.",
+    "con_marcatori": "Art. 2872. (Modalita' della riduzione). La riduzione delle ipoteche si opera riducendo la somma per la quale e' stata presa l'iscrizione o restringendo l'iscrizione a una parte soltanto dei beni. Questa restrizione puo' aver luogo anche se l'ipoteca ha per oggetto un solo bene, qualora questo abbia parti distinte o tali che si possano comodamente distinguere.",
+    "caratteri": 321
+  },
+  "note": [],
+  "impronta": "sha256:067a14415c2e1496993305745df88555dec58e42b5fe423c8fca0e8f107c440c"
+}

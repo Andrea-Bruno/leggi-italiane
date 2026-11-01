@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "452-decies",
+    "rubrica": "Ravvedimento operoso",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art452-decies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le pene previste per i delitti di cui al presente titolo, per il delitto di associazione per delinquere di cui all'articolo 416 aggravato ai sensi dell'articolo 452-octies, nonche' per il delitto di cui all'articolo 260 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono diminuite dalla meta' a due terzi nei confronti di colui che si adopera per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero, prima della dichiarazione di apertura del dibattimento di primo grado, provvede concretamente alla messa in sicurezza, alla bonifica e, ove possibile, al ripristino dello stato dei luoghi, e diminuite da un terzo alla meta' nei confronti di colui che aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella ricostruzione del fatto, nell'individuazione degli autori o nella sottrazione di risorse rilevanti per la commissione dei delitti. Ove il giudice, su richiesta dell'imputato, prima della dichiarazione di apertura del dibattimento di primo grado disponga la sospensione del procedimento per un tempo congruo, comunque non superiore a due anni e prorogabile per un periodo massimo di un ulteriore anno, al fine di consentire le attivita' di cui al comma precedente in corso di esecuzione, il corso della prescrizione e' sospeso.",
+    "con_marcatori": "Art. 452-decies. (( (Ravvedimento operoso).)) ((Le pene previste per i delitti di cui al presente titolo, per il delitto di associazione per delinquere di cui all'articolo 416 aggravato ai sensi dell'articolo 452-octies, nonche' per il delitto di cui all'articolo 260 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono diminuite dalla meta' a due terzi nei confronti di colui che si adopera per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero, prima della dichiarazione di apertura del dibattimento di primo grado, provvede concretamente alla messa in sicurezza, alla bonifica e, ove possibile, al ripristino dello stato dei luoghi, e diminuite da un terzo alla meta' nei confronti di colui che aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella ricostruzione del fatto, nell'individuazione degli autori o nella sottrazione di risorse rilevanti per la commissione dei delitti. Ove il giudice, su richiesta dell'imputato, prima della dichiarazione di apertura del dibattimento di primo grado disponga la sospensione del procedimento per un tempo congruo, comunque non superiore a due anni e prorogabile per un periodo massimo di un ulteriore anno, al fine di consentire le attivita' di cui al comma precedente in corso di esecuzione, il corso della prescrizione e' sospeso.))",
+    "caratteri": 1310
+  },
+  "note": [],
+  "impronta": "sha256:8e9a4e5561a66820cb6ff63b0645c3c8f40b7c297db4b50b244a7e062cea1b8e"
+}

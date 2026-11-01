@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2500-septies",
+    "rubrica": "Trasformazione eterogenea da societa' di capitali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2500-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le societa' disciplinate nei capi V, VI, VII del presente titolo possono trasformarsi in consorzi, societa' consortili, societa' cooperative, comunioni di azienda, associazioni non riconosciute e fondazioni. Si applica l'articolo 2500-sexies, in quanto compatibile. La deliberazione deve essere assunta con il voto favorevole dei due terzi degli aventi diritto, e comunque con il consenso dei soci che assumono responsabilita' illimitata. La deliberazione di trasformazione in fondazione produce gli effetti che il capo II del titolo II del Libro primo ricollega all'atto di fondazione o alla volonta' del fondatore.",
+    "con_marcatori": "Art. 2500-septies. (( (Trasformazione eterogenea da societa' di capitali).)) ((Le societa' disciplinate nei capi V, VI, VII del presente titolo possono trasformarsi in consorzi, societa' consortili, societa' cooperative, comunioni di azienda, associazioni non riconosciute e fondazioni. Si applica l'articolo 2500-sexies, in quanto compatibile. La deliberazione deve essere assunta con il voto favorevole dei due terzi degli aventi diritto, e comunque con il consenso dei soci che assumono responsabilita' illimitata. La deliberazione di trasformazione in fondazione produce gli effetti che il capo II del titolo II del Libro primo ricollega all'atto di fondazione o alla volonta' del fondatore.))",
+    "caratteri": 616
+  },
+  "note": [],
+  "impronta": "sha256:e611fee328dc3bee7e7641b94fabfec3812ca875171cfeb67552dafb57d0167c"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1859",
+    "rubrica": "Sconto di cambiali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1859"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se lo sconto avviene mediante girata di cambiale o di assegno bancario, la banca, nel caso di mancato pagamento, oltre ai diritti derivanti dal titolo, ha anche il diritto alla restituzione della somma anticipata. Sono salve le norme delle leggi speciali relative alla cessione della provvista nello sconto di tratte non accettate o munite di clausole «senza accettazione».",
+    "con_marcatori": "Art. 1859. (Sconto di cambiali). Se lo sconto avviene mediante girata di cambiale o di assegno bancario, la banca, nel caso di mancato pagamento, oltre ai diritti derivanti dal titolo, ha anche il diritto alla restituzione della somma anticipata. Sono salve le norme delle leggi speciali relative alla cessione della provvista nello sconto di tratte non accettate o munite di clausole «senza accettazione».",
+    "caratteri": 373
+  },
+  "note": [],
+  "impronta": "sha256:6968e9b03c895da39d4f09d87edae8f49e4328389b9d2b8e32df2e623b83dece"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "59",
+    "rubrica": "Circostanze non conosciute o erroneamente supposte",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art59"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le circostanze che attenuano o escludono la pena sono valutate a favore dell'agente anche se da lui non conosciute, o da lui per errore ritenute inesistenti. Le circostanze che aggravano la pena sono valutate a carico dell'agente soltanto se da lui conosciute ovvero ignorate per colpa o ritenute inesistenti per errore determinato da colpa. Se l'agente ritiene per errore che esistano circostanze aggravanti o attenuanti, queste non sono valutate contro o a favore di lui. Se l'agente ritiene per errore che esistano circostanze di esclusione della pena, queste sono sempre valutate a favore di lui. Tuttavia, se si tratta di errore determinato da colpa, la punibilita' non e' esclusa, quando il fatto e' preveduto dalla legge come delitto colposo.",
+    "con_marcatori": "Art. 59. (Circostanze non conosciute o erroneamente supposte) ((Le circostanze che attenuano o escludono la pena sono valutate a favore dell'agente anche se da lui non conosciute, o da lui per errore ritenute inesistenti. Le circostanze che aggravano la pena sono valutate a carico dell'agente soltanto se da lui conosciute ovvero ignorate per colpa o ritenute inesistenti per errore determinato da colpa)). Se l'agente ritiene per errore che esistano circostanze aggravanti o attenuanti, queste non sono valutate contro o a favore di lui. Se l'agente ritiene per errore che esistano circostanze di esclusione della pena, queste sono sempre valutate a favore di lui. Tuttavia, se si tratta di errore determinato da colpa, la punibilita' non e' esclusa, quando il fatto e' preveduto dalla legge come delitto colposo.",
+    "caratteri": 749
+  },
+  "note": [],
+  "impronta": "sha256:0ac35bafe579d0a91de2d299b72bc5cb4795002d017e80f5bf2d7fd5297978fa"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2282",
+    "rubrica": "Ripartizione dell'attivo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2282"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Estinti i debiti sociali, l'attivo residuo e' destinato al rimborso dei conferimenti. L'eventuale eccedenza e' ripartita tra i soci in proporzione della parte di ciascuno nei guadagni. L'ammontare dei conferimenti non aventi per oggetto somme di danaro e' determinato secondo la valutazione che ne e' stata fatta nel contratto o, in mancanza, secondo il valore che essi avevano nel momento in cui furono eseguiti.",
+    "con_marcatori": "Art. 2282. (Ripartizione dell'attivo). Estinti i debiti sociali, l'attivo residuo e' destinato al rimborso dei conferimenti. L'eventuale eccedenza e' ripartita tra i soci in proporzione della parte di ciascuno nei guadagni. L'ammontare dei conferimenti non aventi per oggetto somme di danaro e' determinato secondo la valutazione che ne e' stata fatta nel contratto o, in mancanza, secondo il valore che essi avevano nel momento in cui furono eseguiti.",
+    "caratteri": 413
+  },
+  "note": [],
+  "impronta": "sha256:e06203893a614cc0463e65458d7f7386e11ac46c632aa6135bcfdaa905bf3d25"
+}

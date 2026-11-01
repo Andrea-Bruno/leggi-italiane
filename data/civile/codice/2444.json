@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2444",
+    "rubrica": "Iscrizione nel registro delle imprese",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2444"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei trenta giorni dall'avvenuta sottoscrizione delle azioni di nuova emissione gli amministratori devono depositare per l'iscrizione nel registro delle imprese un'attestazione che l'aumento del capitale e' stato eseguito. Fino a che l'iscrizione nel registro non sia avvenuta, l'aumento del capitale non puo' essere menzionato negli atti della societa'.",
+    "con_marcatori": "Art. 2444. (( (Iscrizione nel registro delle imprese).)) ((Nei trenta giorni dall'avvenuta sottoscrizione delle azioni di nuova emissione gli amministratori devono depositare per l'iscrizione nel registro delle imprese un'attestazione che l'aumento del capitale e' stato eseguito. Fino a che l'iscrizione nel registro non sia avvenuta, l'aumento del capitale non puo' essere menzionato negli atti della societa'.))",
+    "caratteri": 353
+  },
+  "note": [],
+  "impronta": "sha256:0bd758d7fd9fd6de18cb5498fd628f9f69286149c8099ca3e1a269567d3acd45"
+}

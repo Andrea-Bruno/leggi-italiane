@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2392",
+    "rubrica": "Responsabilita' verso la societa'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2392"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori devono adempiere i doveri ad essi imposti dalla legge e dallo statuto con la diligenza richiesta dalla natura dell'incarico e dalle loro specifiche competenze. Essi sono solidalmente responsabili verso la societa' dei danni derivanti dall'inosservanza di tali doveri, a meno che si tratti di attribuzioni proprie del comitato esecutivo o di funzioni in concreto attribuite ad uno o piu' amministratori. In ogni caso gli amministratori, fermo quanto disposto dall'articolo 2381-bis e dal quarto comma dell'articolo 2381-ter, sono solidalmente responsabili se, essendo a conoscenza di fatti pregiudizievoli, non hanno fatto quanto potevano per impedirne il compimento o eliminarne o attenuarne le conseguenze dannose. La responsabilita' per gli atti o le omissioni degli amministratori non si estende a quello tra essi che, essendo immune da colpa, abbia fatto annotare senza ritardo il suo dissenso nel libro delle adunanze e delle deliberazioni del consiglio, dandone immediata notizia per iscritto al presidente dell'organo di controllo.",
+    "con_marcatori": "Art. 2392. (Responsabilita' verso la societa'). Gli amministratori devono adempiere i doveri ad essi imposti dalla legge e dallo statuto con la diligenza richiesta dalla natura dell'incarico e dalle loro specifiche competenze. Essi sono solidalmente responsabili verso la societa' dei danni derivanti dall'inosservanza di tali doveri, a meno che si tratti di attribuzioni proprie del comitato esecutivo o di funzioni in concreto attribuite ad uno o piu' amministratori. In ogni caso gli amministratori, fermo quanto disposto ((dall'articolo 2381-bis e dal quarto comma dell'articolo 2381-ter)), sono solidalmente responsabili se, essendo a conoscenza di fatti pregiudizievoli, non hanno fatto quanto potevano per impedirne il compimento o eliminarne o attenuarne le conseguenze dannose. La responsabilita' per gli atti o le omissioni degli amministratori non si estende a quello tra essi che, essendo immune da colpa, abbia fatto annotare senza ritardo il suo dissenso nel libro delle adunanze e delle deliberazioni del consiglio, dandone immediata notizia per iscritto al presidente ((dell'organo di controllo)).",
+    "caratteri": 1057
+  },
+  "note": [],
+  "impronta": "sha256:1aa471316516dbacb020e3ce6d671c46835429f0635905389cf470e3623a63e5"
+}

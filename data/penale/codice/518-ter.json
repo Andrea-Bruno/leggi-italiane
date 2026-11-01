@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-ter",
+    "rubrica": "Appropriazione indebita di beni culturali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, per procurare a se' o ad altri un ingiusto profitto, si appropria di un bene culturale altrui di cui abbia, a qualsiasi titolo, il possesso e' punito con la reclusione da uno a quattro anni e con la multa da euro 516 a euro 1.500. Se il fatto e' commesso su cose possedute a titolo di deposito necessario, la pena e' aumentata.",
+    "con_marcatori": "Art. 518-ter (( (Appropriazione indebita di beni culturali). )) ((Chiunque, per procurare a se' o ad altri un ingiusto profitto, si appropria di un bene culturale altrui di cui abbia, a qualsiasi titolo, il possesso e' punito con la reclusione da uno a quattro anni e con la multa da euro 516 a euro 1.500. Se il fatto e' commesso su cose possedute a titolo di deposito necessario, la pena e' aumentata.))",
+    "caratteri": 337
+  },
+  "note": [],
+  "impronta": "sha256:b84953cc8af27dc36f6538e3a585131dc1e17fbfe2c36164376bb2b7706c7961"
+}

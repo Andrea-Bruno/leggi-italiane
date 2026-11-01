@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2141",
+    "rubrica": "Nozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2141"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nella mezzadria il concedente ed il mezzadro, in proprio e quale capo di una famiglia colonica, si associano per la coltivazione di un podere e per l'esercizio delle attivita' connesse al fine di dividerne a meta' i prodotti e gli utili. E' valido tuttavia il patto con il quale taluni prodotti si dividono in proporzioni diverse.",
+    "con_marcatori": "Art. 2141. (Nozione). Nella mezzadria il concedente ed il mezzadro, in proprio e quale capo di una famiglia colonica, si associano per la coltivazione di un podere e per l'esercizio delle attivita' connesse al fine di dividerne a meta' i prodotti e gli utili. E' valido tuttavia il patto con il quale taluni prodotti si dividono in proporzioni diverse.",
+    "caratteri": 330
+  },
+  "note": [],
+  "impronta": "sha256:81d9a7eb1a75936d4a1784cbe4eb63c6600e3ff018c47404984f740854b156db"
+}

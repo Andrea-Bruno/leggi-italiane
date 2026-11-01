@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2447-octies",
+    "rubrica": "Assemblee speciali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2447-octies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per ogni categoria di strumenti finanziari previsti dalla lettera e) del primo comma dell'articolo 2447-ter l'assemblea dei possessori delibera: 1) sulla nomina e sulla revoca dei rappresentanti comuni di ciascuna categoria, con funzione di controllo sul regolare andamento dello specifico affare, e sull'azione di responsabilita' nei loro confronti; 2) sulla costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi dei possessori degli strumenti finanziari e sul rendiconto relativo; 3) sulle modificazioni dei diritti attribuiti dagli strumenti finanziari; 4) sulle controversie con la societa' e sulle relative transazioni e rinunce; 5) sugli altri oggetti di interesse comune a ciascuna categoria di strumenti finanziari. Alle assemblee speciali si applicano le disposizioni contenute negli articoli 2415, secondo, terzo, quarto e quinto comma, 2416 e 2419. Al rappresentante comune si applicano gli articoli 2417 e 2418.",
+    "con_marcatori": "Art. 2447-octies. (( (Assemblee speciali).)) ((Per ogni categoria di strumenti finanziari previsti dalla lettera e) del primo comma dell'articolo 2447-ter l'assemblea dei possessori delibera: 1) sulla nomina e sulla revoca dei rappresentanti comuni di ciascuna categoria, con funzione di controllo sul regolare andamento dello specifico affare, e sull'azione di responsabilita' nei loro confronti; 2) sulla costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi dei possessori degli strumenti finanziari e sul rendiconto relativo; 3) sulle modificazioni dei diritti attribuiti dagli strumenti finanziari; 4) sulle controversie con la societa' e sulle relative transazioni e rinunce; 5) sugli altri oggetti di interesse comune a ciascuna categoria di strumenti finanziari. Alle assemblee speciali si applicano le disposizioni contenute negli articoli 2415, secondo, terzo, quarto e quinto comma, 2416 e 2419. Al rappresentante comune si applicano gli articoli 2417 e 2418. ))",
+    "caratteri": 951
+  },
+  "note": [],
+  "impronta": "sha256:87646c8a039aebe4234a759b72847d53917b9dc02d88162ccb06d4376d915a8c"
+}

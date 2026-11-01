@@ -1,0 +1,114 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "582",
+    "rubrica": "Lesione personale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art582"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque cagiona ad alcuno una lesione personale, dalla quale deriva una malattia nel corpo o nella mente, e' punito, a querela della persona offesa, con la reclusione da sei mesi a tre anni. Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli articoli 583, 583-quater, primo comma, secondo comma, primo periodo, e terzo comma, e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'articolo 577. Si procede altresi' d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto e' commesso contro persona incapace, per eta' o per infermita'.",
+    "con_marcatori": "Art. 582. (Lesione personale) Chiunque cagiona ad alcuno una lesione personale, dalla quale deriva una malattia nel corpo o nella mente, e' punito, a querela della persona offesa, con la reclusione da sei mesi a tre anni. Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli articoli 583, 583-quater, ((primo comma,)) secondo comma, primo periodo, e terzo comma, e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'articolo 577. Si procede altresi' d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto e' commesso contro persona incapace, per eta' o per infermita'.",
+    "caratteri": 637
+  },
+  "note": [
+    {
+      "numero": 24,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 11 luglio 1959, n. 460",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1959-07-11;460",
+          "data": "1959-07-11",
+          "numero": "460",
+          "data_gazzetta": "1959-07-11"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 11 luglio 1959, n. 460 ha disposto (con l'art. 1, comma 1, lettera g)) che e' concessa amnistia \"per il reato di lesioni personali volontarie lievissime previsto dall'art. 582, capoverso, del Codice penale, aggravato ai sensi dell'art. 585, in relazione all'art. 577, stesso Codice, se concorre un'attenuante\". Ha inoltre disposto (con l'art. 15, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il 23 ottobre 1958."
+    },
+    {
+      "numero": 29,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 24 gennaio 1963, n. 5",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1963-01-24;5",
+          "data": "1963-01-24",
+          "numero": "5",
+          "data_gazzetta": "1963-01-25"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 24 gennaio 1963, n. 5 ha disposto (con l'art. 1, comma 1, lettera c)) che e' concessa amnistia \"per il delitto di lesioni personali lievissime, preveduto dall'articolo 582 capoverso del Codice penale, aggravato ai sensi dell'articolo 585 in relazione allo articolo 577 capoverso dello stesso Codice\". Ha inoltre disposto (con l'art. 8, comma 1) che l'amnistia di cui sopra ha efficacia per i reati commessi fino a tutto il giorno 8 dicembre 1962."
+    },
+    {
+      "numero": 36,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.P.R. 4 giugno 1966, n. 332",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1966-06-04;332",
+          "data": "1966-06-04",
+          "numero": "332",
+          "data_gazzetta": "1966-06-04"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 4 giugno 1966, n. 332 ha disposto (con l'art. 1, comma 1, lettera c)) che \"E' concessa amnistia, salvo quanto previsto dal presente decreto per i reati in materia tributaria: [...] c) per il delitto di lesioni personali lievissime previsto dall'art. 582 capoverso del Codice penale, se il fatto e' commesso contro il coniuge, il fratello o la sorella, il padre o la madre adottivi, o il figlio adottivo, o contro un affine in linea retta\". Ha inoltre disposto (con l'art. 16, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966."
+    }
+  ],
+  "impronta": "sha256:ede8841ae540f8fa3db5ef9b8490ebef7c850e4f1d3b7e945e20f244a809906e"
+}

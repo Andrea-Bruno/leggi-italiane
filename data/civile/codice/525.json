@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "525",
+    "rubrica": "Revoca della rinunzia",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art525"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fino a che il diritto di accettare l'eredita' non e' prescritto contro i chiamati che vi hanno rinunziato, questi possono sempre accettarla, se non e' gia' stata acquistata da altro dei chiamati, senza pregiudizio delle ragioni acquistate da terzi sopra i beni dell'eredita'.",
+    "con_marcatori": "Art. 525. (Revoca della rinunzia). Fino a che il diritto di accettare l'eredita' non e' prescritto contro i chiamati che vi hanno rinunziato, questi possono sempre accettarla, se non e' gia' stata acquistata da altro dei chiamati, senza pregiudizio delle ragioni acquistate da terzi sopra i beni dell'eredita'.",
+    "caratteri": 275
+  },
+  "note": [],
+  "impronta": "sha256:ad4b2ca39988312223c045ed332910cccd88ea416cbe55e5cfd053be30f90130"
+}

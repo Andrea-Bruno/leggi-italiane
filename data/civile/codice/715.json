@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "715",
+    "rubrica": "Casi d'impedimento alla divisione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art715"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se tra i chiamati alla successione vi e' un concepito, la divisione non puo' aver luogo prima della nascita del medesimo. Parimenti la divisione non puo' aver luogo durante la pendenza di un giudizio sulla filiazione di colui che, in caso di esito favorevole del giudizio, sarebbe chiamato a succedere, ne' puo' aver luogo durante lo svolgimento della procedura amministrativa per l'ammissione del riconoscimento previsto dal quarto comma dell'art. 252 o per il riconoscimento dell'ente istituito erede. L'autorita' giudiziaria puo' tuttavia autorizzare la divisione, fissando le opportune cautele. La disposizione del comma precedente si applica anche se tra i chiamati alla successione vi sono nascituri non concepiti. Se i nascituri non concepiti sono istituiti senza determinazione di quote, l'autorita' giudiziaria puo' attribuire agli altri coeredi tutti i beni ereditari o parte di essi, secondo le circostanze, disponendo le opportune cautele nell'interesse dei nascituri.",
+    "con_marcatori": "Art. 715. (Casi d'impedimento alla divisione). Se tra i chiamati alla successione vi e' un concepito, la divisione non puo' aver luogo prima della nascita del medesimo. Parimenti la divisione non puo' aver luogo durante la pendenza di un giudizio ((sulla filiazione)) di colui che, in caso di esito favorevole del giudizio, sarebbe chiamato a succedere, ne' puo' aver luogo durante lo svolgimento della procedura amministrativa per l'ammissione del riconoscimento previsto dal quarto comma dell'art. 252 o per il riconoscimento dell'ente istituito erede. L'autorita' giudiziaria puo' tuttavia autorizzare la divisione, fissando le opportune cautele. La disposizione del comma precedente si applica anche se tra i chiamati alla successione vi sono nascituri non concepiti. Se i nascituri non concepiti sono istituiti senza determinazione di quote, l'autorita' giudiziaria puo' attribuire agli altri coeredi tutti i beni ereditari o parte di essi, secondo le circostanze, disponendo le opportune cautele nell'interesse dei nascituri.",
+    "caratteri": 980
+  },
+  "note": [],
+  "impronta": "sha256:d211491c6f37b55e0e2b1108dc4ebc4dd5bd94c9fa3b412cf283ca07b4bb73c2"
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "34",
+    "rubrica": "Decadenza dalla responsabilita' genitoriale e sospensione dall'esercizio di essa",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art34"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 368,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La legge determina i casi nei quali la condanna importa la decadenza dalla responsabilita' genitoriale. La condanna per delitti commessi con abuso della responsabilita' genitoriale importa la sospensione dall'esercizio di essa per un periodo di tempo pari al doppio della pena inflitta. La decadenza dalla responsabilita' genitoriale importa anche la privazione di ogni diritto che al genitore spetti sui beni del figlio in forza della responsabilita' genitoriale di cui al titolo IX del libro I del codice civile. La sospensione dall'esercizio della responsabilita' genitoriale importa anche l'incapacita' di esercitare, durante la sospensione, qualsiasi diritto che al genitore spetti sui beni del figlio in base alle norme del titolo IX del libro I del codice civile. Nelle ipotesi previste dai commi precedenti, quando sia concessa la sospensione condizionale della pena, gli atti del procedimento vengono trasmessi al tribunale dei minorenni, che assume i provvedimenti piu' opportuni nell'interesse dei minori.",
+    "con_marcatori": "Art. 34. (Decadenza dalla responsabilita' genitoriale e sospensione dall'esercizio di essa). La legge determina i casi nei quali la condanna importa la decadenza dalla responsabilita' genitoriale. La condanna per delitti commessi con abuso della responsabilita' genitoriale importa la sospensione dall'esercizio di essa per un periodo di tempo pari al doppio della pena inflitta. ((368)) La decadenza dalla responsabilita' genitoriale importa anche la privazione di ogni diritto che al genitore spetti sui beni del figlio in forza della responsabilita' genitoriale di cui al titolo IX del libro I del codice civile. La sospensione dall'esercizio della responsabilita' genitoriale importa anche l'incapacita' di esercitare, durante la sospensione, qualsiasi diritto che al genitore spetti sui beni del figlio in base alle norme del titolo IX del libro I del codice civile. Nelle ipotesi previste dai commi precedenti, quando sia concessa la sospensione condizionale della pena, gli atti del procedimento vengono trasmessi al tribunale dei minorenni, che assume i provvedimenti piu' opportuni nell'interesse dei minori.",
+    "caratteri": 1016
+  },
+  "note": [
+    {
+      "numero": 368,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 34, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "ex art. 572, secondo comma, cod. pen.",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-04-22",
+        "numero": "55"
+      },
+      "testo": "La Corte costituzionale con sentenza 24 marzo - 22 aprile 2025, n. 55 (in G.U. 1ª s.s. 23/4/2025, n. 17) ha dichiarato \"l'illegittimita' costituzionale dell'art. 34, secondo comma, del codice penale, nella parte in cui prevede che la condanna per il delitto ex art. 572, secondo comma, cod. pen., commesso, in presenza o a danno di minori, con abuso della responsabilita' genitoriale, comporta la sospensione dall'esercizio della responsabilita' genitoriale, anziche' la possibilita' per il giudice di disporla\"."
+    }
+  ],
+  "impronta": "sha256:85d17c964f604834d8d63384423cd433f72073c1a51dc771a4b3179f20182555"
+}

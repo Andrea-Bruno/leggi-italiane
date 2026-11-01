@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "20",
+    "rubrica": "Convocazione dell'assemblea delle associazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art20"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'assemblea delle associazioni deve essere convocata dagli amministratori una volta l'anno per l'approvazione del bilancio. L'assemblea deve essere inoltre convocata quando se ne ravvisa la necessita' o quando ne e' fatta richiesta motivata da almeno un decimo degli associati. In quest'ultimo caso, se gli amministratori non vi provvedono, la convocazione puo' essere ordinata dal presidente del tribunale.",
+    "con_marcatori": "Art. 20. (Convocazione dell'assemblea delle associazioni). L'assemblea delle associazioni deve essere convocata dagli amministratori una volta l'anno per l'approvazione del bilancio. L'assemblea deve essere inoltre convocata quando se ne ravvisa la necessita' o quando ne e' fatta richiesta motivata da almeno un decimo degli associati. In quest'ultimo caso, se gli amministratori non vi provvedono, la convocazione puo' essere ordinata dal presidente del tribunale.",
+    "caratteri": 407
+  },
+  "note": [],
+  "impronta": "sha256:fbf9c3c2e502d365e2ab29e7a6faf9fc40333988d02e935bb746e06333d1d5ed"
+}

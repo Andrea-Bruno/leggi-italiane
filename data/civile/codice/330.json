@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "330",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art330"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Decadenza dalla responsabilita' genitoriale sui figli. Il giudice puo' pronunziare la decadenza dalla responsabilita' genitoriale quando il genitore viola o trascura i doveri ad essa inerenti o abusa dei relativi poteri con grave pregiudizio del figlio. In tale caso, per gravi motivi, il giudice puo' ordinare l'allontanamento del figlio dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore.",
+    "con_marcatori": "Art. 330. Decadenza dalla ((responsabilita' genitoriale)) sui figli. Il giudice puo' pronunziare la decadenza dalla ((responsabilita' genitoriale)) quando il genitore viola o trascura i doveri ad essa inerenti o abusa dei relativi poteri con grave pregiudizio del figlio. In tale caso, per gravi motivi, il giudice puo' ordinare l'allontanamento del figlio dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore.",
+    "caratteri": 448
+  },
+  "note": [],
+  "impronta": "sha256:d0beed5a330f58f28f05185a65810014ab43ba3b7c26acf5b235b4591151e35b"
+}

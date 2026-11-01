@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "288",
+    "rubrica": "Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art288"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque nel territorio dello Stato e senza approvazione del Governo arruola o arma cittadini, perche' militino al servizio o a favore dello straniero, e' punito con la reclusione da quattro a quindici anni. La pena e' aumentata se fra gli arruolati sono militari in servizio, o persone tuttora soggette agli obblighi del servizio militare.",
+    "con_marcatori": "Art. 288. (Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero) Chiunque nel territorio dello Stato e senza approvazione del Governo arruola o arma cittadini, perche' militino al servizio o a favore dello straniero, e' punito con la reclusione da ((quattro a quindici anni)). La pena e' aumentata se fra gli arruolati sono militari in servizio, o persone tuttora soggette agli obblighi del servizio militare.",
+    "caratteri": 340
+  },
+  "note": [],
+  "impronta": "sha256:b08f96016c960654ada6f9d7b2dd449cfc541b4cbb9a5e25d2d914b02f339910"
+}

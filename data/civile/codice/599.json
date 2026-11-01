@@ -1,0 +1,116 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "599",
+    "rubrica": "Persone interposte",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art599"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 22,
+        "ambito": "parte"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 49,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Le disposizioni testamentarie a vantaggio delle persone incapaci indicate dagli articoli 592, 593, 595, 596, 597 e 598 sono nulle anche se fatte sotto nome d'interposta persona. Sono reputate persone interposte il padre, la madre, i discendenti e il coniuge della persona incapace, anche se chiamati congiuntamente con l'incapace.",
+    "con_marcatori": "Art. 599. (Persone interposte). Le disposizioni testamentarie a vantaggio delle persone incapaci indicate dagli articoli 592, 593, 595, 596, 597 e 598 sono nulle anche se fatte sotto nome d'interposta persona. Sono reputate persone interposte il padre, la madre, i discendenti e il coniuge della persona incapace, anche se chiamati congiuntamente con l'incapace. (22) ((49))",
+    "caratteri": 330
+  },
+  "note": [
+    {
+      "numero": 22,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 27 della legge 11 marzo 1953, n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 599 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1970-12-28",
+        "numero": "205"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 18 - 28 dicembre 1970, n. 205 (in G.U. 1a s.s. 30/12/1970, n. 329), ha dichiarato, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale dell'articolo 599 del codice civile, nella parte in cui si riferisce agli articoli 592 e 593 del presente codice."
+    },
+    {
+      "numero": 49,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 595 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 196 della legge 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        },
+        {
+          "denominazione": "art. 599 del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1979-12-20",
+        "numero": "153"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 18-20 dicembre 1979, n. 153 (in G.U. 1a s.s. 29/12/1979, n. 353), ha dichiarato \"l'illegittimita' costituzionale dell'art. 595 del codice civile nel testo abrogato dall'art. 196 della legge 19 maggio 1975, n. 151 e dell'art. 599 del codice civile nella parte in cui richiama il predetto art. 595\"."
+    }
+  ],
+  "impronta": "sha256:07f7dc2e5e7f8fcce5f4cc09e266a303b6c491df8f40dd9e203a502ecea91ed6"
+}

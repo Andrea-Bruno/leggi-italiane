@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1791",
+    "rubrica": "Nota di pegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1791"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Alla fede di deposito e' unita la nota di pegno, sulla quale sono ripetute le indicazioni richieste dall'articolo precedente. La fede di deposito e la nota di pegno devono essere staccate da un unico registro a matrice, da conservarsi presso i magazzini.",
+    "con_marcatori": "Art. 1791. (Nota di pegno). Alla fede di deposito e' unita la nota di pegno, sulla quale sono ripetute le indicazioni richieste dall'articolo precedente. La fede di deposito e la nota di pegno devono essere staccate da un unico registro a matrice, da conservarsi presso i magazzini.",
+    "caratteri": 254
+  },
+  "note": [],
+  "impronta": "sha256:57075a0ade02f78fcd0cba57b1c67d821c98538f8af58887f07f1bc6fbaada18"
+}

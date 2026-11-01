@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2966",
+    "rubrica": "Cause che impediscono la decadenza",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2966"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La decadenza non e' impedita se non dal compimento dell'atto previsto dalla legge o dal contratto. Tuttavia, se si tratta di un termine stabilito dal contratto o da una norma di legge relativa a diritti disponibili, la decadenza puo' essere anche impedita dal riconoscimento del diritto proveniente dalla persona contro la quale si deve far valere il diritto soggetto a decadenza.",
+    "con_marcatori": "Art. 2966. (Cause che impediscono la decadenza). La decadenza non e' impedita se non dal compimento dell'atto previsto dalla legge o dal contratto. Tuttavia, se si tratta di un termine stabilito dal contratto o da una norma di legge relativa a diritti disponibili, la decadenza puo' essere anche impedita dal riconoscimento del diritto proveniente dalla persona contro la quale si deve far valere il diritto soggetto a decadenza.",
+    "caratteri": 380
+  },
+  "note": [],
+  "impronta": "sha256:42235f22393475c5d942e35ede257d0feaa3f2386c29050544bbfb56a240cda9"
+}

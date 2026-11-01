@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "501",
+    "rubrica": "Reclami",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art501"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Compiuto lo stato di graduazione, il notaio ne da' avviso con raccomandata ai creditori e legatari di cui e' noto il domicilio o la residenza, e provvede alla pubblicazione di un estratto dello stato nel foglio degli annunzi legali della provincia. Trascorsi senza reclami trenta giorni dalla data di questa pubblicazione, lo stato di graduazione diviene definitivo.",
+    "con_marcatori": "Art. 501. (Reclami) Compiuto lo stato di graduazione, il notaio ne da' avviso con raccomandata ai creditori e legatari di cui e' noto il domicilio o la residenza, e provvede alla pubblicazione di un estratto dello stato nel foglio degli annunzi legali della provincia. Trascorsi senza reclami trenta giorni dalla data di questa pubblicazione, lo stato di graduazione diviene definitivo.",
+    "caratteri": 366
+  },
+  "note": [],
+  "impronta": "sha256:a3e3362d38aa7e501e8326e8b57c32d2a8a569d0e7e48fc9d29e75f8f7812404"
+}

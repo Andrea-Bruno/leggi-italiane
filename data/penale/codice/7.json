@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "7",
+    "rubrica": "Reati commessi all'estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art7"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' punito secondo la legge italiana il cittadino o lo straniero che commette in territorio estero taluno dei seguenti reati: 1° delitti contro la personalita' dello Stato italiano; 2° delitti di contraffazione del sigillo dello Stato e di uso di tale sigillo contraffatto; 3° delitti di falsita' in monete aventi corso legale nel territorio dello Stato, o in valori di bollo o in carte di pubblico credito italiano; 4° delitti commessi da pubblici ufficiali a servizio dello Stato, abusando dei poteri o violando i doveri inerenti alle loro funzioni; 5° ogni altro reato per il quale speciali disposizioni di legge o convenzioni internazionali stabiliscono l'applicabilita' della legge penale italiana.",
+    "con_marcatori": "Art. 7. (Reati commessi all'estero) E' punito secondo la legge italiana il cittadino o lo straniero che commette in territorio estero taluno dei seguenti reati: 1° delitti contro la personalita' dello Stato ((italiano)); 2° delitti di contraffazione del sigillo dello Stato e di uso di tale sigillo contraffatto; 3° delitti di falsita' in monete aventi corso legale nel territorio dello Stato, o in valori di bollo o in carte di pubblico credito italiano; 4° delitti commessi da pubblici ufficiali a servizio dello Stato, abusando dei poteri o violando i doveri inerenti alle loro funzioni; 5° ogni altro reato per il quale speciali disposizioni di legge o convenzioni internazionali stabiliscono l'applicabilita' della legge penale italiana.",
+    "caratteri": 702
+  },
+  "note": [],
+  "impronta": "sha256:98fcb0445ed06140c8079af97a542e34794989ebd5fd697ed4b8ffbf4d321b74"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "517-quater",
+    "rubrica": "Contraffazione dei segni di indicazione geografica e di denominazione protetta dei prodotti agroalimentari",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art517-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque contraffa' o comunque altera indicazioni geografiche o denominazioni di origine di prodotti agroalimentari, artigianali e industriali e' punito con la reclusione da uno a quattro anni e con la multa da euro 10.000 a euro 50.000. Alla stessa pena soggiace chi, al fine di trarne profitto, introduce nel territorio dello Stato, anche in custodia temporanea o in deposito doganale, spedisce in transito, esporta, trasporta, detiene per la vendita, offre o pone in vendita o mette altrimenti in circolazione prodotti agroalimentari la cui indicazione geografica o denominazione di origine sa essere contraffatta o alterata. COMMA ABROGATO DALLA L. 21 APRILE 2026, N. 75. I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari, artigianali e industriali.",
+    "con_marcatori": "Art. 517-quater. ((Contraffazione dei segni di indicazione geografica e di denominazione protetta dei prodotti agroalimentari)) Chiunque contraffa' o comunque altera indicazioni geografiche o denominazioni di origine di prodotti agroalimentari, artigianali e industriali e' punito con la reclusione ((da uno a quattro anni e con la multa da euro 10.000 a euro 50.000)). ((Alla stessa pena soggiace chi, al fine di trarne profitto, introduce nel territorio dello Stato, anche in custodia temporanea o in deposito doganale, spedisce in transito, esporta, trasporta, detiene per la vendita, offre o pone in vendita o mette altrimenti in circolazione prodotti agroalimentari la cui indicazione geografica o denominazione di origine sa essere contraffatta o alterata)). ((COMMA ABROGATO DALLA L. 21 APRILE 2026, N. 75)). I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari, artigianali e industriali.",
+    "caratteri": 1005
+  },
+  "note": [],
+  "impronta": "sha256:1d425d90081b0d278c1ace443d8738e8a6a479afd2b3fbf73ee75ea9c5b15c22"
+}

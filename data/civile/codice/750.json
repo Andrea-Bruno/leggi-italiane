@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "750",
+    "rubrica": "Collazione di mobili",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art750"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La collazione dei mobili si fa soltanto per imputazione, sulla base del valore che essi avevano al tempo dell'aperta successione. Se si tratta di cose delle quali non si puo' far uso senza consumarle, e il donatario le ha gia' consumate, si determina il valore che avrebbero avuto secondo il prezzo corrente al tempo dell'aperta successione. Se si tratta di cose che con l'uso si deteriorano, il loro valore al tempo dell'aperta successione e' stabilito con riguardo allo stato in cui si trovano. La determinazione del valore dei titoli dello Stato, degli altri titoli di credito quotati in borsa e delle derrate e delle merci il cui prezzo corrente e' stabilito dalle mercuriali, si fa in base ai listini di borsa e alle mercuriali del tempo dell'aperta successione.",
+    "con_marcatori": "Art. 750. (Collazione di mobili). La collazione dei mobili si fa soltanto per imputazione, sulla base del valore che essi avevano al tempo dell'aperta successione. Se si tratta di cose delle quali non si puo' far uso senza consumarle, e il donatario le ha gia' consumate, si determina il valore che avrebbero avuto secondo il prezzo corrente al tempo dell'aperta successione. Se si tratta di cose che con l'uso si deteriorano, il loro valore al tempo dell'aperta successione e' stabilito con riguardo allo stato in cui si trovano. La determinazione del valore dei titoli dello Stato, degli altri titoli di credito quotati in borsa e delle derrate e delle merci il cui prezzo corrente e' stabilito dalle mercuriali, si fa in base ai listini di borsa e alle mercuriali del tempo dell'aperta successione.",
+    "caratteri": 767
+  },
+  "note": [],
+  "impronta": "sha256:c69ded49311f8e7f82e5df8c3881f8809b8f70dcb0d6c98b626120411d8ae6ff"
+}

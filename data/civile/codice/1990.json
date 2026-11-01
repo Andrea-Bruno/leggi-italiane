@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1990",
+    "rubrica": "Revoca della promessa",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1990"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La promessa puo' essere revocata prima della scadenza del termine indicato dall'articolo precedente solo per giusta causa, purche' la revoca sia resa pubblica nella stessa forma della promessa o in forma equivalente. In nessun caso la revoca puo' avere effetto se la situazione prevista nella promessa si e' gia' verificata o se l'azione e' gia' stata compiuta.",
+    "con_marcatori": "Art. 1990. (Revoca della promessa). La promessa puo' essere revocata prima della scadenza del termine indicato dall'articolo precedente solo per giusta causa, purche' la revoca sia resa pubblica nella stessa forma della promessa o in forma equivalente. In nessun caso la revoca puo' avere effetto se la situazione prevista nella promessa si e' gia' verificata o se l'azione e' gia' stata compiuta.",
+    "caratteri": 361
+  },
+  "note": [],
+  "impronta": "sha256:f9db19cffdb339004f26444b9ccf9256d68082c4a014f64e33edb40d5d66fd8e"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "821",
+    "rubrica": "Acquisto dei frutti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art821"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I frutti naturali appartengono al proprietario della cosa che li produce, salvo che la loro proprieta' sia attribuita ad altri. In quest'ultimo caso la proprieta' si acquista con la separazione. Chi fa propri i frutti deve, nei limiti del loro valore, rimborsare colui che abbia fatto spese per la produzione e il raccolto. I frutti civili si acquistano giorno per giorno, in ragione della durata del diritto.",
+    "con_marcatori": "Art. 821. (Acquisto dei frutti). I frutti naturali appartengono al proprietario della cosa che li produce, salvo che la loro proprieta' sia attribuita ad altri. In quest'ultimo caso la proprieta' si acquista con la separazione. Chi fa propri i frutti deve, nei limiti del loro valore, rimborsare colui che abbia fatto spese per la produzione e il raccolto. I frutti civili si acquistano giorno per giorno, in ragione della durata del diritto.",
+    "caratteri": 409
+  },
+  "note": [],
+  "impronta": "sha256:84b638f8e907f4a2f21ced8411e24937088586a57f1b105ea53caa9b17f4d627"
+}

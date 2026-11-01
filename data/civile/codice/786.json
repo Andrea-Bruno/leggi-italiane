@@ -1,0 +1,72 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "786",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art786"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": "L. 15 MAGGIO 1997, N. 127, COME MODIFICATA DALLA L. 22 GIUGNO 2000, N. 192",
+        "testo": "ARTICOLO ABROGATO DALLA L. 15 MAGGIO 1997, N. 127, COME MODIFICATA DALLA L. 22 GIUGNO 2000, N. 192"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DALLA L. 15 MAGGIO 1997, N. 127, COME MODIFICATA DALLA L. 22 GIUGNO 2000, N. 192",
+    "con_marcatori": "Art. 786. ((ARTICOLO ABROGATO DALLA L. 15 MAGGIO 1997, N. 127, COME MODIFICATA DALLA L. 22 GIUGNO 2000, N. 192))((123))",
+    "caratteri": 98
+  },
+  "note": [
+    {
+      "numero": 123,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 15 maggio 1997, n. 127",
+          "urn": "urn:nir:stato:legge:1997-05-15;127",
+          "data": "1997-05-15",
+          "numero": "127",
+          "data_gazzetta": "1997-05-17"
+        },
+        {
+          "denominazione": "L. 22 giugno 2000, n. 192",
+          "urn": "urn:nir:stato:legge:2000-06-22;192",
+          "data": "2000-06-22",
+          "numero": "192",
+          "data_gazzetta": "2000-07-12"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 15 maggio 1997, n. 127, come modificata dalla L. 22 giugno 2000, n. 192 ha disposto (con l'art. 13, comma 1) che \"Le disposizioni di cui al comma 1 si applicano anche alle acquisizioni deliberate o verificatesi in data anteriore a quella di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:4a9298bae504a422d663d89d8fa44b15398448fe3639c458d0c802d55b5641fc"
+}

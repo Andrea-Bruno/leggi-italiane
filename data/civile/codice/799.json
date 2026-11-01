@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "799",
+    "rubrica": "Conferma ed esecuzione volontaria di donazioni nulle",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art799"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La nullita' della donazione, da qualunque causa dipenda, non puo' essere fatta valere dagli eredi o aventi causa dal donante che, conoscendo la causa della nullita', hanno, dopo la morte di lui, confermato la donazione o vi hanno dato volontaria esecuzione.",
+    "con_marcatori": "Art. 799. (Conferma ed esecuzione volontaria di donazioni nulle). La nullita' della donazione, da qualunque causa dipenda, non puo' essere fatta valere dagli eredi o aventi causa dal donante che, conoscendo la causa della nullita', hanno, dopo la morte di lui, confermato la donazione o vi hanno dato volontaria esecuzione.",
+    "caratteri": 257
+  },
+  "note": [],
+  "impronta": "sha256:950b3219a98feaa6bc39e92ccb84f9c3c864a1d7ac0c718e0f8afe76e7051eb9"
+}

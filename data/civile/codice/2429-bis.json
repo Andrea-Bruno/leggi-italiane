@@ -1,0 +1,65 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2429-bis",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2429-bis"
+  },
+  "stato": {
+    "codice": "abrogato",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Il testo consolidato riporta l'abrogazione dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "abrogazione_espressa",
+        "fonte": null,
+        "testo": "ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 1991, N. 127"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 1991, N. 127",
+    "con_marcatori": "Art. 2429-bis. ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 1991, N. 127 ((141))",
+    "caratteri": 50
+  },
+  "note": [
+    {
+      "numero": 141,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 17 gennaio 2003, n. 6",
+          "urn": "urn:nir:stato:decretoLegislativo:2003-01-17;6",
+          "data": "2003-01-17",
+          "numero": "6",
+          "data_gazzetta": "2003-01-22"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 17 gennaio 2003, n. 6, disponendo (con l'art. 1, comma 1) la sostituzione del Libro V, Titolo V, Capo V, non ha piu' previsto il presente articolo."
+    }
+  ],
+  "impronta": "sha256:f4a1d74444fb2118ad9198922c8e38cac054b300c5257037b3199b488526b14e"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "463",
+    "rubrica": "Casi d'indegnita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art463"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' escluso dalla successione come indegno: 1) chi ha volontariamente ucciso o tentato di uccidere la persona della cui successione si tratta, o il coniuge, o un discendente, o un ascendente della medesima, purche' non ricorra alcuna delle cause che escludono la punibilita' a norma della legge penale; 2)chi ha commesso, in danno di una di tali persone, un fatto al quale la legge ... dichiara applicabili le disposizioni sull'omicidio; 3) chi ha denunziato una di tali persone per reato punibile ... con l'ergastolo o con la reclusione per un tempo non inferiore nel minimo a tre anni, se la denunzia e' stata dichiarata calunniosa in giudizio penale; ovvero ha testimoniato contro le persone medesime imputate dei predetti reati, se la testimonianza e' stata dichiarata, nei confronti di lui, falsa in giudizio penale; 3-bis) chi, essendo decaduto dalla potesta' genitoriale nei confronti della persona della cui successione si tratta a norma dell'articolo 330, non e' stato reintegrato nella potesta' alla data di apertura della successione della medesima; 4) chi ha indotto con dolo o violenza la persona, della cui successione si tratta, a fare, revocare o mutare il testamento, o ne l'ha impedita; 5) chi ha soppresso, celato o alterato il testamento dal quale la successione sarebbe stata regolata; 6) chi ha formato un testamento falso o ne ha fatto scientemente uso.",
+    "con_marcatori": "Art. 463. (Casi d'indegnita'). E' escluso dalla successione come indegno: 1) chi ha volontariamente ucciso o tentato di uccidere la persona della cui successione si tratta, o il coniuge, o un discendente, o un ascendente della medesima, purche' non ricorra alcuna delle cause che escludono la punibilita' a norma della legge penale; 2)chi ha commesso, in danno di una di tali persone, un fatto al quale la legge ((...)) dichiara applicabili le disposizioni sull'omicidio; 3) chi ha denunziato una di tali persone per reato punibile ((...)) con l'ergastolo o con la reclusione per un tempo non inferiore nel minimo a tre anni, se la denunzia e' stata dichiarata calunniosa in giudizio penale; ovvero ha testimoniato contro le persone medesime imputate dei predetti reati, se la testimonianza e' stata dichiarata, nei confronti di lui, falsa in giudizio penale; ((3-bis) chi, essendo decaduto dalla potesta' genitoriale nei confronti della persona della cui successione si tratta a norma dell'articolo 330, non e' stato reintegrato nella potesta' alla data di apertura della successione della medesima)); 4) chi ha indotto con dolo o violenza la persona, della cui successione si tratta, a fare, revocare o mutare il testamento, o ne l'ha impedita; 5) chi ha soppresso, celato o alterato il testamento dal quale la successione sarebbe stata regolata; 6) chi ha formato un testamento falso o ne ha fatto scientemente uso.",
+    "caratteri": 1375
+  },
+  "note": [],
+  "impronta": "sha256:d9b2053ad79e3a60ed9fa4315a585543795a9ea11df65d0959f7db79b590d940"
+}

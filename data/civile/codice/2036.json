@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2036",
+    "rubrica": "Indebito soggettivo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2036"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi ha pagato un debito altrui, credendosi debitore in base a un errore scusabile, puo' ripetere cio' che ha pagato, sempre che il creditore non si sia privato in buona fede del titolo o delle garanzie del credito. Chi ha ricevuto l'indebito e' anche tenuto a restituire i frutti e gli interessi dal giorno del pagamento, se era in mala fede, o dal giorno della domanda, se era in buona fede. Quando la ripetizione non e' ammessa, colui che ha pagato subentra nei diritti del creditore.",
+    "con_marcatori": "Art. 2036. (Indebito soggettivo). Chi ha pagato un debito altrui, credendosi debitore in base a un errore scusabile, puo' ripetere cio' che ha pagato, sempre che il creditore non si sia privato in buona fede del titolo o delle garanzie del credito. Chi ha ricevuto l'indebito e' anche tenuto a restituire i frutti e gli interessi dal giorno del pagamento, se era in mala fede, o dal giorno della domanda, se era in buona fede. Quando la ripetizione non e' ammessa, colui che ha pagato subentra nei diritti del creditore.",
+    "caratteri": 486
+  },
+  "note": [],
+  "impronta": "sha256:d6aabfdb79bf3a01f72b0a5ae10503b3a3da267d458d836fb2d39e5f84d1517b"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "751",
+    "rubrica": "Collazione del danaro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art751"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La collazione del danaro donato si fa prendendo una minore quantita' del danaro che si trova nell'eredita', secondo il valore legale della specie donata o di quella ad essa legalmente sostituita all'epoca dell'aperta successione. Quando tale danaro non basta e il donatario non vuole conferire altro danaro o titoli dello Stato, sono prelevati mobili o immobili ereditari, in proporzione delle rispettive quote.",
+    "con_marcatori": "Art. 751. (Collazione del danaro). La collazione del danaro donato si fa prendendo una minore quantita' del danaro che si trova nell'eredita', secondo il valore legale della specie donata o di quella ad essa legalmente sostituita all'epoca dell'aperta successione. Quando tale danaro non basta e il donatario non vuole conferire altro danaro o titoli dello Stato, sono prelevati mobili o immobili ereditari, in proporzione delle rispettive quote.",
+    "caratteri": 411
+  },
+  "note": [],
+  "impronta": "sha256:76c799eebf75587d459f21a8df28abec0b84098093fb1d5e759794c186ad7ec4"
+}

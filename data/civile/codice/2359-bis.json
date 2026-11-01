@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2359-bis",
+    "rubrica": "Acquisto di azioni o quote da parte di societa' controllate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La societa' controllata non puo' acquistare azioni o quote della societa' controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate. L'acquisto deve essere autorizzato dall'assemblea a norma del secondo comma dell'articolo 2357. In nessun caso il valore nominale delle azioni acquistate a norma dei commi primo e secondo puo' eccedere la quinta parte del capitale della societa' controllante qualora questa sia una societa' che faccia ricorso al mercato del capitale di rischio, tenendosi conto a tal fine delle azioni possedute dalla medesima societa' controllante o dalle societa' da essa controllate. Una riserva indisponibile, pari all'importo delle azioni o quote della societa' controllante iscritto all'attivo del bilancio deve essere costituita e mantenuta finche' le azioni o quote non siano trasferite. La societa' controllata da altra societa' non puo' esercitare il diritto di voto nelle assemblee di questa. Le disposizioni di questo articolo si applicano anche agli acquisti fatti per il tramite di societa' fiduciaria o per interposta persona.",
+    "con_marcatori": "Art. 2359-bis. (Acquisto di azioni o quote da parte di societa' controllate). La societa' controllata non puo' acquistare azioni o quote della societa' controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate. L'acquisto deve essere autorizzato dall'assemblea a norma del secondo comma dell'articolo 2357. ((In nessun caso il valore nominale delle azioni acquistate a norma dei commi primo e secondo puo' eccedere la quinta parte del capitale della societa' controllante qualora questa sia una societa' che faccia ricorso al mercato del capitale di rischio, tenendosi conto a tal fine delle azioni possedute dalla medesima societa' controllante o dalle societa' da essa controllate.)) Una riserva indisponibile, pari all'importo delle azioni o quote della societa' controllante iscritto all'attivo del bilancio deve essere costituita e mantenuta finche' le azioni o quote non siano trasferite. La societa' controllata da altra societa' non puo' esercitare il diritto di voto nelle assemblee di questa. Le disposizioni di questo articolo si applicano anche agli acquisti fatti per il tramite di societa' fiduciaria o per interposta persona.",
+    "caratteri": 1204
+  },
+  "note": [],
+  "impronta": "sha256:beaab095800ff3d46ce5ff1475b06f0da4c5ea6f2765b4171bbe8e1a8d21c8b7"
+}

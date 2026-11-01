@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1467",
+    "rubrica": "Contratto con prestazioni corrispettive",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1467"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei contratti a esecuzione continuata o periodica ovvero a esecuzione differita, se la prestazione di una delle parti e' divenuta eccessivamente onerosa per il verificarsi di avvenimenti straordinari e imprevedibili, la parte che deve tale prestazione puo' domandare la risoluzione del contratto, con gli effetti stabiliti dall'art. 1458. La risoluzione non puo' essere domandata se la sopravvenuta onerosita' rientra nell'alea normale del contratto. La parte contro la quale e' domandata la risoluzione puo' evitarla offrendo di modificare equamente le condizioni del contratto.",
+    "con_marcatori": "Art. 1467. (Contratto con prestazioni corrispettive). Nei contratti a esecuzione continuata o periodica ovvero a esecuzione differita, se la prestazione di una delle parti e' divenuta eccessivamente onerosa per il verificarsi di avvenimenti straordinari e imprevedibili, la parte che deve tale prestazione puo' domandare la risoluzione del contratto, con gli effetti stabiliti dall'art. 1458. La risoluzione non puo' essere domandata se la sopravvenuta onerosita' rientra nell'alea normale del contratto. La parte contro la quale e' domandata la risoluzione puo' evitarla offrendo di modificare equamente le condizioni del contratto.",
+    "caratteri": 579
+  },
+  "note": [],
+  "impronta": "sha256:ac2c944d811756adc64d3d6c46e38aabf8e7dd7849e4148d1a5a42d34692da00"
+}

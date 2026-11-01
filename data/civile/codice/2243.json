@@ -1,0 +1,69 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2243",
+    "rubrica": "Periodo di riposo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2243"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 13,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il prestatore di lavoro, oltre al riposo settimanale secondo gli usi, ha diritto, dopo un anno di ininterrotto servizio, ad un periodo di ferie retribuito, che non puo' essere inferiore a otto giorni.",
+    "con_marcatori": "Art. 2243. (Periodo di riposo). Il prestatore di lavoro, oltre al riposo settimanale secondo gli usi, ha diritto, dopo un anno di ininterrotto servizio, ad un periodo di ferie retribuito, che non puo' essere inferiore a otto giorni. ((13))",
+    "caratteri": 200
+  },
+  "note": [
+    {
+      "numero": 13,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2243 del Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1969-02-17",
+        "numero": "16"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 12 - 17 febbraio 1969, n. 16 (in G.U. 1a s.s. 26/02/1969, n. 52), ha dichiarato \"l'illegittimita' costituzionale dell'art. 2243 del Codice civile, limitatamente all'inciso \"dopo un anno di ininterrotto servizio\".\""
+    }
+  ],
+  "impronta": "sha256:3d58d86230cd4d6508b0321bc68ccd39182ce5fc62d5cb4bbc4f2b21991c6c65"
+}

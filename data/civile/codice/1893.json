@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1893",
+    "rubrica": "Dichiarazioni inesatte e reticenze senza dolo o colpa grave",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1893"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contraente ha agito senza dolo o colpa grave, le dichiarazioni inesatte e le reticenze non sono causa di annullamento del contratto, ma l'assicuratore puo' recedere dal contratto stesso, mediante dichiarazione da farsi all'assicurato nei tre mesi dal giorno in cui ha conosciuto l'inesattezza della dichiarazione o la reticenza. Se il sinistro si verifica prima che l'inesattezza della dichiarazione o la reticenza sia conosciuta dall'assicuratore, o prima che questi abbia dichiarato di recedere dal contratto, la somma dovuta e' ridotta in proporzione della differenza tra il premio convenuto e quello che sarebbe stato applicato se si fosse conosciuto il vero stato delle cose.",
+    "con_marcatori": "Art. 1893. (Dichiarazioni inesatte e reticenze senza dolo o colpa grave). Se il contraente ha agito senza dolo o colpa grave, le dichiarazioni inesatte e le reticenze non sono causa di annullamento del contratto, ma l'assicuratore puo' recedere dal contratto stesso, mediante dichiarazione da farsi all'assicurato nei tre mesi dal giorno in cui ha conosciuto l'inesattezza della dichiarazione o la reticenza. Se il sinistro si verifica prima che l'inesattezza della dichiarazione o la reticenza sia conosciuta dall'assicuratore, o prima che questi abbia dichiarato di recedere dal contratto, la somma dovuta e' ridotta in proporzione della differenza tra il premio convenuto e quello che sarebbe stato applicato se si fosse conosciuto il vero stato delle cose.",
+    "caratteri": 686
+  },
+  "note": [],
+  "impronta": "sha256:1bc782c37068ffb597ca5316c432893a8bfa885cf9a0a62fa81300845c196c06"
+}

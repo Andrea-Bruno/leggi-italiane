@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2545-decies",
+    "rubrica": "Trasformazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2545-decies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le societa' cooperative diverse da quelle a mutualita' prevalente possono deliberare, con il voto favorevole di almeno la meta' dei soci della cooperativa, la trasformazione in una societa' del tipo previsto dal titolo V, capi II, III, IV, V, VI e VII, o in consorzio. Quando i soci sono meno di cinquanta, la deliberazione deve essere approvata con il voto favorevole dei due terzi di essi. Quando i soci sono piu' di diecimila, l'atto costitutivo puo' prevedere che la trasformazione sia deliberata con il voto favorevole dei due terzi dei votanti se all'assemblea sono presenti, personalmente o per delega, almeno il venti per cento dei soci. All'esito della trasformazione gli strumenti finanziari con diritto di voto sono convertiti in partecipazioni ordinarie, conservando gli eventuali privilegi.",
+    "con_marcatori": "Art. 2545-decies. (( (Trasformazione).)) ((Le societa' cooperative diverse da quelle a mutualita' prevalente possono deliberare, con il voto favorevole di almeno la meta' dei soci della cooperativa, la trasformazione in una societa' del tipo previsto dal titolo V, capi II, III, IV, V, VI e VII, o in consorzio. Quando i soci sono meno di cinquanta, la deliberazione deve essere approvata con il voto favorevole dei due terzi di essi. Quando i soci sono piu' di diecimila, l'atto costitutivo puo' prevedere che la trasformazione sia deliberata con il voto favorevole dei due terzi dei votanti se all'assemblea sono presenti, personalmente o per delega, almeno il venti per cento dei soci. All'esito della trasformazione gli strumenti finanziari con diritto di voto sono convertiti in partecipazioni ordinarie, conservando gli eventuali privilegi.))",
+    "caratteri": 803
+  },
+  "note": [],
+  "impronta": "sha256:78f79df2e7479ea02d37a59eacadd75f5d113c418f57df3820484b780f3d6fa9"
+}

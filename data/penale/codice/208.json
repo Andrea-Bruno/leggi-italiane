@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "208",
+    "rubrica": "Riesame della pericolosita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art208"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Decorso il periodo minimo di durata, stabilito dalla legge per ciascuna misura di sicurezza, il giudice riprende in esame le condizioni della persona che vi e' sottoposta, per stabilire se essa e' ancora socialmente pericolosa. Qualora la persona risulti ancora pericolosa, il giudice fissa un nuovo termine per un esame ulteriore. Nondimeno, quando vi sia ragione di ritenere che il pericolo sia cessato, il giudice puo', in ogni tempo, procedere a nuovi accertamenti.",
+    "con_marcatori": "Art. 208. (Riesame della pericolosita') Decorso il periodo minimo di durata, stabilito dalla legge per ciascuna misura di sicurezza, il giudice riprende in esame le condizioni della persona che vi e' sottoposta, per stabilire se essa e' ancora socialmente pericolosa. Qualora la persona risulti ancora pericolosa, il giudice fissa un nuovo termine per un esame ulteriore. Nondimeno, quando vi sia ragione di ritenere che il pericolo sia cessato, il giudice puo', in ogni tempo, procedere a nuovi accertamenti.",
+    "caratteri": 469
+  },
+  "note": [],
+  "impronta": "sha256:3e81c2d14b341516a35941bb837f4e649b83ba90acadf0ff7ba506985b797c6f"
+}

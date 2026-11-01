@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2379-ter",
+    "rubrica": "Invalidita' delle deliberazioni di aumento o di riduzione del capitale e della emissione di obbligazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2379-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi previsti dall'articolo 2379 l'impugnativa dell'aumento di capitale, della riduzione del capitale ai sensi dell'articolo 2445 o della emissione di obbligazioni non puo' essere proposta dopo che siano trascorsi centottanta giorni dall'iscrizione della deliberazione nel registro delle imprese o, nel caso di mancata convocazione, novanta giorni dall'approvazione del bilancio dell'esercizio nel corso del quale la deliberazione e' stata anche parzialmente eseguita. Nelle societa' che fanno ricorso al mercato del capitale di rischio l'invalidita' della deliberazione di aumento del capitale non puo' essere pronunciata dopo che a norma dell'articolo 2444 sia stata iscritta nel registro delle imprese l'attestazione che l'aumento e' stato anche parzialmente eseguito; l'invalidita' della deliberazione di riduzione del capitale ai sensi dell'articolo 2445 o della deliberazione di emissione delle obbligazioni non puo' essere pronunciata dopo che la deliberazione sia stata anche parzialmente eseguita. Resta salvo il diritto al risarcimento del danno eventualmente spettante ai soci e ai terzi.",
+    "con_marcatori": "Art. 2379-ter. (( (Invalidita' delle deliberazioni di aumento o di riduzione del capitale e della emissione di obbligazioni). )) ((Nei casi previsti dall'articolo 2379 l'impugnativa dell'aumento di capitale, della riduzione del capitale ai sensi dell'articolo 2445 o della emissione di obbligazioni non puo' essere proposta dopo che siano trascorsi centottanta giorni dall'iscrizione della deliberazione nel registro delle imprese o, nel caso di mancata convocazione, novanta giorni dall'approvazione del bilancio dell'esercizio nel corso del quale la deliberazione e' stata anche parzialmente eseguita. Nelle societa' che fanno ricorso al mercato del capitale di rischio l'invalidita' della deliberazione di aumento del capitale non puo' essere pronunciata dopo che a norma dell'articolo 2444 sia stata iscritta nel registro delle imprese l'attestazione che l'aumento e' stato anche parzialmente eseguito; l'invalidita' della deliberazione di riduzione del capitale ai sensi dell'articolo 2445 o della deliberazione di emissione delle obbligazioni non puo' essere pronunciata dopo che la deliberazione sia stata anche parzialmente eseguita. Resta salvo il diritto al risarcimento del danno eventualmente spettante ai soci e ai terzi.))",
+    "caratteri": 1103
+  },
+  "note": [],
+  "impronta": "sha256:84c1ea9cc7077a34cab00cf2967c228d5aec102b896f5c6fa54a837310f22583"
+}

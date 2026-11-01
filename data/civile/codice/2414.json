@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2414",
+    "rubrica": "Contenuto delle obbligazioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2414"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I titoli obbligazionari devono indicare: 1) la denominazione, l'oggetto e la sede della societa', con l'indicazione dell'ufficio del registro delle imprese presso il quale la societa' e' iscritta; 2) il capitale sociale e le riserve esistenti al momento dell'emissione; 3) la data della deliberazione di emissione e della sua iscrizione nel registro; 4) l'ammontare complessivo dell'emissione, il valore nominale di ciascun titolo, i diritti con essi attribuiti, il rendimento o i criteri per la sua determinazione e il modo di pagamento e di rimborso, l'eventuale subordinazione dei diritti degli obbligazionisti a quelli di altri creditori della societa'; 5) le eventuali garanzie da cui sono assistiti. ( la data di rimborso del prestito e gli estremi dell'eventuale prospetto informativo.))",
+    "con_marcatori": "Art. 2414. (Contenuto delle obbligazioni). I titoli obbligazionari devono indicare: 1) la denominazione, l'oggetto e la sede della societa', con l'indicazione dell'ufficio del registro delle imprese presso il quale la societa' e' iscritta; 2) il capitale sociale e le riserve esistenti al momento dell'emissione; 3) la data della deliberazione di emissione e della sua iscrizione nel registro; 4) l'ammontare complessivo dell'emissione, il valore nominale di ciascun titolo, i diritti con essi attribuiti, il rendimento o i criteri per la sua determinazione e il modo di pagamento e di rimborso, l'eventuale subordinazione dei diritti degli obbligazionisti a quelli di altri creditori della societa'; 5) le eventuali garanzie da cui sono assistiti. ((6) la data di rimborso del prestito e gli estremi dell'eventuale prospetto informativo.))",
+    "caratteri": 794
+  },
+  "note": [],
+  "impronta": "sha256:ad4e58d0d4c0ee54a217dc45bdba74c4b45071b632a057483a87a2061cef72b1"
+}

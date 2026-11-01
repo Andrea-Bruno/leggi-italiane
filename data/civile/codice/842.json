@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "842",
+    "rubrica": "Caccia e pesca",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art842"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il proprietario di un fondo non puo' impedire che vi si entri per l'esercizio della caccia, a meno che il fondo sia chiuso nei modi stabiliti dalla legge sulla caccia o vi siano colture in atto suscettibili di danno. Egli puo' sempre opporsi a chi non e' munito della licenza rilasciata dall'autorita'. Per l'esercizio della pesca occorre il consenso del proprietario del fondo.",
+    "con_marcatori": "Art. 842. (Caccia e pesca). Il proprietario di un fondo non puo' impedire che vi si entri per l'esercizio della caccia, a meno che il fondo sia chiuso nei modi stabiliti dalla legge sulla caccia o vi siano colture in atto suscettibili di danno. Egli puo' sempre opporsi a chi non e' munito della licenza rilasciata dall'autorita'. Per l'esercizio della pesca occorre il consenso del proprietario del fondo.",
+    "caratteri": 378
+  },
+  "note": [],
+  "impronta": "sha256:5427c1e03684367a5dd61efb4c17a51ea55544bbdda15fdf5a4d803f12ce3b2a"
+}

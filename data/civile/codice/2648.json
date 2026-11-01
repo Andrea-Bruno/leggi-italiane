@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2648",
+    "rubrica": "Accettazione di eredita' e acquisto di legato",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2648"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si devono trascrivere l'accettazione dell'eredita' che importi acquisto dei diritti enunciati nei numeri 1, 2 e 4 dell'art. 2643 o liberazione dai medesimi e l'acquisto del legato che abbia lo stesso oggetto. La trascrizione dell'accettazione dell'eredita' si opera in base alla dichiarazione del chiamato all'eredita', contenuta in un atto pubblico ovvero in una scrittura privata con sottoscrizione autenticata o accertata giudizialmente. Se il chiamato ha compiuto uno degli atti che importano accettazione tacita dell'eredita', si puo' richiedere la trascrizione sulla base di quell'atto, qualora esso risulti da sentenza, da atto pubblico o da scrittura privata con sottoscrizione autenticata o accertata giudizialmente. La trascrizione puo' essere richiesta anche sulla base di un atto pubblico o di una scrittura privata con sottoscrizione autenticata contenente la dichiarazione sostitutiva di atto di notorieta', resa dall'erede o da un suo successore a titolo universale, attestante l'accettazione tacita dell'eredita' ai sensi dell'articolo 476 o l'avvenuto acquisto della qualita' di erede ai sensi dell'articolo 485. La trascrizione dell'acquisto del legato si opera sulla base di un estratto autentico del testamento.",
+    "con_marcatori": "Art. 2648. (Accettazione di eredita' e acquisto di legato). Si devono trascrivere l'accettazione dell'eredita' che importi acquisto dei diritti enunciati nei numeri 1, 2 e 4 dell'art. 2643 o liberazione dai medesimi e l'acquisto del legato che abbia lo stesso oggetto. La trascrizione dell'accettazione dell'eredita' si opera in base alla dichiarazione del chiamato all'eredita', contenuta in un atto pubblico ovvero in una scrittura privata con sottoscrizione autenticata o accertata giudizialmente. Se il chiamato ha compiuto uno degli atti che importano accettazione tacita dell'eredita', si puo' richiedere la trascrizione sulla base di quell'atto, qualora esso risulti da sentenza, da atto pubblico o da scrittura privata con sottoscrizione autenticata o accertata giudizialmente. ((La trascrizione puo' essere richiesta anche sulla base di un atto pubblico o di una scrittura privata con sottoscrizione autenticata contenente la dichiarazione sostitutiva di atto di notorieta', resa dall'erede o da un suo successore a titolo universale, attestante l'accettazione tacita dell'eredita' ai sensi dell'articolo 476 o l'avvenuto acquisto della qualita' di erede ai sensi dell'articolo 485)). La trascrizione dell'acquisto del legato si opera sulla base di un estratto autentico del testamento.",
+    "caratteri": 1231
+  },
+  "note": [],
+  "impronta": "sha256:83145d69f42be758e4ecbcfeabe8ea9620a04747ac51320c382e3fa9fad78036"
+}

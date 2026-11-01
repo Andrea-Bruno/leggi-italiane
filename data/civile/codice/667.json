@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "667",
+    "rubrica": "Accessioni della cosa legata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art667"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La cosa legata, con tutte le sue pertinenze, deve essere prestata al legatario nello stato in cui si trova al tempo della morte del testatore. Se e' stato legato un fondo, sono comprese nel legato anche le costruzioni fatte nel fondo, sia che esistessero gia' al tempo della confezione del testamento, sia che non esistessero, salva in ogni caso l'applicabilita' del secondo comma dell'art. 686. Se il fondo legato e' stato accresciuto con acquisti posteriori, questi sono dovuti al legatario, purche' siano contigui al fondo e costituiscano con esso una unita' economica.",
+    "con_marcatori": "Art. 667. (Accessioni della cosa legata). La cosa legata, con tutte le sue pertinenze, deve essere prestata al legatario nello stato in cui si trova al tempo della morte del testatore. Se e' stato legato un fondo, sono comprese nel legato anche le costruzioni fatte nel fondo, sia che esistessero gia' al tempo della confezione del testamento, sia che non esistessero, salva in ogni caso l'applicabilita' del secondo comma dell'art. 686. Se il fondo legato e' stato accresciuto con acquisti posteriori, questi sono dovuti al legatario, purche' siano contigui al fondo e costituiscano con esso una unita' economica.",
+    "caratteri": 572
+  },
+  "note": [],
+  "impronta": "sha256:9a917e5c5e12389007027b511ba1e27605038c95074b2730f092b896746ade61"
+}

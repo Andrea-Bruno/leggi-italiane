@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1912",
+    "rubrica": "Terremoto, guerra, insurrezione, tumulti popolari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1912"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo patto contrario, l'assicuratore non e' obbligato per i danni determinati da movimenti tellurici, da guerra, da insurrezione o da tumulti popolari.",
+    "con_marcatori": "Art. 1912. (Terremoto, guerra, insurrezione, tumulti popolari). Salvo patto contrario, l'assicuratore non e' obbligato per i danni determinati da movimenti tellurici, da guerra, da insurrezione o da tumulti popolari.",
+    "caratteri": 152
+  },
+  "note": [],
+  "impronta": "sha256:f1af3092acbbf105fe2d92483bba5c130b02a68e19239568dddc348ad6f725ff"
+}

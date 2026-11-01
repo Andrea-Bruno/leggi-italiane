@@ -1,0 +1,67 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "207",
+    "rubrica": "Revoca delle misure di sicurezza personali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art207"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 61,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Le misure di sicurezza non possono essere revocate se le persone ad esse sottoposte non hanno cessato di essere socialmente pericolose. La revoca non puo' essere ordinata se non e' decorso un tempo corrispondente alla durata minima stabilita dalla legge per ciascuna misura di sicurezza. COMMA ABROGATO DALLA L. 26 LUGLIO 1975, N. 354.",
+    "con_marcatori": "Art. 207. (Revoca delle misure di sicurezza personali) Le misure di sicurezza non possono essere revocate se le persone ad esse sottoposte non hanno cessato di essere socialmente pericolose. La revoca non puo' essere ordinata se non e' decorso un tempo corrispondente alla durata minima stabilita dalla legge per ciascuna misura di sicurezza.(61) ((COMMA ABROGATO DALLA L. 26 LUGLIO 1975, N. 354)).",
+    "caratteri": 335
+  },
+  "note": [
+    {
+      "numero": 61,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2",
+        "comma 3"
+      ],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1974-04-23",
+        "numero": "110"
+      },
+      "testo": "La Corte Costituzionale con sentenza 5-23 aprile 1974, n. 110 (in G.U. 1ª s.s. 24/04/1974, n. 107) ha dichiarato l'illegittimita' costituzionale del comma 3 del presente articolo nella parte in cui attribuisce al Ministro di grazia e giustizia - anziche' al giudice di sorveglianza - il potere di revocare le misure di sicurezza, e del comma 2 del presente articolo in quanto non consente la revoca delle misure di sicurezza prima che sia decorso il tempo corrispondente alla durata minima stabilita dalla legge."
+    }
+  ],
+  "impronta": "sha256:803905d5940bffa6099024337051c78606f42aa2cd9cbde5fcf4be3a73f1bbaa"
+}

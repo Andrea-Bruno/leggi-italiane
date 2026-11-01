@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "603-bis.1",
+    "rubrica": "Circostanza attenuante",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per i delitti previsti dall'articolo 603-bis, la pena e' diminuita da un terzo a due terzi nei confronti di chi, nel rendere dichiarazioni su quanto a sua conoscenza, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti o per il sequestro delle somme o altre utilita' trasferite. Nel caso di dichiarazioni false o reticenti si applicano le disposizioni dell'articolo 16-septies del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82. Non si applicano le disposizioni dell'articolo 600-septies.1.",
+    "con_marcatori": "Art. 603-bis.1 (( (Circostanza attenuante).)) ((Per i delitti previsti dall'articolo 603-bis, la pena e' diminuita da un terzo a due terzi nei confronti di chi, nel rendere dichiarazioni su quanto a sua conoscenza, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti o per il sequestro delle somme o altre utilita' trasferite. Nel caso di dichiarazioni false o reticenti si applicano le disposizioni dell'articolo 16-septies del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82. Non si applicano le disposizioni dell'articolo 600-septies.1.))",
+    "caratteri": 737
+  },
+  "note": [],
+  "impronta": "sha256:9125a4657470716c7421efc479b0b1abb729c94f10aeeb3d403bb60ccef45a1d"
+}

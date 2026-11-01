@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "584",
+    "rubrica": "Successione del coniuge putativo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art584"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando il matrimonio e' stato dichiarato nullo dopo la morte di uno dei coniugi, al coniuge superstite di buona fede spetta la quota attribuita al coniuge dalle disposizioni che precedono. Si applica altresi' la disposizione del secondo comma dell'articolo 540. Egli e' pero' escluso dalla successione, quando la persona della cui eredita' si tratta e' legata da valido matrimonio al momento della morte.",
+    "con_marcatori": "Art. 584. ((Successione del coniuge putativo.)) ((Quando il matrimonio e' stato dichiarato nullo dopo la morte di uno dei coniugi, al coniuge superstite di buona fede spetta la quota attribuita al coniuge dalle disposizioni che precedono. Si applica altresi' la disposizione del secondo comma dell'articolo 540. Egli e' pero' escluso dalla successione, quando la persona della cui eredita' si tratta e' legata da valido matrimonio al momento della morte)).",
+    "caratteri": 404
+  },
+  "note": [],
+  "impronta": "sha256:ed4a5dd6b21f447edf1c3ac77801ec8eff5c7c975cb4bfc52fb5c55805f480e4"
+}

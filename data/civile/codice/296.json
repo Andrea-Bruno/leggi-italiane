@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "296",
+    "rubrica": "Consenso per l'adozione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art296"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per l'adozione si richiede il consenso dell'adottante e dell'adottando. COMMA ABROGATO DALLA L. 4 MAGGIO 1983, N. 184. COMMA ABROGATO DALLA L. 4 MAGGIO 1983, N. 184.",
+    "con_marcatori": "Art. 296. (Consenso per l'adozione). Per l'adozione si richiede il consenso dell'adottante e dell'adottando. ((COMMA ABROGATO DALLA L. 4 MAGGIO 1983, N. 184)). ((COMMA ABROGATO DALLA L. 4 MAGGIO 1983, N. 184)).",
+    "caratteri": 165
+  },
+  "note": [],
+  "impronta": "sha256:0967d7afbbe53d3d6e20e30448c42d7ae1f8cf321c296f909db965799dad8ca1"
+}

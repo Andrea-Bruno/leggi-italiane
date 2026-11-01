@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2803",
+    "rubrica": "Riscossione del credito dato in pegno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2803"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il creditore pignoratizio e' tenuto a riscuotere, alla scadenza, il credito ricevuto in pegno e, se questo ha per oggetto danaro o altre cose fungibili, deve, a richiesta del debitore, effettuarne il deposito nel luogo stabilito d'accordo o altrimenti determinato dall'autorita' giudiziaria. Se il credito garantito e' scaduto, il creditore puo' ritenere del danaro ricevuto quanto basta per il soddisfacimento delle sue ragioni e restituire il residuo al costituente o, se si tratta di cose diverse dal danaro, puo' farle vendere o chiederne l'assegnazione secondo le norme degli articoli 2797 e 2798.",
+    "con_marcatori": "Art. 2803. (Riscossione del credito dato in pegno). Il creditore pignoratizio e' tenuto a riscuotere, alla scadenza, il credito ricevuto in pegno e, se questo ha per oggetto danaro o altre cose fungibili, deve, a richiesta del debitore, effettuarne il deposito nel luogo stabilito d'accordo o altrimenti determinato dall'autorita' giudiziaria. Se il credito garantito e' scaduto, il creditore puo' ritenere del danaro ricevuto quanto basta per il soddisfacimento delle sue ragioni e restituire il residuo al costituente o, se si tratta di cose diverse dal danaro, puo' farle vendere o chiederne l'assegnazione secondo le norme degli articoli 2797 e 2798.",
+    "caratteri": 602
+  },
+  "note": [],
+  "impronta": "sha256:cf324331cd64d04a9f5974240608a74ca3f0e7f384845014b7f7a6015c7234dc"
+}

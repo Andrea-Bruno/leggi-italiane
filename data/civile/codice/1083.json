@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1083",
+    "rubrica": "Determinazione della quantita' d'acqua",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1083"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando la quantita' d'acqua non e' stata determinata, ma la derivazione e' stata fatta per un dato scopo, s'intende concessa la quantita' necessaria per lo scopo medesimo, e chi vi ha interesse puo' in ogni tempo fare stabilire la forma della derivazione in modo che ne venga assicurato l'uso necessario e impedito l'eccesso. Se pero' e' stata determinata la forma della bocca e dell'edificio derivatore, o se, in mancanza di titolo, si e' posseduta per cinque anni la derivazione in una data forma, non e' ammesso reclamo delle parti, se non nel caso indicato dall'articolo precedente.",
+    "con_marcatori": "Art. 1083. (Determinazione della quantita' d'acqua). Quando la quantita' d'acqua non e' stata determinata, ma la derivazione e' stata fatta per un dato scopo, s'intende concessa la quantita' necessaria per lo scopo medesimo, e chi vi ha interesse puo' in ogni tempo fare stabilire la forma della derivazione in modo che ne venga assicurato l'uso necessario e impedito l'eccesso. Se pero' e' stata determinata la forma della bocca e dell'edificio derivatore, o se, in mancanza di titolo, si e' posseduta per cinque anni la derivazione in una data forma, non e' ammesso reclamo delle parti, se non nel caso indicato dall'articolo precedente.",
+    "caratteri": 586
+  },
+  "note": [],
+  "impronta": "sha256:d82c39a9862bc29af8ef829f74118a192cc591333fbd5d582970cd1b22efadec"
+}

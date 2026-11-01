@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "797",
+    "rubrica": "Garanzia per evizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art797"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il donante e' tenuto a garanzia verso il donatario, per l'evizione che questi puo' soffrire delle cose donate, nei casi seguenti: 1) se ha espressamente promesso la garanzia; 2) se l'evizione dipende dal dolo o dal fatto personale di lui; 3) se si tratta di donazione che impone oneri al donatario, o di donazione rimuneratoria, nei quali casi la garanzia e' dovuta fino alla concorrenza dell'ammontare degli oneri o dell'entita' delle prestazioni ricevute dal donante.",
+    "con_marcatori": "Art. 797. (Garanzia per evizione). Il donante e' tenuto a garanzia verso il donatario, per l'evizione che questi puo' soffrire delle cose donate, nei casi seguenti: 1) se ha espressamente promesso la garanzia; 2) se l'evizione dipende dal dolo o dal fatto personale di lui; 3) se si tratta di donazione che impone oneri al donatario, o di donazione rimuneratoria, nei quali casi la garanzia e' dovuta fino alla concorrenza dell'ammontare degli oneri o dell'entita' delle prestazioni ricevute dal donante.",
+    "caratteri": 469
+  },
+  "note": [],
+  "impronta": "sha256:b86ca134c80537d25b8a13b5fb59652bf9b37098aaddaa933ccf7b5860248633"
+}

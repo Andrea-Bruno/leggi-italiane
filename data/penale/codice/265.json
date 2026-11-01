@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "265",
+    "rubrica": "Disfattismo politico",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art265"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, in tempo di guerra, diffonde o comunica voci o notizie false, esagerate o tendenziose, che possano destare pubblico allarme o deprimere lo spirito pubblico o altrimenti menomare la resistenza della nazione di fronte al nemico, o svolge comunque un'attivita' tale da recare nocumento agli interessi nazionali, e' punito con la reclusione non inferiore a cinque anni. La pena e' non inferiore a quindici anni: 1° se il fatto e' commesso con propaganda o comunicazioni dirette a militari; 2° se il colpevole ha agito in seguito a intelligenze con lo straniero. La pena e' dell'ergastolo se il colpevole ha agito in seguito a intelligenze col nemico.",
+    "con_marcatori": "Art. 265. (Disfattismo politico) Chiunque, in tempo di guerra, diffonde o comunica voci o notizie false, esagerate o tendenziose, che possano destare pubblico allarme o deprimere lo spirito pubblico o altrimenti menomare la resistenza della nazione di fronte al nemico, o svolge comunque un'attivita' tale da recare nocumento agli interessi nazionali, e' punito con la reclusione non inferiore a cinque anni. La pena e' non inferiore a quindici anni: 1° se il fatto e' commesso con propaganda o comunicazioni dirette a militari; 2° se il colpevole ha agito in seguito a intelligenze con lo straniero. La pena e' dell'ergastolo se il colpevole ha agito in seguito a intelligenze col nemico.",
+    "caratteri": 656
+  },
+  "note": [],
+  "impronta": "sha256:457a4d587d8149afa6513f33f6501e0a60ced98ecf5bc239ac1d47d0cf4bd98f"
+}

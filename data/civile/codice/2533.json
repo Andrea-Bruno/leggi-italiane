@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2533",
+    "rubrica": "Esclusione del socio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2533"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'esclusione del socio, oltre che nel caso indicato all'articolo 2531, puo' aver luogo: 1) nei casi previsti dall'atto costitutivo; 2) per gravi inadempienze delle obbligazioni che derivano dalla legge, dal contratto sociale, dal regolamento o dal rapporto mutualistico; 3) per mancanza o perdita dei requisiti previsti per la partecipazione alla societa'; 4) nei casi previsti dall'articolo 2286; 5) nei casi previsti dell'articolo 2288, primo comma. L'esclusione deve essere deliberata dagli amministratori o, se l'atto costitutivo lo prevede, dall'assemblea. Contro la deliberazione di esclusione il socio puo' proporre opposizione al tribunale, nel termine di sessanta giorni dalla comunicazione. Qualora l'atto costitutivo non preveda diversamente, lo scioglimento del rapporto sociale determina anche la risoluzione dei rapporti mutualistici pendenti.",
+    "con_marcatori": "Art. 2533. (( (Esclusione del socio).)) ((L'esclusione del socio, oltre che nel caso indicato all'articolo 2531, puo' aver luogo: 1) nei casi previsti dall'atto costitutivo; 2) per gravi inadempienze delle obbligazioni che derivano dalla legge, dal contratto sociale, dal regolamento o dal rapporto mutualistico; 3) per mancanza o perdita dei requisiti previsti per la partecipazione alla societa'; 4) nei casi previsti dall'articolo 2286; 5) nei casi previsti dell'articolo 2288, primo comma. L'esclusione deve essere deliberata dagli amministratori o, se l'atto costitutivo lo prevede, dall'assemblea. Contro la deliberazione di esclusione il socio puo' proporre opposizione al tribunale, nel termine di sessanta giorni dalla comunicazione. Qualora l'atto costitutivo non preveda diversamente, lo scioglimento del rapporto sociale determina anche la risoluzione dei rapporti mutualistici pendenti.))",
+    "caratteri": 857
+  },
+  "note": [],
+  "impronta": "sha256:810843e0037921dd4d92a05dad664ed9ba62b217d5a5cd4237d9551cb3e00fdc"
+}

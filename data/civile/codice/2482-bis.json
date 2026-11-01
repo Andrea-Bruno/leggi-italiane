@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2482-bis",
+    "rubrica": "Riduzione del capitale per perdite",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2482-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando risulta che il capitale e' diminuito di oltre un terzo in conseguenza di perdite, gli amministratori devono senza indugio convocare l'assemblea dei soci per gli opportuni provvedimenti. All'assemblea deve essere sottoposta una relazione degli amministratori sulla situazione patrimoniale della societa', con le osservazioni nei casi previsti dall'articolo 2477 del collegio sindacale o del soggetto incaricato di effettuare la revisione legale dei conti. Se l'atto costitutivo non prevede diversamente, copia della relazione e delle osservazioni deve essere depositata nella sede della societa' almeno otto giorni prima dell'assemblea, perche' i soci possano prenderne visione. Nell'assemblea gli amministratori devono dare conto dei fatti di rilievo avvenuti dopo la redazione della relazione prevista nel precedente comma. Se entro l'esercizio successivo la perdita non risulta diminuita a meno di un terzo, deve essere convocata l'assemblea per l'approvazione del bilancio e per la riduzione del capitale in proporzione delle perdite accertate. In mancanza gli amministratori e i sindaci o il soggetto incaricato di effettuare la revisione legale dei conti nominati ai sensi dell'articolo 2477 devono chiedere al tribunale che venga disposta la riduzione del capitale in ragione delle perdite risultanti dal bilancio. Il tribunale, anche su istanza di qualsiasi interessato, provvede con decreto soggetto a reclamo, che deve essere iscritto nel registro delle imprese a cura degli amministratori. Si applica, in quanto compatibile, l'ultimo comma dell'articolo 2446.",
+    "con_marcatori": "Art. 2482-bis. (Riduzione del capitale per perdite). Quando risulta che il capitale e' diminuito di oltre un terzo in conseguenza di perdite, gli amministratori devono senza indugio convocare l'assemblea dei soci per gli opportuni provvedimenti. All'assemblea deve essere sottoposta una relazione degli amministratori sulla situazione patrimoniale della societa', con le osservazioni nei casi previsti dall'articolo 2477 del collegio sindacale ((o del soggetto incaricato di effettuare la revisione legale dei conti)). Se l'atto costitutivo non prevede diversamente, copia della relazione e delle osservazioni deve essere depositata nella sede della societa' almeno otto giorni prima dell'assemblea, perche' i soci possano prenderne visione. Nell'assemblea gli amministratori devono dare conto dei fatti di rilievo avvenuti dopo la redazione della relazione prevista nel precedente comma. Se entro l'esercizio successivo la perdita non risulta diminuita a meno di un terzo, deve essere convocata l'assemblea per l'approvazione del bilancio e per la riduzione del capitale in proporzione delle perdite accertate. In mancanza gli amministratori e i sindaci ((o il soggetto incaricato di effettuare la revisione legale dei conti)) nominati ai sensi dell'articolo 2477 devono chiedere al tribunale che venga disposta la riduzione del capitale in ragione delle perdite risultanti dal bilancio. Il tribunale, anche su istanza di qualsiasi interessato, provvede con decreto soggetto a reclamo, che deve essere iscritto nel registro delle imprese a cura degli amministratori. Si applica, in quanto compatibile, l'ultimo comma dell'articolo 2446.",
+    "caratteri": 1576
+  },
+  "note": [],
+  "impronta": "sha256:5c26b873d81c71816cf976ce18a3e7b4647527b53040030878cdaf9847ecb3f2"
+}

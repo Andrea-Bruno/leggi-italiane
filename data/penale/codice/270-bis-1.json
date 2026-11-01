@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "270-bis.1",
+    "rubrica": "Circostanze aggravanti e attenuanti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per i reati commessi per finalita' di terrorismo o di eversione dell'ordine democratico, punibili con pena diversa dall'ergastolo, la pena e' aumentata della meta', salvo che la circostanza sia elemento costitutivo del reato. Quando concorrono altre circostanze aggravanti, si applica per primo l'aumento di pena previsto per la circostanza aggravante di cui al primo comma. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con l'aggravante di cui al primo comma, non possono essere ritenute equivalenti o prevalenti rispetto a questa e alle circostanze aggravanti per le quali la legge stabilisce una pena di specie diversa o ne determina la misura in modo indipendente da quella ordinaria del reato, e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti. Per i delitti commessi per finalita' di terrorismo o di eversione dell'ordine democratico, salvo quanto disposto nell'articolo 289-bis, nei confronti del concorrente che, dissociandosi dagli altri, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia e l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti, la pena dell'ergastolo e' sostituita da quella della reclusione da dodici a venti anni e le altre pene sono diminuite da un terzo alla meta'. Quando ricorre la circostanza di cui al terzo comma non si applica l'aggravante di cui al primo comma. Fuori del caso previsto dal quarto comma dell'articolo 56, non e' punibile il colpevole di un delitto commesso per finalita' di terrorismo o di eversione dell'ordine democratico che volontariamente impedisce l'evento e fornisce elementi di prova determinanti per la esatta ricostruzione del fatto e per la individuazione degli eventuali concorrenti. Per i delitti aggravati dalla circostanza di cui al primo comma si procede sempre d'ufficio.",
+    "con_marcatori": "Art. 270-bis.1 (Circostanze aggravanti e attenuanti) Per i reati commessi per finalita' di terrorismo o di eversione dell'ordine democratico, punibili con pena diversa dall'ergastolo, la pena e' aumentata della meta', salvo che la circostanza sia elemento costitutivo del reato. Quando concorrono altre circostanze aggravanti, si applica per primo l'aumento di pena previsto per la circostanza aggravante di cui al primo comma. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con l'aggravante di cui al primo comma, non possono essere ritenute equivalenti o prevalenti rispetto a questa e alle circostanze aggravanti per le quali la legge stabilisce una pena di specie diversa o ne determina la misura in modo indipendente da quella ordinaria del reato, e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti. Per i delitti commessi per finalita' di terrorismo o di eversione dell'ordine democratico, salvo quanto disposto nell'articolo 289-bis, nei confronti del concorrente che, dissociandosi dagli altri, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia e l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti, la pena dell'ergastolo e' sostituita da quella della reclusione da dodici a venti anni e le altre pene sono diminuite da un terzo alla meta'. Quando ricorre la circostanza di cui al terzo comma non si applica l'aggravante di cui al primo comma. Fuori del caso previsto dal quarto comma dell'articolo 56, non e' punibile il colpevole di un delitto commesso per finalita' di terrorismo o di eversione dell'ordine democratico che volontariamente impedisce l'evento e fornisce elementi di prova determinanti per la esatta ricostruzione del fatto e per la individuazione degli eventuali concorrenti. ((Per i delitti aggravati dalla circostanza di cui al primo comma si procede sempre d'ufficio)).",
+    "caratteri": 1998
+  },
+  "note": [],
+  "impronta": "sha256:ba69566563bdc1fc2070510730f229a0f7c284369305ab71c4c34a0eb4ee01e7"
+}

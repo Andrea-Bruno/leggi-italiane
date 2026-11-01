@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "391-ter",
+    "rubrica": "Accesso indebito a dispositivi idonei alla comunicazione da parte di soggetti detenuti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art391-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fuori dei casi previsti dall'articolo 391-bis, chiunque indebitamente procura a un detenuto un apparecchio telefonico o altro dispositivo idoneo ad effettuare comunicazioni o comunque consente a costui l'uso indebito dei predetti strumenti o introduce in un istituto penitenziario uno dei predetti strumenti al fine di renderlo disponibile a una persona detenuta e' punito con la pena della reclusione da uno a quattro anni. Si applica la pena della reclusione da due a cinque anni se il fatto e' commesso da un pubblico ufficiale, da un incaricato di pubblico servizio ovvero da un soggetto che esercita la professione forense. Salvo che il fatto costituisca piu' grave reato, la pena prevista dal primo comma si applica anche al detenuto che indebitamente riceve o utilizza un apparecchio telefonico o altro dispositivo idoneo ad effettuare comunicazioni.",
+    "con_marcatori": "Art. 391-ter. (Accesso indebito a dispositivi idonei alla comunicazione da parte di soggetti detenuti). ((Fuori dei casi)) previsti dall'articolo 391-bis, chiunque indebitamente procura a un detenuto un apparecchio telefonico o altro dispositivo idoneo ad effettuare comunicazioni o comunque consente a costui l'uso indebito dei predetti strumenti o introduce in un istituto penitenziario uno dei predetti strumenti ((al fine di renderlo)) disponibile a una persona detenuta e' punito con la pena della reclusione da uno a quattro anni. Si applica la pena della reclusione da due a cinque anni se il fatto e' commesso da un pubblico ufficiale, da un incaricato di pubblico servizio ovvero da un soggetto che esercita la professione forense. Salvo che il fatto costituisca piu' grave reato, la pena prevista dal primo comma si applica anche al detenuto che indebitamente riceve o utilizza un apparecchio telefonico o altro dispositivo idoneo ad effettuare comunicazioni.",
+    "caratteri": 857
+  },
+  "note": [],
+  "impronta": "sha256:2314b02fe04ef52968b7d44894aff8e06054a3968cacb29401842169714c04e2"
+}

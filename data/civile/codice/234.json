@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "234",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art234"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nascita del figlio dopo i trecento giorni. Ciascuno dei coniugi e i loro eredi possono provare che il figlio, nato dopo i trecento giorni dall'annullamento, dallo scioglimento o dalla cessazione degli effetti civili del matrimonio, e' stato concepito durante il matrimonio. Possono analogamente provare il concepimento durante la convivenza quando il figlio sia nato dopo i trecento giorni dalla pronuncia di separazione giudiziale, o dalla omologazione di separazione consensuale, ovvero dalla data di comparizione dei coniugi avanti al giudice quando gli stessi sono stati autorizzati a vivere separatamente nelle more del giudizio di separazione o dei giudizi previsti nel comma precedente. In ogni caso il figlio puo' provare di essere stato concepito durante il matrimonio.",
+    "con_marcatori": "Art. 234. Nascita del figlio dopo i trecento giorni. Ciascuno dei coniugi e i loro eredi possono provare che il figlio, nato dopo i trecento giorni dall'annullamento, dallo scioglimento o dalla cessazione degli effetti civili del matrimonio, e' stato concepito durante il matrimonio. Possono analogamente provare il concepimento durante la convivenza quando il figlio sia nato dopo i trecento giorni dalla pronuncia di separazione giudiziale, o dalla omologazione di separazione consensuale, ovvero dalla data di comparizione dei coniugi avanti al giudice quando gli stessi sono stati autorizzati a vivere separatamente nelle more del giudizio di separazione o dei giudizi previsti nel comma precedente. ((In ogni caso il figlio puo' provare di essere stato concepito durante il matrimonio.))",
+    "caratteri": 778
+  },
+  "note": [],
+  "impronta": "sha256:57b5f66be2d017143aecf12331be2645a0e0478f148cf0131b0ddb47bb7b5932"
+}

@@ -1,0 +1,132 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "384",
+    "rubrica": "Casi di non punibilita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art384"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 152,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 215,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nei casi previsti dagli articoli 361, 362, 363, 364, 365, 366, 369, 371-bis, 371-ter, 372, 373, 374 e 378, non e' punibile chi ha commesso il fatto per esservi stato costretto dalla necessita' di salvare se medesimo o un prossimo congiunto da un grave e inevitabile nocumento nella liberta' o nell'onore. Nei casi previsti dagli articoli 371-bis, 371-ter, 372 e 373, la punibilita' e' esclusa se il fatto e' commesso da chi per legge non avrebbe dovuto essere richiesto di fornire informazioni ai fini delle indagini o assunto come testimonio, perito, consulente tecnico o interprete ovvero non avrebbe potuto essere obbligato a deporre o comunque a rispondere o avrebbe dovuto essere avvertito della facolta' di astenersi dal rendere informazioni, testimonianza, perizia, consulenza o interpretazione.",
+    "con_marcatori": "Art. 384. (Casi di non punibilita'). Nei casi previsti dagli articoli 361, 362, 363, 364, 365, 366, 369, 371-bis, 371-ter, 372, 373, 374 e 378, non e' punibile chi ha commesso il fatto per esservi stato costretto dalla necessita' di salvare se medesimo o un prossimo congiunto da un grave e inevitabile nocumento nella liberta' o nell'onore. Nei casi previsti dagli articoli 371-bis, 371-ter, 372 e 373, la punibilita' e' esclusa se il fatto e' commesso da chi per legge non avrebbe dovuto essere richiesto di fornire informazioni ai fini delle indagini o assunto come testimonio, perito, consulente tecnico o interprete ovvero non avrebbe potuto essere obbligato a deporre o comunque a rispondere o avrebbe dovuto essere avvertito della facolta' di astenersi dal rendere informazioni, testimonianza, perizia, consulenza o interpretazione. (152) (175) ((215))",
+    "caratteri": 802
+  },
+  "note": [
+    {
+      "numero": 152,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 384, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 199 del codice di procedura penale",
+          "urn": "urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447",
+          "data": "1988-09-22",
+          "numero": "447",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1996-12-27",
+        "numero": "416"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 12 - 27 dicembre 1996, n. 416 (in G.U. 1ª s.s. 3/1/1997, n. 1), ha dichiarato \"l'illegittimita' costituzionale dell'art. 384, secondo comma, del codice penale, nella parte in cui non prevede l'esclusione della punibilita' per false o reticenti informazioni assunte dalla polizia giudiziaria, fornite da chi avrebbe dovuto essere avvertito della facolta' di astenersi dal renderle, a norma dell'art. 199 del codice di procedura penale\"."
+    },
+    {
+      "numero": 175,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 1 marzo 2001, n. 63",
+          "urn": "urn:nir:stato:legge:2001-03-01;63",
+          "data": "2001-03-01",
+          "numero": "63",
+          "data_gazzetta": "2001-03-22"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 1 marzo 2001, n. 63 ha disposto (con l'art. 26, comma 1) che \"Nei processi penali in corso alla data di entrata in vigore della presente legge si applicano le disposizioni degli articoli precedenti salvo quanto stabilito nei commi da 2 a 5\"."
+    },
+    {
+      "numero": 215,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 384, secondo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 371, comma 2, lettera b), codice di procedura penale",
+          "urn": "urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447",
+          "data": "1988-09-22",
+          "numero": "447",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2009-03-20",
+        "numero": "75"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 11 - 20 marzo 2009, n. 75 (in G.U. 1ª s.s. 25/3/2009, n. 12), ha dichiarato \"l'illegittimita' costituzionale dell'art. 384, secondo comma, del codice penale, nella parte in cui non prevede l'esclusione della punibilita' per false o reticenti informazioni assunte dalla polizia giudiziaria, fornite da chi non avrebbe potuto essere obbligato a renderle o comunque a rispondere in quanto persona indagata per reato probatoriamente collegato - a norma dell'art. 371, comma 2, lettera b), codice di procedura penale - a quello, commesso da altri, cui le dichiarazioni stesse si riferiscono\"."
+    }
+  ],
+  "impronta": "sha256:569ccc20beb66376d55a7789a14b8053eb4b75868d97da069e1c83d125c95c78"
+}

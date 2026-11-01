@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "132",
+    "rubrica": "Mancanza dell'atto di celebrazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art132"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di distruzione o di smarrimento dei registri dello stato civile l'esistenza del matrimonio puo' essere provata a norma dell'art. 452. Quando vi sono indizi che per dolo o per colpa del pubblico ufficiale o per un caso di forza maggiore l'atto di matrimonio non e' stato inserito nei registri a cio' destinati, la prova dell'esistenza del matrimonio e' ammessa, sempre che risulti in modo non dubbio un conforme possesso di stato.",
+    "con_marcatori": "Art. 132. (Mancanza dell'atto di celebrazione). Nel caso di distruzione o di smarrimento dei registri dello stato civile l'esistenza del matrimonio puo' essere provata a norma dell'art. 452. Quando vi sono indizi che per dolo o per colpa del pubblico ufficiale o per un caso di forza maggiore l'atto di matrimonio non e' stato inserito nei registri a cio' destinati, la prova dell'esistenza del matrimonio e' ammessa, sempre che risulti in modo non dubbio un conforme possesso di stato.",
+    "caratteri": 438
+  },
+  "note": [],
+  "impronta": "sha256:04d8fc651be7a33b1e439927e1dafacc34156fcd3ffed23e1aab85fb2abb209b"
+}

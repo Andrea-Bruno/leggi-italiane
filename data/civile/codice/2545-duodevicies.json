@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2545-duodevicies",
+    "rubrica": "Sostituzione dei liquidatori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2545-duodevicies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di irregolarita' o di eccessivo ritardo nello svolgimento della liquidazione ordinaria di una societa' cooperativa, l'autorita' di vigilanza puo' sostituire i liquidatori o, se questi sono stati nominati dall'autorita' giudiziaria, puo' chiederne la sostituzione al tribunale. Fatti salvi i casi di liquidazione per i quali e' intervenuta la nomina di un liquidatore da parte dell'autorita' giudiziaria, l'autorita' di vigilanza dispone la pubblicazione nella Gazzetta Ufficiale, per la conseguente cancellazione dal registro delle imprese, dell'elenco delle societa' cooperative e degli enti mutualistici in liquidazione ordinaria che non hanno depositato i bilanci di esercizio relativi agli ultimi cinque anni. Entro il termine perentorio di trenta giorni dalla pubblicazione i creditori e gli altri interessati possono presentare all'autorita' di vigilanza formale e motivata domanda intesa a consentire la prosecuzione della liquidazione. Trascorso il suddetto termine, a seguito di comunicazione da parte dell'autorita' di vigilanza, il conservatore del registro delle imprese territorialmente competente provvede alla cancellazione della societa' cooperativa o dell'ente mutualistico dal registro medesimo.",
+    "con_marcatori": "Art. 2545-octiesdecies. (Sostituzione dei liquidatori). In caso di irregolarita' o di eccessivo ritardo nello svolgimento della liquidazione ordinaria di una societa' cooperativa, l'autorita' ((di vigilanza)) puo' sostituire i liquidatori o, se questi sono stati nominati dall'autorita' giudiziaria, puo' chiederne la sostituzione al tribunale. Fatti salvi i casi di liquidazione per i quali e' intervenuta la nomina di un liquidatore da parte dell'autorita' giudiziaria, l'autorita' di vigilanza dispone la pubblicazione nella Gazzetta Ufficiale, per la conseguente cancellazione dal registro delle imprese, dell'elenco delle societa' cooperative e degli enti mutualistici in liquidazione ordinaria che non hanno depositato i bilanci di esercizio relativi agli ultimi cinque anni. Entro il termine perentorio di trenta giorni dalla pubblicazione i creditori e gli altri interessati possono presentare all'autorita' ((di vigilanza)) formale e motivata domanda intesa a consentire la prosecuzione della liquidazione. Trascorso il suddetto termine, a seguito di comunicazione da parte dell'autorita' di vigilanza, il conservatore del registro delle imprese territorialmente competente provvede alla cancellazione della societa' cooperativa o dell'ente mutualistico dal registro medesimo.",
+    "caratteri": 1221
+  },
+  "note": [],
+  "impronta": "sha256:37b9a3ffe1c0317f6e4a4ccbfd1b54b185fd870c789624760b546eb49ba46b64"
+}

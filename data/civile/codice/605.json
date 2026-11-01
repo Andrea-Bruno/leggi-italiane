@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "605",
+    "rubrica": "Formalita' del testamento segreto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art605"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La carta su cui sono stese le disposizioni o quella che serve da involto deve essere sigillata con un'impronta, in guisa che il testamento non si possa aprire ne estrarre senza rottura o alterazione. Il testatore, in presenza di due testimoni, consegna personalmente al notaio la carta cosi' sigillata, o la fa sigillare nel modo sopra indicato in presenza del notaio e dei testimoni, e dichiara che in questa carta e' contenuto il suo testamento. Il testatore, se e' muto o sordomuto, deve scrivere tale dichiarazione in presenza dei testimoni e deve pure dichiarare per iscritto di aver letto il testamento, se questo e' stato scritto da altri. Sulla carta in cui dal testatore e' scritto o involto il testamento, o su un ulteriore involto predisposto dal notaio e da lui debitamente sigillato, si scrive l'atto di ricevimento nel quale si indicano il fatto della consegna e la dichiarazione del testatore, il numero e l'impronta dei sigilli, e l'assistenza dei testimoni a tutte le formalita'. L'atto deve essere sottoscritto dal testatore, dai testimoni e dal notaio. Se il testatore non puo', per qualunque impedimento, sottoscrivere l'atto della consegna, si osserva quel che e' stabilito circa il testamento per atto pubblico. Tutto cio' deve essere fatto di seguito e senza passare ad altri atti.",
+    "con_marcatori": "Art. 605. (Formalita' del testamento segreto). La carta su cui sono stese le disposizioni o quella che serve da involto deve essere sigillata con un'impronta, in guisa che il testamento non si possa aprire ne estrarre senza rottura o alterazione. Il testatore, in presenza di due testimoni, consegna personalmente al notaio la carta cosi' sigillata, o la fa sigillare nel modo sopra indicato in presenza del notaio e dei testimoni, e dichiara che in questa carta e' contenuto il suo testamento. Il testatore, se e' muto o sordomuto, deve scrivere tale dichiarazione in presenza dei testimoni e deve pure dichiarare per iscritto di aver letto il testamento, se questo e' stato scritto da altri. Sulla carta in cui dal testatore e' scritto o involto il testamento, o su un ulteriore involto predisposto dal notaio e da lui debitamente sigillato, si scrive l'atto di ricevimento nel quale si indicano il fatto della consegna e la dichiarazione del testatore, il numero e l'impronta dei sigilli, e l'assistenza dei testimoni a tutte le formalita'. L'atto deve essere sottoscritto dal testatore, dai testimoni e dal notaio. Se il testatore non puo', per qualunque impedimento, sottoscrivere l'atto della consegna, si osserva quel che e' stabilito circa il testamento per atto pubblico. Tutto cio' deve essere fatto di seguito e senza passare ad altri atti.",
+    "caratteri": 1304
+  },
+  "note": [],
+  "impronta": "sha256:fe81982d2c869cfbfe7d2c9505dca0b6da83c15d3868fd91766662f055a1f0d5"
+}

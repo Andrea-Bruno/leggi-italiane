@@ -1,0 +1,85 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "577",
+    "rubrica": "Successione del figlio naturale all'ascendente legittimo immediato del suo genitore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art577"
+  },
+  "stato": {
+    "codice": "dichiarato_incostituzionale",
+    "inapplicabile": true,
+    "certezza": "alta",
+    "motivazione": "Una pronuncia della Corte costituzionale ha dichiarato illegittimo l'intero articolo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 15,
+        "ambito": "intero"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il figlio naturale succede all'ascendente legittimo immediato del suo genitore che non puo' o non vuole accettare l'eredita', se l'ascendente non lascia ne' coniuge, ne' discendenti o ascendenti, ne' fratelli o sorelle o loro discendenti, ne' altri parenti legittimi entro il terzo grado.",
+    "con_marcatori": "Art. 577. (Successione del figlio naturale all'ascendente legittimo immediato del suo genitore). Il figlio naturale succede all'ascendente legittimo immediato del suo genitore che non puo' o non vuole accettare l'eredita', se l'ascendente non lascia ne' coniuge, ne' discendenti o ascendenti, ne' fratelli o sorelle o loro discendenti, ne' altri parenti legittimi entro il terzo grado.(15)((40))",
+    "caratteri": 288
+  },
+  "note": [
+    {
+      "numero": 15,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "intero",
+      "parti": [],
+      "atti": [],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1969-04-14",
+        "numero": "79"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2 - 14 aprile 1969, n. 79 (in G.U. 1a s.s. 23/04/1969, n. 105), ha dichiarato l'illegittimita' costituzionale del presente articolo."
+    },
+    {
+      "numero": 40,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 19 maggio 1975, n. 151",
+          "urn": "urn:nir:stato:legge:1975-05-19;151",
+          "data": "1975-05-19",
+          "numero": "151",
+          "data_gazzetta": "1975-05-23"
+        },
+        {
+          "denominazione": "codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 19 maggio 1975, n. 151, ha disposto (con l'art. 184, comma 1) che \"I capi I e II del titolo II del libro II del codice civile sono unificati, con la seguente intitolazione: DELLA SUCCESSIONE DEI PARENTI\"."
+    }
+  ],
+  "impronta": "sha256:c16451bce147da00b349c0a88b3886830ee06347db551daaf44666ebd2efd0bf"
+}

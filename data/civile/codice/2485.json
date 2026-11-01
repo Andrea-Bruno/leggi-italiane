@@ -1,0 +1,66 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2485",
+    "rubrica": "Obblighi degli amministratori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2485"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli amministratori devono senza indugio accertare il verificarsi di una causa di scioglimento e procedere agli adempimenti previsti dal terzo comma dell'articolo 2484. Essi, in caso di ritardo od omissione, sono personalmente e solidalmente responsabili per i danni subiti dalla societa', dai soci, dai creditori sociali e dai terzi. Quando gli amministratori omettono gli adempimenti di cui al precedente comma, il tribunale, su istanza di singoli soci o amministratori ovvero dei sindaci, accerta il verificarsi della causa di scioglimento, con decreto che deve essere iscritto a norma del terzo comma dell'articolo 2484..",
+    "con_marcatori": "Art. 2485. (( (Obblighi degli amministratori).)) ((Gli amministratori devono senza indugio accertare il verificarsi di una causa di scioglimento e procedere agli adempimenti previsti dal terzo comma dell'articolo 2484. Essi, in caso di ritardo od omissione, sono personalmente e solidalmente responsabili per i danni subiti dalla societa', dai soci, dai creditori sociali e dai terzi. Quando gli amministratori omettono gli adempimenti di cui al precedente comma, il tribunale, su istanza di singoli soci o amministratori ovvero dei sindaci, accerta il verificarsi della causa di scioglimento, con decreto che deve essere iscritto a norma del terzo comma dell'articolo 2484.)).",
+    "caratteri": 624
+  },
+  "note": [
+    {
+      "numero": 119,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 24 giugno 1998, n. 213",
+          "urn": "urn:nir:stato:decretoLegislativo:1998-06-24;213",
+          "data": "1998-06-24",
+          "numero": "213",
+          "data_gazzetta": "1998-07-08"
+        },
+        {
+          "denominazione": "D.Lgs. 15 giugno 1999, n. 206",
+          "urn": "urn:nir:stato:decretoLegislativo:1999-06-15;206",
+          "data": "1999-06-15",
+          "numero": "206",
+          "data_gazzetta": "1999-06-28"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 24 giugno 1998, n. 213, come modificato dal D.Lgs. 15 giugno 1999, n. 206, ha disposto (con l'art. 4, comma 2) che la presente modifica decorre dal 1 gennaio 2002."
+    }
+  ],
+  "impronta": "sha256:a2eec2629e24faf0687cd00e55ae7316003b9c88eba454ee52e8931ba802c44f"
+}

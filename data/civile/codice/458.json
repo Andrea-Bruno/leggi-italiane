@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "458",
+    "rubrica": "Divieto di patti successori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art458"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Fatto salvo quanto disposto dagli articoli 768-bis e seguenti, e' nulla ogni convenzione con cui taluno dispone della propria successione. E' del pari nullo ogni atto col quale taluno dispone dei diritti che gli possono spettare su una successione non ancora aperta, o rinunzia ai medesimi.",
+    "con_marcatori": "Art. 458. (Divieto di patti successori). ((Fatto salvo quanto disposto dagli articoli 768-bis e seguenti,)) e' nulla ogni convenzione con cui taluno dispone della propria successione. E' del pari nullo ogni atto col quale taluno dispone dei diritti che gli possono spettare su una successione non ancora aperta, o rinunzia ai medesimi.",
+    "caratteri": 290
+  },
+  "note": [],
+  "impronta": "sha256:ba34a2645a123b494b41dd4592921762b31c9b992cc29802b29d9d1bf394dfb9"
+}

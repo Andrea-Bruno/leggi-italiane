@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "11",
+    "rubrica": "Efficacia della legge nel tempo",
+    "sezione": "Disposizioni sulla legge in generale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art11"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le legge non dispone che per l'avvenire: essa non ha effetto retroattivo. I contratti collettivi di lavoro possono stabilire per la loro efficacia una data anteriore alla pubblicazione, purche' non preceda quella della stipulazione.",
+    "con_marcatori": "Art. 11. (Efficacia della legge nel tempo). Le legge non dispone che per l'avvenire: essa non ha effetto retroattivo. I contratti collettivi di lavoro possono stabilire per la loro efficacia una data anteriore alla pubblicazione, purche' non preceda quella della stipulazione.",
+    "caratteri": 232
+  },
+  "note": [],
+  "impronta": "sha256:8067a80b099623bad0281690f9bd91e5d0f57c09d8d46c5a060cb100121f3fb2"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "201",
+    "rubrica": "Misure di sicurezza per fatti commessi all'estero",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art201"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando, per un fatto commesso all'estero, si procede o si rinnova il giudizio nello Stato, e' applicabile la legge italiana anche riguardo alle misure di sicurezza. Nel caso indicato nell'articolo 12, numero 3°, l'applicazione delle misure di sicurezza stabilite dalla legge italiana e' sempre subordinata all'accertamento che la persona sia socialmente pericolosa.",
+    "con_marcatori": "Art. 201. (Misure di sicurezza per fatti commessi all'estero) Quando, per un fatto commesso all'estero, si procede o si rinnova il giudizio nello Stato, e' applicabile la legge italiana anche riguardo alle misure di sicurezza. Nel caso indicato nell'articolo 12, numero 3°, l'applicazione delle misure di sicurezza stabilite dalla legge italiana e' sempre subordinata all'accertamento che la persona sia socialmente pericolosa.",
+    "caratteri": 365
+  },
+  "note": [],
+  "impronta": "sha256:9c4dd50a50754e2bbd7f7996b7488cdd33e7debd225926145d895420d725c36f"
+}

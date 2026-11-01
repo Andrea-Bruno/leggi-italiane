@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "734-bis",
+    "rubrica": "Divulgazione delle generalita' o dell'immagine di persona offesa da atti di violenza sessuale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art734-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, nei casi di delitti previsti dagli articoli 600-bis, 600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 609-bis, 609-ter, 609-quater, 609-quinquies e 609-octies, divulghi, anche attraverso mezzi di comunicazione di massa, le generalita' o l'immagine della persona offesa senza il suo consenso, e' punito con l'arresto da tre a sei mesi.",
+    "con_marcatori": "Art. 734-bis. (Divulgazione delle generalita' o dell'immagine di persona offesa da atti di violenza sessuale). Chiunque, nei casi di delitti previsti dagli articoli 600-bis, ((600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1,)) 600-quinquies, 609-bis, 609-ter, 609-quater, 609-quinquies e 609-octies, divulghi, anche attraverso mezzi di comunicazione di massa, le generalita' o l'immagine della persona offesa senza il suo consenso, e' punito con l'arresto da tre a sei mesi.",
+    "caratteri": 410
+  },
+  "note": [],
+  "impronta": "sha256:e2788c0a2b1c6e142b4c0d7bbde7990127a15eab22528c13e042728c0d29fa9c"
+}

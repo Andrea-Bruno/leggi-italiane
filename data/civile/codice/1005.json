@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1005",
+    "rubrica": "Riparazioni straordinarie",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1005"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le riparazioni straordinarie sono a carico del proprietario. Riparazioni straordinarie sono quelle necessarie ad assicurare la stabilita' dei muri maestri e delle volte, la sostituzione delle travi, il rinnovamento, per intero o per una parte notevole, dei tetti, solai, scale, argini, acquedotti, muri di sostegno o di cinta. L'usufruttuario deve corrispondere al proprietario, durante l'usufrutto, l'interesse delle somme spese per le riparazioni straordinarie.",
+    "con_marcatori": "Art. 1005. (Riparazioni straordinarie). Le riparazioni straordinarie sono a carico del proprietario. Riparazioni straordinarie sono quelle necessarie ad assicurare la stabilita' dei muri maestri e delle volte, la sostituzione delle travi, il rinnovamento, per intero o per una parte notevole, dei tetti, solai, scale, argini, acquedotti, muri di sostegno o di cinta. L'usufruttuario deve corrispondere al proprietario, durante l'usufrutto, l'interesse delle somme spese per le riparazioni straordinarie.",
+    "caratteri": 463
+  },
+  "note": [],
+  "impronta": "sha256:498908c55204ea833b4115f351465928dee6aa91c0529c9053bb57b9b2500199"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2088",
+    "rubrica": "Responsabilita' dell'imprenditore",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2088"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'imprenditore deve uniformarsi nell'esercizio dell'impresa ai principi dell'ordinamento corporativo e agli obblighi che ne derivano, e risponde verso lo Stato dell'indirizzo della produzione e degli scambi, in conformita' della legge e delle norme corporative.",
+    "con_marcatori": "Art. 2088. (Responsabilita' dell'imprenditore). L'imprenditore deve uniformarsi nell'esercizio dell'impresa ai principi dell'ordinamento corporativo e agli obblighi che ne derivano, e risponde verso lo Stato dell'indirizzo della produzione e degli scambi, in conformita' della legge e delle norme corporative.",
+    "caratteri": 261
+  },
+  "note": [],
+  "impronta": "sha256:15306e93167d1b1ad096111057b4544199e0a97e470e2d9973702a35eb6d7e5e"
+}

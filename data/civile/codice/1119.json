@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1119",
+    "rubrica": "Indivisibilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1119"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le parti comuni dell'edificio non sono soggette a divisione, a meno che la divisione possa farsi senza rendere piu' incomodo l'uso della cosa a ciascun condomino e con il consenso di tutti i partecipanti al condominio.",
+    "con_marcatori": "Art. 1119. (Indivisibilita'). Le parti comuni dell'edificio non sono soggette a divisione, a meno che la divisione possa farsi senza rendere piu' incomodo l'uso della cosa a ciascun condomino ((e con il consenso di tutti i partecipanti al condominio)).",
+    "caratteri": 218
+  },
+  "note": [],
+  "impronta": "sha256:dc505b529b5bcc384bf8c5c5e33ca695a662384df63c5c7007ec75d9641d70d0"
+}

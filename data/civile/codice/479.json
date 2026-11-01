@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "479",
+    "rubrica": "Trasmissione del diritto di accettazione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art479"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il chiamato all'eredita' muore senza averla accettata, il diritto di accettarla si trasmette agli eredi. Se questi non sono d'accordo per accettare o rinunziare, colui che accetta l'eredita' acquista tutti i diritti e soggiace a tutti i pesi ereditari, mentre vi rimane estraneo chi ha rinunziato. La rinunzia all'eredita' propria del trasmittente include rinunzia all'eredita' che al medesimo e' devoluta.",
+    "con_marcatori": "Art. 479. (Trasmissione del diritto di accettazione). Se il chiamato all'eredita' muore senza averla accettata, il diritto di accettarla si trasmette agli eredi. Se questi non sono d'accordo per accettare o rinunziare, colui che accetta l'eredita' acquista tutti i diritti e soggiace a tutti i pesi ereditari, mentre vi rimane estraneo chi ha rinunziato. La rinunzia all'eredita' propria del trasmittente include rinunzia all'eredita' che al medesimo e' devoluta.",
+    "caratteri": 409
+  },
+  "note": [],
+  "impronta": "sha256:50453ebf3305855d29e00dcc1b05638cef9779e6309d327e063ca77f1c1eb4fd"
+}

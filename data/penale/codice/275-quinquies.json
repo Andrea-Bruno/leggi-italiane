@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "275-quinquies",
+    "rubrica": "Violazione colposa di misure restrittive dell'Unione europea",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art275-quinquies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". Se taluno dei fatti di cui all'articolo 275-bis, primo comma, lettera d), e' commesso per colpa grave e ha ad oggetto prodotti che figurano nell'elenco comune delle attrezzature militari dell'Unione europea o prodotti a duplice uso elencati negli allegati I e IV del regolamento (UE) 2021/821 del Parlamento europeo e del Consiglio del 20 maggio 2021, si applica la pena della reclusione da sei mesi a tre anni e della multa da euro 15.000 a euro 90.000.",
+    "con_marcatori": "Art. 275-quinquies (( (Violazione colposa di misure restrittive dell'Unione europea).)). ((Se taluno dei fatti di cui all'articolo 275-bis, primo comma, lettera d), e' commesso per colpa grave e ha ad oggetto prodotti che figurano nell'elenco comune delle attrezzature militari dell'Unione europea o prodotti a duplice uso elencati negli allegati I e IV del regolamento (UE) 2021/821 del Parlamento europeo e del Consiglio del 20 maggio 2021, si applica la pena della reclusione da sei mesi a tre anni e della multa da euro 15.000 a euro 90.000.))",
+    "caratteri": 456
+  },
+  "note": [],
+  "impronta": "sha256:51ba8420750bd9556426bc5f437657ff70e0c3c60d1a4a64786c9be2eee71be6"
+}

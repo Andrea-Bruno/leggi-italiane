@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "84",
+    "rubrica": "Reato complesso",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art84"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le disposizioni degli articoli precedenti non si applicano quando la legge considera come elementi costitutivi, o come circostanze aggravanti di un solo reato, fatti che costituirebbero, per se' stessi, reato. Qualora la legge, nella determinazione della pena per il reato complesso, si riferisca alle pene stabilite per i singoli reati che lo costituiscono, non possono essere superati i limiti massimi indicati negli articoli 78 e 79.",
+    "con_marcatori": "Art. 84. (Reato complesso) Le disposizioni degli articoli precedenti non si applicano quando la legge considera come elementi costitutivi, o come circostanze aggravanti di un solo reato, fatti che costituirebbero, per se' stessi, reato. Qualora la legge, nella determinazione della pena per il reato complesso, si riferisca alle pene stabilite per i singoli reati che lo costituiscono, non possono essere superati i limiti massimi indicati negli articoli 78 e 79.",
+    "caratteri": 436
+  },
+  "note": [],
+  "impronta": "sha256:f215421b58cbc8a7b3481aa52feb8bc3950e53cbaa73af982135cba5b9490375"
+}

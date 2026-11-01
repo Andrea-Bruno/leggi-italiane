@@ -1,0 +1,14 @@
+# Art. 240-quater — Confisca dei beni nei confronti dei terzi in casi particolari
+
+**Codice penale** · [testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art240-quater)
+
+> **In vigore** — certezza alta
+> Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.
+
+## Testo vigente
+
+. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale, per taluno dei delitti previsti dagli articoli 275-bis, 275-ter, 275-quater, 275-quinquies, 280, 280-bis, 289-bis, 305, 306, 316, 316-bis, 316-ter, 322-bis, 414-bis, 416, realizzato allo scopo di commettere delitti puniti con pena detentiva non inferiore a quattro anni, 416-bis, 452-bis, 452-quater, 452-sexies, 452-quaterdecies, 453, 461, 493-ter, 493-quater, 600, 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 602, 609-undecies, 615-ter, 615-quater, 617, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 628-bis, 635-bis, 635-ter, 635-quater, 635-quater.1, 635-quinquies, 640-bis, 640-quater, 648-bis, 648-ter, 648-ter.1 del codice penale, dagli articoli 2635 e 2635-bis del codice civile o per taluno dei delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine costituzionale, quando deve essere disposta la confisca dei beni costituenti il prezzo, il prodotto o il profitto, se l'imputato non ha la disponibilita' di beni di valore equivalente, anche per interposta persona, il giudice puo' disporre la confisca altresi' dei beni che l'imputato ha trasferito ad una persona estranea al reato al fine di sottrarli agli effetti della confisca. In questo caso, la confisca puo' essere disposta solo quando e' accertato che il terzo estraneo, al momento del trasferimento, conosceva le finalita' perseguite dall'imputato. La disposizione di cui al comma che precede si applica altresi' in caso di condanna o di applicazione della pena su richiesta per i reati di cui agli articoli 12, commi 1, 3 e 3-ter, 12-bis del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, per i delitti in materia di abuso di mercato previsti dal decreto legislativo 24 febbraio 1998, n. 58, per i delitti di cui agli articoli 84 e 86 del decreto legislativo 26 settembre 2024, n. 141 o per taluno dei reati concernenti le armi, le munizioni e gli esplosivi, nonche' per i reati di cui agli articoli 255-bis, 255-ter, 259-bis, del decreto legislativo 3 aprile 2006, n. 152 relativo alle norme in materia ambientale.
+
+---
+
+Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale.

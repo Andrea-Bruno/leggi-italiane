@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1411",
+    "rubrica": "Contratto a favore di terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1411"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "E' valida la stipulazione a favore di un terzo, qualora lo stipulante vi abbia interesse. Salvo patto contrario, il terzo acquista il diritto contro il promittente per effetto della stipulazione. Questa pero' puo' essere revocata o modificata dallo stipulante, finche' il terzo non abbia dichiarato, anche in confronto del promittente, di volerne profittare. In caso di revoca della stipulazione o di rifiuto del terzo di profittarne, la prestazione rimane a beneficio dello stipulante, salvo che diversamente risulti dalla volonta' delle parti o dalla natura del contratto.",
+    "con_marcatori": "Art. 1411. (Contratto a favore di terzi). E' valida la stipulazione a favore di un terzo, qualora lo stipulante vi abbia interesse. Salvo patto contrario, il terzo acquista il diritto contro il promittente per effetto della stipulazione. Questa pero' puo' essere revocata o modificata dallo stipulante, finche' il terzo non abbia dichiarato, anche in confronto del promittente, di volerne profittare. In caso di revoca della stipulazione o di rifiuto del terzo di profittarne, la prestazione rimane a beneficio dello stipulante, salvo che diversamente risulti dalla volonta' delle parti o dalla natura del contratto.",
+    "caratteri": 574
+  },
+  "note": [],
+  "impronta": "sha256:fd5f3b41a9350b1166c7946068c22270c84be4f82992f3186436ed7068019b9e"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "490",
+    "rubrica": "Effetti del beneficio d'inventario",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art490"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'effetto del beneficio d'inventario consiste nel tener distinto il patrimonio del defunto da quello dell'erede. Conseguentemente: 1) l'erede conserva verso l'eredita' tutti i diritti e tutti gli obblighi che aveva verso il defunto, tranne quelli che si sono estinti per effetto della morte; 2) l'erede non e' tenuto al pagamento dei debiti ereditari e dei legati oltre il valore dei beni a lui pervenuti; 3) i creditori dell'eredita' e i legatari hanno preferenza sul patrimonio ereditario di fronte ai creditori dell'erede. Essi pero' non sono dispensati dal domandare la separazione dei beni, secondo le disposizioni del capo seguente, se vogliono conservare questa preferenza anche nel caso che l'erede decada dal beneficio d'inventario o vi rinunzi.",
+    "con_marcatori": "Art. 490. (Effetti del beneficio d'inventario). L'effetto del beneficio d'inventario consiste nel tener distinto il patrimonio del defunto da quello dell'erede. Conseguentemente: 1) l'erede conserva verso l'eredita' tutti i diritti e tutti gli obblighi che aveva verso il defunto, tranne quelli che si sono estinti per effetto della morte; 2) l'erede non e' tenuto al pagamento dei debiti ereditari e dei legati oltre il valore dei beni a lui pervenuti; 3) i creditori dell'eredita' e i legatari hanno preferenza sul patrimonio ereditario di fronte ai creditori dell'erede. Essi pero' non sono dispensati dal domandare la separazione dei beni, secondo le disposizioni del capo seguente, se vogliono conservare questa preferenza anche nel caso che l'erede decada dal beneficio d'inventario o vi rinunzi.",
+    "caratteri": 754
+  },
+  "note": [],
+  "impronta": "sha256:ea896e928fe20fa4dc60964a83b9cf42c3abed132ee7daee9fb703dfa9d1ef20"
+}

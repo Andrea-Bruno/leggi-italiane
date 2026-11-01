@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1586",
+    "rubrica": "Pretese da parte di terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1586"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se i terzi che arrecano le molestie pretendono di avere diritti sulla cosa locata, il conduttore e' tenuto a darne pronto avviso al locatore, sotto pena del risarcimento dei danni. Se i terzi agiscono in via giudiziale, il locatore e' tenuto ad assumere la lite, qualora sia chiamato nel processo. Il conduttore deve esserne estromesso con la semplice indicazione del locatore, se non ha interesse a rimanervi.",
+    "con_marcatori": "Art. 1586. (Pretese da parte di terzi). Se i terzi che arrecano le molestie pretendono di avere diritti sulla cosa locata, il conduttore e' tenuto a darne pronto avviso al locatore, sotto pena del risarcimento dei danni. Se i terzi agiscono in via giudiziale, il locatore e' tenuto ad assumere la lite, qualora sia chiamato nel processo. Il conduttore deve esserne estromesso con la semplice indicazione del locatore, se non ha interesse a rimanervi.",
+    "caratteri": 410
+  },
+  "note": [],
+  "impronta": "sha256:b66b452a2c396150213e89eb03cdb68675984e064e0a20cdd710a434bb87e108"
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "164",
+    "rubrica": "Simulazione delle convenzioni matrimoniali",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art164"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 21,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "E' consentita ai terzi la prova della simulazione delle convenzioni matrimoniali. Le controdichiarazioni scritte possono aver effetto nei confronti di coloro tra i quali sono intervenute, solo se fatte con la presenza ed il simultaneo consenso di tutte le persone che sono state parti nelle convenzioni matrimoniali.",
+    "con_marcatori": "Art. 164. ((Simulazione delle convenzioni matrimoniali.)) ((E' consentita ai terzi la prova della simulazione delle convenzioni matrimoniali. Le controdichiarazioni scritte possono aver effetto nei confronti di coloro tra i quali sono intervenute, solo se fatte con la presenza ed il simultaneo consenso di tutte le persone che sono state parti nelle convenzioni matrimoniali)).",
+    "caratteri": 316
+  },
+  "note": [
+    {
+      "numero": 21,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 164, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1970-12-16",
+        "numero": "188"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 10 - 16 dicembre 1970, n. 188 (in G.U. 1a s.s. 23/12/1970, n. 324), ha dichiarato \"l'illegittimita' costituzionale dell'art. 164, primo comma, del codice civile nella parte in cui non ammette i terzi a provare la simulazione delle convenzioni matrimoniali\"."
+    }
+  ],
+  "impronta": "sha256:27177c178b757bc178d2ce78360e1c50b549707760f1b53971e2022f7194de04"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2930",
+    "rubrica": "Esecuzione forzata per consegna o rilascio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2930"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se non e' adempiuto l'obbligo di consegnare una cosa determinata, mobile o immobile, l'avente diritto puo' ottenere la consegna o il rilascio forzati a norma delle disposizioni del codice di procedura civile.",
+    "con_marcatori": "Art. 2930. (Esecuzione forzata per consegna o rilascio). Se non e' adempiuto l'obbligo di consegnare una cosa determinata, mobile o immobile, l'avente diritto puo' ottenere la consegna o il rilascio forzati a norma delle disposizioni del codice di procedura civile.",
+    "caratteri": 208
+  },
+  "note": [],
+  "impronta": "sha256:a8fa6963a11b6ca2a765fadb043a00c215bb2ddc9aea7292991b7918380c5c5c"
+}

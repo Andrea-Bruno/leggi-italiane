@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "612-ter",
+    "rubrica": "Diffusione illecita di immagini o video sessualmente espliciti",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art612-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque, dopo averli realizzati o sottratti, invia, consegna, cede, pubblica o diffonde immagini o video a contenuto sessualmente esplicito, destinati a rimanere privati, senza il consenso delle persone rappresentate, e' punito con la reclusione da uno a sei anni e con la multa da euro 5.000 a euro 15.000. La stessa pena si applica a chi, avendo ricevuto o comunque acquisito le immagini o i video di cui al primo comma, li invia, consegna, cede, pubblica o diffonde senza il consenso delle persone rappresentate al fine di recare loro nocumento. La pena e' aumentata se i fatti sono commessi dal coniuge, anche separato o divorziato, o da persona che e' o e' stata legata da relazione affettiva alla persona offesa ovvero se i fatti sono commessi attraverso strumenti informatici o telematici. La pena e' aumentata da un terzo alla meta' se i fatti sono commessi in danno di persona in condizione di inferiorita' fisica o psichica o in danno di una donna in stato di gravidanza. La pena e' aumentata da un terzo a due terzi quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali. Il delitto e' punito a querela della persona offesa. Il termine per la proposizione della querela e' di sei mesi. La remissione della querela puo' essere soltanto processuale. Si procede tuttavia d'ufficio nei casi di cui al quarto comma, nonche' quando il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio.",
+    "con_marcatori": "Art. 612-ter. (Diffusione illecita di immagini o video sessualmente espliciti). Salvo che il fatto costituisca piu' grave reato, chiunque, dopo averli realizzati o sottratti, invia, consegna, cede, pubblica o diffonde immagini o video a contenuto sessualmente esplicito, destinati a rimanere privati, senza il consenso delle persone rappresentate, e' punito con la reclusione da uno a sei anni e con la multa da euro 5.000 a euro 15.000. La stessa pena si applica a chi, avendo ricevuto o comunque acquisito le immagini o i video di cui al primo comma, li invia, consegna, cede, pubblica o diffonde senza il consenso delle persone rappresentate al fine di recare loro nocumento. La pena e' aumentata se i fatti sono commessi dal coniuge, anche separato o divorziato, o da persona che e' o e' stata legata da relazione affettiva alla persona offesa ovvero se i fatti sono commessi attraverso strumenti informatici o telematici. La pena e' aumentata da un terzo alla meta' se i fatti sono commessi in danno di persona in condizione di inferiorita' fisica o psichica o in danno di una donna in stato di gravidanza. ((La pena e' aumentata da un terzo a due terzi quando il fatto e' commesso come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali)). Il delitto e' punito a querela della persona offesa. Il termine per la proposizione della querela e' di sei mesi. La remissione della querela puo' essere soltanto processuale. Si procede tuttavia d'ufficio nei casi di cui al quarto comma, nonche' quando il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio.",
+    "caratteri": 1706
+  },
+  "note": [],
+  "impronta": "sha256:b6e05b110b9a5d8ed61e7c479b1130f5908c095356c3f949998336696ecd84d8"
+}

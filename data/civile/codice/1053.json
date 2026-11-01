@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1053",
+    "rubrica": "Indennita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1053"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi previsti dai due articoli precedenti e' dovuta un'indennita' proporzionata al danno cagionato dal passaggio. Qualora, per attuare il passaggio, sia necessario occupare con opere stabili o lasciare incolta una zona del fondo servente, il proprietario che lo domanda deve, prima d'imprendere le opere o d'iniziare il passaggio, pagare il valore della zona predetta nella misura stabilita dal primo comma dell'art. 1038.",
+    "con_marcatori": "Art. 1053. (Indennita'). Nei casi previsti dai due articoli precedenti e' dovuta un'indennita' proporzionata al danno cagionato dal passaggio. Qualora, per attuare il passaggio, sia necessario occupare con opere stabili o lasciare incolta una zona del fondo servente, il proprietario che lo domanda deve, prima d'imprendere le opere o d'iniziare il passaggio, pagare il valore della zona predetta nella misura stabilita dal primo comma dell'art. 1038.",
+    "caratteri": 426
+  },
+  "note": [],
+  "impronta": "sha256:fe31a9ac1d7faa2630af10718d0666656c498e857dec620ce1cb772659c4978e"
+}

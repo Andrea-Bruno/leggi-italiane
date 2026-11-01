@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2180",
+    "rubrica": "Scioglimento del contratto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2180"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salve le norme generali sulla risoluzione dei contratti per inadempimento, ciascuna delle parti puo' chiedere lo scioglimento del contratto, quando si verificano fatti tali da non consentire la prosecuzione del rapporto.",
+    "con_marcatori": "Art. 2180. (Scioglimento del contratto). Salve le norme generali sulla risoluzione dei contratti per inadempimento, ciascuna delle parti puo' chiedere lo scioglimento del contratto, quando si verificano fatti tali da non consentire la prosecuzione del rapporto.",
+    "caratteri": 220
+  },
+  "note": [],
+  "impronta": "sha256:9540f74519d94735645e25775fdd41412f0797ecc2172147ccf488d6c03dbbf9"
+}

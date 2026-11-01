@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1399",
+    "rubrica": "Ratifica",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1399"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nell'ipotesi prevista dall'articolo precedente, il contratto puo' essere ratificato dall'interessato, con l'osservanza delle forme prescritte per la conclusione di esso. La ratifica ha effetto retroattivo, ma sono salvi i diritti dei terzi. Il terzo e colui che ha contrattato come rappresentante possono d'accordo sciogliere il contratto prima della ratifica. Il terzo contraente puo' invitare l'interessato a pronunziarsi sulla ratifica assegnandogli un termine, scaduto il quale, nel silenzio, la ratifica s'intende negata. La facolta' di ratifica si trasmette agli eredi.",
+    "con_marcatori": "Art. 1399. (Ratifica). Nell'ipotesi prevista dall'articolo precedente, il contratto puo' essere ratificato dall'interessato, con l'osservanza delle forme prescritte per la conclusione di esso. La ratifica ha effetto retroattivo, ma sono salvi i diritti dei terzi. Il terzo e colui che ha contrattato come rappresentante possono d'accordo sciogliere il contratto prima della ratifica. Il terzo contraente puo' invitare l'interessato a pronunziarsi sulla ratifica assegnandogli un termine, scaduto il quale, nel silenzio, la ratifica s'intende negata. La facolta' di ratifica si trasmette agli eredi.",
+    "caratteri": 575
+  },
+  "note": [],
+  "impronta": "sha256:6b59e0c132e42a4cf9f93de8169208efb2ebd702bf144c2afb12b892944d81f7"
+}

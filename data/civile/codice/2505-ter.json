@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2505-ter",
+    "rubrica": "Effetti della pubblicazione degli atti del procedimento di fusione nel registro delle imprese",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2505-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Alle iscrizioni nel registro delle imprese ai sensi degli articoli 2501-ter, 2502-bis e 2504 conseguono gli effetti previsti dall'articolo 2448.",
+    "con_marcatori": "Art. 2505-ter. (( (Effetti della pubblicazione degli atti del procedimento di fusione nel registro delle imprese). )) ((Alle iscrizioni nel registro delle imprese ai sensi degli articoli 2501-ter, 2502-bis e 2504 conseguono gli effetti previsti dall'articolo 2448.))",
+    "caratteri": 144
+  },
+  "note": [],
+  "impronta": "sha256:05e3f16d2ba5daae5142e541a6ea6af47079ca0c0fe441abf89c3fe39c0fa150"
+}

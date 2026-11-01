@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2795",
+    "rubrica": "Vendita anticipata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2795"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se la cosa data in pegno si deteriora in modo da far temere che essa divenga insufficiente alla sicurezza del creditore, questi, previo avviso a colui che ha costituito il pegno, puo' chiedere al giudice l'autorizzazione a vendere la cosa. Con il provvedimento che autorizza la vendita il giudice dispone anche circa il deposito del prezzo a garanzia del credito. Il costituente puo' evitare la vendita e farsi restituire il pegno, offrendo altra garanzia reale che il giudice riconosca idonea. Il costituente puo' del pari, in caso di deterioramento o di diminuzione di valore della cosa data in pegno, domandare al giudice l'autorizzazione a venderla oppure chiedere la restituzione del pegno, offrendo altra garanzia reale che il giudice riconosca idonea. Il costituente puo' chiedere al giudice l'autorizzazione a vendere la cosa, qualora si presenti un'occasione favorevole. Con il provvedimento di autorizzazione il giudice dispone le condizioni della vendita e il deposito del prezzo.",
+    "con_marcatori": "Art. 2795. (Vendita anticipata). Se la cosa data in pegno si deteriora in modo da far temere che essa divenga insufficiente alla sicurezza del creditore, questi, previo avviso a colui che ha costituito il pegno, puo' chiedere al giudice l'autorizzazione a vendere la cosa. Con il provvedimento che autorizza la vendita il giudice dispone anche circa il deposito del prezzo a garanzia del credito. Il costituente puo' evitare la vendita e farsi restituire il pegno, offrendo altra garanzia reale che il giudice riconosca idonea. Il costituente puo' del pari, in caso di deterioramento o di diminuzione di valore della cosa data in pegno, domandare al giudice l'autorizzazione a venderla oppure chiedere la restituzione del pegno, offrendo altra garanzia reale che il giudice riconosca idonea. Il costituente puo' chiedere al giudice l'autorizzazione a vendere la cosa, qualora si presenti un'occasione favorevole. Con il provvedimento di autorizzazione il giudice dispone le condizioni della vendita e il deposito del prezzo.",
+    "caratteri": 991
+  },
+  "note": [],
+  "impronta": "sha256:b866b07e5dc87f749057bf30cc546ccfadffccac00deb96cdbbf17c0c91f83cf"
+}

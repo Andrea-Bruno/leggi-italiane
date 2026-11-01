@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2919",
+    "rubrica": "Effetto traslativo della vendita forzata",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2919"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La vendita forzata trasferisce all'acquirente i diritti che sulla cosa spettavano a colui che ha subito l'espropriazione, salvi gli effetti del possesso di buona fede. Non sono pero' opponibili all'acquirente diritti acquistati da terzi sulla cosa, se i diritti stessi non hanno effetto in pregiudizio del creditore pignorante e dei creditori intervenuti nell'esecuzione.",
+    "con_marcatori": "Art. 2919. (Effetto traslativo della vendita forzata). La vendita forzata trasferisce all'acquirente i diritti che sulla cosa spettavano a colui che ha subito l'espropriazione, salvi gli effetti del possesso di buona fede. Non sono pero' opponibili all'acquirente diritti acquistati da terzi sulla cosa, se i diritti stessi non hanno effetto in pregiudizio del creditore pignorante e dei creditori intervenuti nell'esecuzione.",
+    "caratteri": 371
+  },
+  "note": [],
+  "impronta": "sha256:b4ddb4fd9f673adab5065337e2264f6512829981cd09433a7f6ef074bacef0b1"
+}

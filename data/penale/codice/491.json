@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "491",
+    "rubrica": "Falsita' in testamento olografo, cambiale o titoli di credito",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art491"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se alcuna delle falsita' prevedute dagli articoli precedenti riguarda un testamento olografo, ovvero una cambiale o un altro titolo di credito trasmissibile per girata o al portatore e il fatto e' commesso al fine di recare a se' o ad altri un vantaggio o di recare ad altri un danno, si applicano le pene rispettivamente stabilite nella prima parte dell'articolo 476 e nell'articolo 482. Nel caso di contraffazione o alterazione degli atti di cui al primo comma, chi ne fa uso, senza essere concorso nella falsita', soggiace alla pena stabilita nell'articolo 489 per l'uso di atto pubblico falso.",
+    "con_marcatori": "Art. 491. (( Falsita' in testamento olografo, cambiale o titoli di credito. )) ((Se alcuna delle falsita' prevedute dagli articoli precedenti riguarda un testamento olografo, ovvero una cambiale o un altro titolo di credito trasmissibile per girata o al portatore e il fatto e' commesso al fine di recare a se' o ad altri un vantaggio o di recare ad altri un danno, si applicano le pene rispettivamente stabilite nella prima parte dell'articolo 476 e nell'articolo 482. Nel caso di contraffazione o alterazione degli atti di cui al primo comma, chi ne fa uso, senza essere concorso nella falsita', soggiace alla pena stabilita nell'articolo 489 per l'uso di atto pubblico falso.))",
+    "caratteri": 597
+  },
+  "note": [
+    {
+      "numero": 107,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.P.R. 16 dicembre 1986, n. 865",
+          "urn": "urn:nir:stato:decretoDelPresidenteDellaRepubblica:1986-12-16;865",
+          "data": "1986-12-16",
+          "numero": "865",
+          "data_gazzetta": "1986-12-16"
+        },
+        {
+          "denominazione": "articoli 476",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "482 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.P.R. 16 dicembre 1986, n. 865 ha disposto (con l'art. 1, comma 1, lettera d)) che e' concessa amnistia per il reato previsto dal presente articolo in relazione agli articoli 476 e 482 del codice penale, salvo che il fatto riguardi un testamento olografo. Ha inoltre disposto (con l'art. 12, comma 1) che l'amnistia ha efficacia per i reati commessi fino a tutto il giorno 8 giugno 1986."
+    }
+  ],
+  "impronta": "sha256:fe4429f13a4692f7c91a3d5e04b721ce058d40f12700eb9e92e721cc9b57f56c"
+}

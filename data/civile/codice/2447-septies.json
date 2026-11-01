@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2447-septies",
+    "rubrica": "Bilancio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2447-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I beni e i rapporti compresi nei patrimoni destinati ai sensi della lettera a) del primo comma dell'articolo 2447-bis sono distintamente indicati nello stato patrimoniale della societa'. Per ciascun patrimonio destinato gli amministratori redigono un separato rendiconto, allegato al bilancio, secondo quanto previsto dagli articoli 2423 e seguenti. Nella nota integrativa del bilancio della societa' gli amministratori devono illustrare il valore e la tipologia dei beni e dei rapporti giuridici compresi in ciascun patrimonio destinato, ivi inclusi quelli apportati da terzi, i criteri adottati per la imputazione degli elementi comuni di costo e di ricavo, nonche' il corrispondente regime della responsabilita'. Qualora la deliberazione costitutiva del patrimonio destinato preveda una responsabilita' illimitata della societa' per le obbligazioni contratte in relazione allo specifico affare, l'impegno da cio' derivante deve risultare in calce allo stato patrimoniale e formare oggetto di valutazione secondo criteri da illustrare nella nota integrativa.",
+    "con_marcatori": "Art. 2447-septies. (( (Bilancio).)) ((I beni e i rapporti compresi nei patrimoni destinati ai sensi della lettera a) del primo comma dell'articolo 2447-bis sono distintamente indicati nello stato patrimoniale della societa'. Per ciascun patrimonio destinato gli amministratori redigono un separato rendiconto, allegato al bilancio, secondo quanto previsto dagli articoli 2423 e seguenti. Nella nota integrativa del bilancio della societa' gli amministratori devono illustrare il valore e la tipologia dei beni e dei rapporti giuridici compresi in ciascun patrimonio destinato, ivi inclusi quelli apportati da terzi, i criteri adottati per la imputazione degli elementi comuni di costo e di ricavo, nonche' il corrispondente regime della responsabilita'. Qualora la deliberazione costitutiva del patrimonio destinato preveda una responsabilita' illimitata della societa' per le obbligazioni contratte in relazione allo specifico affare, l'impegno da cio' derivante deve risultare in calce allo stato patrimoniale e formare oggetto di valutazione secondo criteri da illustrare nella nota integrativa. ))",
+    "caratteri": 1060
+  },
+  "note": [],
+  "impronta": "sha256:ca89fbbc98283c272645585fd1b7450c602a6b2c97cd6fb44351b9ecd8521548"
+}

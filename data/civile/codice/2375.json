@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2375",
+    "rubrica": "Verbale delle deliberazioni dell'assemblea",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2375"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le deliberazioni dell'assemblea devono constare da verbale sottoscritto dal presidente e dal segretario o dal notaio. Il verbale deve indicare la data dell'assemblea e, anche in allegato, l'identita' dei partecipanti e il capitale rappresentato da ciascuno; deve altresi' indicare le modalita' e il risultato delle votazioni e deve consentire, anche per allegato, l'identificazione dei soci favorevoli, astenuti o dissenzienti. Nel verbale devono essere riassunte, su richiesta dei soci, le loro dichiarazioni pertinenti all'ordine del giorno. Il verbale dell'assemblea straordinaria deve essere redatto da un notaio. Il verbale deve essere redatto senza ritardo, nei tempi necessari per la tempestiva esecuzione degli obblighi di deposito o di pubblicazione.",
+    "con_marcatori": "Art. 2375. (( (Verbale delle deliberazioni dell'assemblea). )) ((Le deliberazioni dell'assemblea devono constare da verbale sottoscritto dal presidente e dal segretario o dal notaio. Il verbale deve indicare la data dell'assemblea e, anche in allegato, l'identita' dei partecipanti e il capitale rappresentato da ciascuno; deve altresi' indicare le modalita' e il risultato delle votazioni e deve consentire, anche per allegato, l'identificazione dei soci favorevoli, astenuti o dissenzienti. Nel verbale devono essere riassunte, su richiesta dei soci, le loro dichiarazioni pertinenti all'ordine del giorno. Il verbale dell'assemblea straordinaria deve essere redatto da un notaio. Il verbale deve essere redatto senza ritardo, nei tempi necessari per la tempestiva esecuzione degli obblighi di deposito o di pubblicazione.))",
+    "caratteri": 759
+  },
+  "note": [],
+  "impronta": "sha256:08ba3964107f858f6e19b0281bfa925508684fa181f37a28f9c10900d6e607cb"
+}

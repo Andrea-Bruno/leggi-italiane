@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2417",
+    "rubrica": "Rappresentante comune",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2417"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il rappresentante comune puo' essere scelto al di fuori degli obbligazionisti e possono essere nominate anche le persone giuridiche autorizzate all'esercizio dei servizi di investimento nonche' le societa' fiduciarie. Non possono essere nominati rappresentanti comuni degli obbligazionisti e, se nominati, decadono dall'ufficio, gli amministratori, i sindaci, i dipendenti della societa' debitrice e coloro che si trovano nelle condizioni indicate nell'articolo 2399. Se non e' nominato dall'assemblea a norma dell'articolo 2415, il rappresentante comune e' nominato con decreto dal tribunale su domanda di uno o piu' obbligazionisti o degli amministratori della societa'. Il rappresentante comune dura in carica per un periodo non superiore a tre esercizi sociali e puo' essere rieletto. L'assemblea degli obbligazionisti ne fissa il compenso. Entro trenta giorni dalla notizia della sua nomina il rappresentante comune deve richiederne l'iscrizione nel registro delle imprese.",
+    "con_marcatori": "Art. 2417. (Rappresentante comune). Il rappresentante comune puo' essere scelto al di fuori degli obbligazionisti e possono essere nominate anche le persone giuridiche autorizzate all'esercizio dei servizi di investimento nonche' le societa' fiduciarie. Non possono essere nominati rappresentanti comuni degli obbligazionisti e, se nominati, decadono dall'ufficio, gli amministratori, i sindaci, i dipendenti della societa' debitrice e coloro che si trovano nelle condizioni indicate nell'articolo 2399. Se non e' nominato dall'assemblea a norma dell'articolo 2415, il rappresentante comune e' nominato con decreto dal tribunale su domanda di uno o piu' obbligazionisti o degli amministratori della societa'. Il rappresentante comune dura in carica per un periodo non superiore ((a tre esercizi sociali)) e puo' essere rieletto. L'assemblea degli obbligazionisti ne fissa il compenso. Entro trenta giorni dalla notizia della sua nomina il rappresentante comune deve richiederne l'iscrizione nel registro delle imprese.",
+    "caratteri": 978
+  },
+  "note": [],
+  "impronta": "sha256:04cc291943d90a20f6c44845b72683de78443d3dff3b365c7d3fc69908ef3987"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2651",
+    "rubrica": "Trascrizione di sentenze",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2651"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Si devono trascrivere le sentenze da cui risulta estinto per prescrizione o acquistato per usucapione ovvero in altro modo non soggetto a trascrizione uno dei diritti indicati dai numeri 1, 2 e 4 dell'art. 2643.",
+    "con_marcatori": "Art. 2651. (Trascrizione di sentenze). Si devono trascrivere le sentenze da cui risulta estinto per prescrizione o acquistato per usucapione ovvero in altro modo non soggetto a trascrizione uno dei diritti indicati dai numeri 1, 2 e 4 dell'art. 2643.",
+    "caratteri": 211
+  },
+  "note": [],
+  "impronta": "sha256:def1dcd3b85f671eb8a154eb9b6e93fa50501a328dcf022141c8df529204b4c8"
+}

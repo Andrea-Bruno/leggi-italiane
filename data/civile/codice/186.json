@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "186",
+    "rubrica": "Obblighi gravanti sui beni della comunione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art186"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I beni della comunione rispondono: a) di tutti i pesi ed oneri gravanti su di essi al momento dell'acquisto; b) di tutti i carichi dell'amministrazione; c) delle spese per il mantenimento della famiglia e per l'istruzione e l'educazione dei figli e di ogni obbligazione contratta dai coniugi, anche separatamente, nell'interesse della famiglia; d) di ogni obbligazione contratta congiuntamente dai coniugi.",
+    "con_marcatori": "Art. 186. ((Obblighi gravanti sui beni della comunione.)) ((I beni della comunione rispondono: a) di tutti i pesi ed oneri gravanti su di essi al momento dell'acquisto; b) di tutti i carichi dell'amministrazione; c) delle spese per il mantenimento della famiglia e per l'istruzione e l'educazione dei figli e di ogni obbligazione contratta dai coniugi, anche separatamente, nell'interesse della famiglia; d) di ogni obbligazione contratta congiuntamente dai coniugi)).",
+    "caratteri": 406
+  },
+  "note": [],
+  "impronta": "sha256:d96c7be003d6b1777ade0e847bcffb870d9150fc9a6f6da1de3d8a0baf2b730b"
+}

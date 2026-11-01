@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2085",
+    "rubrica": "Indirizzo della produzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2085"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il controllo sull'indirizzo della produzione e degli scambi in relazione all'interesse unitario dell'economia nazionale e' esercitato dallo Stato, nei modi previsti dalla legge e dalle norme corporative. La legge stabilisce altresi' i casi e i modi nei quali si esercita la vigilanza dello Stato sulla gestione delle imprese.",
+    "con_marcatori": "Art. 2085. (Indirizzo della produzione). Il controllo sull'indirizzo della produzione e degli scambi in relazione all'interesse unitario dell'economia nazionale e' esercitato dallo Stato, nei modi previsti dalla legge e dalle norme corporative. La legge stabilisce altresi' i casi e i modi nei quali si esercita la vigilanza dello Stato sulla gestione delle imprese.",
+    "caratteri": 325
+  },
+  "note": [],
+  "impronta": "sha256:aa8c9412f1205b0245134f11a132fefedadf52378193be4ec222d4e075be2c7e"
+}

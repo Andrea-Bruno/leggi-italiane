@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "600-septies",
+    "rubrica": "Confisca",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art600-septies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nel caso di condanna, o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per i delitti previsti dalla presente sezione, nonche' dagli articoli 609-bis, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), 609-quater, 609-quinquies, 609-octies, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), e 609-undecies, e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento dei danni, la confisca dei beni che costituiscono il prodotto, il profitto o il prezzo del reato. Ove essa non sia possibile, il giudice dispone la confisca di beni di valore equivalente a quelli che costituiscono il prodotto, il profitto o il prezzo del reato e di cui il condannato abbia, anche indirettamente o per interposta persona, la disponibilita'. Si applica il terzo comma dell'articolo 322-ter. Nel caso di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per uno dei delitti di cui agli articoli 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 601-bis e 602, e' disposta la confisca delle cose che servirono o furono destinate a commettere il reato.",
+    "con_marcatori": "Art. 600-septies. (Confisca). Nel caso di condanna, o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per i delitti previsti dalla presente sezione, nonche' dagli articoli 609-bis, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), 609-quater, 609-quinquies, 609-octies, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), e 609-undecies, e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento dei danni, la confisca dei beni che costituiscono il prodotto, il profitto o il prezzo del reato. Ove essa non sia possibile, il giudice dispone la confisca di beni di valore equivalente a quelli che costituiscono il prodotto, il profitto o il prezzo del reato e di cui il condannato abbia, anche indirettamente o per interposta persona, la disponibilita'. Si applica il terzo comma dell'articolo 322-ter. ((Nel caso di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per uno dei delitti di cui agli articoli 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 601-bis e 602, e' disposta la confisca delle cose che servirono o furono destinate a commettere il reato.))",
+    "caratteri": 1459
+  },
+  "note": [],
+  "impronta": "sha256:7a1aec97a42a40ae808f303c3a3f1de14d501712dac42c7aaccd20df000c0486"
+}

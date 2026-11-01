@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "518-decies",
+    "rubrica": "Importazione illecita di beni culturali",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art518-decies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, fuori dei casi di concorso nei reati previsti dagli articoli 518-quater, 518-quinquies, 518-sexies e 518-septies, importa beni culturali provenienti da delitto ovvero rinvenuti a seguito di ricerche svolte senza autorizzazione, ove prevista dall'ordinamento dello Stato in cui il rinvenimento ha avuto luogo, ovvero esportati da un altro Stato in violazione della legge in materia di protezione del patrimonio culturale di quello Stato, e' punito con la reclusione da due a sei anni e con la multa da euro 258 a euro 5.165.",
+    "con_marcatori": "Art. 518-decies (( (Importazione illecita di beni culturali). )) ((Chiunque, fuori dei casi di concorso nei reati previsti dagli articoli 518-quater, 518-quinquies, 518-sexies e 518-septies, importa beni culturali provenienti da delitto ovvero rinvenuti a seguito di ricerche svolte senza autorizzazione, ove prevista dall'ordinamento dello Stato in cui il rinvenimento ha avuto luogo, ovvero esportati da un altro Stato in violazione della legge in materia di protezione del patrimonio culturale di quello Stato, e' punito con la reclusione da due a sei anni e con la multa da euro 258 a euro 5.165.))",
+    "caratteri": 533
+  },
+  "note": [],
+  "impronta": "sha256:e2b6e090952774c0dc14bb7afb9bda920d5254a90b88b299b562bbce4227cc7a"
+}

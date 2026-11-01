@@ -1,0 +1,80 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "376",
+    "rubrica": "Ritrattazione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art376"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 163,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Nei casi previsti dagli articoli 371-bis, 371-ter, 372 e 373, nonche' dall'articolo 375, primo comma, lettera b), e dall'articolo 378, il colpevole non e' punibile se, nel procedimento penale in cui ha prestato il suo ufficio o reso le sue dichiarazioni, ritratta il falso e manifesta il vero non oltre la chiusura del dibattimento. Qualora la falsita' sia intervenuta in una causa civile, il colpevole non e' punibile se ritratta il falso e manifesta il vero prima che sulla domanda giudiziale sia pronunciata sentenza definitiva, anche se non irrevocabile.",
+    "con_marcatori": "Art. 376. (Ritrattazione) Nei casi previsti dagli articoli 371-bis, 371-ter, 372 e 373, nonche' ((dall'articolo 375, primo comma, lettera b), e)) dall'articolo 378, il colpevole non e' punibile se, nel procedimento penale in cui ha prestato il suo ufficio o reso le sue dichiarazioni, ritratta il falso e manifesta il vero non oltre la chiusura del dibattimento. (163) Qualora la falsita' sia intervenuta in una causa civile, il colpevole non e' punibile se ritratta il falso e manifesta il vero prima che sulla domanda giudiziale sia pronunciata sentenza definitiva, anche se non irrevocabile.",
+    "caratteri": 558
+  },
+  "note": [
+    {
+      "numero": 163,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 376, primo comma, del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 370 del codice di procedura penale",
+          "urn": "urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447",
+          "data": "1988-09-22",
+          "numero": "447",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1999-03-30",
+        "numero": "101"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 22 - 30 marzo 1999, n. 101 (in G.U. 1ª s.s. 7/4/1999, n. 14), ha dichiarato \"l'illegittimita' costituzionale dell'art. 376, primo comma, del codice penale nella parte in cui non prevede la ritrattazione come causa di non punibilita' per chi, richiesto dalla polizia giudiziaria, delegata dal pubblico ministero a norma dell'art. 370 del codice di procedura penale, di fornire informazioni ai fini delle indagini, abbia reso dichiarazioni false ovvero in tutto o in parte reticenti\"."
+    }
+  ],
+  "impronta": "sha256:1c512f1eee3fa83eaae78759c62d68477e6d67949ea781739ffb02de1070046b"
+}

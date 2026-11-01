@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2659",
+    "rubrica": "Nota di trascrizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2659"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi domanda la trascrizione di un atto tra vivi deve presentare al conservatore dei registri immobiliari, insieme con la copia del titolo, una nota in doppio originale, nella quale devono essere indicati: 1) il cognome ed il nome, il luogo e data di nascita e il numero di codice fiscale delle parti, nonche' il regime patrimoniale delle stesse, se coniugate, secondo quanto risulta da loro dichiarazione resa nel titolo o da certificato dell'ufficiale di stato civile; la denominazione o la ragione sociale, la sede e il numero di codice fiscale delle persone giuridiche, delle societa' previste dai capi II, III e IV del titolo V del libro quinto e delle associazioni non riconosciute, con l'indicazione, per queste ultime e per le societa' semplici, anche delle generalita' delle persone che le rappresentano secondo l'atto costitutivo. Per i condominii devono essere indicati l'eventuale denominazione, l'ubicazione e il codice fiscale; 2) il titolo di cui si chiede la trascrizione e la data del medesimo; 3) il cognome e il nome del pubblico ufficiale che ha ricevuto l'atto o autenticato le firme, o l'autorita' giudiziaria che ha pronunziato la sentenza; 4) la natura e la situazione dei beni a cui si riferisce il titolo, con le indicazioni richieste dall'articolo 2826, nonche', nel caso previsto dall'articolo 2645-bis, comma 4, la superficie e la quota espressa in millesimi di cui a quest'ultima disposizione. Se l'acquisto, la rinunzia o la modificazione del diritto sono sottoposti a termine o a condizione, se ne deve fare menzione nella nota di trascrizione. Tale menzione non e' necessaria se, al momento in cui l'atto si trascrive, la condizione sospensiva si e' verificata o la condizione risolutiva e' mancata ovvero il termine iniziale e' scaduto.",
+    "con_marcatori": "Art. 2659. (Nota di trascrizione). Chi domanda la trascrizione di un atto tra vivi deve presentare al conservatore dei registri immobiliari, insieme con la copia del titolo, una nota in doppio originale, nella quale devono essere indicati: 1) il cognome ed il nome, il luogo e data di nascita e il numero di codice fiscale delle parti, nonche' il regime patrimoniale delle stesse, se coniugate, secondo quanto risulta da loro dichiarazione resa nel titolo o da certificato dell'ufficiale di stato civile; la denominazione o la ragione sociale, la sede e il numero di codice fiscale delle persone giuridiche, delle societa' previste dai capi II, III e IV del titolo V del libro quinto e delle associazioni non riconosciute, con l'indicazione, per queste ultime e per le societa' semplici, anche delle generalita' delle persone che le rappresentano secondo l'atto costitutivo((. Per i condominii devono essere indicati l'eventuale denominazione, l'ubicazione e il codice fiscale)); 2) il titolo di cui si chiede la trascrizione e la data del medesimo; 3) il cognome e il nome del pubblico ufficiale che ha ricevuto l'atto o autenticato le firme, o l'autorita' giudiziaria che ha pronunziato la sentenza; 4) la natura e la situazione dei beni a cui si riferisce il titolo, con le indicazioni richieste dall'articolo 2826, nonche', nel caso previsto dall'articolo 2645-bis, comma 4, la superficie e la quota espressa in millesimi di cui a quest'ultima disposizione. Se l'acquisto, la rinunzia o la modificazione del diritto sono sottoposti a termine o a condizione, se ne deve fare menzione nella nota di trascrizione. Tale menzione non e' necessaria se, al momento in cui l'atto si trascrive, la condizione sospensiva si e' verificata o la condizione risolutiva e' mancata ovvero il termine iniziale e' scaduto.",
+    "caratteri": 1769
+  },
+  "note": [],
+  "impronta": "sha256:ce04e463639f42e7925bf1a259b39a8f4f7d26c0e2023fcff3b41b02f581110e"
+}

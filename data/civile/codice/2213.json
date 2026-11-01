@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2213",
+    "rubrica": "Poteri dei commessi preposti alla vendita",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2213"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I commessi preposti alla vendita nei locali dell'impresa possono esigere il prezzo delle merci da essi vendute, salvo che alla riscossione sia palesemente destinata una cassa speciale. Fuori dei locali dell'impresa non possono esigere il prezzo, se non sono autorizzati o se non consegnano quietanza firmata dall'imprenditore.",
+    "con_marcatori": "Art. 2213. (Poteri dei commessi preposti alla vendita). I commessi preposti alla vendita nei locali dell'impresa possono esigere il prezzo delle merci da essi vendute, salvo che alla riscossione sia palesemente destinata una cassa speciale. Fuori dei locali dell'impresa non possono esigere il prezzo, se non sono autorizzati o se non consegnano quietanza firmata dall'imprenditore.",
+    "caratteri": 326
+  },
+  "note": [],
+  "impronta": "sha256:e5b772ad1b819d27123bfcfcd16b349cdba1679b41d86d0d4c44ebf593c1bf57"
+}

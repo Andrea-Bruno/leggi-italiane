@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1117-quater",
+    "rubrica": "Tutela delle destinazioni d'uso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In caso di attivita' che incidono negativamente e in modo sostanziale sulle destinazioni d'uso delle parti comuni, l'amministratore o i condomini, anche singolarmente, possono diffidare l'esecutore e possono chiedere la convocazione dell'assemblea per far cessare la violazione, anche mediante azioni giudiziarie. L'assemblea delibera in merito alla cessazione di tali attivita' con la maggioranza prevista dal secondo comma dell'articolo 1136.",
+    "con_marcatori": "Art. 1117-quater. (( (Tutela delle destinazioni d'uso). )) ((In caso di attivita' che incidono negativamente e in modo sostanziale sulle destinazioni d'uso delle parti comuni, l'amministratore o i condomini, anche singolarmente, possono diffidare l'esecutore e possono chiedere la convocazione dell'assemblea per far cessare la violazione, anche mediante azioni giudiziarie. L'assemblea delibera in merito alla cessazione di tali attivita' con la maggioranza prevista dal secondo comma dell'articolo 1136)).",
+    "caratteri": 444
+  },
+  "note": [],
+  "impronta": "sha256:3be8eb733ef3a795f87f09a56929bf7e46d7f25485671f6b84d5529f123dee70"
+}

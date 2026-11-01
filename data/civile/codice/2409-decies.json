@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2409-decies",
+    "rubrica": "Azione sociale di responsabilita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2409-decies"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": ". L'azione sociale di responsabilita' puo' anche essere proposta a seguito di deliberazione del consiglio di sorveglianza. La deliberazione e' assunta dalla maggioranza dei componenti del consiglio di sorveglianza e, se e' presa a maggioranza dei due terzi dei suoi componenti, importa la revoca dall'ufficio dei consiglieri di gestione contro cui e' proposta, alla cui sostituzione provvede contestualmente lo stesso consiglio di sorveglianza. Il consiglio di sorveglianza puo' rinunziare all'esercizio dell'azione di responsabilita' e puo' transigerla, purche' la rinunzia e la transazione siano approvate dalla maggioranza assoluta dei componenti del consiglio di sorveglianza e purche' non si opponga la percentuale di soci indicata nell'ultimo comma dell'articolo 2393. La rinuncia all'azione da parte della societa' o del consiglio di sorveglianza non impedisce l'esercizio delle azioni previste dagli articoli 2393-bis, 2394 e 2394-bis.",
+    "con_marcatori": "Art. 2409-decies. (( (Azione sociale di responsabilita'). )). ((L'azione sociale di responsabilita' puo' anche essere proposta a seguito di deliberazione del consiglio di sorveglianza. La deliberazione e' assunta dalla maggioranza dei componenti del consiglio di sorveglianza e, se e' presa a maggioranza dei due terzi dei suoi componenti, importa la revoca dall'ufficio dei consiglieri di gestione contro cui e' proposta, alla cui sostituzione provvede contestualmente lo stesso consiglio di sorveglianza. Il consiglio di sorveglianza puo' rinunziare all'esercizio dell'azione di responsabilita' e puo' transigerla, purche' la rinunzia e la transazione siano approvate dalla maggioranza assoluta dei componenti del consiglio di sorveglianza e purche' non si opponga la percentuale di soci indicata nell'ultimo comma dell'articolo 2393. La rinuncia all'azione da parte della societa' o del consiglio di sorveglianza non impedisce l'esercizio delle azioni previste dagli articoli 2393-bis, 2394 e 2394-bis.))",
+    "caratteri": 943
+  },
+  "note": [],
+  "impronta": "sha256:1e62a94bebf55b73540719e36c34fd961d51c94681a9cd84706c249e190540d7"
+}

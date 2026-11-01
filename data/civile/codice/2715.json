@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2715",
+    "rubrica": "Copie di scritture private originali depositate",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2715"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Le copie delle scritture private depositate presso pubblici uffici e spedite da pubblici depositari autorizzati hanno la stessa efficacia della scrittura originale da cui sono estratte.",
+    "con_marcatori": "Art. 2715. (Copie di scritture private originali depositate). Le copie delle scritture private depositate presso pubblici uffici e spedite da pubblici depositari autorizzati hanno la stessa efficacia della scrittura originale da cui sono estratte.",
+    "caratteri": 185
+  },
+  "note": [],
+  "impronta": "sha256:9edabca2cd24f4df411cf1de76f9ae35f8730f463893ca61d11705bec3dd6233"
+}

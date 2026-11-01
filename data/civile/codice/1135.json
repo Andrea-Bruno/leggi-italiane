@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1135",
+    "rubrica": "Attribuzioni dell'assemblea dei condomini",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1135"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Oltre a quanto e' stabilito dagli articoli precedenti, l'assemblea dei condomini provvede: 1) alla conferma dell'amministratore e all'eventuale sua retribuzione; 2) all'approvazione del preventivo delle spese occorrenti durante l'anno e alla relativa ripartizione tra i condomini; 3) all'approvazione del rendiconto annuale dell'amministratore e all'impiego del residuo attivo della gestione; 4) alle opere di manutenzione straordinaria e alle innovazioni, costituendo obbligatoriamente un fondo speciale di importo pari all'ammontare dei lavori ; se i lavori devono essere eseguiti in base a un contratto che ne prevede il pagamento graduale in funzione del loro progressivo stato di avanzamento, il fondo puo' essere costituito in relazione ai singoli pagamenti dovuti. L'amministratore non puo' ordinare lavori di manutenzione straordinaria, salvo che rivestano carattere urgente, ma in questo caso deve riferirne nella prima assemblea. L'assemblea puo' autorizzare l'amministratore a partecipare e collaborare a progetti, programmi e iniziative territoriali promossi dalle istituzioni locali o da soggetti privati qualificati, anche mediante opere di risanamento di parti comuni degli immobili nonche' di demolizione, ricostruzione e messa in sicurezza statica, al fine di favorire il recupero del patrimonio edilizio esistente, la vivibilita' urbana, la sicurezza e la sostenibilita' ambientale della zona in cui il condominio e' ubicato.",
+    "con_marcatori": "Art. 1135. (Attribuzioni dell'assemblea dei condomini). Oltre a quanto e' stabilito dagli articoli precedenti, l'assemblea dei condomini provvede: 1) alla conferma dell'amministratore e all'eventuale sua retribuzione; 2) all'approvazione del preventivo delle spese occorrenti durante l'anno e alla relativa ripartizione tra i condomini; 3) all'approvazione del rendiconto annuale dell'amministratore e all'impiego del residuo attivo della gestione; 4) alle opere di manutenzione straordinaria e alle innovazioni, costituendo obbligatoriamente un fondo speciale di importo pari all'ammontare dei lavori ((; se i lavori devono essere eseguiti in base a un contratto che ne prevede il pagamento graduale in funzione del loro progressivo stato di avanzamento, il fondo puo' essere costituito in relazione ai singoli pagamenti dovuti)). L'amministratore non puo' ordinare lavori di manutenzione straordinaria, salvo che rivestano carattere urgente, ma in questo caso deve riferirne nella prima assemblea. L'assemblea puo' autorizzare l'amministratore a partecipare e collaborare a progetti, programmi e iniziative territoriali promossi dalle istituzioni locali o da soggetti privati qualificati, anche mediante opere di risanamento di parti comuni degli immobili nonche' di demolizione, ricostruzione e messa in sicurezza statica, al fine di favorire il recupero del patrimonio edilizio esistente, la vivibilita' urbana, la sicurezza e la sostenibilita' ambientale della zona in cui il condominio e' ubicato.",
+    "caratteri": 1443
+  },
+  "note": [],
+  "impronta": "sha256:ed36c6d3abea0753a11ddaa716ffacf30636a4b1de79643cd0db7f4a7f6bfea4"
+}

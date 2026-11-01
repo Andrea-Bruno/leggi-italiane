@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1830",
+    "rubrica": "Sequestro o pignoramento del saldo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1830"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il creditore di un correntista ha sequestrato o pignorato l'eventuale saldo del conto spettante al suo debitore, l'altro correntista non puo', con nuove rimesse, pregiudicare le ragioni del creditore. Non si considerano nuove rimesse quelle fatte in dipendenza di diritti sorti prima del sequestro o del pignoramento. Il correntista presso cui e' stato eseguito il sequestro o il pignoramento deve darne notizia all'altro. Ciascuno di essi puo' recedere dal contratto.",
+    "con_marcatori": "Art. 1830. (Sequestro o pignoramento del saldo). Se il creditore di un correntista ha sequestrato o pignorato l'eventuale saldo del conto spettante al suo debitore, l'altro correntista non puo', con nuove rimesse, pregiudicare le ragioni del creditore. Non si considerano nuove rimesse quelle fatte in dipendenza di diritti sorti prima del sequestro o del pignoramento. Il correntista presso cui e' stato eseguito il sequestro o il pignoramento deve darne notizia all'altro. Ciascuno di essi puo' recedere dal contratto.",
+    "caratteri": 471
+  },
+  "note": [],
+  "impronta": "sha256:5e9f09a4f7d62017e79d06876e4a77044d29baa22739f4c8b18070aecad1ade6"
+}

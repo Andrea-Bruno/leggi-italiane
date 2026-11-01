@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1113",
+    "rubrica": "Intervento nella divisione e opposizioni",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1113"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "I creditori e gli aventi causa da un partecipante possono intervenire nella divisione a proprie spese, ma non possono impugnare la divisione gia' eseguita, a meno che abbiano notificato un'opposizione anteriormente alla divisione stessa e salvo sempre ad essi l'esperimento dell'azione revocatoria o dell'azione surrogatoria. Nella divisione che ha per oggetto beni immobili, l'opposizione, per l'effetto indicato dal comma precedente, deve essere trascritta prima della trascrizione dell'atto di divisione e, se si tratta di divisione giudiziale, prima della trascrizione della relativa domanda. Devono essere chiamati a intervenire, perche' la divisione abbia effetto nei loro confronti, i creditori iscritti e coloro che hanno acquistato diritti sull'immobile in virtu' di atti soggetti a trascrizione e trascritti prima della trascrizione dell'atto di divisione o della trascrizione della domanda di divisione giudiziale. Nessuna ragione di prelevamento in natura per crediti nascenti dalla comunione puo' opporsi contro le persone indicate dal comma precedente, eccetto le ragioni di prelevamento nascenti da titolo anteriore alla comunione medesima, ovvero da collazione.",
+    "con_marcatori": "Art. 1113. (Intervento nella divisione e opposizioni). I creditori e gli aventi causa da un partecipante possono intervenire nella divisione a proprie spese, ma non possono impugnare la divisione gia' eseguita, a meno che abbiano notificato un'opposizione anteriormente alla divisione stessa e salvo sempre ad essi l'esperimento dell'azione revocatoria o dell'azione surrogatoria. Nella divisione che ha per oggetto beni immobili, l'opposizione, per l'effetto indicato dal comma precedente, deve essere trascritta prima della trascrizione dell'atto di divisione e, se si tratta di divisione giudiziale, prima della trascrizione della relativa domanda. Devono essere chiamati a intervenire, perche' la divisione abbia effetto nei loro confronti, i creditori iscritti e coloro che hanno acquistato diritti sull'immobile in virtu' di atti soggetti a trascrizione e trascritti prima della trascrizione dell'atto di divisione o della trascrizione della domanda di divisione giudiziale. Nessuna ragione di prelevamento in natura per crediti nascenti dalla comunione puo' opporsi contro le persone indicate dal comma precedente, eccetto le ragioni di prelevamento nascenti da titolo anteriore alla comunione medesima, ovvero da collazione.",
+    "caratteri": 1177
+  },
+  "note": [],
+  "impronta": "sha256:1a20fabe77eb6acddcc9eaa5a61d667e27fc7cc69775a099afdd22539a60fedd"
+}

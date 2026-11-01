@@ -1,0 +1,59 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "403",
+    "rubrica": "Intervento della pubblica autorita' a favore dei minori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art403"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando il minore e' moralmente o materialmente abbandonato o si trova esposto, nell'ambiente familiare, a grave pregiudizio e pericolo per la sua incolumita' psico-fisica e vi e' dunque emergenza di provvedere, la pubblica autorita', a mezzo degli organi di protezione dell'infanzia, lo colloca in luogo sicuro, sino a quando si possa provvedere in modo definitivo alla sua protezione. La pubblica autorita' che ha adottato il provvedimento emesso ai sensi del primo comma ne da' immediato avviso orale al pubblico ministero presso il tribunale per i minorenni, nella cui circoscrizione il minore ha la sua residenza abituale; entro le ventiquattro ore successive al collocamento del minore in sicurezza, con l'allontanamento da uno o da entrambi i genitori o dai soggetti esercenti la responsabilita' genitoriale, trasmette al pubblico ministero il provvedimento corredato di ogni documentazione utile e di sintetica relazione che descrive i motivi dell'intervento a tutela del minore. Il pubblico ministero, entro le successive settantadue ore, se non dispone la revoca del collocamento, chiede al tribunale per i minorenni la convalida del provvedimento; a tal fine puo' assumere sommarie informazioni e disporre eventuali accertamenti. Con il medesimo ricorso il pubblico ministero puo' formulare richieste ai sensi degli articoli 330 e seguenti. Entro le successive quarantotto ore il tribunale per i minorenni, con decreto del presidente o del giudice da lui delegato, provvede sulla richiesta di convalida del provvedimento, nomina il curatore speciale del minore e il giudice relatore e fissa l'udienza di comparizione delle parti innanzi a questo entro il termine di quindici giorni. Il decreto e' immediatamente comunicato al pubblico ministero e all'autorita' che ha adottato il provvedimento a cura della cancelleria. Il ricorso e il decreto sono notificati entro quarantotto ore agli esercenti la responsabilita' genitoriale e al curatore speciale a cura del pubblico ministero che a tal fine puo' avvalersi della polizia giudiziaria. All'udienza il giudice relatore interroga liberamente le parti e puo' assumere informazioni; procede inoltre all'ascolto del minore direttamente e, ove ritenuto necessario, con l'ausilio di un esperto. Entro i quindici giorni successivi il tribunale per i minorenni, in composizione collegiale, pronuncia decreto con cui conferma, modifica o revoca il decreto di convalida, puo' adottare provvedimenti nell'interesse del minore e qualora siano state proposte istanze ai sensi degli articoli 330 e seguenti da' le disposizioni per l'ulteriore corso del procedimento. Il decreto e' immediatamente comunicato alle parti a cura della cancelleria. Entro il termine perentorio di dieci giorni dalla comunicazione del decreto il pubblico ministero, gli esercenti la responsabilita' genitoriale e il curatore speciale possono proporre reclamo alla corte d'appello ai sensi dell'articolo 739 del codice di procedura civile. La corte d'appello provvede entro sessanta giorni dal deposito del reclamo. Il provvedimento emesso dalla pubblica autorita' perde efficacia se la trasmissione degli atti da parte della pubblica autorita', la richiesta di convalida da parte del pubblico ministero e i decreti del tribunale per i minorenni non intervengono entro i termini previsti. In questo caso il tribunale per i minorenni adotta i provvedimenti temporanei e urgenti nell'interesse del minore. Qualora il minore sia collocato in comunita' di tipo familiare, quale ipotesi residuale da applicare in ragione dell'accertata esclusione di possibili soluzioni alternative, si applicano le norme in tema di affidamento familiare.",
+    "con_marcatori": "Art. 403. (Intervento della pubblica autorita' a favore dei minori). ((Quando il minore e' moralmente o materialmente abbandonato o si trova esposto, nell'ambiente familiare, a grave pregiudizio e pericolo per la sua incolumita' psico-fisica e vi e' dunque emergenza di provvedere)), la pubblica autorita', a mezzo degli organi di protezione dell'infanzia, lo colloca in luogo sicuro, sino a quando si possa provvedere in modo definitivo alla sua protezione. ((313)) ((La pubblica autorita' che ha adottato il provvedimento emesso ai sensi del primo comma ne da' immediato avviso orale al pubblico ministero presso il tribunale per i minorenni, nella cui circoscrizione il minore ha la sua residenza abituale; entro le ventiquattro ore successive al collocamento del minore in sicurezza, con l'allontanamento da uno o da entrambi i genitori o dai soggetti esercenti la responsabilita' genitoriale, trasmette al pubblico ministero il provvedimento corredato di ogni documentazione utile e di sintetica relazione che descrive i motivi dell'intervento a tutela del minore.)) ((313)) ((Il pubblico ministero, entro le successive settantadue ore, se non dispone la revoca del collocamento, chiede al tribunale per i minorenni la convalida del provvedimento; a tal fine puo' assumere sommarie informazioni e disporre eventuali accertamenti. Con il medesimo ricorso il pubblico ministero puo' formulare richieste ai sensi degli articoli 330 e seguenti.)) ((313)) ((Entro le successive quarantotto ore il tribunale per i minorenni, con decreto del presidente o del giudice da lui delegato, provvede sulla richiesta di convalida del provvedimento, nomina il curatore speciale del minore e il giudice relatore e fissa l'udienza di comparizione delle parti innanzi a questo entro il termine di quindici giorni. Il decreto e' immediatamente comunicato al pubblico ministero e all'autorita' che ha adottato il provvedimento a cura della cancelleria. Il ricorso e il decreto sono notificati entro quarantotto ore agli esercenti la responsabilita' genitoriale e al curatore speciale a cura del pubblico ministero che a tal fine puo' avvalersi della polizia giudiziaria.)) ((313)) ((All'udienza il giudice relatore interroga liberamente le parti e puo' assumere informazioni; procede inoltre all'ascolto del minore direttamente e, ove ritenuto necessario, con l'ausilio di un esperto. Entro i quindici giorni successivi il tribunale per i minorenni, in composizione collegiale, pronuncia decreto con cui conferma, modifica o revoca il decreto di convalida, puo' adottare provvedimenti nell'interesse del minore e qualora siano state proposte istanze ai sensi degli articoli 330 e seguenti da' le disposizioni per l'ulteriore corso del procedimento. Il decreto e' immediatamente comunicato alle parti a cura della cancelleria.)) ((313)) ((Entro il termine perentorio di dieci giorni dalla comunicazione del decreto il pubblico ministero, gli esercenti la responsabilita' genitoriale e il curatore speciale possono proporre reclamo alla corte d'appello ai sensi dell'articolo 739 del codice di procedura civile. La corte d'appello provvede entro sessanta giorni dal deposito del reclamo.)) ((313)) ((Il provvedimento emesso dalla pubblica autorita' perde efficacia se la trasmissione degli atti da parte della pubblica autorita', la richiesta di convalida da parte del pubblico ministero e i decreti del tribunale per i minorenni non intervengono entro i termini previsti. In questo caso il tribunale per i minorenni adotta i provvedimenti temporanei e urgenti nell'interesse del minore.)) ((313)) ((Qualora il minore sia collocato in comunita' di tipo familiare, quale ipotesi residuale da applicare in ragione dell'accertata esclusione di possibili soluzioni alternative, si applicano le norme in tema di affidamento familiare)). ((313))",
+    "caratteri": 3656
+  },
+  "note": [
+    {
+      "numero": 313,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 26 novembre 2021, n. 206",
+          "urn": "urn:nir:stato:legge:2021-11-26;206",
+          "data": "2021-11-26",
+          "numero": "206",
+          "data_gazzetta": "2021-12-09"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 26 novembre 2021, n. 206, ha disposto (con l'art. 1, comma 37) che \"Le disposizioni dei commi da 27 a 36 del presente articolo si applicano ai procedimenti instaurati a decorrere dal centottantesimo giorno successivo alla data di entrata in vigore della presente legge\"."
+    }
+  ],
+  "impronta": "sha256:2f6b8bd04fe4a2f3732ec2eb3f06b551d35c6c975614e8d73491bcac9ebaa008"
+}

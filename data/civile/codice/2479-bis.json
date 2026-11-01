@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2479-bis",
+    "rubrica": "Assemblea dei soci",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2479-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'atto costitutivo determina i modi di convocazione dell'assemblea dei soci, tali comunque da assicurare la tempestiva informazione sugli argomenti da trattare. In mancanza la convocazione e' effettuata mediante lettera raccomandata spedita ai soci almeno otto giorni prima dell'adunanza nel domicilio risultante dal registro delle imprese. Se l'atto costitutivo non dispone diversamente, il socio puo' farsi rappresentare in assemblea e la relativa documentazione e' conservata secondo quanto prescritto dall'articolo 2478, primo comma, numero 2). Salvo diversa disposizione dell'atto costitutivo l'assemblea si riunisce presso la sede sociale ed e' regolarmente costituita con la presenza di tanti soci che rappresentano almeno la meta' del capitale sociale e delibera a maggioranza assoluta e, nei casi previsti dai numeri 4) e 5) del secondo comma dell'articolo 2479, con il voto favorevole dei soci che rappresentano almeno la meta' del capitale sociale. L'assemblea e' presieduta dalla persona indicata nell'atto costitutivo o, in mancanza, da quella designata dagli intervenuti. Il presidente dell'assemblea verifica la regolarita' della costituzione, accerta l'identita' e la legittimazione dei presenti, regola il suo svolgimento ed accerta i risultati delle votazioni; degli esiti di tali accertamenti deve essere dato conto nel verbale. In ogni caso la deliberazione s'intende adottata quando ad essa partecipa l'intero capitale sociale e tutti gli amministratori e sindaci sono presenti o informati della riunione e nessuno si oppone alla trattazione dell'argomento.",
+    "con_marcatori": "Art. 2479-bis (Assemblea dei soci). L'atto costitutivo determina i modi di convocazione dell'assemblea dei soci, tali comunque da assicurare la tempestiva informazione sugli argomenti da trattare. In mancanza la convocazione e' effettuata mediante lettera raccomandata spedita ai soci almeno otto giorni prima dell'adunanza nel domicilio risultante dal ((registro delle imprese)). Se l'atto costitutivo non dispone diversamente, il socio puo' farsi rappresentare in assemblea e la relativa documentazione e' conservata secondo quanto prescritto dall'articolo 2478, primo comma, numero 2). Salvo diversa disposizione dell'atto costitutivo l'assemblea si riunisce presso la sede sociale ed e' regolarmente costituita con la presenza di tanti soci che rappresentano almeno la meta' del capitale sociale e delibera a maggioranza assoluta e, nei casi previsti dai numeri 4) e 5) del secondo comma dell'articolo 2479, con il voto favorevole dei soci che rappresentano almeno la meta' del capitale sociale. L'assemblea e' presieduta dalla persona indicata nell'atto costitutivo o, in mancanza, da quella designata dagli intervenuti. Il presidente dell'assemblea verifica la regolarita' della costituzione, accerta l'identita' e la legittimazione dei presenti, regola il suo svolgimento ed accerta i risultati delle votazioni; degli esiti di tali accertamenti deve essere dato conto nel verbale. In ogni caso la deliberazione s'intende adottata quando ad essa partecipa l'intero capitale sociale e tutti gli amministratori e sindaci sono presenti o informati della riunione e nessuno si oppone alla trattazione dell'argomento.",
+    "caratteri": 1578
+  },
+  "note": [],
+  "impronta": "sha256:24a051ae61cf40c15fd05e01d187c00320183ac33d075cf917e283f7c960d87f"
+}

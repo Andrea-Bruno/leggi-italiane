@@ -1,0 +1,73 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "371-bis",
+    "rubrica": null,
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art371-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "(False informazioni al pubblico ministero o al procuratore della Corte penale internazionale ) Chiunque, nel corso di un procedimento penale, richiesto dal pubblico ministero o dal procuratore della Corte penale internazionale di fornire informazioni ai fini delle indagini, rende dichiarazioni false ovvero tace, in tutto o in parte, cio' che sa intorno ai fatti sui quali viene sentito, e' punito con la reclusione fino a quattro anni. Ferma l'immediata procedibilita' nel caso di rifiuto di informazioni, il procedimento penale, negli altri casi, resta sospeso fino a quando nel procedimento nel corso del quale sono state assunte le informazioni sia stata pronunciata sentenza di primo grado ovvero il procedimento sia stato anteriormente definito con archiviazione o con sentenza di non luogo a procedere. Le disposizioni di cui ai commi primo e secondo si applicano, nell'ipotesi prevista dall'articolo 391-bis, comma 10, del codice di procedura penale, anche quando le informazioni ai fini delle indagini sono richieste dal difensore.",
+    "con_marcatori": "Art. 371-bis. (False informazioni al pubblico ministero ((o al procuratore della Corte penale internazionale)) ) Chiunque, nel corso di un procedimento penale, richiesto dal pubblico ministero ((o dal procuratore della Corte penale internazionale)) di fornire informazioni ai fini delle indagini, rende dichiarazioni false ovvero tace, in tutto o in parte, cio' che sa intorno ai fatti sui quali viene sentito, e' punito con la reclusione fino a quattro anni. Ferma l'immediata procedibilita' nel caso di rifiuto di informazioni, il procedimento penale, negli altri casi, resta sospeso fino a quando nel procedimento nel corso del quale sono state assunte le informazioni sia stata pronunciata sentenza di primo grado ovvero il procedimento sia stato anteriormente definito con archiviazione o con sentenza di non luogo a procedere.(144) Le disposizioni di cui ai commi primo e secondo si applicano, nell'ipotesi prevista dall'articolo 391-bis, comma 10, del codice di procedura penale, anche quando le informazioni ai fini delle indagini sono richieste dal difensore.",
+    "caratteri": 1041
+  },
+  "note": [
+    {
+      "numero": 144,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 8 agosto 1995, n. 332",
+          "urn": "urn:nir:stato:legge:1995-08-08;332",
+          "data": "1995-08-08",
+          "numero": "332",
+          "data_gazzetta": "1995-08-08"
+        },
+        {
+          "denominazione": "secondo comma dell'articolo 371-bis del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "articolo 405 del codice di procedura penale",
+          "urn": "urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447",
+          "data": "1988-09-22",
+          "numero": "447",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 8 agosto 1995, n. 332 ha disposto (con l'art. 28, comma 1) che \"La sospensione del procedimento penale prevista dal secondo comma dell'articolo 371-bis del codice penale, come modificato dall'articolo 25 della presente legge, non si applica relativamente ai procedimenti nei quali, alla data di entrata in vigore della presente legge, sia stata gia' esercitata l'azione penale ai sensi dell'articolo 405 del codice di procedura penale. In tali casi resta ferma la competenza del tribunale\"."
+    }
+  ],
+  "impronta": "sha256:6aed760097474431938cdddf42e0d5a92dfa857346d8294a7c6a473208a6f9be"
+}

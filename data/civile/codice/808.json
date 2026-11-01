@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "808",
+    "rubrica": "Effetti nei riguardi dei terzi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art808"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La revocazione per ingratitudine o per sopravvenienza di figli non pregiudica i terzi che hanno acquistato diritti anteriormente alla domanda, salvi gli effetti della trascrizione di questa. Il donatario, che prima della trascrizione della domanda di revocazione ha costituito sui beni donati diritti reali che ne diminuiscono il valore, deve indennizzare il donante della diminuzione di valore sofferta dai beni stessi.",
+    "con_marcatori": "Art. 808. (Effetti nei riguardi dei terzi). La revocazione per ingratitudine o per sopravvenienza di figli non pregiudica i terzi che hanno acquistato diritti anteriormente alla domanda, salvi gli effetti della trascrizione di questa. Il donatario, che prima della trascrizione della domanda di revocazione ha costituito sui beni donati diritti reali che ne diminuiscono il valore, deve indennizzare il donante della diminuzione di valore sofferta dai beni stessi.",
+    "caratteri": 420
+  },
+  "note": [],
+  "impronta": "sha256:96ec802dfc1c1ea238d713665f1cc5d1a9b97ed48ced74568d062d5d926e8213"
+}

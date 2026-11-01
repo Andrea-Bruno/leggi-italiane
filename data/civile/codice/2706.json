@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2706",
+    "rubrica": "Conformita' tra originale e riproduzione del telegramma",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2706"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La riproduzione del telegramma consegnata al destinatario si presume, fino a prova contraria, conforme all'originale. Il mittente, se ha fatto collazionare il telegramma secondo le disposizioni dei regolamenti, si presume esente da colpa per le divergenze verificatesi tra originale e riproduzione.",
+    "con_marcatori": "Art. 2706. (Conformita' tra originale e riproduzione del telegramma). La riproduzione del telegramma consegnata al destinatario si presume, fino a prova contraria, conforme all'originale. Il mittente, se ha fatto collazionare il telegramma secondo le disposizioni dei regolamenti, si presume esente da colpa per le divergenze verificatesi tra originale e riproduzione.",
+    "caratteri": 298
+  },
+  "note": [],
+  "impronta": "sha256:cb4f69574b2a8f364a8a113755d3e99960bda32c34ac1ed3b0a0d46816d63e55"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1924",
+    "rubrica": "Mancato pagamento dei premi",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1924"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Se il contraente non paga il premio relativo al primo anno, l'assicuratore puo' agire per l'esecuzione del contratto nel termine di sei mesi dal giorno in cui il premio e' scaduto. La disposizione si applica anche se il premio e' ripartito in piu' rate, fermo restando il disposto dei primi due commi dell'art. 1901; in tal caso il termine decorre dalla scadenza delle singole rate. Se il contraente non paga i premi successivi nel termine di tolleranza previsto dalla polizza o, in mancanza, nel termine di venti giorni dalla scadenza, il contratto e' risoluto di diritto, e i premi pagati restano acquisiti all'assicuratore, salvo che sussistano le condizioni per il riscatto dell'assicurazione o per la riduzione della somma assicurata.",
+    "con_marcatori": "Art. 1924. (Mancato pagamento dei premi). Se il contraente non paga il premio relativo al primo anno, l'assicuratore puo' agire per l'esecuzione del contratto nel termine di sei mesi dal giorno in cui il premio e' scaduto. La disposizione si applica anche se il premio e' ripartito in piu' rate, fermo restando il disposto dei primi due commi dell'art. 1901; in tal caso il termine decorre dalla scadenza delle singole rate. Se il contraente non paga i premi successivi nel termine di tolleranza previsto dalla polizza o, in mancanza, nel termine di venti giorni dalla scadenza, il contratto e' risoluto di diritto, e i premi pagati restano acquisiti all'assicuratore, salvo che sussistano le condizioni per il riscatto dell'assicurazione o per la riduzione della somma assicurata.",
+    "caratteri": 739
+  },
+  "note": [],
+  "impronta": "sha256:c88b1811237017b73de9c7baa46158f001d1157d57126ec0a5e24baf1a2b8f4e"
+}

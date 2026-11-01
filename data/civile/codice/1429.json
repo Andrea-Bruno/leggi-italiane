@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1429",
+    "rubrica": "Errore essenziale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1429"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'errore e' essenziale: 1) quando cade sulla natura o sull'oggetto del contratto; 2) quando cade sull'identita' dell'oggetto della prestazione ovvero sopra una qualita' dello stesso che, secondo il comune apprezzamento o in relazione alle circostanze, deve ritenersi determinante del consenso; 3) quando cade sull'identita' o sulle qualita' della persona dell'altro contraente, sempre che l'una o le altre siano state determinanti del consenso; 4) quando, trattandosi di errore di diritto, e' stato la ragione unica o principale del contratto.",
+    "con_marcatori": "Art. 1429. (Errore essenziale). L'errore e' essenziale: 1) quando cade sulla natura o sull'oggetto del contratto; 2) quando cade sull'identita' dell'oggetto della prestazione ovvero sopra una qualita' dello stesso che, secondo il comune apprezzamento o in relazione alle circostanze, deve ritenersi determinante del consenso; 3) quando cade sull'identita' o sulle qualita' della persona dell'altro contraente, sempre che l'una o le altre siano state determinanti del consenso; 4) quando, trattandosi di errore di diritto, e' stato la ragione unica o principale del contratto.",
+    "caratteri": 543
+  },
+  "note": [],
+  "impronta": "sha256:21e96f73abde123ac59410bc65867bd8834cd1eb5381da7ec24c0475ebb019bd"
+}

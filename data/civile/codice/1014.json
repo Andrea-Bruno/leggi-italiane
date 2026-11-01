@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1014",
+    "rubrica": "Estinzione dell'usufrutto",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1014"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Oltre quanto e' stabilito dall'art. 979, l'usufrutto si estingue: 1) per prescrizione per effetto del non uso durato per venti anni; 2) per la riunione dell'usufrutto e della proprieta' nella stessa persona; 3) per il totale perimento della cosa su cui e' costituito.",
+    "con_marcatori": "Art. 1014. (Estinzione dell'usufrutto). Oltre quanto e' stabilito dall'art. 979, l'usufrutto si estingue: 1) per prescrizione per effetto del non uso durato per venti anni; 2) per la riunione dell'usufrutto e della proprieta' nella stessa persona; 3) per il totale perimento della cosa su cui e' costituito.",
+    "caratteri": 267
+  },
+  "note": [],
+  "impronta": "sha256:501f2fa72871d9ed9f0a962b6dbeb380ae59d5545d2370e9e781452daa9d28a1"
+}

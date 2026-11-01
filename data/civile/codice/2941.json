@@ -1,0 +1,149 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2941",
+    "rubrica": "Sospensione per rapporti tra le parti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2941"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 1). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 1"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 114,
+        "ambito": "parte"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 248,
+        "ambito": "parte"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 340,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 349,
+        "ambito": "commi"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La prescrizione rimane sospesa: 1) tra i coniugi; 2) tra chi esercita la responsabilita' genitoriale di cui all'articolo 316 o i poteri a essa inerenti e le persone che vi sono sottoposte; 3) tra il tutore e il minore o l'interdetto soggetti alla tutela, finche' non sia stato reso e approvato il conto finale, salvo quanto e' disposto dall'art. 387 per le azioni relative alla tutela; 4) tra il curatore e il minore emancipato o l'inabilitato; 5) tra l'erede e l'eredita' accettata con beneficio d'inventario; 6) tra le persone i cui beni sono sottoposti per legge o per provvedimento del giudice all'amministrazione altrui e quelle da cui l'amministrazione e' esercitata, finche' non sia stato reso e approvato definitivamente il conto; 7) tra le persone giuridiche e i loro amministratori, finche' sono in carica, per le azioni di responsabilita' contro di essi; 8) tra il debitore che ha dolosamente occultato l'esistenza del debito e il creditore, finche' il dolo non sia stato scoperto.",
+    "con_marcatori": "Art. 2941. (Sospensione per rapporti tra le parti). La prescrizione rimane sospesa: 1) tra i coniugi; ((349)) 2) tra chi esercita la responsabilita' genitoriale di cui all'articolo 316 o i poteri a essa inerenti e le persone che vi sono sottoposte; 3) tra il tutore e il minore o l'interdetto soggetti alla tutela, finche' non sia stato reso e approvato il conto finale, salvo quanto e' disposto dall'art. 387 per le azioni relative alla tutela; 4) tra il curatore e il minore emancipato o l'inabilitato; 5) tra l'erede e l'eredita' accettata con beneficio d'inventario; 6) tra le persone i cui beni sono sottoposti per legge o per provvedimento del giudice all'amministrazione altrui e quelle da cui l'amministrazione e' esercitata, finche' non sia stato reso e approvato definitivamente il conto; 7) tra le persone giuridiche e i loro amministratori, finche' sono in carica, per le azioni di responsabilita' contro di essi; (114) (248) (340) 8) tra il debitore che ha dolosamente occultato l'esistenza del debito e il creditore, finche' il dolo non sia stato scoperto.",
+    "caratteri": 992
+  },
+  "note": [
+    {
+      "numero": 114,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2941, n. 7, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1998-07-24",
+        "numero": "322"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 14-24 luglio 1998, n. 322 (in G.U. 1a s.s. 29/7/1998, n. 30) ha dichiarato \"l'illegittimita' costituzionale dell'art. 2941, n. 7, del codice civile, nella parte in cui non prevede che la prescrizione rimane sospesa tra la societa' in accomandita semplice ed i suoi amministratori, finche' sono in carica, per le azioni di responsabilita' contro di essi.\""
+    },
+    {
+      "numero": 248,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2941, numero 7), del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2015-12-11",
+        "numero": "262"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 2-11 dicembre 2015, n. 262 (in G.U. 1a s.s. 16/12/2015, n. 50) ha dichiarato l'illegittimita' costituzionale \"dell'art. 2941, numero 7), del codice civile, nella parte in cui non prevede che la prescrizione sia sospesa tra la societa' in nome collettivo e i suoi amministratori, finche' sono in carica, per le azioni di responsabilita' contro di essi\"."
+    },
+    {
+      "numero": 340,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2941, primo comma, numero 7), del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "2025-06-26",
+        "numero": "86"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 21 maggio - 26 giugno 2025, n. 86 (in G.U. 1ª s.s. 2/07/2025, n. 27) ha dichiarato \"l'illegittimita' costituzionale dell'art. 2941, primo comma, numero 7), del codice civile, nella parte in cui non prevede la sospensione della prescrizione tra le associazioni non riconosciute e i loro amministratori, finche' sono in carica, per le azioni di responsabilita' contro di essi\"."
+    },
+    {
+      "numero": 349,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 1"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2941, primo comma, numero 1), del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "La Corte Costituzionale, con sentenza 1 dicembre 2025 - 23 gennaio 2026, n. 7 (in G.U. 1ª s.s. 28/01/2026, n. 4) ha dichiarato \"l'illegittimita' costituzionale dell'art. 2941, primo comma, numero 1), del codice civile, nella parte in cui non prevede che la prescrizione rimane sospesa tra i conviventi di fatto\"."
+    }
+  ],
+  "impronta": "sha256:642fc7bf7f813c9404121c78a723e5c9320d9b2270e629f2668f9a5517cac644"
+}

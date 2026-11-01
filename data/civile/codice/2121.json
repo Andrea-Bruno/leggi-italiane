@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2121",
+    "rubrica": "Computo dell'indennita' di mancato preavviso",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2121"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'indennita' di cui all'articolo 2118 deve calcolarsi computando le provvigioni, i premi di produzione, le partecipazioni agli utili o ai prodotti ed ogni altro compenso di carattere continuativo, con esclusione di quanto e' corrisposto a titolo di rimborso spese. Se il prestatore di lavoro e' retribuito in tutto o in parte con provvigioni, con premi di produzione o con partecipazioni, l'indennita' suddetta e' determinata sulla media degli emolumenti degli ultimi tre anni di servizio o del minor tempo di servizio prestato. Fa parte della retribuzione anche l'equivalente del vitto e dell'alloggio dovuto al prestatore di lavoro.",
+    "con_marcatori": "Art. 2121. (( (Computo dell'indennita' di mancato preavviso). )) ((L'indennita' di cui all'articolo 2118 deve calcolarsi computando le provvigioni, i premi di produzione, le partecipazioni agli utili o ai prodotti ed ogni altro compenso di carattere continuativo, con esclusione di quanto e' corrisposto a titolo di rimborso spese. Se il prestatore di lavoro e' retribuito in tutto o in parte con provvigioni, con premi di produzione o con partecipazioni, l'indennita' suddetta e' determinata sulla media degli emolumenti degli ultimi tre anni di servizio o del minor tempo di servizio prestato. Fa parte della retribuzione anche l'equivalente del vitto e dell'alloggio dovuto al prestatore di lavoro.))",
+    "caratteri": 634
+  },
+  "note": [],
+  "impronta": "sha256:bd5a83d2f95bf06d98b0ddf41c0ac82e784e89bd3ad5ab6d71a34102a8b3b751"
+}

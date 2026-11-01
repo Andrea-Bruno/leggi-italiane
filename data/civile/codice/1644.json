@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1644",
+    "rubrica": "Accrescimenti e frutti del bestiame",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1644"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'affittuario fa suoi i parti e gli altri frutti del bestiame, l'accrescimento e ogni altro provento che ne deriva. Il letame pero' deve essere impiegato esclusivamente nella coltivazione del fondo.",
+    "con_marcatori": "Art. 1644. (Accrescimenti e frutti del bestiame). L'affittuario fa suoi i parti e gli altri frutti del bestiame, l'accrescimento e ogni altro provento che ne deriva. Il letame pero' deve essere impiegato esclusivamente nella coltivazione del fondo.",
+    "caratteri": 198
+  },
+  "note": [],
+  "impronta": "sha256:8347b7ef7871feb3b80c1d168067b5c19d2b9414636816b1ed61cb4f2b3aa43d"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "259",
+    "rubrica": "Agevolazione colposa",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art259"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Quando l'esecuzione di alcuno dei delitti preveduti dagli articoli 255, 256, 257 e 258 e' stata resa possibile, o soltanto agevolata, per colpa di chi era in possesso dell'atto o documento o a cognizione della notizia, questi e' punito con la reclusione da uno a cinque anni. Si applica la reclusione da tre a quindici anni se sono state compromesse la preparazione o la efficienza bellica dello Stato, ovvero le operazioni militari. Le stesse pene si applicano quando l'esecuzione dei delitti suddetti e' stata resa possibile o soltanto agevolata per colpa di chi aveva la custodia o la vigilanza dei luoghi o delle zone di terra, di acqua o di aria, nelle quali e' vietato l'accesso nell'interesse militare dello Stato.",
+    "con_marcatori": "Art. 259. (Agevolazione colposa) Quando l'esecuzione di alcuno dei delitti preveduti dagli articoli 255, 256, 257 e 258 e' stata resa possibile, o soltanto agevolata, per colpa di chi era in possesso dell'atto o documento o a cognizione della notizia, questi e' punito con la reclusione da uno a cinque anni. Si applica la reclusione da tre a quindici anni se sono state compromesse la preparazione o la efficienza bellica dello Stato, ovvero le operazioni militari. Le stesse pene si applicano quando l'esecuzione dei delitti suddetti e' stata resa possibile o soltanto agevolata per colpa di chi aveva la custodia o la vigilanza dei luoghi o delle zone di terra, di acqua o di aria, nelle quali e' vietato l'accesso nell'interesse militare dello Stato.",
+    "caratteri": 721
+  },
+  "note": [],
+  "impronta": "sha256:c24af6c9154dd92250e3884d6fcd66496ecf9599393af4f5e58d81c43b3f189f"
+}

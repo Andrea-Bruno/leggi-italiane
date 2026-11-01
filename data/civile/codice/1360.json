@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1360",
+    "rubrica": "Retroattivita' della condizione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1360"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Gli effetti dell'avveramento della condizione retroagiscono al tempo in cui e' stato concluso il contratto, salvo che, per volonta' delle parti o per la natura del rapporto, gli effetti del contratto o della risoluzione debbano essere riportati a un momento diverso. Se pero' la condizione risolutiva e' apposta a un contratto ad esecuzione continuata o periodica, l'avveramento di essa, in mancanza di patto contrario, non ha effetto riguardo alle prestazioni gia' eseguite.",
+    "con_marcatori": "Art. 1360. (Retroattivita' della condizione). Gli effetti dell'avveramento della condizione retroagiscono al tempo in cui e' stato concluso il contratto, salvo che, per volonta' delle parti o per la natura del rapporto, gli effetti del contratto o della risoluzione debbano essere riportati a un momento diverso. Se pero' la condizione risolutiva e' apposta a un contratto ad esecuzione continuata o periodica, l'avveramento di essa, in mancanza di patto contrario, non ha effetto riguardo alle prestazioni gia' eseguite.",
+    "caratteri": 475
+  },
+  "note": [],
+  "impronta": "sha256:80f452b995bd6a0ab6b97ef29388432803284781c55e425640ea22ba2fb3345d"
+}

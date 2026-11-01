@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "911",
+    "rubrica": "Apertura di nuove sorgenti e altre opere",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art911"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chi vuole aprire sorgenti, stabilire capi o aste di fonte e in genere eseguire opere per estrarre acque dal sottosuolo o costruire canali o acquedotti, oppure scavarne, profondarne o allargarne il letto, aumentarne o diminuirne il pendio o variarne la forma, deve, oltre le distanze stabilite nell'art. 891, osservare le maggiori distanze ed eseguire le opere che siano necessarie per non recare pregiudizio ai fondi altrui, sorgenti, capi o aste di fonte, canali o acquedotti preesistenti e destinati all'irrigazione dei terreni o agli usi domestici o industriali.",
+    "con_marcatori": "Art. 911. (Apertura di nuove sorgenti e altre opere). Chi vuole aprire sorgenti, stabilire capi o aste di fonte e in genere eseguire opere per estrarre acque dal sottosuolo o costruire canali o acquedotti, oppure scavarne, profondarne o allargarne il letto, aumentarne o diminuirne il pendio o variarne la forma, deve, oltre le distanze stabilite nell'art. 891, osservare le maggiori distanze ed eseguire le opere che siano necessarie per non recare pregiudizio ai fondi altrui, sorgenti, capi o aste di fonte, canali o acquedotti preesistenti e destinati all'irrigazione dei terreni o agli usi domestici o industriali.",
+    "caratteri": 565
+  },
+  "note": [],
+  "impronta": "sha256:fb8f69ba5b7da440d83c97541fd4da0aa021a104a4a884dfe1e64253ca866a44"
+}

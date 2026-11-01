@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "258",
+    "rubrica": null,
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art258"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Effetti del riconoscimento. Il riconoscimento produce effetti riguardo al genitore da cui fu fatto e riguardo ai parenti di esso. L'atto di riconoscimento di uno solo dei genitori non puo' contenere indicazioni relative all'altro genitore. Queste indicazioni, qualora siano state fatte, sono senza effetto. Il pubblico ufficiale che le riceve e l'ufficiale dello stato civile che le riproduce sui registri dello stato civile sono puniti con l'ammenda da lire ventimila a lire ottantamila. Le indicazioni stesse devono essere cancellate.",
+    "con_marcatori": "Art. 258. Effetti del riconoscimento. ((Il riconoscimento produce effetti riguardo al genitore da cui fu fatto e riguardo ai parenti di esso)). L'atto di riconoscimento di uno solo dei genitori non puo' contenere indicazioni relative all'altro genitore. Queste indicazioni, qualora siano state fatte, sono senza effetto. Il pubblico ufficiale che le riceve e l'ufficiale dello stato civile che le riproduce sui registri dello stato civile sono puniti con l'ammenda da lire ventimila a lire ottantamila. Le indicazioni stesse devono essere cancellate.",
+    "caratteri": 536
+  },
+  "note": [],
+  "impronta": "sha256:68afc37e6382114e23995f83800b86761a883c4e1196a3ea7834a3214b3af6e0"
+}

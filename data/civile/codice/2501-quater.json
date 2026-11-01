@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2501-quater",
+    "rubrica": "Situazione patrimoniale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2501-quater"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "L'organo amministrativo delle societa' partecipanti alla fusione redige, con l'osservanza delle norme sul bilancio d'esercizio, la situazione patrimoniale delle societa' stesse, riferita ad una data non anteriore di oltre centoventi giorni al giorno in cui il progetto di fusione e' depositato nella sede della societa' ovvero pubblicato sul sito Internet di questa. La situazione patrimoniale puo' essere sostituita dal bilancio dell'ultimo esercizio, se questo e' stato chiuso non oltre sei mesi prima del giorno del deposito o della pubblicazione indicato nel primo comma, ovvero, nel caso di societa' quotata in mercati regolamentati, dalla relazione finanziaria semestrale prevista dalle leggi speciali, purche' non riferita ad una data antecedente sei mesi dal giorno di deposito o pubblicazione indicato al primo comma. La situazione patrimoniale non e' richiesta se vi rinunciano all'unanimita' i soci e i possessori di altri strumenti finanziari che attribuiscono il diritto di voto di ciascuna delle societa' partecipanti alla fusione.",
+    "con_marcatori": "Art. 2501-quater. (Situazione patrimoniale). L'organo amministrativo delle societa' partecipanti alla fusione ((redige)), con l'osservanza delle norme sul bilancio d'esercizio, la situazione patrimoniale delle societa' stesse, riferita ad una data non anteriore di oltre centoventi giorni al giorno in cui il progetto di fusione e' depositato nella sede della societa' ((ovvero pubblicato sul sito Internet di questa)). La situazione patrimoniale puo' essere sostituita dal bilancio dell'ultimo esercizio, se questo e' stato chiuso non oltre sei mesi prima ((del giorno del deposito o della pubblicazione indicato nel primo comma, ovvero, nel caso di societa' quotata in mercati regolamentati, dalla relazione finanziaria semestrale prevista dalle leggi speciali, purche' non riferita ad una data antecedente sei mesi dal giorno di deposito o pubblicazione indicato al primo comma)). ((La situazione patrimoniale non e' richiesta se vi rinunciano all'unanimita' i soci e i possessori di altri strumenti finanziari che attribuiscono il diritto di voto di ciascuna delle societa' partecipanti alla fusione.))",
+    "caratteri": 1045
+  },
+  "note": [],
+  "impronta": "sha256:0002e2a9dcfd0e233bec9f9e96eafb6145e5a486edf3f2fc2d2efd899a594014"
+}

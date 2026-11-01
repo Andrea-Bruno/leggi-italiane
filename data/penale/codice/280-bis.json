@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "280-bis",
+    "rubrica": "Atto di terrorismo con ordigni micidiali o esplosivi",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art280-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo che il fatto costituisca piu' grave reato, chiunque per finalita' di terrorismo compie qualsiasi atto diretto a danneggiare cose mobili o immobili altrui, mediante l'uso di dispositivi esplosivi o comunque micidiali, e' punito con la reclusione da due a cinque anni. Ai fini del presente articolo, per dispositivi esplosivi o comunque micidiali si intendono le armi e le materie ad esse assimilate indicate nell'articolo 585 e idonee a causare importanti danni materiali. Se il fatto e' diretto contro la sede della Presidenza della Repubblica, delle Assemblee legislative, della Corte costituzionale, di organi del Governo o comunque di organi previsti dalla Costituzione o da leggi costituzionali, la pena e' aumentata fino alla meta'. Se dal fatto deriva pericolo per l'incolumita' pubblica ovvero un grave danno per l'economia nazionale, si applica la reclusione da cinque a dieci anni. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con le aggravanti di cui al terzo e al quarto comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti.",
+    "con_marcatori": "Art. 280-bis. (( (Atto di terrorismo con ordigni micidiali o esplosivi).)) ((Salvo che il fatto costituisca piu' grave reato, chiunque per finalita' di terrorismo compie qualsiasi atto diretto a danneggiare cose mobili o immobili altrui, mediante l'uso di dispositivi esplosivi o comunque micidiali, e' punito con la reclusione da due a cinque anni. Ai fini del presente articolo, per dispositivi esplosivi o comunque micidiali si intendono le armi e le materie ad esse assimilate indicate nell'articolo 585 e idonee a causare importanti danni materiali. Se il fatto e' diretto contro la sede della Presidenza della Repubblica, delle Assemblee legislative, della Corte costituzionale, di organi del Governo o comunque di organi previsti dalla Costituzione o da leggi costituzionali, la pena e' aumentata fino alla meta'. Se dal fatto deriva pericolo per l'incolumita' pubblica ovvero un grave danno per l'economia nazionale, si applica la reclusione da cinque a dieci anni. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con le aggravanti di cui al terzo e al quarto comma, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti)).",
+    "caratteri": 1233
+  },
+  "note": [],
+  "impronta": "sha256:acd04f6041b6e51a414b02c5455ee33b8aab70ed6399aa5235f876b28eb72537"
+}

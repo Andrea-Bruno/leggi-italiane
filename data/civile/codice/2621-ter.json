@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2621-ter",
+    "rubrica": "Non punibilita' per particolare tenuita'",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2621-ter"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Ai fini della non punibilita' per particolare tenuita' del fatto, di cui all'articolo 131-bis del codice penale, il giudice valuta, in modo prevalente, l'entita' dell'eventuale danno cagionato alla societa', ai soci o ai creditori conseguente ai fatti di cui agli articoli 2621 e 2621-bis.",
+    "con_marcatori": "Art. 2621-ter (( (Non punibilita' per particolare tenuita'). )) ((Ai fini della non punibilita' per particolare tenuita' del fatto, di cui all'articolo 131-bis del codice penale, il giudice valuta, in modo prevalente, l'entita' dell'eventuale danno cagionato alla societa', ai soci o ai creditori conseguente ai fatti di cui agli articoli 2621 e 2621-bis)).",
+    "caratteri": 289
+  },
+  "note": [],
+  "impronta": "sha256:7944edbe07a056a94b751ae1f632e7699f9427895130d7d5e0e31286419c4ae0"
+}

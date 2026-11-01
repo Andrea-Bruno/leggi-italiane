@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "361",
+    "rubrica": "Omessa denuncia di reato da parte del pubblico ufficiale",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art361"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale, il quale omette o ritarda di denunciare all'Autorita' giudiziaria, o ad un'altra Autorita' che a quella abbia obbligo di riferirne, un reato di cui ha avuto notizia nell'esercizio o a causa delle sue funzioni, e' punito con la multa da lire trecento a cinquemila. La pena e' della reclusione fino ad un anno, se il colpevole e' un ufficiale o un agente di polizia giudiziaria, che ha avuto comunque notizia di un reato del quale doveva fare rapporto. Le disposizioni precedenti non si applicano se si tratta di delitto punibile a querela della persona offesa.",
+    "con_marcatori": "Art. 361. (Omessa denuncia di reato da parte del pubblico ufficiale) Il pubblico ufficiale, il quale omette o ritarda di denunciare all'Autorita' giudiziaria, o ad un'altra Autorita' che a quella abbia obbligo di riferirne, un reato di cui ha avuto notizia nell'esercizio o a causa delle sue funzioni, e' punito con la multa da lire trecento a cinquemila. La pena e' della reclusione fino ad un anno, se il colpevole e' un ufficiale o un agente di polizia giudiziaria, che ha avuto comunque notizia di un reato del quale doveva fare rapporto. Le disposizioni precedenti non si applicano se si tratta di delitto punibile a querela della persona offesa.",
+    "caratteri": 582
+  },
+  "note": [],
+  "impronta": "sha256:7b8db1b4cc79be89eca3df83658e3931c3aae98d94f6d8007e05fc1c6275c55b"
+}

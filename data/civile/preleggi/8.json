@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "8",
+    "rubrica": "Usi",
+    "sezione": "Disposizioni sulla legge in generale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art8"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nelle materie regolate dalle leggi e dai regolamenti gli usi hanno efficacia solo in quanto sono da essi richiamati. Le norme corporative prevalgono sugli usi, anche se richiamati dalle leggi e dai regolamenti, salvo che in esse sia diversamente disposto.",
+    "con_marcatori": "Art. 8. (Usi). Nelle materie regolate dalle leggi e dai regolamenti gli usi hanno efficacia solo in quanto sono da essi richiamati. Le norme corporative prevalgono sugli usi, anche se richiamati dalle leggi e dai regolamenti, salvo che in esse sia diversamente disposto.",
+    "caratteri": 255
+  },
+  "note": [],
+  "impronta": "sha256:b01064f972631de97c879307af2efaa47811398a3b06afb7251c08a148180803"
+}

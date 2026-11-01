@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2040",
+    "rubrica": "Rimborso di spese e di miglioramenti",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2040"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Colui al quale e' restituita la cosa e' tenuto a rimborsare il possessore delle spese e dei miglioramenti, a norma degli articoli 1149, 1150, 1151 e 1152.",
+    "con_marcatori": "Art. 2040. (Rimborso di spese e di miglioramenti). Colui al quale e' restituita la cosa e' tenuto a rimborsare il possessore delle spese e dei miglioramenti, a norma degli articoli 1149, 1150, 1151 e 1152.",
+    "caratteri": 154
+  },
+  "note": [],
+  "impronta": "sha256:9ed0a1c7febfd7aa7d573e901da585c6f35f1c4a384debd53024c4b78ad6e4e2"
+}

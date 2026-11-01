@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2553",
+    "rubrica": "Divisione degli utili e delle perdite",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2553"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Salvo patto contrario, l'associato partecipa alle perdite nella stessa misura in cui partecipa agli utili, ma le perdite che colpiscono l'associato non possono superare il valore del suo apporto.",
+    "con_marcatori": "Art. 2553. (Divisione degli utili e delle perdite). Salvo patto contrario, l'associato partecipa alle perdite nella stessa misura in cui partecipa agli utili, ma le perdite che colpiscono l'associato non possono superare il valore del suo apporto.",
+    "caratteri": 195
+  },
+  "note": [],
+  "impronta": "sha256:676ac324882b349cda79370771c12b8b4a91a0503c17cb49bf5da869450702a3"
+}

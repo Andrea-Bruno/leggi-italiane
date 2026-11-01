@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "328",
+    "rubrica": "Rifiuto di atti d'ufficio. Omissione",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art328"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il pubblico ufficiale o l'incaricato di un pubblico servizio, che indebitamente rifiuta un atto del suo uffico che, per ragioni di giustizia o di sicurezza pubblica, o di ordine pubblico o di igiene e sanita', deve essere compiuto senza ritardo, e' punito con la reclusione da sei mesi a due anni. Fuori dei casi previsti dal primo comma, il pubblico ufficiale o l'incaricato di un pubblico servizio, che entro trenta giorni dalla richiesta di chi vi abbia interesse non compie l'atto del suo ufficio e non risponde per esporre le ragioni del ritardo, e' punito con la reclusione fino ad un anno o con la multa fino a lire due milioni. Tale richiesta deve essere redatta in forma scritta ed il termine di trenta giorni decorrere dalla ricezione della richiesta stessa.",
+    "con_marcatori": "Art. 328. (( (Rifiuto di atti d'ufficio. Omissione). )) ((Il pubblico ufficiale o l'incaricato di un pubblico servizio, che indebitamente rifiuta un atto del suo uffico che, per ragioni di giustizia o di sicurezza pubblica, o di ordine pubblico o di igiene e sanita', deve essere compiuto senza ritardo, e' punito con la reclusione da sei mesi a due anni. Fuori dei casi previsti dal primo comma, il pubblico ufficiale o l'incaricato di un pubblico servizio, che entro trenta giorni dalla richiesta di chi vi abbia interesse non compie l'atto del suo ufficio e non risponde per esporre le ragioni del ritardo, e' punito con la reclusione fino ad un anno o con la multa fino a lire due milioni. Tale richiesta deve essere redatta in forma scritta ed il termine di trenta giorni decorrere dalla ricezione della richiesta stessa)).",
+    "caratteri": 768
+  },
+  "note": [],
+  "impronta": "sha256:282939fb4215a4595b6e4ce82243a962a8b49f59573cf81f49c816822935c476"
+}

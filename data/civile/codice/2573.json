@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2573",
+    "rubrica": "Trasferimento del marchio",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2573"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il marchio puo' essere trasferito o concesso in licenza per la totalita' o per una parte dei prodotti o servizi per i quali e' stato registrato, purche' in ogni caso dal trasferimento o dalla licenza non derivi inganno in quei caratteri dei prodotti o servizi che sono essenziali nell'apprezzamento del pubblico. Quando il marchio e' costituito da un segno figurativo, da una denominazione di fantasia o da una ditta derivata, si presume che il diritto all'uso esclusivo di esso sia trasferito insieme con l'azienda.",
+    "con_marcatori": "Art. 2573. (( (Trasferimento del marchio).)) ((Il marchio puo' essere trasferito o concesso in licenza per la totalita' o per una parte dei prodotti o servizi per i quali e' stato registrato, purche' in ogni caso dal trasferimento o dalla licenza non derivi inganno in quei caratteri dei prodotti o servizi che sono essenziali nell'apprezzamento del pubblico.)) Quando il marchio e' costituito da un segno figurativo, da una denominazione di fantasia o da una ditta derivata, si presume che il diritto all'uso esclusivo di esso sia trasferito insieme con l'azienda.",
+    "caratteri": 516
+  },
+  "note": [],
+  "impronta": "sha256:0a6910909d38498cc594f26c2607d888671fb6420e3fa74058cd367041f7b9e6"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1059",
+    "rubrica": "Servitu' concessa da uno dei comproprietari",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1059"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La servitu' concessa da uno dei comproprietari di un fondo indiviso non e' costituita se non quando gli altri l'hanno anch'essi concessa unitamente o separatamente. La concessione, pero', fatta da uno dei comproprietari, indipendentemente dagli altri, obbliga il concedente e i suoi eredi o aventi causa a non porre impedimento all'esercizio del diritto concesso.",
+    "con_marcatori": "Art. 1059. (Servitu' concessa da uno dei comproprietari). La servitu' concessa da uno dei comproprietari di un fondo indiviso non e' costituita se non quando gli altri l'hanno anch'essi concessa unitamente o separatamente. La concessione, pero', fatta da uno dei comproprietari, indipendentemente dagli altri, obbliga il concedente e i suoi eredi o aventi causa a non porre impedimento all'esercizio del diritto concesso.",
+    "caratteri": 363
+  },
+  "note": [],
+  "impronta": "sha256:36851c19f3d005abddc109c14a40a5a1866490a2d8dbc1a4ea6e024da7d31fc5"
+}

@@ -1,0 +1,167 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "284",
+    "rubrica": "Insurrezione armata contro i poteri dello Stato",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art284"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque promuove un'insurrezione armata contro i poteri dello Stato e' punito con l'ergastolo e, se l'insurrezione avviene, con la morte. Coloro che partecipano alla insurrezione sono puniti con la reclusione da tre a quindici anni; coloro che la dirigono, con la morte. La insurrezione si considera armata anche se le armi sono soltanto tenute in un luogo di deposito. 96a",
+    "con_marcatori": "Art. 284. (Insurrezione armata contro i poteri dello Stato) Chiunque promuove un'insurrezione armata contro i poteri dello Stato e' punito con l'ergastolo e, se l'insurrezione avviene, con la morte. (5) Coloro che partecipano alla insurrezione sono puniti con la reclusione da tre a quindici anni; coloro che la dirigono, con la morte. (5) La insurrezione si considera armata anche se le armi sono soltanto tenute in un luogo di deposito. (92)((96a))",
+    "caratteri": 374
+  },
+  "note": [
+    {
+      "numero": 5,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. Luogotenenziale 10 agosto 1944, n. 224",
+          "urn": "urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224",
+          "data": "1944-08-10",
+          "numero": "224",
+          "data_gazzetta": "1944-10-05"
+        },
+        {
+          "denominazione": "Codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. Luogotenenziale 10 agosto 1944, n. 224, ha disposto (con l'art. 1, commi 1 e 2) che \"Per i delitti preveduti nel Codice penale e' soppressa la pena di morte. Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo\"."
+    },
+    {
+      "numero": 92,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "L. 29 maggio 1982, n. 304",
+          "urn": "urn:nir:stato:legge:1982-05-29;304",
+          "data": "1982-05-29",
+          "numero": "304",
+          "data_gazzetta": "1982-06-02"
+        },
+        {
+          "denominazione": "articoli 241",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "276",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "280",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "283",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "284",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "285",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "286",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "289",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "295 del codice penale",
+          "urn": "urn:nir:stato:regioDecreto:1930-10-19;1398",
+          "data": "1930-10-19",
+          "numero": "1398",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.L. 1 ottobre 1982, n. 695",
+          "urn": "urn:nir:stato:decretoLegge:1982-10-01;695",
+          "data": "1982-10-01",
+          "numero": "695",
+          "data_gazzetta": "1982-10-02"
+        },
+        {
+          "denominazione": "L. 29 novembre 1982, n. 882",
+          "urn": "urn:nir:stato:legge:1982-11-29;882",
+          "data": "1982-11-29",
+          "numero": "882",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 12 della L. 29 maggio 1982, n. 304",
+          "urn": "urn:nir:stato:legge:1982-05-29;304",
+          "data": "1982-05-29",
+          "numero": "304",
+          "data_gazzetta": "1982-06-02"
+        }
+      ],
+      "sentenza": null,
+      "testo": "La L. 29 maggio 1982, n. 304, ha disposto (con l'art. 5, comma 2) che \"Se il colpevole di uno dei delitti previsti dagli articoli 241, 276, 280, 283, 284, 285, 286, 289 e 295 del codice penale coopera efficacemente ad impedire l'evento cui gli atti da lui commessi sono diretti soggiace soltanto alla pena per gli atti compiuti, qualora questi costituiscano per se' un reato diverso\". Ha inoltre disposto (con l'art. 12, comma 1) che la presente modifica si applica solo ai reati che siano stati commessi o la cui permanenza sia iniziata entro il 31 gennaio 1982, purche' i comportamenti cui e' condizionata la loro applicazione vengano tenuti entro centoventi giorni dall'entrata in vigore della presente legge. ------------ AGGIORNAMENTO (96a) Il D.L. 1 ottobre 1982, n. 695, convertito senza modificazioni dalla L. 29 novembre 1982, n. 882, nel modificare l'art. 12 della L. 29 maggio 1982, n. 304, ha conseguentemente disposto (con l'art. 1) che il termine di centoventi giorni previsto nel suindicato articolo, e' differito di ulteriori centoventi giorni."
+    }
+  ],
+  "impronta": "sha256:86869f14a0a75059b1841ff1fdab9e0732502d1057128216507a612944b316e6"
+}

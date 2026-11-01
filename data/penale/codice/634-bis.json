@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "634-bis",
+    "rubrica": "Occupazione arbitraria di immobile destinato a domicilio altrui",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art634-bis"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Chiunque, mediante violenza o minaccia, occupa o detiene senza titolo un immobile destinato a domicilio altrui o sue pertinenze, ovvero impedisce il rientro nel medesimo immobile del proprietario o di colui che lo detiene legittimamente, e' punito con la reclusione da due a sette anni. Alla stessa pena soggiace chiunque si appropria di un immobile destinato a domicilio altrui o di sue pertinenze con artifizi o raggiri ovvero cede ad altri l'immobile occupato. Fuori dei casi di concorso nel reato, chiunque si intromette o coopera nell'occupazione dell'immobile, ovvero riceve o corrisponde denaro o altra utilita' per l'occupazione medesima, soggiace alla pena prevista dal primo comma. Non e' punibile l'occupante che collabori all'accertamento dei fatti e ottemperi volontariamente all'ordine di rilascio dell'immobile. Il delitto e' punito a querela della persona offesa. Si procede d'ufficio se il fatto e' commesso nei confronti di persona incapace, per eta' o per infermita'.",
+    "con_marcatori": "Art. 634-bis. (( (Occupazione arbitraria di immobile destinato a domicilio altrui).)) ((Chiunque, mediante violenza o minaccia, occupa o detiene senza titolo un immobile destinato a domicilio altrui o sue pertinenze, ovvero impedisce il rientro nel medesimo immobile del proprietario o di colui che lo detiene legittimamente, e' punito con la reclusione da due a sette anni. Alla stessa pena soggiace chiunque si appropria di un immobile destinato a domicilio altrui o di sue pertinenze con artifizi o raggiri ovvero cede ad altri l'immobile occupato)). ((Fuori dei casi di concorso nel reato, chiunque si intromette o coopera nell'occupazione dell'immobile, ovvero riceve o corrisponde denaro o altra utilita' per l'occupazione medesima, soggiace alla pena prevista dal primo comma)). ((Non e' punibile l'occupante che collabori all'accertamento dei fatti e ottemperi volontariamente all'ordine di rilascio dell'immobile)). ((Il delitto e' punito a querela della persona offesa)). ((Si procede d'ufficio se il fatto e' commesso nei confronti di persona incapace, per eta' o per infermita')).",
+    "caratteri": 986
+  },
+  "note": [],
+  "impronta": "sha256:780691327e207b95f17fe88d4bceaf907ef79cf639ec9168821f4563101cd7f6"
+}

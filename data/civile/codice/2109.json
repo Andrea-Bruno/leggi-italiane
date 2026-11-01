@@ -1,0 +1,134 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2109",
+    "rubrica": "Periodo di riposo",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2109"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (parti indicate: comma 2, comma 3). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [
+      "comma 2",
+      "comma 3"
+    ],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 6,
+        "ambito": "commi"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 50,
+        "ambito": "parte"
+      },
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 69,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "Il prestatore di lavoro ha diritto ad un giorno di riposo ogni settimana, di regola in coincidenza con la domenica. Ha anche diritto, dopo un anno d'ininterrotto servizio, ad un periodo annuale di ferie retribuito, possibilmente continuativo, nel tempo che l'imprenditore stabilisce, tenuto conto delle esigenze dell'impresa e degli interessi del prestatore di lavoro. La durata di tale periodo e' stabilita dalla legge, dalle norme corporative, dagli usi o secondo equita'. L'imprenditore deve preventivamente comunicare al prestatore di lavoro il periodo stabilito per il godimento delle ferie. Non puo' essere computato nelle ferie il periodo di preavviso indicato nell'art. 2118.",
+    "con_marcatori": "Art. 2109. (Periodo di riposo). Il prestatore di lavoro ha diritto ad un giorno di riposo ogni settimana, di regola in coincidenza con la domenica. Ha anche diritto, dopo un anno d'ininterrotto servizio, ad un periodo annuale di ferie retribuito, possibilmente continuativo, nel tempo che l'imprenditore stabilisce, tenuto conto delle esigenze dell'impresa e degli interessi del prestatore di lavoro. La durata di tale periodo e' stabilita dalla legge, dalle norme corporative, dagli usi o secondo equita'. (6) L'imprenditore deve preventivamente comunicare al prestatore di lavoro il periodo stabilito per il godimento delle ferie. Non puo' essere computato nelle ferie il periodo di preavviso indicato nell'art. 2118. (50) ((69))",
+    "caratteri": 683
+  },
+  "note": [
+    {
+      "numero": 6,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "commi",
+      "parti": [
+        "comma 2",
+        "comma 3"
+      ],
+      "atti": [
+        {
+          "denominazione": "art. 2109, secondo comma, del Codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 36, terzo comma, della Costituzione",
+          "urn": "urn:nir:stato:costituzione:1947-12-27;const",
+          "data": "1947-12-27",
+          "numero": "const",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1963-05-10",
+        "numero": "66"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 7 - 10 maggio 1963, n. 66 (in G.U. 1a s.s. 18/05/1963, n. 132) ha dichiarato \"la illegittimita' costituzionale dell'art. 2109, secondo comma, del Codice civile, limitatamente all'inciso \"dopo un anno di ininterrotto servizio\", in riferimento all'art. 36, terzo comma, della Costituzione\"."
+    },
+    {
+      "numero": 50,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2109 cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1980-12-22",
+        "numero": "189"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 16 - 22 dicembre 1980, n. 189 (in G.U. 1a s.s. 31/12/1980, n. 357), ha dichiarato \"l'illegittimita' costituzionale dell'art. 2109 cod. civ. nella parte in cui non prevede il diritto a ferie retribuite anche per il lavoratore assunto in prova in caso di recesso dal contratto durante il periodo di prova medesimo\"."
+    },
+    {
+      "numero": 69,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2109 cod. civ.",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1987-12-30",
+        "numero": "616"
+      },
+      "testo": "La Corte Costituzionale, con sentenza 16 - 30 dicembre 1987, n. 616 (in G.U. 1a s.s. 08/01/1988, n. 1), ha dichiarato \"la illegittimita' costituzionale dell'art. 2109 cod. civ. nella parte in cui non prevede che la malattia insorta durante il periodo feriale ne sospenda il decorso\"."
+    }
+  ],
+  "impronta": "sha256:02e43610732b61738fadac797ced6da4751fd2135a64b556152e04391cfdc9c4"
+}

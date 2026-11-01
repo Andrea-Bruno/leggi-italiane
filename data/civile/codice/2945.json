@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2945",
+    "rubrica": "Effetti e durata dell'interruzione",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Per effetto dell'interruzione s'inizia un nuovo periodo di prescrizione. Se l'interruzione e' avvenuta mediante uno degli atti indicati dai primi due commi dell'art. 2943, la prescrizione non corre fino al momento in cui passa in giudicato la sentenza che definisce il giudizio. Se il processo si estingue, rimane fermo l'effetto interruttivo e il nuovo periodo di prescrizione comincia dalla data dell'atto interruttivo. Nel caso di arbitrato la prescrizione non corre dal momento della notificazione dell'atto contenente la domanda di arbitrato sino al momento in cui il lodo che definisce il giudizio non e' piu' impugnabile o passa in giudicato la sentenza resa sull'impugnazione.",
+    "con_marcatori": "Art. 2945. (Effetti e durata dell'interruzione). Per effetto dell'interruzione s'inizia un nuovo periodo di prescrizione. Se l'interruzione e' avvenuta mediante uno degli atti indicati dai primi due commi dell'art. 2943, la prescrizione non corre fino al momento in cui passa in giudicato la sentenza che definisce il giudizio. Se il processo si estingue, rimane fermo l'effetto interruttivo e il nuovo periodo di prescrizione comincia dalla data dell'atto interruttivo. ((Nel caso di arbitrato la prescrizione non corre dal momento della notificazione dell'atto contenente la domanda di arbitrato sino al momento in cui il lodo che definisce il giudizio non e' piu' impugnabile o passa in giudicato la sentenza resa sull'impugnazione)).",
+    "caratteri": 684
+  },
+  "note": [],
+  "impronta": "sha256:8115d1b6583e4488327667687b08d7340088fef6916648fd9f07b643b41dcee8"
+}

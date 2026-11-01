@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2445",
+    "rubrica": "Riduzione del capitale sociale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2445"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La riduzione del capitale sociale puo' aver luogo sia mediante liberazione dei soci dall'obbligo dei versamenti ancora dovuti, sia mediante rimborso del capitale ai soci, nei limiti ammessi dagli articoli 2327 e 2413. L'avviso di convocazione dell'assemblea deve indicare le ragioni e le modalita' della riduzione. Nel caso di societa' cui si applichi l'articolo 2357, terzo comma, la riduzione deve comunque effettuarsi con modalita' tali che le azioni proprie eventualmente possedute dopo la riduzione non eccedano la quinta parte del capitale sociale. La deliberazione puo' essere eseguita soltanto dopo novanta giorni dal giorno dell'iscrizione nel registro delle imprese, purche' entro questo termine nessun creditore sociale anteriore all'iscrizione abbia fatto opposizione. Il tribunale, quando ritenga infondato il pericolo di pregiudizio per i creditori oppure la societa' abbia prestato idonea garanzia, dispone che l'operazione abbia luogo nonostante l'opposizione.",
+    "con_marcatori": "Art. 2445. (Riduzione del capitale sociale). La riduzione del capitale sociale puo' aver luogo sia mediante liberazione dei soci dall'obbligo dei versamenti ancora dovuti, sia mediante rimborso del capitale ai soci, nei limiti ammessi dagli articoli 2327 e 2413. ((L'avviso di convocazione dell'assemblea deve indicare le ragioni e le modalita' della riduzione. Nel caso di societa' cui si applichi l'articolo 2357, terzo comma, la riduzione deve comunque effettuarsi con modalita' tali che le azioni proprie eventualmente possedute dopo la riduzione non eccedano la quinta parte del capitale sociale)). La deliberazione puo' essere eseguita soltanto dopo novanta giorni dal giorno dell'iscrizione nel registro delle imprese, purche' entro questo termine nessun creditore sociale anteriore all'iscrizione abbia fatto opposizione. Il tribunale, quando ritenga infondato il pericolo di pregiudizio per i creditori oppure la societa' abbia prestato idonea garanzia, dispone che l'operazione abbia luogo nonostante l'opposizione.",
+    "caratteri": 976
+  },
+  "note": [],
+  "impronta": "sha256:4c79e8645d59db14230c2b0f0e1f8e0dd657548994f47bad8601843291e15a7e"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "penale",
+    "denominazione": "Codice penale",
+    "atto": {
+      "titolo": "Approvazione del testo definitivo del Codice Penale.",
+      "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
+      "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
+      "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261101",
+      "codice_redazionale": "030U1398",
+      "gazzetta": {
+        "numero": 251,
+        "data": "1930-10-26"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
+    }
+  },
+  "articolo": {
+    "numero": "309",
+    "rubrica": "Banda armata: casi di non punibilita'",
+    "sezione": "Codice Penale",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art309"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Nei casi preveduti dagli articoli 306 e 307, non sono punibili coloro i quali, prima che sia commesso il delitto per cui la banda armata venne formata, e prima dell'ingiunzione dell'Autorita' o della forza pubblica, o immediatamente dopo tale ingiunzione: 1° disciolgono o, comunque, determinano lo scioglimento della banda; 2° non essendo promotori o capi della banda, si ritirano dalla banda stessa, ovvero si arrendono, senza opporre resistenza e consegnando o abbandonando le armi. Non sono parimenti punibili coloro i quali impediscono comunque che sia compiuta l'esecuzione del delitto per cui la banda e' stata formata.",
+    "con_marcatori": "Art. 309. (Banda armata: casi di non punibilita') Nei casi preveduti dagli articoli 306 e 307, non sono punibili coloro i quali, prima che sia commesso il delitto per cui la banda armata venne formata, e prima dell'ingiunzione dell'Autorita' o della forza pubblica, o immediatamente dopo tale ingiunzione: 1° disciolgono o, comunque, determinano lo scioglimento della banda; 2° non essendo promotori o capi della banda, si ritirano dalla banda stessa, ovvero si arrendono, senza opporre resistenza e consegnando o abbandonando le armi. Non sono parimenti punibili coloro i quali impediscono comunque che sia compiuta l'esecuzione del delitto per cui la banda e' stata formata.",
+    "caratteri": 626
+  },
+  "note": [],
+  "impronta": "sha256:9012032ea526c2c6d7ef73d3ed96abc32df3350f1c55a2eed3e66454ecc4c23a"
+}

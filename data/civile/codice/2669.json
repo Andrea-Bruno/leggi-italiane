@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2669",
+    "rubrica": "Trascrizione anteriore al pagamento dell'imposta di registro",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2669"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "La trascrizione puo' essere domandata, quantunque non sia stata ancora pagata l'imposta di registro a cui e' soggetto il titolo, se si tratta di atto pubblico ricevuto nello Stato o di sentenza pronunziata da un'autorita' giudiziaria dello Stato. COMMA ABROGATO DALLA L. 27 FEBBRAIO 1985, N. 52.",
+    "con_marcatori": "Art. 2669. (Trascrizione anteriore al pagamento dell'imposta di registro). La trascrizione puo' essere domandata, quantunque non sia stata ancora pagata l'imposta di registro a cui e' soggetto il titolo, se si tratta di atto pubblico ricevuto nello Stato o di sentenza pronunziata da un'autorita' giudiziaria dello Stato. ((COMMA ABROGATO DALLA L. 27 FEBBRAIO 1985, N. 52)).",
+    "caratteri": 295
+  },
+  "note": [],
+  "impronta": "sha256:a1bc825d36b5f0fc0b585828e156e5b5f4cdb2e6ce67ddd3022843a517de7d9e"
+}

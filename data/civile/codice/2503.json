@@ -1,0 +1,152 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "2503",
+    "rubrica": "Opposizione dei creditori",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2503"
+  },
+  "stato": {
+    "codice": "parzialmente_inapplicabile",
+    "inapplicabile": null,
+    "certezza": "media",
+    "motivazione": "Illegittimita costituzionale limitata a parti determinate (l'estensione non e' determinabile dalle note). Il numero complessivo dei commi non e' calcolato, verificare sul testo.",
+    "parti_non_applicabili": [],
+    "elementi": [
+      {
+        "tipo": "illegittimita_costituzionale",
+        "nota": 100,
+        "ambito": "parte"
+      }
+    ]
+  },
+  "testo": {
+    "vigente": "La fusione puo' essere attuata solo dopo sessanta giorni dall'ultima delle iscrizioni previste dall'articolo 2502-bis, salvo che consti il consenso dei creditori delle societa' che vi partecipano anteriori all'iscrizione o alla pubblicazione prevista nel terzo comma dell'articolo 2501-ter, o il pagamento dei creditori che non hanno dato il consenso, ovvero il deposito delle somme corrispondenti presso una banca, salvo che la relazione di cui all'articolo 2501-sexies sia redatta, per tutte le societa' partecipanti alla fusione, da un'unica societa' di revisione la quale asseveri, sotto la propria responsabilita' ai sensi del sesto comma dell'articolo 2501-sexies, che la situazione patrimoniale e finanziaria delle societa' partecipanti alla fusione rende non necessarie garanzie a tutela dei suddetti creditori. Se non ricorre alcuna di tali eccezioni, i creditori indicati al comma precedente possono, nel suddetto termine di sessanta giorni, fare opposizione. Si applica in tal caso l'ultimo comma dell'articolo 2445.",
+    "con_marcatori": "Art. 2503. (Opposizione dei creditori). La fusione puo' essere attuata solo dopo sessanta giorni dall'ultima delle iscrizioni previste dall'articolo 2502-bis, salvo che consti il consenso dei creditori delle societa' che vi partecipano anteriori all'iscrizione ((o alla pubblicazione)) prevista nel terzo comma dell'articolo 2501-ter, o il pagamento dei creditori che non hanno dato il consenso, ovvero il deposito delle somme corrispondenti presso una banca, salvo che la relazione di cui all'articolo 2501-sexies sia redatta, per tutte le societa' partecipanti alla fusione, da un'unica societa' di revisione la quale asseveri, sotto la propria responsabilita' ai sensi del sesto comma dell'articolo 2501-sexies, che la situazione patrimoniale e finanziaria delle societa' partecipanti alla fusione rende non necessarie garanzie a tutela dei suddetti creditori. Se non ricorre alcuna di tali eccezioni, i creditori indicati al comma precedente possono, nel suddetto termine di sessanta giorni, fare opposizione. Si applica in tal caso l'ultimo comma dell'articolo 2445.",
+    "caratteri": 1027
+  },
+  "note": [
+    {
+      "numero": 89,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "D.Lgs. 14 dicembre 1992, n. 481",
+          "urn": "urn:nir:stato:decretoLegislativo:1992-12-14;481",
+          "data": "1992-12-14",
+          "numero": "481",
+          "data_gazzetta": "1992-12-17"
+        },
+        {
+          "denominazione": "art. 2503, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 14 dicembre 1992, n. 481, ha disposto (con l'art. 25, comma 3) che \"Il termine previsto dall'art. 2503, primo comma, del codice civile e' ridotto a quindici giorni. \""
+    },
+    {
+      "numero": 93,
+      "effetto": "modifica",
+      "ambito": "non_determinato",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2503, primo comma, del codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "D.Lgs. 1 settembre 1993, n. 385",
+          "urn": "urn:nir:stato:decretoLegislativo:1993-09-01;385",
+          "data": "1993-09-01",
+          "numero": "385",
+          "data_gazzetta": "1993-09-30"
+        }
+      ],
+      "sentenza": null,
+      "testo": "Il D.Lgs. 1 settembre 1993, n. 385, ha disposto (con l'art. 57, comma 3) che \" Il termine previsto dall'art. 2503, primo comma, del codice civile e' ridotto a quindici giorni.\""
+    },
+    {
+      "numero": 100,
+      "effetto": "illegittimita_costituzionale",
+      "ambito": "parte",
+      "parti": [],
+      "atti": [
+        {
+          "denominazione": "art. 2503 codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 2499 codice civile",
+          "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+          "data": "1942-03-16",
+          "numero": "262",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 27 legge 11 marzo 1953 n. 87",
+          "urn": "urn:nir:stato:legge:1953-03-11;87",
+          "data": "1953-03-11",
+          "numero": "87",
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "art. 10 d.lgs. 16 gennaio 1991 n. 22",
+          "urn": "urn:nir:stato:decretoLegislativo:1991-01-16;22",
+          "data": "1991-01-16",
+          "numero": "22",
+          "data_gazzetta": "1991-01-23"
+        },
+        {
+          "denominazione": "direttive n. 78/855/CEE",
+          "urn": null,
+          "data": null,
+          "numero": null,
+          "data_gazzetta": null
+        },
+        {
+          "denominazione": "n. 82/891/CEE",
+          "urn": null,
+          "data": null,
+          "numero": null,
+          "data_gazzetta": null
+        }
+      ],
+      "sentenza": {
+        "organo": "Corte costituzionale",
+        "data": "1995-02-20",
+        "numero": "47"
+      },
+      "testo": "La Corte Costituzionale con sentenza 8-20 febbraio 1995, n. 47 (in G.U. 1a s.s. 01/03/1995, n. 9) ha dichiarato \"l'illegittimita' costituzionale dell'art. 2503 codice civile nella parte in cui non prevede che la liberazione dei soci illimitatamente responsabili per le obbligazioni sociali anteriori alla fusione consegua esclusivamente al consenso espresso o presunto, nei modi e nel termine di cui all'art. 2499 codice civile, dei creditori della societa' di persone partecipante alla fusione; Dichiara, ai sensi dell'art. 27 legge 11 marzo 1953 n. 87, l'illegittimita' costituzionale dell'art. 2503 codice civile, nel testo sostituito dall'art. 10 d.lgs. 16 gennaio 1991 n. 22 (di attuazione delle direttive n. 78/855/CEE e n. 82/891/CEE in materia di fusioni e scissioni societarie), nella parte in cui non prevede che la liberazione dei soci illimitatamente responsabili per le obbligazioni sociali anteriori alla fusione consegua esclusivamente al consenso espresso o presunto, nei modi e nel termine di cui all'art. 2499 codice civile, dei creditori della societa' di persone partecipante alla fusione.\""
+    }
+  ],
+  "impronta": "sha256:cf52bec1ae611d12cf338240e2e60313179b82aa090b24dd3a9384680d8c81aa"
+}

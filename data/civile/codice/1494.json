@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1494",
+    "rubrica": "Risarcimento del danno",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1494"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "In ogni caso il venditore e' tenuto verso il compratore al risarcimento del danno, se non prova di avere ignorato senza colpa i vizi della cosa. Il venditore deve altresi' risarcire al compratore i danni derivati dai vizi della cosa.",
+    "con_marcatori": "Art. 1494. (Risarcimento del danno). In ogni caso il venditore e' tenuto verso il compratore al risarcimento del danno, se non prova di avere ignorato senza colpa i vizi della cosa. Il venditore deve altresi' risarcire al compratore i danni derivati dai vizi della cosa.",
+    "caratteri": 233
+  },
+  "note": [],
+  "impronta": "sha256:f5e47ce2e0f6dc42a02b727d00a5b8e86f76aedddb9c261cb46893d25ba93052"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "leggi-italiane/articolo@1",
+  "codice": {
+    "id": "civile",
+    "denominazione": "Codice civile",
+    "atto": {
+      "titolo": "Approvazione del testo del Codice civile.",
+      "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
+      "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
+      "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101",
+      "codice_redazionale": "042U0262",
+      "gazzetta": {
+        "numero": 79,
+        "data": "1942-04-04"
+      },
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262"
+    }
+  },
+  "articolo": {
+    "numero": "1950",
+    "rubrica": "Regresso contro il debitore principale",
+    "sezione": "CODICE CIVILE",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1950"
+  },
+  "stato": {
+    "codice": "vigente",
+    "inapplicabile": false,
+    "certezza": "alta",
+    "motivazione": "Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.",
+    "parti_non_applicabili": [],
+    "elementi": []
+  },
+  "testo": {
+    "vigente": "Il fideiussore che ha pagato ha regresso contro il debitore principale, benche' questi non fosse consapevole della prestata fideiussione. Il regresso comprende il capitale, gli interessi e le spese che il fideiussore ha fatte dopo che ha denunziato al debitore principale le istanze proposte contro di lui. Il fideiussore inoltre ha diritto agli interessi legali sulle somme pagate dal giorno del pagamento. Se il debito principale produceva interessi in misura superiore al saggio legale, il fideiussore ha diritto a questi fino al rimborso del capitale. Se il debitore e' incapace, il regresso del fideiussore e' ammesso solo nei limiti di cio' che sia stato rivolto a suo vantaggio.",
+    "con_marcatori": "Art. 1950. (Regresso contro il debitore principale). Il fideiussore che ha pagato ha regresso contro il debitore principale, benche' questi non fosse consapevole della prestata fideiussione. Il regresso comprende il capitale, gli interessi e le spese che il fideiussore ha fatte dopo che ha denunziato al debitore principale le istanze proposte contro di lui. Il fideiussore inoltre ha diritto agli interessi legali sulle somme pagate dal giorno del pagamento. Se il debito principale produceva interessi in misura superiore al saggio legale, il fideiussore ha diritto a questi fino al rimborso del capitale. Se il debitore e' incapace, il regresso del fideiussore e' ammesso solo nei limiti di cio' che sia stato rivolto a suo vantaggio.",
+    "caratteri": 685
+  },
+  "note": [],
+  "impronta": "sha256:5444ce7c73fd1cefed5f23ba14825306fef34e943a5490f8620865e18688dc3e"
+}
