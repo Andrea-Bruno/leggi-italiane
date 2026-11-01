@@ -40,6 +40,19 @@ generale, che ripartono da 1.
 | `note` | Note ufficiali di aggiornamento, strutturate |
 | `impronta` | `sha256:` del contenuto normativo (testo, note, stato) |
 
+### Fonti citabili
+
+Ogni articolo porta due link, entrambi a siti istituzionali, così che chi riceve un parere
+possa verificarlo senza fidarsi di chi lo ha prodotto:
+
+- `articolo.url` — il testo consolidato su Normattiva, con l'ancora all'articolo
+  (`…;262~art2043`): è il formato che Normattiva usa nei propri collegamenti interni;
+- `codice.atto.gazzetta.url` — il PDF della pubblicazione originale dell'atto in Gazzetta
+  Ufficiale. È l'atto come pubblicato, non il testo aggiornato: serve a verificare l'atto
+  di partenza, non le modifiche successive.
+
+Il campo `impronta` dice se il contenuto normativo è cambiato dall'ultima lettura.
+
 ### `stato`
 
 | Campo | Valori | Uso |

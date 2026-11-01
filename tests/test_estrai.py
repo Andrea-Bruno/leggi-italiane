@@ -249,7 +249,14 @@ class Pagina(unittest.TestCase):
         self.assertEqual(dati["akn"]["codice_redazionale"], "042U0262")
         self.assertEqual(dati["akn"]["data_gu"], "19420404")
         self.assertEqual(dati["eli"], "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261101")
-        self.assertEqual(dati["gazzetta"], {"numero": 79, "data": "1942-04-04"})
+        self.assertEqual(
+            dati["gazzetta"],
+            {
+                "numero": 79,
+                "data": "1942-04-04",
+                "url": "https://www.gazzettaufficiale.it/eli/gu/1942/04/04/79/sg/pdf",
+            },
+        )
         self.assertEqual(dati["titolo"], "Approvazione del testo del Codice civile.")
         self.assertEqual(dati["denominazione_atto"], "REGIO DECRETO 16 marzo 1942, n. 262")
 

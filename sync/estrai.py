@@ -148,12 +148,14 @@ def leggi_pagina(contenuto: str) -> dict:
             dati["eli"] = f"eli/id/{m.group(1)}/CONSOLIDATED/{m.group(2)}"
 
     m = re.search(
-        r"gazzettaufficiale\.it/eli/gu/(\d{4})/(\d{2})/(\d{2})/(\d+)/", contenuto
+        r"(https://www\.gazzettaufficiale\.it/eli/gu/(\d{4})/(\d{2})/(\d{2})/(\d+)/(?:sg|so)/pdf)",
+        contenuto,
     )
     if m:
         dati["gazzetta"] = {
-            "numero": int(m.group(4)),
-            "data": f"{m.group(1)}-{m.group(2)}-{m.group(3)}",
+            "numero": int(m.group(5)),
+            "data": f"{m.group(2)}-{m.group(3)}-{m.group(4)}",
+            "url": m.group(1),
         }
 
     m = re.search(r'<meta name="description" content="([^"]+)"', contenuto)

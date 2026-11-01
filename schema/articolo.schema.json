@@ -29,10 +29,15 @@
             "gazzetta": {
               "type": ["object", "null"],
               "additionalProperties": false,
-              "required": ["numero", "data"],
+              "required": ["numero", "data", "url"],
               "properties": {
                 "numero": { "type": "integer" },
-                "data": { "type": "string", "format": "date" }
+                "data": { "type": "string", "format": "date" },
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "description": "Pubblicazione originale dell'atto in Gazzetta Ufficiale (PDF), non il testo consolidato."
+                }
               }
             },
             "url": { "type": "string", "format": "uri" }

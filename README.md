@@ -82,7 +82,10 @@ controllo umano. Il campo `elementi` elenca le note che hanno prodotto lo stato.
 1. leggi `data/<codice>/index.json` per trovare l'articolo e il suo stato;
 2. apri `data/<codice>/<sezione>/<numero>.json` per testo, note e motivazione;
 3. non dedurre la validità dal solo testo: usa `stato`, e quando è `da_verificare` o
-   `parzialmente_inapplicabile` riporta la motivazione e le note, senza concludere.
+   `parzialmente_inapplicabile` riporta la motivazione e le note, senza concludere;
+4. allega sempre il link ufficiale: `articolo.url` porta al testo consolidato su Normattiva,
+   `codice.atto.gazzetta.url` al PDF della pubblicazione in Gazzetta. Chi legge può così
+   controllare la fonte invece di fidarsi della risposta.
 
 L'indice contiene `numero`, `rubrica`, `sezione`, `stato` e `percorso` per ogni articolo;
 il percorso è senza estensione, quindi `codice/2043` indica sia `2043.json` sia `2043.md`.

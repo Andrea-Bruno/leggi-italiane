@@ -11,4 +11,6 @@ Per i delitti di cui all'articolo 407, comma 2, lettera a), numeri da 1) a 6), d
 
 ---
 
-Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale.
+Fonti ufficiali: [Testo consolidato su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art69-bis) · [Gazzetta Ufficiale n. 251 del 1930-10-26](https://www.gazzettaufficiale.it/eli/gu/1930/10/26/251/sg/pdf).
+
+Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale; il link alla Gazzetta porta alla pubblicazione originale dell'atto, non al testo consolidato.
