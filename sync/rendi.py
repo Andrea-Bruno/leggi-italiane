@@ -96,7 +96,7 @@ def markdown_articolo(record: dict) -> str:
     righe = [
         f"# Art. {articolo['numero']} — {rubrica}",
         "",
-        f"{contesto} · [testo ufficiale]({articolo['url']})",
+        f"{contesto} · [atto su Normattiva]({articolo['url']})",
         "",
         f"> **{ETICHETTE[stato['codice']]}** — certezza {stato['certezza']}",
         f"> {stato['motivazione']}",
@@ -108,7 +108,10 @@ def markdown_articolo(record: dict) -> str:
         righe += ["", "## Note di aggiornamento", ""]
         righe.append("\n\n".join(_nota_md(nota) for nota in record["note"]))
     gazzetta = codice["atto"]["gazzetta"]
-    fonti = [f"[Testo consolidato su Normattiva]({articolo['url']})"]
+    fonti = [
+        f"[{codice['denominazione']} su Normattiva]({articolo['url']})"
+        " — l'articolo si individua con il numero indicato sopra"
+    ]
     if gazzetta:
         fonti.append(
             f"[Gazzetta Ufficiale n. {gazzetta['numero']} del {gazzetta['data']}]"
@@ -123,7 +126,7 @@ def markdown_articolo(record: dict) -> str:
         "Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello "
         "Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale; il link "
         "alla Gazzetta porta alla pubblicazione originale dell'atto, non al testo "
-        "consolidato.",
+        "consolidato. Normattiva non espone un permalink per il singolo articolo.",
         "",
     ]
     return "\n".join(righe)

@@ -32,7 +32,7 @@ generale, che ripartono da 1.
 | `articolo.numero` | Numero come pubblicato |
 | `articolo.rubrica` | Rubrica ufficiale, `null` se assente nel testo |
 | `articolo.sezione` | Sezione dell'export (es. `CODICE CIVILE`) |
-| `articolo.url` | Link al testo ufficiale, con ancora all'articolo quando possibile |
+| `articolo.url` | Permalink URN-NIR dell'atto su Normattiva |
 | `stato` | Esito deterministico, vedi sotto |
 | `testo.vigente` | Testo consolidato, senza richiami alle note né doppie parentesi |
 | `testo.con_marcatori` | Testo come pubblicato, con `((n))` e `((testo modificato))` |
@@ -42,11 +42,13 @@ generale, che ripartono da 1.
 
 ### Fonti citabili
 
-Ogni articolo porta due link, entrambi a siti istituzionali, così che chi riceve un parere
-possa verificarlo senza fidarsi di chi lo ha prodotto:
+Ogni articolo porta due link a siti istituzionali:
 
-- `articolo.url` — il testo consolidato su Normattiva, con l'ancora all'articolo
-  (`…;262~art2043`): è il formato che Normattiva usa nei propri collegamenti interni;
+- `articolo.url` — il permalink URN-NIR dell'atto su Normattiva, lo stesso che il portale
+  documenta nella sua pagina «Permalink». Normattiva **non** espone un permalink per il
+  singolo articolo: il link apre l'atto e l'articolo si individua con il numero, che è nel
+  titolo del file e in `articolo.numero`. La forma `…~art2043`, usata in passato da questo
+  dataset, è stata provata e apre l'articolo 1: non va usata.
 - `codice.atto.gazzetta.url` — il PDF della pubblicazione originale dell'atto in Gazzetta
   Ufficiale. È l'atto come pubblicato, non il testo aggiornato: serve a verificare l'atto
   di partenza, non le modifiche successive.

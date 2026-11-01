@@ -95,7 +95,9 @@ def sincronizza(codice: dict, client: Normattiva, forza: bool, prova: bool) -> d
         percorso = Path(sezione) / _nome_file(articolo["numero"])
         presenti.add(percorso)
         stato = estrai.valuta_stato(articolo["testo"], articolo["note"])
-        record = rendi.componi(contesto, articolo, stato, _url_articolo(codice, articolo))
+        record = rendi.componi(
+            contesto, articolo, stato, contesto["atto"]["url"]
+        )
         esito = _scrivi_coppia(cartella, percorso, record, prova)
         creati += esito == "creato"
         aggiornati += esito == "aggiornato"
@@ -150,12 +152,6 @@ def _contesto(codice: dict, meta: dict, urn_atto: str | None) -> dict:
 
 def _nome_file(numero: str) -> str:
     return numero.replace("/", "-").replace(".", "-").replace(" ", "")
-
-
-def _url_articolo(codice: dict, articolo: dict) -> str:
-    base = f"{BASE}/uri-res/N2Ls?{codice['urn']}"
-    numero = articolo["numero"]
-    return f"{base}~art{numero}" if numero.replace("-", "").isalnum() else base
 
 
 def _voce(articolo: dict, stato: dict, percorso: Path) -> dict:

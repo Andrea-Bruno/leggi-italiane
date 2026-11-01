@@ -83,7 +83,8 @@ controllo umano. Il campo `elementi` elenca le note che hanno prodotto lo stato.
 2. apri `data/<codice>/<sezione>/<numero>.json` per testo, note e motivazione;
 3. non dedurre la validità dal solo testo: usa `stato`, e quando è `da_verificare` o
    `parzialmente_inapplicabile` riporta la motivazione e le note, senza concludere;
-4. allega sempre il link ufficiale: `articolo.url` porta al testo consolidato su Normattiva,
+4. allega sempre il link ufficiale: `articolo.url` porta al codice su Normattiva — il
+   permalink è per atto, quindi indica anche il numero dell'articolo — e
    `codice.atto.gazzetta.url` al PDF della pubblicazione in Gazzetta. Chi legge può così
    controllare la fonte invece di fidarsi della risposta.
 

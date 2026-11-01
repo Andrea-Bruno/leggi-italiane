@@ -1,6 +1,6 @@
 # Art. 319-quater — Induzione indebita a dare o promettere utilita'
 
-**Codice penale** · [testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art319-quater)
+**Codice penale** · [atto su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398)
 
 > **In vigore** — certezza alta
 > Nessuna abrogazione o dichiarazione di illegittimita' rilevata nelle note dell'articolo.
@@ -19,6 +19,6 @@ Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n.
 
 ---
 
-Fonti ufficiali: [Testo consolidato su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art319-quater) · [Gazzetta Ufficiale n. 251 del 1930-10-26](https://www.gazzettaufficiale.it/eli/gu/1930/10/26/251/sg/pdf).
+Fonti ufficiali: [Codice penale su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398) — l'articolo si individua con il numero indicato sopra · [Gazzetta Ufficiale n. 251 del 1930-10-26](https://www.gazzettaufficiale.it/eli/gu/1930/10/26/251/sg/pdf).
 
-Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale; il link alla Gazzetta porta alla pubblicazione originale dell'atto, non al testo consolidato.
+Dati generati automaticamente da Normattiva (Istituto Poligrafico e Zecca dello Stato). Il testo ufficiale e' quello pubblicato in Gazzetta Ufficiale; il link alla Gazzetta porta alla pubblicazione originale dell'atto, non al testo consolidato. Normattiva non espone un permalink per il singolo articolo.
