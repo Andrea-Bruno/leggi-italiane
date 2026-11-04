@@ -1,7 +1,7 @@
 {
   "schema": "leggi-italiane/aggiornamenti@1",
   "codice": "civile",
-  "aggiornato_al": "2026-11-03",
+  "aggiornato_al": "2026-11-04",
   "eventi": [
     {
       "data_gazzetta": "1944-02-09",
@@ -18979,6 +18979,21 @@
             "2635-quater"
           ],
           "descrizione": "ha disposto (con l'art. 5, comma 1) l'introduzione dell'art. 2635-quater."
+        }
+      ]
+    },
+    {
+      "data_gazzetta": "2026-10-23",
+      "atti": [
+        "Il DECRETO-LEGGE 23 ottobre 2026, n. 193 (in G.U. 23/10/2026, n.247)"
+      ],
+      "effetti": [
+        {
+          "azione": "modifica",
+          "articoli": [
+            "1677-bis"
+          ],
+          "descrizione": "ha disposto (con l'art. 4, comma 1) la modifica dell'art. 1677-bis."
         }
       ]
     }
