@@ -8,7 +8,7 @@
       "denominazione": "REGIO DECRETO 16 marzo 1942, n. 262",
       "urn": "urn:nir:stato:codice.civile:1942-03-16;262",
       "urn_atto": "urn:nir:stato:regio.decreto:1942-03-16;262",
-      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261104",
+      "eli": "eli/id/1942/04/04/042U0262/CONSOLIDATED/20261105",
       "codice_redazionale": "042U0262",
       "gazzetta": {
         "numero": 79,
@@ -33,10 +33,10 @@
     "elementi": []
   },
   "testo": {
-    "vigente": "Se l'appalto ha per oggetto la prestazione di servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano in ogni caso le norme relative al contratto di trasporto.",
-    "con_marcatori": "Art. 1677-bis. (( (Prestazione di piu' servizi riguardanti il trasferimento di cose). )) ((Se l'appalto ha per oggetto la prestazione di servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano in ogni caso le norme relative al contratto di trasporto)).",
-    "caratteri": 346
+    "vigente": ". Se l'appalto ha per oggetto la prestazione di servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano in ogni caso le norme relative al contratto di trasporto.",
+    "con_marcatori": "Art. 1677-bis. (( (Prestazione di piu' servizi riguardanti il trasferimento di cose). )). ((Se l'appalto ha per oggetto la prestazione di servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano in ogni caso le norme relative al contratto di trasporto)).",
+    "caratteri": 348
   },
   "note": [],
-  "impronta": "sha256:20e80ce18a7eda3ca9f2cd8b566f904b32dd5482f1baccd03f02dafb917388eb"
+  "impronta": "sha256:3fb081b6601954741b574b81972ccd2645dda90821ac90876d5ebba2e6fb3ab1"
 }
