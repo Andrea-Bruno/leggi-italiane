@@ -1,6 +1,6 @@
 # Codice penale — indice degli articoli
 
-Aggiornato al 2026-11-09. 1001 articoli. [Testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398)
+Aggiornato al 2026-11-10. 1001 articoli. [Testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398)
 
 | Articolo | Rubrica | Stato |
 | --- | --- | --- |
