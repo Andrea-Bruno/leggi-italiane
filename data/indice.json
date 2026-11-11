@@ -1,12 +1,12 @@
 {
   "schema": "leggi-italiane/indici@1",
-  "aggiornato_al": "2026-11-10",
+  "aggiornato_al": "2026-11-11",
   "codici": [
     {
       "codice": "civile",
       "denominazione": "Codice civile",
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262",
-      "aggiornato_al": "2026-11-10",
+      "aggiornato_al": "2026-11-11",
       "articoli": 3281,
       "conteggi": {
         "totale": 3281,
@@ -22,7 +22,7 @@
       "codice": "penale",
       "denominazione": "Codice penale",
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398",
-      "aggiornato_al": "2026-11-10",
+      "aggiornato_al": "2026-11-11",
       "articoli": 1001,
       "conteggi": {
         "totale": 1001,
