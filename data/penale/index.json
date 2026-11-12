@@ -8,7 +8,7 @@
       "denominazione": "REGIO DECRETO 19 ottobre 1930, n. 1398",
       "urn": "urn:nir:stato:codice.penale:1930-10-19;1398",
       "urn_atto": "urn:nir:stato:regio.decreto:1930-10-19;1398",
-      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261111",
+      "eli": "eli/id/1930/10/26/030U1398/CONSOLIDATED/20261112",
       "codice_redazionale": "030U1398",
       "gazzetta": {
         "numero": 251,
@@ -18,7 +18,7 @@
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398"
     }
   },
-  "aggiornato_al": "2026-11-11",
+  "aggiornato_al": "2026-11-12",
   "conteggi": {
     "totale": 1001,
     "vigente": 809,
