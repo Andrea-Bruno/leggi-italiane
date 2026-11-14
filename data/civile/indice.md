@@ -1,6 +1,6 @@
 # Codice civile — indice degli articoli
 
-Aggiornato al 2026-11-13. 3281 articoli. [Testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262)
+Aggiornato al 2026-11-14. 3281 articoli. [Testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262)
 
 | Articolo | Rubrica | Stato |
 | --- | --- | --- |
