@@ -1,6 +1,6 @@
 # Codice civile — indice degli articoli
 
-Aggiornato al 2026-11-19. 3281 articoli. [Testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262)
+Aggiornato al 2026-11-20. 3281 articoli. [Testo ufficiale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262)
 
 | Articolo | Rubrica | Stato |
 | --- | --- | --- |
@@ -311,7 +311,7 @@ Aggiornato al 2026-11-19. 3281 articoli. [Testo ufficiale](https://www.normattiv
 | [291](codice/291.md) | Condizioni | Parzialmente inapplicabile |
 | [292](codice/292.md) |  | Abrogato |
 | [293](codice/293.md) |  | In vigore |
-| [294](codice/294.md) | Pluralita' di adottati o di adottanti | In vigore |
+| [294](codice/294.md) | Pluralita' di adottati o di adottanti | Parzialmente inapplicabile |
 | [295](codice/295.md) | Adozione da parte del tutore | In vigore |
 | [296](codice/296.md) | Consenso per l'adozione | In vigore |
 | [297](codice/297.md) |  | In vigore |

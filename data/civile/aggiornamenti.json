@@ -1,7 +1,7 @@
 {
   "schema": "leggi-italiane/aggiornamenti@1",
   "codice": "civile",
-  "aggiornato_al": "2026-11-19",
+  "aggiornato_al": "2026-11-20",
   "eventi": [
     {
       "data_gazzetta": "1944-02-09",
@@ -18994,6 +18994,21 @@
             "1677-bis"
           ],
           "descrizione": "ha disposto (con l'art. 4, comma 1) la modifica dell'art. 1677-bis."
+        }
+      ]
+    },
+    {
+      "data_gazzetta": "2026-11-18",
+      "atti": [
+        "La Corte costituzionale, con sentenza 7 ottobre 2026, n. 195 (in G.U. 18/11/2026 n. 46)"
+      ],
+      "effetti": [
+        {
+          "azione": "illegittimita_costituzionale",
+          "articoli": [
+            "294"
+          ],
+          "descrizione": "ha dichiarato l'illegittimità costituzionale dell'art. 294, comma 2."
         }
       ]
     }
