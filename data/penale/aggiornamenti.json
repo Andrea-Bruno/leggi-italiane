@@ -1,7 +1,7 @@
 {
   "schema": "leggi-italiane/aggiornamenti@1",
   "codice": "penale",
-  "aggiornato_al": "2026-11-20",
+  "aggiornato_al": "2026-11-21",
   "eventi": [
     {
       "data_gazzetta": "1942-03-05",
@@ -16295,6 +16295,21 @@
         "ha disposto (con l'art. 1, comma 6) l'introduzione dell'art. 635.1."
       ],
       "effetti": []
+    },
+    {
+      "data_gazzetta": "2026-11-18",
+      "atti": [
+        "La Corte costituzionale, con sentenza 5 ottobre 2026, n. 196 (in G.U. 18/11/2026 n. 46)"
+      ],
+      "effetti": [
+        {
+          "azione": "illegittimita_costituzionale",
+          "articoli": [
+            "2"
+          ],
+          "descrizione": "ha dichiarato l'illegittimità costituzionale dell'art. 2, comma 1, lettera l) del D.Lgs. 15 gennaio 2016, n. 7 (in G.U. 22/01/2016, n. 17)."
+        }
+      ]
     }
   ]
 }
